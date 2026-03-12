@@ -293592,5 +293592,1415 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "thorax",
+		"word": "Thorax",
+		"part_of_speech": "noun",
+		"meaning": "胸部、情報の動力の中枢",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thorax",
+					"type": "root",
+					"meaning": "breastplate, chest"
+				}
+			],
+			"original_statement": "From Greek thorax."
+		},
+		"core_concept": {
+			"en": "part of the body of a mammal between the neck and the abdomen; middle section of an insect",
+			"ja": "生命の情報の『鎧（breastplate）』であり、運動のエネルギーを峻烈に生み出す中枢（engine）。"
+		},
+		"thinking_layer": "胸当て。昆虫においては三対の脚と二対の翼を峻烈に統合し、移動という名の情報の意志を物理的な爆発へと変換する、鋼の情報の心臓。 ",
+		"aftertaste": "硬質な殻の中に、凄絶なる筋肉の律動を秘めているという、機能美への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"かつては戦士の防具。今は生命の『動力室』のメタファー。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "abdomen",
+		"word": "Abdomen",
+		"part_of_speech": "noun",
+		"meaning": "腹部、情報の深き胎内、蓄積",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "abdere",
+					"type": "root",
+					"meaning": "to hide, conceal"
+				}
+			],
+			"original_statement": "Probably from Latin abdere."
+		},
+		"core_concept": {
+			"en": "part of the body that contains the digestive and reproductive organs",
+			"ja": "情報の『隠された（hide）』深淵。生命の維持と継承という名の、もっとも重厚な演算の場。"
+		},
+		"thinking_layer": "隠す場所。物理的な攻撃（thorax）を峻烈に避け、内なる柔らかき真実としての内臓を秘匿し、生存という名の情報を粛々と処理、あるいは蓄積する、生命の情報の『蔵』。",
+		"aftertaste": "柔らかきその部位が、全未来の設計図を峻烈に守り抜いているという、静かなる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ab- (away) + dere (put)。情報の秘匿。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mandible",
+		"word": "Mandible",
+		"part_of_speech": "noun",
+		"meaning": "大顎（おおあご）、情報の峻烈な粉砕機",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mandere",
+					"type": "root",
+					"meaning": "to chew"
+				}
+			],
+			"original_statement": "From Latin mandibula."
+		},
+		"core_concept": {
+			"en": "jaw or a jawbone, especially the lower jaw; either of the upper pair of jaws in insects",
+			"ja": "他者の実存を峻烈に『噛み砕き（chew）』、自らの情報の糧へと変換する暴力。"
+		},
+		"thinking_layer": "噛むためのもの。世界の物質という名の情報の抵抗を峻烈に粉砕し、自らの内なる秩序へと招き入れるための、外に向かって剥き出しにされた情報の『否定』。 ",
+		"aftertaste": "ただ噛むという行為の背後に潜む、生存という名の、峻烈なる破壊衝動への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mange, jaw と遠い関係。情報の解体。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "exoskeleton",
+		"word": "Exoskeleton",
+		"part_of_speech": "noun",
+		"meaning": "外骨格、情報の堅牢な境界、反転した自己",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "exo-",
+					"type": "prefix",
+					"meaning": "outside"
+				},
+				{
+					"text": "skeleton",
+					"type": "root",
+					"meaning": "dried body, skeleton"
+				}
+			],
+			"original_statement": "From Greek exo- + skeleton."
+		},
+		"core_concept": {
+			"en": "rigid external covering for the body in some invertebrate animals",
+			"ja": "自己という名の情報の核心を、峻烈な情報の『外壁（outside）』として天へ曝す。"
+		},
+		"thinking_layer": "外側の骨。柔らかき内面という名の情報の『弱さ』を峻烈に拒絶し、全身を硬質な情報の『武装』で包み込むことで、自己を一つの完成した戦闘単位（unit）へと反転させる、情報の極限の防衛。",
+		"aftertaste": "骨の無い内面を、完璧な外部の秩序が支えているという、構造論的な情報のパラドックス。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dry (乾く) から。死せる硬質な情報による生。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chitin",
+		"word": "Chitin",
+		"part_of_speech": "noun",
+		"meaning": "キチン、情報の強靭な膜、沈黙する鎧",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khiton",
+					"type": "root",
+					"meaning": "tunic, garment"
+				}
+			],
+			"original_statement": "From Greek khiton 'tunic'."
+		},
+		"core_concept": {
+			"en": "fibrous substance consisting of polysaccharides, the major constituent in the exoskeleton of arthropods",
+			"ja": "生命の情報の最表面を、峻烈な情報の『下着（tunic）』で強固に被膜する。"
+		},
+		"thinking_layer": "チュニック（衣服）。単なる物質を、峻烈な重合（polymerization）によって鋼鉄にも勝る実用的な強靭さへと練成し、外部の情報の浸食（desiccation/impact）を冷徹に拒む、生命の情報の最終防衛ライン。 ",
+		"aftertaste": "爪先で叩いたときのその硬い乾いた音に、生命が自らを峻烈に管理している誇りを感じる。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"coat, tunic と同根。情報を包み、守ること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ecdysis",
+		"word": "Ecdysis",
+		"part_of_speech": "noun",
+		"meaning": "脱皮、情報の脱ぎ捨て、再生の苦悶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ek-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "dyein",
+					"type": "root",
+					"meaning": "to put on, get into"
+				}
+			],
+			"original_statement": "From Greek ekdusis 'a stripping off'."
+		},
+		"core_concept": {
+			"en": "the process of shedding the old skin or casting off the outer layer",
+			"ja": "昨日の自己という名の情報の『皮』を峻烈に脱ぎ捨て、より巨大な情報の『未来』へと這い出す。"
+		},
+		"thinking_layer": "抜け出すこと。成長という名の情報の拡張が、既存という名の情報の『殻』を限界まで引き裂いたとき、生身の肉体を一時的に極限の危険に曝してでも、新たな自己を現出させる、情報の革命的な転換。 ",
+		"aftertaste": "残された透明な抜け殻に、過去という名の情報の死と、超越の凄烈な跡を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"clothes (服) を脱ぎ捨てるのと同じ論理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nymph",
+		"word": "Nymph",
+		"part_of_speech": "noun",
+		"meaning": "不完全変態の幼虫、情報の若き処女、未完成の美",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nymphe",
+					"type": "root",
+					"meaning": "bride, young girl"
+				}
+			],
+			"original_statement": "From Greek nymphe."
+		},
+		"core_concept": {
+			"en": "immature form of some invertebrates, which at each stage (instar) resembles the adult",
+			"ja": "成体という名の情報の究極に酷似しつつ、なお翼を持たぬ、情報の『若き花嫁（bride）』。"
+		},
+		"thinking_layer": "花嫁（あるいは水の精）。完全なる変態という名の情報の断絶を峻烈に拒み、ただ連続的な成長という名の情報の『積層』によって、静かに完成へと向かう、情報の優雅なるプレリュード。",
+		"aftertaste": "水辺を跳ねるその姿に、完成される前の、情報の純粋な可能性という名の眩惑を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神話の妖精と同じ語源。未開花の情報の輝き。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "larva",
+		"word": "Larva",
+		"part_of_speech": "noun",
+		"meaning": "幼虫、情報の仮面、蠢く食欲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "larva",
+					"type": "root",
+					"meaning": "ghost, mask, specter"
+				}
+			],
+			"original_statement": "From Latin larva."
+		},
+		"core_concept": {
+			"en": "active immature form of an insect, especially one that differs greatly from the adult",
+			"ja": "未来の美しき情報の『真の姿』を、峻烈な情報の『仮面（mask）』で完全に隠蔽する。"
+		},
+		"thinking_layer": "幽霊、あるいは仮面。ただ食べるという名の情報の『摂取』に特化し、異形の姿を借りて世界の富を略奪する、情報の潜伏期。美の本質を峻烈に秘匿した、グロテスクなまでの生命の渇望。",
+		"aftertaste": "その醜悪とも言える蠢きの中に、来るべき飛翔の情報のすべてが峻烈に畳み込まれている恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"成体とは似ても似つかぬ『偽りの姿』からの命名。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pupa",
+		"word": "Pupa",
+		"part_of_speech": "noun",
+		"meaning": "蛹（さなぎ）、情報の情報の沈黙の人形、再構築の石箱",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pupa",
+					"type": "root",
+					"meaning": "girl, doll, puppet"
+				}
+			],
+			"original_statement": "From Latin pupa 'doll'."
+		},
+		"core_concept": {
+			"en": "inactive immature form of an insect, intermediate between larva and adult",
+			"ja": "自己という名の情報を一度完全に『液状化』させ、峻烈な情報の『人形（doll）』として眠る。"
+		},
+		"thinking_layer": "人形。外部への情報の反応を峻烈に封印し、自らの内なる情報の宇宙を激しく再構築（reformat）するための、情報の静寂なる爆心の器。それは、死を経て神へと成るための、情報の棺。 ",
+		"aftertaste": "動かぬその硬き石箱の中に、全細胞が一度溶け、別の秩序へと組み替えられている戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pupil (生徒/瞳), puppet と同じ root。情報の『雛形』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "imago",
+		"word": "Imago",
+		"part_of_speech": "noun",
+		"meaning": "成虫、情報の完成されたイマージュ、翼ある真実",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "imago",
+					"type": "root",
+					"meaning": "image, likeness"
+				}
+			],
+			"original_statement": "From Latin imago."
+		},
+		"core_concept": {
+			"en": "final and fully developed adult stage of an insect",
+			"ja": "幾多の仮面を峻烈に剥ぎ取り、ついに現出した、情報の『究極の似姿（image）』。"
+		},
+		"thinking_layer": "イメージ（似姿）。ただ生殖という名の情報の『継承』と、飛翔という名の情報の『越境』のために設計された、一切の無駄を排した情報の至高の幾何学。それは、設計図の最終出力。 ",
+		"aftertaste": "濡れた翼を広げ、初めて天空の情報を掴むその瞬間の、峻烈なる完成の目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"imagine, imitate と同根。存在の完成形。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hemolymph",
+		"word": "Hemolymph",
+		"part_of_speech": "noun",
+		"meaning": "血リンパ、情報の透明な循環、冷徹な生命回路",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "haimo-",
+					"type": "root",
+					"meaning": "blood"
+				},
+				{
+					"text": "nymphe",
+					"type": "root",
+					"meaning": "spring water, lymph"
+				}
+			],
+			"original_statement": "From Greek haima + Latin lympha."
+		},
+		"core_concept": {
+			"en": "fluid equivalent to blood in most invertebrates",
+			"ja": "赤き情報の『情念（blood）』を峻烈に辞し、情報の『冷たき水（lymph）』を肉体に通わせる。"
+		},
+		"thinking_layer": "血の水。酸素を運ぶという赤き情報の独裁を峻烈に回避し、ただ栄養とホルモンという名の情報の信号を、全身の隙間へと染み渡らせる、情報の非集中的な循環系。 ",
+		"aftertaste": "傷口から滲み出る、その無機質なまでの透明な液に、生命の情報の冷徹なる合理主義を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lymph は『澄んだ水』の意。情報の洗浄。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ovipositor",
+		"word": "Ovipositor",
+		"part_of_speech": "noun",
+		"meaning": "産卵管、情報の情報の埋設機、未来の穿孔者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ovum",
+					"type": "root",
+					"meaning": "egg"
+				},
+				{
+					"text": "ponere",
+					"type": "root",
+					"meaning": "to place, put"
+				}
+			],
+			"original_statement": "From egg + -positor."
+		},
+		"core_concept": {
+			"en": "tubular organ through which a female insect deposits eggs",
+			"ja": "他者の実存や、大地の沈黙を峻烈に穿ち、情報の『卵（egg）』を『配置（place）』する。"
+		},
+		"thinking_layer": "卵を置くもの。世界という名の情報のマトリクスに対し、針という名の鋭利な情報のデバイスを暴力的に挿入し、未来の情報を確実に埋設（embed）する、情報の外科的なる侵略。 ",
+		"aftertaste": "突き立てられたその針の、執拗なまでの情報の継承への執念への、静かなる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"position, opponent と同じ -positor。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "caste",
+		"word": "Caste",
+		"part_of_speech": "noun",
+		"meaning": "カースト、情報の厳格な役割、種としての純粋性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "castus",
+					"type": "root",
+					"meaning": "pure, chaste, cut off"
+				}
+			],
+			"original_statement": "From Portuguese casta 'race, lineage'."
+		},
+		"core_concept": {
+			"en": "each of the hereditary classes of Hindu society, distinguished by relative degrees of ritual purity or social status",
+			"ja": "個体という名の自由を峻烈に奪い、集団という名の巨大な情報の『機能』へと封じ込める。"
+		},
+		"thinking_layer": "純粋なもの（あるいは切り離されたもの）。女王、兵隊、働き手という名の、固定された情報のコードを峻烈に付与（tagging）し、全実存をその機能（function）に限定する、情報の社会的な断頭台。 ",
+		"aftertaste": "個が全の歯車として完璧に機能しているその調和の中に、ある種の冷酷なる美学的完成を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"chaste (貞潔な), castle (城) と同根。情報を隔離し、純化すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pheromone",
+		"word": "Pheromone",
+		"part_of_speech": "noun",
+		"meaning": "フェロモン、情報の漂う指令、不可視の糸",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pherein",
+					"type": "root",
+					"meaning": "to carry, bear"
+				},
+				{
+					"text": "horman",
+					"type": "root",
+					"meaning": "to excite, stimulate"
+				}
+			],
+			"original_statement": "From Greek pherein + hormon."
+		},
+		"core_concept": {
+			"en": "chemical substance produced and released into environment that affects behavior or physiology of others",
+			"ja": "肉体を峻烈に超え、不可視の情報の『粒子』を空間へと『運び（bear）』、他者を『励起（stimulate）』させる。"
+		},
+		"thinking_layer": "興奮を運ぶもの。言葉という名の情報の遅延を峻烈に嘲笑い、分子という名の情報の直接的な物理接触によって、集団を一斉に情報の熱狂（swarming/mating）へと導く、情報の遠隔操作。 ",
+		"aftertaste": "自らの意志だと思っていたものが、実は漂う情報の香りに操られていたという、実存の脆弱な真実。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"carrier, hormone と同じ roots。情報の伝染。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mimicry",
+		"word": "Mimicry",
+		"part_of_speech": "noun",
+		"meaning": "擬態、情報の高度な虚構、存在の消失",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mimeisthai",
+					"type": "root",
+					"meaning": "to imitate"
+				}
+			],
+			"original_statement": "From Greek mimikos."
+		},
+		"core_concept": {
+			"en": "action or art of imitating someone or something, typically in order to entertain or ridicule",
+			"ja": "自己という名の情報の核心を峻烈に『隠蔽』し、他者という名の情報の『似姿』を峻烈に『模倣（imitate）』する。"
+		},
+		"thinking_layer": "模倣すること。敵という名の情報の脅威に対し、自らを背景という名の死、あるいは強者という名の嘘へと完全に同化（assimilate）させ、視覚という名の情報の支配を峻烈に欺く、情報の究極の演技者。",
+		"aftertaste": "目の前にあるものが、実は別の何かの情報の嘘であると気づいた瞬間の、世界への峻烈な不信。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pantomime, mime と同じ root。存在そのものの演劇化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "camouflage",
+		"word": "Camouflage",
+		"part_of_speech": "noun",
+		"meaning": "カモフラージュ、迷彩、情報の情報の煙幕",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "camoufler",
+					"type": "root",
+					"meaning": "to disguise (slang: puffing smoke in one's face)"
+				}
+			],
+			"original_statement": "From French camoufler 'to disguise'."
+		},
+		"core_concept": {
+			"en": "use of any combination of materials, coloration, or illumination for concealment",
+			"ja": "情報の『輪郭』を峻烈に『ぼかす（puff smoke）』ことで、背景という名の無の中に自己を埋没させる。"
+		},
+		"thinking_layer": "（煙を吹きかけるように）変装すること。際立ち（edge）という名の情報の自己主張を峻烈に拒み、ノイズの一部、あるいは風景の沈黙の一部へと成り果てることで、敵意ある眼差しという名の情報の捕捉を峻烈に辞退する、情報の潜伏術。 ",
+		"aftertaste": "何も居ないと思っていた場所から、唐突に生命が立ち上がる瞬間の、戦慄的なる情報の出現。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"一説には舞台の煙の演出から。情報の虚飾。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scolopidia",
+		"word": "Scolopidia",
+		"part_of_speech": "noun",
+		"meaning": "スコロピディア、情報の振幅の受容体、微細な情報の針",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skolops",
+					"type": "root",
+					"meaning": "pale, stake, anything pointed"
+				}
+			],
+			"original_statement": "From Greek skolops."
+		},
+		"core_concept": {
+			"en": "fundamental unit of mechanoreceptors in insects",
+			"ja": "世界の峻烈な震え（vibration）を、峻烈な情報の『針（stake）』の動きとして受容する。"
+		},
+		"thinking_layer": "尖った棒。空気の震えという名の情報のさざ波を、自らの神経系という名の直接の『衝撃』へと変換し、音や重力の情報を即座に実存の危機として翻訳する、究極の情報のセンサーユニット。",
+		"aftertaste": "宇宙のあらゆる微かな身じろぎが、その小さな針を峻烈に揺らし続けているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Johnston's organ などに含まれる。情報の微細な力学。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ocelli",
+		"word": "Ocelli",
+		"part_of_speech": "noun",
+		"meaning": "単眼、情報の情報の極微な火花、光の予兆",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oculus",
+					"type": "root",
+					"meaning": "eye"
+				},
+				{
+					"text": "-ellus",
+					"type": "suffix",
+					"meaning": "small"
+				}
+			],
+			"original_statement": "Diminutive of Latin oculus."
+		},
+		"core_concept": {
+			"en": "a small eye or eyespot found in many invertebrates",
+			"ja": "像を峻烈に結ぶことを拒み、ただ『光が在る』という情報の『原初（small eye）』を凝視する。"
+		},
+		"thinking_layer": "小さな目。光の強度（intensity）という名の情報の絶対的な支配の下、影という名の危機の接近を、峻烈な情報のパルスとして脳へと直結させる、予警報装置。それは、思考以前の光の受容。 ",
+		"aftertaste": "頭頂にあるその不気味な三つの点が、世界の光の不在を峻烈に監視し続けているという、不眠の情報の畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ocular, inoculate と同じ root。情報の『穿孔された視線』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "ommatidium",
+		"word": "Ommatidium",
+		"part_of_speech": "noun",
+		"meaning": "個眼、情報の微細な画素、モザイクの真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "omma",
+					"type": "root",
+					"meaning": "eye"
+				},
+				{
+					"text": "-idion",
+					"type": "suffix",
+					"meaning": "small"
+				}
+			],
+			"original_statement": "From Greek omma 'eye'."
+		},
+		"core_concept": {
+			"en": "each of the optical units that make up a compound eye",
+			"ja": "世界という名の巨大な絵を、数万の『小さき眼（small eye）』で峻烈に分断（division）し、再構成する。"
+		},
+		"thinking_layer": "小さな目。一つの中心という名の視覚の傲慢（fovea）を峻烈に解体し、全方位からの情報の情報の『断片（pixel）』を等価値に集積させる、情報の民主的な視線。それは、逃げ場なき情報の格子。",
+		"aftertaste": "数千の眼が一斉に見ているその情報の重なりの中に、人間の単一の『私』が峻烈に融解してゆく感覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"compound eye (複眼) の構成単位。情報のモザイク。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "elytra",
+		"word": "Elytra",
+		"part_of_speech": "noun",
+		"meaning": "翅鞘（ししょう）、鞘羽、情報の重厚な扉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "elytron",
+					"type": "root",
+					"meaning": "sheath, cover, case"
+				}
+			],
+			"original_statement": "From Greek elytron 'sheath'."
+		},
+		"core_concept": {
+			"en": "modified, hardened forewing of certain insects, especially beetles",
+			"ja": "飛翔という名の情報の『翼』を、峻烈な情報の『鞘（sheath）』の中に封印し、護る。"
+		},
+		"thinking_layer": "鞘。翼という名の情報の『弱点』を、キチン質という名の峻烈な情報の『扉』で隠伏し、地上という名の戦場に耐えるための装甲へと変貌させた、情報の攻防一体の智慧。 ",
+		"aftertaste": "扉が開いた瞬間に現れる、繊細なる情報の膜の美しき対比に、生命の情報の深淵を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"coleoptera (鞘翅目) の由来。情報の厳密なる収納。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "haltere",
+		"word": "Haltere",
+		"part_of_speech": "noun",
+		"meaning": "平均棍（へいきんこん）、情報のジャイロスコープ、振動する均衡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "halteres",
+					"type": "root",
+					"meaning": "dumbbells used in leaping; stabilizers"
+				}
+			],
+			"original_statement": "From Greek halteres."
+		},
+		"core_concept": {
+			"en": "the balancing organs of a two-winged insect",
+			"ja": "自らの肉体を情報の『一振りの重り（dumbbell）』として振動させ、空間の情報の転覆を峻烈に拒む。"
+		},
+		"thinking_layer": "（跳躍用の）重り。後翅という名の情報の推進力を峻烈に犠牲にし、ただ『自らの傾き』という名の情報を高精度に捕獲するための、情報の静的なるジャイロ。それは、カオスの中の絶対的な平衡。",
+		"aftertaste": "目に見えぬほどの速さで震え、世界の情報の狂気から身を護る、その一本の棍棒への信頼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"かつては重り。今は情報のスタビライザー。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "instar",
+		"word": "Instar",
+		"part_of_speech": "noun",
+		"meaning": "齢（れい）、情報の段階的な刻印",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in, upon"
+				},
+				{
+					"text": "stare",
+					"type": "root",
+					"meaning": "to stand"
+				}
+			],
+			"original_statement": "From Latin instar 'form, likeness'."
+		},
+		"core_concept": {
+			"en": "phase between two periods of molting in the development of an insect",
+			"ja": "脱皮という名の情報の爆発の間に横たわる、束の間の情報の『固定された似姿（likeness）』。"
+		},
+		"thinking_layer": "（特定の形として）立つこと。連続的な時間に峻烈な句読点（interruption）を打ち込み、第一、第二という名の、番号という名の情報の『檻』へと成長を区分（segmentation）する、情報の科学的な区分法。 ",
+		"aftertaste": "昨日の自分という名の形（instar）が、もはや耐えられぬほどに窮屈であるという、情報の激しい予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"instant, distance と同じ root。情報の『立ち位置』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "diapause",
+		"word": "Diapause",
+		"part_of_speech": "noun",
+		"meaning": "休眠（きゅうみん）、情報の情報の時間停止、冬の沈黙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dia-",
+					"type": "prefix",
+					"meaning": "through"
+				},
+				{
+					"text": "pausis",
+					"type": "root",
+					"meaning": "pause, stopping"
+				}
+			],
+			"original_statement": "From Greek dia- + pausis."
+		},
+		"core_concept": {
+			"en": "period of suspended development in an insect, during unfavorable environmental conditions",
+			"ja": "不毛な時間の情報の激流を、峻烈な情報の『停止（pause）』によって『通り抜ける（through）』。"
+		},
+		"thinking_layer": "通り抜けの停止。絶望という名の環境情報に対し、自律的な情報の演算を峻烈にシャットダウンし、生命という名の情報の時計を一時的にゼロにする、時間の支配を超克するための沈黙。 ",
+		"aftertaste": "死のように動かぬその肉体の奥底で、再起動（reboot）の信号が峻烈に温められているという、静かなる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pause, menopause と同じ root。情報の幕間。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "solitary",
+		"word": "Solitary",
+		"part_of_speech": "adjective",
+		"meaning": "単独性の、情報の孤高なる自律",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "solus",
+					"type": "root",
+					"meaning": "alone"
+				}
+			],
+			"original_statement": "From Latin solitarius."
+		},
+		"core_concept": {
+			"en": "living or being alone; tending to avoid the company of others",
+			"ja": "他者という名の情報の『ノイズ』を峻烈に拒み、ただ一個の情報の『絶対（alone）』を生きる。"
+		},
+		"thinking_layer": "ただ一人の。情報の依存という名の安逸を峻烈に捨て、一つの情報のコード（DNA）だけを頼りに世界の深淵と対峙する、情報の不敵な自足。それは、孤独という名の究極の自由。 ",
+		"aftertaste": "闇夜にただ一点の光として佇むその姿に、情報の個としての完成された美しさを視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sole, solid, solar と同じ root。情報の全一性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "predatory",
+		"word": "Predatory",
+		"part_of_speech": "adjective",
+		"meaning": "捕食性の、情報の冷徹なる収獲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prehendere",
+					"type": "root",
+					"meaning": "to grasp, seize"
+				}
+			],
+			"original_statement": "From Latin praedatori."
+		},
+		"core_concept": {
+			"en": "relating to an animal preying naturally on others",
+			"ja": "他者の生命という名の情報を、峻烈な情報の『略奪（seize）』によって自らのものとする。"
+		},
+		"thinking_layer": "捕まえるもの。世界の情報の流動性という名のカオスを峻烈な情報の『牙（grasp）』で静止させ、他者の苦悶を自らのエネルギーへと変換しようとする、生態系という名の情報のピラミッドの頂点。 ",
+		"aftertaste": "研ぎ澄まされた情報の集中が、不意に、しかし必然として世界の均衡を峻烈に破壊する瞬間の、冷たき悦び。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"comprehend, prison と同じ root。情報を『掴み』、峻烈に支配すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parasitoid",
+		"word": "Parasitoid",
+		"part_of_speech": "noun",
+		"meaning": "捕食寄生者、情報の内部からの簒奪、不可能な同居",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside"
+				},
+				{
+					"text": "sitos",
+					"type": "root",
+					"meaning": "food, grain"
+				},
+				{
+					"text": "-oid",
+					"type": "suffix",
+					"meaning": "like, form"
+				}
+			],
+			"original_statement": "From parasite + -oid."
+		},
+		"core_concept": {
+			"en": "insect whose larvae live as parasites that eventually kill their hosts",
+			"ja": "他者の情報の『傍ら（beside）』で『食卓（food）』を共にし、やがてその情報を峻烈に簒奪し、殺す。"
+		},
+		"thinking_layer": "寄生者に似たもの。単なる寄生（parasite）という名の共生を峻烈に拒否し、他者の生という名の情報の舞台を、自らの新生のための『糧（altar）』へと強制的に捧げさせる、情報の残酷なまでの最適化。 ",
+		"aftertaste": "内側から食い荒らされ、ついに空虚と化すホストの情報の死の向こう側に、新たな情報の誕生を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"parasite + -oid。情報の死と生の、あまりに密接なる接吻。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "pollinator",
+		"word": "Pollinator",
+		"part_of_speech": "noun",
+		"meaning": "授粉者、情報の媒介者、宇宙の愛の使者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pollen",
+					"type": "root",
+					"meaning": "fine flour"
+				},
+				{
+					"text": "-ator",
+					"type": "suffix",
+					"meaning": "one who"
+				}
+			],
+			"original_statement": "From pollen + -ator."
+		},
+		"core_concept": {
+			"en": "animal that moves pollen from anther to stigma",
+			"ja": "情報の『粉（pollen）』を、峻烈な情報の『架橋（bridge）』によって他者の未来へと繋ぐ者。"
+		},
+		"thinking_layer": "粉を運ぶ人。個体という名の孤立を、蜜という名の情報の『誘惑』によって媒介し、植物という名の沈黙の存在に、受粉という名の情報の『奇跡』を授ける、情報の愛の代行人（proxy）。 ",
+		"aftertaste": "羽音と共に広がる生命の情報の連鎖に、宇宙が自らを癒やそうとする瞬間の、峻烈なる慈悲を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pollinate は『粉を振りかける』こと。情報の祝福。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "apiary",
+		"word": "Apiary",
+		"part_of_speech": "noun",
+		"meaning": "養蜂場、情報の黄金の工場、秩序の集積地",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apis",
+					"type": "root",
+					"meaning": "bee"
+				},
+				{
+					"text": "-ary",
+					"type": "suffix",
+					"meaning": "place for"
+				}
+			],
+			"original_statement": "From Latin apiarium."
+		},
+		"core_concept": {
+			"en": "place where bees are kept; collection of beehives",
+			"ja": "蜜蜂（bee）という名の情報の働き手を、峻烈な情報の『囲い（place）』の中で管理する。"
+		},
+		"thinking_layer": "蜂の場所。自然の情報の『放浪』を箱という名の情報の『格子』に閉じ込め、労働という名の情報のエネルギーを、蜜という名の黄金の情報の『液体』へと変換させる、情報の高度な家畜化の最前線。",
+		"aftertaste": "渦巻く羽音の重奏の中に、無数の生が単一の情報の意志へと回収されてゆく、峻烈なる秩序。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"aviary (鳥小屋) との類比。情報の収納の論理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hymenoptera",
+		"word": "Hymenoptera",
+		"part_of_speech": "noun",
+		"meaning": "膜翅目（まくしもく）、情報の結合された翼、膜の誓約",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hymen",
+					"type": "root",
+					"meaning": "membrane, bridal"
+				},
+				{
+					"text": "pteron",
+					"type": "root",
+					"meaning": "wing"
+				}
+			],
+			"original_statement": "From Greek hymen + pteron."
+		},
+		"core_concept": {
+			"en": "order of insects comprising the sawflies, wasps, bees, and ants",
+			"ja": "透明なる『膜（membrane）』という名の情報の翼を、峻烈な情報の『結合』によって一つに束ねる。"
+		},
+		"thinking_layer": "膜の翼。あるいは（結婚の神ヒュメンより）結合した翼。前後の翼を鉤（hook）によって峻烈に一体化させ、飛翔という名の情報の効率を極限まで高めた、情報の機能美の結晶。そこには、集団行動という名の情報の誓約が潜む。 ",
+		"aftertaste": "静止した瞬間に折り畳まれる繊細なる情報の膜に、峻烈なる情報の秩序の美を感じる。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hymen (処女膜) と同じ root。情報の『結合』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coleoptera",
+		"word": "Coleoptera",
+		"part_of_speech": "noun",
+		"meaning": "鞘翅目（しょうしもく）、コウチュウ目、情報の鞘に収められし翼",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "koleos",
+					"type": "root",
+					"meaning": "sheath"
+				},
+				{
+					"text": "pteron",
+					"type": "root",
+					"meaning": "wing"
+				}
+			],
+			"original_statement": "From Greek koleos + pteron."
+		},
+		"core_concept": {
+			"en": "order of insects comprising the beetles and weevils",
+			"ja": "情報の翼（wing）を、峻烈な鉄の『鞘（sheath）』の中に完全に封印した、生命の情報の重装兵。"
+		},
+		"thinking_layer": "鞘の中の翼。脆弱という名の情報の外部露出を峻烈な硬化（sclerotization）によって克服し、衝突という名の情報のカオスを笑い飛ばす、生存率の情報の極点。それは、全生命の四分の一を占める情報の覇権。",
+		"aftertaste": "鈍く輝くその背中の鎧に、三億年を生き抜いた情報の絶対的なる実直さを視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"鞘の扉を開いた瞬間の、本来の翼の情報の『解放』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lepidoptera",
+		"word": "Lepidoptera",
+		"part_of_speech": "noun",
+		"meaning": "鱗翅目（りんしもく）、チョウ目、情報の鱗の翼、色彩の断片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lepis",
+					"type": "root",
+					"meaning": "scale"
+				},
+				{
+					"text": "pteron",
+					"type": "root",
+					"meaning": "wing"
+				}
+			],
+			"original_statement": "From Greek lepis + pteron."
+		},
+		"core_concept": {
+			"en": "order of insects comprising the butterflies and moths",
+			"ja": "宇宙という名の情報の光を、無数の情報の『鱗（scale）』の翼によって反射させ、幻惑する。"
+		},
+		"thinking_layer": "鱗の翼。面積という名の情報の『広がり』を、鱗粉という名の情報の『粒子の集積』によって色彩へと変容させ、風に乗る。それは、極微なる情報の画素が産み出した、空中を舞う極彩色の絵画。 ",
+		"aftertaste": "指先に残る微かな情報の粉に、一瞬の美が放った情報の『呪文』の跡を感じる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"leper (癩病/鱗) と同じ lepis。情報の剥離。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "diptera",
+		"word": "Diptera",
+		"part_of_speech": "noun",
+		"meaning": "双翅目（そうしもく）、ハエ目、情報の二つの翼、簡素なる超越",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "di-",
+					"type": "prefix",
+					"meaning": "two"
+				},
+				{
+					"text": "pteron",
+					"type": "root",
+					"meaning": "wing"
+				}
+			],
+			"original_statement": "From Greek di- + pteron."
+		},
+		"core_concept": {
+			"en": "order of insects comprising the true flies",
+			"ja": "四枚という名の情報の『冗長』を峻烈に削ぎ落とし、『二つの（two）』翼で空中を峻烈に支配する。"
+		},
+		"thinking_layer": "二枚の翼。後翅を平均棍という名の情報のセンサーへと峻烈に収束させ、ただ前翅のみを情報の推進（propulsion）に特化させた、情報のミニマリズム。それは、空中の静止と旋回という名の情報の極北。",
+		"aftertaste": "不快な羽音の中に、三次元を完璧に制圧した情報の、圧倒的なまでの機動力を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"diminish, dialogue と同じ di-。情報の洗練。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "odonata",
+		"word": "Odonata",
+		"part_of_speech": "noun",
+		"meaning": "トンボ目、情報の歯を持つ翼の死神",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "odous",
+					"type": "root",
+					"meaning": "tooth"
+				}
+			],
+			"original_statement": "From Greek odous 'tooth'."
+		},
+		"core_concept": {
+			"en": "order of insects comprising the dragonflies and damselflies",
+			"ja": "大顎という名の情報の『歯（tooth）』を峻烈に研ぎ、空中の情報の獲物を峻烈に略奪する。"
+		},
+		"thinking_layer": "歯を持つもの。飛翔という名の情報の優雅さを、捕食という名の情報の『暴力』へと瞬時に接合し、獲物の軌道を先んじて計算（anticipate）して仕留める、空の情報の暗殺者（assassin）。 ",
+		"aftertaste": "ホバリングするその静止の姿に、世界を解析し尽くそうとする、情報の冷徹なる殺意を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"orthodontist, denture と同じ root。情報の咬合。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "orthoptera",
+		"word": "Orthoptera",
+		"part_of_speech": "noun",
+		"meaning": "直翅目（ちょくしもく）、バッタ目、情報の真っ直ぐな翼、跳躍の秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "orthos",
+					"type": "root",
+					"meaning": "straight"
+				},
+				{
+					"text": "pteron",
+					"type": "root",
+					"meaning": "wing"
+				}
+			],
+			"original_statement": "From Greek orthos + pteron."
+		},
+		"core_concept": {
+			"en": "order of insects comprising the grasshoppers, crickets, and locusts",
+			"ja": "休止という名の情報の沈黙を、峻烈な『真っ直ぐな（straight）』翼の下に秘匿する。"
+		},
+		"thinking_layer": "真っ直ぐな翼。折り畳まれた形状という名の情報の厳格な秩序を維持しつつ、後脚という名の情報の『バネ』を爆開させて重力を峻烈に超克する、大地の情報の躍動。 ",
+		"aftertaste": "秋夜に響く情報の擦れ音（stridulation）に、直き翼が奏でる情報の哀愁を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"orthogonal, orthodox と同じ orthos。情報の正しさ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "isoptera",
+		"word": "Isoptera",
+		"part_of_speech": "noun",
+		"meaning": "等翅目（とうしもく）、シロアリ、情報の等しい翼、全体主義の情報の翼",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "isos",
+					"type": "root",
+					"meaning": "equal"
+				},
+				{
+					"text": "pteron",
+					"type": "root",
+					"meaning": "wing"
+				}
+			],
+			"original_statement": "From Greek isos + pteron."
+		},
+		"core_concept": {
+			"en": "group of insects comprising the termites",
+			"ja": "四枚すべての翼を峻烈に『等しい（equal）』形状に統一し、情報の『均質』を生きる。"
+		},
+		"thinking_layer": "等しい翼。個体差という名の情報の『ゆらぎ』を、集団という名の巨大なる一者（monolith）のために峻烈に抹殺し、情報の対称性（symmetry）のみを翼に宿らせる、情報の社会的なる画一。 ",
+		"aftertaste": "一斉に脱ぎ捨てられた透明な翼の山に、目的を終えた後の、情報の冷徹なる廃棄を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"isolate, isomer と同じ isos。情報の平等と虚無。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "tarsus",
+		"word": "Tarsus",
+		"part_of_speech": "noun",
+		"meaning": "跗節（ふせつ）、足先、情報の情報の接触面、世界の把握",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tarsos",
+					"type": "root",
+					"meaning": "flat surface, basket, frame, foot"
+				}
+			],
+			"original_statement": "From Greek tarsos."
+		},
+		"core_concept": {
+			"en": "the small bones of the foot and ankle in vertebrates; the final part of a limb in insects",
+			"ja": "世界という名の情報の『平面（flat surface）』を、峻烈な節々によって峻烈に『把握』する。"
+		},
+		"thinking_layer": "編んだ籠。世界の険しき情報の凹凸を、多節という名の情報の柔軟な『追従』によって踏みしめ、重力を峻烈に逆手に取る、情報の最先端の脚先。それは、世界を掴み取るためのフック。 ",
+		"aftertaste": "垂直の壁を滑るように登るその数多の節々に、情報の絶対的なる密着の意志を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tarsal bones (足根骨) と同根。情報の物理的な足場。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "femur",
+		"word": "Femur",
+		"part_of_speech": "noun",
+		"meaning": "腿節（たいせつ）、大腿、情報の跳躍の原動力",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "femur",
+					"type": "root",
+					"meaning": "thigh"
+				}
+			],
+			"original_statement": "From Latin femur."
+		},
+		"core_concept": {
+			"en": "the bone of the thigh or upper hind limb",
+			"ja": "跳躍という名の情報の『爆発』を、その筋肉という名の情報の『胎内（thigh）』に溜める。"
+		},
+		"thinking_layer": "腿。昆虫においては情報の、もっとも太く重厚な情報の『基幹部』。重力という名の情報の枷を、峻烈な収縮（contraction）によって一気に引き裂くための、生命の情報のシリンダー。",
+		"aftertaste": "たくましく太り肉いたその肢体に、地を蹴る瞬間の情報の爆発的な予感を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fem- (産む) との関係も示唆される。エネルギーの胎内。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tibia",
+		"word": "Tibia",
+		"part_of_speech": "noun",
+		"meaning": "脛節（けいせつ）、情報の情報の鋭利な脛、旋律の杖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tibia",
+					"type": "root",
+					"meaning": "flute, pipe, shinbone"
+				}
+			],
+			"original_statement": "From Latin tibia."
+		},
+		"core_concept": {
+			"en": "the inner and typically larger of the two bones between the knee and the ankle; middle section of insect's leg",
+			"ja": "情報の長い『笛（pipe）』のように、情報の強度と軽量性を峻烈に両立させる。"
+		},
+		"thinking_layer": "フルート（笛）。情報の衝撃を、峻烈な情報の『しなり』によって分散し、なおかつ世界の深淵を俊敏に闊歩するための、情報のしなやかなる杖。それは、荒野を渡るための情報の弦楽器。 ",
+		"aftertaste": "硬質なトゲ（spine）を備えたその細き肢に、世界の情報の抵抗を峻烈に捌く技を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"かつては骨で作られた笛。音楽と骨の接点。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coxa",
+		"word": "Coxa",
+		"part_of_speech": "noun",
+		"meaning": "基節（きせつ）、情報の回転の軸、根源の関節",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "coxa",
+					"type": "root",
+					"meaning": "hip"
+				}
+			],
+			"original_statement": "From Latin coxa."
+		},
+		"core_concept": {
+			"en": "the hip bone or hip joint; the first segment of an insect's leg",
+			"ja": "本体という名の情報の『重心』を、脚という名の情報の『運動』へと峻烈に繋ぐ、枢軸（pivot）。"
+		},
+		"thinking_layer": "腰。生命の実存と、移動という名の『外への意志』を、峻烈な情報の『回転』によって接合する、情報の原初の関節。それは、万物の情報の流転が始まる、沈黙の基点。 ",
+		"aftertaste": "微動だにせぬその接合部が、すべての激しき肢体の躍動を峻烈に許容している畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cushion, quisse? (いや関係薄) 球面的な関節の美。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "trochanter",
+		"word": "Trochanter",
+		"part_of_speech": "noun",
+		"meaning": "転節（てんせつ）、情報の情報の屈曲の支点、転回する知性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "treichein",
+					"type": "root",
+					"meaning": "to run"
+				},
+				{
+					"text": "trokhos",
+					"type": "root",
+					"meaning": "wheel"
+				}
+			],
+			"original_statement": "From Greek trokhanter."
+		},
+		"core_concept": {
+			"en": "any of a number of bony prominences; segment of insect's leg between coxa and femur",
+			"ja": "走行（run）という名の活動の情報を、峻烈な情報の『車輪（wheel）』のような転換で制御する。"
+		},
+		"thinking_layer": "車輪。あるいは走るためのもの。静止した基部と、躍動する腿を、峻烈に『曲げる』ことで、情報のベクトルの複雑極まる制御を可能にする、微小な、しかし不可欠な情報の接続器。",
+		"aftertaste": "二つの大きな節の間に挟まれたその小さな『転回』が、無限の歩みを峻烈に担保している震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"truck, trochee (長短格) と同じ root。情報の律動。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scutellum",
+		"word": "Scutellum",
+		"part_of_speech": "noun",
+		"meaning": "小楯板（しょうじゅんばん）、情報の情報の背面を護る小さき盾",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scutum",
+					"type": "root",
+					"meaning": "shield"
+				},
+				{
+					"text": "-ellum",
+					"type": "suffix",
+					"meaning": "small"
+				}
+			],
+			"original_statement": "Diminutive of Latin scutum."
+		},
+		"core_concept": {
+			"en": "small shield-like structure on the thorax of an insect",
+			"ja": "情報の『中枢（thorax）』が剥き出しになる背面に、峻烈な情報の『小さき盾（shield）』を置く。"
+		},
+		"thinking_layer": "小さな盾。情報の中心という名の弱点を、三角形という名の情報の最も安定した幾何学で峻烈に保護し、かつ集団のアイデンティティとしての紋章（mark）を刻む、情報の装甲。 ",
+		"aftertaste": "カメムシや甲虫の背に光るその一点の盾に、峻烈なる防衛の情報の誇りを視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"esquire, sky? (いや違う) scutum は古の戦士の盾。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tracheae",
+		"word": "Tracheae",
+		"part_of_speech": "noun",
+		"meaning": "気管、情報の、空気の情報の直接の回路",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trakhus",
+					"type": "root",
+					"meaning": "rough"
+				}
+			],
+			"original_statement": "From Greek trakheia 'rough (artery)'."
+		},
+		"core_concept": {
+			"en": "each of a number of fine chitinous tubes in the body of an insect, conveying gas directly to the tissues",
+			"ja": "血液という名の『情報の仲介人』を排除し、酸素という名の情報を情報の『粗き（rough）道』で直接細胞へと届ける。"
+		},
+		"thinking_layer": "ザラザラした道。情報の伝達に、肺という名の巨大な一元集権を峻烈に拒み、無数の細管という名の情報の『直接民主制』を採用した、生命の情報の過激なるまで分散化された肺。",
+		"aftertaste": "全身が空気の道そのものであるという、その圧倒的なる情報の空無感と、呼吸の深淵。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"かつては『表面がざらついた血管』。情報の直接性を表す。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "malpighian",
+		"word": "Malpighian",
+		"part_of_speech": "adjective",
+		"meaning": "マルピーギ（氏管）、情報の峻烈な情報の濾過、純粋なる排出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Malpighi",
+					"type": "root",
+					"meaning": "Marcello Malpighi (Italian physician)"
+				}
+			],
+			"original_statement": "Named after Marcello Malpighi."
+		},
+		"core_concept": {
+			"en": "relating to tubular excretory organs in insects",
+			"ja": "不要という名の『情報のノイズ』を生命の深層から抽出し、峻烈に『廃棄』へと導く、情報の洗浄。"
+		},
+		"thinking_layer": "（マルピーギの）。生命活動が生み出した情報の残滓を、一本一本の細管という名の情報の『触手』で絡め取り、自らの秩序を峻烈にクリーンに保つ、不眠の情報の浄化装置。",
+		"aftertaste": "絶え間なき循環の裏で、黙々と行われる情報の『捨てる』という行為の、峻烈なる尊厳。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"発見者の名から。情報の解剖学的発見の記念。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "labrum",
+		"word": "Labrum",
+		"part_of_speech": "noun",
+		"meaning": "上唇（うわくちびる）、情報の入り口の庇",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "labrum",
+					"type": "root",
+					"meaning": "lip, edge"
+				}
+			],
+			"original_statement": "From Latin labrum."
+		},
+		"core_concept": {
+			"en": "upper lip in insects, forming the upper boundary of the mouth",
+			"ja": "咀嚼という名の情報の爆発の入り口を、峻烈な情報の『庇（lip）』で護衛し、覆う。"
+		},
+		"thinking_layer": "唇。外なる物質を、情報の価値（food）として判定し、中へと招き入れるための最初の境界。それは、欲望の情報の最前線の、硬質な情報の『門』。 ",
+		"aftertaste": "動かぬその庇の下に、激しくうごめく噛歯（mandibles）の恐怖を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"labial, lap (舐める/膝) と感覚的に繋がる、情報の受け皿。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "labium",
+		"word": "Labium",
+		"part_of_speech": "noun",
+		"meaning": "下唇（したくちびる）、情報の情報の受容の皿、語らぬ唇",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "labium",
+					"type": "root",
+					"meaning": "lip"
+				}
+			],
+			"original_statement": "From Latin labium."
+		},
+		"core_concept": {
+			"en": "fused second maxillae in insects, forming the lower boundary of the mouth",
+			"ja": "情報の『欠落』を峻烈に埋める、情報の『下なる覆い（lip）』。"
+		},
+		"thinking_layer": "唇（二枚目の）。情報の咀嚼を峻烈に支え、こぼれ落ちる断片を峻烈に拾い集めて、再び情報の中心へと押し戻す、情報の慈悲深き『救い上げ』の底。 ",
+		"aftertaste": "上下に噛み合うその硬質な扉の間に、全世界が吸い込まれてゆく、情報の静かなる消失。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"labrum と対をなすが、昆虫においては複数の肢が融合したもの。情報の統合。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
