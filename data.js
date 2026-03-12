@@ -269411,5 +269411,223 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "exeligmos",
+		"word": "Exeligmos",
+		"part_of_speech": "noun",
+		"meaning": "エクセリグモス、三倍サロス周期",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "exeligmos",
+					"type": "root",
+					"meaning": "turning of the wheel (車輪の回転)', from Greek exelissein"
+				},
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "helissein",
+					"type": "root",
+					"meaning": "to roll (巻く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek exeligmos, from exelissein 'unroll', from ex- 'out' + helissein 'roll'."
+		},
+		"core_concept": {
+			"en": "A period of 54 years and 33 days, equivalent to three Saros cycles, after which an eclipse repeats at the same longitude",
+			"ja": "約54年という、一生に一度か二度しか訪れない『運命の回帰』。三つのサロス周期が重なり、日食が再び同じ場所（経度）へと戻ってくる、天上の壮大な『車輪の回転（exeligmos）』"
+		},
+		"thinking_layer": "『巻き戻し、展開』。ヘリックス（Helix/螺旋）、おなじみの「EX（外へ）」と同根。語源は「一巡した回転」。ただの「周期」ではありません。そこには。「気が遠くなるような時間を経て、すべてが再びあるべき場所へと完璧に収束する」という、宇宙的な正義の響きが宿っています。それは。知性が長年の探究の果てに、ようやく自分の原点（origin）へと立ち戻るプロセスのメタファー。",
+		"aftertaste": "54年ぶりに同じ空で繰り広げられる皆既日食を待ちわびる古の天文学者の情熱を想い、自分が今見ている現像が、半世紀前の誰かの記憶と完璧に重なっていることに、時空を超えた「共感（empathy）」を覚える、あの知的な眩暈（dizziness）。あるいは、自分の努力が、この「エクセリグモス（exeligmos）」のように、いつか必ず報われるべき場所へと回帰することを信じる、あの静かな午後の自己肯定。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wel-",
+					"meaning": "to turn, roll (forming helissein)"
+				}
+			],
+			"points": [
+				"volume, evolve, revolve, vulgar（？） 同根。",
+				"『巻く（rolling）』という動作が展開される（unrolling）とき、隠されていた真実が姿を現す。エクセリグモスは、時間が単なる消耗ではなく、何らかの『意味の蓄積』であることを天文学的に証明する言葉である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tritos",
+		"word": "Tritos",
+		"part_of_speech": "noun",
+		"meaning": "トリートス周期",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tritos",
+					"type": "root",
+					"meaning": "third (第三の)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek tritos 'third'."
+		},
+		"core_concept": {
+			"en": "An eclipse cycle of approximately 11 years, equivalent to 1/3 of an exeligmos",
+			"ja": "エクセリグモスの三分の一（11年弱）という、より短く、しかし鋭い『第三のリズム』。サロス周期とは異なる系列（series）を生み出し、星の運行に不規則な煌（きら）めきを与える、知的な『変奏曲』"
+		},
+		"thinking_layer": "『第三の』。トリオ（Trio）、トリロジー（Trilogy/三部作）、おなじみの「トリ（三）」と同根。語源は「第三の」。ただの「11年」ではありません。それは。大きな周期（exeligmos）を構成する不可欠な「一節（phrase）」。そこには。「全体を支えるためには、断片としての自らの役割を全うしなければならない」という、部分の美学が宿っています。それは。知性が壮大な理論を構築する途上で経験する、中継地点としての成功。 ",
+		"aftertaste": "太陽活動（solar cycle）とほぼ一致するこの「トリートス周期（tritos）」の不思議なリズムに、太陽系という一つの巨大な「生命体」の拍動を感じ、自分という存在がいかに精密な調和の中に組み込まれているかを知り、深い安堵を覚える、あの知的な平安。あるいは、自分の人生における「11年」という区切りを想い、この「トリートス」が自分にどんな「変容（transformation）」をもたらしたのかを自問する、あの静かな夜の省察。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "trei-",
+					"meaning": "three (forming tritos)"
+				}
+			],
+			"points": [
+				"three, tradition（？） 同根。",
+				"『三（three）』は、弁証法的な統合（synthesis）を象徴する数である。トリートスは、二つの異なる周期の間に割り込み、新しい連続性を生み出すための、天文学的な『楔（wedge）』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inex",
+		"word": "Inex",
+		"part_of_speech": "noun",
+		"meaning": "イネックス周期",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into (中へ)"
+				},
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out of (外へ)",
+					"lang": "Latin origin"
+				}
+			],
+			"original_statement": "A coined term (In + Ex) by George van den Bergh, signifying that an eclipse series is 'in' (starting) while another is 'ex' (ending)."
+		},
+		"core_concept": {
+			"en": "An eclipse cycle of approximately 29 years, used to link Saros series",
+			"ja": "一つの物語が終わるとき、別の物語が密かに始まっている。交代（alternation）と継承（succession）を司る、29年の『入れ替わりの律動』。古い秩序から新しい秩序への、滑らかで不可逆な『バトンタッチ』"
+		},
+		"thinking_layer": "『入り、かつ出ること』。イン（In）、エグジット（Exit）の混成語。語源は「生成と消滅」。ただの「30年弱」ではありません。そこには。「宇宙のドラマは、個別の断絶を超えて、絶え間なく更新（refresh）され続けている」という、果てしない連続性の意志が宿っています。それは。知性が自らの限界（死、忘却）を、次世代への「情報の継承」によって克服してゆくプロセスのメタファー。",
+		"aftertaste": "ある日食シリーズ（Saros series）が、この「イネックス（inex）」の導きによって終了し、また新しいシリーズが産声を上げる様子を計算機上で眺め、命というものが、個としての自分を使い捨てながらも、種としての「輝き」を永続させてゆく冷徹な美しさに圧倒される、あの峻烈な一瞬。あるいは、自分の仕事が、この「イネックス」のように、誰かの終わりの上に建ち、誰かの始まりの「礎（foundation）」となっていることを確信する、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"20世紀の天文学者ヴァン・デン・ベルクによって命名されたこの言葉には、近代科学の持つシステマチックな美学が反映されている。",
+				"『入ること（in）』と『出ること（ex）』の同時発生。イネックスは、変化というものが常に『置換』であり、宇宙のエネルギー総量は一定であることを象徴する物理学的な詩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "heptadecaeteris",
+		"word": "Heptadecaeteris",
+		"part_of_speech": "noun",
+		"meaning": "17年周期、十七年紀",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hepta",
+					"type": "root",
+					"meaning": "seven (七)",
+					"lang": "Greek"
+				},
+				{
+					"text": "deka",
+					"type": "root",
+					"meaning": "ten (十)",
+					"lang": "Greek"
+				},
+				{
+					"text": "etos",
+					"type": "root",
+					"meaning": "year (年)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hepta 'seven' + deka 'ten' + etos 'year'."
+		},
+		"core_concept": {
+			"en": "A period of 17 years",
+			"ja": "『七（hepta）』と『十（deka）』という聖なる数が合わさった、神秘的な『17年の円環』。単なる時間の集積ではなく、ある種の宿命（destiny）が巡り、結実するために必要な、知的な『熟成の季節』"
+		},
+		"thinking_layer": "『十七の年』。ヘプタゴン（Heptagon/七角形）、デケイド（Decade/十年）、おなじみの「イヤー（Year）」と同根。語源は「十七年」。ただの「17年」ではありません。数学者や天文学者が、カオスな現象の中にこの「17」という素数（prime number）を見出したときの、あの震えるような驚喜の記憶。それは。知性が不規則な現実を、強引に「数理的な型」に嵌（は）め込もうとする瞬間の、峻烈な知的エゴ。 ",
+		"aftertaste": "17年周期で現れる素数蝉（periodical cicada）の羽化（emergence）を眺め、その「ヘプタデカエテリス（heptadecaeteris）」な律動が、いかに天文学的な調和と共鳴しているのかを想い、自然界の驚異的な「計算能力」に背筋が凍る、あの知的な眩暈（dizziness）。あるいは、自分の情熱が、この「17年周期」のように、長い沈黙の果てに爆発的な「輝き」を放つ瞬間が来ることを信じて、今は土の中で爪を研ぐ、あの孤独な自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "septm-",
+					"meaning": "seven (forming hepta)"
+				},
+				{
+					"term": "dekm-",
+					"meaning": "ten (forming deka)"
+				}
+			],
+			"points": [
+				"september, decimal, year 同根。",
+				"『十七（seventeen）』は、いかなる偶数のリズムにも支配されない。ヘプタデカエテリスは、宇宙がいかに単調な繰り返しを嫌い、絶えず『ズレ』と『意外性』を孕みながら運行しているかを示す、独立心の象徴である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "enneadecaeteris",
+		"word": "Enneadecaeteris",
+		"part_of_speech": "noun",
+		"meaning": "19年周期、十九年紀、メトン周期",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ennea",
+					"type": "root",
+					"meaning": "nine (九)",
+					"lang": "Greek"
+				},
+				{
+					"text": "deka",
+					"type": "root",
+					"meaning": "ten (十)",
+					"lang": "Greek"
+				},
+				{
+					"text": "etos",
+					"type": "root",
+					"meaning": "year (年)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek ennea 'nine' + deka 'ten' + etos 'year'."
+		},
+		"core_concept": {
+			"en": "A period of 19 years, equivalent to the Metonic cycle",
+			"ja": "月と太陽が、19年という歳月の果てに、再び同じ星座（constellation）で邂逅（encounter）する約束の円環。太古の暦学者が数式の極致として到達した、宇宙の『完璧な再会（reunion）』"
+		},
+		"thinking_layer": "『十九の年』。エニアグラム（Enneagram/九つの点）、デカ（Deka-/十）、おなじみ「メトニック（Metonic）」と同根。語源は「十九年」。ただの「19年」ではありません。それは。月暦と太陽暦という、二つの異なる正義を無理やり（しかし美しく）和解させるための、知的な「聖なる調和」。そこには。「異なる時間の流れを、一つの物語（暦）へと統合する」という、人類の切実な祈りが宿っています。それは。知性が自らの矛盾を、より高い次元での「円環（circle）」において解決するプロセスの象徴。 ",
+		"aftertaste": "19年前の自分の記憶が、天上の星の配置（configuration）と共に今、この瞬間に完璧にリセットされる「エンネアデカエテリス（enneadecaeteris）」な奇跡を夢想し、自分がどんなに遠くに流されても、必ず「自分自身」へと還ってこられるのだという、盲目的な、しかし峻烈な確信。あるいは、自分の言葉が、19年の時を超えて、今の自分と同じ悩みを抱く「未来の誰か」の心に、正確に届くことを信じる、あの静かな夜の安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "newn-",
+					"meaning": "nine (forming ennea)"
+				}
+			],
+			"points": [
+				"nine, noon 同根。",
+				"『十九（nineteen）』は、メトン周期という名で歴史に刻まれた、知的な革命の数字である。エンネアデカエテリスという長い響きには、その数字を発見した古代ギリシャ人の、勝利の雄叫び（shout of victory）が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
