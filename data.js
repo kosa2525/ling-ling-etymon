@@ -303603,5 +303603,538 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "utilitarianism",
+		"word": "Utilitarianism",
+		"part_of_speech": "noun",
+		"meaning": "功利主義、情報の計量、幸福の演算",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "utilis",
+					"type": "root",
+					"meaning": "useful"
+				}
+			],
+			"original_statement": "From utility + -arianism."
+		},
+		"core_concept": {
+			"en": "the doctrine that actions are right if they are useful or for the benefit of a majority",
+			"ja": "有用（useful）という名の情報の『基準』。によって、善悪という名の情報の『色彩』。を排除し、最大多数の最大幸福という名の情報の『演算』。へと還元する。"
+		},
+		"thinking_layer": "有用性の主義。実存の情報の『質』。を、効率という名の情報の『量』。によって峻烈に情報の情報の情報の、情報の。情報の情報の情報の定義する、情報の。政治と情報の情報の倫理の、情報の。冷徹なる情報の情報の工学。",
+		"aftertaste": "数値化された情動の情報の情報の情報の『冷たさ』。その裏側にある、。情報の情報の、全き情報の平等の情報の情報の情報の『絶望、。あるいは極北』。に情報を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"utility, use と同じ root。情報の『情報の、情報の物理的なる役立ち』。への特権化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "materialism",
+		"word": "Materialism",
+		"part_of_speech": "noun",
+		"meaning": "唯物論、情報の、重き物質の情報の情報の真理、精神の情報の影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "materia",
+					"type": "root",
+					"meaning": "matter, substance, wood"
+				}
+			],
+			"original_statement": "From material + -ism."
+		},
+		"core_concept": {
+			"en": "the doctrine that nothing exists except matter and its movements and modifications",
+			"ja": "物質（matter）という名の情報の『重力』。こそが唯一絶対の情報の『真理』。であり、精神という名の情報の『虚像』。を峻烈に情報の情報の情報の排除する、情報の。"
+		},
+		"thinking_layer": "物質の主義。目に見えぬ情報の『魂』。という名の情報の『逃避』。を、原子という名の情報の『沈黙の情報の情報の、衝突』。によって情報の情報の、情報の情報の情報の情報の粉砕し、。世界を情報の物理の、。情報の、情報の情報の装置。として読み解く。 ",
+		"aftertaste": "すべてが情報の、。情報の物質へと情報の帰りゆくという。情報の情報の。情報の。沈黙の情報の、。充足。そこに実存の情報の情報の、情報の重みを聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"matter, mother? (母なる物質) と同じ root。情報の『生成の原質』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dualism",
+		"word": "Dualism",
+		"part_of_speech": "noun",
+		"meaning": "二元論、情報の、二つの世界の情報の情報の分断、絶望の情報の。情報の情報の均衡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "duo",
+					"type": "root",
+					"meaning": "two"
+				}
+			],
+			"original_statement": "From Latin dualis."
+		},
+		"core_concept": {
+			"en": "the division of something conceptually into two opposed or contrasted aspects, or the state of being so divided",
+			"ja": "世界という名の情報の『全一（one）』。を、二つ（two）の相容れぬ情報の『原理（mind/matterなど）』。へと峻烈に截断し、。相互の情報の『情報の情報の、永遠なる疎外』。を現出させる。"
+		},
+		"thinking_layer": "二つの主義。一なるものの情報の『独裁』。に対し、対立という名の情報の『緊張』。を情報の情報の情報の、情報の。情報の情報の定義する、情報の、情報の闘争の情報の舞台。それは、情報の、。情報の情報の情報の、自己と世界の、。情報の。埋まらぬ。情報の、。情報の情報の裂け目。 ",
+		"aftertaste": "あちら側とこちら側。の情報の情報の狭間に情報の情報の。情報の永遠に。情報の情報の、情報の浮かぶ情報の情報の。情報の情報の情報の、虚無の情報の。情報の。響きを聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"duet, double と同じ duo。情報の『情報の、情報の、峻烈なる、二極化。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monism",
+		"word": "Monism",
+		"part_of_speech": "noun",
+		"meaning": "一元論、情報の、一なる真理への情報の、。情報の情報の情報の、没入、消失の情報の情報の均衡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos",
+					"type": "root",
+					"meaning": "alone, single"
+				}
+			],
+			"original_statement": "From Greek monos."
+		},
+		"core_concept": {
+			"en": "the doctrine that only one supreme being or thing exists",
+			"ja": "。あらゆる。情報の『差異』。は情報の情報の『仮象』。であり、。すべては、。情報の、唯一（single）の。情報の『実在』。へと情報の情報の、。情報の、情報の。帰一する。"
+		},
+		"thinking_layer": "一の主義。境界という名の情報の『虚偽』。を峻烈に情報の情報の粉砕し、。万物を、。情報の情報の情報の。一つの情報の、。情報の、情報の情報の。広大なる情報の『情報の、同一性』。の中へと情報の情報の、。情報の情報の情報の、情報の。溶融させる、。情報の、情報の死。の情報の美学。 ",
+		"aftertaste": "すべてが情報の情報の一つになる。瞬間の、。情報の、情報の自己の。情報の消失。という名の。情報の情報の。情報の放擲の。情報の、。情報の甘美なる。情報の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mono, solitary と同じ root。情報の『孤高なる一。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rationalism",
+		"word": "Rationalism",
+		"part_of_speech": "noun",
+		"meaning": "合理主義、情報の、。情報の情報の、情報の、理性の、。情報の。情報の。情報の峻烈なる情報の、情報の独裁、論理の、。情報の宝石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ratio",
+					"type": "root",
+					"meaning": "reason, proportion, calculation"
+				}
+			],
+			"original_statement": "From ready-made (Latin ratio)."
+		},
+		"core_concept": {
+			"en": "a belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response",
+			"ja": "経験という名の情報の『濁り』。を情報の情報の情報の、。峻烈に情報の情報の辞し、。理性（reason）という名の情報の『純粋なる情報の情報の。情報の演算』。のみを、。情報の情報の情報の。情報の情報の。情報の唯一の情報の道標。とする。"
+		},
+		"thinking_layer": "比率（ratio）の主義。世界という名の情報の『カオス』。を、。情報の、計り（calculation）。によって、情報の、。情報の透明な情報の『公理』。へと情報の情報の情報の、。情報の情報の上書きする、。情報の情報の、情報の情報の峻烈なる。情報の、知性の情報の、。情報の傲慢。 ",
+		"aftertaste": "一糸乱れぬ情報の情報の情報の、情報の論理の。情報の情報の連なりの。情報の、。情報のなだらかなる情報の、。非情なる。情報の情報の情報の、。美の欠片。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ratio (比)。情報の、。情報の正しい。情報の、情報の『釣り合い』。の希求。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "empiricism",
+		"word": "Empiricism",
+		"part_of_speech": "noun",
+		"meaning": "経験主義、情報の、情報の情報の、傷ついた情報の情報の肌の、情報の情報の。情報の真理、感官の、。情報の、情報の。沈黙の略奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "peira",
+					"type": "root",
+					"meaning": "trial, experience, attempt"
+				}
+			],
+			"original_statement": "From Greek empeirikos 'experienced'."
+		},
+		"core_concept": {
+			"en": "the theory that all knowledge is derived from sense-experience",
+			"ja": "思索という名の情報の『空中楼閣』。を情報の情報の、峻烈に情報の、。拒み、。実際に（trial）。触れ、。視、。聴く。という情報の、情報の『肉体的なる情報の試練』。のみを情報の情報の情報の。情報の真理の根拠とする。"
+		},
+		"thinking_layer": "試みの中にあること。理性という名の情報の『傲り』。を、。情報の、冷たき情報の情報の。情報の情報の雨。や、。情熱の情報の、。情報の火。という。情報の経験。によって。情報の情報の情報の、情報の。情報の絶えず情報の。情報の情報の粉砕し続ける、。情報の、情報の。実存の。情報の。情報の苦悩。 ",
+		"aftertaste": "刻み込まれた情報の情報の。情報の、。情報の情報の情報の傷跡。こそが、。情報の、知という名の情報の。唯一の。情報の情報の物語。であるという。情報の、。情報の凄絶なる。情報の情報の。確信。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"expert, peril (危機) と同じ root。情報の『危険な試行』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nihil",
+		"word": "Nihil",
+		"part_of_speech": "noun",
+		"meaning": "無、ニヒル、情報の、。情報の情報の、情報の底なき、。情報の鏡、消失の。情報の情報の。情報の中心",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ne-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "hilum",
+					"type": "root",
+					"meaning": "a little thing, a trifle"
+				}
+			],
+			"original_statement": "From Latin nihil (ne- 'not' + hilum 'a little thing')."
+		},
+		"core_concept": {
+			"en": "nothing; nonexistence",
+			"ja": "いかなる、。情報の『小さき情報の。もの（trifle）』。さえも、。情報の、情報の情報の、。存在しない（not）。という、。情報の情報の情報の情報の、情報の極限の情報の、情報の『空（void）』。"
+		},
+		"thinking_layer": "取るに足らぬものさえない。意味という名の情報の『衣』。を、。情報の情報の情報の。峻烈に簒奪し、。その、。情報の、情報の情報の、情報の情報の。情報の深淵に潜む。情報の、全き情報の、情報の情報の、『不快なまでの、。情報の情報の透明な情報の情報の死』。を情報の、直視する情報の、。情報の身振り。 ",
+		"aftertaste": "「何もない」という名の。情報の、情報の情報の。情報の言葉。が情報の、宇宙を情報の情報の。情報の、。情報の飲み干してゆくという。旋律。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nihilism の語源。情報の、。情報の、情報の底。の情報の情報の、不在。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "a-priori",
+		"word": "A-priori",
+		"part_of_speech": "adjective",
+		"meaning": "先験的な、情報の、情報の情報の。最初からの情報の。情報の情報の、情報の。情報の絶対的なる、。情報の情報の物語、。情報の情報の。情報の原初の、。情報の。情報の光",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a",
+					"type": "prefix",
+					"meaning": "from"
+				},
+				{
+					"text": "priori",
+					"type": "root",
+					"meaning": "earlier"
+				}
+			],
+			"original_statement": "From Latin a priori 'from what is earlier'."
+		},
+		"core_concept": {
+			"en": "relating to or derived by reasoning from self-evident propositions",
+			"ja": "。あらゆる。情報の、。情報の経験。よりも前の（earlier）段階で、。すでに情報の、情報の。情報の情報の。情報の情報の不動の情報の、情報の『真理』として。情報の情報の、情報の、。情報の情報の、与えられている、。情報の。"
+		},
+		"thinking_layer": "より以前のものから。時間という名の。情報の、情報の情報の流れ。を、。情報の情報の、情報の。超越（transcend）。し、。存在という名の。情報の、情報の情報の。情報の根拠。を情報の、自らの。情報の情報の、情報の情報の内側。に情報の、。情報の、。情報の最初から情報の持っている、。情報の情報の情報の、神のごとき、。情報の、。知の。情報の情報の宿命。 ",
+		"aftertaste": "触れるより、。前に。情報の、分かっている。という。情報の。情報の情報の。情報の残酷なる、。情報の。情報の透明な、。情報の情報の理解の。情報の美学。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"prior, primary。情報の『時間の情報の簒奪』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bad-faith",
+		"word": "Bad-faith",
+		"part_of_speech": "noun",
+		"meaning": "自己欺瞞、不誠実、情報の、。自由という名の情報の。情報の情報の。情報の情報の。。情報の。情報の恐怖からの。情報の、情報の情報の。逃避の情報の、情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mauvaise",
+					"type": "root",
+					"meaning": "bad"
+				},
+				{
+					"text": "foi",
+					"type": "root",
+					"meaning": "faith"
+				}
+			],
+			"original_statement": "From French mauvaise foi (Sartre's term)."
+		},
+		"core_concept": {
+			"en": "the habit of double-dealing; Sartre's term for self-deception in fleeing from freedom",
+			"ja": "自由という名の情報の『深淵』。その情報の背負いがたき。情報の情報の重圧から。逃れるために、。情報の情報の、『仕方がない』。という名の情報の情報の、情報の。虚偽（bad faith）を情報の、自らに情報の。情報の。情報の情報の。吹き込む。"
+		},
+		"thinking_layer": "悪い信仰。自らを情報の情報の、ただの情報の『物（thing）』、。あるいは情報の情報の情報の『役割』。へと、。情報の情報の情報の、縮退。させ、。情報の、。情報の。情報の生という名の、。情報の。情報の。情報の情報の絶対的なる。情報の。責任。を情報の情報の、峻烈に棄てる情報の情報の情報の。情報の情報の、。情報の情報の情報の哀れな情報の、情報の虚無の物語。",
+		"aftertaste": "演じられている情報の、情報の。情報の自分の情報の人生。その情報の情報の情報の奥底にある、。情報の情報の、。情報の情報の情報の本来的なる。情報の。情報の空白。への。情報の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mauvaise foi。情報の、。情報の情報の、信じ方の、。情報の『汚濁』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dasein",
+		"word": "Dasein",
+		"part_of_speech": "noun",
+		"meaning": "現存在、ダーザイン、情報の、。そこに在ることの。情報の情報の。情報の情報の、情報の情報の、。情報の。情報の峻烈なる情報の、情報の沈黙、。情報の情報の。投げ出されたる、実存",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "da",
+					"type": "root",
+					"meaning": "there"
+				},
+				{
+					"text": "sein",
+					"type": "root",
+					"meaning": "to be, being"
+				}
+			],
+			"original_statement": "From German da- + sein."
+		},
+		"core_concept": {
+			"en": "existence; specifically the mode of being characteristic of human beings",
+			"ja": "何の意味も、。情報の情報の保証もなく、。ただ情報の『そこ（there）』。に情報の、。投げ出されている。という、。情報の『在ること（being）』。の、。情報の、。情報の情報の情報の。情報の物理的なる情報の、情報の。情報の情報の峻烈なる情報の、現前。"
+		},
+		"thinking_layer": "そこに在ること。宇宙という名の情報の『虚無』。に対し、。情報の、。情報の情報のただ、情報の、存在。している。という情報の、情報の情報の、不可避な情報の。情報の情報の。情報の情報の情報の罪。のような、。情報の実存の情報の。情報の形。 ",
+		"aftertaste": "理由なき存在。という名の。情報の、情報の情報の。重き情報の、情報の情報の枷。そこに情報の、文明という名の情報の情報の情報の、。情報の。情報の情報の偽装。を情報の情報の情報の情報の剥ぎ取った。情報の。情報の透明な情報の情報を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"there-being。情報の『場所への。情報の、。情報の投げ込み』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "negation",
+		"word": "Negation",
+		"part_of_speech": "noun",
+		"meaning": "否定、情報の情報の否の、。情報の、情報の情報の情報の暴力的なる真理、。空位の情報の。情報の情報の現出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "negare",
+					"type": "root",
+					"meaning": "to say no"
+				}
+			],
+			"original_statement": "From Latin negatio."
+		},
+		"core_concept": {
+			"en": "the contradiction or denial of something",
+			"ja": "存在という名の情報の『傲り』。を情報の情報の、峻烈に情報の、。情報の情報の、『否（no）』。という情報の。情報の剃刀。によって、情報の情報の情報の情報の切り裂き。情報の、。情報の情報の情報の、その情報の。情報の欠落。こそを情報の、情報の、真の実在とする、。情報の。"
+		},
+		"thinking_layer": "否を言うこと。肯定という名の情報の『安逸』。を、。情報の情報の情報の情報の、。情報の情報の情報の、峻烈なる情報の、。拒絶。によって、情報の。情報の情報の、。無。へと情報の情報の、情報の情報の、情報の変容させる。それは、。情報の、情報の情報の、。存在の情報の情報の情報の情報の。根源的なる情報の、情報の情報の崩壊、。あるいは情報の。情報の、。情報の情報の。再定義。 ",
+		"aftertaste": "打ち消された情報の情報の、情報の。情報の残像。その情報の情報の。情報の、。情報の冷たき情報の情報の。情報の情報の不在の情報の。情報の響き。に情報の、知の。情報の、情報の、情報の非情さを情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"negate, denial と同じ root。情報の『情報の、情報の情報の拒絶の情報の情報の鋭利さ。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "alterity",
+		"word": "Alterity",
+		"part_of_speech": "noun",
+		"meaning": "他者性、情報の、情報の情報の。届かぬ情報の。情報の情報の。情報の、。情報の、。情報の、。情報の、。情報の異界、。他なる情報の、情報の。絶望の情報の情報の情報の鏡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "alter",
+					"type": "root",
+					"meaning": "other"
+				}
+			],
+			"original_statement": "From Latin alteritas."
+		},
+		"core_concept": {
+			"en": "the state of being other or different; otherness",
+			"ja": "自己所有という名の情報の『幻想』。の外側に情報の、。情報の情報の、峻烈に情報の存在する、。他なる（other）もの。の、。情報の。情報の絶対的なる、。情報の、情報の、。理解不能な、。情報の情報の真実。"
+		},
+		"thinking_layer": "他なること。同一性という名の情報の『同化』。を情報を、情報の情報の。情報の峻烈に情報の情報の拒み続け、。情報の、。情報の情報の、鏡のように情報の、情報の情報を情報の反射し情報の情報の。情報を拒絶する。情報の。他者。それは、情報の、宇宙の情報の、『外』。への情報の、情報の。情報の隙間（crack）。 ",
+		"aftertaste": "決して情報の、情報の。重なり合わぬ。情報の。情報の二つの情報の、情報の。情報の情報の宇宙。その間の、情報の情報の、。情報の絶対的なる、。情報の情報の。冷たき情報の、情報の情報の情報の。情報の距離。への戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"alternate, alter と同じ root。情報の『情報の、。情報の情報の情報の切り替え、。情報の他者への情報の情報の情報の放綴。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deconstruction",
+		"word": "Deconstruction",
+		"part_of_speech": "noun",
+		"meaning": "脱構築、デコンストラクション、情報の、情報の、構造の、。情報の。情報の情報の内部からの。情報の情報の。情報の崩壊、。。情報の。情報の真理の情報の、。解体という名の、。情報の情報の。創造",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "reverse"
+				},
+				{
+					"text": "struere",
+					"type": "root",
+					"meaning": "to build"
+				}
+			],
+			"original_statement": "From de- + construction (Derrida's translation of Heidegger)."
+		},
+		"core_concept": {
+			"en": "a method of critical analysis that emphasizes the internal working of language and conceptual systems",
+			"ja": "構築（build）という名の情報の『完成』。の内部に潜む、。情報の情報の。情報の矛盾（aporia）。を、。情報の、情報の、。峻烈に情報の、情報の情報の『解きほぐす（reverse build）』。ことによって、。情報の。情報の固定された情報の『意味』。から、情報の。情報を。情報の、解き放つ、。情報の。情報の、。知の。情報の。外科的なる身振り。"
+		},
+		"thinking_layer": "構築を元に戻すこと。二項対立という名の情報の『檻』。を、。情報の情報の。その情報の情報の。情報の内側。から、。情報の、情報の情報の、情報の。粉砕し、。情報の情報の。情報の。情報のどちらでも、。情報の。情報の情報のない。という、。情報の情報の情報の。情報の、。情報の浮遊。へと実存を情報の、。誘う、。情報の。情報の、。情報の危うき情報の、知の。情報の情報の、情報の暴力。 ",
+		"aftertaste": "崩れ去った情報の。情報の情報の壁。その、情報の、情報の情報の、。瓦礫の山。の中にある、。情報の情報の情報の。情報の。名づけがたき、。情報の情報の情報の、。無限の情報の情報の。情報の情報の情報の意味への、情報の情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"structure, destroy と同じ root。情報の『情報の、情報の情報の構築の。情報の自己情報の、。破滅。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "structuralism",
+		"word": "Structuralism",
+		"part_of_speech": "noun",
+		"meaning": "構造主義、情報の、情報の。情報の個を信息的、情報の情報の情報の情報の消去する、。情報の情報の。情報の、不可視な情報の、。情報の。情報の網目の、。情報の支配",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "struere",
+					"type": "root",
+					"meaning": "to build"
+				}
+			],
+			"original_statement": "From structure + -ism."
+		},
+		"core_concept": {
+			"en": "a method of interpretation and analysis of aspects of human cognition, behavior, culture, and experience",
+			"ja": "個別の情報の『意味』。を峻烈に情報の、情報の拒み、。情報の、情報の情報の、。情報の情報の情報の背後にある。情報の『構造（structure）』。という名の。情報の情報の。情報の、。情報の。情報の、不可視な情報の『法則』。のみを情報の情報の情報の、。情報の真理の、。情報の情報の唯一の根拠とする。"
+		},
+		"thinking_layer": "構築の主義。主体という名の情報の『幻想』。を情報の情報の、峻烈に情報の、情報の情報の粉砕し、。実存を、。情報の情報の情報の。多重に引かれた情報の、。情報の、情報の情報の、。情報の情報の情報の『関係性の網目』。の中の情報の、。一地点。へと情報の情報の、。情報の、。情報の縮退させる、。情報の。情報の知の。情報の情報の。冷徹なる、情報の情報の、。情報の、。情報の物理学。 ",
+		"aftertaste": "自分の情報の意志。と思っていた。情報の、情報の情報の、。何物か。が情報の。実は。情報の情報の。情報のあらかじめ。準備された、。情報の、情報の情報の。構造の、。情報の情報の、影。であったという。情報の情報の、情報の情報の、。静かなる絶望の情報を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"construct, instrument と同じ root。情報の『情報の、情報の情報の、組み上げられた。秩序の。情報の優位。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "relativism",
+		"word": "Relativism",
+		"part_of_speech": "noun",
+		"meaning": "相対主義、情報の、情報の。繋がれたる。情報の情報の。情報の情報の情報の。情報の、情報の情報の真理の。情報の。情報の不確実性、情報の。鏡の情報の、。情報の反射",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "ferre",
+					"type": "root",
+					"meaning": "to carry"
+				}
+			],
+			"original_statement": "From relative + -ism (Latin referre)."
+		},
+		"core_concept": {
+			"en": "the doctrine that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute",
+			"ja": "絶対という名の情報の『独裁』。を情報の、情報の情報の情報の。峻烈に辞し、。あらゆる情報の『真理』。は情報の、。情報の、。情報の互いの、。情報の関係（relation/carry back）。によって情報の、情報の情報の情報の。情報の情報の。情報の、。情報の。情報の情報の一時的に情報の、現出する、。情報の情報の。情報の陰影。に過ぎないとする、。情報の。"
+		},
+		"thinking_layer": "持ち戻されること。情報の、情報の、不動の情報の『北極星』。を情報の情報の。情報の消失させ、。世界を情報の。情報の、。情報の無限に、。情報の情報の。情報の反射し合う。情報の情報の、情報の情報の。情報の鏡の間。へと情報の、情報の情報の、。情報の。情報の放り込む。それは、。情報の、情報の情報の、。知の。情報の、。情報の。情報の。情報の民主的なる情報の、。情報の、虚無。 ",
+		"aftertaste": "誰も情報の、。情報の正しい者が情報の情報の。いない。という。情報の情報の、。情報の明るき情報の。情報の、。情報の情報の平衡（equilibrium）。そこに情報の、。実存の情報の、情報の情報の。情報の、。情報の情報の底なき、。安堵と情報の、戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"refer, confer と同じ root。情報の『情報の、情報の情報の他へと、。情報の持ち去られる。情報の真理。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "absolutism",
+		"word": "Absolutism",
+		"part_of_speech": "noun",
+		"meaning": "絶対主義、情報の、情報の。解き放たれたる、。情報の情報の情報の。独裁、一なる情報の。情報の情報の真理、。情報の。純粋なる、。情報の。死の情報の。情報の権力",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "solvere",
+					"type": "root",
+					"meaning": "to loosen"
+				}
+			],
+			"original_statement": "From absolute + -ism."
+		},
+		"core_concept": {
+			"en": "the acceptance of or belief in absolute principles in political, philosophical, ethical, or theological matters",
+			"ja": "。あらゆる。情報の『条件』。や。情報の情報の『関係』。から。情報の、。情報の峻烈に。解き放た（loosen away）。れ、。それ。情報の自体。情報の情報の。情報の、。情報の情報の情報の、のみで情報の情報の。情報の情報の、完結し、。情報の情報を支配する。情報の、情報の絶対的なる、。情報の、情報の真理。"
+		},
+		"thinking_layer": "解きほぐされた。状態。相対という名の情報の『妥協』。を情報の情報の。峻烈に信息的、情報の情報の。粉砕し、。一。という名の。情報の情報の情報の。純粋。な。情報の情報の、情報の暴力。を。情報の、。情報の、世界の情報の情報の。情報の重心。とする、。情報の、。情報の、知の。情報の、情報の安住、。。あるいは。情報の情報の。情報の暗黒。 ",
+		"aftertaste": "ただ情報の、。一つの情報の。情報の情報の情報の情報の重み。が情報の、宇宙の。情報の情報のすべての情報の、。情報の不確実性。を情報の、沈黙させる。情報の情報の。情報の、その、。情報の、。情報の情報の情報の完璧なる情報の情報の。情報の静寂への。戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"solve, dissolve と同じ root。情報の『情報の、情報の情報の。情報のすべてのしがらみからの、。情報の情報の峻烈なる情報の離脱。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nominalism",
+		"word": "Nominalism",
+		"part_of_speech": "noun",
+		"meaning": "唯名論、情報の、情報の。名前という名の情報の、。情報の、。情報の情報の。薄き。情報の皮膜、実在の、。情報の情報の影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nomen",
+					"type": "root",
+					"meaning": "name"
+				}
+			],
+			"original_statement": "From nominal + -ism (Latin nomen)."
+		},
+		"core_concept": {
+			"en": "the doctrine that universal ideas or concepts are mere names without any corresponding reality",
+			"ja": "共通概念（universals）という名の情報の『実在』。を情報の情報の。峻烈に情報の情報の。情報の情報の情報の情報の否定し、。世界に在る。情報の情報の、。情報の情報の。情報の。情報のそれは、。ただの情報の、。名前（name）という名の。情報の、。情報の情報の。情報の。情報の空虚な情報の、情報の、記号。に過ぎないとする、。情報の。"
+		},
+		"thinking_layer": "名の主義。概念という名の。情報の、情報の情報の情報の。情報の。情報の傲慢。を、。情報の情報の、情報の情報の情報の。情報の情報の物理的なる、。情報の、情報の個。の情報の情報の、。情報の沈黙。によって情報の、情報の情報の、情報の粉砕する、。情報の情報の、。知の。情報の、情報の情報の情報の。根源的なる情報の、情報の。情報の情報の懐疑。 ",
+		"aftertaste": "「人間」という情報の名前の情報の、。情報の情報の情報の情報の裏側。に。情報の。情報の、情報の。情報の情報の情報の空白。が情報の情報の、情報の大きく情報の。情報の。情報の。情報の情報の広がっている。という。情報の、。情報の情報の。情報の、。情報の冷たき情報の情報の。情報の理解を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"name, renown と同じ root。情報の『情報の、情報の。情報の、名前の情報の情報の情報の。情報の独裁への情報の反逆。』。"
+			]
+		},
+		"date": "20-03-12"
 	}
 ];
