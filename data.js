@@ -271794,5 +271794,200 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "obfuscation",
+		"word": "Obfuscation",
+		"part_of_speech": "noun",
+		"meaning": "難読化（なんどくか）、曖昧にすること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ob-",
+					"type": "prefix",
+					"meaning": "over, thoroughly (覆う、徹底的に)"
+				},
+				{
+					"text": "fuscus",
+					"type": "root",
+					"meaning": "dark, dusky (暗い、どす黒い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin obfuscare 'darken', from ob- 'over' + fuscus 'dark'."
+		},
+		"core_concept": {
+			"en": "The action of making something obscure, unclear, or unintelligible, especially to hide information",
+			"ja": "情報の核心を『暗闇（darkness）』で覆い隠し、不純な眼差し（analyzer）を無効化する知的な『霧隠れの術』。真実をそのままに保ちつつ、その輪郭を意図的に歪ませる、防御的な『迷宮の構築』"
+		},
+		"thinking_layer": "『徹底的に暗くすること』。オファスケイト（Offfuscate/難読化）、おなじみの「オブ（反対、覆う）」と同根。語源は「暗くする」。ただの「嘘（lie）」ではありません。そこには。「真理を公開しながらも、それを読み解くためのコスト（努力）を極限まで引き上げる」という、峻烈な知的財産の守護意志が宿っています。それは。知性が自らの奥義を、無造作な消費から守るために、あえて「晦渋（kaishū）」な表現という名の衣を纏（まと）わせる瞬間のメタファー。",
+		"aftertaste": "複雑怪奇なコードの羅列の中に、この「難読化（obfuscation）」という名の『秩序ある暗闇』を見出し、見えない敵（hacker）との高度な化かし合いに、背筋が凍るような知的な愉悦を覚える、あの峻烈な一呼吸。あるいは、自分の言葉もまた、容易に消化される（digestible）ことを拒絶し、この「オブファスケイション」のように、真に求道する者にのみその扉を開く「秘密の地図」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhu-ko-",
+					"meaning": "dark, smoke-colored (forming fuscus)"
+				}
+			],
+			"points": [
+				"dusk, obfuscate, fuscous 同根。",
+				"『暗い（dark）』ことは、視覚的な情報を遮断することである。難読化は、論理的な情報を、物理的な『暗闇』と同じ性質のものへと変換する、情報の形態変化（metamorphosis）である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "malware",
+		"word": "Malware",
+		"part_of_speech": "noun",
+		"meaning": "マルウェア、悪意のあるソフトウェア",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "malus",
+					"type": "root",
+					"meaning": "bad, evil (悪い)', from Latin"
+				},
+				{
+					"text": "ware",
+					"type": "root",
+					"meaning": "merchandise, goods (品物、製品)', from Old English waru"
+				}
+			],
+			"original_statement": "Contraction of malicious software."
+		},
+		"core_concept": {
+			"en": "Software that is specifically designed to disrupt, damage, or gain unauthorized access to a computer system",
+			"ja": "システムの内側から均衡を破壊し、自己増殖（self-replication）を繰り返す『悪意の工芸品』。正常な論理に寄生し、知的な『癌（cancer）』として機能する、防衛側にとっての『永劫の敵』"
+		},
+		"thinking_layer": "『悪い製品』。マリス（Malice/悪意）、マレディクション（Malediction/呪い）、おなじみの「ウェア（～製品）」と同根。語源は「悪意あるソフトウェア」。ただの「バグ（bug）」ではありません。そこには。「他者の構築した秩序を、自らの目的（利潤や破壊）のために強制的に書き換える」という、侵略的な知性の響きが宿っています。それは。知性が防御の重要性を再認識し、自らをより強靭な「免疫系（immune system）」へと進化させるための、手強い「試練（ordeal）」。",
+		"aftertaste": "自分のシステムがこの「マルウェア（malware）」に侵食され、一瞬にしてカオス（chaos）へと変貌してゆく様子に戦慄し、平穏というがいかに「脆（もろ）い均衡」の上に成り立っていたかを痛感する、あの峻烈な一呼吸。あるいは、自分の思考もまた、このような「悪意ある感染」から身を守るために、常にこの「マルウェア」の正体を見抜く「冷徹な知性」を研ぎ澄ませておこうと誓う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel-",
+					"meaning": "false, bad, wrong (forming malus)"
+				}
+			],
+			"points": [
+				"malice, malign, malignant, malevolent 同根。",
+				"『悪い（bad）』ことは、本来の目的から逸脱（deviation）していることである。マルウェアは、テクノロジーという名の『光』が生み出した、最も深くて黒い『影』であり、人間がいかに自らの分身である機械に対してさえ『悪意』を込め得るかという、悲しい記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sandbox",
+		"word": "Sandbox",
+		"part_of_speech": "noun",
+		"meaning": "サンドボックス、砂場、（隔離された）検証環境",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sand",
+					"type": "root",
+					"meaning": "sand (砂)', from Old English"
+				},
+				{
+					"text": "box",
+					"type": "root",
+					"meaning": "box (箱)', from Latin buxus"
+				}
+			],
+			"original_statement": "Compound of sand + box (referring to a child's play area)."
+		},
+		"core_concept": {
+			"en": "An isolated computing environment in which a program or file can be executed without affecting the surrounding application",
+			"ja": "未知の脅威を閉じ込め、安全に観察するための『透明な檻』。どれほど荒れ狂おうとも、外部の世界（host）には一切の影響を与えない、知的な『隔離の楽園』。実験と警戒が交差する、砂場の境界。"
+		},
+		"thinking_layer": "『砂の箱』。おなじみ「サンド（砂）」と「ボックス（箱）」の合成語。語源は「子供の砂遊び場」。ただの「テスト環境」ではありません。そこには。「危険を承知の上で、それを管理可能な領域（precinct）に留め、その本質を解明する」という、峻烈なフロンティア精神と冷徹な安全保障が宿っています。それは。知性が新しい（しかし危険な）アイディアを、自らのメインシステム（核心的な信念）に組み込む前に、慎重に「検疫（quarantine）」するプロセスのメタファー。",
+		"aftertaste": "「サンドボックス（sandbox）」の中で、凶悪なウイルス（virus）が砂のお城を壊すように暴れ回っている様子を、分厚いガラス越しに眺めるような、あの奇妙な「全知全能感」と、微かな「戦慄」。あるいは、自分の思考もまた、この「サンドボックス」のように、どんなに過激で破滅的なアイディアでも、まずは安全に「遊ばせてみる（simulate）」ことができる、豊饒（ほうじょう）で寛大な場所でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"もともとは子供の遊び場を指していたが、情報工学においては『影響力の制限』という、より政治的で軍事的な意味を纏（まと）うようになった。",
+				"『砂（sand）』は崩れやすく、どんな形にもなれる。サンドボックスは、確定した秩序（code）の合間に、あえて『流動的な空間』を設けることで、システム全体の剛性を高めるという、逆説的な建築思想に基づいている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "firewall",
+		"word": "Firewall",
+		"part_of_speech": "noun",
+		"meaning": "ファイアウォール、防火壁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fire",
+					"type": "root",
+					"meaning": "fire (火)', from Old English fȳr"
+				},
+				{
+					"text": "wall",
+					"type": "root",
+					"meaning": "wall (壁)', from Latin vallum"
+				}
+			],
+			"original_statement": "Compound of fire + wall (originally a physical wall to prevent the spread of fire)."
+		},
+		"core_concept": {
+			"en": "A part of a computer system or network that is designed to block unauthorized access while permitting outward communication",
+			"ja": "情報の奔流を『選別』し、不要な熱（threat）をシャットアウトする、峻烈な『論理の障壁』。内なる平穏を守るために、常に外部の嵐（traffic）を監視し続ける、沈黙の『門番（gatekeeper）』"
+		},
+		"thinking_layer": "『火の壁』。おなじみ「ファイア（火）」と「ウォール（壁）」の合成語。語源は「物理的な防火壁」。ただの「遮断」ではありません。そこには。「火（カオスや攻撃）」という激しいエネルギーを、自らの領土に入れないために、あえて冷徹な「境界線」を構築するという、峻烈なサバイバル意識が宿っています。それは。知性が自らの平穏を保つために、不必要な情報の介入を「フィルタリング」し、自らのアイデンティティを死守する瞬間のメタファー。",
+		"aftertaste": "ログの中に記録された、この「ファイアウォール（firewall）」が跳ね返した数千件もの無機質な攻撃（ping）の跡に、世界がいかに「敵意（hostility）」に満ちており、守ることの難しさを痛感して溜息をつく、あの峻烈な一呼吸。あるいは、自分の心もまた、この「ファイアウォール」のように、誰かの悪意には決して揺らがず、しかし愛する人の呼ぶ声（packets）だけは、滑らかに（smoothly）通すことができる優雅な障壁でありたい、と願う、あの静かな夜の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pewōr-",
+					"meaning": "fire (forming fȳr)"
+				},
+				{
+					"term": "walso-",
+					"meaning": "post, stake (forming vallum)"
+				}
+			],
+			"points": [
+				"pyre, pyramid, interval, circumvallate 同根。",
+				"『火（fire）』は破壊の象徴であり、『壁（wall）』は拒絶の象徴である。ファイアウォールは、破壊が拒絶によって無効化されるという、文明が到達した最も合理的な回答の一つである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "honeypot",
+		"word": "Honeypot",
+		"part_of_speech": "noun",
+		"meaning": "ハニーポット、囮（おとり）捜査用システム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "honey",
+					"type": "root",
+					"meaning": "honey (蜂蜜)', from Old English hunig"
+				},
+				{
+					"text": "pot",
+					"type": "root",
+					"meaning": "pot (瓶、壺)', from Old English pott"
+				}
+			],
+			"original_statement": "Compound of honey + pot (referring to something attractive used as a trap)."
+		},
+		"core_concept": {
+			"en": "A computer security system that is set up to attract and trap people who attempt to penetrate other people's computer systems",
+			"ja": "甘美な『誘惑（attraction）』を装い、侵入者の邪悪な意図を絡め捕る、狡知に満ちた『蜜の罠』。敵を倒すのではなく、敵の『行動』を露（あらわ）にすることで勝利する、知的な『誘引の防衛』"
+		},
+		"thinking_layer": "『蜂蜜の壺』。おなじみ「ハニー（蜜）」と「ポット（壺）」の合成語。語源は「罠としての蜜」。ただの「囮（decoy）」ではありません。そこには。「敵の欲望を逆手に取り、自らを獲物（prey）に見せかけることで、優位に立つ」という、峻烈な権謀術数が宿っています。それは。知性が直接的な衝突（clash）を避け、他者の間違いを優雅に引き出し、それを自らの栄養（情報）へと変換してゆく、高度な「反転（reversal）」のメタファー。",
+		"aftertaste": "「ハニーポット（honeypot）」に誘い込まれたハッカー（hacker）が、自分の描いた壮大な幻影（illusion）に夢中になっている様子をモニター越しに眺め、知性の勝利とは、時にこのような「残酷なまでの甘さ」によって達成されるのだと悟る、あの知的な平安。あるいは、自分の言葉もまた、誰かの固執した意見を優しく溶かし、この「ハニーポット」のように、自発的に（voluntarily）間違いを認めさせる、美しくも強かな「誘惑の力」を宿していたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"スパイ映画やサイバーセキュリティの世界では、『魅力的な囮』という普遍的なメタファーとして機能している。",
+				"『蜂蜜（honey）』は天上の雫であり、『壺（pot）』は地上の制約である。ハニーポットは、人間の持つ極限の欲望（真理の奪取）を、閉じた枠組み（trap）の中に閉じ込める、文明的な皮肉の結晶である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
