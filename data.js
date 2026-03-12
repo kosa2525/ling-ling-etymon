@@ -276078,5 +276078,204 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "lymphocyte",
+		"word": "Lymphocyte",
+		"part_of_speech": "noun",
+		"meaning": "リンパ球（りんぱきゅう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lympha",
+					"type": "root",
+					"meaning": "clear water"
+				},
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "cell"
+				}
+			],
+			"original_statement": "From Latin lympha 'water' + Greek kytos 'cell'."
+		},
+		"core_concept": {
+			"en": "a form of small leukocyte with a single round nucleus",
+			"ja": "生命の『澄んだ水（clear water）』の中を巡り、情報の純粋さを死守する知的な騎士。記憶（memory）と峻烈な識別の力を持つ情報の精鋭。"
+		},
+		"thinking_layer": "『水の細胞』。リンパ（Lymph/澄んだ水）、おなじみの「サイ（-cyte/細胞）」と同根。語源は「透明な水」。ただの「細胞」ではありません。そこには。「濁りなき良心という名の水の如き純粋さを保ちながら、異質な情報の芽を冷徹に摘み取る」という、峻烈な洗練の意志が宿っています。それは。知性が社会の激流の中で、あえて自分の「透明なさ。というアイデンティティを唯一の武器として立ち上がる瞬間のメタファー。",
+		"aftertaste": "自分の身体を流れる『水の如き知性』の静かな力強さに想いを馳せ、自分もまた清潔な魂を保ちたいと願う平安。偏見という名の濁りを払い、真実を見通す澄んだ瞳を持ち続けたい自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nebh-",
+					"meaning": "cloud, water (forming lympha?)"
+				}
+			],
+			"points": [
+				"リンパ球は胸腺（thymus）や骨髄で教育を受ける。情報の純度を維持するための『知のエリート』たちの軌跡。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "macrophage",
+		"word": "Macrophage",
+		"part_of_speech": "noun",
+		"meaning": "マクロファージ、大食細胞",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "makros",
+					"type": "root",
+					"meaning": "long, large"
+				},
+				{
+					"text": "phagein",
+					"type": "root",
+					"meaning": "to eat"
+				}
+			],
+			"original_statement": "From Greek makros 'large' + phagein 'eat'."
+		},
+		"core_concept": {
+			"en": "a large phagocytic cell found in stationary form in the tissues or as a mobile white blood cell",
+			"ja": "異質なものを丸ごと呑み込み（eating large）、その『物語（information）』を咀嚼し自分の一部へと変える情報の略奪者。戦場のゴミ（waste）を片付けながら、新しい秩序の種（presentation）を蒔く、生命の慈悲深き掃除屋。"
+		},
+		"thinking_layer": "『大きく食べるもの』。マクロ（Macro/巨大な）、食道（Esophagus/食べる道）、おなじみの「ファージ（-phage/食べるもの）」と同根。語源は「大食」。ただの「掃除屋」ではありません。そこには。「敵対する者を排除するのではなく、自らの中に取り込み（assimilation）、その経験を全体へと『報告（presentation）』する」という、驚異的な対話の知恵が宿っています。それは。知性が自分と異なる他者の意見を、あえてその懐まで深く入り込んで理解し、自らの成長の糧へと昇華させてゆく瞬間の、貪欲なまでの知的な食欲（appetite）。",
+		"aftertaste": "全てを包み込み、糧とするマクロファージの圧倒的な包容力に、生命の究極の美徳を感じる平安。不条理な現実をも呑み下し、それを未来への智慧へと変換してゆく、不屈の精神の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "me-",
+					"meaning": "large (forming makros?)"
+				}
+			],
+			"points": [
+				"マクロファージは死んだ細胞をも食べる。崩壊を新しい生命の『肥料』へと変え続ける再生の工学。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "neutrophil",
+		"word": "Neutrophil",
+		"part_of_speech": "noun",
+		"meaning": "好中球（こうちゅうきゅう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "neuter",
+					"type": "root",
+					"meaning": "neither"
+				},
+				{
+					"text": "philos",
+					"type": "root",
+					"meaning": "loving"
+				}
+			],
+			"original_statement": "From Latin neuter 'neither' + Greek philos 'loving'."
+		},
+		"core_concept": {
+			"en": "the most common type of white blood cell",
+			"ja": "酸にもアルカリにも偏らず（neuter）、ただ『中庸（the middle）』という名の戦場を愛する不退転の先遣隊。自らの一部を犠牲にしてでも、異質な情報の拡大を阻止する情報の特攻兵。"
+		},
+		"thinking_layer": "『中庸を好むもの』。ニュートラル（Neutral/中立の）、フィロソフィ（Philosophy/知を愛す）、おなじみの「中立（Neither）」と同根。語源は「どちらでもないものを愛す」。ただの「数が多い細胞」ではありません。そこには。「特定の主義主張に染まらず、ただ『自分という存在の維持』という最も基本的な法を守るために、躊躇なく命を投げ出す」という、峻烈な実務の美学が宿っています。それは。知性が派和な喧騒の左右に揺さぶられることなく、ただ『真実の一点』を死守するために、全ての虚飾を脱ぎ捨てて現場へと馳せ参じる瞬間のメタファー。",
+		"aftertaste": "最前線で黙々と戦い、散ってゆく好中球の健気な自己犠牲に。自分を支える無数の献身を知る平安。どんなに激しい波に晒されても。自分の中の『公正さ』を決して失わない知的な誠実の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not"
+				},
+				{
+					"term": "uter",
+					"meaning": "either"
+				}
+			],
+			"points": [
+				"染色時に中性の色素に染まることから。それは偏見なき識別の象徴でもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "phagocyte",
+		"word": "Phagocyte",
+		"part_of_speech": "noun",
+		"meaning": "食細胞（しょくさいぼう）、ファゴサイト",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "phagein",
+					"type": "root",
+					"meaning": "to eat"
+				},
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "cell"
+				}
+			],
+			"original_statement": "From Greek phagos 'eater' + kytos 'cell'."
+		},
+		"core_concept": {
+			"en": "a type of cell within the body capable of engulfing and absorbing bacteria and other small cells and particles",
+			"ja": "外なる混沌を内なる智慧へと『食らい（eating）』、変換（absorption）する生命の情報の門番。自らの一部を世界へと拡張し、異質なものを愛の如き包摂で無効化する。"
+		},
+		"thinking_layer": "『食べる器』。食作用（Phagocytosis）、おなじみの「サイ（-cyte/細胞）」と同根。語源は「むさぼり食う器」。ただの「免疫細胞」ではありません。そこには。「自分を脅かす存在を外部に排除するのではなく、あえてその懐（inner system）に招き入れ、自分の秩序へと服従させる」という、驚異的な主権回復の意志が宿っています。それは。知性が未知の恐怖を『情報の断片』として徹底的に分析し、自分の智慧をさらに強靭なものへと鍛え上げる、峻烈な獲得のプロセス。",
+		"aftertaste": "全てを呑み込み自らの力に変えてゆく食細胞の強かな生命力に。どのような困難も自分の糧になると確信する平安。不浄を浄化し、秩序を再構築し続ける不屈の開拓の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhag-",
+					"meaning": "portion, allot (forming phagein?)"
+				}
+			],
+			"points": [
+				"メチニコフによって発見され、免疫学の夜明けを告げた『食べることの英雄』たち。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "epitope",
+		"word": "Epitope",
+		"part_of_speech": "noun",
+		"meaning": "エピトープ、抗原決定基",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "epi-",
+					"type": "prefix",
+					"meaning": "upon, on top"
+				},
+				{
+					"text": "topos",
+					"type": "root",
+					"meaning": "place"
+				}
+			],
+			"original_statement": "From Greek epi- 'upon' + topos 'place'."
+		},
+		"core_concept": {
+			"en": "the part of an antigen molecule to which an antibody attaches itself",
+			"ja": "巨大な情報の山（antigen）の頂（upon）に屹立し、自分という存在の本質を世界へと暴露する『情報の最尖端（topos）』。敵も味方も、ただこの一点を巡って出会い、衝突する、生命の情報の『鍵穴』。"
+		},
+		"thinking_layer": "『表面の場所』。エピソード（Episode）、ユートピア（Utopia/場所）、おなじみの「トピック（Topic/場所）」と同根。語源は「その上の場所」。ただの「結合部位」ではありません。そこには。「全体は巨大で捉え難くとも、ただ一つの『象徴的な断片』があれば、その全てを定義し、裁くことができる」という、峻烈な要約の美学が宿っています。それは。知性が複雑な問題の迷宮の中から、唯一の本質である『真理の一点』を正確に突き止め、そこに全てのエネルギーを集中して突破を試みる瞬間の、鋭敏なまでの直感のメタファー。",
+		"aftertaste": "「エピトープ（epitope）」という名の、その小さくも絶対的な『場所』を巡る、一分子単位の情報の攻防に。宇宙の精緻なまでの法則性を垣間見る平安。自分の言葉もまた。このように人々の魂の核心という『場所に、正確に適合（binding）するものでありたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "top-",
+					"meaning": "place"
+				}
+			],
+			"points": [
+				"抗体が認識するのは抗原の全体ではなく、このエピトープという一部分である。情報は常に『部分』によって『全体』を語る。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
