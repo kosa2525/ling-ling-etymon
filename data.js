@@ -256624,5 +256624,77 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "smelt",
+		"word": "Smelt",
+		"part_of_speech": "verb",
+		"meaning": "精錬する、溶解する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "smeltan",
+					"type": "root",
+					"meaning": "to melt (溶ける)",
+					"lang": "Old English/Germanic"
+				}
+			],
+			"original_statement": "From Dutch or Low German smelten 'to melt'."
+		},
+		"core_concept": {
+			"en": "Extract (metal) from its ore by a process involving heating and melting",
+			"ja": "石の中に眠っている純粋な金属を引き出すために、業火（ごうか）でそれまでの形を『溶かし（melt）』去ること。不純物を焼き払い、本質を抽出する峻烈な浄化"
+		},
+		"thinking_layer": "『溶かすこと』。メルト（Melt/溶ける）やマイルド（Mild/優しい＝溶かされて柔らかくなった？）と同根。ただの「加熱」ではなく、物質の「相」を根本から変容（Transform）させること。それは自分の中にある醜い「エゴ」を焼き払い、純粋な「意志」という名の黄金を取り出すための、知的な試練。 ",
+		"aftertaste": "真っ赤に煮えたぎる溶岩のような鉄液が、火花を散らしながら暗闇に流れ出す、あの圧倒的な熱と煌めき。あるいは、長年の苦しみの中で、自分の心が次第に「精錬（smelt）」され、混じり気のない強さを手に入れてゆく、あの静かな悟りの境地。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "mel-",
+					"meaning": "soft, mild (forming melt/smelt)"
+				}
+			],
+			"points": [
+				"melt, mild, mollify（和らげる）, enamel（エナメル＝溶かして塗るもの）と同根。",
+				"『硬い（hard）』現実を克服するためには、一度それを『溶かして（smelt）』流動的な状態へと戻さなければならないという、創造の鉄則。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crank",
+		"word": "Crank",
+		"part_of_speech": "noun/verb",
+		"meaning": "クランク、曲がり、変人、～を（クランクで）回す、不機嫌な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "krank",
+					"type": "root",
+					"meaning": "bent, twisted, weak (曲がった、ねじれた、弱い、病気の)",
+					"lang": "Germanic"
+				}
+			],
+			"original_statement": "From Old English cranc- (in crancstæf), related to German krank 'sick', Dutch krank 'weak'."
+		},
+		"core_concept": {
+			"en": "A part of an axle or shaft bent out at right angles, for converting reciprocal to circular motion and vice versa; an eccentric person",
+			"ja": "真っ直ぐな意志（直線運動）を、屈曲した『曲がり（bent）』を通すことで、力強い円環の回転へと変換するための装置。転じて、社会の真っ直ぐな道から『逸脱（twist）』してしまった変人"
+		},
+		"thinking_layer": "『曲がっていること』。クリンジ（Cringe/縮み上がる）と同根。ドイツ語の「病気（Krank）」とも関係があります。正常な直線のレールから外れ、ねじ曲がっていること。クランクは「回り始めるための最初の一押し」を必要とする。それは、変人（Crank）だからこそ、誰も思いつかなかった方向へ世界を「回し始める」ことができるという、創造の皮肉な反転。 ",
+		"aftertaste": "錆びついた古いエンジンの取っ手を、全身の力で「クランク（crank）」し、ついにか細い爆発音が聞こえ始めた時の、あの死んだ鉄塊が目覚めた瞬間の喜び。あるいは、偏屈な（cranky）老人の一見すると無意味な「こだわり」の中に、失われた真理の断片を見つけた時の、あの複雑な納得感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ger-",
+					"meaning": "to bend, twist"
+				}
+			],
+			"points": [
+				"crank, cringe, shrink 同根の説あり。",
+				"『ねじれ（twist）』ているからこそ、直線の力を『回転』という異なる次元へと変換できるという、不完全さの持つ強烈な機能美。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
