@@ -298742,5 +298742,1485 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "shutter",
+		"word": "Shutter",
+		"part_of_speech": "noun",
+		"meaning": "シャッター、情報の瞬時の情報の情報の情報の切り取り、沈黙のまばたき",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sceotan",
+					"type": "root",
+					"meaning": "to shoot"
+				}
+			],
+			"original_statement": "From Middle English schutter (one who shuts, or a bar)."
+		},
+		"core_concept": {
+			"en": "device that opens and closes to expose the film or sensor to light",
+			"ja": "光という名の情報の『奔流（burst）』に対し、峻烈な情報の『遮断（shut）』によって一瞬の記憶を情報の『矢（shoot）』として射る。"
+		},
+		"thinking_layer": "閉じるもの。あるいは射るもの。時間という名の情報の『連続性』を峻烈に破壊し、永遠という名の情報の『静止』へと実存を封印する、情報の冷徹なる断頭台（guillotine）。 ",
+		"aftertaste": "カシャリという金属音の中に、二度と戻らぬ一瞬が情報の『遺骸』へと変わった瞬間の、峻烈なる哀愁。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"shoot と同根。情報を『仕留める』装置。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "celluloid",
+		"word": "Celluloid",
+		"part_of_speech": "noun",
+		"meaning": "セルロイド、情報の燃えやすい情報の記憶、映画の肉体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cellulose",
+					"type": "root",
+					"meaning": "plant cell"
+				},
+				{
+					"text": "-oid",
+					"type": "suffix",
+					"meaning": "like"
+				}
+			],
+			"original_statement": "Trademark (1870) from cellulose + -oid."
+		},
+		"core_concept": {
+			"en": "transparent plastic material used for cinematographic film; cinema or films generally",
+			"ja": "植物の細胞（cell）という名の生命の情報の『名残』を、峻烈な情報の『透明なフィルム』へと変容させた、情報の変幻自在なる肉体。"
+		},
+		"thinking_layer": "セルロースに似たもの。光という名の情報の『幽霊』を、化学という名の情報の『定着』によって地上に繋ぎ止めるための、脆弱にして強靭な情報の媒体。 ",
+		"aftertaste": "映写機の熱で容易に燃え上がるその危うさに、虚像という名の情報の、儚き実存への戦慄を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"かつては映画そのものの代名詞。物理的な情報の記憶。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cinematography",
+		"word": "Cinematography",
+		"part_of_speech": "noun",
+		"meaning": "映画術、撮影技術、情報の情報の動きの記法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kinema",
+					"type": "root",
+					"meaning": "movement"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek kinema + graphein."
+		},
+		"core_concept": {
+			"en": "art of making motion pictures",
+			"ja": "動き（movement）という名の情報の『流動』を、峻烈な情報の『書記（writing）』によって再構築し、虚構の真理を現出させる。"
+		},
+		"thinking_layer": "動きの書記。世界という名の情報の『生成』を、光と影、角度と深度という名の情報の『文法』によって峻烈に翻訳（translate）し、観客という名の他者の脳裏に、偽りの記憶を峻烈に『上演』する術。 ",
+		"aftertaste": "レンズという名の情報の『フィルター』を通った世界が、現実よりも峻烈に美しく、あるいは残酷に見える瞬間の、情報の傲慢。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cinema, graphic と同じ roots。情報の時間的叙述。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "screenplay",
+		"word": "Screenplay",
+		"part_of_speech": "noun",
+		"meaning": "脚本、スクリーンプレイ、情報の情報の幕の中の情報の戯れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "screen",
+					"type": "root",
+					"meaning": "screen"
+				},
+				{
+					"text": "play",
+					"type": "root",
+					"meaning": "play"
+				}
+			],
+			"original_statement": "From screen + play (1916)."
+		},
+		"core_concept": {
+			"en": "script of a movie, including acting instructions and scene directions",
+			"ja": "スクリーン（screen）という名の情報の『境界』の向こう側で繰り広げられる、峻烈な情報の『遊戯（play）』の設計図。"
+		},
+		"thinking_layer": "遮蔽の中の劇。言葉という名の情報の『不完全さ』を、視覚という名の情報の『直接性』へと変換するための、沈黙の情報のト書き。それは、虚構という名の宇宙の情報の『法典』。 ",
+		"aftertaste": "紙の上の文字が、やがて光り輝く影のダンスへと昇華されてゆくという、情報の超越的なる化成。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"script, movie script と同義。情報の物語的骨格。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "viewfinder",
+		"word": "Viewfinder",
+		"part_of_speech": "noun",
+		"meaning": "ファインダー、情報の情報の切り取られた視界、審判の窓",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "view",
+					"type": "root",
+					"meaning": "to see"
+				},
+				{
+					"text": "find",
+					"type": "root",
+					"meaning": "to find"
+				}
+			],
+			"original_statement": "From view + find + -er."
+		},
+		"core_concept": {
+			"en": "device on a camera showing the field of view of the lens",
+			"ja": "無限という名の情報の『混沌』の中から、真実という名の情報の『構図』を峻烈に『見出し（find）』、切り取るための窓。"
+		},
+		"thinking_layer": "視界を見つけるもの。全方位という名の情報の『放任』を峻烈に辞し、四角い枠という名の情報の『規律』によって世界を裁こうとする、情報の審判（judgmental eye）。 ",
+		"aftertaste": "ファインダーを覗く瞬間の、自分以外の全世界が情報の『背景』へと退き、ただ一点の情報のモチーフが峻烈に際立つ、その快感への没入。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vision, found と同じ root。情報の『発見』の装置。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lenses",
+		"word": "Lenses",
+		"part_of_speech": "noun",
+		"meaning": "レンズ、情報の情報の屈折する情報の情報の情報のレンズ豆、視線の変奏",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lens",
+					"type": "root",
+					"meaning": "lentil"
+				}
+			],
+			"original_statement": "From Latin lens 'lentil' (shape)."
+		},
+		"core_concept": {
+			"en": "transmissive optical device that focuses or disperses a light beam",
+			"ja": "光という名の情報の『直進』を、峻烈な情報の『レンズ豆（lentil）』の形によって屈折させ、世界の形を自在に歪め、あるいは凝縮する。"
+		},
+		"thinking_layer": "レンズ豆。物理的な情報の『質量』を持ち、光という名の情報の『速さ』を蹂躙して、視覚という名の情報の『意味』を拡張する。広角という名の情報の『抱擁』と、望遠という名の情報の『略奪』の交差。 ",
+		"aftertaste": "ガラスの曲面の中に、宇宙の全情報が逆さまになって閉じ込められているという、幾何学的な情報の美への震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lentil (レンズ豆) の形からの命名。情報の物理的相似。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stroboscope",
+		"word": "Stroboscope",
+		"part_of_speech": "noun",
+		"meaning": "ストロボスコープ、情報の情報の時間の情報の情報の断片化、闇という名の情報の情報の情報の瞬き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "strobos",
+					"type": "root",
+					"meaning": "twisting, whirling"
+				},
+				{
+					"text": "skopein",
+					"type": "root",
+					"meaning": "to watch"
+				}
+			],
+			"original_statement": "From Greek strobos + -scope."
+		},
+		"core_concept": {
+			"en": "instrument used to make a cyclically moving object appear to be slow-moving or stationary",
+			"ja": "激しき『回転（whirling）』という名の情報のカオスを、極小の情報の『瞬き（watch）』によって、静止した情報の断片へと峻烈に解体する。"
+		},
+		"thinking_layer": "旋回を見張るもの。一瞬の情報の『露出』と、情報の『闇』という名の情報の空白を峻烈に反復させ、物理的な時間という名の情報の『連続性』を嘲笑い、幽霊のごとき静止画像を情報の虚空に浮かび上がらせる。 ",
+		"aftertaste": "暗闇に白く焼き付く残像の情報の情報の、あまりの情報の客観的なる冷酷さへの、不条理なる目眩。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"strobe light の科学。情報の『離散化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cinematics",
+		"word": "Cinematics",
+		"part_of_speech": "noun",
+		"meaning": "シネマティクス、映画的手法、演出の情報の魔術",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cinema",
+					"type": "root",
+					"meaning": "movie"
+				},
+				{
+					"text": "-atics",
+					"type": "suffix",
+					"meaning": "system of"
+				}
+			],
+			"original_statement": "From cinema + -ics."
+		},
+		"core_concept": {
+			"en": "artistic elements of filmmaking",
+			"ja": "映画（cinema）という名の情報の『虚構』を現出させるための、演出、照明、編集という名の情報の『魔術的体系』。"
+		},
+		"thinking_layer": "映画の術。単なる現実という名の情報の『記録』を、恣意的な情報の『省略』と情報の『強調』によって峻烈に加工し、観客の感情という名の情報の『変数』を、自在に操作（manipulate）しようとする、演出家という名の神の傲慢。 ",
+		"aftertaste": "作り物であると知りつつ、その情報の完成度の前に、峻烈なる情報の『真実』として涙する、実存の敗北への悦び。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cinematography より広い演出概念。情報の『幻惑』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "clapperboard",
+		"word": "Clapperboard",
+		"part_of_speech": "noun",
+		"meaning": "カチンコ、情報の情報の情報の始動の情報の音、情報の同期の情報の板",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "clap",
+					"type": "root",
+					"meaning": "slap, snap"
+				},
+				{
+					"text": "board",
+					"type": "root",
+					"meaning": "plank"
+				}
+			],
+			"original_statement": "From clap + board."
+		},
+		"core_concept": {
+			"en": "device used in filmmaking and video production to assist in synchronizing picture and sound",
+			"ja": "映像という名の情報の『静寂』と、音響という名の情報の『轟音』を、峻烈な情報の『一打ち（clap）』によって一つの情報の『時間』へと峻烈に封印する。"
+		},
+		"thinking_layer": "叩く板。シーンという名の情報の『断片』に、番号という名の情報の『整理番号』を峻烈に付与（tagging）し、撮影という名の情報の『儀式』の開始を、物理的な情報の『衝撃』によって宣告する。 ",
+		"aftertaste": "乾いた音の余韻の中に、虚構という名の情報の『生命』が、今まさに産声を上げた瞬間の、峻烈なる情報の陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"clapper + board。視覚と聴覚の情報の『一卵性双生児』化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "backlight",
+		"word": "Backlight",
+		"part_of_speech": "noun",
+		"meaning": "逆光、情報の情報の輪郭を浮き彫りにする情報の光、背後の深淵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "back",
+					"type": "root",
+					"meaning": "rear"
+				},
+				{
+					"text": "light",
+					"type": "root",
+					"meaning": "light"
+				}
+			],
+			"original_statement": "From back + light."
+		},
+		"core_concept": {
+			"en": "illumination from behind",
+			"ja": "対象の背後（back）から情報の『光（light）』を射ち、実存の『輪郭（silhouette）』を情報の『闇』の中に峻烈に焼き出す。"
+		},
+		"thinking_layer": "背後の光。対象の内面という名の情報の『詳細』を峻烈に抹殺し、ただ存在という名の情報の『境界線』だけを情報の『輝き』へと昇華させる、情報の匿名的なる神格化。 ",
+		"aftertaste": "光の中に溶け、表情を失ったその影の、語らぬ情報の雄弁さに、実存の深淵を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"リムライト (rim light)。情報の『縁取り』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "keylight",
+		"word": "Keylight",
+		"part_of_speech": "noun",
+		"meaning": "キーライト、主光線、情報の、真実を暴く情報の情報の中心的な光",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "key",
+					"type": "root",
+					"meaning": "central, crucial"
+				},
+				{
+					"text": "light",
+					"type": "root",
+					"meaning": "light"
+				}
+			],
+			"original_statement": "From key + light."
+		},
+		"core_concept": {
+			"en": "the main source of light in a photograph, movie, or stage production",
+			"ja": "対象の実存の『鍵（key）』となる情報の情報の『最も強き光』を射ち、物理的な情報の『影』と情報の『実体』を定義する。"
+		},
+		"thinking_layer": "鍵の光。闇という名の情報の『虚無』に対し、情報の『中心軸』としての光線を峻烈に衝突させ、そこに一者の情報の『顔』という存在の証明を、峻烈に書き込む、ライティングという名の情報の支配。 ",
+		"aftertaste": "照らし出されたその情報の質感の、あまりの情報の『確信』に、他者の実存を掌握したという峻烈なる傲慢。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"3点照明の主。情報の『主役』の決定。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "focal",
+		"word": "Focal",
+		"part_of_speech": "adjective",
+		"meaning": "焦点の、情報の焦点の、情報の情報の集束する情報の炉、意思の凝縮",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "focus",
+					"type": "root",
+					"meaning": "hearth"
+				}
+			],
+			"original_statement": "From Latin focus."
+		},
+		"core_concept": {
+			"en": "relating to the center or main point of interest",
+			"ja": "バラバラな情報の『光線』を、峻烈な情報の『炉（hearth）』一点へと峻烈に集束させ、焼き尽くす。"
+		},
+		"thinking_layer": "炉の。光という名の情報の『エネルギー』を、レンズという名の情報の『歪み』によって一点へと絞り込み、虚空に実相（image）という名の情報の火を灯す、意思の情報の『収束点』。 ",
+		"aftertaste": "ピンボケ（blurred）という名の情報の『無』から、唐突に現出するその情報の『尖鋭（sharpness）』の、峻烈なる快感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"focus, focusable。情報の『中心』としての炎。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bokeh",
+		"word": "Bokeh",
+		"part_of_speech": "noun",
+		"meaning": "ボケ、ボケ味、情報の情報の輪郭の情報の情報の甘美なる情報の崩壊、背景の沈黙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "boke",
+					"type": "root",
+					"meaning": "blur, haze"
+				}
+			],
+			"original_statement": "From Japanese boke 'blur'."
+		},
+		"core_concept": {
+			"en": "visual quality of the out-of-focus areas of a photographic image",
+			"ja": "中心という名の情報の『傲り』を峻烈に拒み、周辺という名の情報の『曖昧（blur）』の中に甘美なる情報の『溶融』を現出させる。"
+		},
+		"thinking_layer": "ぼけること（日本語より）。情報の『鋭さ』という名の暴力の手前で、情報を優雅に情報の『霧（haze）』へと還元し、鑑賞者の視線をただ一点の情報の『核心』へと峻烈に誘う、情報の引き立ての術。 ",
+		"aftertaste": "光の玉へと変わった遠い情報の残滓の中に、世界の美しき不確かさという名の情報の『慈悲』を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"日本発のカメラ用語。情報の『不全』の美学。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tripod",
+		"word": "Tripod",
+		"part_of_speech": "noun",
+		"meaning": "三脚、情報の情報の情報の不動の情報の三点の秩序、大地の把握",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tri-",
+					"type": "prefix",
+					"meaning": "three"
+				},
+				{
+					"text": "pous",
+					"type": "root",
+					"meaning": "foot"
+				}
+			],
+			"original_statement": "From Greek tripous."
+		},
+		"core_concept": {
+			"en": "three-legged stand for supporting a camera or other apparatus",
+			"ja": "三つ（three）の情報の『脚（foot）』という名の最小限の均衡によって、大地という名の情報の『カオス』に、不動の情報の『点』を穿つ。"
+		},
+		"thinking_layer": "三本足。人間という名の情報の『ゆらぎ（handheld）』を峻烈に辞し、機械という名の情報の『絶対的な静止』を機体に授けるための、鋼の情報の『支点』。それは、情報の安定の幾何学。 ",
+		"aftertaste": "ガッシリと大地を掴むその肢体に、ぶれることなき情報の『真実』を記録せんとする、冷徹なる覚悟を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pedal, podiatrist と同じ root。情報の立ち位置。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dolly",
+		"word": "Dolly",
+		"part_of_speech": "noun",
+		"meaning": "ドリー、情報の移動撮影の情報の滑走、空間の貫通",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Dolly",
+					"type": "root",
+					"meaning": "Dolly (pet name for Dorothy, doll)"
+				}
+			],
+			"original_statement": "Probably from doll (diminutive of Dorothy)."
+		},
+		"core_concept": {
+			"en": "wheeled cart or similar device used in filmmaking and television production to create smooth horizontal camera movements",
+			"ja": "カメラという名の情報の『眼差し』を、峻烈な情報の『台車（doll/cart）』に乗せ、空間の深淵へと峻烈に『貫通』させる。"
+		},
+		"thinking_layer": "人形、あるいは小さな台車。静止という名の情報の『停滞』を、滑走という名の情報の『越境』へと変容させ、観客の視点そのものを、不可抗力的な速度をもって情報の物語の『内部』へと引きずり込む、情報の物理的な誘拐。 ",
+		"aftertaste": "滑らかに近づく情報の壁の、その圧倒的なる情報の『実存感』に、背筋が凍るような没入の目眩。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dolly shot。空間そのものを情報の情報の『潮流』に変える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "steadicam",
+		"word": "Steadicam",
+		"part_of_speech": "noun",
+		"meaning": "ステディカム、情報の情報の揺れなき情報の情報の跳躍、浮遊する視線",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "steady",
+					"type": "root",
+					"meaning": "steady"
+				},
+				{
+					"text": "camera",
+					"type": "root",
+					"meaning": "camera"
+				}
+			],
+			"original_statement": "Trademark (1976) from steady + camera."
+		},
+		"core_concept": {
+			"en": "brand of camera stabilizer mounts for motion picture cameras that mechanically isolates the camera from the operator's movement",
+			"ja": "人間という名の情報の『肉体の揺らぎ』を、峻烈な情報の『安定（steady）』の下に完璧に絶縁し、幽霊のごとき情報を浮遊させる。"
+		},
+		"thinking_layer": "安定したカメラ。重力、あるいは歩行という名の情報の『枷』を峻烈に嘲笑い、ただ純粋な『視点』という名の情報の情報の『幽霊』が空中を滑るかのように、世界の深淵を闊歩する、情報の静寂なる飛翔（flight）。",
+		"aftertaste": "物理的な情報の足跡すら消え失せた、その滑らかな情報の流転の中に、人知を超えた神の眼差しという名の情報の傲慢。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人間と機械の情報の『調律』。情報の不自然なる完璧。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "storyboard",
+		"word": "Storyboard",
+		"part_of_speech": "noun",
+		"meaning": "絵コンテ、ストーリーボード、情報の情報の情報の時間の情報の設計図、静止した予言",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "story",
+					"type": "root",
+					"meaning": "story"
+				},
+				{
+					"text": "board",
+					"type": "root",
+					"meaning": "board"
+				}
+			],
+			"original_statement": "From story + board (1930s)."
+		},
+		"core_concept": {
+			"en": "sequence of drawings, typically with some directions and dialogue, representing the shots planned for a movie or television production",
+			"ja": "物語（story）という名の情報の『奔流』を、峻烈な情報の『板（board）』の上に静止した残像として並べ、未来を峻烈に『予言』する。"
+		},
+		"thinking_layer": "物語の板。時間という名の不可逆な情報の『流れ』を、空間的な情報の『配置』へと峻烈に翻訳（layout）し、不確実な情報の生成を、確定した情報の『必然』へと追い込む、情報の創造的戦略。 ",
+		"aftertaste": "描かれた下手糞な情報のラフスケッチが、銀幕という名の情報の巨像へと化けてゆく、その予感の峻烈なる震え。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Disney 映画から始まった手法。情報の視覚的マトリクス。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "premiere",
+		"word": "Premiere",
+		"part_of_speech": "noun",
+		"meaning": "初演、プレミア、情報の情報の最初の情報の産声、真実の情報の解禁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "primus",
+					"type": "root",
+					"meaning": "first"
+				}
+			],
+			"original_statement": "From French première 'first'."
+		},
+		"core_concept": {
+			"en": "the first performance of a musical or theatrical work or the first showing of a movie",
+			"ja": "情報の『胎内』で秘匿されていた虚構を、峻烈な情報の『最初（first）』の光の下へと解き放つ、情報の誕生。"
+		},
+		"thinking_layer": "第一のもの。制作という名の情報の『苦悶』が終わり、評価という名の情報の『審判』が始まる、情報の生存の最初のテスト。それは、闇から光への、情報の峻烈なる越境。 ",
+		"aftertaste": "真っ暗な客席に、第一フレームの情報の光が走った瞬間の、肺腑を抉るような期待と情報の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"primary, primitive と同じ root。原初の情報の衝撃。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "prequel",
+		"word": "Prequel",
+		"part_of_speech": "noun",
+		"meaning": "前日譚、プリクエル、情報の起源への情報の遡行",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pre-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "sequel",
+					"type": "root",
+					"meaning": "sequel"
+				}
+			],
+			"original_statement": "Back-formation from sequel (1950s)."
+		},
+		"core_concept": {
+			"en": "story or movie containing events that precede those of an existing work",
+			"ja": "既知という名の情報の『結末』から、峻烈な情報の『遡行（before）』によって、隠された過去という名の情報の『起源』を暴き出す。"
+		},
+		"thinking_layer": "前にある、続編に似たもの。物語という名の情報の『河』を、源流という名の情報の『必然』へと向かって峻烈に泳ぎ遡り、現在の情報の『顔』を作った過去の情報の『傷』を現出させる、情報の解剖学的遡及。 ",
+		"aftertaste": "語られなかった過去が、現在の情報の『意味』を峻烈に書き換えてゆく、その歴史的なる情報の皮肉。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sequence (続く) の前を打つ。情報の逆因果。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "trilogy",
+		"word": "Trilogy",
+		"part_of_speech": "noun",
+		"meaning": "三部作、トリロジー、情報の情報の三位一体の情報の物語、完成された情報の鼎",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tri-",
+					"type": "prefix",
+					"meaning": "three"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "story, word"
+				}
+			],
+			"original_statement": "From Greek trilogia 'three stories'."
+		},
+		"core_concept": {
+			"en": "a group of three related novels, plays, or movies",
+			"ja": "三つ（three）の情報の『物語（logos）』を峻烈な情報の『連鎖』によって繋ぎ、巨大な虚構の情報の『宇宙』を完成させる。"
+		},
+		"thinking_layer": "三つの物語。単体という名の情報の『一瞬』を、過去、現在、未来という名の情報の『三位一体』へと拡張し、実存という名の情報の『弧』を、壮大な文明という名の情報の『円』へと閉じる、情報の完結の美学。",
+		"aftertaste": "第一部という名の情報の『予感』が、第三部という名の情報の『帰還』へと結実した瞬間の、長大な情報の旅の終わりのカタルシス。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"triangle, logic と同じ roots。情報の構造的な安定。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "blockbuster",
+		"word": "Blockbuster",
+		"part_of_speech": "noun",
+		"meaning": "ブロックバスター、大ヒット作、情報の情報の街区を破壊する情報の巨像",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "block",
+					"type": "root",
+					"meaning": "city block"
+				},
+				{
+					"text": "bust",
+					"type": "root",
+					"meaning": "to break"
+				}
+			],
+			"original_statement": "Originally a high-explosive bomb (1940s)."
+		},
+		"core_concept": {
+			"en": "thing of great power or size, in particular a movie, book, or other product that is a great commercial success",
+			"ja": "街区（block）を峻烈に『粉砕（bust）』するほどの、情報の『爆発』的な、大衆という名の情報の熱狂の力。"
+		},
+		"thinking_layer": "街区を壊すもの。もとは空爆用の巨大爆弾。芸術という名の情報の『内省』を峻烈に辞し、消費という名の情報の『暴力』的なまでの質量を、全世界という名の情報の『市場』へと叩きつける、資本の情報の怪物。 ",
+		"aftertaste": "興奮という名の情報の情報の、一抹の情報の『虚無感』を孕んだ、情報の情報の祭のあとの静寂。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"もとは死の兵器の名。今は欲望の成功の名。情報の変質。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stardom",
+		"word": "Stardom",
+		"part_of_speech": "noun",
+		"meaning": "スターの座、情報の情報の情報の光輝の情報の情報の王国、孤独な頂点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "steara",
+					"type": "root",
+					"meaning": "star"
+				},
+				{
+					"text": "-dom",
+					"type": "suffix",
+					"meaning": "state, realm"
+				}
+			],
+			"original_statement": "From star + -dom."
+		},
+		"core_concept": {
+			"en": "the state or status of being a very famous or talented entertainer or sports player",
+			"ja": "孤独な星（star）という名の情報の『極点』を、自らの実存の情報の『全領土（realm）』とする、選ばれし者の情報の栄光。"
+		},
+		"thinking_layer": "星の領土。市井という名の情報の『闇』の中から、ただ一点の情報の『輝き』として引き揚げられ、数百万の情報の視線という名の『粒子』を浴び続けて焼き尽くされる、情報の祭壇。 ",
+		"aftertaste": "まばゆきフラッシュの情報の奥に、自分自身の情報の『喪失』と、虚像という名の情報の『王として君臨する孤独。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"kingdom, freedom と同じ -dom。情報の『支配』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cameo",
+		"word": "Cameo",
+		"part_of_speech": "noun",
+		"meaning": "カメオ出演、情報の情報の情報の浮き彫りの情報の瞬き、予期せぬ情報の影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kameos",
+					"type": "root",
+					"meaning": "engraved gem"
+				}
+			],
+			"original_statement": "Originally a small piece of sculpture on a gem or shell."
+		},
+		"core_concept": {
+			"en": "small character part in a play or movie, played by a distinguished actor",
+			"ja": "物語という名の情報の『宝石（gem）』の面に、峻烈な情報の『浮き彫り（engraving）』として一瞬だけ現出する、贅沢なる情報の影。"
+		},
+		"thinking_layer": "彫刻された宝石。主役、脇役という名の情報の『格付け』を峻烈に嘲笑い、ただ一瞬の情報の『存在感』だけで物語の情報を峻烈にジャックする、演出家と名優の情報の『悪戯（play）』。 ",
+		"aftertaste": "「あ！」という情報の情報の情報の驚きの中に、情報の情報の『虚実の皮膜』が峻烈に剥ぎ取られる瞬間の快感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"小さな情報の情報の彫刻。情報の情報の『一点の情報の情報の情報の贅沢』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "extra",
+		"word": "Extra",
+		"part_of_speech": "noun",
+		"meaning": "エキストラ、情報の情報の情報の過剰なる背景、名もなき情報の情報の群衆",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "extra-",
+					"type": "prefix",
+					"meaning": "outside, beyond"
+				}
+			],
+			"original_statement": "Abbreviation of extraordinary."
+		},
+		"core_concept": {
+			"en": "person engaged to appear as a nonspeaking character in a play or movie; addition",
+			"ja": "物語の情報の『内部（inside）』に居ながら、情報の『外部（outside）』としての『ノイズ』、あるいは風景の沈黙を峻烈に演じる者。"
+		},
+		"thinking_layer": "外にあるもの。名前という名の情報の『権利』を峻烈に剥奪され、ただ『群衆』という名の情報の『質感』へと還元された、虚構という名の宇宙の情報の『部品（asset）』。 ",
+		"aftertaste": "画面の隅に映る名もなき情報の生の中に、自分自身の情報の『匿名性』の峻烈なる鏡を視る寂寥。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"extraordinary, extrapolate と同じ root。情報の情報の余剰。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stunt",
+		"word": "Stunt",
+		"part_of_speech": "noun",
+		"meaning": "スタント、情報の情報の情報の肉体の情報の情報の情報の極限の情報の、情報の死の情報の遊戯",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stunt",
+					"type": "root",
+					"meaning": "short, stunted"
+				}
+			],
+			"original_statement": "Probably from stunt (adjective) 'short, brief' (as in short-lived effort)."
+		},
+		"core_concept": {
+			"en": "action displaying spectacular skill and daring",
+			"ja": "死という名の情報の『深淵』を、峻烈な情報の『短き（short）』一瞬の情報の『曲芸』によって飛び越える、肉体の情報の峻烈なる反乱。"
+		},
+		"thinking_layer": "短きもの。あるいは（成長を）妨げられたもの。現実という名の情報の『安全』を峻烈に引き裂き、衝撃という名の情報の『真実』を肉体に刻み込むことで、虚像という名の情報の『迫真性』を買い叩く、情報の残酷なる生贄。 ",
+		"aftertaste": "スローモーションの中に映る肉体の情報の峻烈なる戦慄。それは、死を情報の『素材』へと変容させた人類の暴力。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"stint, stunted と同じ root。情報の『極小の情報の情報の時間の極大化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stop-motion",
+		"word": "Stop-motion",
+		"part_of_speech": "noun",
+		"meaning": "ストップモーション、情報の情報の情報の情報の情報の情報の死せる情報の物質の情報の舞踏、時間の情報の彫刻",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stop",
+					"type": "root",
+					"meaning": "to halt"
+				},
+				{
+					"text": "motion",
+					"type": "root",
+					"meaning": "movement"
+				}
+			],
+			"original_statement": "From stop + motion."
+		},
+		"core_concept": {
+			"en": "cinematographic technique whereby the camera is repeatedly stopped and started",
+			"ja": "停止（stop）という名の情報の『死』を峻烈に積層させ、運動（motion）という名の情報の『生』を人造的に捏造する。"
+		},
+		"thinking_layer": "停止した運動。一コマという名の情報の『沈黙』の間に、神の手という名の情報の『介入』を潜り込ませ、死体という名の情報の『人形』を、デミウルゴスの情報の如く躍動させる、時間の情報の、不気味極まる情報の接合。 ",
+		"aftertaste": "カクカクとしたその情報の情報の情報の微妙なる情報の不自然さの中に、生命の情報の情報の『模倣』への峻烈なる執念を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"animation の原初。情報の物理的なる生。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "CGI",
+		"word": "CGI",
+		"part_of_speech": "noun",
+		"meaning": "CGI、コンピューター生成、画像の情報の情報の情報の情報の光の情報の演算",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "computer",
+					"type": "root",
+					"meaning": "reckon, calculate"
+				},
+				{
+					"text": "generated",
+					"type": "root",
+					"meaning": "born, produced"
+				},
+				{
+					"text": "imagery",
+					"type": "root",
+					"meaning": "image"
+				}
+			],
+			"original_statement": "Initialism for Computer-Generated Imagery."
+		},
+		"core_concept": {
+			"en": "application of computer graphics to create or contribute to images in art, printed media, video games",
+			"ja": "レンズという名の情報の『束縛』を峻烈に捨て、数式という名の情報の『虚空』から光の一粒子（photon）までを峻烈に『産み落とす（generate）』。"
+		},
+		"thinking_layer": "計算機による像。物質という名の情報の『重力』から完全に解放された、純粋な情報の『数学』による美の現出。それは、現実という名の情報を二次的に駆逐する、情報の峻烈なる情報の『王道』。",
+		"aftertaste": "あまりに完璧なその情報の『視覚』の情報の情報の情報の情報の虚無感の中に、情報の情報の情報の肉体の情報の情報の滅びを予感する。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"実在という名の情報の特権の崩壊。情報の純粋なる情報の情報の演算。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rendering",
+		"word": "Rendering",
+		"part_of_speech": "noun",
+		"meaning": "レンダリング、情報の情報の情報の概念の情報の情報の肉体化、情報の翻訳",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "dare",
+					"type": "root",
+					"meaning": "to give"
+				}
+			],
+			"original_statement": "From Old French rendre 'to give back'."
+		},
+		"core_concept": {
+			"en": "process of generating a photorealistic or non-photorealistic image from a 2D or 3D model",
+			"ja": "数式という名の『抽象の情報の霊』を、峻烈な情報の『光と影』へと反転させ、視覚への情報の『贈り物（give back）』とする。"
+		},
+		"thinking_layer": "（形を）返すこと。あるいは再現すること。情報の『設計図（model）』が、時間という名の情報の『演算』の洗礼を経て、ついに眼に見える『真実』として立ち上がる、情報の最終の出力（output）。",
+		"aftertaste": "少しずつ描かれてゆく情報の走査線（scanline）に、無から有が産み出される瞬間の、情報の、神を真似し情報の情報の峻烈なる悦び。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"surrender, edition と同じ root。情報の『引き渡し』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "compositor",
+		"word": "Compositor",
+		"part_of_speech": "noun",
+		"meaning": "コンポジター、情報の情報の情報の結合の、情報の情報の階層の情報の錬金術師",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "ponere",
+					"type": "root",
+					"meaning": "to put, place"
+				}
+			],
+			"original_statement": "From Latin compositor 'one who puts together'."
+		},
+		"core_concept": {
+			"en": "person who combines photographic or CG elements from separate sources into single images",
+			"ja": "バラバラな情報の『断片（layers）』を、一個の峻烈な情報の『真実（frame）』へと峻烈に『共に配置し、結合（put together）』する、情報の情報の縫合師。"
+		},
+		"thinking_layer": "共に置く者。実写という名の情報の『現実』と、CGという名の情報の『虚構』を、一分一厘の情報の隙間なく峻烈に接合し、現実という名の情報の『定義』を峻烈に書き換える、情報の背徳的なる情報の情報の情報の情報の編集者。 ",
+		"aftertaste": "合成されたその情報の情報の情報のあまりの情報の『完璧さ』の中に、信頼という名の情報の、情報の崩壊を感じる、情報の目眩。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"composition, component と同じ root。情報の情報の総和としての情報の情報の美。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chroma-key",
+		"word": "Chroma-key",
+		"part_of_speech": "noun",
+		"meaning": "クロマキー、情報の情報の情報の色彩の、情報の情報の情報の透明への情報の情報の扉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khroma",
+					"type": "root",
+					"meaning": "color"
+				},
+				{
+					"text": "key",
+					"type": "root",
+					"meaning": "key"
+				}
+			],
+			"original_statement": "From chroma + key."
+		},
+		"core_concept": {
+			"en": "visual effects / post-production technique for layering two images or video streams together based on color hues",
+			"ja": "特定の『色（color）』という名の情報の情報を、峻烈な情報の『透明という名のキー（key）』へと反転させ、背後の深淵という名の情報の『異世界』を、情報の内に招き入れる。"
+		},
+		"thinking_layer": "色の鍵。現実という名の情報の『背景（green/blue）』を、峻烈な情報の『不在』へと焼き尽くし、別世界という名の情報の『偽像』を情報のそこに流し込む、所在という名の情報の物理的なる剥奪。 ",
+		"aftertaste": "切り抜かれた情報の情報の情報の、自分の情報の情報の情報の周縁（edge）に、情報の情報の情報の存在の情報の危うさという名の情報の震撼を感じる。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"chromatic, electronic keyer。情報の情報の色の情報の情報の暗号解読。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "color-grading",
+		"word": "Color-grading",
+		"part_of_speech": "noun",
+		"meaning": "カラーグレーディング、情報の情報の情報の情報の色彩の情報の、情感の情報の情報の情報の情報の情報の階調の操作",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "color",
+					"type": "root",
+					"meaning": "color"
+				},
+				{
+					"text": "gradus",
+					"type": "root",
+					"meaning": "step, grade"
+				}
+			],
+			"original_statement": "From color + grading."
+		},
+		"core_concept": {
+			"en": "process of altering and enhancing the color of a motion picture, video image, or still photograph digitally",
+			"ja": "現実という名の情報の『生の色』を、峻烈な情報の『位階（step）』へと分類し、情緒という名の情報の『物語の色』へと峻烈に再編する。"
+		},
+		"thinking_layer": "色の階調付け。赤という名の情報の『情熱』、青という名の情報の『孤独』。光の情報を、恣意的な情報の『感情のフィルタ』へと通し、観客の心という名の情報の『鏡』を、特定の色調（mood）へと染め上げる、情報の心理学的なまでの支配。 ",
+		"aftertaste": "世界が金色という名の情報の『夕暮れ』に染まる瞬間の、偽りという名の情報の、美しき情報の肯定への、情報の陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"grade, gradient と同じ root。情報の色彩的なる深化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "post-production",
+		"word": "Post-production",
+		"part_of_speech": "noun",
+		"meaning": "ポストプロダクション、情報の情報の情報の産出の後の情報の沈黙、情報の研磨",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "post-",
+					"type": "prefix",
+					"meaning": "after"
+				},
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forth"
+				},
+				{
+					"text": "ducere",
+					"type": "root",
+					"meaning": "to lead"
+				}
+			],
+			"original_statement": "From post- + production."
+		},
+		"core_concept": {
+			"en": "work that is done on a film or recording after filming or recording has taken place",
+			"ja": "撮影（production）という名の情報の『嵐』が過ぎ去った後に、引き出された（pro-duced）情報の『断片』を、峻烈な情報の『静寂』の中で、究極の情報の結晶へと、情報の情報の、再構築する。"
+		},
+		"thinking_layer": "あとの産出。騒乱という名の情報の現場を峻烈に辞し、編集室という名の情報の『密室』において、時間の情報の『一秒』までを峻烈に裁く、情報の最終兵器としての情報の美学的情報の統合。 ",
+		"aftertaste": "バラバラな情報のゴミの山から、一粒の真珠という名の情報の『映画』が、情報の産み落とされる瞬間の、情報の情報の峻烈なる安堵。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"post-, producer。情報の仕上げという名の、情報の『魂の刻印』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "filmstrip",
+		"word": "Filmstrip",
+		"part_of_speech": "noun",
+		"meaning": "フィルムストリップ、情報の情報の記憶の細き帯、時間の情報の化石",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "film",
+					"type": "root",
+					"meaning": "skin, membrane"
+				},
+				{
+					"text": "strip",
+					"type": "root",
+					"meaning": "narrow piece"
+				}
+			],
+			"original_statement": "From film + strip."
+		},
+		"core_concept": {
+			"en": "spool of photographic film, once used as a common classroom tool",
+			"ja": "薄き膜（film）という名の情報の『皮』を、細き帯（strip）という名の情報の『拘束』へと、峻烈に、時間の情報の連続性として、繋ぎ止める。"
+		},
+		"thinking_layer": "皮の帯。一コマ一コマという名の情報の『死』を、物理的な情報の『連なり』によって救い出し、映写という名の情報の『再生』を待つ、情報の沈黙の情報の情報のライブラリ。 ",
+		"aftertaste": "指の間をすり抜けるその情報の帯の、微かな情報のカサカサという音に、情報の過去という名の情報の残滓の重みを聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pellicle, membrane と同じ root。情報の『透き通った情報の肉体』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "multiplex",
+		"word": "Multiplex",
+		"part_of_speech": "noun",
+		"meaning": "マルチプレックス、情報の情報の情報の複合的なる情報の迷宮、虚構の情報の多層ビル",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "multus",
+					"type": "root",
+					"meaning": "many"
+				},
+				{
+					"text": "plectere",
+					"type": "root",
+					"meaning": "to plait, fold"
+				}
+			],
+			"original_statement": "From Latin multiplex 'having many folds'."
+		},
+		"core_concept": {
+			"en": "movie theater complex with many separate screens",
+			"ja": "多くの（many）情報の『折り畳まれた（fold）』箱の中に、異なる情報の『宇宙』を峻烈に同居させ、虚構の情報の百貨店として現出させる。"
+		},
+		"thinking_layer": "多くの折り重ね。単一の情報の『広場』を峻烈に分断し、消費という名の情報の『効率』を極限まで高めた、物語という名の情報の『集積地』。それは、虚構という名の現代の情報のジグラット。",
+		"aftertaste": "隣の壁の向こうに、全く異なる情報の『世界の終わり』が情報の、同居しているという、情報の多層的な不気味さ。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"multiply, complex と同じ roots。情報の高密度の情報の集積。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "drive-in",
+		"word": "Drive-in",
+		"part_of_speech": "noun",
+		"meaning": "ドライブイン、情報の情報の情報の機械の中の情報の虚構、情報の情報の孤独な共鳴",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "drive",
+					"type": "root",
+					"meaning": "to drive"
+				},
+				{
+					"text": "in",
+					"type": "root",
+					"meaning": "in"
+				}
+			],
+			"original_statement": "From drive + in (1930s)."
+		},
+		"core_concept": {
+			"en": "facility such as a cinema or restaurant that one can visit without leaving one's car",
+			"ja": "車という名の情報の『私的な殻』のまま（drive in）、夜という名の情報の『公共の虚空』の中の巨大な情報の『影』と対峙する。"
+		},
+		"thinking_layer": "中へ運転すること。暗黒という名の情報の『海』に浮かぶ巨大なスクリーンの下、ラジオという名の情報の『周波数』によって他者と情報の『共鳴』を分かち合う、機械という名の情報の寂寥の情報の祝祭。 ",
+		"aftertaste": "ワイパー越しに揺れる虚構の情報の影に、物理的な情報の『距離』と、情報の『親密さ』の、奇妙なる情報の情報の情報の逆転を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自動車社会の、情報の孤独な情報の、結合。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "box-office",
+		"word": "Box-office",
+		"part_of_speech": "noun",
+		"meaning": "興行収入、ボックスオフィス、情報の情報の情報の審判の情報の情報の冷徹なる情報の数字",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "box",
+					"type": "root",
+					"meaning": "private box (theatrical seating)"
+				},
+				{
+					"text": "office",
+					"type": "root",
+					"meaning": "place of business"
+				}
+			],
+			"original_statement": "Probably from the selling of tickets for private boxes."
+		},
+		"core_concept": {
+			"en": "place at a theater, movie house, or museum where tickets are sold; the commercial success of a movie",
+			"ja": "芸術という名の情報の『魂』を、峻烈な情報の『金貨』という名の『価値の情報の情報の情報の換算』という名の、ビジネス（office）へと、情報の情報の情報の、翻訳する。"
+		},
+		"thinking_layer": "（劇場の桟敷、あるいは募金箱の）窓口。涙という名の情報の『共鳴』の総量を、ドルという名の情報の『冷徹なる情報の記号』へと、情報の峻烈なる情報の情報の情報の情報の情報の集計（totalize）する、死という名の市場という名の情報の情報の神。 ",
+		"aftertaste": "発表されるその情報の巨大な数字の背後に、数百万人の情報の『人生の時間（spent time）』が峻烈に飲み込まれたという、情報の情報の恐るべき情報の胃袋。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"芸術を情報の『指標』へと降格させる、情報の勝利。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "red-carpet",
+		"word": "Red-carpet",
+		"part_of_speech": "noun",
+		"meaning": "レッドカーペット、情報の情報の情報の栄光の情報の、血と情報の情報の情報の情報の情報の情報の情報の情報の勝利の情報の情報の道",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "red",
+					"type": "root",
+					"meaning": "red (blood, royal)"
+				},
+				{
+					"text": "carpet",
+					"type": "root",
+					"meaning": "thick rug, plucked"
+				}
+			],
+			"original_statement": "From red + carpet."
+		},
+		"core_concept": {
+			"en": "long red rug spread on ground for honorary visitors to walk on; privileged treatment",
+			"ja": "王（royal）という名の情報の『極点』だけが歩むことを許される、峻烈な情報の『赤（red）』という名の、情報の情報の情報の情報の情報の情報の情報の暴力的な情報の愛。"
+		},
+		"thinking_layer": "赤い絨毯。情報の『市井』という名の汚濁から一線を画し、選ばれし者の情報の『優雅』を、血の色という名の情報の情報の情報の輝きの中に現出させる、情報の権威の物理的なる情報の舞台装置。 ",
+		"aftertaste": "踏みしめるその情報の絨毯の感触の中に、全世界の情報の眼差しを足元に跪かせたという、情報の凄絶なる傲慢。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Agamemnon 由来とも。情報の『死を伴う名誉』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "paparazzi",
+		"word": "Paparazzi",
+		"part_of_speech": "noun",
+		"meaning": "パパラッチ、情報の情報の情報の寄生する情報の情報の情報の羽音、光の略奪者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "paparazzo",
+					"type": "root",
+					"meaning": "buzzing insect (insect-like name)"
+				}
+			],
+			"original_statement": "Named after the photographer character Paparazzo in Fellini's 'La Dolce Vita'."
+		},
+		"core_concept": {
+			"en": "freelance photographers who pursue celebrities to get photographs of them",
+			"ja": "スターという名の情報の『輝き』の周囲に、不快な羽音を立てて群がる情報の『蝿（buzzing insect）』のごとき、情報の略奪者。"
+		},
+		"thinking_layer": "（羽音のような名の）。他者の私生活という名の情報の『プライバシー（sanctum）』を、峻烈な情報の『閃光（flash）』によって暴力的に解体し、切り売りの情報の情報の『スキャンダル』へと変換する、情報のハイエナ。 ",
+		"aftertaste": "レンズ越しに向けられる、その情報の執拗なまでの『物欲』に、情報の他者としての、情報の醜悪なる情報の共犯関係を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"映画の登場人物から実世界へ。情報のフィクションの情報の情報の情報の、現実の情報の汚染。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "telephoto",
+		"word": "Telephoto",
+		"part_of_speech": "adjective",
+		"meaning": "望遠の、情報の情報の情報の遠方の情報の情報の略奪、視線の情報の短縮",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tele-",
+					"type": "prefix",
+					"meaning": "far"
+				},
+				{
+					"text": "phos",
+					"type": "root",
+					"meaning": "light"
+				}
+			],
+			"original_statement": "From tele- + photo."
+		},
+		"core_concept": {
+			"en": "lens with a longer focal length than standard, giving a narrow field of view and a magnified image",
+			"ja": "遠き（far）情報の『光（light）』を、峻烈な情報の『圧縮』によって眼前へと峻烈に『引き寄せる』。"
+		},
+		"thinking_layer": "遠くの光。距離という名の情報の『防壁』を峻烈に無視し、他者の情報の『奥底（detail）』を情報の『侵略』によって強制的に捕捉しようとする、情報の暴力的な監視（surveillance）の術。 ",
+		"aftertaste": "近くに見えつつも、決して触れられぬその情報の『虚像』の、あまりの情報の、峻烈なる存在感への、情報の。目眩。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"telephone, photography と同じ roots。情報の距離の情報の抹殺。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "wide-angle",
+		"word": "Wide-angle",
+		"part_of_speech": "adjective",
+		"meaning": "広角の、情報の情報の情報の情報の包括的なる情報の抱擁、世界の情報の情報の歪曲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wide",
+					"type": "root",
+					"meaning": "wide"
+				},
+				{
+					"text": "angle",
+					"type": "root",
+					"meaning": "corner, hook"
+				}
+			],
+			"original_statement": "From wide + angle."
+		},
+		"core_concept": {
+			"en": "lens showing a larger area than a standard lens",
+			"ja": "視界という名の情報の『境界』を峻烈に押し広げ（wide）、情報の『隅々（angle）』までを一挙に情報の抱擁（embrace）の中に収める。"
+		},
+		"thinking_layer": "広い角度。単一という名の情報の『集中』を峻烈に辞し、パノラマという名の情報の『全体主義』を選択する際、周辺という名の情報の『歪み（distortion）』さえも美学へと転じさせる、情報の抱擁。 ",
+		"aftertaste": "すべてを視ているという実感が産み出す、情報の『全能感』。その情報の背後に潜む、情報の『希薄化』への不安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"anchor, angular と同じ root。情報の『角』の集積。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "macro",
+		"word": "Macro",
+		"part_of_speech": "adjective",
+		"meaning": "マクロ撮影、情報の情報の情報の情報の微細なる情報の銀河、極微の情報の情報の情報の情報の王",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "makros",
+					"type": "root",
+					"meaning": "large, long"
+				}
+			],
+			"original_statement": "From Greek makros."
+		},
+		"core_concept": {
+			"en": "photography of small subjects, typically making them look larger than life",
+			"ja": "小さき情報の『粒子』を、峻烈な情報の『拡大（large）』によって、一個の巨大な情報の『宇宙（cosmos）』へと反転させる。"
+		},
+		"thinking_layer": "長い、あるいは大きい。微小という名の情報の『弱さ』を、峻烈な情報の『接写』によって暴力的なまでの存在感へと昇華させ、日常という名の情報の『盲点』を、神秘という名の情報の『神殿』へと変貌させる。 ",
+		"aftertaste": "一滴の水の情報の雫の中に、宇宙の全情報が峻烈に映り込んでいるという、ミクロの情報の逆襲（revolt）。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"macroscopic, macromolecule と同じ root。情報の情報の『巨大化』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "filter",
+		"word": "Filter",
+		"part_of_speech": "noun",
+		"meaning": "フィルター、情報の情報の情報の選別の情報の膜、真実の情報の情報の歪曲の情報の情報の装置",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "filtrum",
+					"type": "root",
+					"meaning": "felt, piece of felt"
+				}
+			],
+			"original_statement": "From Latin filtrum 'felt'."
+		},
+		"core_concept": {
+			"en": "device used to remove impurities or specific frequencies; effect applied to an image",
+			"ja": "フェルト（felt）という名の情報の『毛羽立ち』の膜を通し、生の情報の中から特定の『真実』だけを峻烈に情報の奪い取。"
+		},
+		"thinking_layer": "フェルトの布。情報の『真正（authenticity）』に対し、色、あるいは情報の『ノイズ』という名の付加価値という名の情報の『化粧』を峻烈に施し、現実を好都合な情報の『夢』へと加工する、情報の欺瞞的洗練。 ",
+		"aftertaste": "フィルターを外した瞬間の、現実という名の情報の、あまりの情報の『無愛想さ』への、峻烈なる失望。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"felt と同根。情報を情報の『濾過』によって情報の美へと情報の昇華。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "shutter-speed",
+		"word": "Shutter-speed",
+		"part_of_speech": "noun",
+		"meaning": "シャッタースピード、情報の情報の情報の瞬間の情報の情報の寿命、情報の切り取りの情報の鋭利さ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "shutter",
+					"type": "root",
+					"meaning": "one who shuts"
+				},
+				{
+					"text": "speed",
+					"type": "root",
+					"meaning": "prosperity, success, swiftness"
+				}
+			],
+			"original_statement": "From shutter + speed."
+		},
+		"core_concept": {
+			"en": "the time for which a shutter is open at a given setting",
+			"ja": "時間の情報の『流動』を、百分の一秒という名の情報の『断頭台』で峻烈に切り刻む、情報の情報の『死の情報の刃』の速さ。"
+		},
+		"thinking_layer": "閉じる者の速さ。成功（speed）という名の情報の『瞬時の捕捉』。激しき情報の『動き』を情報の『静止』へと、あるいは水の情報の『沈黙』を情報の『絹の糸』へと、峻烈に翻訳（interpret）する、時間の支配。 ",
+		"aftertaste": "極限の速さの中に捉えられた、肉眼では決して視得ぬ情報の『一瞬の情報の真実』への、知的な情報の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"prosper, swift と同じ root。情報の『幸運なる情報の成功としての捕捉』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "halftones",
+		"word": "Halftones",
+		"part_of_speech": "noun",
+		"meaning": "ハーフトーン、情報の情報の点による情報の情報の階調、情報の情報の錯覚の秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "half",
+					"type": "root",
+					"meaning": "half"
+				},
+				{
+					"text": "tone",
+					"type": "root",
+					"meaning": "tension, pitch, tone"
+				}
+			],
+			"original_statement": "From half + tone."
+		},
+		"core_concept": {
+			"en": "reprographic technique that simulates continuous-tone imagery through the use of dots",
+			"ja": "黒（black）と白（white）という名の情報の『対極』を、峻烈な情報の『半分（half）』の点の情報の情報の『集積』によって、階調という名の情報の『嘘』へと情報の翻訳。"
+		},
+		"thinking_layer": "半分の音（階調）。真実という名の情報の『滑らかさ』を峻烈に解体し、ドットという名の情報の『デジタルな粒子』へと。情報を情報の『離散化』させることで、情報の情報の『大量生産』を可能にする、虚構の情報のマトリクス。 ",
+		"aftertaste": "虫眼鏡で覗いた瞬間の、美しい情報の画像が情報の『機械的な点の情報の情報の情報の集合体』へと情報の情報の崩壊する、その情報の、情報の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tension, tone と同じ root。情報の情報の色彩的なる情報の『張り詰め』の緩和。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pixellation",
+		"word": "Pixellation",
+		"part_of_speech": "noun",
+		"meaning": "ピクセレーション、情報の情報の解像度の情報の情報の死、情報の情報の点への情報の回帰",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "picture",
+					"type": "root",
+					"meaning": "picture"
+				},
+				{
+					"text": "element",
+					"type": "root",
+					"meaning": "elementary particle"
+				}
+			],
+			"original_statement": "From pixel + -ation."
+		},
+		"core_concept": {
+			"en": "digital image processing technique where individual pixels are visible to the naked eye",
+			"ja": "解像度という名の情報の『夢』が峻烈に破れ、実存が『点（pixel）』という名の情報の『牢獄』の中に峻烈に情報の露見（expose）。"
+		},
+		"thinking_layer": "画素化。情報の『滑らかさ』という名の情報の『傲り』に対し、低解像度という名の情報の『素朴なる暴力』を加え、実体を情報の『モザイク』という名の情報の『匿名性の淵』へと追い落とす、情報のデジタルな情報の劣化。 ",
+		"aftertaste": "情報の情報の情報の情報のあまりの情報の『粗さ』の中に、逆に情報の、本質を峻烈に情報の情報の嗅ぎ取ろうとする、情報の知性の情報の情報の虚しきあがき。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pixel (pic + el)。情報の情報の情報の情報の画像という名の、情報の情報の最小の一撃。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
