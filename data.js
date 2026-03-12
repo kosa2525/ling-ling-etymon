@@ -258114,5 +258114,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "stentorian",
+		"word": "Stentorian",
+		"part_of_speech": "adjective",
+		"meaning": "声が非常に大きい、朗々とした",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Stentor",
+					"type": "root",
+					"meaning": "Stentor (ステントール、ギリシャの伝令官)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Stentor, the name of a Greek herald in the Trojan War, who had a voice as loud as fifty men."
+		},
+		"core_concept": {
+			"en": "(of a person's voice) loud and powerful",
+			"ja": "五十人分の咆哮（ほうこう）を一人の喉に宿したかのような、圧倒的な声量と権威。空間を震わせ、聴く者の魂に直接刻み込まれる、巨大な『震動としての意志』"
+		},
+		"thinking_layer": "『ステントールの声の』。トロイア戦争の伝令官ステントールが由来。ただの「大声（loud）」ではなく、そこに「正当性」や「物語」が宿っています。それは広場の群衆を統率する指導者の演説から、嵐の海で船員に届く船長の命令まで。言葉が「音」という名の物理的な力となって、世界を塗り替える瞬間。 ",
+		"aftertaste": "誰もいない大聖堂で、一人の男が放った「ステントールの（stentorian）」嘆きが、高い天井に反響して光の粒のように降り注ぐ、あの聖なる恐怖。あるいは、あまりにも巨大な声に圧倒され、自分の思考が一時的に停止してしまった時の、逆説的な「沈黙」の安らぎ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sten-",
+					"meaning": "to groan, thunder (forming Stentor)"
+				}
+			],
+			"points": [
+				"諸説あるが、雷鳴（thunder）のような音の響きが、人間の声へと翻訳された一例。",
+				"『伝令（herald）』とは、自らの肉体を『情報の器』へと変容させることであり、その器の巨大さ（voice）こそが、情報の『信頼性』を支える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "strident",
+		"word": "Strident",
+		"part_of_speech": "adjective",
+		"meaning": "耳障りな、鋭い、攻撃的な、執拗な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stridere",
+					"type": "root",
+					"meaning": "to creak, grate (きしむ、不快な音を立てる)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin strident-, from stridere 'utter a shrill sound'."
+		},
+		"core_concept": {
+			"en": "Loud and harsh; grating; presenting a point of view, especially a controversial one, in an excessively forceful way",
+			"ja": "金属が擦れ合うような、耳を劈（つんざ）く『きしみ音（creak）』。転じて、自らの主張を執拗に、かつ不快なほど強力に押し通そうとする、攻撃的な議論の構え"
+		},
+		"thinking_layer": "『きしむ音を立てること』。ストライデント。語源は「キーキー鳴る、きしむ」。ただの「うるさい（noisy）」ではなく、そこに「他者の神経を逆撫でする」という能動的な意図が感じられます。それは、壊れた機械の異音から、SNSでの容赦のない、そして鋭すぎる正論の衝突まで。",
+		"aftertaste": "静かな会議室に響き渡る、一人の女性の「鋭すぎる（strident）」批判が、参加者の心の平穏をズタズタに切り裂いてゆく、あの凍りついた時間。あるいは、自分の内側から聞こえてくる「完璧主義（strident voice of perfection）」のきしむような催促に、耳を塞ぎたくなる夜の絶望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "strei-",
+					"meaning": "to hiss, buzz"
+				}
+			],
+			"points": [
+				"諸説あるが、虫の羽音や蛇の威嚇の音が、人間の攻撃的な言葉へと翻訳された歴史。",
+				"『きしみ（creaking）』とは、秩序の『摩耗（wearing down）』のサインであり、それが言葉として現れた時、それは既存の信頼関係が『壊れ始めている』ことを告げている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plangent",
+		"word": "Plangent",
+		"part_of_speech": "adjective",
+		"meaning": "（音が）朗々と響く、哀れに響く、切ない",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plangere",
+					"type": "root",
+					"meaning": "to strike, beat (叩く、胸を打って嘆く)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin plangent-, from plangere 'strike, lament'."
+		},
+		"core_concept": {
+			"en": "(of a sound) loud, reverberating, and often melancholy",
+			"ja": "波が岩に砕けるように、あるいは悲しみのあまり自らの胸を『打ち叩く（beat）』ように、朗々と、しかしどこか物悲しく響き渡る音の波。聴く者の記憶を揺さぶる、重厚な余韻"
+		},
+		"thinking_layer": "『打ち叩くような』。コンプレイン（Complain/不満を言う＝胸を叩く）や、プランク（Plank/厚板＝叩かれるもの？）とおそらく遠い親戚。ただの「響き（resonant）」よりも、より「感情的な重み」と「打撃感」があります。それは、遠くで聞こえる葬送の鐘の音、あるいは、深夜の波止場に打ち寄せる波の、終わりのない溜息。",
+		"aftertaste": "霧の中から響いてくる霧笛の、あの「切なすぎる（plangent）」音色に、自分がどこから来てどこへ行くのかさえ分からなくなる、あの浮遊する郷愁。あるいは、古い蓄音機から流れるオペラ歌手の「朗々とした（plangent）」歌声に、過ぎ去った黄金時代の残り香を嗅ぎ取る、あの甘美な絶望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "plāk-",
+					"meaning": "to strike"
+				}
+			],
+			"points": [
+				"plague（疫病＝打ちのめすもの）, complaint, plankton（彷徨うもの＝波に打たれるもの）と同根の説あり。",
+				"『音（sound）』とは空気という媒体の『打撃』であり、その打撃が心の琴線に触れた時、それは『音楽』という名の『嘆き（lament）』へと昇華される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dulcet",
+		"word": "Dulcet",
+		"part_of_speech": "adjective",
+		"meaning": "（音が）心地よい、甘い、耳に快い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dulcis",
+					"type": "root",
+					"meaning": "sweet (甘い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French doucet, from doux, from Latin dulcis 'sweet'."
+		},
+		"core_concept": {
+			"en": "(especially of sound) sweet and soothing (often used ironically)",
+			"ja": "蜂蜜（はちみつ）のように滑らかで、耳に心地よく流れ込む『甘い（sweet）』響き。ささくれだった神経をそっと撫で、深い安らぎへと誘う、聴覚的な愛撫"
+		},
+		"thinking_layer": "『甘いこと』。ドルチェ（Dolce）やダルシマー（Dulcimer/弦楽器）と同根。ただの「静かな音（quiet）」ではなく、そこに「悦び（pleasure）」が含まれています。それは子守唄、あるいは、冷え切った心に差し込む春の光のような、優しい話し声。しかし、現代では「皮肉な甘さ（おべっか）」として使われることも。 ",
+		"aftertaste": "夕暮れの街角で聞こえてきた、誰かが奏でるフルートの「甘美な（dulcet）」旋律に、自分の鋭利な自意識が一時的に溶け去ってゆく、あの無防備な幸福。あるいは、相手が放つ「猫なで声（dulcet tones）」の裏側に潜む鋭い牙を察知し、背中に冷たい汗が流れる、あの本能的な警戒。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dlku-",
+					"meaning": "sweet"
+				}
+			],
+			"points": [
+				"dulcet, indulge（甘やかす）, licorice（甘草）と同根。",
+				"『甘さ（sweetness）』とは、生命維持に必要な『エネルギー』の指標であり、それが『音』に転写された時、それは安全な場所へと誘う『生存の合図』となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "clamorous",
+		"word": "Clamorous",
+		"part_of_speech": "adjective",
+		"meaning": "騒々しい、やかましい、執拗に要求する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "clamare",
+					"type": "root",
+					"meaning": "to shout (叫ぶ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin clamosus, from clamare 'shout'."
+		},
+		"core_concept": {
+			"en": "Making a loud and confused noise; presenting loud demands or complaints",
+			"ja": "無数の声や音が入り混じり、一つに溶け合うことなく『叫び（shout）』合っている様子。ただの騒音ではなく、そこには何かを訴え、何かを奪い取ろうとする、強烈で混乱した『意志の衝突』"
+		},
+		"thinking_layer": "『叫び続けること』。クレーム（Claim/主張する）やエクスクラメーション（Exclamation/感嘆）、プロクレーム（Proclaim/宣言する）と同根。ただの「うるささ（loudness）」よりも、もっと「目的を持った騒がしさ」を指します。それは市場の喧騒から、止まない通知音、あるいは、自分の心の中で絶え間なく承認を求める「エゴ」の叫びまで。 ",
+		"aftertaste": "デモ隊の「喧しく（clamorous）」しかし切実な叫び声が、街の平穏を塗りつぶし、自分が直視したくなかった「真実」を無理やり突きつけてくる、あの心を揺さぶる混乱。あるいは、喧騒（clamor）から逃れて山に入り、たった一羽の鳥の鳴き声に「真の沈黙」を見出した時の、あの肺の奥まで洗われるような静謐。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "to shout"
+				}
+			],
+			"points": [
+				"claim, council, low（牛が鳴く）, clear（はっきりと響く）と同根。",
+				"『叫ぶ（shouting）』ことは、自らの境界線を『音』によって拡張する行為であり、その声が重なり合う場所（clamor）こそが、政治や市場という名の『闘争の場』となる。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
