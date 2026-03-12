@@ -274590,5 +274590,194 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "pituitary",
+		"word": "Pituitary",
+		"part_of_speech": "noun",
+		"meaning": "下垂体（かすいたい）、脳下垂体、粘液の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pituita",
+					"type": "root",
+					"meaning": "phlegm, mucus (粘液)', from Latin"
+				}
+			],
+			"original_statement": "From Latin pituita 'phlegm'."
+		},
+		"core_concept": {
+			"en": "The major endocrine gland, a pea-sized body attached to the base of the brain, important in controlling growth and development",
+			"ja": "脳の底にひっそりと隠され、生命の『全調節（master command）』を一手に引き受ける、静かなる『粘液の宮殿』。かつては老廃物（mucus）の出口と思われた場所が、実は『可能性（growth）』の源泉であったという、逆転の知恵。"
+		},
+		"thinking_layer": "『粘液の、痰の』。スパッタ（Sputter/飛沫）、おなじみの「ピチュ（吐くなどの擬音）」に近い響き。語源は「粘液」。ただの「腺」ではありません。そこには。「一見、卑しく、不要に見えるもの（mucus）の奥にこそ、全体を統べる最も気高い『智慧（hormones）』が封じ込められている」という、審美眼の逆説が宿っています。それは。知性が自らの感情や直感という名の「混沌（slime）」の中に、次の一歩を決める決定的な指令（master signal）を見つけ出そうとする瞬間のメタファー。",
+		"aftertaste": "「下垂体（pituitary）」という名の、その豆粒ほどの小さな存在が、自分の「眠り」も「渇き」も「成長」も、すべてを等しく見守っていることに深い慈愛を感じ、自分は決して「一人」ではないのだと魂の底から認める、あの知的な平安。あるいは、自分の思考もまた、この「ピチュイタリー」のように、表舞台には出ずとも、常に全体を完璧なバランスへと導く「謙虚な統治者」でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "peie-",
+					"meaning": "to be fat, swell (forming pituita?)"
+				}
+			],
+			"points": [
+				"fat, pituitary, pituosity, pine（？） 同根の説あり。",
+				"『粘液（phlegm）』は、かつては生命を潤し、バランスを保つための四大体液の一つであった。下垂体という言葉には、生命がいかにして、自らの『流動性』を、高度な情報処理という名の『法』へと昇華させてきたかという、機能の集約の歴史が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pineal",
+		"word": "Pineal",
+		"part_of_speech": "adj",
+		"meaning": "松果体の（しょうかたいの）、松かさ状の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pinea",
+					"type": "root",
+					"meaning": "pine cone (松かさ)', from Latin pinus 'pine tree'"
+				}
+			],
+			"original_statement": "From Latin pinea 'pine cone', from pinus 'pine tree'."
+		},
+		"core_concept": {
+			"en": "A pea-sized conical mass of glandular tissue in the brain, secreting a hormone-like substance",
+			"ja": "脳の深淵で、松かさ（pine cone）のような神聖な螺旋を形作る『光の受容センター』。太陽の鼓動を感じ取り、自らを『夜（sleep）』という名の安らぎへと誘う、脳内の『第三の眼（inner eye）』。"
+		},
+		"thinking_layer": "『松かさの』。パイン（Pine/松）、ピン（Pin/ピン＝尖ったもの）と同根の説あり。語源は「松ぼっくり」。ただの「小器官」ではありません。そこには。「一見、植物的な沈黙を守っている場所こそ、宇宙の『光のバイオリズム（melatonin）』と最も深く共鳴している」という、神秘主義的な接続が宿っています。それは。知性が自らの「内なる松かさ（pineal gland）」を開き、世俗の光（visible light）を超えた、真理の光を直接捉えようとする瞬間の、静かなる法悦。",
+		"aftertaste": "デカルトが「魂の座」と呼んだ、この小さな「松果体（pineal gland）」が、自分の「意識」と「肉体」が交わる接点なのだと想い、自分という存在がいかに「聖なる幾何学」によって構築されているかを知り、深い誇りに包まれる、あの知的な平安。あるいは、自分の言葉もまた、この「ピニアル」のように、人々の心の中にある「不変の光」を呼び起こし、魂の深い安息へと導くものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pei-",
+					"meaning": "to be fat, swell (forming pinus)"
+				}
+			],
+			"points": [
+				"pine, fat, pituitary（？） 同根。",
+				"『松（pine）』は、冬も枯れない不滅の象徴である。松果体という言葉には、生命がいかにして、外部の激しい寒さ（光の不在）の中でも、自らの内なる『本質（spirit）』を不滅のものとして維持しようとしたかという、生存の美学が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "thyroid",
+		"word": "Thyroid",
+		"part_of_speech": "adj",
+		"meaning": "甲状腺の（こうじょうせんの）、盾の形をした",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thyreos",
+					"type": "root",
+					"meaning": "oblong shield (盾)', from Greek thura 'door'"
+				}
+			],
+			"original_statement": "From Greek thyreoeides 'shield-shaped', from thyreos 'oblong shield' + eidos 'form'."
+		},
+		"core_concept": {
+			"en": "A large ductless gland in the neck which secretes hormones regulating growth and development through the rate of metabolism",
+			"ja": "首という名の『急所（vortex）』を、古（いにしえ）の戦士の盾（shield）を以て守護し、生命の『火（metabolism）』を司る、喉元の『守護の祭壇』。激しすぎる活動を鎮め、過酷な衰退に抗う、知的な『調和の防壁』。"
+		},
+		"thinking_layer": "『盾の形をした』。ドア（Door/トビラ）と同根。語源は「大きな扉状の盾」。ただの「腺」ではありません。そこには。「自分自身のアイデンティティを、外部の敵から守るための『最前線の武具』として自らの肉体を鍛え上げる」という、峻烈な防衛の美学が宿っています。それは。知性が自らの「弱点」を自覚し、そこに最も強固な「論理（thyroidal shield）」を構築することで、いかなる外部の批判にも揺るがない、安定した自己（homeostasis）を確立しようとする瞬間のメタファー。",
+		"aftertaste": "自分の喉に触れ、この「盾（thyroid）」が絶え間なく自分の代謝（metabolism）の火を調整し、爆発にも氷（ice）にも至らせないように導いていることに想いを馳せ、自分の「情熱」はいかに緻密な「制御（control）」の上に成り立っているのかを知り、身震いする、あの知的な平安。あるいは、自分の思考もまた、この「サイロイド」のように、鋭利な攻撃性を隠しつつ、常に自らの「内なる聖域」を守り抜くための、誇り高き「防衛の盾」でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhwer-",
+					"meaning": "door (forming thura)"
+				}
+			],
+			"points": [
+				"door, foreign, forum, thyroid 同根。",
+				"『扉（door）』が『盾（shield）』となり、最後には『生命の火（hormone）』の管理者となる。甲状腺という言葉には、生命がいかにして『外部との接点（throat）』を、単なる弱点から、全システムを統べる『司令塔』へと転換してきたかという、逆転の知恵が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "adrenal",
+		"word": "Adrenal",
+		"part_of_speech": "adj",
+		"meaning": "副腎の（ふくじんの）、腎臓のそばの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to, near (そばに)"
+				},
+				{
+					"text": "renes",
+					"type": "root",
+					"meaning": "kidneys (腎臓)', from Latin"
+				}
+			],
+			"original_statement": "From Latin ad- 'to' + renes 'kidneys'."
+		},
+		"core_concept": {
+			"en": "Of or relating to the kidneys, specifically the glands that produce adrenaline in response to stress",
+			"ja": "生命の淵（edge）に立ち、極限の緊張（stress）を爆発的な『力（adrenaline）』へと変換する、峻烈な『最果てのブースター』。絶望の淵（kidneys）で、一滴の勇気を抽出し、世界という運命を覆す、知的な『決死の守護』。"
+		},
+		"thinking_layer": "『腎臓の近くにある』。レイン（Rein/手綱とは別）、おなじみの「アド（〜へ）」と同根。語源は「腎臓のそば」。ただの「腺」ではありません。そこには。「平和な日常の背後に、常に『戦い（fight or flight）』のための秘密の燃料を蓄えておく」という、峻烈な準備の意志が宿っています。それは。知性が追い詰められた瞬間に、それまでの自分を遥かに超えた「限界突破（breakthrough）」のアイディアを閃き、逆境を一気に突破してゆく瞬間のメタファー。",
+		"aftertaste": "心臓が激しく波打ち、全身の血が逆流するような「興奮（adrenaline rush）」を感じるたびに、自分の身体の中に、この「副腎（adrenal gland）」という名の「戦士の心臓」が眠っているのだと想い、再び立ち上がるための「不屈の熱」を感じる、あの峻烈な一呼吸。あるいは、自分の表現もまた、この「アドレナル」のように、停滞した世界を一瞬で「戦慄（vibration）」させ、人々を新しい行動へと突き動かす、魂の「起爆剤」でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ad-",
+					"meaning": "to (forming ad)"
+				}
+			],
+			"points": [
+				"ad-系、rene-系（reins/腰） 同根。",
+				"『そばにある（side by side）』ことが、補完的な強さを生む。副腎という言葉には、生命がいかにして、日常の『浄化（kidney）』の陰に、非日常の『爆発』を忍ばせてきたかという、二極性のサバイバル戦略が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pancreas",
+		"word": "Pancreas",
+		"part_of_speech": "noun",
+		"meaning": "膵臓（すいぞう）、パンクレアス、すべての肉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pan-",
+					"type": "prefix",
+					"meaning": "all (すべての)"
+				},
+				{
+					"text": "kreas",
+					"type": "root",
+					"meaning": "flesh (肉)', from Greek"
+				}
+			],
+			"original_statement": "From Greek pankreas, from pan 'all' + kreas 'flesh'."
+		},
+		"core_concept": {
+			"en": "A large gland behind the stomach which secretes digestive enzymes into the duodenum, and the hormones insulin and glucagon into the blood",
+			"ja": "自らが『肉（flesh）』そのものとなって大地（food）を溶かし、甘美な『生（sugar）』の均衡を司る、峻烈な『融解の祭壇』。自食（auto-digestion）の恐怖と背中合わせに、世界を自らの一部へと変えてゆく、知的な『すべてを受け入れる肉体』。"
+		},
+		"thinking_layer": "『すべての肉』。パノラマ（Panorama/全景）、パントマイム（Pantomime/すべてを模倣）、おなじみの「パン（Pan-）」と同根。語源は「純粋な肉」。ただの「臓器」ではありません。そこには。「外部のどんなに頑固な物（sugar, fat）も、自らの内なる『酸（fire）』によって完全に分解（decomposition）し、純粋なエネルギーへと還元する」という、極限の包摂への意志が宿っています。それは。知性がこの「ままならない現実（all flesh）」を、自らの智慧によって完全に理解（digestion）し、自分という物語の「血肉（energy）」へと変えてゆく瞬間のメタファー。",
+		"aftertaste": "「膵臓（pancreas）」という、自分の身体の中で最も柔らかく、しかし最も峻烈な「消化力」を秘めた沈黙の臓器に想いを馳せ、自分の「優しさ」がいかに強靭な「破壊と再生」に裏打ちされているのかを知り、静かな畏敬を覚える、あの知的な平安。あるいは、自分の思考もまた、この「パンクレアス」のように、複雑怪奇な世界を「全肯定（pan-flesh）」の姿勢で受け入れ、それを最も美しい「生の輝き（diabetes/とは逆に、バランスのとれた糖）」へと昇華させる強かな誠実さを備えていたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pan-",
+					"meaning": "all (forming pan)"
+				},
+				{
+					"term": "kreue-",
+					"meaning": "raw flesh (forming kreas)"
+				}
+			],
+			"points": [
+				"pan, panto, crude, cruel, crystal（？） 同根。",
+				"『すべて（all）』の『肉（flesh）』。この言葉には、生命がいかにして『外部の世界』を、単なる『対象（object）』ではなく、自らと同一の『物質（meat）』として認識し、そこから境界（skin）を溶かして栄養を奪還し、同化（assimilation）させてきたかという、壮絶なまでの合一（oneness）の歴史が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
