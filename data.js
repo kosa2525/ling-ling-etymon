@@ -264685,5 +264685,190 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "hypogeum",
+		"word": "Hypogeum",
+		"part_of_speech": "noun",
+		"meaning": "地下室、地下蔵、地下礼拝堂",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hypo-",
+					"type": "prefix",
+					"meaning": "under (〜の下に)"
+				},
+				{
+					"text": "ge",
+					"type": "root",
+					"meaning": "earth (地球、大地)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hypogaion, from hypo- 'under' + gē 'earth'."
+		},
+		"core_concept": {
+			"en": "An underground chamber or vault, especially in ancient architecture",
+			"ja": "大地の『下（under）』に穿（うが）たれた、沈黙と静寂が支配する地下空間。生者の目に触れぬよう、大切な秘密や死者を守るための、もう一つの宇宙"
+		},
+		"thinking_layer": "『地の下にあるもの』。ジオグラフィー（Geography/地理）、ジオロジー（Geology/地質）、おなじみの「ハイポ（下）」と同根。語源は「地下」。ただの「地下室（basement）」ではありません。そこには、古代の儀式や埋葬（burial）に関わる、神聖（sacred）で峻烈な響きがあります。それは、自分の意識の奥底にある「無意識（unconscious）」という名の地下室。表層の光が届かない場所で、静かに熟成（maturation）を待つ思索の場。",
+		"aftertaste": "石の階段を降り、ひんやりとした空気の「地下礼拝堂（hypogeum）」に足を踏み入れた瞬間の、世界から「遮断（quarantine）」されたような心地よい孤独。あるいは、自分の心の底にある「ハイポジアム（hypogeum）」に、誰にも言えない本当の願いを一つだけ埋めて、その上に重い日常の蓋（lid）をする、あの静かな夜の決意。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "dhghem-",
+					"meaning": "earth (forming gē)"
+				}
+			],
+			"points": [
+				"human, humble, geometry 同根。",
+				"『大地（earth）』とは生命の母体だが、その『下（under）』に行くことは、起源へと回帰（return to origin）することであり、ハイポジアム（hypogeum）はその回帰のための物理的な装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spelean",
+		"word": "Spelean",
+		"part_of_speech": "adjective",
+		"meaning": "洞穴の、洞穴に住む",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spelaion",
+					"type": "root",
+					"meaning": "cave (洞穴)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek spēlaion 'cave'."
+		},
+		"core_concept": {
+			"en": "Of or relating to a cave; inhabiting caves",
+			"ja": "大地の割れ目である『洞穴（cave）』の性質、あるいはそこに住まう孤独な者の在り方。光を拒絶し、岩壁の静寂と同化した、根源的で未開なエナジー"
+		},
+		"thinking_layer": "『洞穴の』。スペレオロジー（Speleology/洞窟学）と同根。語源は「洞窟」。ただの「暗い場所」ではありません。それは。何万年もの時間をかけて滴り落ちる水（dripping water）が作り上げた、終わりのない彫刻のような空間。光がないからこそ研ぎ澄まされる、知性の「触覚的な鋭さ」。それは、社会のルールを忘れ、自分の「獣性（animality）」と向き合うための、知的な退行。 ",
+		"aftertaste": "「洞窟的な（spelean）」沈黙の中に身をおき、自分の心臓の鼓動だけが唯一の「時間（time）」であると悟る、あの原始的な充足。あるいは、自分が日々暮らしている都会の部屋が、実は高度に洗練された「スペリアン（spelean）」な隠れ家に過ぎないのではないかと気づく、あの文明への皮肉な視線。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『洞穴（cave）』とは、人間が火（fire）を見出し、物語を語り始めた最初の舞台である。スペリアン（spelean）という形容には、その『始まりの場所』への郷愁（nostalgia）が宿っている。",
+				"スピリチュアルな（spiritual）探求において、洞窟は常に『内面への旅』のメタファーとして機能してきた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "columbarium",
+		"word": "Columbarium",
+		"part_of_speech": "noun",
+		"meaning": "（鳥の）鳩小屋、納骨堂、霊堂",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "columba",
+					"type": "root",
+					"meaning": "dove, pigeon (鳩)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin columbarium, from columba 'dove' (from the resemblance of the niches to pigeonholes)."
+		},
+		"core_concept": {
+			"en": "A room or building with niches for funeral urns to be stored; a pigeon house or a dovecote",
+			"ja": "平和の象徴である『鳩（dove）』が羽を休める小さな巣穴のように、死者の灰を収めた壺を整然と並べた、静謐（seihitsu）な魂の宿り木。個別の悲しみが、集団の記憶へと昇華（sublimate）される場所"
+		},
+		"thinking_layer": "『鳩のための場所』。コロンビア（Colombia/地名）、コロンブス（Columbus/人名＝鳩のような人？）と同根。語源は「鳩」。なぜ「鳩小屋」が「納骨堂」なのか。それは、壁に並んだ小さな四角い穴（niches）の形が、鳩小屋にそっくりだったからです。死を、不吉な排除（exclusion）としてではなく、愛らしい鳥たちが「羽を休める場所」としてメタファー化した、古代人の優しいユーモア。 ",
+		"aftertaste": "「霊堂（columbarium）」の壁に刻まれた無数の名前を眺めつつ、人の一生もまた、この小さな「鳩の穴（pigeonhole）」に収まってしまうほどの、儚（はかな）くも愛おしいものなのだと悟る、あの午後の知的な寂しさ。あるいは、自分の散らかった記憶を、この「コルンバリウム（columbarium）」のように美しく整理し、いつでも思い出せるようにしておきたいと願う、あの内省の充足。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kel-",
+					"meaning": "grey, dark? (referring to the color of the bird)"
+				}
+			],
+			"points": [
+				"dove, culver 同根の説あり。",
+				"『鳩（dove）』という言葉には、かつて魂（soul）を運ぶ使いとしての役割があった。コロンバリウム（columbarium）は、肉体を離れた魂が空へと飛び立つための、最後の発着港（port）なのかもしれない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cenote",
+		"word": "Cenote",
+		"part_of_speech": "noun",
+		"meaning": "セノーテ、天然の井戸、陥没穴にできた泉",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ts'onot",
+					"type": "root",
+					"meaning": "well (井戸)",
+					"lang": "Mayan"
+				}
+			],
+			"original_statement": "From American Spanish cenote, from Yucatec Maya ts'onot."
+		},
+		"core_concept": {
+			"en": "A natural pit, or sinkhole, resulting from the collapse of limestone bedrock that exposes groundwater underneath",
+			"ja": "乾いた大地が突然崩落（collapse）し、その底から湧き上がってきた、水晶のように澄んだ『深淵の瞳』。マヤの人々が神への入り口と信じた、天と地下を結ぶ水の窓"
+		},
+		"thinking_layer": "『井戸』。マヤ語由来。ただの「穴」ではありません。それは「地下水面（water table）」そのものが地上に顔を出した場所です。暗い洞窟の先に広がる、吸い込まれるようなブルーの世界。それは、自分でも気づいていなかった、本当の「感情の源泉（source of emotion）」に不意に出会ってしまった時の、あの戦慄と解放。 ",
+		"aftertaste": "聖なる「セノーテ（cenote）」の底知れぬ深みを見つめ、自分の悩みのすべてが、この青い沈黙（blue silence）の中に溶けて消えてゆくのを感じる、あの峻烈な浄化（purification）。あるいは、自分の理性の地殻（crust）が突然崩れ、そこから制御不能な「無意識の泉（cenote of the mind）」が溢れ出してきたことに気づく、あの戸惑いと深い納得。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『崩落（collapse）』とは、普通は死や終わりを意味するが、セノーテ（cenote）においては、それは地上の乾きから逃れ、地下に流れる『永遠の生命（water）』へと繋がるための唯一の道である。",
+				"セノーテは、生贄（sacrifice）の場でもあった。そこには、何かを得るためには何かを『深淵に差し出す』必要があるという、残酷で敬虔な知恵が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cavernicolous",
+		"word": "Cavernicolous",
+		"part_of_speech": "adjective",
+		"meaning": "洞穴性の、洞窟に棲む",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caverna",
+					"type": "root",
+					"meaning": "hollow place, cave (空洞、洞窟)",
+					"lang": "Latin"
+				},
+				{
+					"text": "colere",
+					"type": "root",
+					"meaning": "to inhabit, dwell (住む、耕す)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin cavernicola, from caverna 'cave' + colere 'inhabit'."
+		},
+		"core_concept": {
+			"en": "Inhabiting caves",
+			"ja": "光を失った世界の住人として、洞窟の暗闇を自らの『故郷（home）』とし、そこに適応しきった生命の在り方。視覚を捨てて洗練された、触覚と聴覚の鋭利な哲学"
+		},
+		"thinking_layer": "『洞窟に住むこと』。ケイブ（Cave）、カルチャー（Culture/耕し、住まうこと）、コロニー（Colony/入植地）と同根。語源は「洞窟に住む」。スペリアン（Spelean/洞窟の）が場所の性質なら、カヴァニコラスは「そこに住んでいるという事実（state of being）」に重きを置きます。それは、世間に背を向け、独自の進化（evolution）を遂げた者たちの、孤高で異質な誇りのメタファー。",
+		"aftertaste": "暗闇に順応し、目が見えなくなった「洞窟性の（cavernicolous）」生き物たちが、それでも完璧な秩序を保って生きていることを知り、自分の「理解できないもの（unintelligible things）」の中にも、確かな真理が存在するのだと悟る、あの峻厳な教訓。あるいは、自分の思考がこの「カヴァニコラス（cavernicolous）」な生命のように、世俗の光の中では生息できないほど奇妙で、しかし研ぎ澄まされたものになっていると気づく、あの静かな午後の自負。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "keue-",
+					"meaning": "to swell, hollow (forming caverna)"
+				},
+				{
+					"term": "kwel-",
+					"meaning": "to revolve, dwell (forming colere)"
+				}
+			],
+			"points": [
+				"cavern, cavity, culture, colony, wheel 同根。",
+				"『住まう（dwelling）』という行為は、その場所の制約（limitations）を自らのアイデンティティへと作り変えることである。カヴァニコラス（cavernicolous）な存在は、光の不在を『自由』へと転換した究極の適応者である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
