@@ -254386,5 +254386,92 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "excommunicate",
+		"word": "Excommunicate",
+		"part_of_speech": "verb",
+		"meaning": "破門する、除名する、社会的に抹殺する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "communicare",
+					"type": "root",
+					"meaning": "to share, make common (共有する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin excommunicat- 'put out of the community'."
+		},
+		"core_concept": {
+			"en": "Officially exclude (someone) from participation in the sacraments and services of the Christian Church",
+			"ja": "すべての人と魂の繋がり（聖体拝領）を『共有（share）』する場から、その人を『外へと放り出す（out）』こと。神と人、両方から見捨てられるという、魂の死の告知"
+		},
+		"thinking_layer": "『共有の場から外すこと』。コモン（Common/共通の）やコミュニケーション（Communication）の拒絶。ただの「追放」ではなく、精神的な「へその緒」を切り、孤立させること。それは中世においては死よりも恐ろしい罰であり、現代においても、所属すべき場所を失うという根源的な恐怖を象徴しています。",
+		"aftertaste": "聖堂の大きな扉が、自分の目の前で重い音を立てて閉まり、二度と開かないことを悟った瞬間の絶望。あるいは、自分が何を叫んでも、誰も自分の方を向かないという、透明な幽霊になってしまったような虚脱感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ko-moin-i-",
+					"meaning": "held in common"
+				}
+			],
+			"points": [
+				"common, community, municipal（自治の）, mean（元は共有された＝卑しい）と同根。",
+				"『共有すること（common）』が人間を社会的な存在にし、その剥奪（excommunicate）は『非・人間化』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "disenfranchise",
+		"word": "Disenfranchise",
+		"part_of_speech": "verb",
+		"meaning": "市民権を奪う、参政権を剥奪する、権利を奪う",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dis-",
+					"type": "prefix",
+					"meaning": "reverse (逆、否定)"
+				},
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "make (〜にする)"
+				},
+				{
+					"text": "franc",
+					"type": "root",
+					"meaning": "free (自由な)",
+					"lang": "French"
+				}
+			],
+			"original_statement": "From dis- 'reverse' + Latinized form of franchis- 'free'."
+		},
+		"core_concept": {
+			"en": "Deprive (someone) of a right or privilege, especially the right to vote",
+			"ja": "人間が自由に（free）生き、自分の未来を自分で決めるための正当な『権利や特権』を、システムの力で『剥ぎ取って（reverse）』、声を上げられない弱者の地位に押し留めること"
+		},
+		"thinking_layer": "『自由にする、の逆をすること』。フランク（Frank/率直な＝自由な人の発言）と同根。フランク族という支配階級が「自由（Free）」を独占していたことに由来。参政権（the vote）だけでなく、社会の一員として「ここに参加している」という実感を奪うこと。それは物理的な暴力よりも深く、自尊心を傷つけます。",
+		"aftertaste": "自分の名前が、システムのリストから「存在しないもの」として消去されているのを見る時の、震えるような怒りと虚しさ。あるいは、どれだけ叫んでも自分の声が「無効」として扱われる、あの決定的な壁の冷たさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "frek-",
+					"meaning": "free"
+				}
+			],
+			"points": [
+				"free, friend, aficionado 同根。",
+				"『自由（free）』であることは、同時に『仲間（friend）』として認められることであり、その剥奪（disenfranchise）は『他者化』の極致。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
