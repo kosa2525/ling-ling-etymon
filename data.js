@@ -255272,5 +255272,51 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "litigious",
+		"word": "Litigious",
+		"part_of_speech": "adjective",
+		"meaning": "訴訟好きな、論争好きな",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lis",
+					"type": "root",
+					"meaning": "strife, lawsuit (争い、訴訟)",
+					"lang": "Latin"
+				},
+				{
+					"text": "agere",
+					"type": "root",
+					"meaning": "to drive, do (駆り立てる、行う)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin litigiosus, from litigium 'dispute'."
+		},
+		"core_concept": {
+			"en": "Unreasonably prone to go to law to settle disputes; fond of litigation",
+			"ja": "あらゆる問題を対話や妥協で解決しようとせず、すぐに剣を抜く（＝裁判に持ち出す）かのように、『訴訟（lawsuit）』という舞台へと自分と相手を『駆り立てる（drive）』、攻撃的で執念深い知性の在り方"
+		},
+		"thinking_layer": "『争いへと駆り立てること』。エイジェント（Agent/行う人）やアジテーション（Agitation/煽動）と同根。ただの「わがまま」ではなく、法の論理を武器（weapon）として使いこなし、相手を追い詰めることに快感を覚える状態。それは、高度に洗練された「文明的な暴力」。 ",
+		"aftertaste": "握手を交わした瞬間に、相手の目が自分の些細な過失を探していると気づいた時の、あの吐き気がするような警戒心。あるいは、一通の事務的な警告文が、これまでの温かな信頼関係を冷酷に引き裂いてゆく時の、インクの冷たさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slei-",
+					"meaning": "to strike, hit (forming lis/dispute)"
+				},
+				{
+					"term": "ag-",
+					"meaning": "to drive, do"
+				}
+			],
+			"points": [
+				"logic, act, agent, litigation 同根の説あり。",
+				"『行動（act）』が『争い（strife）』と結びついた時、それは文明にとっての『正義（justice）』にも『毒（venom）』にもなりうる。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
