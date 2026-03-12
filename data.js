@@ -277254,5 +277254,155 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "ventricle",
+		"word": "Ventricle",
+		"part_of_speech": "noun",
+		"meaning": "脳室（のうしつ）、心室",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "venter",
+					"type": "root",
+					"meaning": "belly"
+				},
+				{
+					"text": "-icle",
+					"type": "suffix",
+					"meaning": "little"
+				}
+			],
+			"original_statement": "From Latin ventriculus."
+		},
+		"core_concept": {
+			"en": "hollow part in an organ",
+			"ja": "生命の情報の泉が湧き出る『小さな腹』。"
+		},
+		"thinking_layer": "『小さな腹』。静寂なる空洞の中で情報の海を循環させ、汚れを峻烈に洗い流す清流の源泉。空白の中にこそ貴重な情報のしずくが蓄えられているという沈潜の知恵。",
+		"aftertaste": "透き通った水の宮殿に自分という存在の清らかさを再発見する。心の乾きを癒やし、泉を灯すひとつの言葉を願う自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世では、この空白にこそ魂の機能が宿ると信じられていた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "striatum",
+		"word": "Striatum",
+		"part_of_speech": "noun",
+		"meaning": "線条体（せんじょうたい）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stria",
+					"type": "root",
+					"meaning": "furrow, stripe"
+				}
+			],
+			"original_statement": "From Latin stria."
+		},
+		"core_concept": {
+			"en": "basal ganglia structure",
+			"ja": "習慣と快楽が交差する記憶の溝。"
+		},
+		"thinking_layer": "『溝のついたもの』。繰り返される行動が縞模様のように魂に刻み込まれ、揺るぎない人格という地形を形作る。一時の情動を、反復によって自動的な理へと昇華させる自動化の知恵。",
+		"aftertaste": "美しい情報の地層に、歩んできた時間の重みを知る平安。真理を求める習慣を等しく深く刻み込みたいという自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"白質と灰白質が交互に並び、縞模様に見えることから。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pons",
+		"word": "Pons",
+		"part_of_speech": "noun",
+		"meaning": "橋（きょう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pons",
+					"type": "root",
+					"meaning": "bridge"
+				}
+			],
+			"original_statement": "From Latin pons."
+		},
+		"core_concept": {
+			"en": "brainstem bridge",
+			"ja": "理屈と現実を繋ぐ聖なる橋。"
+		},
+		"thinking_layer": "『橋』。大脳と身体の間に峻烈に架けられた通信の要。異なる情報の領土をひとつの繋がりによって合一させ、世界をシステムへとまとめ上げる驚異的な統合の意志のメタファー。",
+		"aftertaste": "思考が行動へと翻訳される奇跡に、宇宙の調和を知る。分断された世界に理解の橋を架けたいと願う自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"REM睡眠中。この橋が肉体をロックし、静止したまま物語が紡がれる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dura",
+		"word": "Dura",
+		"part_of_speech": "noun",
+		"meaning": "硬膜（こうまく）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "durus",
+					"type": "root",
+					"meaning": "hard"
+				}
+			],
+			"original_statement": "From Latin dura 'hard'."
+		},
+		"core_concept": {
+			"en": "tough outer membrane",
+			"ja": "知性を守り抜く鋼の母。"
+		},
+		"thinking_layer": "『硬いもの』。柔らかき知性の核を内的・外的衝撃から守る不落の城壁。守るべき真理が尊いほど、その外殻は非情なまでに強固でなければならない。誇り高き沈黙を守る防衛の美学。",
+		"aftertaste": "守られていることへの深い安心。不屈の強さを持ち、内なる真理の火を絶やさない不変の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"硬母膜 dura mater。生命は強さと優しさの二重の抱擁で守られる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lobe",
+		"word": "Lobe",
+		"part_of_speech": "noun",
+		"meaning": "葉（よう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lobos",
+					"type": "root",
+					"meaning": "lobe, pod"
+				}
+			],
+			"original_statement": "From Greek lobos."
+		},
+		"core_concept": {
+			"en": "part of an organ",
+			"ja": "情報の区分。自律した知性の庭。"
+		},
+		"thinking_layer": "『丸い突出』。巨大な情報の山を峻烈に区切り、専門性を極限まで研ぎ澄ます分割の美学。全体の一望ではなく。まずは与えられた一葉を徹底的に耕すことから始める不屈の思索の態度。",
+		"aftertaste": "自分の中に多様な自分が共存していると気づく平安。一部一葉が鮮烈な個性を放ち、人々の心に驚きを与えるものでありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"脳を『葉』に見立てる視点。知恵の樹から芽吹いた断片の集積という認識。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
