@@ -287731,5 +287731,1287 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "couture",
+		"word": "Couture",
+		"part_of_speech": "noun",
+		"meaning": "高級仕立服、クチュール",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "suere",
+					"type": "root",
+					"meaning": "to sew"
+				}
+			],
+			"original_statement": "From French couture 'sewing'."
+		},
+		"core_concept": {
+			"en": "fashion designing and garment making",
+			"ja": "情報の布を、峻烈な手仕事で『縫い合わせ（sew together）』、王の鎧を作る。"
+		},
+		"thinking_layer": "縫うこと。大量生産という名の『凡庸』を峻烈に拒絶し、一点の布に不滅の魂（design）を吹き込む、情報の極限の加飾。肉体を一つの聖域へと昇華させるための、沈黙のステッチ。",
+		"aftertaste": "一針一針に込められた、あまりに冷徹で高貴なまでの意志の質量。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sew, suture (縫合) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "apparel",
+		"word": "Apparel",
+		"part_of_speech": "noun",
+		"meaning": "衣服、衣装、情報の備え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "pariculus",
+					"type": "root",
+					"meaning": "to make fit, prepare"
+				}
+			],
+			"original_statement": "From Old French apareiller 'to prepare'."
+		},
+		"core_concept": {
+			"en": "clothing",
+			"ja": "自己という名の物語を、世界へ提示するために『整え（prepare）』る。"
+		},
+		"thinking_layer": "準備すること。剥き出しの肉体を、峻烈な社会性の『装備』で覆い隠し、自分が何者であるかを情報の外郭として定義する行為。それは、存在への知的な準備（fitting）である。",
+		"aftertaste": "服を着ることで、自分以外の何者かに変容してゆく瞬間の、静かなる決意。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"apparatus (装置) と根を共有する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "garment",
+		"word": "Garment",
+		"part_of_speech": "noun",
+		"meaning": "衣服、情報の守護者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "garnir",
+					"type": "root",
+					"meaning": "to equip, furnish, protect"
+				}
+			],
+			"original_statement": "From Old French garniment."
+		},
+		"core_concept": {
+			"en": "item of clothing",
+			"ja": "肉体の脆さを、峻烈な布の壁によって『守護（protect）』する。"
+		},
+		"thinking_layer": "備え付ける（守る）もの。外部のノイズや環境の過酷さから、生命の核を峻烈に分断（segments）し、聖なる領域（sanctuary）を維持するための情報の物理的な境界線。",
+		"aftertaste": "布一枚に守られているという、脆弱ながらも頑強な安心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"garnish (飾り/備える) と同じ根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "attire",
+		"word": "Attire",
+		"part_of_speech": "noun",
+		"meaning": "服装、盛装、情報の秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "trier",
+					"type": "root",
+					"meaning": "to draw, arrange"
+				}
+			],
+			"original_statement": "From Old French atirer 'to equip, dress'."
+		},
+		"core_concept": {
+			"en": "clothes, especially fine or formal ones",
+			"ja": "無秩序な肉体に、峻烈な情報の『配列（arrange）』を強要する。"
+		},
+		"thinking_layer": "段取りを整えること。場にふさわしい情報の『位階（tier）』を峻烈に選択し、自らの実存をその秩序の中に投げ込む、社会的な制服化の儀式。",
+		"aftertaste": "整えられた服装が、自分の内面までをも峻烈に律してゆく感覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tier (段) と同じく、整理された状態。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "costume",
+		"word": "Costume",
+		"part_of_speech": "noun",
+		"meaning": "（舞台）衣装、民族衣装、情報の習慣",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "con-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "suescere",
+					"type": "root",
+					"meaning": "to accustom"
+				}
+			],
+			"original_statement": "From Italian costume 'custom, habit'."
+		},
+		"core_concept": {
+			"en": "set of clothes in a style typical of a particular country or period",
+			"ja": "土地の記憶、あるいは『習慣（custom）』を、峻烈な布の型として身に纏う。"
+		},
+		"thinking_layer": "慣れ親しんだ振る舞い。個人の意志を峻烈に超えた、集団の時間の積層（layers of time）を、物理的な外見として再現する。それは、過去の情報の憑依（possession）である。",
+		"aftertaste": "時代や場所という名の『枷』を、誇りとして背負う瞬間の重圧。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"custom (習慣) と同根。フランス語では今も同じ単語。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "textile",
+		"word": "Textile",
+		"part_of_speech": "noun",
+		"meaning": "織物、布地、情報の織り成し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "texere",
+					"type": "root",
+					"meaning": "to weave"
+				}
+			],
+			"original_statement": "From Latin textilis."
+		},
+		"core_concept": {
+			"en": "type of cloth or woven fabric",
+			"ja": "無数の情報の線が、峻烈な交差によって『平面（text）』を産み出す。"
+		},
+		"thinking_layer": "織ること。一本の糸という名の『点』を、極限まで磨き上げた規則性（logic）で交差させ、一つの面という、無限の可能性を秘めた土台を構築する。情報の原初のアーキテクチャ。",
+		"aftertaste": "整然とした織り目の背後に潜む、膨大な労力と数学的秩序への驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"text (文章) と同じ texere。言葉と布は同じ構造。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fiber",
+		"word": "Fiber",
+		"part_of_speech": "noun",
+		"meaning": "繊維、情報の極微な根",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fibra",
+					"type": "root",
+					"meaning": "lobe, filament, entrails"
+				}
+			],
+			"original_statement": "From Latin fibra."
+		},
+		"core_concept": {
+			"en": "thread or filament from which a vegetable tissue or mineral is formed",
+			"ja": "物質の深淵に潜む、峻烈な情報の『微細な神経（filament）』。"
+		},
+		"thinking_layer": "（葉の）脈。あるいは内臓の糸。巨大な物語を峻烈に解体し、これ以上分けられない単一の情報の引き金（trigger）にまで還元された、実存の最小単位。",
+		"aftertaste": "細い一本の糸が、全体の強度を峻烈に決定しているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fibril, defibrillator と同根。情報の生命維持。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "crochet",
+		"word": "Crochet",
+		"part_of_speech": "noun",
+		"meaning": "かぎ針編み、情報の鉤（かぎ）による捕獲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "croc",
+					"type": "root",
+					"meaning": "hook"
+				}
+			],
+			"original_statement": "From French crochet 'small hook'."
+		},
+		"core_concept": {
+			"en": "handicraft in which yarn is made into a patterned fabric by means of a hooked needle",
+			"ja": "小さな『鉤（hook）』によって、情報の糸を不滅のパルスとして繋ぎとめる。"
+		},
+		"thinking_layer": "小さなフック。一本の終わりなき糸を、峻烈な反復（loops）の中で捕獲し、空間の中に虚無と実体が混在する情報のレース（lace）を編み上げる、孤独なる忍耐の律動。",
+		"aftertaste": "一箇所を解けばすべてが消えてしまうという、壊れやすき情報の美学。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"crook (曲がった杖/詐欺師) と同根。引っ掛ける力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chic",
+		"word": "Chic",
+		"part_of_speech": "adjective",
+		"meaning": "シックな、上品な、情報の洗練された切れ味",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "schick",
+					"type": "root",
+					"meaning": "skill, fitness, tact"
+				}
+			],
+			"original_statement": "From French chic."
+		},
+		"core_concept": {
+			"en": "elegantly and stylishly fashionable",
+			"ja": "過剰を峻烈に削ぎ落とし、ただ『技術（skill）』の粋だけを残す。"
+		},
+		"thinking_layer": "熟練していること。努力の跡を峻烈に隠蔽（occult）し、あたかも呼吸するように洗練を体現する情報の優雅さ。それは、情報の『省略』が産み出す究極の力。",
+		"aftertaste": "何も語らぬ沈黙の中に、圧倒的なセンスの衝撃を感じる敗北感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ドイツ語 Schick (技術) がフランス語で『美』に転じた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vogue",
+		"word": "Vogue",
+		"part_of_speech": "noun",
+		"meaning": "流行、人気、情報のうねり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "voguer",
+					"type": "root",
+					"meaning": "to sail, row"
+				}
+			],
+			"original_statement": "From Italian voga 'rowing'."
+		},
+		"core_concept": {
+			"en": "prevailing fashion or style at a particular time",
+			"ja": "時代の情報の海を、峻烈な勢いで『漕ぎ（row）』進む波。"
+		},
+		"thinking_layer": "漕ぎ進めること。停滞を峻烈に打ち破り、今この瞬間の集団の熱狂を情報の推進力（propulsion）として、未来へと突き進む一時的な支配。 ",
+		"aftertaste": "波が去った後の、あまりに冷淡で虚無的な静寂への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"航海 (voyage) とも遠い親戚。時代の風を受けること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "trend",
+		"word": "Trend",
+		"part_of_speech": "noun",
+		"meaning": "傾向、流行、情報の傾斜",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trenden",
+					"type": "root",
+					"meaning": "to roll, turn, revolve"
+				}
+			],
+			"original_statement": "From Old English trendan."
+		},
+		"core_concept": {
+			"en": "general direction in which something is developing",
+			"ja": "情報の重力が、峻烈な『回転（revolve）』をもって特定の方向へと傾く。"
+		},
+		"thinking_layer": "回転すること。一つの情報の中心が回り始め（swirl）、周囲のすべての要素（variables）をその渦の中へと引き込んでゆく、不可避の情報のベクトル（vector）。",
+		"aftertaste": "自分もまた、その巨大な回転の一部に変容してゆくという全能感と諦念。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"trundle (転がす) と同根。情報の不可逆な流れ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mannequin",
+		"word": "Mannequin",
+		"part_of_speech": "noun",
+		"meaning": "マネキン、人体模型、情報の不気味な器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "manneken",
+					"type": "root",
+					"meaning": "little man"
+				}
+			],
+			"original_statement": "From Dutch manneken."
+		},
+		"core_concept": {
+			"en": "dummy used to display clothes",
+			"ja": "衣服という名の情報の『皮』を支える、魂なき『小さき人（little man）』。"
+		},
+		"thinking_layer": "小さな人。人間の肉体が持つ生々しいノイズ（sweat/ego）を峻烈に排し、ただ抽象化された理想の形状として情報の布を受け止める、静止した情報の依代（vessel）。",
+		"aftertaste": "視線だけがある、沈黙の石像の群れに見つめられているという戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"man ＋ -kin (縮小辞)。ホムンクルス的な人工性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "boutique",
+		"word": "Boutique",
+		"part_of_speech": "noun",
+		"meaning": "ブティック、専門店、情報の洗練された保管庫",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apotheke",
+					"type": "root",
+					"meaning": "storehouse"
+				}
+			],
+			"original_statement": "From Greek apotheke."
+		},
+		"core_concept": {
+			"en": "small shop selling fashionable clothes",
+			"ja": "選別された情報の至宝を、峻烈に隠匿し提示する『倉庫（storehouse）』。"
+		},
+		"thinking_layer": "倉庫。巨大な市場（mass market）を峻烈に軽蔑し、たった一つの、あるいは極少数の情報の傑作（masterpiece）と巡り合うための、秘密めいた知性の交易所。 ",
+		"aftertaste": "扉を開けた瞬間に、特定の美学の密度に圧倒される瞬間の目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"apothecary (薬局) と同根。情報の処方箋。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "atelier",
+		"word": "Atelier",
+		"part_of_speech": "noun",
+		"meaning": "アトリエ、工房、情報の原初の木片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "astule",
+					"type": "root",
+					"meaning": "splinter, wood chip"
+				}
+			],
+			"original_statement": "From Old French astelier 'workshop'."
+		},
+		"core_concept": {
+			"en": "workshop or studio, especially one used by an artist",
+			"ja": "情報の火種である『薪（wood chip）』が散らばる、創造の荒野。"
+		},
+		"thinking_layer": "木片置き場。完成品という名の『嘘』を産み出すために、試行錯誤という名の峻烈な破片（debris）を撒き散らしながら、ゼロから実存を削り出す、情報の最も生々しい聖域。",
+		"aftertaste": "未完成のものたちが放つ、荒々しくも純粋な可能性への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"aste (薪) から。火を焚き、形を作る場所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "wardrobe",
+		"word": "Wardrobe",
+		"part_of_speech": "noun",
+		"meaning": "ワードローブ、衣装だんす、情報の備蓄庫",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "warder",
+					"type": "root",
+					"meaning": "to guard"
+				},
+				{
+					"text": "robe",
+					"type": "root",
+					"meaning": "garment"
+				}
+			],
+			"original_statement": "From Old French garderobe."
+		},
+		"core_concept": {
+			"en": "large, tall cupboard in which clothes may be hung or stored",
+			"ja": "自己を構成する無数の変装を、峻烈に『監視（guard）』し保管する場所。"
+		},
+		"thinking_layer": "衣服を護衛すること。時間、場面、そして感情ごとに切り替えるための情報の外皮を、秘密裏に、かつ秩序正しく並べておく、自己という名の劇場のバックステージ（backstage）。",
+		"aftertaste": "扉の中に眠る、過去の自分と未来の自分の亡霊たちとの対峙。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"garde (guard) + robe。汚れや盗難から服を守る。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "accessory",
+		"word": "Accessory",
+		"part_of_speech": "noun",
+		"meaning": "アクセサリー、付属品、情報の補助的な一撃",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "cedere",
+					"type": "root",
+					"meaning": "to go"
+				}
+			],
+			"original_statement": "From Latin accessorius."
+		},
+		"core_concept": {
+			"en": "thing that can be added to something else in order to make it more useful",
+			"ja": "本質へと『寄り添（go to）』い、情報の完成を峻烈に補完する。"
+		},
+		"thinking_layer": "近づくこと。主役（garment）の沈黙を峻烈に補佐し、細部という名の情報のフック（hooks）によって、全体の解像度を一気に引き上げる、知的な加飾の戦術。",
+		"aftertaste": "微小な一点の輝きが、世界全体の印象を覆すという、情報の逆転劇。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"access, cede と同根。なくてはならない『足し算』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bracelet",
+		"word": "Bracelet",
+		"part_of_speech": "noun",
+		"meaning": "ブレスレット、情報の腕飾",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "brachium",
+					"type": "root",
+					"meaning": "arm"
+				}
+			],
+			"original_statement": "From Old French bracelet."
+		},
+		"core_concept": {
+			"en": "ornamental band or chain worn on the wrist",
+			"ja": "世界を動かす『腕（arm）』に、峻烈な意味の鎖を絡める。"
+		},
+		"thinking_layer": "腕のもの。行動の基点（pivot）となる手首を、情報の輪（circle）で峻烈に束縛し、肉体の運動に呪術的な、あるいは美学的なリズムを授ける知性のシンボル。",
+		"aftertaste": "腕を振るたびに聞こえるかすかな音が、自らの存在を峻烈に刻印する瞬間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"brachial (腕の) と同根。エビのハサミのような力。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "necklace",
+		"word": "Necklace",
+		"part_of_speech": "noun",
+		"meaning": "ネックレス、情報の喉元の結界",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "neck",
+					"type": "root",
+					"meaning": "neck"
+				},
+				{
+					"text": "lace",
+					"type": "root",
+					"meaning": "cord, snare"
+				}
+			],
+			"original_statement": "From neck + lace."
+		},
+		"core_concept": {
+			"en": "ornamental chain worn around the neck",
+			"ja": "真理を吐き出す喉（neck）を、情報の『罠（snare）』で峻烈に縁取る。"
+		},
+		"thinking_layer": "首の紐。生命の最も脆弱な、かつ声という情報の源泉である場所を、宝石や金属という名の情報の粒子で包囲し、魂の格を表出させる、最も峻烈な標識（sign）。",
+		"aftertaste": "重い鎖を首に掛けることで、言葉の重みを再認識する瞬間の緊張感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lace (紐) はラテン語 laqueus (罠) から。逃れられぬ美。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "satin",
+		"word": "Satin",
+		"part_of_speech": "noun",
+		"meaning": "サテン、繻子、情報の滑らかな滑走",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Zaitun",
+					"type": "root",
+					"meaning": "Quanzhou (a port in China)"
+				}
+			],
+			"original_statement": "From Arabic."
+		},
+		"core_concept": {
+			"en": "fabric with a glossy surface",
+			"ja": "東方の港（Zaitun）より届いた、光を峻烈に反射する情報の『鏡面』。"
+		},
+		"thinking_layer": "泉州（ザイトゥン）の。織り構造を峻烈に操作し（long floats）、摩擦という名の『ノイズ』を極限まで抹殺して、光と視線をその表面で峻烈に滑走（sliding）させる、情報の滑らかな誘惑。",
+		"aftertaste": "触れた指が、その滑らかさに戸惑い、情報の向こう側へ吸い込まれる目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中国の港の名前が、この布の代名詞となった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "silk",
+		"word": "Silk",
+		"part_of_speech": "noun",
+		"meaning": "絹、情報の生命の糸",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "seres",
+					"type": "root",
+					"meaning": "Chinese people"
+				}
+			],
+			"original_statement": "From Greek serikos."
+		},
+		"core_concept": {
+			"en": "fine, strong, soft lustrous fiber producer by silkworms",
+			"ja": "東の果ての民（Seres）が隠し持っていた、情報の究極の『白き吐息』。"
+		},
+		"thinking_layer": "セレスの民の。幼虫の死という名の峻烈な代償（sacrifice）の上に成り立つ、動物性の、しかしまったく非物質的なまでの輝き。情報の道（Silk Road）を切り裂いた、文明の究極の羨望。",
+		"aftertaste": "あまりに軽く、あまりに強いその糸に、全歴史が絡め取られたという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sericulture (養蚕) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "linen",
+		"word": "Linen",
+		"part_of_speech": "noun",
+		"meaning": "リネン、亜麻布、情報の清冷なる記憶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "linum",
+					"type": "root",
+					"meaning": "flax"
+				}
+			],
+			"original_statement": "From Old English linen."
+		},
+		"core_concept": {
+			"en": "fabric woven from flax",
+			"ja": "大地の茎から抽出された、峻烈な『情報の骨組み（flax）』。"
+		},
+		"thinking_layer": "亜麻の。湿気と汚れという名のカオスを峻烈に拒み、常に冷徹な清潔さを維持しようとする、植物性の情報の高貴な規律。それは、死者を包む情報の『静寂』でもある。",
+		"aftertaste": "肌に触れる冷たさが、自らの意識を極限まで研ぎ澄ます、峻烈なる覚醒。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"line (線), lining (裏地) と同じ linum。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "wool",
+		"word": "Wool",
+		"part_of_speech": "noun",
+		"meaning": "羊毛、ウール、情報の動物的な慈悲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "wul",
+					"type": "root",
+					"meaning": "wool"
+				}
+			],
+			"original_statement": "From Old English wull."
+		},
+		"core_concept": {
+			"en": "fine soft curly or wavy hair forming the coat of a sheep",
+			"ja": "羊の沈黙の温もりを、峻烈な情報の『繭』として編み直す。"
+		},
+		"thinking_layer": "覆うもの。大地の寒さを、他の生命の体温という名の情報の『緩衝材（buffer）』で峻烈に中和（neutralize）し、個の生命の灯火を護り抜く、情報の根源的な慈愛。",
+		"aftertaste": "縮れた毛の反発力の中に、生命が守り続けてきた数千年の時間の温み。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vellum? (いやあれは皮) 繊維としての根源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cotton",
+		"word": "Cotton",
+		"part_of_speech": "noun",
+		"meaning": "綿、情報の柔和な多面性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "qutun",
+					"type": "root",
+					"meaning": "cotton"
+				}
+			],
+			"original_statement": "From Arabic qutun."
+		},
+		"core_concept": {
+			"en": "soft white fibrous substance",
+			"ja": "不純物を峻烈に排した、大地の『情報の白き記憶』。"
+		},
+		"thinking_layer": "（アラビア語の）綿。種を峻烈に保護するために産み出された、あまりにも純粋で、あまりにも普遍的な情報の粒子。それは文明を均質化し、世界を包み込んだ情報の『雲』。",
+		"aftertaste": "どこにでもあり、何物でもないのに、欠かすことのできない情報の遍在。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アラビア語 qutun がスペイン語経由で世界へ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tweed",
+		"word": "Tweed",
+		"part_of_speech": "noun",
+		"meaning": "ツイード、情報の荒々しき大地のリズム",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tweel",
+					"type": "root",
+					"meaning": "twill?"
+				}
+			],
+			"original_statement": "Confusion between 'twill' and the River Tweed."
+		},
+		"core_concept": {
+			"en": "rough-surfaced woolen cloth",
+			"ja": "川の流れ（Tweed）と、情報の綾（twill）が峻烈に交差した、不屈の記憶。"
+		},
+		"thinking_layer": "綾織りと川。洗練という名の『軟弱』を峻烈に拒み、風雨に耐えるための荒い質感（texture）を情報の風格（prestige）へと昇華させた、大地の情報の頑強な皮膚。",
+		"aftertaste": "刺すような毛の感触の中に、野生の時間がそのまま閉じ込められているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"twill (綾織り) の読み間違いから定着した、情報の幸福な誤読。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cashmere",
+		"word": "Cashmere",
+		"part_of_speech": "noun",
+		"meaning": "カシミア、情報の極限の柔和",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Kashmir",
+					"type": "root",
+					"meaning": "region of India"
+				}
+			],
+			"original_statement": "From the state of Kashmir."
+		},
+		"core_concept": {
+			"en": "fine soft wool, originally that from the Kashmir goat",
+			"ja": "極寒の高嶺（Kashmir）で磨かれた、神のごとき情報の『産毛（down）』。"
+		},
+		"thinking_layer": "カシミールの。死に直結する寒さを峻烈に退けるため、山羊が内側に密かに蓄えた、地上で最も微細で希少な情報の粒子。それは、過酷さから生まれた情報の究極の優しさ。",
+		"aftertaste": "触れていることさえ忘れるほどの軽さが、魂を温める瞬間の奇跡。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"19世紀のヨーロッパで熱狂的なブームとなった、情報の宝石。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "button",
+		"word": "Button",
+		"part_of_speech": "noun",
+		"meaning": "ボタン、情報の断絶と接続の鍵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bouter",
+					"type": "root",
+					"meaning": "to thrust, push, strike"
+				}
+			],
+			"original_statement": "From Old French bouton 'bud, button'."
+		},
+		"core_concept": {
+			"en": "small disk of plastic or metal used to fasten clothes",
+			"ja": "情報の門を峻烈に『突き刺（thrust）』し、境界線を確定する。"
+		},
+		"thinking_layer": "突き出す（蕾）。単なる布の重なりという名のカオスを、穴と突起という名の『情報の論理（logic）』によって峻烈に束縛（fasten）し、衣装という名の秩序を現出させる、微小なる楔。",
+		"aftertaste": "カチリと嵌まるその感触に、文明の完璧な制御（control）を感じる瞬間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"beat, butt と同じ根。突き進む力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "zipper",
+		"word": "Zipper",
+		"part_of_speech": "noun",
+		"meaning": "ジッパー、ファスナー、情報の高速連鎖",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "zip",
+					"type": "root",
+					"meaning": "whizzing sound"
+				}
+			],
+			"original_statement": "Coined in 1923 by B.F. Goodrich."
+		},
+		"core_concept": {
+			"en": "fastening device consisting of two parallel tracks of metal or plastic teeth",
+			"ja": "音速（zip）の速さで、情報の『歯』を峻烈に噛み合わせる。"
+		},
+		"thinking_layer": "ヒューという音。ボタンという名の点（dots）の接続を峻烈に嘲笑い、線（line）としての連続的な結合を瞬時に達成する、情報の動的な縫合。効率という名の峻烈な支配。",
+		"aftertaste": "一直線に閉じる瞬間の、一切の隙を許さない情報の完全なガード。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"オノマトペから名称へ。速度がアイデンティティ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tailor",
+		"word": "Tailor",
+		"part_of_speech": "noun",
+		"meaning": "仕立屋、裁断者、情報の外科医",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "taliare",
+					"type": "root",
+					"meaning": "to cut"
+				}
+			],
+			"original_statement": "From Old French taillier 'to cut'."
+		},
+		"core_concept": {
+			"en": "person whose occupation is making fitted clothes",
+			"ja": "不定形なる時間の布を、峻烈な刃で『切り裂（cut）』き、真理の型を産む。"
+		},
+		"thinking_layer": "切る者。既製品という名の『偽り』を峻烈に呪い、ただ一人の肉体が持つ情報の凹凸に対し、ミリ単位の精度（precision）で布を裁断し、再構築する。情報の『適合（fit）』の魔術師。",
+		"aftertaste": "自分だけに許された、完璧にフィットした鎧を纏った時の、不敵なまでの自信。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"detail, retail, tally と同根。情報を『刻む』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "seam",
+		"word": "Seam",
+		"part_of_speech": "noun",
+		"meaning": "継ぎ目、縫い目、情報の傷跡と結合",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "siwian",
+					"type": "root",
+					"meaning": "to sew"
+				}
+			],
+			"original_statement": "From Old English seam."
+		},
+		"core_concept": {
+			"en": "line where two pieces of fabric are sewn together",
+			"ja": "二つの情報の断片が、峻烈な衝突によって『一本の線』へと統合される場所。"
+		},
+		"thinking_layer": "縫い合わせたもの。分断という名の絶望を、極細の糸という名の執念によって克服した情報の証（trace）。それは美しき完成図の中に潜む、不滅の努力の『傷跡（scar）』でもある。",
+		"aftertaste": "裏側に隠された無数の縫い目が、表面の美を峻烈に支えているという畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sew, suture と同じ根。情報の連続性の追求。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sleeve",
+		"word": "Sleeve",
+		"part_of_speech": "noun",
+		"meaning": "袖、情報の運動性を包む器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slieve",
+					"type": "root",
+					"meaning": "that which one slips on"
+				}
+			],
+			"original_statement": "From Old English sliefe."
+		},
+		"core_concept": {
+			"en": "part of a garment that covers an arm",
+			"ja": "腕という名の情報の推進力を、筒（tube）の中に『滑（slip）』込ませる。"
+		},
+		"thinking_layer": "滑り込ませるもの。肉体の自由を峻烈な布の壁で制限しつつ、同時に、その動きを情報のベクトル（vector）として強調し、外郭の一部へと拡張する。隠された刃の保管所。 ",
+		"aftertaste": "袖を通した瞬間に、自分の手が世界へ向かって伸びてゆく感覚の拡張。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"slip, slop と同根。摩擦なき侵入。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "collar",
+		"word": "Collar",
+		"part_of_speech": "noun",
+		"meaning": "襟（えり）、首輪、情報の喉元の秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "collum",
+					"type": "root",
+					"meaning": "neck"
+				}
+			],
+			"original_statement": "From Latin collum."
+		},
+		"core_concept": {
+			"en": "part of a garment that encompasses the neck",
+			"ja": "首（neck）という名の情報の急所を、峻烈な情報の『輪』で支配する。"
+		},
+		"thinking_layer": "首の。頭部と胴体を繋ぐ情報のボトルネック（bottleneck）を峻烈に垂直に保持し、意志の気高さを自他に示す。それは、不条理な拘束（leash）であると同時に、尊厳の象徴でもある。",
+		"aftertaste": "喉元を締め付ける硬い布が、思考を常に垂直に律しているという自覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"collier? (いや石炭掘りだ) column? (いや関係薄) collum は首。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hem",
+		"word": "Hem",
+		"part_of_speech": "noun",
+		"meaning": "（衣服の）裾、縁、情報の終わりなき折り返し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hem",
+					"type": "root",
+					"meaning": "limit, border, enclosed"
+				}
+			],
+			"original_statement": "From Old English hemm."
+		},
+		"core_concept": {
+			"en": "edge of a piece of cloth that has been folded and sewn",
+			"ja": "広大な布の情報の『限界（limit）』を、峻烈な折り重なりで定義する。"
+		},
+		"thinking_layer": "縁。情報の綻び（fraying）を峻烈に拒み、最端の粒子を内側へと峻烈に折り込むことで、意味の流出を阻止し、一着の宇宙を完結（complete）させる最後の防壁。",
+		"aftertaste": "裾に潜む重みが、全体のシルエットを峻烈に大地へと引き止めている安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hem in (取り囲む) と同じ根。情報の封印。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sartorial",
+		"word": "Sartorial",
+		"part_of_speech": "adjective",
+		"meaning": "衣服の、仕立ての、情報の修繕的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sartor",
+					"type": "root",
+					"meaning": "tailor, patcher"
+				}
+			],
+			"original_statement": "From Latin sarcire 'to patch, mend'."
+		},
+		"core_concept": {
+			"en": "relating to tailoring, clothes, or style of dress",
+			"ja": "壊れゆく存在を、衣服という名の『修繕（mend）』によって救い出す。"
+		},
+		"thinking_layer": "繕う人の。単なる外見を峻烈に超え、人間の欠陥や脆弱さを、布という名の高度な技術（tailoring）によって補完し、完璧な幻想（ideal）へと仕立て上げる、情報の補償行為。 ",
+		"aftertaste": "服の中に自分を隠すことで、初めて完全な人間として振る舞えるという皮肉な真理。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sartorius (縫工筋) は脚を組む(仕立屋の姿勢)ための筋肉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "haberdashery",
+		"word": "Haberdashery",
+		"part_of_speech": "noun",
+		"meaning": "紳士装身具、手芸用品店、情報の細密な貯蔵庫",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hapertas",
+					"type": "root",
+					"meaning": "small goods?"
+				}
+			],
+			"original_statement": "From Old French hapertas."
+		},
+		"core_concept": {
+			"en": "small items used in sewing, such as buttons and zips",
+			"ja": "『小さき情報の粒子（small goods）』を、峻烈な秩序の中に蒐集する。"
+		},
+		"thinking_layer": "細かい品物。ボタン、糸、リボンといった、巨大な物語の『接続部』を司る、極微な情報の断片たちがひしめき合う、迷宮のような情報の道具箱。",
+		"aftertaste": "微小な一粒のボタンを探し当てる、偏執的なまでの情報の探求への恍惚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"語源は不詳だが、北欧かフランスの『細かい荷物』からの転用。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "millinery",
+		"word": "Millinery",
+		"part_of_speech": "noun",
+		"meaning": "帽子製造（販売）、情報の頭部の劇",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Milaner",
+					"type": "root",
+					"meaning": "person from Milan"
+				}
+			],
+			"original_statement": "Originally, a native of Milan who sold luxury goods."
+		},
+		"core_concept": {
+			"en": "manufacture and sell women's hats",
+			"ja": "ミラノという名の『洗練の聖地』が産み出した、頭上の情報の特異点。"
+		},
+		"thinking_layer": "ミラノの人のこと。思考の器（head）を峻烈な形状と装飾によって外部から飾り立て、個人の尊厳を情報の高み（peak）として物理的に現出させる、最も傲慢で優雅な情報の工芸。",
+		"aftertaste": "帽子一つで、世界全体がひれ伏すような圧倒的な風格の現れに驚く瞬間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ミラノは中世以来、装飾品の中心地だった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coiffure",
+		"word": "Coiffure",
+		"part_of_speech": "noun",
+		"meaning": "髪型、ヘアスタイル、情報の頭脳の修飾",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "coiffe",
+					"type": "root",
+					"meaning": "skullcap, coif"
+				}
+			],
+			"original_statement": "From French coiffer 'to dress the hair'."
+		},
+		"core_concept": {
+			"en": "person's hairstyle, typically an elaborate one",
+			"ja": "脳という名の情報の源泉を、峻烈な髪のパタンで『防衛（coif）』する。"
+		},
+		"thinking_layer": "頭巾。肉体の一部である髪を、峻烈な意図（intent）によって造形物へと変容させ、野性を峻烈に埋葬（bury）して、自らを社会的な情報の記号（sign）に変換する、高度な美の隠蔽。 ",
+		"aftertaste": "髪の一筋すら、誰かの設計した芸術作品であるという、冷徹なまでの完成度へのため息。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"coif (頭を覆う布) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "regalia",
+		"word": "Regalia",
+		"part_of_speech": "noun",
+		"meaning": "王権の象徴、礼装、情報の王族的な標識",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rex",
+					"type": "root",
+					"meaning": "king"
+				}
+			],
+			"original_statement": "From Latin regalis."
+		},
+		"core_concept": {
+			"en": "the emblems and symbols of royalty",
+			"ja": "王（king）という名の情報の特異点を、峻烈な物質として現出させる装束。"
+		},
+		"thinking_layer": "王にふさわしいもの。凡庸な実存を峻烈に剥奪（deprive）し、歴史、血脈、そして神性という名の情報の重みを物理的な質量として身に纏うこと。それは、情報の絶対的な君臨。 ",
+		"aftertaste": "その姿を見るだけで、全人類がひれ伏すべきだという、情報の暴力的なまでの説得力。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"royal, regal と同じ rex (支配者)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "livery",
+		"word": "Livery",
+		"part_of_speech": "noun",
+		"meaning": "（使用人の）制服、特殊な装い、情報の解放された給付",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liber",
+					"type": "root",
+					"meaning": "free"
+				}
+			],
+			"original_statement": "From Old French livree 'delivery of clothes or food'."
+		},
+		"core_concept": {
+			"en": "special uniform worn by a servant or official",
+			"ja": "主人から『自由（free）』に与えられた、情報の服属の証。"
+		},
+		"thinking_layer": "手渡された（解放された）もの。かつては奉公人に支給（deliver）された服。自己の境界を峻烈に捨て、他者の名誉という名の情報を全身に纏って歩く、情報の忠誠的な代理。 ",
+		"aftertaste": "誰かの色に染まり切り、自らの実存を譲り渡した後の、冷徹なる平安。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"delivery, liberal と同じ liber。拘束のための自由。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "toga",
+		"word": "Toga",
+		"part_of_speech": "noun",
+		"meaning": "トガ（古代ローマの正装）、情報の被覆",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tegere",
+					"type": "root",
+					"meaning": "to cover"
+				}
+			],
+			"original_statement": "From Latin toga 'covering'."
+		},
+		"core_concept": {
+			"en": "loose flowing outer garment worn by the citizens of ancient Rome",
+			"ja": "ただ一本の布で、峻烈な市民（citizen）としての情報の壁を『被（cover）』せる。"
+		},
+		"thinking_layer": "覆うもの。複雑な縫合を峻烈に拒絶し、高貴なるドレープ（drapery）という名の数学的な美しさで、野蛮な肉体を情報の高度な法（law）の下に封じ込める、古代の情報の鎧。 ",
+		"aftertaste": "幾重にも巻かれた布の重みが、自らを文明の担い手であると峻烈に自覚させる震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"detect, protect と同じ tegere。情報を隠し、守る。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "corsage",
+		"word": "Corsage",
+		"part_of_speech": "noun",
+		"meaning": "コサージュ、胸飾り、情報の肉体の中心点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "corpus",
+					"type": "root",
+					"meaning": "body"
+				}
+			],
+			"original_statement": "From Old French cors 'body'."
+		},
+		"core_concept": {
+			"en": "small bouquet of flowers worn on a woman's dress at the breast or shoulder",
+			"ja": "心臓に近い肉体（body）の深淵に、峻烈な情報の『生ける火花』を散らす。"
+		},
+		"thinking_layer": "体のこと（ボディ）。衣装という名の静止した宇宙に、一輪の生花という名の『死に向かう時間』を峻烈に差し挟むことで、美の無常感と情報の色彩を暴力的に際立たせる情報の栞。",
+		"aftertaste": "花の香りに包まれながら、自らの命の輪郭を峻烈に意識する瞬間の静寂。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"corpse, corporation と同じ corpus。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sequin",
+		"word": "Sequin",
+		"part_of_speech": "noun",
+		"meaning": "スパンコール、情報の黄金の欠片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sikka",
+					"type": "root",
+					"meaning": "a die for coining, stamp"
+				}
+			],
+			"original_statement": "From Arabic sikka 'minting die'."
+		},
+		"core_concept": {
+			"en": "small, shiny disk sewn as a decoration onto clothing",
+			"ja": "貨幣を鋳造する『金型（stamp）』から生まれた、偽りの情報の富の破片。"
+		},
+		"thinking_layer": "金型。かつてはベネチアの金貨（zecchino）。富という名の重厚な情報を、軽量なプラスチックや金属の欠片へと情報の『換金（exchange）』を施し、光という名の虚影を乱反射させる知的な加飾。",
+		"aftertaste": "動くたびに世界を眩惑させる情報のノイズに、自らも溶けてゆく陶酔感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"zecchino (金貨) ＋ アラビア語の鋳造所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lingerie",
+		"word": "Lingerie",
+		"part_of_speech": "noun",
+		"meaning": "ランジェリー、情報の最深部の裏地",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "linum",
+					"type": "root",
+					"meaning": "flax, linen"
+				}
+			],
+			"original_statement": "From French linge 'linen'."
+		},
+		"core_concept": {
+			"en": "women's underwear and nightclothes",
+			"ja": "肌という名の情報の『真理（truth）』に、最も近く寄り添うリネン（linen）。"
+		},
+		"thinking_layer": "麻の（下着）。外殻（outer）という名の『嘘』を峻烈に支えつつ、肉体という名の沈黙に対してのみ、究極の柔和さと官能的な情報の密愛（privacy）を提供する、情報の最も親密なレイヤー。",
+		"aftertaste": "誰にも見えないその一枚が、自分の魂の気高さを峻烈に支えているという密かなる誇り。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"linen と同根。かつては麻で作られた。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hosiery",
+		"word": "Hosiery",
+		"part_of_speech": "noun",
+		"meaning": "靴下類、情報の脚部の被覆",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hose",
+					"type": "root",
+					"meaning": "covering for the leg"
+				}
+			],
+			"original_statement": "From Old English hosa."
+		},
+		"core_concept": {
+			"en": "stockings, socks, and tights collectively",
+			"ja": "大地を蹴る脚を、峻烈な情報の『円筒（hose）』で隙なく包囲する。"
+		},
+		"thinking_layer": "脚を覆うもの。二足歩行という名の『情報の推進』を、伸縮という名の柔軟な知性の膜で峻烈に保護し、肉流を一つの機能美（streamline）へと収束させる情報の皮膚。",
+		"aftertaste": "自分の脚が、布の一部として拡張されたかのような、滑らかで不敵な一体感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hose (ホース) と同根。管状の形状。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
