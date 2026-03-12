@@ -262231,5 +262231,216 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "primogeniture",
+		"word": "Primogeniture",
+		"part_of_speech": "noun",
+		"meaning": "長子相続制、長子であること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "primus",
+					"type": "root",
+					"meaning": "first (最初の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "genitura",
+					"type": "root",
+					"meaning": "birth (誕生)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin primus 'first' + genitura 'birth'."
+		},
+		"core_concept": {
+			"en": "The state of being the firstborn child; the right of succession belonging to the firstborn child",
+			"ja": "『最初（first）』に『生まれた（birth）』という一点のみをもって、王者の冠と責任を受け継ぐ、峻烈な宿命。偶然という名の神が、歴史という名の物語に与えた最初の残酷な秩序"
+		},
+		"thinking_layer": "『最初の誕生』。プライマリー（Primary）、プライム（Prime）、ジェネレーション（Generation）、ネイチャー（Nature/生まれたままの状態）と同根。語源は「最初に生まれたこと」。ただの「相続（inheritance）」ではなく、そこに「選ばれし者」の孤独が含まれます。弟や妹たちを従え、自らの意志とは無関係に「家」という名の巨大な怪物を背負わされる。それは、私たちの自意識が、過去という名の「先行者（prime）」に支配されていることのメタファー。",
+		"aftertaste": "古城の広間に飾られた歴代の肖像画を眺めながら、自分がこの「長子相続（primogeniture）」という終わりのない連鎖（chain）の、たった一つの「環（link）」に過ぎないのだと悟る、あの歴史の重みへの戦慄と誇り。あるいは、自分が「最初（first）」であるがゆえに、常に「新しさ」を求められ、二番目以降の安らぎを許されない、あの終わりのない開拓者の孤独。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "before, first (forming primus)"
+				},
+				{
+					"term": "gen-",
+					"meaning": "to produce, give birth (forming genitura)"
+				}
+			],
+			"points": [
+				"first, priest, gender, genius, gene 同根。",
+				"『最初（first）』であることは特権だが、それは同時に『比較（comparison）』の基準となることであり、個人の自由を『期待』という名の檻に閉じ込めることでもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ultimogeniture",
+		"word": "Ultimogeniture",
+		"part_of_speech": "noun",
+		"meaning": "末子相続制",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ultimus",
+					"type": "root",
+					"meaning": "last (最後の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "genitura",
+					"type": "root",
+					"meaning": "birth (誕生)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin ultimus 'last' + genitura 'birth'."
+		},
+		"core_concept": {
+			"en": "A system of inheritance in which the youngest son or child succeeds to the estate",
+			"ja": "『最後（last）』に『生まれた（birth）』末子こそが、家族の記憶と財産を守る王座に就く、逆説的な美学。兄たちが外の世界へと旅立つのを見送り、最後に残る者が全てを継承するという、静かな忍耐の伝統"
+		},
+		"thinking_layer": "『最後の誕生』。アルティメット（Ultimate/究極の＝最後の）、おなじみの「ジェネレーション」と同根。語源は「最後に生まれたこと」。プリモジェニチャー（Primogeniture）の正反対。なぜ末子なのか。それは、最後まで親の元に残り、家を守るという「献身（devotion）」が評価されたからです。それは、華やかな始まりよりも、静かな「終わり」にこそ価値を見出す、知的な余韻。",
+		"aftertaste": "「末子相続（ultimogeniture）」の伝統を守る古い家に生まれ、去ってゆく兄たちの背中を、この静かな領地（estate）の守護者として見送る時の、あの空虚さと深い納得感が混じり合った、孤独な午後。あるいは、自分のアイディアが「最後に出されたもの（ultimate version）」であるがゆえに、過去のすべての失敗を栄養として、最も洗練された形（sophisticated form）で完成したことを知る、あの静かな凱歌。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "beyond (forming ultimus/the furthest thing beyond)"
+				}
+			],
+			"points": [
+				"ultra, alien, adultery（それ以外へと行くこと） 同根。",
+				"『最後（last）』とは終わりの印ではなく、すべての経緯を『見届け、飲み込む』ことで到達する、最も安定した『完結』の地点である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "agnatic",
+		"word": "Agnatic",
+		"part_of_speech": "adjective",
+		"meaning": "父系の、父方から出た",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to (〜へ)"
+				},
+				{
+					"text": "gnatus / natus",
+					"type": "root",
+					"meaning": "born (生まれた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin agnatus, from ad- 'to' + gnatus 'born'."
+		},
+		"core_concept": {
+			"en": "Relating to or traced through the male line",
+			"ja": "父親という一本の峻烈な『鋼の線（line）』によって、自らの起源を辿り、その名前と誇りを純粋に継承しようとする意志。大地から切り離され、天の authority（権威）へと向かう、上昇志向の血脈"
+		},
+		"thinking_layer": "『（父の側へ）生まれたこと』。ネイティブ（Native/生まれたままの）、ネーション（Nation/同じ場所に生まれた人々）、アダプト（Adopt/〜を選ぶ＝養子にする）と同根。語源は「〜の側に生まれた」。ただの「関係（relation）」ではありません。父親という中心点に向かって「収束（converge）」する力。それは、あまりにも多くの可能性を切り捨ててでも、「一つの名前（one name）」を維持しようとする、知的な暴力と誇り。 ",
+		"aftertaste": "自分の名前の響きの中に、何世代も前の「父系（agnatic）」の先祖の息遣い（breath）が混じっていることに気づき、自分の意志が実は「過去の影」によって半分以上支配されていることを知る、あの厳かな沈黙。あるいは、あまりにも強固な「父系的秩序（agnatic order）」の中に、自分の瑞々しい感情が磨り潰（つぶ）されてゆくような、冷たい窒息感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gen-",
+					"meaning": "to produce, give birth (forming gnatus/natus)"
+				}
+			],
+			"points": [
+				"nature, pregnant, innate, benign 同根。",
+				"『生まれる（birth）』という偶然を、特定の『方向（ad-）』へと方向づけることで、社会は『一貫性（consistency）』という名の物語を構築する。アグナティック（agnatic）とは、その一貫性のための物理的な座標軸である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "enatic",
+		"word": "Enatic",
+		"part_of_speech": "adjective",
+		"meaning": "母系の、母方を通じた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e- / ex-",
+					"type": "prefix",
+					"meaning": "out of (〜から外へ、〜によって)"
+				},
+				{
+					"text": "natus",
+					"type": "root",
+					"meaning": "born (生まれた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin enatus, from e- 'out of' + natus 'born' (born of the same female parent)."
+		},
+		"core_concept": {
+			"en": "Relating to or traced through the female line; uterine",
+			"ja": "命という深い淵（abyss）である母親を通じて、自らの起源を『遡（さかのぼ）る』、柔らかでいて断ち切れない血の絆。論理的な名前ではなく、肉体的な共鳴（resonance）によって繋がる、横への広がりを持った起源"
+		},
+		"thinking_layer": "『（母から）生まれ出ること』。ネイティブ（Native）、イネイト（Innate/生まれつきの）、イグジット（Exit/外へ行く）と同根。語源は「〜から生まれた」。アグナティック（Agnatic/父系）の鏡像。父が「名（name）」なら、母は「質（substance）」。目に見える称号（title）を超えて、自分の細胞の隅々にまで染み付いた「深い記憶」の探索。それは、社会の「縦の線」を拒絶し、生命の「豊かな横たわり」を肯定する、癒やしの知性。 ",
+		"aftertaste": "「母系（enatic）」の家系図をなぞりながら、自分が偉大な王たち（kings）の子孫である前に、一人の名もなき女性たちの「愛（love）」の果てに今ここに居るのだと悟る、あの胸を突くような謙虚さと温かさ。あるいは、自分が何を成し遂げようとも、結局はこの「生命の源流（enatic source）」へと回帰（return）し、海に溶ける一滴の露のように消えてゆく、あの穏やかな諦念。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gen-",
+					"meaning": "to produce, give birth (forming natus)"
+				}
+			],
+			"points": [
+				"native, nation, pregnant, nature 同根。",
+				"『生まれ出る（born out of）』という行為は、一つの世界との『分離（separation）』であるが、エナティック（enatic）という概念は、その分離の跡を『絆（bond）』として再解釈し、永遠の帰属先を与える。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cognatic",
+		"word": "Cognatic",
+		"part_of_speech": "adjective",
+		"meaning": "親族の、血族の、父系・母系の双方を通じた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "co- / con-",
+					"type": "prefix",
+					"meaning": "together (共に)"
+				},
+				{
+					"text": "gnatus / natus",
+					"type": "root",
+					"meaning": "born (生まれた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin cognatus, from con- 'together' + gnatus 'born'."
+		},
+		"core_concept": {
+			"en": "Related by blood; having a common ancestor",
+			"ja": "父と母、その二つの巨大な河の流れが自分という一点で『共に（together）』『生まれた（born）』、この上なく豊潤で複雑な血のオーケストラ。一族の境界を越えて広がる、蜘蛛の巣のような繊細な繋がりの網"
+		},
+		"thinking_layer": "『共に生まれたもの』。コネクト（Connect）、コグニティブ（Cognitive/共に知る＝認識）、ネーション（Nation）、ネイティブ（Native）と同根。語源は「親戚」。アグナティック（父系）でもエナティック（母系）でもなく、そのすべてを呑み込んだ「全方位的な繋がり」。それは、自分が単一のアイデンティティ（identity）ではなく、無数の他者との「交点（intersection）」であるという、広大な自覚。",
+		"aftertaste": "親戚が集まる祝祭の席で、自分と全く異なる外見や性格（personality）を持つ人々が、すべてこの「血の繋がり（cognatic bond）」という見えない糸で結ばれていることに驚き、世界が思いのほか「小さくて親密な場所」であると感じる、あの安心感。あるいは、自分の才能や欠点が、実は遠い親戚の誰かから手渡された「コグナティック（cognatic）」な遺産（legacy）であったと気づいた時の、微笑ましい運命論。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gen-",
+					"meaning": "to produce, give birth (forming gnatus/natus)"
+				}
+			],
+			"points": [
+				"kin, kind, gentle, genealogy 同根。",
+				"『共に（con-）』あることは、個別の境界を曖昧（ambiguous）にすることであり、コグナティック（cognatic）な視座とは、自らを孤立した点ではなく、生命という巨大な『タペストリー（tapestry）』の一筋の糸として捉える、知的な連帯である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
