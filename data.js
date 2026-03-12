@@ -256007,5 +256007,108 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "turmoil",
+		"word": "Turmoil",
+		"part_of_speech": "noun",
+		"meaning": "騒乱、混乱、紛糾、動揺",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tremere",
+					"type": "root",
+					"meaning": "to tremble (震える)",
+					"lang": "Latin"
+				},
+				{
+					"text": "turba",
+					"type": "root",
+					"meaning": "mob, disturbance (騒動、群衆)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Origin uncertain; possibly from Old French tremouille 'hopper of a mill', combining the ideas of shaking and grinding."
+		},
+		"core_concept": {
+			"en": "A state of great disturbance, confusion, or uncertainty",
+			"ja": "確かなものが何一つなく、世界が激しく『震え（tremble）』、人々の不安や怒りが『群衆（mob）』となって入り混じっている不安定な混乱状態。足元が崩れ、方向を見失う、精神的な「嵐」"
+		},
+		"thinking_layer": "『震え、かき乱されること』。トレンブル（Tremble/震える）やディスターブ（Disturb/乱す）と同根。語源は不明確ですが、「製粉機のホッパー（激しく揺れる場所）」に関連するという説があります。ただの「騒ぎ」ではなく、その場にいる全員が「どうすればいいか分からない」という困惑と、不吉な揺れを共有している状態。 ",
+		"aftertaste": "巨大な地震の直後の、静寂と悲鳴が入り混じったあの「騒乱（turmoil）」の質感。あるいは、信頼していた人に裏切られた直後の、自分の心の中で何かが激しく震え、崩壊してゆくのを止めることができない、あの圧倒的な混乱。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "twer-",
+					"meaning": "to shake, swirl (forming turba)"
+				}
+			],
+			"points": [
+				"turbid（濁った）, disturb, turbine, trouble 同根。",
+				"『乱れ（disturbance）』とは、透明な境界線が『かき混ぜられ（swirled）』、何が何だか分からなくなる『エントロピーの増大』に他ならない。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hubbub",
+		"word": "Hubbub",
+		"part_of_speech": "noun",
+		"meaning": "騒ぎ、怒鳴り合い、ガヤガヤ言う声",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ub ub ub!",
+					"type": "root",
+					"meaning": "war cry (叫び声)",
+					"lang": "Irish?"
+				}
+			],
+			"original_statement": "Probably of Irish origin, from an Irish war cry, such as ub ub ub!"
+		},
+		"core_concept": {
+			"en": "A chaotic din caused by a crowd of people; a busy, noisy situation",
+			"ja": "無数の人間が一度に声を上げ、意味のある言葉が失われた『叫び（war cry）』や『ノイズ』の塊。個々の声は聞こえないが、集団としての圧倒的な生命の「うねり」を感じさせる喧騒"
+		},
+		"thinking_layer": "『ウブ、ウブ！という叫び』。アイリッシュの戦いの叫び声が由来。洗練された「対話」を拒み、原始的な「音の衝撃」で場を埋め尽くすこと。それは市場の活気から、パニックに陥った群衆の叫びまで。文明の薄皮が剥がれ落ち、動物としての人間が剥き出しになる、騒々しいカオス。",
+		"aftertaste": "異国の雑踏の中に放り込まれ、全く理解できない言語の「ハブバブ（hubbub）」に包まれている時の、あの心地よい疎外感。あるいは、自分の部屋の中にまで侵入してくる大都会の喧騒（ノイズ）に、自分が孤独ではないと錯覚してしまう、あの都会的な寂しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言葉の意味を失った『純粋な音（pure sound）』こそが、集団の『情動』を最もダイレクトに伝播させる。",
+				"『ハブバブ（hubbub）』は、知性が最も嫌い、しかし生命が最も好む『エネルギーのスープ』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "brouhaha",
+		"word": "Brouhaha",
+		"part_of_speech": "noun",
+		"meaning": "（大したことのないことへの）大騒ぎ、騒然、嘲笑の声",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "baruch habba",
+					"type": "root",
+					"meaning": "blessed be he who comes (祝福あれ、来たる者に)",
+					"lang": "Hebrew"
+				}
+			],
+			"original_statement": "From French, possibly from Hebrew baruch habba 'blessed be he who comes', used to mock religious chanting."
+		},
+		"core_concept": {
+			"en": "A noisy and overexcited reaction or response to something",
+			"ja": "本来は神聖なはずの言葉や事件が、無神経な大衆の熱狂や嘲笑によって『大げさな騒ぎ』へと堕落してしまった、滑稽で騒然とした様子。中身のない熱狂"
+		},
+		"thinking_layer": "『祝福あれ（のパロディ）』。ヘブライ語の聖句が、フランスの芝居で「悪魔の叫び声」や「意味のない大騒ぎ」としてパロディ化されました。現代では、スキャンダルや些細なニュースに対して、みんながワーワーと騒ぎ立てる「中身のない騒動（storm in a teacup）」を指します。それは「意味」を嘲笑し、ただ「騒ぐこと」を目的とした、理性の敗北。 ",
+		"aftertaste": "テレビのバラエティ番組で、たった一人の失言を何時間もかけて「大騒ぎ（brouhaha）」しているのを見ている時の、あの冷めた虚脱感。あるいは、自分の重大な決意が、他人の間ではただの「面白い噂話」として消費されてしまった瞬間の、絶望的な沈黙。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"『神聖なもの（sacred）』が『世俗化（profane）』される過程で、言葉は『意味』から『騒音』へと変質するという、文化人類学的な皮肉。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
