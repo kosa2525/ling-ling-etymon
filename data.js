@@ -252131,5 +252131,153 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "panegyric",
+		"word": "Panegyric",
+		"part_of_speech": "noun",
+		"meaning": "賞賛の言葉、頌歌（しょうか）、大絶賛",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pan-",
+					"type": "prefix",
+					"meaning": "all (すべての)"
+				},
+				{
+					"text": "agora",
+					"type": "root",
+					"meaning": "assembly, marketplace (集会、広場)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek panēgurikos, from pan- 'all' + aguris 'assembly'."
+		},
+		"core_concept": {
+			"en": "A public speech or published text in praise of someone or something",
+			"ja": "『すべて（all）』の人が集まる『広場（assembly）』で、英雄や美徳を讃えて高らかに歌い上げられる、まばゆいばかりの賞賛の言葉の束"
+		},
+		"thinking_layer": "『全集会での言葉』。アゴラ（Agora）と同根。単なるお世辞ではなく、公共の利益や卓越した才能を、共同体全体の誇りとして定義し直すための、熱狂を孕んだレトリック（修辞学）。言葉が光を放ち、人々を一つにする瞬間。",
+		"aftertaste": "嵐のような拍手の中で、最も美しい形容詞が次々と舞台へ投げ込まれるような高揚。あるいは、自分もその偉大さの一部になれたという、束の間の陶酔感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pante-",
+					"meaning": "all"
+				},
+				{
+					"term": "ager-",
+					"meaning": "to gather"
+				}
+			],
+			"points": [
+				"pantomime, allegory, category（広場で告発する）と同根。",
+				"『集まる（gather）』ことが、言葉を『神話的』な熱量へと昇華させる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sybarite",
+		"word": "Sybarite",
+		"part_of_speech": "noun",
+		"meaning": "放蕩家、贅沢にふける人、快楽主義者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Sybaris",
+					"type": "root",
+					"meaning": "Sybaris (古代都市名)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek Subaritēs, from Subaris, an ancient Greek city noted for luxury."
+		},
+		"core_concept": {
+			"en": "A person who is self-indulgent in their fondness for sensuous luxury",
+			"ja": "古代都市シバリスの住民のように、この世のあらゆる美酒、美食、官能を極め、自分を甘やかす（self-indulgent）ことに一生を捧げる人。感覚の奴隷であり、極北の愛好家"
+		},
+		"thinking_layer": "『シバリスの人』。ただの贅沢好きではなく、不快なもの、醜いものを徹底的に排除し、絹の布団の下に敷かれた一枚の花びらの違和感さえも嫌う、研ぎ澄まされたエゴイズム。その退廃は、死への恐怖と、今この瞬間の美への狂信の裏返し。 ",
+		"aftertaste": "ベルベットの深い光沢と、熟しきった果実のねっとりとした甘み。あるいは、あまりにも快適すぎて、外の世界の厳しさを忘れてしまった人の、真綿のような倦怠。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代ギリシャの都市シバリスは、贅沢のあまり軍隊の馬までダンスを覚えたという伝説がある。",
+				"『豊かさ』が、生存のための『鋭さ』を奪うという文明の皮肉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mendicant",
+		"word": "Mendicant",
+		"part_of_speech": "noun/adjective",
+		"meaning": "乞食、托鉢僧、物乞いする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "menda",
+					"type": "root",
+					"meaning": "defect, physical blemish (欠点、傷)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin mendicare 'to beg', from mendus 'physical defect'."
+		},
+		"core_concept": {
+			"en": "Given to begging",
+			"ja": "自らの『欠乏（defect）』を隠すことなく晒し、他者の慈悲に自らの命を委ねる。所有を捨て、施しの手の中に神の意志を見出そうとする、最も卑しく、かつ最も清貧な姿"
+		},
+		"thinking_layer": "『欠点を持つ者』。アメンド（Amend/修正する）やメンダシティ（Mendacity/虚偽）と同根。もとは身体的な障害により働けなかった人々。しかし宗教的には、あえて「欠点（無所有）」を選択することで、この世の執着から解き放たれようとするパラドキシカルな知恵の象徴。 ",
+		"aftertaste": "掌に落ちた一枚の硬貨が、乾いた音を立てて冷たく輝く瞬間。あるいは、何も持たないからこそ、空の広さをすべて自分のものだと感じられる、究極の自由。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mend, emendationと同根。",
+				"『欠けていること』が、他者から『施し（慈悲）』というエネルギーを引き出す鍵になる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "insouciant",
+		"word": "Insouciant",
+		"part_of_speech": "adjective",
+		"meaning": "無頓着な、のんきな、無関心な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "souciant",
+					"type": "root",
+					"meaning": "caring, troubled (気にする、心に掛ける)",
+					"lang": "French"
+				}
+			],
+			"original_statement": "From French insouciant, from in- 'not' + souciant 'caring', from soucier 'disturb'."
+		},
+		"core_concept": {
+			"en": "Showing a lack of concern; indifferent",
+			"ja": "世界がどれだけ混乱していても、それを『心に掛ける（care）』ことなく、心地よい風に吹かれているかのような軽やかさ。重力（責任や悩み）を無効化する知恵"
+		},
+		"thinking_layer": "『気にしないこと』。フランス語由来の、どこかエレガントで冷淡な響き。深刻さを「ダサい」と切り捨てる、ダンディズムに近い態度。それは無知ゆえの楽天ではなく、絶望を知り尽くした上で、あえて「欠伸」をしてみせる、強靭な精神の遊戯。 ",
+		"aftertaste": "破滅のニュースを聴きながら、紅茶の温度だけを気にしている人の、美しいほど残酷な静寂。あるいは、すべてを失ってもなお、鼻歌交じりに歩き出す少年の足取り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sollicitare",
+					"meaning": "to disturb, rouse"
+				}
+			],
+			"points": [
+				"solicit（勧誘する）, solicitous（熱心な）と同根。",
+				"『揺り動かされる（disturb）』ことを拒絶する、不動の平穏。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
