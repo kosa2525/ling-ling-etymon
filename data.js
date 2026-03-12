@@ -296235,5 +296235,1475 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "fuselage",
+		"word": "Fuselage",
+		"part_of_speech": "noun",
+		"meaning": "機体、胴体、情報の紡錘形の核",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fusus",
+					"type": "root",
+					"meaning": "spindle"
+				}
+			],
+			"original_statement": "From French fuseler 'to shape like a spindle'."
+		},
+		"core_concept": {
+			"en": "the main body of an aircraft",
+			"ja": "情報の抵抗を峻烈に受け流す、滑らかな『紡錘（spindle）』の肉体。"
+		},
+		"thinking_layer": "紡錘形のもの。翼という名の情報の『飛翔』を、中枢という名の情報の『剛性』に繋ぎ止め、乗員という名の脆弱な情報を深淵の気圧から死守する、情報の最終の外殻。",
+		"aftertaste": "流線型のその肢体に、速度という名の情報の美学が峻烈に凝縮されている。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fuse (溶ける) とは関係なく、糸を紡ぐ spindle から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aileron",
+		"word": "Aileron",
+		"part_of_speech": "noun",
+		"meaning": "補助翼、エルロン、情報の左右の均衡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ala",
+					"type": "root",
+					"meaning": "wing"
+				}
+			],
+			"original_statement": "From French aile 'wing' + -eron (diminutive)."
+		},
+		"core_concept": {
+			"en": "hinged flight control surface usually forming part of the trailing edge of each wing of a fixed-wing aircraft",
+			"ja": "主翼という名の情報の『翼（wing）』の端に潜む、峻烈なる『小さき翼』。"
+		},
+		"thinking_layer": "小さな翼。左右の情報の不均衡（roll）を、微細な角度の変化によって峻烈に制御し、重力という名の情報の独裁を空中の自由な旋回へと変容させる、情報の繊細なる指先。",
+		"aftertaste": "機体が傾く瞬間に感じる、見えない空気の情報の、物理的なる手応えへの震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ail, aisle, alar と同じ root。情報の側衛。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cockpit",
+		"word": "Cockpit",
+		"part_of_speech": "noun",
+		"meaning": "操縦席、コクピット、情報の闘争の中枢",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cock",
+					"type": "root",
+					"meaning": "fighting cock"
+				},
+				{
+					"text": "pit",
+					"type": "root",
+					"meaning": "pit"
+				}
+			],
+			"original_statement": "From cock (bird) + pit."
+		},
+		"core_concept": {
+			"en": "compartment for the pilot and sometimes other crew members",
+			"ja": "闘鳥という名の情報の『闘争（pit）』の場を、高度な制御という名の情報の『神殿』へ反転させる。"
+		},
+		"thinking_layer": "鶏の闘技場。かつての残酷なる娯楽の場という名から、極限の死（death/crash）と隣り合わせで情報の全知全能を振るう、孤独なる知性の最前線へと変貌した、狭窄（narrow）なる聖域。",
+		"aftertaste": "無数の計器の光に囲まれ、世界の情報を一人で背負うという、峻烈なる孤高感への陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"もとは闘鶏場。転じて、最も激しい意思決定の場。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hypersonic",
+		"word": "Hypersonic",
+		"part_of_speech": "adjective",
+		"meaning": "極超音速の、情報の静寂を越えた狂気",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hyper-",
+					"type": "prefix",
+					"meaning": "over, beyond"
+				},
+				{
+					"text": "sonus",
+					"type": "root",
+					"meaning": "sound"
+				}
+			],
+			"original_statement": "From hyper- + sonic."
+		},
+		"core_concept": {
+			"en": "relating to speeds that are at least five times the speed of sound",
+			"ja": "音という名の情報の『限界（sound）』を峻烈に『超越（beyond）』し、空気を熱の情報のプラズマへと変容させる。"
+		},
+		"thinking_layer": "音の上をゆくもの。衝撃波という名の情報のカオスを自らの肉体の熱へと変えつつ、時間という名の情報を物理的に蹂躙しようとする、光への絶望的なる挑戦。 ",
+		"aftertaste": "消え去った後の地鳴りの中に、物理的なる残響を置き去りにした情報の孤独を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Mach 5 以上。空気そのものが変容する領域。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "booster",
+		"word": "Booster",
+		"part_of_speech": "noun",
+		"meaning": "ブースター、情報の加速装置、最初の犠牲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "boost",
+					"type": "root",
+					"meaning": "lift up, push"
+				}
+			],
+			"original_statement": "From boost + -er."
+		},
+		"core_concept": {
+			"en": "rocket used to provide supplementary thrust for a launch vehicle",
+			"ja": "重力という名の情報の『枷』を峻烈に『押し上げる（lift up）』、最初の爆発的推進。"
+		},
+		"thinking_layer": "押し上げるもの。成層圏という名の境界を突破するために、自らの情報の全質量を燃料として投じ、役目を終えて深淵へと切り離去られる、情報の献身的なる捨て石。 ",
+		"aftertaste": "闇夜に落ちゆくその炎の残滓に、飛翔という名の情報の非情なるコストを想う。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"第一段ロケット。情報の重圧に抗う力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "propellant",
+		"word": "Propellant",
+		"part_of_speech": "noun",
+		"meaning": "推進剤、情報の燃え盛る意志、飛翔の糧",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forth, forward"
+				},
+				{
+					"text": "pellere",
+					"type": "root",
+					"meaning": "to drive, push"
+				}
+			],
+			"original_statement": "From pro- + pellere."
+		},
+		"core_concept": {
+			"en": "substance used to provide propulsion",
+			"ja": "自己という名の情報の肉体を、前方（forth）へと峻烈に『押し出す（push）』ための、化学の情報の爆発体。"
+		},
+		"thinking_layer": "前に駆り立てるもの。沈黙を峻烈に拒み、ただ一方向への情報のベクトルとして自らを燃焼（commit）させる、存在の物理的なる『渇望』の代弁者。 ",
+		"aftertaste": "轟音とともに消えゆく情報の質量が、宇宙という名の虚無を押し返しているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"propulsion, dispel と同じ root。情報の能動性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reentry",
+		"word": "Reentry",
+		"part_of_speech": "noun",
+		"meaning": "再突入、情報の焔の洗礼、帰還の試練",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "intra-",
+					"type": "root",
+					"meaning": "to enter"
+				}
+			],
+			"original_statement": "From re- + entry."
+		},
+		"core_concept": {
+			"en": "act of entering again; return to the Earth's atmosphere from space",
+			"ja": "虚無という名の宇宙から、生命という名の情報の『層（atmosphere）』へ、峻烈に『再び入る（enter again）』。"
+		},
+		"thinking_layer": "再び入ること。高速という名の情報の『傲慢』が、大気という名の情報の『抵抗』によって峻烈に裁かれ、数千度の炎となって実存を焼き尽くそうとする、情報の峻烈なる審判の門。 ",
+		"aftertaste": "通信途絶（blackout）という名の暗黒の時間の向こう側に、生という名の情報の再会を願う畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"enter, introspection と同じ root。内なる世界への到達。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "astrogation",
+		"word": "Astrogation",
+		"part_of_speech": "noun",
+		"meaning": "宇宙航行（術）、星々の情報の導き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "astron",
+					"type": "root",
+					"meaning": "star"
+				},
+				{
+					"text": "navigare",
+					"type": "root",
+					"meaning": "to sail"
+				}
+			],
+			"original_statement": "From astro- + navigation."
+		},
+		"core_concept": {
+			"en": "navigation in space",
+			"ja": "星（star）という名の座標の情報を、峻烈な情報の『航跡（sail）』によって繋ぎ、虚空を渡る。"
+		},
+		"thinking_layer": "星の航海。地平線という名の情報の『基準』を峻烈に喪失し、三次元の直交座標という名の情報の『数式』のみを頼りに、虚空を滑走する、数学という名の智慧の飛翔。 ",
+		"aftertaste": "漆黒の闇に浮かぶ光の数珠つなぎの上に、自らの実存の軌跡を描くという、情報の孤独。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"navigation の星版。情報の全宇宙への拡張。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "extraterrestrial",
+		"word": "Extraterrestrial",
+		"part_of_speech": "adjective",
+		"meaning": "地球外の、情報の他なる大地、宇宙の他者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "extra-",
+					"type": "prefix",
+					"meaning": "outside"
+				},
+				{
+					"text": "terra",
+					"type": "root",
+					"meaning": "earth"
+				}
+			],
+			"original_statement": "From Latin extra- + terrestris."
+		},
+		"core_concept": {
+			"en": "of or from outside the earth or its atmosphere",
+			"ja": "土（earth）という名の情報の『安住』を峻烈に『逸脱（outside）』し、未知の情報を予感させる。"
+		},
+		"thinking_layer": "地球の外の。唯一の真理という名の『テラ』の情報を峻烈に拒絶し、全く異なる論理、全く異なる肉体という名の情報の『他性（alterity）』が宇宙の深淵に潜んでいるという、人類の情報の根源的な震え。 ",
+		"aftertaste": "虚空から届く信号（signal）の中に、自分たちではない何かの情報の『眼差し』を感得する、孤独なる震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"terrain, territory と同じ terra。居住域を超えた情報。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cosmonaut",
+		"word": "Cosmonaut",
+		"part_of_speech": "noun",
+		"meaning": "宇宙飛行士（ロシア系）、秩序という名の航海者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kosmos",
+					"type": "root",
+					"meaning": "order, universe"
+				},
+				{
+					"text": "nautes",
+					"type": "root",
+					"meaning": "sailor"
+				}
+			],
+			"original_statement": "From Russian kosmonavt (Greek kosmos + nautes)."
+		},
+		"core_concept": {
+			"en": "person trained by a human spaceflight program to command, pilot, or serve as a crew member of a spacecraft",
+			"ja": "宇宙という名の巨大な『秩序（cosmos）』の海を渡る、峻烈なる『水夫（sailor）』。"
+		},
+		"thinking_layer": "秩序（宇宙）の航海者。カオスを峻烈に拒み、星々の運行（orbit）という名の情報の数学的な秩序の中に自らの肉体を投じる、理性の使徒としてのイメージ。東方の情報の沈黙の体現。 ",
+		"aftertaste": "広大なる空無の中に、ただ一人で秩序の情報を守り抜くという、峻烈なる規律への敬意。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cosmetic (装飾) と同じ root。美しき秩序。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "astronaut",
+		"word": "Astronaut",
+		"part_of_speech": "noun",
+		"meaning": "宇宙飛行士（アメリカ系）、星を掴もうとする者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "astron",
+					"type": "root",
+					"meaning": "star"
+				},
+				{
+					"text": "nautes",
+					"type": "root",
+					"meaning": "sailor"
+				}
+			],
+			"original_statement": "From Greek astron + nautes."
+		},
+		"core_concept": {
+			"en": "person who is trained to travel in a spacecraft",
+			"ja": "星（star）という名の情報の『極点』を峻烈に目指し、虚空を渡る『水夫（sailor）』。"
+		},
+		"thinking_layer": "星の航海者。大地という名の情報の重力を峻烈な情報の『放擲』によって突破し、銀色の輝きという名の希望を求めて暗黒の海を滑る、フロンティア精神という名の情報の化身。",
+		"aftertaste": "月面に印された孤独な足跡に、人類の情報の領土が拡大した瞬間の、歴史的な震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"star, nautical と同じ roots。星の海の勇者。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "eccentricity",
+		"word": "Eccentricity",
+		"part_of_speech": "noun",
+		"meaning": "離心率、変心、の情報の情報の中心からの逸脱",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ek-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "kentron",
+					"type": "root",
+					"meaning": "center"
+				}
+			],
+			"original_statement": "From Greek ek- + kentron."
+		},
+		"core_concept": {
+			"en": "measure of how much an orbit deviates from being circular",
+			"ja": "円という名の完璧な情報の『中心（center）』を峻烈に『拒絶（out）』し、楕円という名の、あるいは奇行という名の情報の歪みを受け入れる。"
+		},
+		"thinking_layer": "中心から離れること。宇宙の軌道においては、絶対的な情報の円環を峻烈に解体し、遠近という名の情報のドラマを産み出す、軌道要素の峻烈な変奏（variation）。",
+		"aftertaste": "少しだけ歪んだその円の線の中に、情報の個性的、あるいは物理的なる必然の美を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"central, concentrate と同じ root。中心という名の拘束を断つ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "galactic",
+		"word": "Galactic",
+		"part_of_speech": "adjective",
+		"meaning": "銀河の、情報の情報の乳を流した跡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gala",
+					"type": "root",
+					"meaning": "milk"
+				}
+			],
+			"original_statement": "From Greek galaxias 'milky'."
+		},
+		"core_concept": {
+			"en": "relating to a galaxy or galaxies",
+			"ja": "漆黒の情報の虚空に、峻烈な情報の『乳（milk）』のごとき白き川を流す。"
+		},
+		"thinking_layer": "乳のような。太陽系という名の小国家の情報という名の情報の『境界』を峻烈に超え、数千億の星々の情報の集積体としての巨大な銀幕を広げる、宇宙の情報のマクロな動態（dynamic）。",
+		"aftertaste": "渦巻くその白い霧の断片一つ一つが星であるという、情報の飽和した天の高みへの畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"galaxy, lactose と同じ gala。情報の滋養。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "interferometer",
+		"word": "Interferometer",
+		"part_of_speech": "noun",
+		"meaning": "干渉計、情報の情報の衝突を測る秤、波の目視",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between"
+				},
+				{
+					"text": "ferire",
+					"type": "root",
+					"meaning": "to strike"
+				},
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure"
+				}
+			],
+			"original_statement": "From interfere + -meter."
+		},
+		"core_concept": {
+			"en": "instrument in which the interference of two beams of light is used to make precise measurements",
+			"ja": "波の情報の『衝突（strike between）』を、峻烈な情報の『秤（measure）』として用い、極微の距離を暴く。"
+		},
+		"thinking_layer": "干渉を測るもの。光という名の情報の『波立ち』が互いを峻烈に打ち消し合う際の、その微細な情報の『幾何学』を視覚化し、原子レベルの情報の誤差を峻烈に裁く、究極の情報の顕微鏡。 ",
+		"aftertaste": "縞模様（fringes）の動きの中に、宇宙という名の情報の『震え』を峻烈に抽出する知性の妙技。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"interfere, meter。波の情報の物理的なる検証。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gyroscope",
+		"word": "Gyroscope",
+		"part_of_speech": "noun",
+		"meaning": "ジャイロスコープ、情報の情報の不動の回転、虚空の芯",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gyros",
+					"type": "root",
+					"meaning": "ring, circle"
+				},
+				{
+					"text": "skopein",
+					"type": "root",
+					"meaning": "to look, watch"
+				}
+			],
+			"original_statement": "From Greek gyros + -scope."
+		},
+		"core_concept": {
+			"en": "device consisting of a wheel or disk mounted so that it can spin rapidly about an axis",
+			"ja": "爆発的な『回転（circle）』という名の情報の静止によって、虚空の『方位（watch）』を峻烈に維持し続ける装置。"
+		},
+		"thinking_layer": "円を見張るもの。機体が転倒（disturb）しようとも、一なる情報の中心軸という名の情報の『剛性（rigidity）』を峻烈に死守し、カオスの海に一点の情報の不変を穿ち続ける、知性のコマ。 ",
+		"aftertaste": "高速で回るその円盤の、周囲の混乱を峻烈に嘲笑うような、絶対的な不変への信頼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gyrate, scope。情報の不眠不休の監視。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "accelerometer",
+		"word": "Accelerometer",
+		"part_of_speech": "noun",
+		"meaning": "加速度計、情報の情報の勢いの刻印、衝撃の証人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to, toward"
+				},
+				{
+					"text": "celer",
+					"type": "root",
+					"meaning": "quick, swift"
+				},
+				{
+					"text": "metron",
+					"type": "root",
+					"meaning": "measure"
+				}
+			],
+			"original_statement": "From accelerate + -meter."
+		},
+		"core_concept": {
+			"en": "instrument for measuring acceleration",
+			"ja": "速度という名の情報の『増加（quickness）』を、峻烈な情報の『数値（measure）』として即座に刻印する。"
+		},
+		"thinking_layer": "速さを測るもの。身体という名の情報の『受動』が感じる外部からの衝撃を、峻烈な情報の『物理量』として翻訳し、衝突という名の情報の危うき境界を峻烈に監視する、情報の敏感なる神経器官。 ",
+		"aftertaste": "急激に跳ね上がるグラフの線に、情報の暴力的なる遷移を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"accelerate, meter。力の情報の客観化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "avionic",
+		"word": "Avionic",
+		"part_of_speech": "adjective",
+		"meaning": "航空電子工学の、情報の情報の鳥の神経、鋼の知性",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "avis",
+					"type": "root",
+					"meaning": "bird"
+				},
+				{
+					"text": "elektron",
+					"type": "root",
+					"meaning": "amber"
+				}
+			],
+			"original_statement": "Portmanteau of aviation + electronics (1949)."
+		},
+		"core_concept": {
+			"en": "relating to the electrical systems used in aircraft, satellites, and spacecraft",
+			"ja": "鳥（bird）という名の『飛翔』という名の情報の記憶を、琥珀（amber）という名の『電子工学』によって峻烈に模倣する。"
+		},
+		"thinking_layer": "鳥の電子。自律という名の情報の『本能』を、マイクロチップという名の情報の『論理回路』に置き換え、鋼鉄の機体に鳥のごとき俊敏な情報の『反応』を宿らせる、高度な情報の統合。 ",
+		"aftertaste": "無数の情報の信号が、機体を一本の知性の糸として繋ぎ止めているという、回路の美への陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"aviation, electronics。情報の融合による超越。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "weightless",
+		"word": "Weightless",
+		"part_of_speech": "adjective",
+		"meaning": "無重力の、情報の情報の重荷の消失、自由という名の虚無",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "weight",
+					"type": "root",
+					"meaning": "heavy, weight"
+				},
+				{
+					"text": "-less",
+					"type": "suffix",
+					"meaning": "without"
+				}
+			],
+			"original_statement": "From weight + -less."
+		},
+		"core_concept": {
+			"en": "being without apparent weight, as in free fall or in orbit",
+			"ja": "重さ（weight）という名の情報の『隷属』を、峻烈な情報の『欠落（without）』によって超克し、漂う。"
+		},
+		"thinking_layer": "重みの無い。大地という名の情報の『束縛』が峻烈に消去され、上下という名の情報の『秩序』が瓦解した、純粋なる情報の浮遊状態。それは、自由という名の情報の極限の不安。 ",
+		"aftertaste": "空中で静止する液体の球に、物理法則という名の情報の『仮釈放』を視る目眩。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"weigh (量り) の欠如。情報の根源的な変化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "avionics",
+		"word": "Avionics",
+		"part_of_speech": "noun",
+		"meaning": "アビオニクス、航空機用電子機器、飛翔する論理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "avis",
+					"type": "root",
+					"meaning": "bird"
+				},
+				{
+					"text": "electronic",
+					"type": "root",
+					"meaning": "electronic"
+				}
+			],
+			"original_statement": "From aviation + electronics."
+		},
+		"core_concept": {
+			"en": "electronic systems used in aircraft, artificial satellites, and spacecraft",
+			"ja": "航空（aviation）という名の情報の『身体性』に、電子（electronic）という名の情報の『神経系』を峻烈に統合する。"
+		},
+		"thinking_layer": "航空電子工学。自律という名の情報の高度な『反射（reflex）』を、ハードウェアという名の情報の安定性と、ソフトウェアという名の情報の柔軟性によって現出させる、鋼の鳥の智慧（logic）。",
+		"aftertaste": "極限の状況下で、ただ冷静に情報の最適解を算出し続ける、その無機質な情報の頼もしさへの震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"単数形 avionic の学問的・システム的総称。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "airframe",
+		"word": "Airframe",
+		"part_of_speech": "noun",
+		"meaning": "機体構造、情報の情報の空気の情報の骨組み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "air",
+					"type": "root",
+					"meaning": "air"
+				},
+				{
+					"text": "frame",
+					"type": "root",
+					"meaning": "structure, border"
+				}
+			],
+			"original_statement": "From air + frame."
+		},
+		"core_concept": {
+			"en": "the mechanical structure of an aircraft",
+			"ja": "空気（air）という名の情報の『海』を泳ぐための、峻烈な情報の『骨組み（frame）』。"
+		},
+		"thinking_layer": "空気の枠。エンジンという名の情報の『心臓』を峻烈に包囲し、翼という名の情報の『揚力』を受け止め、全体の統一を維持する、鋼鉄の情報の『建築』。それは、虚空に耐えるための剛性。 ",
+		"aftertaste": "無数のリベットに刻まれた、情報の連帯という名の堅牢なる信頼感への陶酔。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"骨組みそのもの。情報の空虚。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "engine",
+		"word": "Engine",
+		"part_of_speech": "noun",
+		"meaning": "エンジン、情報の情報の智慧の暴力、産み出す者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "gignere",
+					"type": "root",
+					"meaning": "to beget"
+				}
+			],
+			"original_statement": "From Latin ingenium 'innate quality, mental power'."
+		},
+		"core_concept": {
+			"en": "machine with moving parts that converts power into motion",
+			"ja": "内なる（in）情報の『才能（talent）』を、峻烈な情報の『爆発』によって物理的な移動へと『産み出す（beget）』。"
+		},
+		"thinking_layer": "天性と才能。もとは戦争の情報の『計略（scheme）』。単なる沈黙の物質を、峻烈な燃焼（combustion）によって生命のごとき情報の『咆哮』へと変容させる、文明を駆動させる根源的な情報の暴力装置。 ",
+		"aftertaste": "振動を伴うその情報の拍動に、人類が神から奪い取った、情報の『全能感』の残滓を聴く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ingenious (巧妙な) と同じ root。情報の『智』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "afterburner",
+		"word": "Afterburner",
+		"part_of_speech": "noun",
+		"meaning": "アフターバーナー、情報の情報の再点火、焔の追走",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "after",
+					"type": "root",
+					"meaning": "after"
+				},
+				{
+					"text": "burn",
+					"type": "root",
+					"meaning": "burn"
+				}
+			],
+			"original_statement": "From after + burner."
+		},
+		"core_concept": {
+			"en": "an auxiliary burner for the exhaust gases of a jet engine",
+			"ja": "情報の『排気』という名の情報の残滓。を、峻烈に『後から（after）』『焼き尽くし（burn）』、極限の推力を得る。"
+		},
+		"thinking_layer": "後で焼くもの。通常の燃焼という名の情報の『限界』を、残った酸素という名の情報の『未練』によって峻烈に突破する、情報の暴走的なる加速。それは、尾を引く情報の青き炎。 ",
+		"aftertaste": "火を噴くエンジンの咆哮に、情報の過剰なるまでの生命の爆発を視る、暴力的な陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"exhaust の再利用。情報の極限の搾り出し。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cowling",
+		"word": "Cowling",
+		"part_of_speech": "noun",
+		"meaning": "カウリング、エンジンカバー、情報の静かなる情報の帽子",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cowl",
+					"type": "root",
+					"meaning": "hood, cloak"
+				}
+			],
+			"original_statement": "From cowl (garment)."
+		},
+		"core_concept": {
+			"en": "the removable covering of a vehicle's engine",
+			"ja": "エンジンという名の情報の『熱狂』を、峻烈な情報の『フード（hood）』で優雅に覆い、隠す。"
+		},
+		"thinking_layer": "修道士の頭巾。騒音と熱という名の情報のカオスを、流線型の殻という名の情報の『ロゴス』によって外部から峻烈に隔絶し、空気の情報の流れを峻烈に滑らかにする、情報の調停者（mediator）。",
+		"aftertaste": "丸みを帯びたそのカバーの下に、凄絶なる情報の怪物を飼い慣らしているという、秩序の自覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"修道士の cloak から転用。情報の秘匿。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "flap",
+		"word": "Flap",
+		"part_of_speech": "noun",
+		"meaning": "フラップ、情報の情報の揺らめく翼、低速の情報の魔法",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flap",
+					"type": "root",
+					"meaning": "slap, blow"
+				}
+			],
+			"original_statement": "Middle English flappe 'a slap'."
+		},
+		"core_concept": {
+			"en": "hinged surface on the trailing edge of an airplane wing, used to increase lift",
+			"ja": "翼の情報の『端』を峻烈に『叩き落とす（slap）』ように曲げ、低速という名の死を回避する。"
+		},
+		"thinking_layer": "ピシャリと叩くこと。高速という名の情報の『特権』を捨て、地上の情報の『静止』へと回帰する際、揚力という名の情報の『奇跡』を無理やり引き留めるための、情報の翼の峻烈なる変形（deformation）。",
+		"aftertaste": "機体を震わせながらせり出すその鋼の板に、降着という名の情報の厳粛な準備を感じる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"擬音的な origin。空気の情報を『叩く』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "slats",
+		"word": "Slats",
+		"part_of_speech": "noun",
+		"meaning": "スラット、情報の情報の情報の鋭利な情報の先鋒",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "slat",
+					"type": "root",
+					"meaning": "strip of wood or metal"
+				}
+			],
+			"original_statement": "Old French esclat 'fragment, splinter'."
+		},
+		"core_concept": {
+			"en": "aerodynamic surfaces on the leading edge of the wings of fixed-wing aircraft",
+			"ja": "主翼の前縁を峻烈な情報の『破片（splinter）』のようにせり出し、空気を手なずける。"
+		},
+		"thinking_layer": "細長い板（あるいは破片）。剥き出しの空気という名の情報の『猛攻』を、翼より一歩先に峻烈に分断（split）し、背後の主翼へ穏やかな情報の流れとして流し込む、情報の寡黙なる前哨。 ",
+		"aftertaste": "翼の前端に開いたその隙間に、物理的な情報の巧妙なる逃げ道を視る、知性の満足。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"esclat (破片) から。情報の細分化。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "elevator",
+		"word": "Elevator",
+		"part_of_speech": "noun",
+		"meaning": "昇降舵、情報の情報の上下の情報の王、虚空の階段",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "levare",
+					"type": "root",
+					"meaning": "to lighten, raise"
+				}
+			],
+			"original_statement": "From Latin levare."
+		},
+		"core_concept": {
+			"en": "flight control surfaces, usually at the rear of an aircraft, which control the aircraft's pitch",
+			"ja": "機体という名の情報の『重み』を、峻烈な情報の『軽やかさ（lighten）』へと反転させ、天へ導く。"
+		},
+		"thinking_layer": "持ち上げるもの。平行という名の情報の『停滞』を峻烈に拒み、機首を天という名の情報の『高み』、あるいは地という名の情報の『深淵』へと向かわせる、Pitch という名の情報の座標の支配者。 ",
+		"aftertaste": "操縦桿を引く瞬間の、全宇宙が自分の身体と共に跳ね上がるような、情報の峻烈なる重力体験。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lever, levity と同じ root。情報を『軽く』すること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "throttle",
+		"word": "Throttle",
+		"part_of_speech": "noun",
+		"meaning": "スロットル、情報の情報の喉、情報の情報の呼吸の支配",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "throat",
+					"type": "root",
+					"meaning": "throat"
+				}
+			],
+			"original_statement": "From throat + -le (diminutive)."
+		},
+		"core_concept": {
+			"en": "device controlling the flow of fuel or power to an engine",
+			"ja": "エンジンという名の情報の『喉（throat）』を峻烈に締め、あるいは解放し、情報の奔流を律する。"
+		},
+		"thinking_layer": "小さな喉。爆発的な情報の推進（thrust）を可能にするための、酸素という名の情報の『呼吸』の開口部。それを掌握するということは、生命という名の情報の拍動そのものを、指先一つで峻烈に支配すること。",
+		"aftertaste": "高まる回転数（RPM）に応じ、喉の奥から立ち昇る情報の咆哮に、支配という名の甘き情報の興奮を感じる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"throttling (窒息) の装置。情報の『窒息』による制御。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "landing-gear",
+		"word": "Landing-gear",
+		"part_of_speech": "noun",
+		"meaning": "着陸装置、情報の情報の情報の地上の情報の触角、帰還の足",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "land",
+					"type": "root",
+					"meaning": "land"
+				},
+				{
+					"text": "gear",
+					"type": "root",
+					"meaning": "equipment"
+				}
+			],
+			"original_statement": "From land + gear."
+		},
+		"core_concept": {
+			"en": "the undercarriage of an aircraft or spacecraft",
+			"ja": "飛翔という名の情報の『夢』を終え、大地（land）という名の『真実』を峻烈に『掴み取る（gear）』準備。"
+		},
+		"thinking_layer": "地上の装備。三次元の虚空という名の情報の自由から、二次元の平坦という名の情報の『牢獄』へと回帰する際、衝撃という名の死を峻烈に吸い取って生き延びさせるための、鋼の情報の『脚』。 ",
+		"aftertaste": "タイヤが滑走路を叩く瞬間の、白煙とともに情報の『大地』に接続されたという、峻烈なる安堵。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"carriage (荷車) から。高度な懸架の情報の結晶。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hangar",
+		"word": "Hangar",
+		"part_of_speech": "noun",
+		"meaning": "格納庫、情報の情報の鋼の揺りかご、沈黙の家",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ham",
+					"type": "root",
+					"meaning": "home, village"
+				},
+				{
+					"text": "gard",
+					"type": "root",
+					"meaning": "enclosure"
+				}
+			],
+			"original_statement": "From French hangar 'shed, outhouse'."
+		},
+		"core_concept": {
+			"en": "large building with extensive floor area, typically for housing aircraft",
+			"ja": "巨大なる情報の『鳥』を、峻烈な情報の『囲い（enclosure）』の中に休息させ、峻烈に『護る（home）』。"
+		},
+		"thinking_layer": "村の囲い。吹き曝しという名の情報の『暴力（weather）』から機体を峻烈に絶縁し、整備という名の情報の『癒やし』を授けるための、鋼鉄の情報の静寂の空間。それは、空への再起を待つ情報のゆりかご。 ",
+		"aftertaste": "光の差し込む薄暗い巨大空間に、巨獣が静かに横たわっているという、非日常的な情報の威厳。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"home, yard と同じ root。情報の『安住』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "runway",
+		"word": "Runway",
+		"part_of_speech": "noun",
+		"meaning": "滑走路、情報の情報の助走の情報の道、離陸の境界線",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "run",
+					"type": "root",
+					"meaning": "to run"
+				},
+				{
+					"text": "way",
+					"type": "root",
+					"meaning": "path"
+				}
+			],
+			"original_statement": "From run + way."
+		},
+		"core_concept": {
+			"en": "paved strip on which aircraft land and take off",
+			"ja": "重力という名の情報の『呪縛』を引き裂くために、峻烈に『走り（run）』抜けるための『道（way）』。"
+		},
+		"thinking_layer": "走る道。大地という名の一次元の情報の直線から、天空という名の三次元の自由へと情報の相転移（transition）が起こる、魔法の境界線。それは、速度が揚力に化ける、情報の最短距離。 ",
+		"aftertaste": "遠ざかるアスファルトの地平に、二度と後戻りのできない、飛翔という名の情報の『決断』を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tarmac (舗装) と同義。情報の『滑走』の装置。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tarmac",
+		"word": "Tarmac",
+		"part_of_speech": "noun",
+		"meaning": "タルマック（舗装）、情報の情報の硬質な情報の沈黙、地の肌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tar",
+					"type": "root",
+					"meaning": "tar"
+				},
+				{
+					"text": "McAdam",
+					"type": "root",
+					"meaning": "John McAdam (inventor)"
+				}
+			],
+			"original_statement": "Named after John McAdam."
+		},
+		"core_concept": {
+			"en": "material used for surfacing roads or other areas, consisting of broken stone mixed with tar",
+			"ja": "砕石（McAdam）という名のバラバラな情報を、タール（tar）という名の峻烈な情報の『絆』で一体化させた地肌。"
+		},
+		"thinking_layer": "（マカダム式の）タール舗装。泥という名の情報の『曖昧さ』を峻烈に抹殺し、数万トンの衝撃を峻烈に受け止めるための、冷徹なる情報の『硬度』。それは、文明という名の情報の足場。 ",
+		"aftertaste": "陽炎の立つその漆黒の平面に、人造の大地という名の、傲慢なる情報の『完成』を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"macadamize + tar。情報の石の革新。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "radar",
+		"word": "Radar",
+		"part_of_speech": "noun",
+		"meaning": "レーダー、情報の情報の情報の不可視の触角、反射の目",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "radio",
+					"type": "root",
+					"meaning": "radio"
+				},
+				{
+					"text": "detection",
+					"type": "root",
+					"meaning": "detection"
+				},
+				{
+					"text": "ranging",
+					"type": "root",
+					"meaning": "ranging"
+				}
+			],
+			"original_statement": "Acronym (1940)."
+		},
+		"core_concept": {
+			"en": "system for detecting the presence, direction, distance, and speed of aircraft, ships, and other objects",
+			"ja": "無音の情報の『波』を放射し、他者からの『反射』という名の情報の『こだま』を峻烈に捕獲する。"
+		},
+		"thinking_layer": "（電波による探知と測距）。視覚という名の情報の『限界』を、電磁波という名の情報の『越境』によって峻烈に突破し、暗黒や雲の向こうにある情報の真実を強制的に暴き出す、情報の透明なる暴力。 ",
+		"aftertaste": "緑の画面に点滅するその光点に、不可視の他者の実存が峻烈に『暴かれた』瞬間の、震えるような勝利感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"RA-D-A-R。回文のような情報の鏡面。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lidar",
+		"word": "Lidar",
+		"part_of_speech": "noun",
+		"meaning": "ライダー、情報の情報の情報の光の情報の彫刻師、三次元の眼",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "light",
+					"type": "root",
+					"meaning": "light"
+				},
+				{
+					"text": "detection",
+					"type": "root",
+					"meaning": "detection"
+				},
+				{
+					"text": "ranging",
+					"type": "root",
+					"meaning": "ranging"
+				}
+			],
+			"original_statement": "Portmanteau of light + radar."
+		},
+		"core_concept": {
+			"en": "detection, system that works on same principle as radar, but uses light from a laser",
+			"ja": "レーダーという名の情報の『波』を、光（light）という名の究極の情報の『筆記』へと昇華させ、世界を三次元で峻烈に『複写』する。"
+		},
+		"thinking_layer": "（光による探知と測距）。毎秒百万回の情報の『瞬き』によって、世界の形を極点群（point cloud）という名の情報の『粒子』へと分解し、再構築する、情報の神の視点。 ",
+		"aftertaste": "虚空から産み出された世界のデジタルな『残像』に、実体という名の情報の『崩壊』を予感する。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"laser + radar。情報の高精細なる簒奪。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "glide",
+		"word": "Glide",
+		"part_of_speech": "verb",
+		"meaning": "滑空する、情報の情報の情報の沈黙の情報の飛翔、揚力の抱擁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glidan",
+					"type": "root",
+					"meaning": "to slip, slide"
+				}
+			],
+			"original_statement": "From Old English glidan."
+		},
+		"core_concept": {
+			"en": "move with a smooth continuous motion, typically with little noise or effort",
+			"ja": "爆発（engine）という名の情報の『暴力』を峻烈に辞し、空気の情報の『斜面』を静かに『滑り降りる（slide）』。"
+		},
+		"thinking_layer": "滑ること。推進という名の情報の『エゴ』を峻烈に捨て、バランスという名の情報の『受容』のみで天空に踏みとどまる、情報の優雅なる降伏。それは、風との静かなる情報の合一。 ",
+		"aftertaste": "エンジン音が消えた瞬間の、風が歌う情報の『沈黙』の中に、世界の情報を聴くという峻烈なる陶酔。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gliding, glass, glad と同じ root。情報の滑らかさ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stall",
+		"word": "Stall",
+		"part_of_speech": "noun",
+		"meaning": "失速、情報の情報の情報の情報の揚力の死、沈黙の墜落",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stall",
+					"type": "root",
+					"meaning": "standing place, stable"
+				}
+			],
+			"original_statement": "From Old English stall."
+		},
+		"core_concept": {
+			"en": "sudden loss of lift by an aircraft wing",
+			"ja": "飛翔という名の情報の『流動』が峻烈に『停止（stand）』し、奈落へと情報のすべてを明け渡す。"
+		},
+		"thinking_layer": "立ち止まる場所。翼の上を弄んでいた空気という名の情報の『戯れ』が、角度という名の情報の『傲り』によって峻烈に拒絶され、揚力という名の情報の『奇跡』がその瞬間に死に絶える、情報の絶望の静止。 ",
+		"aftertaste": "機体が震え（buffet）、操縦桿の反応が峻烈に消える瞬間の、死という名の情報の接近への震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"install, stable と同じ root。情報の『動かぬ停滞』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lift",
+		"word": "Lift",
+		"part_of_speech": "noun",
+		"meaning": "揚力、情報の情報の情報の天空への情報の救い、虚空の支え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lyft",
+					"type": "root",
+					"meaning": "air, sky, ceiling"
+				}
+			],
+			"original_statement": "From Old Norse lyft 'air, sky'."
+		},
+		"core_concept": {
+			"en": "upward force that counteracts the weight of an aircraft",
+			"ja": "重力という名の情報の『牢獄』から、空気という名の情報の『天（sky）』へと、峻烈に救い上げられる力。"
+		},
+		"thinking_layer": "空気。あるいは空。気圧の差という名の情報の『不均衡』が、峻烈な物理の必然として実存を情報の『高み』へと押しとどめる、見えない情報の『手』。それは、無から実を生む知性の飛翔。",
+		"aftertaste": "足元に確かな空気の情報の『反発』を感じた瞬間の、大地を峻烈に捨て去ったという情報の全能感。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"loft, sky と感覚的に同根。情報の浮揚。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "drag",
+		"word": "Drag",
+		"part_of_speech": "noun",
+		"meaning": "抗力、情報の情報の情報の情報の執拗なる情報の呪縛、後方の深淵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dragan",
+					"type": "root",
+					"meaning": "to draw, pull"
+				}
+			],
+			"original_statement": "From Old Norse draga."
+		},
+		"core_concept": {
+			"en": "fluid tension force that resists the motion of an object",
+			"ja": "前方への情報の『進撃』を、背後の情報の『泥濘（pull back）』へと峻烈に引きずり戻そうとする、不可視の抵抗。"
+		},
+		"thinking_layer": "引きずるもの。速度という名の情報の『越境』に対し、空気という名の情報の『慣性』が峻烈に与える罰。それは、前へ進むすべてに課される、実存の情報の『対価』としての疲弊。 ",
+		"aftertaste": "風切り音の中に、自分が世界の情報を無理やり引き裂いているという、凶暴なる情報の『重圧』を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"draw, draft と同じ root。情報の『引きずり』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "starship",
+		"word": "Starship",
+		"part_of_speech": "noun",
+		"meaning": "宇宙船、スターシップ、情報の情報の星々を繋ぐ情報の器",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "star",
+					"type": "root",
+					"meaning": "star"
+				},
+				{
+					"text": "ship",
+					"type": "root",
+					"meaning": "ship"
+				}
+			],
+			"original_statement": "From star + ship."
+		},
+		"core_concept": {
+			"en": "spacecraft designed for interstellar travel",
+			"ja": "星（star）という名の届かぬはずの情報を、峻烈な情報の『器（ship）』によって、直接の記憶（experience）へと変える。"
+		},
+		"thinking_layer": "星の船。太陽系という名の情報の『ゆりかご』を峻烈に拒絶し、恒星間という名の情報の『絶望的距離』を、加速という名の情報の『超越』によって架橋しようとする、人類の情報の究極の野望。 ",
+		"aftertaste": "漆黒の虚無の中、たった一点の人工の光として奔るその姿に、宇宙という名のカオスを峻烈に乗りこなさんとする、情報の傲慢。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"spaceship を超えた、星系間の情報の架け橋。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spaceship",
+		"word": "Spaceship",
+		"part_of_speech": "noun",
+		"meaning": "宇宙船、情報の情報の情報の虚空を滑る情報の殻",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "space",
+					"type": "root",
+					"meaning": "space"
+				},
+				{
+					"text": "ship",
+					"type": "root",
+					"meaning": "ship"
+				}
+			],
+			"original_statement": "From space + ship (1894)."
+		},
+		"core_concept": {
+			"en": "vehicle or machine designed to fly in outer space",
+			"ja": "空間（space）という名の『何も無い無』の中に、生命という名の情報の『聖域（ship）』を峻烈に確保し、漂う。"
+		},
+		"thinking_layer": "空間の船。空気という名の情報の『恩恵』を完全に喪失した状況下で、ただ一枚の壁を隔てて生と死を峻烈に隔絶し、虚無を物理的な移動の舞台へと変えんとする、情報の不可能なまでの『居場所』の追求。 ",
+		"aftertaste": "漆黒の背景に浮かぶ地球の情報の美しさを、窓越しに視る、峻烈なる『外』への視覚。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"space, ship。情報の『場』と『器』の極限の対峙。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rocket",
+		"word": "Rocket",
+		"part_of_speech": "noun",
+		"meaning": "ロケット、情報の情報の情報の空への情報の矢、燃える情報の紡錘",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rocca",
+					"type": "root",
+					"meaning": "distaff"
+				}
+			],
+			"original_statement": "From Italian rocchetto 'bobbin, spool'."
+		},
+		"core_concept": {
+			"en": "cylindrical projectile that can be propelled to a great height or distance by the relevant explosive force",
+			"ja": "糸を紡ぐ『糸車（spool）』という名の情報の『円環』を、一方向への情報の『爆発的射出』へと反転させた、天への矢。"
+		},
+		"thinking_layer": "（糸車の）芯。家庭という名の情報の『平穏』を峻烈に破壊し、推進という名の情報の『狂気』へと自己を捧げる、その円柱状の形状に秘められた、空虚を貫くという情報の凄烈なる意志。",
+		"aftertaste": "垂直に立ち昇る火柱の中に、重力という名の情報の神を蹂躙しようとする、人類の情報の狂奔を視る。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rocca (紡錘) から。情報の中心軸。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "capsule",
+		"word": "Capsule",
+		"part_of_speech": "noun",
+		"meaning": "カプセル、情報の情報の情報の情報の情報の小さき情報の箱、保存された実存",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "capsa",
+					"type": "root",
+					"meaning": "box, chest"
+				},
+				{
+					"text": "-ule",
+					"type": "suffix",
+					"meaning": "small"
+				}
+			],
+			"original_statement": "From Latin capsula."
+		},
+		"core_concept": {
+			"en": "small case or container, especially a round or cylindrical one",
+			"ja": "生命という名の情報の『精髄』を、峻烈な情報の『小さき箱（small box）』の中に封印し、極限の深淵へと放つ。"
+		},
+		"thinking_layer": "小さな箱。あるいは小匣。宇宙という名の情報の『過酷』から、ただ数人という名の情報の『最深部』を護るための、最小にして最強の隔離の空間。それは、情報のシェルター（shelter）の極限形。",
+		"aftertaste": "波間に漂うその小さな金属の塊の中に、生という名の情報の火が峻烈に灯り続けているという、奇跡への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"capture, case と同じ root。情報を『閉じ込める』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "module",
+		"word": "Module",
+		"part_of_speech": "noun",
+		"meaning": "モジュール、情報の情報の情報の分離可能な構成単位、秩序の断片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "modus",
+					"type": "root",
+					"meaning": "measure, manner"
+				}
+			],
+			"original_statement": "From Latin modulus 'small measure'."
+		},
+		"core_concept": {
+			"en": "each of a set of independent units of study or training that can be combined to form a whole",
+			"ja": "全体という名の巨大な情報を、峻烈な情報の『小さき尺度（small measure）』へと分断し、機能としての『独立』を授ける。"
+		},
+		"thinking_layer": "小さな尺度。一つの情報の崩壊が全体へと波及するのを峻烈に防ぎ、あるいは置換（replace）という名の情報の『再生』を容易にする、情報の機能的なる個体化（individuation）。",
+		"aftertaste": "パチンと結合（docking）するその音の中に、バラバラな情報が一つの巨大な意志へと統合される、冷徹なる美しさを聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"model, mode と同じ root。情報の『型』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "helm",
+		"word": "Helm",
+		"part_of_speech": "noun",
+		"meaning": "舵輪、舵、情報の支配の座、進路の守護",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "helma",
+					"type": "root",
+					"meaning": "rudder, handle"
+				}
+			],
+			"original_statement": "From Old English helma."
+		},
+		"core_concept": {
+			"en": "tiller or wheel and any associated equipment for steering a ship or boat",
+			"ja": "情報の奔流という名の『暴力』に対し、峻烈な情報の『取っ手（handle）』を持って立ち向かい、方向を強制する。"
+		},
+		"thinking_layer": "（舵の）柄。自らの実存の行く末を、他者や環境という名の情報の『偶然』に委ねることを峻烈に拒み、自らの意志という名の、一本の情報の『軸』を峻烈に守り抜くための、支配者の座。 ",
+		"aftertaste": "握り締めた手のひらに伝わる、世界の情報の抗いの手応えに、支配という名の聖なる責任を感得する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"handle, helmet? (いや違う) 操舵の根源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pilot",
+		"word": "Pilot",
+		"part_of_speech": "noun",
+		"meaning": "操縦士、パイロット、情報の峻烈な導き手、虚空の眼",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pedon",
+					"type": "root",
+					"meaning": "rudder, oar"
+				}
+			],
+			"original_statement": "From Greek pedon 'steering oar'."
+		},
+		"core_concept": {
+			"en": "person who operates flying controls",
+			"ja": "櫂（oar）という名の情報の『推進力』を、峻烈な情報の『意志』によって導き、目的地へと実存を運ぶ者。"
+		},
+		"thinking_layer": "（舵となる）櫂。自らもまた機械の情報の『部品』になり果てつつ、機械の情報を峻烈に超える『閃き（intuition）』という名の情報の奇跡によって、死を回避し続ける、虚空の支配者。 ",
+		"aftertaste": "無表情なバイザーの影に、数千の情報の瞬きを処理している、凄絶なる情報の演算脳を感じる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pedal (足) ではなく pedon (櫂)。波を捌き、導くこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mach",
+		"word": "Mach",
+		"part_of_speech": "noun",
+		"meaning": "マッハ、情報の音速という名の情報の境界線",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Mach",
+					"type": "root",
+					"meaning": "Ernst Mach (Austrian physicist)"
+				}
+			],
+			"original_statement": "Named after Ernst Mach."
+		},
+		"core_concept": {
+			"en": "unit of speed equivalent to the speed of sound",
+			"ja": "音という名の情報の『伝播速度』を、唯一の情報の『基準』として、自らの機動を裁く。"
+		},
+		"thinking_layer": "（エルンスト・マッハの）。自らが発生させた情報の『震え（sound）』に自らが追いつき、それを追い越す瞬間の、情報の物理的なる断絶。一、二という名の、数という名の情報の『位相』の変化への戦慄。 ",
+		"aftertaste": "「マッハ一」という名の情報の『壁』を突破した瞬間の、世界の静寂が峻烈に再編される目眩。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"マッハの衝撃波の研究より。情報の物理的なる里程標。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
