@@ -255026,5 +255026,87 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "anomalous",
+		"word": "Anomalous",
+		"part_of_speech": "adjective",
+		"meaning": "異常な、変則的な、例外の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "an-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "homalos",
+					"type": "root",
+					"meaning": "even, smooth (等しい、滑らかな)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek anōmalos, from an- 'not' + homalos 'even'."
+		},
+		"core_concept": {
+			"en": "Deviating from what is standard, normal, or expected",
+			"ja": "滑らか（even）に続くはずの規則性の線が不意に『途切れ（not）』、予測不可能な場所に現れた点。システムにとっての『エラー』であり、新発見にとっての『鍵』"
+		},
+		"thinking_layer": "『平坦でないこと』。アノマリー（Anomaly）と同根。アノ（Ano/ない）＋マロス（Malos/等しい）。語源は「等しくない」。全員が満足しているはずの社会で発生する「たった一人の不満」。あるいは、統計データの中に紛れ込んだ「ありえない外れ値」。それは破壊の予兆であると同時に、進化の最初の変異。 ",
+		"aftertaste": "誰もが「Yes」と言う場面で、一人の知性が静かに「No」を突きつけた瞬間の、あの空気の亀裂。あるいは、何の問題もなく動いていた機械が、不意に、しかし論理的な理由もなく止まった時の、あの理不尽な静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sem-",
+					"meaning": "one, same (forming homalos/even)"
+				}
+			],
+			"points": [
+				"same, similar, homily, anomalous 同根。",
+				"『同じであること（symmetry）』こそが法則（nature）であり、そこからの『逸脱（anomaly）』は宇宙の微かな『気まぐれ』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aberrant",
+		"word": "Aberrant",
+		"part_of_speech": "adjective",
+		"meaning": "常軌を逸した、異常な、迷い出た",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ab-",
+					"type": "prefix",
+					"meaning": "away, from (〜から離れて)"
+				},
+				{
+					"text": "errare",
+					"type": "root",
+					"meaning": "to stray, wander (彷徨う、迷う)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin aberrant-, from aberrare 'stray from', from ab- 'away' + errare 'stray, wander'."
+		},
+		"core_concept": {
+			"en": "Departing from an accepted standard",
+			"ja": "正しいとされる道（Truth）から『離れて（away）』、どこへ行くとも知れず『彷徨い（wander）』出した様子。規律を忘れ、あるいは拒絶した、漂泊する異常性"
+		},
+		"thinking_layer": "『彷徨い離れること』。エラー（Error）やエラント（Errant/彷徨える）と同根。ただの「間違い」ではなく、自分の足で「違う道」へ入り込んでしまった、能動的な逸脱。それは生物の遺伝子の異変から、社会的な反逆、あるいは一時の情熱に突き動かされた「無謀な行動」までを包み込みます。",
+		"aftertaste": "正しい地図を投げ捨て、誰もいない荒野へと一人で入ってゆく背中の、危険で美しい決意。あるいは、自分の中にある「獣」が、飼い慣らされた理性という檻を破って、夜の街へ飛び出していった時の、あの震えるような自由への予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ers-",
+					"meaning": "to be in motion, wander"
+				}
+			],
+			"points": [
+				"error, errant, erratic 同根。",
+				"『迷うこと（wandering）』は無能の証ではなく、新しい『地平（horizon）』を探求するための不可欠な代償。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
