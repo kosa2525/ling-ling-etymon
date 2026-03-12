@@ -257532,5 +257532,164 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "incipient",
+		"word": "Incipient",
+		"part_of_speech": "adjective",
+		"meaning": "始まりの、初期の、起こりかけている",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into, upon (〜の中へ、〜の上に)"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take (取る、掴む)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin incipient-, from incipere 'begin', from in- 'into' + capere 'take'."
+		},
+		"core_concept": {
+			"en": "In an initial stage; beginning to happen or develop",
+			"ja": "まだ形にもならない微かな予兆が、世界という名の入れ物の中へと『入り込み（into）』、存在としての形を『掴み取り（take）』始めた、震えるような最初の瞬間。目覚め"
+		},
+		"thinking_layer": "『掴み始めること』。インセプション（Inception/始まり）や、キャプチャー（Capture/捕らえる）、コンセプト（Concept/概念＝共に掴んだもの）と同根。ただの「始まり」ではなく、何かが「今まさに生まれようとしている」という動的な期待感。それは新しい病の兆候から、革命の最初の一滴、あるいは恋に落ちる直前の、胸のざわめき。 ",
+		"aftertaste": "夜明け前の東の空が、ほんの少しだけ白み始めた、あの「一日が始まる（incipient）」瞬間の、凛とした冷たい空気。あるいは、自分の中に全く新しい物語の「アイデア」が降りてきて、指先が勝手に動き始める直前の、あの痺れるような全能感の予兆。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap-",
+					"meaning": "to grasp"
+				}
+			],
+			"points": [
+				"capture, accept, conception, participate, receive 同根。",
+				"『始まる（incipere）』とは、カオスの中から特定の意味を『掴み取る（grasp）』ことであり、そこからすべての『存在（being）』が定義される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inception",
+		"word": "Inception",
+		"part_of_speech": "noun",
+		"meaning": "始まり、開始、発端、学位授与式",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into, upon (〜の中へ、〜の上に)"
+				},
+				{
+					"text": "capere",
+					"type": "root",
+					"meaning": "to take (取る、掴む)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin incaptio, from incipere 'begin'."
+		},
+		"core_concept": {
+			"en": "The establishment or starting point of an institution or activity",
+			"ja": "ある目的や組織をこの世界へと『掴み入れ（take into）』、公式にその存在を宣言する『最初の点』。ただの始まりではなく、そこからすべての歴史が展開してゆく、決定的な『発端』"
+		},
+		"thinking_layer": "『掴み取ること』。インシピエント（Incipient）の名詞形。キャプテン（Captain/頭＝取る人）や、レセプション（Reception/受け取ること）と同根。それは種をまくことではなく、その種が「芽吹いたことを認める」儀式。そこには、混沌とした可能性の海から、一つの「意味のあるプロジェクト」を切り出す、力強い意志が宿っています。",
+		"aftertaste": "新しい会社の設立記念日に、みんなで乾杯をする時の、あの未来への光と少しの不安が入り混じった、シャンパンの泡のような高揚感。あるいは、自分の子供が初めて言葉を発した瞬間の、そこから新しい「意識の歴史」が始まるという、あの厳かな驚き。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kap-",
+					"meaning": "to grasp"
+				}
+			],
+			"points": [
+				"inception, concept, deception（騙す＝後ろへ取る）, except 同根。",
+				"『開始（beginning）』とは、過去を切り離し、新しい『概念（concept）』を自らの手で『掴み取る（grasp）』という、知的な宣言である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "embryonic",
+		"word": "Embryonic",
+		"part_of_speech": "adjective",
+		"meaning": "胚の、胎児の、未発達の、初期段階の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "en-",
+					"type": "prefix",
+					"meaning": "in (〜の中に)"
+				},
+				{
+					"text": "bryein",
+					"type": "root",
+					"meaning": "to swell, grow (膨らむ、成長する)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek embryon, from en- 'in' + bryein 'swell'."
+		},
+		"core_concept": {
+			"en": "Relating to an embryo; in a rudimentary stage with potential for further development",
+			"ja": "暗い胎内（in）で、爆発的な生命の衝動が『膨れ上がり（swell）』、まだ何者でもないが、あらゆる可能性を孕んで蠢いている様子。未完成ゆえの、恐ろしいほどの『生の密度』"
+		},
+		"thinking_layer": "『中で膨らむこと』。ブライン（Brine/塩水？）、あるいはベリー（Berry/膨らんだ果実）とおそらく遠い親戚。ただの「小さい（small）」ではなく、そこには「これから巨大なものになる」という設計図が、超高密度で圧縮（Compress）されています。それは、たった一つの細胞からなる自分、あるいは、一言のメモに過ぎない偉大な理論の「雛形（template）」。",
+		"aftertaste": "自分の心の中に生まれたばかりの、まだ言葉にもできない微かな「情熱」が、自分の身体を内側から『膨らませ（swell）』、世界を塗り替える予感に震える、あの至福の苦しみ。あるいは、まだ不格好な試作品（プロトタイプ）を眺めながら、その背後に完成された未来の姿を見出す、あの創造者の慈しみ。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhreu-",
+					"meaning": "to swell, grow"
+				}
+			],
+			"points": [
+				"bread, brew, broth, bryophyte（コケ植物＝繁茂するもの）と同根の説あり。",
+				"生命は常に『膨らむ（swelling）』という物理的な圧力から始まり、それは『内側（in-）』からの熱狂（enthusiasm）によってのみ駆動される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rudimentary",
+		"word": "Rudimentary",
+		"part_of_speech": "adjective",
+		"meaning": "基本の、初歩的な、未発達の、未熟な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rudis",
+					"type": "root",
+					"meaning": "unwrought, raw (未加工の、生の、粗野な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin rudimentum 'early training', from rudis 'unwrought'."
+		},
+		"core_concept": {
+			"en": "Involving or limited to basic principles; of or relating to an immature, undeveloped, or basic form",
+			"ja": "磨き上げられる前の、『粗野（raw）』でゴツゴツとした原石の状態。転じて、物事を構成するための最も『基礎的』で、しかしそれだけでは機能しない、剥き出しの断片"
+		},
+		"thinking_layer": "『未加工の、生の』。ルード（Rude/失礼な、粗野な）や、エルダイト（Erudite/博学な＝粗野な状態から抜けた）と同根。教育の「イロハ」や、生物の「痕跡的な器官」。洗練されていないからこそ、そこには「本質」がそのまま露出しています。それは子供が描いた一本の線、あるいは、文明の始まりに見られた原始的な道具。",
+		"aftertaste": "新しい言語を学び始めた時の、たった一つの単語を繋ぎ合わせる「初歩的な（rudimentary）」会話の、あのひどく不自由で、しかし震えるほど新鮮な手応え。あるいは、どれだけ知識を積み上げても、結局は「生（raw）」の自分に立ち戻らなければならないと悟った時の、あの冷たくて硬い原石のような心地よい虚脱感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reud-",
+					"meaning": "to tear, smash, clear (forming rudis/rubble?)"
+				}
+			],
+			"points": [
+				"rudder, rough, rubble, rude 同根の説あり。",
+				"『基礎（rudiment）』とは、世界を一度『壊し（smash）』、そこから取り出した『最小の断片』を自分なりに『並べ直す』ことの第一歩である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
