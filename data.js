@@ -256696,5 +256696,264 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "delirium",
+		"word": "Delirium",
+		"part_of_speech": "noun",
+		"meaning": "せん妄、錯乱、熱狂、精神的混乱",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away from (〜から離れて)"
+				},
+				{
+					"text": "lira",
+					"type": "root",
+					"meaning": "furrow (畝（うね）、通ってきた跡)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin delirium, from delirare 'deviate', from de- 'away from' + lira 'ridge between furrows'."
+		},
+		"core_concept": {
+			"en": "An abruptly emergent, disturbed state of mind that occurs in fever, intoxication, and other disorders",
+			"ja": "理性がまっすぐ歩むべき『定められた轍（furrow）』から、何らかの衝撃でガタンと大きく『外れて（away from）』しまった状態。現実と幻想が入り混じり、制御不能なイメージが奔流のように押し寄せる、精神の脱輪"
+		},
+		"thinking_layer": "『轍から外れること』。レールを外れる（Deviate）の農耕版。元々は「畑の畝（うね）から外れて鋤（すき）を動かす」という農作業のミスを指していました。ただの「狂気（madness）」よりも、もっと一時的で、激しい混乱と、そこからの「帰還」への予兆を含んでいます。それは高熱が見せる幻影から、勝利の瞬間の狂おしい熱狂まで。 ",
+		"aftertaste": "煮えくり返るような熱の中で、見慣れた壁紙の模様が恐ろしい化け物に変貌してゆくのを、ただ見つめ続けるしかない、あの逃げ場のない孤独。あるいは、あまりにも深い絶望に直面し、自分の魂が肉体から「外れて（delirium）」、宇宙の彼方へ飛んでゆくような、冷ややかな解脱感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leis-",
+					"meaning": "track, furrow"
+				}
+			],
+			"points": [
+				"learn（跡をたどる）, lore（知識＝跡）, last（靴型＝跡）と同根。",
+				"『学ぶ（learning）』とは規定の轍を『辿り直す』ことであり、『狂気（delirium）』とはその轍を『破壊』することであるという、知性の保守性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "psychosis",
+		"word": "Psychosis",
+		"part_of_speech": "noun",
+		"meaning": "精神病、精神疾患、（現実との接触の喪失）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "psykhē",
+					"type": "root",
+					"meaning": "soul, mind, breath (魂、心、息)",
+					"lang": "Greek"
+				},
+				{
+					"text": "-osis",
+					"type": "suffix",
+					"meaning": "state, condition, disease (状態、病気)"
+				}
+			],
+			"original_statement": "From Greek psykhē 'soul' + -osis 'abnormal condition'."
+		},
+		"core_concept": {
+			"en": "A severe mental disorder in which thought and emotions are so impaired that contact is lost with external reality",
+			"ja": "魂（psyche）そのものが、通常とは異なる異常な『状態（-osis）』へと変容してしまった様子。現実の世界から完全に切り離され、自分だけの閉ざされた論理の中に幽閉される、最も深い精神の闇"
+		},
+		"thinking_layer": "『魂の状態（異常）』。サイコ（Psycho）や、おなじみの「-osis（〜症）」の組み合わせ。呼吸（breath）を意味していた魂が、澱（よど）み、狂おしく回転し、外側の世界を「外側」として認識できなくなる。それは、自分自身を構成している「物語」が、客観的な事実という錨（いかり）を失って、無限の深淵へと漂流し始める悲劇。",
+		"aftertaste": "鏡の中に映る自分の瞳が、自分のものではない「誰か」のものに見え、その背後に巨大な陰謀の気配を感じて震える、あの逃れようのない戦慄。あるいは、社会が決めた「正常」というルールが、あまりにも複雑で不合理に見え、自分だけがその外側に立ち尽くしていると気づいた時の、冷徹な孤独感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhes-",
+					"meaning": "to blow (forming psyche/breath)"
+				}
+			],
+			"points": [
+				"psyche, psychology, psychiatrist 同根。",
+				"『魂』とは『息（breath）』をすること、つまり『世界との情報の交換』であり、それが停止（病的な閉鎖）することがサイコシス（psychosis）の本質である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "neurosis",
+		"word": "Neurosis",
+		"part_of_speech": "noun",
+		"meaning": "神経症、ノイローゼ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "neuron",
+					"type": "root",
+					"meaning": "nerve, sinew, tendon (神経、筋)",
+					"lang": "Greek"
+				},
+				{
+					"text": "-osis",
+					"type": "suffix",
+					"meaning": "state, condition, disease (状態、病気)"
+				}
+			],
+			"original_statement": "From Greek neuron 'nerve' + -osis."
+		},
+		"core_concept": {
+			"en": "A relatively mild mental illness that is not caused by organic disease, involving symptoms of stress (depression, anxiety, obsessive behavior, hypochondria) but not a radical loss of being able to touch reality",
+			"ja": "世界を感じ取るための繊細な『神経（neuron）』が、過剰な刺激や葛藤によって異常な『状態（-osis）』に陥っている様子。現実とは繋がっているが、その繋がり方が「痛みを伴う」歪みを見せている、現代的な精神の摩擦"
+		},
+		"thinking_layer": "『神経の状態（異常）』。ニューロン（Neuron）や神経（Neural）と同根。かつては物理的な脊髄の病気だと思われていましたが、のちに「心の問題」と定義されました。ただの不機嫌ではなく、自分の外側の世界（Reality）と内側の理想（Ideal）が激しくぶつかり合い、その火花が神経を「焼き切っている」ような状態。私たちは多かれ少なかれ、この「歪み」を抱えて生きています。",
+		"aftertaste": "鍵を閉めたか何十回も確認せずにはいられない、あの自分の意志すら信じられないほどの、滑稽で切実な不安のループ。あるいは、誰からの批判も受けていないのに、自分の中の「厳しい検閲官」の視線に怯え、息を潜めて生きる、あの透明な檻の中の重苦しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "snēu-",
+					"meaning": "sinew, tendon"
+				}
+			],
+			"points": [
+				"nerve, neural, neurasthenia（神経衰弱）と同根。",
+				"『神経』とはもともと弓の『弦（string）』や『腱（tendon）』を意味し、その『張り詰めすぎた状態（neurosis）』こそが、現代人の苦しみの響きを生んでいる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monomania",
+		"word": "Monomania",
+		"part_of_speech": "noun",
+		"meaning": "単狂、一狂、一つのことに異常に執着すること",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos-",
+					"type": "prefix",
+					"meaning": "single, alone (単一の、ただ一つの)"
+				},
+				{
+					"text": "mania",
+					"type": "root",
+					"meaning": "madness, enthusiasm (狂気、熱狂)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek monos 'single' + mania 'madness'."
+		},
+		"core_concept": {
+			"en": "Exaggerated or obsessive enthusiasm for or preoccupation with one thing",
+			"ja": "世界を構成する無数の出来事の中から、ただ『一つのこと（single）』だけに全感覚を集中させ、それ以外を完全に切り捨ててしまう『偏った狂気』。針の先のような鋭い執着"
+		},
+		"thinking_layer": "『ただ一つのことへの狂気』。モノ（Mono）やマニア（Mania）と同根。日常生活は一見「普通」にこなせるのに、ある特定の話題や対象に触れた瞬間、理性のタガが外れ、怪物的なエネルギーが噴出する状態。それは一人の愛する人への病的な執着、あるいは、一生をかけてたった一つの「数式」を解こうとする学者の、神聖で呪わしい偏執。",
+		"aftertaste": "自分の全人生を「復讐」というたった一つの目的のために捧げ、それ以外の喜びも痛みも一切感じなくなった男の、あの冷たくて明るい瞳の輝き。あるいは、ある一つのコレクション（例えば切手や知識）を埋めることに、自分の魂のすべてを賭けてしまう時の、あの空虚で、しかし充実した、暗い喜び。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "men-",
+					"meaning": "to stand (forming monos?)"
+				},
+				{
+					"term": "men-",
+					"meaning": "to think (forming mania)"
+				}
+			],
+			"points": [
+				"monopoly, manic, memory, mind 同根。",
+				"『一つのこと（mono-）』を『考え続ける（mania）』ことは、世界の豊かな複雑性を拒絶し、自分自身を一つの『点』へと圧縮してゆく、死への漸近線である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "megalomania",
+		"word": "Megalomania",
+		"part_of_speech": "noun",
+		"meaning": "誇大妄想、権勢欲、自分を過大評価する狂気",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "megalo-",
+					"type": "prefix",
+					"meaning": "great, large (巨大な)",
+					"lang": "Greek"
+				},
+				{
+					"text": "mania",
+					"type": "root",
+					"meaning": "madness (狂気)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek megalo- 'great' + mania 'madness'."
+		},
+		"core_concept": {
+			"en": "Obsession with the exercise of power, especially in the domination of others; a condition or mental illness that causes a person to believe that they are very important or powerful",
+			"ja": "自分がこの宇宙の王であり、あらゆるものを支配できるという『巨大な（great）』自己像への『狂信的（mania）』な陶酔。自らの微弱な実存を、肥大した幻想で塗りつぶす、哀れでまばゆい誇大妄想"
+		},
+		"thinking_layer": "『巨大であることへの狂気』。メガ（Mega/巨大な）やマニアと同根。現実の自分の力不足を認めることができず、精神が「神」の座へと無理やり駆け上がってしまう状態。独裁者、あるいはインターネットの海で万能感を振りかざす無名の影。それは、あまりにも壊れやすい自尊心を守るために、世界全体を一対の「鏡」に変えてしまう、究極の自己愛。 ",
+		"aftertaste": "自分が命じれば山が動き、川が逆流すると本気で信じている狂王の、あの一点も曇りのない、それゆえに最も恐ろしい無邪気な笑顔。あるいは、自分のちっぽけな功績を「歴史的な偉業」として語り続ける時の、喉を焼くような、嘘と真実の入り混じった甘美な熱狂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "meg-",
+					"meaning": "great"
+				},
+				{
+					"term": "men-",
+					"meaning": "to think (forming mania)"
+				}
+			],
+			"points": [
+				"magnitude, master, maniac, mind 同根。",
+				"『大きく（great）』見せようとする意志は、常に内側の『小ささ（smallness）』を隠蔽しようとする防衛から生まれる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hypochondria",
+		"word": "Hypochondria",
+		"part_of_speech": "noun",
+		"meaning": "心気症、健康への過度の不安、ヒポコンドリー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hypo-",
+					"type": "prefix",
+					"meaning": "under (下に)"
+				},
+				{
+					"text": "khondros",
+					"type": "root",
+					"meaning": "sternum, cartilage (胸骨、軟骨)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek hypokhondria, from hypo- 'under' + khondros 'cartilage/sternum'."
+		},
+		"core_concept": {
+			"en": "Abnormal anxiety about one's health, with an unwarranted fear that one has a serious disease",
+			"ja": "肋骨の『下にある（under）』軟骨付近、つまり肝臓や脾臓（ひぞう）などの内臓がある「みぞおち」の奥深くに、何らかの目に見えない病が潜んでいるのではないかと怯え続ける、執拗な不安。身体の声を深読みしすぎる、自意識の暴走"
+		},
+		"thinking_layer": "『あばら骨の下のこと』。ハイポ（Hypo/下の、不足した）と同根。古代では、この「みぞおち（hypochondrion）」付近が憂鬱や不安の発信源だと考えられていました。自分の身体が「裏切る」ことを誰よりも恐れ、一瞬の動悸や小さなシミを、絶望的な未来の予兆（Omens）として解釈し続ける、過剰に繊細な知性の苦しみ。",
+		"aftertaste": "どれだけ医師に「どこも悪くない」と言われても、自分の中にだけ確実に存在する「死の予感」を拭い去ることができない、あの誰とも分かち合えない底なしの孤独。あるいは、自分の健康（Health）に執着するあまり、今の「生」を楽しむことを完全に忘れてしまっている、あの本末転倒な日々の重苦しさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "upo-",
+					"meaning": "under"
+				},
+				{
+					"term": "ghrendo-",
+					"meaning": "rough, grit (forming khondros/grain/cartilage)"
+				}
+			],
+			"points": [
+				"hypodermic（皮下の）, hypone（ハイポ）, corn（穀物）と同根の説あり。",
+				"『身体（body）』の最も柔らかく、デリケートな場所（under the ribs）にこそ、人間の『死への恐怖（mortality）』が最も生々しく寄生している。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
