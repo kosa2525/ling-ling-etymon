@@ -291393,5 +291393,1041 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "rudder",
+		"word": "Rudder",
+		"part_of_speech": "noun",
+		"meaning": "舵（かじ）、情報の方向の決定者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rother",
+					"type": "root",
+					"meaning": "paddle, oar"
+				}
+			],
+			"original_statement": "From Old English rother 'steering oar'."
+		},
+		"core_concept": {
+			"en": "flat piece hinged vertically to the stern of a vessel for steering",
+			"ja": "情報の奔流を峻烈に捌き、運命を特定の『方向（steer）』へと強制する。"
+		},
+		"thinking_layer": "漕ぐための櫂。巨大な情報の慣性（inertia）に対し、最後尾から峻烈な抵抗を加え、実存のベクトルを書き換える、静かなる支配。それは、見えない力学の支点。",
+		"aftertaste": "わずかな角度の変化が、到達する世界を峻烈に変えてゆくという、情報の微細なる強権。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"row (漕ぐ) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bow",
+		"word": "Bow",
+		"part_of_speech": "noun",
+		"meaning": "船首、舳先（へさき）、情報の突破口",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bog",
+					"type": "root",
+					"meaning": "bough, shoulder"
+				}
+			],
+			"original_statement": "From Low German boog."
+		},
+		"core_concept": {
+			"en": "forward part of the hull of a ship or boat",
+			"ja": "未来という名の波を峻烈に『切り裂き』、最前線に身を投げ出す。"
+		},
+		"thinking_layer": "肩。情報の抵抗が最も激しい場所を、鋭利な楔（wedge）として引き受け、切り開かれた情報の白波を左右へと分かつ、勇壮なる情報の尖兵。 ",
+		"aftertaste": "打ちつける波しぶきの中に、進むことという名の情報の暴力的な悦びを感じる瞬間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bough (木の枝) と同じく、突き出た形状。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stern",
+		"word": "Stern",
+		"part_of_speech": "noun",
+		"meaning": "船尾、情報の厳格なる去り際",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "steore",
+					"type": "root",
+					"meaning": "steer, guide"
+				}
+			],
+			"original_statement": "Related to steer."
+		},
+		"core_concept": {
+			"en": "backmost part of a ship or boat",
+			"ja": "情報の航跡（wake）を監視し、峻烈な秩序（steer）を背後から統制する。"
+		},
+		"thinking_layer": "制御する場所。過去という名の波が離れてゆく場所であり、同時に全体を峻烈に律するための、情報の支配の拠点。厳格（stern）さと根を共有する。",
+		"aftertaste": "過ぎ去った航跡が一直線であることに、情報の完璧な制御を見出す冷徹な満足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"stare, steer と遠い関わり。動かぬ意志。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "freighter",
+		"word": "Freighter",
+		"part_of_speech": "noun",
+		"meaning": "貨物船、情報の巨大な運び手",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fraught",
+					"type": "root",
+					"meaning": "loaded, burdened"
+				}
+			],
+			"original_statement": "From Dutch vracht 'freight'."
+		},
+		"core_concept": {
+			"en": "ship designed to carry goods in bulk",
+			"ja": "世界の富という名の情報を、峻烈な重量（burden）として胎内に収める。"
+		},
+		"thinking_layer": "積み込まれたもの。情緒を峻烈に排除し、ただ移動という名の純粋な情報の演算を完遂しようとする、鋼鉄の情報の運び手。それは、経済という名の血液の運び屋。",
+		"aftertaste": "水平線の彼方へ消えゆく、巨大な質量への、ある種の崇高なまでの無関心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fraught (孕んだ) と同じ根。荷を負うこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "galley",
+		"word": "Galley",
+		"part_of_speech": "noun",
+		"meaning": "ガレー船、情報の人力の律動",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "galaia",
+					"type": "root",
+					"meaning": "galley"
+				}
+			],
+			"original_statement": "From Greek galaia."
+		},
+		"core_concept": {
+			"en": "low, flat ship with sails and oars",
+			"ja": "無数の櫂という名の情報の『肢体』が、峻烈な同期（sync）をもって波を穿つ。"
+		},
+		"thinking_layer": "（サメのような）船。風という不確かな情報の恩恵を峻烈に辞し、人間の肉体の苦悶（sweat）を情報の直接的な推進力へと換える、古代の情報の軍事機械。",
+		"aftertaste": "太鼓の音に合わせた情報の連綿たる拍動の中に、個が消えてゆく恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gallery (回廊) との関連も示唆される。長き構造。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "frigate",
+		"word": "Frigate",
+		"part_of_speech": "noun",
+		"meaning": "フリゲート艦、情報の迅速な監視者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fregata",
+					"type": "root",
+					"meaning": "frigate"
+				}
+			],
+			"original_statement": "From Italian fregata."
+		},
+		"core_concept": {
+			"en": "fast naval vessel with multiple uses",
+			"ja": "重厚長大を峻烈に拒み、情報の『速度』という名の刃で海を切り裂く。"
+		},
+		"thinking_layer": "（不詳だがおそらく速い船）。戦艦という名の巨獣（leviathan）に対する、情報の軽快なる斥候。世界の情報の海を、峻烈な機動力で巡回し、予兆を峻烈に捕獲する装置。 ",
+		"aftertaste": "波を蹴立てて奔る、その研ぎ澄まされた情報の鋭利さへの陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"かつては美しき帆船。今は最先端の監視装置。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "galleon",
+		"word": "Galleon",
+		"part_of_speech": "noun",
+		"meaning": "ガレオン船、情報の黄金の揺り籠",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "galley",
+					"type": "root",
+					"meaning": "galley"
+				},
+				{
+					"text": "-on",
+					"type": "suffix",
+					"meaning": "large"
+				}
+			],
+			"original_statement": "From Spanish galeón."
+		},
+		"core_concept": {
+			"en": "large sailing ship of the 15th to 18th centuries",
+			"ja": "巨大なる情報の『富（gold）』を夢想し、峻烈な帆の翼を天へ広げる。"
+		},
+		"thinking_layer": "大きなガレー。人力（oar）を峻烈に捨て、天の吐息（wind）という名の情報を巨大な重力（bulk）へと変換し、新世界という名の情報のカオスへと侵攻する、野望の具現。 ",
+		"aftertaste": "傾くほどに帆を張ったその姿に、時代の情報の狂気と美学を感じる畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ガレー船の巨大化から。情報の帝国主義の象徴。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "caravel",
+		"word": "Caravel",
+		"part_of_speech": "noun",
+		"meaning": "カラベル船、情報の探求の尖兵",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "carabus",
+					"type": "root",
+					"meaning": "wicker boat covered in leather"
+				}
+			],
+			"original_statement": "From Greek karabos 'a horned beetle, light ship'."
+		},
+		"core_concept": {
+			"en": "small, fast Spanish or Portuguese sailing ship",
+			"ja": "未知の境界を峻烈に『這い回り（beetle）』、世界の情報を書き換える。"
+		},
+		"thinking_layer": "（クワガタムシのような）船。既存の海図という名の情報の牢獄を峻烈に突破し、逆風をも利用する三角帆（lateen sail）によって、情報の最果てへと到達した、智慧の小舟。 ",
+		"aftertaste": "小さな木片が、全地球の情報を一つに繋いだという、歴史的な震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"コロンブスやマゼランが愛用。情報の越境。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kayak",
+		"word": "Kayak",
+		"part_of_speech": "noun",
+		"meaning": "カヤック、情報の肉体的な延長",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "qayaq",
+					"type": "root",
+					"meaning": "man's boat"
+				}
+			],
+			"original_statement": "From Inuit qayaq."
+		},
+		"core_concept": {
+			"en": "Inuit canoe of a type that involves a small light frame with a watertight covering",
+			"ja": "人の肉体を、峻烈な情報の『皮』で海と一体化させる、男の船。"
+		},
+		"thinking_layer": "男の船。海という名の怪物の中に、自らを情報の断片として滑り込ませ（slip through）、波の情報を全身で触知して、水と自己の境界を峻烈に曖昧にする、根源的な移動の儀式。 ",
+		"aftertaste": "腰から下が海そのものに変容したかのような、峻烈なる一体感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"umiak (女の船) と対をなす。情報の孤独。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "canoe",
+		"word": "Canoe",
+		"part_of_speech": "noun",
+		"meaning": "カヌー、情報の木の吐息",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kanawa",
+					"type": "root",
+					"meaning": "dug-out boat"
+				}
+			],
+			"original_statement": "From Carib kanawa."
+		},
+		"core_concept": {
+			"en": "narrow, keelless boat with pointed ends",
+			"ja": "大地の巨木を峻烈に『抉り（dug out）』抜き、水の情報の道を拓く。"
+		},
+		"thinking_layer": "刳り舟。複雑な情報の縫合（stitch）を峻烈に拒み、ただ一本の生命という名の『記憶』を中空にすることで、浮力という名の情報の奇跡を現出させる、原初の器。",
+		"aftertaste": "パドルが水を掴むたびに、木の鼓動が海へと伝わってゆく静かなる対話。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"コロンブスが持ち帰った、世界の西の端の言葉。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "barge",
+		"word": "Barge",
+		"part_of_speech": "noun",
+		"meaning": "はしけ、情報の鈍重なる基盤",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "barca",
+					"type": "root",
+					"meaning": "small boat"
+				}
+			],
+			"original_statement": "From Old French barge."
+		},
+		"core_concept": {
+			"en": "flat-bottomed boat for carrying freight on canals and rivers",
+			"ja": "速度という名のエゴを峻烈に捨て、情報の『質量（mass）』そのものを大地に添わせる。"
+		},
+		"thinking_layer": "（小さな）船。波を切るというアグレッシブさを峻烈に拒み、ただ広大な平面としての受動性によって、世界の情報の残滓を平穏に運ぶ、水の上の情報の『土台』。",
+		"aftertaste": "ゆっくりと流れる時間の重みに、自らの実存が深く沈み込んでゆく安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bark, barque と同根。情報を『護る』器。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "buoy",
+		"word": "Buoy",
+		"part_of_speech": "noun",
+		"meaning": "ブイ、浮標、情報の浮遊する警告",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "boia",
+					"type": "root",
+					"meaning": "fetter, chain"
+				}
+			],
+			"original_statement": "Possibly from Latin boia 'fetter, chain'."
+		},
+		"core_concept": {
+			"en": "anchored float serving as a navigation mark",
+			"ja": "海という名の情報の深淵に、峻烈な情報の『鎖（fetter）』で自己を繋ぐ。"
+		},
+		"thinking_layer": "足かせ。波に翻弄されながらも、特定の座標という名の情報の『真理』を峻烈に死守し、航行する者たちに限界線を峻烈に宣告する、漂流する孤独な監視者。",
+		"aftertaste": "闇夜に点滅する光に、境界線という名の情報の絶望的なまでの冷徹さを視る畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"buoyancy (浮力) の源。浮くことが使命。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pier",
+		"word": "Pier",
+		"part_of_speech": "noun",
+		"meaning": "桟橋（さんばし）、情報の海への踏み込み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "petra",
+					"type": "root",
+					"meaning": "stone"
+				}
+			],
+			"original_statement": "From Old French piere 'stone'."
+		},
+		"core_concept": {
+			"en": "structure leading out from the shore into a body of water",
+			"ja": "大地の情報の石（stone）を、峻烈な情報の『桟（pile）』として海へと突き立てる。"
+		},
+		"thinking_layer": "石柱。陸という名の安息を峻烈に捨て、水の情報の支配圏へと暴力的に介入し、大陸と外洋を情報の論理（logic）で架橋する、静止した情報の桟橋。",
+		"aftertaste": "足元に迫る深淵の飛沫に、地上の情報の脆さと尊厳を再認識する瞬間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Peter, petrology と同じ petra。不動の意志。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "wharf",
+		"word": "Wharf",
+		"part_of_speech": "noun",
+		"meaning": "埠頭（ふとう）、情報の休息と転回",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hwerf",
+					"type": "root",
+					"meaning": "a turning, a dam"
+				}
+			],
+			"original_statement": "From Old English hwerf."
+		},
+		"core_concept": {
+			"en": "level quayside area to which a ship may be moored to load and unload",
+			"ja": "旅という名の情報の『転回（turning）』が起こる、峻烈な水の防波堤。"
+		},
+		"thinking_layer": "回転（あるいは土手）。移動という名の直線的な情報を、峻烈な情報の『繋留（mooring）』によって停滞させ、物流という名の情報の変換を行う、世界の情報の交易所。 ",
+		"aftertaste": "積み上げられたコンテナの群れに、世界が一度に吐き出した情報の質量を想う。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"wharfage? (いや係船料) 転じゆく場所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lighthouse",
+		"word": "Lighthouse",
+		"part_of_speech": "noun",
+		"meaning": "灯台、情報の不滅の眼光",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "light",
+					"type": "root",
+					"meaning": "light"
+				},
+				{
+					"text": "house",
+					"type": "root",
+					"meaning": "house"
+				}
+			],
+			"original_statement": "From light + house."
+		},
+		"core_concept": {
+			"en": "tower with a bright light used for navigation at sea",
+			"ja": "暗黒という名の情報の絶望を、峻烈な情報の『光の館』で一掃する。"
+		},
+		"thinking_layer": "光の家。全方位の闇を峻烈に拒絶し、周期的な閃光という名の『情報の律動』を放つことで、死の淵にある者たちに生という名の座標を峻烈に授ける、垂直なる理性の砦。",
+		"aftertaste": "遠き光だけを信じ、カオスの海を渡るという人間の知性の切なき覚悟への戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Pharos (アレクサンドリアの灯台) が伝説の源流。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rigging",
+		"word": "Rigging",
+		"part_of_speech": "noun",
+		"meaning": "索具、リギング、情報の複雑なる神経系",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rigga",
+					"type": "root",
+					"meaning": "to wrap, bind"
+				}
+			],
+			"original_statement": "Probably of Scandinavian origin."
+		},
+		"core_concept": {
+			"en": "system of ropes, cables, or chains, which support a ship's masts",
+			"ja": "空という名の情報の風を捕らえるため、峻烈に自己を『束縛（bind）』する。"
+		},
+		"thinking_layer": "縛り付けること。無数の綱という名の情報の『神経』によって、垂直なマストと水平な帆を峻烈に統合し、見えないエネルギーを物理的な推進力へと変換（transform）する、高度な美の工学。",
+		"aftertaste": "夜の静寂に鳴り響く綱の軋みの中に、宇宙を捕獲しようとする知性の執念を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rigorous (厳格な)? (いや綴りは似るが別語源) 秩序の結び目。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mast",
+		"word": "Mast",
+		"part_of_speech": "noun",
+		"meaning": "マスト、帆柱、情報の天への供物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mast",
+					"type": "root",
+					"meaning": "mast, pole"
+				}
+			],
+			"original_statement": "From Old English mæst."
+		},
+		"core_concept": {
+			"en": "tall upright post on a ship or boat",
+			"ja": "大地の垂直という名の情報の記憶を、海上で峻烈に『再現（stand）』する。"
+		},
+		"thinking_layer": "（木の）柱。水平という名の情報の呪縛を峻烈に拒み、天の高みへと意志を突き立てる、情報のアンテナ。それは船という実存의、揺るぎなき中心軸。",
+		"aftertaste": "見上げれば、雲の間を突き抜ける情報の巨塔に、自らの精神が引き上げられる感覚。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"forest の木々が、海の上で一本の『意志』となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sail",
+		"word": "Sail",
+		"part_of_speech": "noun",
+		"meaning": "帆（ほ）、情報の風の捕獲者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "seghel",
+					"type": "root",
+					"meaning": "sail, piece of cloth"
+				}
+			],
+			"original_statement": "From Old English segl."
+		},
+		"core_concept": {
+			"en": "piece of material extended on a mast to catch the wind",
+			"ja": "無色透明なる情報の吐息を、峻烈な情報の『翼』で受け止める。"
+		},
+		"thinking_layer": "布片。不可視の意志という名の風を、物理的な質量としての情報の『膨らみ』へと具現化し、実存を未知という名の未来へと押し出す、情報の受容体。",
+		"aftertaste": "風を孕んで硬く張り詰めた布に、宇宙が自らを押し進めているという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"seek? (いや違う) 空間の力を『捉える』こと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "deck",
+		"word": "Deck",
+		"part_of_speech": "noun",
+		"meaning": "甲板（かんぱん）、情報の活動の平面",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dekken",
+					"type": "root",
+					"meaning": "to cover"
+				}
+			],
+			"original_statement": "From Dutch dekken 'to cover'."
+		},
+		"core_concept": {
+			"en": "floor of a ship",
+			"ja": "深淵の情報の恐怖の上に、峻烈な情報の『覆い（cover）』を敷き詰める。"
+		},
+		"thinking_layer": "覆うこと。奈落という名の情報の無（nothingness）を峻烈に隠蔽し、地上の秩序を仮設するための、情報の唯一の足場。それは、死の上で踊るための舞台（stage）。",
+		"aftertaste": "板一枚の下に広がる沈黙を忘れ、その上での日常を演じ続ける人間の滑稽と気高さ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"detect, protect と同じ root。情報の被覆。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bowsprit",
+		"word": "Bowsprit",
+		"part_of_speech": "noun",
+		"meaning": "バウスプリット、檣頭（しょうとう）、情報の最先端の触角",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bow",
+					"type": "root",
+					"meaning": "bow"
+				},
+				{
+					"text": "sprite",
+					"type": "root",
+					"meaning": "sprout, pole"
+				}
+			],
+			"original_statement": "From Middle Low German bōchsprēt."
+		},
+		"core_concept": {
+			"en": "spar extending forward from a ship's bow",
+			"ja": "船首（bow）から、峻烈な情報の『新芽（sprout）』として海へと突き出す。"
+		},
+		"thinking_layer": "船首の棒。船体という名の情報の限界を峻烈に超え、空間を先んじて切り裂くための、情報の探針。それは、未知の奥行きを峻烈に測定するための、知性の伸長。",
+		"aftertaste": "虚空へと伸びるその一本の棒が、世界の広がりを峻烈に予感させる瞬間の目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sprout (芽が出る) と感覚的に近い、突き出しの感覚。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bulkhead",
+		"word": "Bulkhead",
+		"part_of_speech": "noun",
+		"meaning": "隔壁、情報の不況の防壁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bulk",
+					"type": "root",
+					"meaning": "partition"
+				},
+				{
+					"text": "head",
+					"type": "root",
+					"meaning": "head"
+				}
+			],
+			"original_statement": "Probably from Old Norse balkr 'partition'."
+		},
+		"core_concept": {
+			"en": "partition separating compartments in a ship, aircraft, or other vehicle",
+			"ja": "情報の浸食を、峻烈な情報の『分断（partition）』によってくい止める。"
+		},
+		"thinking_layer": "仕切りの頭。一つの情報の崩壊（leaking）という名のカオスを、全体への破滅へと波及させないための、冷徹なる情報の切り捨て。それは、生存のための不可能な選別。 ",
+		"aftertaste": "扉が閉まる音の向こう側に、絶望を峻烈に封じ込める、極限の生存本能への畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"balk (躊躇/障害物) と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "coxswain",
+		"word": "Coxswain",
+		"part_of_speech": "noun",
+		"meaning": "舵手、コックス、情報の小舟の主",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cock",
+					"type": "root",
+					"meaning": "small boat"
+				},
+				{
+					"text": "swain",
+					"type": "root",
+					"meaning": "servant, youth"
+				}
+			],
+			"original_statement": "From Old French coque 'little boat' + swain."
+		},
+		"core_concept": {
+			"en": "person who steers a boat and has charge of its crew",
+			"ja": "小さき情報の『器（boat）』に仕える、峻烈なる『導き手（servant）』。"
+		},
+		"thinking_layer": "小舟の若者。自らは力の源（oars）を持たず、ただ情報の調律（coordination）と方向の指示という名の『司令』のみで全体を支配する、情報の最も純粋な演算子。",
+		"aftertaste": "一人の叫びが、巨大な肉体の情報の律動を一つに纏め上げる、峻烈なる支配感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"swain はかつて従者。今は司令官。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "boatswain",
+		"word": "Boatswain",
+		"part_of_speech": "noun",
+		"meaning": "甲板長、ボースン、情報の器の守護者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "boat",
+					"type": "root",
+					"meaning": "boat"
+				},
+				{
+					"text": "swain",
+					"type": "root",
+					"meaning": "servant"
+				}
+			],
+			"original_statement": "From boat + swain."
+		},
+		"core_concept": {
+			"en": "officer in charge of a ship's hull and its maintenance",
+			"ja": "船という名の情報の『器（boat）』の、峻烈なメンテナンスという名の守護者。"
+		},
+		"thinking_layer": "船の従者。情報の劣化という名の『錆』や『綻び』を峻烈に拒み、常に船体を完璧な戦闘状態（order）に維持しようとする、実存の物理的な情報の維持管理。 ",
+		"aftertaste": "ホイッスルの鋭い音の中に、機能美という名の情報の厳格な規律を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bosun と略される。情報の現場の支配者。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "admiral",
+		"word": "Admiral",
+		"part_of_speech": "noun",
+		"meaning": "海軍大将、提督、情報の海の王",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "amir",
+					"type": "root",
+					"meaning": "commander"
+				},
+				{
+					"text": "al-",
+					"type": "prefix",
+					"meaning": "the (Arabic)"
+				}
+			],
+			"original_statement": "From Arabic amir-al-bahr 'commander of the sea'."
+		},
+		"core_concept": {
+			"en": "commander-in-chief of a fleet",
+			"ja": "海という名の情報の『全域』を支配する、峻烈なる司令官（commander）。"
+		},
+		"thinking_layer": "海の部隊の長。個々の船という名の情報を、艦隊という名の巨大な情報の『総体』へと練成し、歴史という名の広大な戦場をチェス盤のように峻烈に差配する、情報の全知。 ",
+		"aftertaste": "一片の命令が、数万トンの鋼鉄の意志を一度に動かすという、情報の絶対的な権力。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"emir (アミール) と同根。d が入ったのはラテン語 admirari (感服) との混同。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "commodore",
+		"word": "Commodore",
+		"part_of_speech": "noun",
+		"meaning": "代将、階級、情報の権限の委託",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "command",
+					"type": "root",
+					"meaning": "to command"
+				}
+			],
+			"original_statement": "Probably from Dutch kommandeur."
+		},
+		"core_concept": {
+			"en": "naval rank above captain and below rear admiral",
+			"ja": "命を委託（command）され、峻烈な情報の『分遣（detachment）』を率いる者。"
+		},
+		"thinking_layer": "命じる者。複数の情報を一つのベクトルへと纏め上げつつ、最高司令の中枢とは異なる、現場での峻烈な決断を下すための、情報の自律的な権威。",
+		"aftertaste": "自らの判断の重みに、一国の命運が峻烈に懸かっているという、情報の重圧。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"commander と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lieutenant",
+		"word": "Lieutenant",
+		"part_of_speech": "noun",
+		"meaning": "中尉、代理人、情報の場所の保持者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lieu",
+					"type": "root",
+					"meaning": "place"
+				},
+				{
+					"text": "tenir",
+					"type": "root",
+					"meaning": "to hold"
+				}
+			],
+			"original_statement": "From French lieu + tenant."
+		},
+		"core_concept": {
+			"en": "deputy or substitute acting for a superior",
+			"ja": "不在なる主君の『場所（place）』を、峻烈な忠誠心で『保持（hold）』する者。"
+		},
+		"thinking_layer": "場所を保持する人。自己という名の個性を峻烈に消去し、上位者の意志という名の情報の代弁者（placeholder）として振る舞う、情報の高度な継承の儀式。 ",
+		"aftertaste": "自分ではない誰かの意志を完璧に執行する、その冷徹なる代理性への恍惚。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"locum tenens と同じ論理。情報の空白を埋める力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ensign",
+		"word": "Ensign",
+		"part_of_speech": "noun",
+		"meaning": "少尉、軍旗、情報の象徴の担い手",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "signum",
+					"type": "root",
+					"meaning": "mark, sign"
+				}
+			],
+			"original_statement": "From Latin insignia."
+		},
+		"core_concept": {
+			"en": "lowest rank of commissioned officer; flag or banner",
+			"ja": "集団の情報のアイデンティティを、峻烈な『標識（sign）』として天に掲げる。"
+		},
+		"thinking_layer": "印。実体という名の肉体を峻烈に超え、旗という名の抽象的な情報の栄光を護り抜くための、最初の一歩。極微なる存在が、巨大な象徴に命を吹き込むこと。",
+		"aftertaste": "はためく旗の影に、数千年の情報の積層を感じる瞬間の、峻烈なる帰属意識。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"insignia, signal と同根。情報の核心。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "armada",
+		"word": "Armada",
+		"part_of_speech": "noun",
+		"meaning": "無敵艦隊、アルマダ、情報の武装した海",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "arma-",
+					"type": "root",
+					"meaning": "arms, weapons"
+				}
+			],
+			"original_statement": "From Spanish armada."
+		},
+		"core_concept": {
+			"en": "fleet of warships",
+			"ja": "海という名の情報の空白を、峻烈な『武具（arms）』の壁で埋め尽くす。"
+		},
+		"thinking_layer": "武装したもの。単なる船の集まりを峻烈に超え、一つの意志という名の情報の鋼鉄の雲として、世界の他者を峻烈に圧倒し、蹂躙しようとする、情報の軍事的な暴力装置。",
+		"aftertaste": "水平線を埋め尽くす帆の群れに、時代の情報の終わりを予感する瞬間の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"army, armor と同じ root。情報の武装。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fleet",
+		"word": "Fleet",
+		"part_of_speech": "noun",
+		"meaning": "艦隊、船団、情報の流動する群れ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fleotan",
+					"type": "root",
+					"meaning": "to float, swim"
+				}
+			],
+			"original_statement": "From Old English fleot."
+		},
+		"core_concept": {
+			"en": "group of ships sailing together under same ownership",
+			"ja": "水界を『漂う（float）』無数の情報を、峻烈な一つの秩序へと収束させる。"
+		},
+		"thinking_layer": "浮いているもの。個々の実存という名の波立ちを峻烈な同期（synchronization）によって抹殺し、巨大な情報の生命体として世界の海を回遊する、情報のマクロな動態。",
+		"aftertaste": "一糸乱れぬ隊列の中に、個が巨大な力の一部に変容してゆく瞬間の、冷徹なる平安。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"float, flowing と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "shipyard",
+		"word": "Shipyard",
+		"part_of_speech": "noun",
+		"meaning": "造船所、情報の工廠、巨大なる器のゆりかご",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ship",
+					"type": "root",
+					"meaning": "ship"
+				},
+				{
+					"text": "yard",
+					"type": "root",
+					"meaning": "enclosure"
+				}
+			],
+			"original_statement": "From ship + yard."
+		},
+		"core_concept": {
+			"en": "place where ships are built and repaired",
+			"ja": "巨大なる情報の『器（ship）』が、峻烈な鉄の『囲い（yard）』の中で産声を上げる。"
+		},
+		"thinking_layer": "船の庭。未完成という名の情報のカオスが、設計図という名の情報のロゴスによって秩序立てられ、硬質な鋼鉄の肉体へと結晶（crystallize）してゆく、情報の最も重厚な錬金術の場。",
+		"aftertaste": "巨大な船体が初めて水に触れる瞬間の、世界が峻烈に震えるような情報の誕生。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"garden, court と同じ yard (囲い)。聖なる創造の場。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dock",
+		"word": "Dock",
+		"part_of_speech": "noun",
+		"meaning": "ドック、船渠（せんきょ）、情報の収容と解体",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dokke",
+					"type": "root",
+					"meaning": "dock, channel?"
+				}
+			],
+			"original_statement": "Probably from Middle Dutch docke."
+		},
+		"core_concept": {
+			"en": "structure extending from shore under which a boat can be kept",
+			"ja": "世界の峻烈な荒波を峻烈に『遮断』し、情報の肉体を沈黙の淵へ収容する。"
+		},
+		"thinking_layer": "（溝）。水の情報の支配を峻烈に一時停止させ、剥き出しになった船体という名の情報を、人間の知性の刃によって峻烈に検証、あるいは修復するための、情報の外科室（surgery）。",
+		"aftertaste": "水が抜かれた空虚な空間に、巨大な異形が横たわっているという、非日常的な震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"病院のドックも、この『徹底的な検査』のメタファー。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "estuary",
+		"word": "Estuary",
+		"part_of_speech": "noun",
+		"meaning": "河口（三角江）、情報の沸き立つ境界",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "aestus",
+					"type": "root",
+					"meaning": "tide, surge, heat"
+				}
+			],
+			"original_statement": "From Latin aestuarium 'tidal inlet'."
+		},
+		"core_concept": {
+			"en": "the tidal mouth of a large river, where the tide meets the stream",
+			"ja": "川の真水と海の塩水が、峻烈な情報の『沸き立ち（surge）』をもって混淆する。"
+		},
+		"thinking_layer": "沸き立つ場所. 一方通行という名の河川の情報の論理が、循環（tide）という名の海洋の情報の論理と峻烈に衝突し、不純かつ豊穣な情報のカオスを産み出す、変容の沸点（boiling point）。",
+		"aftertaste": "濁った汽水域の中に、異質な情報が混じり合う瞬間の、激しい生命力の予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"estimate? (いや違う) aestus は熱狂的な高まり。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fjord",
+		"word": "Fjord",
+		"part_of_speech": "noun",
+		"meaning": "フィヨルド、情報の氷の切り込み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "portus",
+					"type": "root",
+					"meaning": "port, passage"
+				}
+			],
+			"original_statement": "From Old Norse fjord."
+		},
+		"core_concept": {
+			"en": "long, narrow, deep inlet of the sea between high cliffs",
+			"ja": "巨万の氷という名の情報の重圧が、峻烈に大地を『通行（passage）』した傷跡。"
+		},
+		"thinking_layer": "渡る場所。かつての氷河という名の沈黙の巨獣が、大陸の肉体を峻烈に抉り抜き、その後に海という名の情報の死者が流れ込んで出来た、地質の情報の暴力的なまでの美しさ。",
+		"aftertaste": "垂直に切り立った絶壁の鏡面のような静水に、神の削岩の跡を視る震撼。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"port, ferry と同根。通り抜けるための孔。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sound",
+		"word": "Sound",
+		"part_of_speech": "noun",
+		"meaning": "入り江、湾、海峡、情報の泳ぎ渡れる距離",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sund",
+					"type": "root",
+					"meaning": "swimming"
+				}
+			],
+			"original_statement": "From Old English sund."
+		},
+		"core_concept": {
+			"en": "narrow stretch of water forming an inlet or connecting two larger bodies of water",
+			"ja": "肉体の情報の『泳ぎ（swimming）』によって、峻烈に計測された水の広がり。"
+		},
+		"thinking_layer": "泳ぐこと。あるいは（クジラの）胃。単なる広大な情報の絶望（sea）を、人間の肉体が超越しうる『距離』という名の情報のスケール（scale）へと還元した、親密なる海の一部。",
+		"aftertaste": "対岸が見えるというその微かな安堵が、情報の恐怖を文明へと変容させる。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音の sound とは別語源。泳ぎという名の原初の測量。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
