@@ -252385,5 +252385,164 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "ochlocracy",
+		"word": "Ochlocracy",
+		"part_of_speech": "noun",
+		"meaning": "衆愚政治、暴民政治",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "okhlos",
+					"type": "root",
+					"meaning": "mob, crowd (暴徒、群衆)",
+					"lang": "Greek"
+				},
+				{
+					"text": "kratos",
+					"type": "root",
+					"meaning": "rule (支配)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek okhlokratia, from okhlos 'mob' + kratos 'rule'."
+		},
+		"core_concept": {
+			"en": "Government by a mob; mob rule",
+			"ja": "理性を持った市民ではなく、一時の感情で動く『群衆（mob）』が、怒りや欲望に任せて世界を『暴力的に動かす（rule）』、最も不確実で混沌とした支配形態"
+		},
+		"thinking_layer": "『暴徒の支配』。デモクラシー（Democracy）の腐敗した姿。一人の英雄でも、一冊の法律でもなく、「空気」と「叫び声」がすべてを決める。正しい者が石を投げられ、声の大きい者が王になる。それは知性の死が招く、最悪の祝祭。",
+		"aftertaste": "広場を埋め尽くす、燃え盛る松明と怒号の渦。あるいは、SNSの海で無数の正義が一人を袋叩きにする、あの乾いた熱狂。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wegh-",
+					"meaning": "to move, carry, drive (like a wagon/mass)"
+				}
+			],
+			"points": [
+				"wagon, way, vehicle, convex（共に運ばれる）と同根の説あり。",
+				"『押し寄せる大衆（mass in motion）』という巨大な慣性そのものが、理性を押し潰す『権力』となる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bourgeoisie",
+		"word": "Bourgeoisie",
+		"part_of_speech": "noun",
+		"meaning": "ブルジョアジー、中産階級、有産階級",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bourg",
+					"type": "root",
+					"meaning": "town, castle (町、城塞)",
+					"lang": "French/Germanic"
+				}
+			],
+			"original_statement": "From Old French burgeis 'town-dweller'."
+		},
+		"core_concept": {
+			"en": "The middle class, typically with reference to its perceived materialistic values or conventional attitudes",
+			"ja": "城壁に囲まれた自律的な『町（town）』に住み、商業や財産によって自立した権利を獲得した階級。安定と快適さを求め、秩序を重んじる生活者の層"
+		},
+		"thinking_layer": "『町の人々』。バーグ（-burg, -bury）やバー（Borough）と同根。封建社会の中で、農民でも貴族でもない「第三の勢力」として誕生しました。彼らは自由をもたらしましたが、同時に「常識」という名の新しい束縛と、物質的な豊かさへの強い執着を象徴するようになりました。",
+		"aftertaste": "日曜の午後の、完璧に手入れされた庭でのティータイム。あるいは、正しく、美しく、しかしどこか退屈な「市民の義務」の平穏。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhergh-",
+					"meaning": "to hide, protect, high"
+				},
+				{
+					"term": "burg-",
+					"meaning": "fortified place"
+				}
+			],
+			"points": [
+				"fort, iceberg（氷の山）, burglar（城を荒らす者）と同根。",
+				"『城壁の中に隠れる（protect）』ことが、富を蓄積し、階級（class）を作るための最初のステップであった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "proletariat",
+		"word": "Proletariat",
+		"part_of_speech": "noun",
+		"meaning": "プロレタリアート、労働者階級",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "proles",
+					"type": "root",
+					"meaning": "offspring, children (子供、子孫)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin proletarius 'belonging to the lowest class', from proles 'offspring'."
+		},
+		"core_concept": {
+			"en": "Workers or working-class people, regarded collectively",
+			"ja": "財産も地位も持たず、ただ一つだけ国に提供できるものとして『子孫（offspring）』を産み育てることしか許されなかった、社会の最も底辺を支える、しかし最強の母体となる階級"
+		},
+		"thinking_layer": "『子供を生む者』。プロリフィック（Prolific/多産の）と同根。古代ローマでは、兵役や納税の義務を果たせない最貧困層を「子供を増やす人」と皮肉混じりに呼びました。彼らは何も持たないが、ゆえに連帯し、歴史を根底から覆す「数」の力を秘めています。",
+		"aftertaste": "早朝の駅に吸い込まれてゆく、色のない服を着た人々の波。あるいは、その波が一つになった時に引き起こされる、大地を揺るがす地鳴り。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "al-",
+					"meaning": "to grow, nourish"
+				}
+			],
+			"points": [
+				"adult, adolescent, alumni, coalise（共に成長する）と同根。",
+				"『成長（growth）』そのものが唯一の『価値』となる過酷な生命の基底層。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stratification",
+		"word": "Stratification",
+		"part_of_speech": "noun",
+		"meaning": "階層化、層、層序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stratus",
+					"type": "root",
+					"meaning": "layer, spread out (広げられたもの、層)",
+					"lang": "Latin"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make (作る)"
+				}
+			],
+			"original_statement": "From Latin stratus 'strewn' + -ficare 'make'."
+		},
+		"core_concept": {
+			"en": "The arrangement or classification of something into different groups; the formation of strata in rock",
+			"ja": "元々は平らだった大地が、時間の重層によって幾重もの『層（layer）』を『作り出す（make）』ように、社会や人間関係が決定的な上下の境界線によって分断されてゆくプロセス"
+		},
+		"thinking_layer": "『層を作ること』。ストリート（Street/広げられた道）やストラトス（Stratus/層雲）と同根。地質学の用語から社会学へ。一度「層（クラス）」が固まってしまうと、その境界を越えることは、地層を突き破る火山活動のような痛みを伴うエネルギーが必要になります。",
+		"aftertaste": "断崖絶壁に刻まれた、気が遠くなるほどの歳月の横筋。あるいは、一目見ただけで相手の「立ち位置」を推し量ってしまう、私たちの冷徹な社会的嗅覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stere-",
+					"meaning": "to spread"
+				}
+			],
+			"points": [
+				"street, structure, construct, strategy 同根。",
+				"『広げる（spread）』ことが、同時に『積み重ねる（layer）』ことになり、やがて『構造（structure）』を形成する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
