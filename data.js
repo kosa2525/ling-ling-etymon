@@ -251515,5 +251515,407 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "stratagem",
+		"word": "Stratagem",
+		"part_of_speech": "noun",
+		"meaning": "戦略、計略、策略",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stratos",
+					"type": "root",
+					"meaning": "army (軍、軍隊)",
+					"lang": "Greek"
+				},
+				{
+					"text": "agein",
+					"type": "root",
+					"meaning": "to lead (導く)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek stratēgēma, from stratēgos 'general', from stratos 'army' + agein 'lead'."
+		},
+		"core_concept": {
+			"en": "A plan or scheme, especially one used to outwit an opponent or achieve an objective",
+			"ja": "巨大な『軍（army）』を、勝利という目的地へ向けて『導く（lead）』ための、全体を貫く壮大な知能の地図。相手の裏をかく芸術的な嘘"
+		},
+		"thinking_layer": "『軍を導くこと』。ストラテジー（Strategy）が「長期的計画」なら、ストラタジェムはより「具体的な、だましを含む戦術」。目の前の敵を翻弄し、最小の力で最大の混乱を引き起こす。それは知性が「武力」を凌駕する瞬間の美学です。",
+		"aftertaste": "誰もいないはずの場所に、不意に旗が現れた時の戦慄。あるいは、完璧なハメ手に嵌まったことに気づいた瞬間の、苦い納得。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "stere-",
+					"meaning": "to spread (army)"
+				},
+				{
+					"term": "ag-",
+					"meaning": "to drive, lead"
+				}
+			],
+			"points": [
+				"street（広げられた道）, agent, pedagogy（子供を導く＝教育）と同根。",
+				"『広がる（spread）』力と『導く（lead）』知性が合流する場所。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "stalemate",
+		"word": "Stalemate",
+		"part_of_speech": "noun/verb",
+		"meaning": "詰み（チェス）、膠着状態、行き詰まり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "estale",
+					"type": "root",
+					"meaning": "fixed, stationary (静止した)",
+					"lang": "Old French"
+				},
+				{
+					"text": "mate",
+					"type": "root",
+					"meaning": "dead (死んだ)",
+					"lang": "Persian"
+				}
+			],
+			"original_statement": "From stale 'stationary' + mate 'checkmate'."
+		},
+		"core_concept": {
+			"en": "A situation in which further action or progress by opposing or competing parties seems impossible",
+			"ja": "攻撃もできず、かといって敗北もしていない。すべての『動きが止まった（fixed）』まま、実質的な『死（dead）』＝ゲーム終了を待つしかない、奇妙で不毛な静止"
+		},
+		"thinking_layer": "『静止したチェックメイト』。チェックメイト（王の死）に至らないまま、王がどこにも動けなくなる。それは誰も勝者がいない悲劇。対話が途絶え、どちらも一歩も譲れないまま、時間だけが虚しく過ぎていく現代社会の縮図でもあります。",
+		"aftertaste": "物音一つしないチェス盤の上に漂う、凍りついた熱狂。あるいは、解決策のない議論の後の、乾ききった喉。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"status, stability, checkmate（王は死んだ）と同根。",
+				"『正しい場所に立つ（stand）』ことができなくなった時、ゲームは意味を失う。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "skirmish",
+		"word": "Skirmish",
+		"part_of_speech": "noun/verb",
+		"meaning": "小競り合い、前哨戦、小規模な戦い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scaramuccia",
+					"type": "root",
+					"meaning": "skirmish, military dispute",
+					"lang": "Italian"
+				},
+				{
+					"text": "skirmjan",
+					"type": "root",
+					"meaning": "to protect, defend (守る)",
+					"lang": "Germanic"
+				}
+			],
+			"original_statement": "From Old French escarmouche, from Italian scaramuccia."
+		},
+		"core_concept": {
+			"en": "An episode of irregular or unpremeditated fighting, especially between small or outlying parts of armies or fleets",
+			"ja": "本格的な激突の前に、境界線で火花を散らす不規則な『小競り合い』。相手の出方を伺いながら、自らを『守り（protect）』、緊張感を極限まで高める予備動作"
+		},
+		"thinking_layer": "『守りつつの争い』。スカー（Scar/恐怖）と同根。全軍を賭けた決戦ではなく、機動力の高い部隊同士の、刺すような攻撃。それは対話の中での皮肉や、プロジェクトの細部での対立。小さな綻びが、巨大な嵐を呼ぶ予兆。",
+		"aftertaste": "闇の中から飛んできた、たった一本の矢。あるいは、ティータイムの静寂を破る、一言の鋭いトゲ。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scaramouche（道化師）と同根。",
+				"戦いが『演劇的』な駆け引きへと昇華される瞬間の滑稽さと恐怖。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "armistice",
+		"word": "Armistice",
+		"part_of_speech": "noun",
+		"meaning": "休戦、休戦協定",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "arma",
+					"type": "root",
+					"meaning": "arms, weapons (武器)",
+					"lang": "Latin"
+				},
+				{
+					"text": "stitium",
+					"type": "root",
+					"meaning": "stoppage (停止)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin arma 'arms' + -stitium 'stoppage'."
+		},
+		"core_concept": {
+			"en": "An agreement made by opposing sides in a war to stop fighting for a certain time; a truce",
+			"ja": "互いの憎しみや銃声を一時的に『停止（stoppage）』させ、『武器（arms）』を置く。完全な平和ではないが、死の連鎖を断ち切り、対話を始めるための、震えるような静寂の合意"
+		},
+		"thinking_layer": "『武器の停止』。ソルスティス（Solstice/至点＝太陽の停止）と同根。戦いの真っ只中で、無理やりに「静止」を挿入すること。それは理性による野心の抑制。冷めた銃口が再び火を吹くか、あるいはそのまま平和へと溶けるか。その境界線に漂う静謐。",
+		"aftertaste": "硝煙の匂いが残る、静まり返った廃墟。あるいは、もうこれ以上誰も傷つかなくていいという、長い長い溜息。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ar-",
+					"meaning": "to join (arm)"
+				},
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"armory, solstice, interstitial（隙間）と同根。",
+				"武器（接合された道具）を『置いて立つ』ことが、人間の回復の第一歩。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "internecine",
+		"word": "Internecine",
+		"part_of_speech": "adjective",
+		"meaning": "互いに殺し合う、内輪揉めの、共倒れの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between/mutually"
+				},
+				{
+					"text": "necare",
+					"type": "root",
+					"meaning": "to kill (殺す)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin internecinus, from inter- 'among' + necare 'kill'."
+		},
+		"core_concept": {
+			"en": "Mutually destructive; characterized by great slaughter; relating to conflict within a group",
+			"ja": "外敵ではなく、同じ共同体の中にいる者たちが『互いに（mutually）』『殺し合い（kill）』、最後には勝者なき廃墟だけを残す、最も残酷で不毛な内部崩壊"
+		},
+		"thinking_layer": "『互いに殺し合うこと』。ネクロ（Necro/死）と同根。かつては「徹底的な虐殺」を指しましたが、今日では組織内部の凄惨な派閥争いや、共倒れのプロジェクトを指します。一番近い者同士だからこそ、その憎しみは毒のように深く、救いがない。",
+		"aftertaste": "灰の中から見つけた、敵味方判別不能な二組の遺骨。あるいは、誰が勝っても組織が死ぬと分かっている、会議室の冷え切った空気。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "nek-",
+					"meaning": "death, corpse"
+				}
+			],
+			"points": [
+				"necromancy, noxious（有害な）と同根。",
+				"『内側』から湧き出る毒こそが、最も抗いがたい死を招く。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "redoubtable",
+		"word": "Redoubtable",
+		"part_of_speech": "adjective",
+		"meaning": "恐るべき、手強い、尊敬と畏怖を抱かせる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "intensifier"
+				},
+				{
+					"text": "douter",
+					"type": "root",
+					"meaning": "to fear, doubt (恐れる、疑う)",
+					"lang": "Old French"
+				}
+			],
+			"original_statement": "From Old French redouter 'to dread'."
+		},
+		"core_concept": {
+			"en": "Formidable, especially as an opponent",
+			"ja": "対峙した瞬間に、本能的な『畏怖（fear）』を覚え、自分の勝利を『疑い（doubt）』たくなるほどに、圧倒的なオーラと実力を兼ね備えた、敬意を払わざるを得ない強敵"
+		},
+		"thinking_layer": "『何度も恐れさせること』。ダウト（Doubt）と同根。ただの「怖いもの」ではなく、その強さの裏に確固たる歴史や知性、徳が感じられるもの。攻略不可能な要塞（Redoubt）のような人格。 ",
+		"aftertaste": "巨大な滝を目の当たりにした時の、思考停止に近い感動。あるいは、一言も発していないのに、その場を支配してしまう人物の圧倒的な「影」。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "duo-",
+					"meaning": "two (doubt)"
+				}
+			],
+			"points": [
+				"doubt, dubiousと同根。",
+				"『二つの可能性（勝つか負けるか）』を突きつけることで、相手を揺さぶる。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "truculent",
+		"word": "Truculent",
+		"part_of_speech": "adjective",
+		"meaning": "獰猛な、攻撃的な、反抗的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "trux",
+					"type": "root",
+					"meaning": "fierce, rough (狂暴な、荒い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin truculentus, from trux 'fierce'."
+		},
+		"core_concept": {
+			"en": "Eager or quick to argue or fight; aggressively defiant",
+			"ja": "理由など必要ない。ただ自らの内にある『狂暴さ（fierce）』をぶつける対象を求め、獲物を見定めるような目で世界を睨みつける、剥き出しの牙のような反抗性"
+		},
+		"thinking_layer": "『狂暴であること』。トラック（Truck/頑丈な車）と同根の説あり。礼儀（Politeness）という文明の薄い膜を、一瞬で食い破って現れる野生。洗練を拒み、自分の強さだけを言語とする、孤独で危険な魂。 ",
+		"aftertaste": "檻の中から放たれたばかりの、空腹の虎の唸り。あるいは、一言の謝罪も受け付けない、頑ななまでの憎悪の炎。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"truculenceは、しばしば『不機嫌さ（sulleness）』を伴う。",
+				"世界そのものが自分の『敵』であると確信している状態。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "hegira",
+		"word": "Hegira",
+		"part_of_speech": "noun",
+		"meaning": "ヘジラ、聖遷、大挙しての脱出、旅立ち",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hijra",
+					"type": "root",
+					"meaning": "departure, migration (出発、移住)",
+					"lang": "Arabic"
+				}
+			],
+			"original_statement": "From Arabic hijra 'departure'."
+		},
+		"core_concept": {
+			"en": "A journey especially when undertaken to escape from a dangerous or undesirable situation",
+			"ja": "迫害や死という絶望から逃れるために、故郷を捨てて見知らぬ新天地へと『出発（departure）』する、生死を賭けた壮大な脱出。歴史を切り開くための、痛みを伴う移動"
+		},
+		"thinking_layer": "『出発すること』。預言者ムハンマドのメッカからメディナへの移住（聖遷）に由来。単なる逃亡ではなく、新しいアイデンティティを確立するための「聖なる旅」。古い自分を殺し、別の場所で生まれ変わろうとする、強烈な再生の意志。 ",
+		"aftertaste": "地平線を埋め尽くすほどの大群衆の、静かな行進。あるいは、一切の荷物を捨てて、夜明けの荒野に一人踏み出す時の、身を切るような自由。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"hijab（覆い＝隔てるもの）と語源的な親和性あり。",
+				"世界と『決別する（separate）』ことで、新しい宇宙を作る。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rearguard",
+		"word": "Rearguard",
+		"part_of_speech": "noun",
+		"meaning": "後衛、殿（しんがり）、最後尾の守り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "riere",
+					"type": "root",
+					"meaning": "rear, behind (後ろの)",
+					"lang": "Old French"
+				},
+				{
+					"text": "garde",
+					"type": "root",
+					"meaning": "guard (守り手)"
+				}
+			],
+			"original_statement": "From Old French reregarde, from rere 'rear' + garde 'guard'."
+		},
+		"core_concept": {
+			"en": "The soldiers or other group kept to protect the rear of a main body; a group that resists change or progress",
+			"ja": "全軍が撤退する中、最後に残って敵の猛攻を食い止め、仲間を生かそうとする『後ろの守り（guard behind）』。最も孤独で、最も勇敢な犠牲の場所"
+		},
+		"thinking_layer": "『背後を守る者』。栄光の突撃ではなく、泥にまみれた敗走の守護。また、時代の進歩に抵抗して古い秩序を必死に守り抜こうとする人々をも指します。どちらにせよ、それは「失われゆくもの」への愛着が生む、悲劇的な美徳。",
+		"aftertaste": "誰もいなくなった荒野で、一人剣を抜いて待つ静寂。あるいは、自分の役割が「時間を稼ぐことだけ」だと悟った時の、誇り高い絶望。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reto-",
+					"meaning": "back"
+				},
+				{
+					"term": "uward-",
+					"meaning": "to watch"
+				}
+			],
+			"points": [
+				"arrears（滞納金＝後ろにあるもの）, reward 同根。",
+				"『背後を見張り続ける（watch backward）』ことが、集団全体の生存を可能にする。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parley",
+		"word": "Parley",
+		"part_of_speech": "noun/verb",
+		"meaning": "交渉、会談、休戦会談、話し合う",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "parler",
+					"type": "root",
+					"meaning": "to speak (話す)",
+					"lang": "French"
+				},
+				{
+					"text": "parabola",
+					"type": "root",
+					"meaning": "speech, comparison (言葉、比較)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French parlee, from parler 'speak'."
+		},
+		"core_concept": {
+			"en": "A conference between opposing sides in a dispute, especially a discussion of terms for an armistice",
+			"ja": "剣を納め、言葉（parle）を武器として向き合う。敵対する者同士が、絶滅を避けるために敷く『対話のテーブル』。妥協と理性の最後の砦"
+		},
+		"thinking_layer": "『話すこと』。パーラメント（Parliament/議会）と同根。また、もとは「譬え話（Parable）」からきており、自分の考えを何かに例えて相手に伝える努力を暗示します。暴力という直接性を捨て、言葉という不確かな媒体で橋を架けようとする、知性の祈り。",
+		"aftertaste": "真っ白な旗が掲げられた後の、不気味で厳粛な静寂。あるいは、言葉の一つ一つが、誰かの命を計っているという極限の緊張感。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwer-",
+					"meaning": "to raise voice, praise"
+				}
+			],
+			"points": [
+				"parlor（談話室）, parole（仮釈放＝言葉を信じること）と同根。",
+				"『声を上げる』ことが、物理的な『衝突』を止める唯一の外交手段。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
