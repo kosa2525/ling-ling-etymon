@@ -275871,5 +275871,212 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "antigen",
+		"word": "Antigen",
+		"part_of_speech": "noun",
+		"meaning": "抗原（こうげん）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anti-",
+					"type": "prefix",
+					"meaning": "against"
+				},
+				{
+					"text": "gen",
+					"type": "root",
+					"meaning": "producing"
+				}
+			],
+			"original_statement": "Shortened from antibody generator."
+		},
+		"core_concept": {
+			"en": "induces an immune response",
+			"ja": "外界からの宣戦布告。自己と他者を分かち、情報の最前線を定義する異質な徴候。"
+		},
+		"thinking_layer": "『抗体を生成させるもの』。外部から侵入し、自らの存在を誇示することで、静止していたシステムを戦闘態勢へと引きずり込む扇動の意志。知性が異質な思想に出会い、新しい自己の定義を生成し始める瞬間の火花。",
+		"aftertaste": "自分の内なる守護者たちが一斉に目覚める身震い。対決を通して磨かれてゆく自分を知る平安。停滞した社会に摩擦を生み出し、真理を希求する熱を呼び覚ます自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "anti-",
+					"meaning": "against"
+				},
+				{
+					"term": "gene-",
+					"meaning": "to give birth"
+				}
+			],
+			"points": [
+				"1908年に造語。外部からの圧力を、自らの創造的な進化へと変換する工学。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inflammation",
+		"word": "Inflammation",
+		"part_of_speech": "noun",
+		"meaning": "炎症（えんしょう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "into"
+				},
+				{
+					"text": "flamma",
+					"type": "root",
+					"meaning": "flame"
+				}
+			],
+			"original_statement": "From Latin inflammatio."
+		},
+		"core_concept": {
+			"en": "reaction to injury or infection",
+			"ja": "侵略領土を浄化するために自ら放つ聖なる火。赤らみ、熱し、腫れ、痛むことで危機を宣誓する焦土作戦。"
+		},
+		"thinking_layer": "『火をつけること』。均衡が破られたとき、あえて自らを過熱させることで侵入者を焼き払い、秩序をリセットする破壊と構築の意志。激情という火を放ち、灰の中から真理を再構成しようとするメタファー。",
+		"aftertaste": "身体が自分を救うために戦っている忠実さに打たれる平安。不正や嘘に対しては容赦なく真実の火を放ち、魂の純粋さを死守する自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to burn"
+				}
+			],
+			"points": [
+				"発赤、熱感、腫脹、疼痛。生命が修復のために支払う勇気ある代償。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anaphylaxis",
+		"word": "Anaphylaxis",
+		"part_of_speech": "noun",
+		"meaning": "アナフィラキシー、過剰防衛",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "back, against"
+				},
+				{
+					"text": "phylaxis",
+					"type": "root",
+					"meaning": "protection"
+				}
+			],
+			"original_statement": "From Greek ana- 'back' + phylaxis 'protection'."
+		},
+		"core_concept": {
+			"en": "acute allergic reaction",
+			"ja": "守ることが加速しすぎて、自らをも焼き尽くす逆転の暴走へと転じた悲劇。正義が目的を忘れ、力の行使そのものに溺れる防衛の崩壊。"
+		},
+		"thinking_layer": "『逆の防衛』。強固な自意識が些細なトリガーに過剰反応し、全体を破壊し始めるパラドックス。一つの正しさに固執し、助言をすべて攻撃と見なして自滅するメタファー。",
+		"aftertaste": "力の危うさを知り、謙虚な祈りを捧げる平安。柔軟な余白を保ち、どんなに強大な力を手にしても慈愛を忘れない自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ana-",
+					"meaning": "back"
+				},
+				{
+					"term": "phyl-",
+					"meaning": "to guard"
+				}
+			],
+			"points": [
+				"1902年に造語。守るという行為そのものが毒に変わる警告。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "histamine",
+		"word": "Histamine",
+		"part_of_speech": "noun",
+		"meaning": "ヒスタミン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "histos",
+					"type": "root",
+					"meaning": "tissue"
+				},
+				{
+					"text": "amine",
+					"type": "suffix",
+					"meaning": "ammonia compound"
+				}
+			],
+			"original_statement": "From Greek histos 'tissue' + amine."
+		},
+		"core_concept": {
+			"en": "released in response to injury",
+			"ja": "生命の織物の深層から放たれる情報の警笛。空間を拡張し警告を轟かせ、全軍を招集する情報の扇動者。"
+		},
+		"thinking_layer": "『組織（織物）から生まれたもの』。自分を構成する網目そのものが叫び、破壊を報知する自己監視の知恵。思考のほころびを自ら敏感に察知し、全力で修正に取りかかるメタファー。",
+		"aftertaste": "不快な痒痛が、実は自分を死守するための愛に満ちた叫びであることを知る平安。世界の欺瞞や危機を暴き出し、人々を真実へと直面させる知の警鐘でありたい自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sta-",
+					"meaning": "to stand"
+				}
+			],
+			"points": [
+				"histos は織機の縦糸。生命を一本の糸から紡がれた物語と見る組織学の視点。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "leukocyte",
+		"word": "Leukocyte",
+		"part_of_speech": "noun",
+		"meaning": "白血球（はっけきゅう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "leukos",
+					"type": "root",
+					"meaning": "white"
+				},
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "cell"
+				}
+			],
+			"original_statement": "From Greek leukos 'white' + kytos 'cell'."
+		},
+		"core_concept": {
+			"en": "white blood cell",
+			"ja": "血の海をたゆたいながら異質な情報の影を浄化する清拭者。透明を保つことで偽りを見通し、真実の平和を死守する白い騎士。"
+		},
+		"thinking_layer": "『白い器』。何色にも染まらないことで、あらゆる変化に即座に対応し、アイデンティティを正義として貫く無私の防衛。透明な好奇心と厳格な倫理を保ち、世界を導こうとするメタファー。",
+		"aftertaste": "不屈の守護者がパトロールしている事実に。自分は一人ではないと知る平安。情報の濁流に晒されても透明さを失わず、真理を死守する自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "leuk-",
+					"meaning": "light"
+				},
+				{
+					"term": "(s)keu-",
+					"meaning": "to cover"
+				}
+			],
+			"points": [
+				"白血球とは肉体という闇の中を巡る内なる月である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
