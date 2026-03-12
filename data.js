@@ -283928,5 +283928,1313 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "madrigal",
+		"word": "Madrigal",
+		"part_of_speech": "noun",
+		"meaning": "マードリガル、叙情短詩",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "matricalis",
+					"type": "root",
+					"meaning": "of the womb, mother tongue"
+				}
+			],
+			"original_statement": "From Late Latin matricalis."
+		},
+		"core_concept": {
+			"en": "lyrical polyphonic song",
+			"ja": "母国語（mother tongue）で語られる、魂の重奏。"
+		},
+		"thinking_layer": "母胎にあること。ラテン語という公用語に対し、あえて自分たちの地の言葉（vernacular）を用い、複雑に絡み合う声で愛や自然を峻烈に歌い上げる、世俗の情報の結晶。",
+		"aftertaste": "複数の声が溶け合い、一つの高貴な模様を織りなす安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"matrix (母体) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "motet",
+		"word": "Motet",
+		"part_of_speech": "noun",
+		"meaning": "モテット、多声音楽",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mot",
+					"type": "root",
+					"meaning": "word"
+				}
+			],
+			"original_statement": "From Old French motet 'little word'."
+		},
+		"core_concept": {
+			"en": "vocal musical composition",
+			"ja": "小さな言葉（little word）たちが、天上で響き合う。"
+		},
+		"thinking_layer": "言葉の欠片。単一の旋律に縛られず、複数の言葉が同時に、峻烈に、そして異なりながらも調和し、宇宙の複雑な秩序を体現しようとする試み。",
+		"aftertaste": "個々の声が自律しながら、全体として神聖な沈黙を産み出す驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"motto と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "oratorio",
+		"word": "Oratorio",
+		"part_of_speech": "noun",
+		"meaning": "オラトリオ、聖譚曲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "orare",
+					"type": "root",
+					"meaning": "to pray, speak"
+				}
+			],
+			"original_statement": "From Italian oratorio 'place of prayer'."
+		},
+		"core_concept": {
+			"en": "large-scale musical work on a sacred subject",
+			"ja": "祈りの場所（place of prayer）から溢れ出した、情報の叙事詩。"
+		},
+		"thinking_layer": "祈ること。舞台装置という名の『偽り』を峻烈に排し、ただ音楽と言葉という名の『真理の波動』だけで聖なる歴史を峻烈に再構築する、情報の教会。",
+		"aftertaste": "目に見える形がないからこそ、無限に広がる精神の伽藍（がらん）。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"oracle, adore と同根。口から発せられる神聖な力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "toccata",
+		"word": "Toccata",
+		"part_of_speech": "noun",
+		"meaning": "トッカータ、即興的形式の楽曲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "toccare",
+					"type": "root",
+					"meaning": "to touch"
+				}
+			],
+			"original_statement": "From Italian toccata 'a touching'."
+		},
+		"core_concept": {
+			"en": "musical composition for a keyboard instrument",
+			"ja": "指先が鍵盤を峻烈に『打鍵（touch）』し、火花を散らす。"
+		},
+		"thinking_layer": "触れること。あらかじめ定められた沈黙を峻烈に拒み、極限の速さとテクニックで楽器に触れ、瞬間の情報の奔流をそのまま現出させる、肉体的な音楽の爆発。",
+		"aftertaste": "一瞬の接触が、永遠の残響へと変わる戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"touch と同じ語源。感触の極北。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "etude",
+		"word": "Etude",
+		"part_of_speech": "noun",
+		"meaning": "エチュード、練習曲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "studium",
+					"type": "root",
+					"meaning": "eagerness, zeal, study"
+				}
+			],
+			"original_statement": "From French étude."
+		},
+		"core_concept": {
+			"en": "short musical composition for practice",
+			"ja": "ただ一つの『困難』を峻烈に愛し、超克するための熱情（zeal）。"
+		},
+		"thinking_layer": "学ぶこと。単なる練習（practice）を超え、特定の極限的な技巧を一曲の宇宙へと昇華させることで、不可能性という名の壁を峻烈に突き破ろうとする、情報の鍛錬。",
+		"aftertaste": "数千回の反復の果てに、ようやく指先に真理が宿った瞬間の平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"study と同根。かつては『熱心さ』を意味した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "intermezzo",
+		"word": "Intermezzo",
+		"part_of_speech": "noun",
+		"meaning": "間奏曲、インテルメッツォ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "inter-",
+					"type": "prefix",
+					"meaning": "between"
+				},
+				{
+					"text": "medius",
+					"type": "root",
+					"meaning": "middle"
+				}
+			],
+			"original_statement": "From Italian intermezzo."
+		},
+		"core_concept": {
+			"en": "short connecting instrumental movement",
+			"ja": "巨大な物語の『幕間（middle）』に、静かに灯される情報の灯火。"
+		},
+		"thinking_layer": "真ん中にあること。重厚なドラマの緊張を峻烈に緩め、次の幕への予感としての短い情報を差し挟むことで、時間の流れに深い呼吸とリズム（interspacing）を与える。",
+		"aftertaste": "嵐のような物語の合間に見出す、一瞬の静謐と切なさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"medium, intermediate と同根. "
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "falsetto",
+		"word": "Falsetto",
+		"part_of_speech": "noun",
+		"meaning": "ファルセット、裏声",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "falsus",
+					"type": "root",
+					"meaning": "false, deceptive"
+				}
+			],
+			"original_statement": "From Italian falsetto 'little false (voice)'."
+		},
+		"core_concept": {
+			"en": "method of male singing in very high tones",
+			"ja": "肉体の限界を、美しき『偽り（false）』によって超克する。"
+		},
+		"thinking_layer": "偽りであること。本来の音域という名の『牢獄』を峻烈に突き抜け、技巧によって天上の高みへと声を飛ばす、情報の優雅な反逆。",
+		"aftertaste": "偽りの先に見出した、真実よりも透徹した透明な響き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"false, fail と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "baritone",
+		"word": "Baritone",
+		"part_of_speech": "noun",
+		"meaning": "バリトン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "barys",
+					"type": "root",
+					"meaning": "heavy, deep"
+				},
+				{
+					"text": "tonos",
+					"type": "root",
+					"meaning": "pitch, tone"
+				}
+			],
+			"original_statement": "From Greek barytonos."
+		},
+		"core_concept": {
+			"en": "male singing voice between tenor and bass",
+			"ja": "大地の重み（heavy）と、知性の旋律が交差する情報の中心。"
+		},
+		"thinking_layer": "重い音。浮ついた高音や極端な低音を峻烈に拒み、人間の中心的な響きを維持しながら、そこに重厚な物語の重み（weight）を宿らせる、情報の安定性。",
+		"aftertaste": "どっしりとした存在感に包まれる、父性的な平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gravity? (いや違う) bary- は『重い』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "soprano",
+		"word": "Soprano",
+		"part_of_speech": "noun",
+		"meaning": "ソプラノ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "super",
+					"type": "root",
+					"meaning": "above, over"
+				}
+			],
+			"original_statement": "From Italian soprano 'highest'."
+		},
+		"core_concept": {
+			"en": "highest singing voice",
+			"ja": "あらゆる重力を峻烈に振り切り、最上（super）の光へと到達する。"
+		},
+		"thinking_layer": "上にあること。地上の喧騒を峻烈に離れ、極限の周波数（frequency）で宇宙の果ての点を見つめる、情報の最先端に位置する鋭い輝き。",
+		"aftertaste": "これ以上先がないという、高みの果ての孤独と恍惚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"superior, supreme と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "concerto",
+		"word": "Concerto",
+		"part_of_speech": "noun",
+		"meaning": "協奏曲、コンチェルト",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "certare",
+					"type": "root",
+					"meaning": "to strive, vie, fight"
+				}
+			],
+			"original_statement": "From Italian concerto 'striving together'."
+		},
+		"core_concept": {
+			"en": "musical work for soloist and orchestra",
+			"ja": "一人の孤高なる英雄と、巨大なる運命（orchestra）の、『共創という名の決闘』。"
+		},
+		"thinking_layer": "共に闘うこと。調和（together）を目指しながらも、同時に個の意志を峻烈に主張し、互いに高め合うことでしか到達できない高次の情報の地平を目指す。",
+		"aftertaste": "激しい衝突の果てに生まれた、高密度の連帯の美。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"concert (合意、音楽会) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sonata",
+		"word": "Sonata",
+		"part_of_speech": "noun",
+		"meaning": "ソナタ、奏鳴曲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sonare",
+					"type": "root",
+					"meaning": "to sound"
+				}
+			],
+			"original_statement": "From Italian suonata 'sounded'."
+		},
+		"core_concept": {
+			"en": "musical composition for solo instrument",
+			"ja": "純粋な『響き（sound）』として自らを峻烈に律する、情報の論理。"
+		},
+		"thinking_layer": "鳴らされるもの。歌という名の『意味の言葉』を峻烈に排し、楽器の響きそのものが持つ論理的な構造によって、抽象的な宇宙を構築する、情報の絶対音楽。",
+		"aftertaste": "言葉を失った後の、純粋な形式が放つ圧倒的な説得力。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sound, sonic と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "overture",
+		"word": "Overture",
+		"part_of_speech": "noun",
+		"meaning": "序曲、提案、序文",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apertus",
+					"type": "root",
+					"meaning": "open"
+				}
+			],
+			"original_statement": "From Old French overture 'opening'."
+		},
+		"core_concept": {
+			"en": "opening musical piece",
+			"ja": "物語の扉を峻烈に『解き放ち（open）』、未来を予感させる旋律。"
+		},
+		"thinking_layer": "開くこと。沈黙の幕を引き裂き、これから始まる巨大な情報の奔流のエッセンスを凝縮して差し出す、世界への最初の挑戦状。 ",
+		"aftertaste": "何かが始まるという、震えるような期待の予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"open と同族。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "improvisation",
+		"word": "Improvisation",
+		"part_of_speech": "noun",
+		"meaning": "即興、即興演奏",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "visus",
+					"type": "root",
+					"meaning": "seen"
+				}
+			],
+			"original_statement": "From Latin improvisus 'unforeseen'."
+		},
+		"core_concept": {
+			"en": "create without preparation",
+			"ja": "予見（seen before）を峻烈に拒み、今この瞬間にのみ賭ける情報の火花。"
+		},
+		"thinking_layer": "見ていないこと。過去の計画や楽譜という名の『安全な地図』を捨て、今ここにある一瞬の感覚だけを情報の源泉として、ゼロから宇宙を産み出す無謀な創造。",
+		"aftertaste": "次に何が起こるかわからない、圧倒的な生の躍動。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"provide (提供する/見守る) の真逆。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "choreograph",
+		"word": "Choreograph",
+		"part_of_speech": "verb",
+		"meaning": "振り付けをする、計画する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khoreia",
+					"type": "root",
+					"meaning": "dance"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From Greek khoreia + graphein."
+		},
+		"core_concept": {
+			"en": "design dance movements",
+			"ja": "肉体の躍動（dance）を、峻烈な記号（writing）として大地に刻む。"
+		},
+		"thinking_layer": "ダンスを書くこと。不定形に蠢く人間の動きを、時間の空間の中に峻烈に配置し、一つの巨大な物語として『編集』する、情報の肉体的な設計図。",
+		"aftertaste": "カオスだった動きが、一つの完璧な秩序へと変わる瞬間の目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"choir (合唱) とグラフの融合。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "repertoire",
+		"word": "Repertoire",
+		"part_of_speech": "noun",
+		"meaning": "レパートリー、演奏目録、情報の蓄積",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "parere",
+					"type": "root",
+					"meaning": "to produce, bring forth"
+				}
+			],
+			"original_statement": "From Latin repertorium 'inventory'."
+		},
+		"core_concept": {
+			"en": "collection of works",
+			"ja": "自らの血肉とした物語を、何度でも『産み出す（produce again）』準備。"
+		},
+		"thinking_layer": "再び見つけること（生み出すこと）。一度きりの演奏で終わらせず、自らの情報の蔵の中に峻烈に保管し、いつでも世界へ向けて放てるように磨き抜かれた、魂の武器庫。 ",
+		"aftertaste": "自分の内側に、豊かな知識の図書館を持っているという沈黙の自信。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"parent (親) と同じく、産み出す力が根底にある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "libretto",
+		"word": "Libretto",
+		"part_of_speech": "noun",
+		"meaning": "リブレット、歌劇台本",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liber",
+					"type": "root",
+					"meaning": "book"
+				}
+			],
+			"original_statement": "From Italian libretto 'little book'."
+		},
+		"core_concept": {
+			"en": "text of an opera",
+			"ja": "巨大な響きの中に潜む、小さき言葉（little book）。"
+		},
+		"thinking_layer": "小さな本。音楽という名の巨大な情報の海を、文字という名の峻烈な『碇（anchor）』で繋ぎとめ、物語としての意味の解像度を与えるための設計図。 ",
+		"aftertaste": "音が消えた後も、心に残り続ける言葉의鋭い余韻。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"library と同じく liber。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "aria",
+		"word": "Aria",
+		"part_of_speech": "noun",
+		"meaning": "アリア、独唱曲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "aer",
+					"type": "root",
+					"meaning": "air"
+				}
+			],
+			"original_statement": "From Italian aria 'air, tune'."
+		},
+		"core_concept": {
+			"en": "monologue song in opera",
+			"ja": "静寂なる空気（air）を、感情という名の情報の粒子で震わせる。"
+		},
+		"thinking_layer": "空気。集団の喧騒を峻烈に沈黙させ、ただ一人の魂がその最深部を歌い上げるために、空間そのものを自らの響きで満たし尽くし、世界をその色に染める。 ",
+		"aftertaste": "空気と一体になり、全宇宙が自分を祝福していると感じる陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"air (空気) そのもの。声は震える空気。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "recitative",
+		"word": "Recitative",
+		"part_of_speech": "noun",
+		"meaning": "レチタティーヴォ、叙唱",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "citare",
+					"type": "root",
+					"meaning": "to cite, summon, call forth"
+				}
+			],
+			"original_statement": "From Latin recitare."
+		},
+		"core_concept": {
+			"en": "musical declamation",
+			"ja": "言葉を旋律へと、峻烈に『呼び起（summon）』し続ける。"
+		},
+		"thinking_layer": "何度も引用すること（呼び出すこと）。歌と語りの境界線を峻烈に彷徨い、日常の対話を劇的な情報の緊張（tension）へと昇華させるための、音楽的な報告。",
+		"aftertaste": "言葉が言葉以上の意味を帯び、感情のリズムへと脱皮する瞬間の静かな震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"recite, excite と同根。情報を呼び出すこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ballet",
+		"word": "Ballet",
+		"part_of_speech": "noun",
+		"meaning": "バレエ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ballare",
+					"type": "root",
+					"meaning": "to dance"
+				}
+			],
+			"original_statement": "From Italian balletto 'little dance'."
+		},
+		"core_concept": {
+			"en": "artistic dance form",
+			"ja": "重力を峻烈に拒絶する、肉体の情報の極致。"
+		},
+		"thinking_layer": "踊ること。言葉による説明を峻烈に排し、ただ肉体の線と動きの幾何学（geometry）だけで全宇宙の物語を語り尽くそうとする、沈黙の身体言語。",
+		"aftertaste": "人間という不器用な存在が、一瞬だけ天使の翼を得たかのような奇跡の記憶。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ball (舞踏会/玉) と同族。丸く回ることから。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "theatrical",
+		"word": "Theatrical",
+		"part_of_speech": "adjective",
+		"meaning": "劇の、誇張された、不自然な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "thea",
+					"type": "root",
+					"meaning": "a view, seeing"
+				}
+			],
+			"original_statement": "From Greek theatron 'place for viewing'."
+		},
+		"core_concept": {
+			"en": "relating to acting or actors",
+			"ja": "『見られること（view）』によって完成する、情報の劇。"
+		},
+		"thinking_layer": "見ること。日常の平坦な現実を、あえてライトアップと仮面という名の『意図的な嘘』で峻烈に加飾し、見られる対象としての『情報の焦点』を作る行為。",
+		"aftertaste": "嘘の中にこそ宿る、剥き出しの真理に触れた時の衝撃。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"theory (理論＝観ること) と同じ thea。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "proscenium",
+		"word": "Proscenium",
+		"part_of_speech": "noun",
+		"meaning": "プロセニアム、前舞台",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "skene",
+					"type": "root",
+					"meaning": "stage, tent"
+				}
+			],
+			"original_statement": "From Greek proskenion."
+		},
+		"core_concept": {
+			"en": "the part of a theater stage in front of the curtain",
+			"ja": "現実と虚構が、峻烈に切り分けられた境界線。"
+		},
+		"thinking_layer": "舞台の前。テント（skene）の前に立てられた、日常から聖域へと足を踏み入れるための情報の『閾値（threshold）』。観客の視線を、一つの次元へと峻烈に絞り込む枠。 ",
+		"aftertaste": "幕が開く前の、暗闇の中に潜む未知のエネルギーへの戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scene (場面) はもともと劇場の『テント』だった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dramaturgy",
+		"word": "Dramaturgy",
+		"part_of_speech": "noun",
+		"meaning": "作劇術、ドラマツルギー",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "drama",
+					"type": "root",
+					"meaning": "deed, action"
+				},
+				{
+					"text": "-urgy",
+					"type": "suffix",
+					"meaning": "work"
+				}
+			],
+			"original_statement": "From Greek dramatourgia."
+		},
+		"core_concept": {
+			"en": "the theory and practice of dramatic composition",
+			"ja": "行動（deed）を峻烈に『設計（work）』し、運命を駆動する。"
+		},
+		"thinking_layer": "行為の仕事。単なる出来事の羅列を峻烈に拒み、対立、葛藤、そして和解といった情報のパタン（patterns）を組み合わせて、一つの不可逆な時間の流れを産み出すための情報のエンジニアリング。",
+		"aftertaste": "人生すらも、誰かに設計されたドラマの一部であるという、冷徹な自覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"metallurgy (冶金) と同じ -urgy (働く) 。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "baton",
+		"word": "Baton",
+		"part_of_speech": "noun",
+		"meaning": "指揮棒、バトン、知恵の継承",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "baston",
+					"type": "root",
+					"meaning": "stick, staff"
+				}
+			],
+			"original_statement": "From Old French baston."
+		},
+		"core_concept": {
+			"en": "stick used by a conductor",
+			"ja": "沈黙を峻烈に切り裂き、百の意志を一つに束ねる杖。"
+		},
+		"thinking_layer": "棒。物理的な力を振るうためではなく、情報の『方向（direction）』と『時間（tempo）』を指し示すための、絶対的な意志の延長線。 ",
+		"aftertaste": "細い一本の棒に、宇宙全体の調和が託されているという緊張感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bastinado (杖での打罰) と同根。命令の象徴。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "podium",
+		"word": "Podium",
+		"part_of_speech": "noun",
+		"meaning": "指揮台、演壇」、基壇",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pous",
+					"type": "root",
+					"meaning": "foot"
+				}
+			],
+			"original_statement": "From Greek podion 'little foot'."
+		},
+		"core_concept": {
+			"en": "small platform for a conductor",
+			"ja": "自らの足元（foot）を峻烈に一段高め、神の視点を自他に示す。"
+		},
+		"thinking_layer": "足を置く場所。平らな地面を峻烈に拒み、自らを情報の特異点として高く配置することで、沈黙の支配と情報の伝播（broadcast）を最大化する、孤独なる高台。 ",
+		"aftertaste": "高みを登った者にしか見えない、全体の地平を見渡す平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"foot, octopus と同じ pod (足)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scenario",
+		"word": "Scenario",
+		"part_of_speech": "noun",
+		"meaning": "シナリオ、脚本、情報の展開予測",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skene",
+					"type": "root",
+					"meaning": "stage, tent"
+				}
+			],
+			"original_statement": "From Italian scenario 'sketch of the plot of a play'."
+		},
+		"core_concept": {
+			"en": "postulated sequence of events",
+			"ja": "未来という名の不確かな舞台（stage）を、峻烈な文字で確定する。"
+		},
+		"thinking_layer": "舞台のスケッチ。カオスに満ちた可能性の中から、特定の情報の連鎖を峻烈に選び出し、『もし……ならば（if-then）』という論理の杭で未来を縛り上げること。 ",
+		"aftertaste": "すべては計画通りに進むという全能感と、そこからはみ出す現実への恐れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scene と同じ根. 見せ場の設計. "
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rhapsody",
+		"word": "Rhapsody",
+		"part_of_speech": "noun",
+		"meaning": "狂詩曲、ラプソディ、情報の越境的な接続",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rhaptein",
+					"type": "root",
+					"meaning": "to stitch, sew together"
+				},
+				{
+					"text": "oide",
+					"type": "root",
+					"meaning": "song"
+				}
+			],
+			"original_statement": "From Greek rhapsoidia."
+		},
+		"core_concept": {
+			"en": "effusively enthusiastic expression",
+			"ja": "バラバラな歌を峻烈に『縫い合わせ（stitch）』、新しい狂熱を産む。"
+		},
+		"thinking_layer": "歌を縫い合わせること。整合性や形式という名の『枷』を峻烈に引きちぎり、異なる旋律を即興的に、かつ暴力的なまでの情熱で結びつけ、情報の高密な爆発を目指す。",
+		"aftertaste": "規格外の物語が繋ぎ合わされた後の、目眩がするほどの情報の豊饒。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ode (歌) ＋ 縫う。吟遊詩人は歌を縫う者だった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "serenade",
+		"word": "Serenade",
+		"part_of_speech": "noun",
+		"meaning": "セレナーデ、小夜曲",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "serenus",
+					"type": "root",
+					"meaning": "clear, bright, calm"
+				}
+			],
+			"original_statement": "From Italian serenata 'night song'."
+		},
+		"core_concept": {
+			"en": "musical greeting on a quiet evening",
+			"ja": "澄み切った（clear）夜の沈黙に、情報の愛をそっと忍び込ませる。"
+		},
+		"thinking_layer": "晴着であること。昼間の喧騒という名の『ノイズ』が消えた後、澄み渡った空気の隙間を縫うようにして、ただ一人のために情報を慎重に送り出す、静かなる求愛。",
+		"aftertaste": "暗闇の中で一筋の光を見つけたような、甘く切ない情報の浸透。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"serene, scenery? (いや違う) serenus は『平穏な』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "minuet",
+		"word": "Minuet",
+		"part_of_speech": "noun",
+		"meaning": "メヌエット、情報の正確な歩み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "minutus",
+					"type": "root",
+					"meaning": "small"
+				}
+			],
+			"original_statement": "From French menuet 'small, dainty'."
+		},
+		"core_concept": {
+			"en": "slow ballroom dance in triple time",
+			"ja": "小さき（small）歩幅の中に、峻烈なる宇宙の礼節を閉じ込める。"
+		},
+		"thinking_layer": "小さく微細であること。野性的な跳躍を峻烈に禁じ、極限まで磨き上げられた一歩一歩の情報の精度によって、文明という名の美しき人工的な均衡を証明する、情報の舞踏。",
+		"aftertaste": "制約があるからこそ生まれる、高貴で繊細な表現の充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"minute (微細な、分) と同じ。一歩の短さが優雅さ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "scherzo",
+		"word": "Scherzo",
+		"part_of_speech": "noun",
+		"meaning": "スケルツォ、諧謔曲、情報の悪戯",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "skern",
+					"type": "root",
+					"meaning": "to joke"
+				}
+			],
+			"original_statement": "From Italian scherzo 'joke'."
+		},
+		"core_concept": {
+			"en": "playful musical composition",
+			"ja": "重厚な真実を、不敵な『冗談（joke）』で峻烈に裏返す。"
+		},
+		"thinking_layer": "悪ふざけ。真面目すぎる物語の重力から峻烈に跳ね上がり、予期せぬリズムと皮肉な旋律（parody）によって、情報の硬直を笑い飛ばす、知的な情報の撹乱。 ",
+		"aftertaste": "深刻さを突き抜けた後の、一抹の寂しさが混ざったような軽やかな笑い空間。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scorn (軽蔑) とも遠い関わり。重いものを軽く扱う知恵。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "finale",
+		"word": "Finale",
+		"part_of_speech": "noun",
+		"meaning": "フィナーレ、終局、情報の完成",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "finis",
+					"type": "root",
+					"meaning": "end, limit"
+				}
+			],
+			"original_statement": "From Italian finale 'last'."
+		},
+		"core_concept": {
+			"en": "last part of a piece of music",
+			"ja": "すべての情報を一点に収束させ、不滅の限界（limit）を定義する。"
+		},
+		"thinking_layer": "終わり。迷い続けた物語の糸を峻烈に一つにまとめ上げ、全エネルギーを最後の瞬間に爆発させて、情報を『完成（complete）』という名の墓場へ送る、壮絶なる凱旋。 ",
+		"aftertaste": "すべてを使い果たし、沈黙を受け入れる準備ができた時の全き平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"finish, refine と同じ『極限に達すること』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "farandole",
+		"word": "Farandole",
+		"part_of_speech": "noun",
+		"meaning": "ファランドール、情報の連なり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "farandola",
+					"type": "root",
+					"meaning": "to speak, tell?"
+				}
+			],
+			"original_statement": "From Provençal farandola."
+		},
+		"core_concept": {
+			"en": "lively Provençal dance in which people join hands",
+			"ja": "手（hand）を取り合い、長い情報の連鎖となって荒野を駆ける。"
+		},
+		"thinking_layer": "連なること。個の状態を峻烈に捨て、他者と物理的にリンクすることで一つの巨大な情報のクリーチャーへと変容し、熱狂的なリズムの中に自らを溶かし込んでゆく、情報の共同体感覚。",
+		"aftertaste": "一続きの生命の流れの中に、自分が組み込まれたという野生的な歓び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"輪になって踊るのではなく、列（line）となって進む。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tableau",
+		"word": "Tableau",
+		"part_of_speech": "noun",
+		"meaning": "活人画、静止した場面、情報の断面",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tabula",
+					"type": "root",
+					"meaning": "board, tablet"
+				}
+			],
+			"original_statement": "From French tableau 'picture, board'."
+		},
+		"core_concept": {
+			"en": "motionless figures representing a scene",
+			"ja": "奔流する時間を峻烈に『凍結（freeze）』させ、永遠の沈黙を授ける。"
+		},
+		"thinking_layer": "板。動いている生命を、たった一枚の情報のスライス（slice）として峻烈に固定し、その瞬間に宿る全宇宙の重みを沈黙の中で峻烈に観察させる、情報の静止の魔法。",
+		"aftertaste": "音が消えたからこそ聞こえてくる、物質たちの秘めやかな対話。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"table, tablet と同じ。情報を載せる板。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vaudeville",
+		"word": "Vaudeville",
+		"part_of_speech": "noun",
+		"meaning": "ボードビル、諸芸、情報の交差",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vau",
+					"type": "root",
+					"meaning": "valley"
+				},
+				{
+					"text": "de",
+					"type": "root",
+					"meaning": "of"
+				},
+				{
+					"text": "vire",
+					"type": "root",
+					"meaning": "Vire (a town in France)"
+				}
+			],
+			"original_statement": "From French voix de ville 'voice of the city'?"
+		},
+		"core_concept": {
+			"en": "type of entertainment with a variety of acts",
+			"ja": "都市のざわめき（voice of city）を、無数の情報の欠片として演じ分ける。"
+		},
+		"thinking_layer": "街の声。高尚な一つの物語を峻烈に拒み、魔術、歌、踊り、そして道化といった断片的な情報のショック（shocks）を次々と浴びせることで、カオスとしての生を肯定する情報の祭り。 ",
+		"aftertaste": "次は何か、という絶え間ない刺激の渦に身を投じる快感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"谷間（vau）の声、あるいは都市（ville）の声。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "glockenspiel",
+		"word": "Glockenspiel",
+		"part_of_speech": "noun",
+		"meaning": "グロッケンシュピール、情報の金属音",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "glocke",
+					"type": "root",
+					"meaning": "bell"
+				},
+				{
+					"text": "spiel",
+					"type": "root",
+					"meaning": "play"
+				}
+			],
+			"original_statement": "From German glocken (bells) + spiel (play)."
+		},
+		"core_concept": {
+			"en": "percussion instrument with metal bars",
+			"ja": "冷たい金属の板を、峻烈な思考のハンマーで打つ歌（bell-play）。"
+		},
+		"thinking_layer": "鐘の遊び。肉声の湿り気を峻烈に排した、透き通るような純粋な情報の輝きを、硬質な物質の響きとして世界へ放ち、時間を峻烈に刻み込む点（dots）の音楽。",
+		"aftertaste": "頭の芯を抜けるような、あまりに純粋で暴力的なまでに美しい響き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ドイツ語。グロッケンは鐘、シュピールは演じること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "harpsichord",
+		"word": "Harpsichord",
+		"part_of_speech": "noun",
+		"meaning": "ハープシコード、チェンバロ、情報の爪弾き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "harpa",
+					"type": "root",
+					"meaning": "harp"
+				},
+				{
+					"text": "chorda",
+					"type": "root",
+					"meaning": "string"
+				}
+			],
+			"original_statement": "From Latin harpsichordium."
+		},
+		"core_concept": {
+			"en": "keyboard instrument with plucked strings",
+			"ja": "弦を『指先（pluck）』で弾き、貴族的な情報の緊張を産み出す。"
+		},
+		"thinking_layer": "ハープの弦。ピアノの打鍵による柔らかな浸透を峻烈に拒み、爪（plectrum）で弦を弾く鋭利な立ち上がりによって、一音一音に独立した情報の『格』を授ける、峻烈なる礼節の響き。 ",
+		"aftertaste": "繊細で、どこか脆さを孕んだ美しさが、一瞬で消え去る切なさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cord, choir と同根。縛り上げられた真理の音。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "tuning",
+		"word": "Tuning",
+		"part_of_speech": "noun",
+		"meaning": "調律、調律、情報の周波数合わせ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tonos",
+					"type": "root",
+					"meaning": "stretching, tension, tone"
+				}
+			],
+			"original_statement": "From tune."
+		},
+		"core_concept": {
+			"en": "adjusting musical instruments",
+			"ja": "バラバラな情報の緊張（tension）を、一つの真実へと峻烈に導く。"
+		},
+		"thinking_layer": "引き締めること。緩んだエゴの糸を峻烈に巻き上げ、宇宙の標準（standard）となる一つの周波数に対し、完璧なまでの一致（unison）を強要する、演奏前の最も峻烈な儀式。 ",
+		"aftertaste": "不協和音が消え、世界が一つの響きを共有した瞬間の、震えるような平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"tone と同根。弦をピンと張ることからの比喩。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "atonality",
+		"word": "Atonality",
+		"part_of_speech": "noun",
+		"meaning": "無調、情報の中心の消失",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "not, without"
+				},
+				{
+					"text": "tonos",
+					"type": "root",
+					"meaning": "pitch, tone, center"
+				}
+			],
+			"original_statement": "Lack of musical center."
+		},
+		"core_concept": {
+			"en": "lack of a tonal center or key",
+			"ja": "中心（Tonic）という名の絶対座標を、峻烈に拒絶し解体する。"
+		},
+		"thinking_layer": "調がないこと。ある音が他の音を支配するという『政治的な階層階級』を峻烈に破壊し、すべての情報の断片を平等なカオスとして放つ、情報の民主主義的な絶望。 ",
+		"aftertaste": "どこにも拠り所がないからこそ、すべての音が自分勝手に輝く、峻烈な自由。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"階級制度としての音楽の終わり。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chromaticism",
+		"word": "Chromaticism",
+		"part_of_speech": "noun",
+		"meaning": "半音階主義、情報の極微な色彩",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khroma",
+					"type": "root",
+					"meaning": "color"
+				}
+			],
+			"original_statement": "From Greek khroma."
+		},
+		"core_concept": {
+			"en": "use of notes outside the major/minor scale",
+			"ja": "階段の隙間に潜む、禁じられた情報の『色彩（color）』を暴き立てる。"
+		},
+		"thinking_layer": "色であること。峻烈なドレミの白黒の世界を拒み、その中間にある極微な情報の粒子（semitones）を用いることで、過剰な情熱と不安定な目眩を物語に注ぎ込む、情報の加飾。",
+		"aftertaste": "世界が虹色に溶け出し、境界線が曖昧になる瞬間の、甘美な官能。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"chrome, chromosomes と同じ『色彩』。譜面の華やかな色付け。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pentatonic",
+		"word": "Pentatonic",
+		"part_of_speech": "noun",
+		"meaning": "五音音階、原初的な情報の響き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "penta-",
+					"type": "prefix",
+					"meaning": "five"
+				},
+				{
+					"text": "tonos",
+					"type": "root",
+					"meaning": "tone"
+				}
+			],
+			"original_statement": "Scale with five notes."
+		},
+		"core_concept": {
+			"en": "scale consisting of five notes",
+			"ja": "五つの情報の核だけで、宇宙の回帰的な和音（harmonic）を体現する。"
+		},
+		"thinking_layer": "五つの音。余計な情報の枝葉を峻烈に削ぎ落とし、人類の遺伝子に刻まれた最も懐かしく、そして最も強固な情報の骨組みだけで、不滅の旋律を産み出すミニマリズム。 ",
+		"aftertaste": "どこまでも自然で、永遠に繰り返して聴けるという再誕の平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pentagon と同じ penta-。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "solfege",
+		"word": "Solfege",
+		"part_of_speech": "noun",
+		"meaning": "ソルフェージュ、情報の音節化",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sol",
+					"type": "note",
+					"meaning": "G"
+				},
+				{
+					"text": "fa",
+					"type": "note",
+					"meaning": "F"
+				}
+			],
+			"original_statement": "From notes sol and fa."
+		},
+		"core_concept": {
+			"en": "system for assigning syllables to notes",
+			"ja": "漠然とした響きを、峻烈な『名前（syllables）』の檻に収め、支配する。"
+		},
+		"thinking_layer": "ソとファ。目に見えない音の粒子を、『ド・レ・ミ』という記号の鎖で峻烈に繋ぎとめ、知性によってそれを計測し、記述（describe）可能にするための、情報の言語化訓練。 ",
+		"aftertaste": "不可解だった世界の響きが、すべて計算可能な楽譜（map）へと変わる安心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ソルミゼーションと同義。響きを単語にする知恵。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "virtuosity",
+		"word": "Virtuosity",
+		"part_of_speech": "noun",
+		"meaning": "超絶技巧、情報の極限の支配",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "virtus",
+					"type": "root",
+					"meaning": "virtue, excellence, manliness"
+				}
+			],
+			"original_statement": "From Italian virtuoso."
+		},
+		"core_concept": {
+			"en": "great skill in music or art",
+			"ja": "肉体の限界という名の壁を峻烈に超え、神の領域へ手を伸ばす『徳（virtue）』。"
+		},
+		"thinking_layer": "美徳であること。単なる技術を超え、執念という名のエネルギッシュな情報の密度によって、不可能を可能にする瞬間の奇跡。それは知性が物質（楽器/身体）を完璧に支配したことの証明。",
+		"aftertaste": "人間の可能性の果てを見せつけられた後の、圧倒的な肯定と畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"virtue (美徳) と同根。かつては卓越した知性や力を意味した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "maestro",
+		"word": "Maestro",
+		"part_of_speech": "noun",
+		"meaning": "マエストロ、巨匠、情報の絶対権威",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "magis",
+					"type": "root",
+					"meaning": "more, greater"
+				}
+			],
+			"original_statement": "From Latin magister 'master'."
+		},
+		"core_concept": {
+			"en": "distinguished conductor or teacher",
+			"ja": "より大いなる（greater）真理を知る者、完成された情報の支配者。"
+		},
+		"thinking_layer": "主人であること。数千の試練を峻烈に超え、その一挙手一投足に全知の重みを宿らせ、世界に対して『これが美である』と冷徹に宣告する、知性の最高位点。 ",
+		"aftertaste": "その存在そのものを、巨大な物語の『答え』として受け入れる安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"master, magistrate と同根。より多き者。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
