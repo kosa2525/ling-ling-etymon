@@ -276899,5 +276899,30 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "virulence",
+		"word": "Virulence",
+		"meaning": "毒性"
+	},
+	{
+		"id": "toxicity",
+		"word": "Toxicity",
+		"meaning": "毒性"
+	},
+	{
+		"id": "lethality",
+		"word": "Lethality",
+		"meaning": "致死性"
+	},
+	{
+		"id": "potency",
+		"word": "Potency",
+		"meaning": "効力"
+	},
+	{
+		"id": "morbidity",
+		"word": "Morbidity",
+		"meaning": "罹患率"
 	}
 ];
