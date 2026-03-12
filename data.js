@@ -258574,5 +258574,185 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "banshee",
+		"word": "Banshee",
+		"part_of_speech": "noun",
+		"meaning": "バンシー、死を予告する女の精霊",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bean",
+					"type": "root",
+					"meaning": "woman (女)",
+					"lang": "Old Irish"
+				},
+				{
+					"text": "sidhe",
+					"type": "root",
+					"meaning": "fairy, mound (妖精、丘)",
+					"lang": "Old Irish"
+				}
+			],
+			"original_statement": "From Irish bean sídhe, from bean 'woman' + sídhe 'of a fairy mound'."
+		},
+		"core_concept": {
+			"en": "(in Irish folklore) a female spirit whose wailing warns of an impending death in a house",
+			"ja": "死が訪れる直前の家に現れ、血の凍るような叫び声を上げてその終焉を警告（warn）する、丘の向こう側から来た『妖精の女（fairy woman）』。運命の冷酷なメッセンジャー"
+		},
+		"thinking_layer": "『丘の女の精霊』。語源の「Sidhe」は妖精が住むとされる丘。ただの「幽霊」ではなく、そこに「家系の守護」と「不可避の運領（destiny）」が宿っています。彼女の叫びは、聴く者にとっての現世（this world）との最後の絆。それは、死を「恐怖」としてではなく、一つの「厳かな儀式」として迎え入れるための、魂の震え。",
+		"aftertaste": "真夜中の嵐の中に混じる、風とも叫びともつかない「バンシー（banshee）」の慟哭を聞いた瞬間の、自分の命が宇宙の大きなサイクルの中に回収されてゆくような、絶望的な納得感。あるいは、誰かの不幸を予感（presentiment）してしまい、それを口に出せない時の、自分の喉にバンシーが棲みついたかのような、苦い閉塞感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwen-",
+					"meaning": "woman (forming bean)"
+				}
+			],
+			"points": [
+				"queen, gynaecology（婦人科）, banshee 同根。",
+				"『女（woman）』という存在が、生命の『入り口（birth）』と『出口（death）』を司る門番（guardian）であるとする、古代ケルトの深い直観。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kelpie",
+		"word": "Kelpie",
+		"part_of_speech": "noun",
+		"meaning": "ケルピー、馬の姿をした水の精霊",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "calpa",
+					"type": "root",
+					"meaning": "heifer, steer, colt (子牛、若い馬)",
+					"lang": "Scottish Gaelic"
+				}
+			],
+			"original_statement": "Perhaps from Scottish Gaelic calpa or colpach 'heifer, steer, colt'."
+		},
+		"core_concept": {
+			"en": "(in Scottish folklore) a water spirit, typically having the form of a horse, which is reputed to delight in the drowning of travelers",
+			"ja": "美しく、力強い馬の姿を借りて水辺に現れ、乗る者を背中に乗せたまま深淵へと引きずり込んで『溺死（drowning）』させる、水の残酷な化身。美しさと致命的な罠の同居"
+		},
+		"thinking_layer": "『若い馬の精霊』。その語源の無邪気さとは裏腹に、正体は底知れぬ「水の魔力」。それは、一見すると魅力的な「誘惑」の形をして現れます。川を渡りたい旅人に背中を貸し、気づいた時には手が離れなくなっている。それは、自制心を失った瞬間に自分を飲み込む「欲望」や「中毒」のメタファー。",
+		"aftertaste": "湖のほとりで、濡れた美しい毛並みの馬を見つけ、その不思議な引力に抗いきれずに手を伸ばしてしまう、あの破滅への一歩。あるいは、自分が誰かの「親切」という名の背中に乗り、そのまま相手の「支配」の深淵へと運ばれてゆくと気づいた時の、水底から見上げる太陽の光のような、届かぬ救済。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"スコットランド独自の伝承が生んだ、水と馬という『制御不能な力』の融合。",
+				"『水（water）』は命の源であると同時に、形を持たない『死』の領域でもあり、ケルピーはその境界を往復する『捕食者（predator）』である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kraken",
+		"word": "Kraken",
+		"part_of_speech": "noun",
+		"meaning": "クラーケン、北欧伝説の巨大な海獣",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "krake",
+					"type": "root",
+					"meaning": "crooked, stunted, sea monster (ねじ曲がった、発育不全の、海の怪物)",
+					"lang": "Norwegian"
+				}
+			],
+			"original_statement": "From Norwegian krake, referring to a pole, a stunted tree, or a sea monster (from its many arms)."
+		},
+		"core_concept": {
+			"en": "An enormous mythical sea monster said to appear off the coast of Norway",
+			"ja": "深海の暗闇から、無数の巨大な触手が海面を割り、巨大な船さえも藻屑（もくず）へと変える、人知を超えた『海の絶望』。自然界の理不尽なまでの暴力性と、隠された「巨大さ」への畏怖"
+		},
+		"thinking_layer": "『ねじ曲がったもの』。語源の「Krake」は、もとは節くれ立った「木の幹」や「ポール」。それがクラーケンの無数の足に見立てられました。ただの「タコ」ではなく、海そのものが「意志を持って襲ってくる」という感覚。それは、私たちが積み上げてきた「文明」がいかに脆弱（fragile）な基盤の上に立っているかを、一瞬で思い出させる冷酷な質量。 ",
+		"aftertaste": "平穏な航海の最中、船の真下に巨大な「影」が広がり、海面が異常なほど静まり返った時の、あの宇宙的なスケールの「捕食（predation）」を予感させる静寂。あるいは、組織の中に眠っていた「巨大な不祥事（kraken of scandals）」が、ついにその触手を地上に伸ばし始めた時の、逃げ場のない崩壊の予感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ger-",
+					"meaning": "to bend, twist (forming krake?)"
+				}
+			],
+			"points": [
+				"crank, cringe, shrink, crook 同根の説あり。",
+				"『ねじれ（twist）』ていることは、直線の論理（human civilization）にとって常に『理解不能な脅威』であり、その極致が深海の支配者クラーケンである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "wyvern",
+		"word": "Wyvern",
+		"part_of_speech": "noun",
+		"meaning": "ワイバーン、翼を持つ竜、飛竜",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vipera",
+					"type": "root",
+					"meaning": "viper, snake (毒蛇)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Old French wyvre 'viper', from Latin vipera."
+		},
+		"core_concept": {
+			"en": "A winged two-legged dragon with a barbed tail",
+			"ja": "高潔な「ドラゴン」とは異なり、毒蛇（viper）の卑劣さと猛禽（もうきん）の凶暴さを併せ持った、空飛ぶ『災厄』。地上を這う「毒」が翼を得て、天から襲いかかるという、恐怖の進化形"
+		},
+		"thinking_layer": "『毒蛇の』。ヴァイパー（Viper/毒蛇）と同根。紋章学では、ドラゴンよりも「下等な」存在として扱われることが多い。ただの「力」ではなく、そこに「不意打ち」と「猛毒」が宿っています。それは空高くから急降下する鋭い鉤爪、あるいは、言葉の中に潜り込ませた、相手を再起不能にする「猛毒（toxin）」のメタファー。",
+		"aftertaste": "夕陽を背にして、二つの巨大な翼（wyvern）が雲を切って迫り、その鉤（かぎ）状の尾が放つギラリとした光を見た瞬間の、あの生物としての敗北感。あるいは、自分が守っていた聖域が、空からの「理不尽な略奪者」によって一瞬で灰にされたのを見つめる、あの空虚な無力感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wi-",
+					"meaning": "apart"
+				},
+				{
+					"term": "per-",
+					"meaning": "to produce (forming vi-pera/producing separately?)"
+				}
+			],
+			"points": [
+				"viper, vivacious, vivid 同根の説あり（卵を産まずに子を産む＝生々しい命、の意から？）。",
+				"『ワイバーン（wyvern）』とは、高座にある『知性（dragon）』が地に落ち、純粋な『殺戮への渇望』へと劣化した姿であるという、堕落の象徴。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "efreet",
+		"word": "Efreet",
+		"part_of_speech": "noun",
+		"meaning": "イフリート、魔人、強力な悪魔",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "'ifrit",
+					"type": "root",
+					"meaning": "wicked, rebellious, powerful demonic being (邪悪な、反抗的な、強力な悪魔的存在)",
+					"lang": "Arabic"
+				}
+			],
+			"original_statement": "From Arabic 'ifrit."
+		},
+		"core_concept": {
+			"en": "(in Islamic mythology) a powerful type of jinn, typically associated with fire and rebelliousness",
+			"ja": "神に従うことを拒み、自らの巨大な力を『反抗（rebellion）』のためにのみ行使する、煙なき『炎の魔人』。地下深く、あるいは廃墟の中に潜み、人間の欲望を鏡のように映し出す、圧倒的な超越者"
+		},
+		"thinking_layer": "『反抗的なもの』。アラビア語由来。ただの「魔法使い」ではなく、そこに「燃え盛る怒り」と「古の契約」が宿っています。彼らは願いを叶えるが、そこには常に「狡猾な罠」が仕掛けられている。それは、コントロールを失った「科学技術」や、あまりにも強大になりすぎた「個人のエゴ」のメタファー。 ",
+		"aftertaste": "古いランプを擦り、溢れ出した赤黒い煙が、自分よりも数倍巨大な「魔人（efreet）」の姿へと凝縮されてゆく、あの取り返しのつかないことをしてしまったという戦慄。あるいは、自分の怒りが「炎（efreet flame）」のように燃え上がり、周囲のすべてを焼き尽くしていくのを、自分自身でさえ止められない瞬間の、絶望的な覚醒。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"イスラム教のジン（Jinn）の中でも、特に強力で邪悪なクラスを指す。",
+				"『力（power）』はそれ自体が『反抗（rebellion）』の属性を持っており、それを正しく制御できない者は、自らが呼び出した魔神（efreet）に焼き尽くされる運命にある。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
