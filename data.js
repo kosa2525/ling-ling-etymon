@@ -269817,5 +269817,210 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "pinocytosis",
+		"word": "Pinocytosis",
+		"part_of_speech": "noun",
+		"meaning": "飲細胞作用、ピノサイトーシス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pinein",
+					"type": "root",
+					"meaning": "to drink (飲む)",
+					"lang": "Greek"
+				},
+				{
+					"text": "kytos",
+					"type": "root",
+					"meaning": "vessel, cell (器、細胞)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek pinein 'drink' + kytos 'vessel'."
+		},
+		"core_concept": {
+			"en": "The ingestion of liquid into a cell by the budding of small vesicles from the cell membrane",
+			"ja": "細胞が喉を鳴らして世界を飲み込む、微細な『飲用（drinking）』。周囲の海（外液）を自らの中へと招き入れ、小さな雫（vesicle）として抱きしめる、知的な『受容の儀式』"
+		},
+		"thinking_layer": "『細胞が飲むこと』。ファゴサイトーシス（Phagocytosis/食細胞作用）、ポタブル（Potable/飲用に適した）と同根。語源は「飲む」。ただの「取り込み」ではありません。そこには。「自らの膜を凹ませ、未知の液体を優しく包み込む」という、能動的な好奇心が宿っています。それは。知性が周囲の環境から微かな情報（シグナル）を直接吸収し、自らの栄養（糧）へと変換してゆくプロセスのメタファー。",
+		"aftertaste": "顕微鏡の下で、細胞が「ピノサイトーシス（pinocytosis）」を繰り返しているのを見つめ、生命がいかに絶え間なく世界と「対話（交換）」し続けているのかに驚嘆し、深い連帯感（solidarity）を覚える、あの知的な平安。あるいは、自分の言葉が、誰かの心の膜（membrane）を優しく震わせ、この「飲み込み作用」のように、ためらうことなく受け入れられることを願う、あの静かな午後の祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pō-i-",
+					"meaning": "to drink (forming pinein)"
+				}
+			],
+			"points": [
+				"potion, poison, symposion 同根。",
+				"『飲む（drinking）』ことは、自らの中に対象を取り込み、同一化することである。ピノサイトーシスは、生命がいかにして『異物』を『自己』へと翻訳し続けているかを示す、最も原初的な代謝の詩である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chemosmosis",
+		"word": "Chemosmosis",
+		"part_of_speech": "noun",
+		"meaning": "化学浸透、ケミオズモシス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "khēmeia",
+					"type": "root",
+					"meaning": "alchemy (錬金術)', from Greek"
+				},
+				{
+					"text": "ōsmos",
+					"type": "root",
+					"meaning": "thrust, push (押すこと)', from Greek"
+				}
+			],
+			"original_statement": "From chemo- + osmosis."
+		},
+		"core_concept": {
+			"en": "The movement of ions across a semipermeable membrane, down their electrochemical gradient",
+			"ja": "電位の『勾配（gradient）』を駆け下りる、小さなイオンたちの熱い疾走。膜（membrane）という境界を突き抜けるときに生み出されるエネルギーが、生命の全活動を支える、目に見えない『火花』"
+		},
+		"thinking_layer": "『化学的な浸透』。ケミストリー（Chemistry/化学）、オズモシス（Osmosis/浸透）と同根。語源は「化学反応による押し」。ただの「拡散」ではありません。そこには。「不均衡（斜面）を利用して、エネルギーという名の価値（ATP）を生成する」という、生命の峻烈な計算能力が宿っています。それは。知性が逆風や困難（不均衡）を逆手に取り、自らを動かすための強力な推進力へと変換してゆくプロセスの象徴。",
+		"aftertaste": "ミトコンドリアの深部で、絶え間なく繰り返される「化学浸透（chemosmosis）」の奔流を幻視し、自分が生きて動いていることの物理的な「必然」に圧倒される、あの峻烈な一体感。あるいは、自分の思考もまた、この「ケミオズモシス」のように、異なるアイディアの「落差」の中からこそ、最も眩（まばゆ）い火花を散らすことができるのだと確信する、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ピーター・ミッチェルによって提唱されたこの理論は、エネルギー代謝における最大の謎を解き明かした。生命は、単なる燃焼ではなく、高度に管理された『ダム（勾配）』の落差を利用していたのである。",
+				"『浸透（osmosis）』とは、均一化（entropy）への欲求だが、ケミオズモシスにおいては、それは『仕事』を生むためのダイナミックな流れとして定義される。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "electroporation",
+		"word": "Electroporation",
+		"part_of_speech": "noun",
+		"meaning": "電気穿孔法（でんきせんこうほう）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ēlektron",
+					"type": "root",
+					"meaning": "amber (琥珀)', from Greek"
+				},
+				{
+					"text": "porus",
+					"type": "root",
+					"meaning": "passage, pore (通路、穴)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From electro- + poration, from Latin porus 'pore'."
+		},
+		"core_concept": {
+			"en": "The action or process of introducing DNA or genes into a cell through a cell membrane by means of an electric pulse",
+			"ja": "一瞬の電撃（shock）によって、閉ざされた細胞の門（pore）を強引に開かせる、知的な『侵入』。境界線を麻痺（paralysis）させ、外部の情報を深部へと流し込むための、峻烈な工学的飛躍"
+		},
+		"thinking_layer": "『電気による通路形成』。エレクトロン（Electron/電子）、ポア（Pore/小孔）と同根。語源は「琥珀の道」。ただの「衝撃」ではありません。そこには。「従来のルール（半透性）を一時的に無効化し、不可能を可能にする」という、フロンティア精神の荒々しさが宿っています。それは。知性が固定観念（membrane）を打ち破り、異物としての真実を自らの中へと「強制的にインポート」する瞬間の、痛みを伴う変容。 ",
+		"aftertaste": "「エレクトロポレーション（electroporation）」によって開いた微細な傷跡から、新しい未来の設計図（DNA）が流れ込んでゆく様子を想像し、進化とは常にこのような「平和的ではない介入」から始まるのかもしれないと戦慄する、あの知的な静寂。あるいは、自分の言葉が、誰かの凍てついた心を一瞬だけ「電気穿孔」し、真実の光を一筋だけ通すためのきっかけになればと願う、あの静かな午後の野心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "per-",
+					"meaning": "to pass through (forming porus)"
+				}
+			],
+			"points": [
+				"pore, porous, port, porch 同根。",
+				"『穴（pore）』とは、隔離されていた二つの世界を和解させるための最小の装置である。エレクトロポレーションは、その和解を物理的な暴力（電撃）によって『急進的』に推し進める行為である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "plasmodesma",
+		"word": "Plasmodesma",
+		"part_of_speech": "noun",
+		"meaning": "原形質連絡（げんけいしつれんらく）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "plasma",
+					"type": "root",
+					"meaning": "something molded (形作られたもの)', from Greek plassein"
+				},
+				{
+					"text": "desmos",
+					"type": "root",
+					"meaning": "bond, band (絆、帯)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek plasma 'molded' + desmos 'bond'."
+		},
+		"core_concept": {
+			"en": "A narrow thread of cytoplasm that passes through the cell walls of adjacent plant cells and allows communication between them",
+			"ja": "隣り合う細胞同士が、堅牢な壁（cell wall）を打ち抜いて繋ぎ合う『秘密の握手（handshake）』。個としての独立を保ちつつも、魂のひだ（plasma）を直接分かち合う、植物的な『共感の回廊』"
+		},
+		"thinking_layer": "『原形質の絆』。プラスチック（Plastic/成形可能な）、おなじみ「デスモ（絆、結合-）」と同根。語源は「形作られた結合」。ただの「管」ではありません。それは。「私はあなたであり、あなたは私である」という、生命の根源的な調和の具現。知性が孤独を克服し、他者と深層心理のレベルで「同期（sync）」する瞬間のメタファー。 ",
+		"aftertaste": "植物の葉一枚の中に、数千万もの「プラスモデズマ（plasmodesma）」が網の目のように張り巡らされ、一滴の水の記憶が全体へと共有される様子を想い、生命がいかに「孤立」を拒絶しているのかを知り、目頭が熱くなる、あの知的な平安。あるいは、自分の思考が、誰かの心へと繋がるこの「見えない絆」となり、いつか決定的な瞬間に助けとなれることを願う、あの静かな午後の献身。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pele-",
+					"meaning": "to spread, mold (forming plassein)"
+				},
+				{
+					"term": "dē-",
+					"meaning": "to bind (forming desmos)"
+				}
+			],
+			"points": [
+				"plasma, plaster, diadem, synergy（？） 同根。",
+				"『形作るもの（plasma）』を『縛り付ける（desmos）』という、この言葉の構成には、生命が自らの流動性を、いかにして『社会的な秩序』へと組織化させてきたかという歴史が刻まれている。原形質連絡は、個の自由と全体への奉仕が両立する唯一の場所である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cyclosis",
+		"word": "Cyclosis",
+		"part_of_speech": "noun",
+		"meaning": "原形質流動、シクローシス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kyklos",
+					"type": "root",
+					"meaning": "circle, wheel (円、車輪)",
+					"lang": "Greek"
+				},
+				{
+					"text": "-osis",
+					"type": "suffix",
+					"meaning": "process, state (プロセス、状態)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek kyklōsis 'a surrounding', from kyklos 'circle'."
+		},
+		"core_concept": {
+			"en": "The circulation of cytoplasm within a cell",
+			"ja": "細胞という小宇宙（microcosm）の中で、絶えることなく渦（vortex）を巻き続ける、生命の『深海流』。静止しているように見える場所に、常に新鮮な酸素（oxygen）と驚き（surprise）を運び続ける、止まることを知らない『更新の巡礼』"
+		},
+		"thinking_layer": "『円環の状態』。サイクル（Cycle/円、循環）、おなじみ「バイシクル（Bicycle）」と同根。語源は「円」。ただの「流れ」ではありません。それは。自らを自らでかき混ぜ、腐敗を遠ざけ、均一化（entropy）を拒絶する、能動的なダイナミズム。知性が自らの知識を絶えず循環させ、常に「今、ここ」の真実に触れ続けようとする瞬間のメタファー。",
+		"aftertaste": "オオカナダモの細胞を覗き、緑の粒（クロロプラスト）がこの「シクローシス（cyclosis）」に乗って力強く回っているのを見つめ、生命とは「流れ」そのものであり、止まることは死と同義なのだと悟る、あの峻烈な一瞬。あるいは、自分の思考もまた、この「シクローシス」のように、常に新しい情報の「粒」を回し続け、決して澱（よど）むことのない透明な奔流でありたいと願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwel-",
+					"meaning": "to revolve, move around (forming kyklos)"
+				}
+			],
+			"points": [
+				"cycle, wheel, culture, colony, pole 同根。",
+				"『円（circle）』は完璧な対称性の象徴だが、細胞内においてそれは『輸送』という最も泥臭い目的のために使用される。シクローシスは、理想的な幾何学が、いかにして生命のサバイバルという切実な現実に奉仕しているかを示す、ロゴスの具現である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
