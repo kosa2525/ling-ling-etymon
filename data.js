@@ -253951,5 +253951,46 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "revenant",
+		"word": "Revenant",
+		"part_of_speech": "noun",
+		"meaning": "幽霊、亡霊、帰ってきた人",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back (再び、戻って)"
+				},
+				{
+					"text": "venir",
+					"type": "root",
+					"meaning": "to come (来る)",
+					"lang": "French/Latin"
+				}
+			],
+			"original_statement": "From French, literally 'returning', present participle of revenir 'return'."
+		},
+		"core_concept": {
+			"en": "A person who has returned, especially supposedly from the dead",
+			"ja": "死という絶対的な一線を越えたはずなのに、何らかの執念や未練を燃料にして、再びこの世界へと『戻ってきた（returning）』者。不自然で、不吉な、生への再訪"
+		},
+		"thinking_layer": "『戻ってくるもの』。アベニュー（Avenue/来る道）やコンベンション（Convention/共に来ること）と同根。ただの幽霊（Ghost）が現象であるのに対し、レヴナントはより「強烈な意志を持って肉体的に回帰した」不気味さを指します。裏切られた者、あるいは愛を忘れられない者。過去が現在を侵食する、復讐の足音。",
+		"aftertaste": "埋葬されたはずの男が、泥にまみれた手で自分の家のドアを叩く、その絶望的なまでの執着の重さ。あるいは、自分が捨てたはずの過ちが、何年も経ってから新しい顔をして目の前に現れる、あの回避不能な再会。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gwā-",
+					"meaning": "to come, go"
+				}
+			],
+			"points": [
+				"venture, event, souvenir, prevent 同根。",
+				"『来る（come）』ことは『起こること（event）』であり、一度終わったことが再び起こること（re-venant）は、宇宙の因果律の『破壊』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
