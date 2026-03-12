@@ -262442,5 +262442,225 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "chirality",
+		"word": "Chirality",
+		"part_of_speech": "noun",
+		"meaning": "対掌性、カイラリティ、右型と左型の区別",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kheir",
+					"type": "root",
+					"meaning": "hand (手)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek kheir 'hand'."
+		},
+		"core_concept": {
+			"en": "The property of asymmetry important in several branches of science. An object or a system is chiral if it is distinguishable from its mirror image; that is, it cannot be superimposed onto it",
+			"ja": "鏡の中の自分と、現実の自分が決して重なり合わないという『手（hand）』が持つ根源的な非対称性。右と左、光と影のように、一対でありながら永遠に交わらない運命の裂け目"
+		},
+		"thinking_layer": "『手（の性質）』。カイロプラクティック（Chiropractic/手による治療）やエピケイレーマ（Epicheirema/議論に手をかける）と同根。語源は「手」。右手と左手は、形は同じですが、どう動かしても完全に重ね合わせる（superimpose）ことはできません。それは、全く同じ経験（experience）を共有しているはずの二人が、決定的に異なる「個」であることの冷徹なメタファー。",
+		"aftertaste": "鏡に右手をかざし、鏡の中の左手（mirror image）と自分の右手が、この宇宙の法則によって「決して重なり合えない（non-superimposable）」のだと自覚する時の、あの深い断絶感と、だからこそ自分が「唯一無二（original）」であるという、孤独な充足。あるいは、自分の言葉が相手に届くたびに、この「意味のカイラリティ（semantic chirality）」によってわずかに反転し、誤解（misunderstanding）を生んでいるのではないか、と戦慄する、あの静かな午後の憂鬱。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "gher-",
+					"meaning": "to grasp, take (forming kheir)"
+				}
+			],
+			"points": [
+				"hand, surgery, chirography, chiromancy（手相占い）と同根。",
+				"『掴み取る（grasping）』という行為には常に『方向（direction）』が宿っており、カイラリティ（chirality）とはその方向性が、物質や情報の最小単位（molecule/information）にまで刻み込まれていることの証明である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "levogyrate",
+		"word": "Levogyrate",
+		"part_of_speech": "adjective",
+		"meaning": "左旋性の、左回りの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "laevus",
+					"type": "root",
+					"meaning": "left (左の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "gyrare",
+					"type": "root",
+					"meaning": "to turn (回る、回転する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin laevus 'left' + gyrare 'turn'."
+		},
+		"core_concept": {
+			"en": "Turning to the left; rotating in a counter-clockwise direction",
+			"ja": "世界の中心から見て、静かに『左（left）』へと『渦巻いてゆく（turning）』運動。反時計回りのリズム。日常の太陽の巡りに抗（あらが）うような、内向的で不可解なエネルギーの螺旋"
+		},
+		"thinking_layer": "『左に回ること』。ジャイロ（Gyro/回転儀）や、ガイル（Guile/悪だくみ？回ること？）はおそらくな。語源は「左への回転」。生化学（biochemistry）の世界では、光を左に曲げる分子（L型）を指します。それは、主流（mainstream）を拒絶し、自分だけの特別な「内なる螺旋（inner spiral）」を降りてゆくような、反抗的で孤独な知性の軌跡。",
+		"aftertaste": "貝殻の渦が「左巻き（levogyrate）」であるのを見つけ、それが自然界では「稀（rare）」であることを知り、自分の中に潜む「少数派（minority）」としての誇りが密かに色づく、あの静かな肯定。あるいは、自分の思考が、論理の階段を「左へ、左へ（levogyrate movement）」と下降し続け、もはや誰にも説明できない暗い深淵（abyss）に辿り着いてしまったことに気づく、あの夜の冷気。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "laiwos-",
+					"meaning": "left (forming laevus)"
+				},
+				{
+					"term": "geu-",
+					"meaning": "to bend, curve (forming gyrare)"
+				}
+			],
+			"points": [
+				"left, gyro, gyrate, gyre 同根。",
+				"『左（left）』という方向性は、多くの文化で『不吉』や『内面』と結びつけられてきたが、レボジャイレート（levogyrate）な運動とは、その負の領域をあえて『回転（transformation）』させることで、新しい真理を汲み上げ（drawing up）ようとする試みである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dextrogyrate",
+		"word": "Dextrogyrate",
+		"part_of_speech": "adjective",
+		"meaning": "右旋性の、右回りの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dexter",
+					"type": "root",
+					"meaning": "right (右の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "gyrare",
+					"type": "root",
+					"meaning": "to turn (回る、回転する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin dexter 'right' + gyrare 'turn'."
+		},
+		"core_concept": {
+			"en": "Turning to the right; rotating in a clockwise direction",
+			"ja": "太陽の軌跡（orbit）をなぞるように、堂々と『右（right）』へと『回転（turning）』してゆく運動。世界の秩序と同期（sync）し、外の世界へと力強く拡散してゆく、明晰で肯定的なエネルギーの螺旋"
+		},
+		"thinking_layer": "『右に回ること』。デクストラス（Dexterous/器用な＝右利き）、アンビデクストラス（Ambidextrous/両利き）、ジャイロ（Gyro）と同根。語源は「右への回転」。生命の糖質（glucose）の多くはこの「D型（右型）」です。秩序（order）に従う美学。それは、迷いなく王道（royal road）を突き進み、自分の影響力を円状に広げてゆく、能動的で健康的な知性の顕現。 ",
+		"aftertaste": "朝の光の中で、ひまわりが太陽を追って「右回りに（dextrogyrate）」首を振るのを見つめ、自分もまた、この世界の巨大な「正の引力（positive gravity）」に身を委ねていたいと願う、あの潔い充足感。あるいは、あまりにも完璧に「右旋回（dextrogyrate action）」し続ける自分の人生が、時には単なる「退屈な反復（mere repetition）」に過ぎないのではないかと疑う、あの晴天の下の微かな空虚。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deks-",
+					"meaning": "right (forming dexter)"
+				},
+				{
+					"term": "geu-",
+					"meaning": "to bend, curve (forming gyrare)"
+				}
+			],
+			"points": [
+				"dexterous, index, digit, gyro 同根。",
+				"『右（right）』であることは『正しい（correct）』ことと語源的に近く、デクストロジャイレート（dextrogyrate）な回転とは、宇宙の調和（cosmic harmony）をそのまま体現しようとする、素直な魂の舞踏である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sinistrorse",
+		"word": "Sinistrorse",
+		"part_of_speech": "adjective",
+		"meaning": "（つる植物などが）左巻きの、左にねじれた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sinister",
+					"type": "root",
+					"meaning": "left (左の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "versus",
+					"type": "root",
+					"meaning": "turned (向けられた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin sinister 'left' + versus 'turned' (from vertere)."
+		},
+		"core_concept": {
+			"en": "Twining or spiralling upwards from right to left",
+			"ja": "根元から見て、右から左へと（反時計回りに）しがみつき、這い上がってゆく『左巻き』の情熱。不吉な予感を孕（はら）みつつも、重力に抗って空へと手を伸ばす、歪んだ生命の刻印"
+		},
+		"thinking_layer": "『左に向けられた』。シニスター（Sinister/不吉な）、リバース（Reverse/逆転）、ユニバース（Universe/一つに回るもの）と同根。語源は「左に向かう」。植物の蔓（つる）がどちらに巻くか。それは単なる偶然（chance）ではなく、DNAに刻み込まれた「宿命の方向」。世界が右を向くなら、自分はあえて左を向いて登り詰めるという、静かな、しかし強固な執着のメタファー。",
+		"aftertaste": "森の奥深くで、古木の幹に「左巻き（sinistrorse）」に絡みつき、その生命力を吸い取らんとする蔦（ivy）の姿に、ある種の「純粋な悪（pure malevolence）」、あるいは「揺るぎない孤独」を見出し、溜息をつく、あの薄暗い静寂。あるいは、自分の歪んだ愛（distorted love）が、この「シニストロース（sinistrorse）」な蔓のように相手を締め上げ、共倒れになろうとしていることに気づく、あの深夜の戦慄。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sen-",
+					"meaning": "to prepare? (uncertain root for sinister)"
+				},
+				{
+					"term": "wer-",
+					"meaning": "to turn (forming versus)"
+				}
+			],
+			"points": [
+				"sinister, version, verse, versus 同根。",
+				"『左（sinister）』とは文明の光が届かぬ『影』の側だが、シニストロース（sinistrorse）な旋回は、その影の中にしか存在しない『真実の輪郭』を、螺旋状に浮き彫りにするための、生命の必死な署名である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dextrorse",
+		"word": "Dextrorse",
+		"part_of_speech": "adjective",
+		"meaning": "（つる植物などが）右巻きの、右にねじれた",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dexter",
+					"type": "root",
+					"meaning": "right (右の)",
+					"lang": "Latin"
+				},
+				{
+					"text": "versus",
+					"type": "root",
+					"meaning": "turned (向けられた)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin dexter 'right' + versus 'turned'."
+		},
+		"core_concept": {
+			"en": "Twining or spiralling upwards from left to right",
+			"ja": "光の導くままに、左から右へと（時計回りに）力強く空を掴み取ってゆく『右巻き』の軌跡。順応（adaptation）と、成長への健全な渇望が描く、確信に満ちた上昇のシルエット"
+		},
+		"thinking_layer": "『右に向けられた』。デクストラス（Dexterous）、コンバース（Converse/共に回る＝会話）、バーティカル（Vertical/垂直な）と同根。語源は「右に向かう」。蔓（つる）が右に巻くことは、世界との「和解（reconciliation）」を象徴します。それは社会のルールに従いつつ、その中で誰よりも高く、誰よりも鮮やかに自分の「意志」の葉を広げようとする、現実的で野心的な知性の形式。",
+		"aftertaste": "春の光を浴びた「右巻き（dextrorse）」の蔓が、朝顔のように一途な美しさで天を仰ぐのを見上げ、自分もまた、このように「まっすぐな歪み（honest twist）」を持って生きてゆきたいと願う、あの背筋が伸びるような爽快感。あるいは、自分の成功の影に、この「右巻きの螺旋（dextrorse spiral）」に乗れずに振り落とされていった、数多の「左巻きの夢」を想い、少しだけ足を止める、あの静かな午後の追憶。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deks-",
+					"meaning": "right (forming dexter)"
+				},
+				{
+					"term": "wer-",
+					"meaning": "to turn (forming versus)"
+				}
+			],
+			"points": [
+				"dexterous, index, convert, versus 同根。",
+				"『正しい方向（right direction）』へと自らをねじ曲げる（twisting）ことは、生存のために生命が獲得した最大の『妥協』であり、同時に最も美しい『適応（art）』の表現である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
