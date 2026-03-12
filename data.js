@@ -266468,5 +266468,207 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "empyreuma",
+		"word": "Empyreuma",
+		"part_of_speech": "noun",
+		"meaning": "焦げ臭さ、焼臭",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "em-",
+					"type": "prefix",
+					"meaning": "in, upon (中に、の上に)"
+				},
+				{
+					"text": "pyreuein",
+					"type": "root",
+					"meaning": "to set on fire (火をつける)",
+					"lang": "Greek"
+				},
+				{
+					"text": "pyr",
+					"type": "root",
+					"meaning": "fire (火)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek empyreuma, from empyreuein 'set on fire', from pyr 'fire'."
+		},
+		"core_concept": {
+			"en": "The smell of organic matter being burned or charred in a closed vessel; the peculiar smell or taste arising from such burning",
+			"ja": "密閉された場所で、生命の痕跡が『火（fire）』に焼かれ、炭へと変わってゆく瞬間の『焦げ臭さ』。かつての熱狂や存在が、冷たい無機物へと還元されてゆくプロセスの、峻烈な残香"
+		},
+		"thinking_layer": "『火の中にあるもの』。パイア（Pyre/薪葬の積み藁）、ピル（Pyr-/火の）、パイロテクニクス（Pyrotechnics/花火、軍用火工品）と同根。語源は「火をつけられたもの」。ただの「焦げた匂い」ではありません。そこには。有機物がその形を失い、純粋な炭素（carbon）へと変容する「破壊と生成」のニュアンスが宿っています。それは。情熱が燃え尽きた後に残る、知性の「冷えた記憶（chilled memory）」。",
+		"aftertaste": "誰もいない部屋に残る、微かな「焼臭（empyreuma）」を嗅ぎ、かつてそこで交わされたであろう激しい言葉の応酬や、破り捨てられた手紙の残骸に想いを馳せる、あの知的な寂しさと戦慄。あるいは、自分のアイディアが現実という「火（fire）」に焼かれ、この「エンピリウマ（empyreuma）」のような苦い後味（aftertaste）を残して消えてゆくのを、静かに見届ける、あの冷淡な午前。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pewo-",
+					"meaning": "fire (forming pyr)"
+				}
+			],
+			"points": [
+				"fire, pure, purge, pyre 同根。",
+				"『火（fire）』はすべてを浄化するが、同時にその存在の『最後の一呼吸（last breath）』を、匂いという非物質的な形式で空間に刻み込む。エンピリウマ（empyreuma）は、物質が精神へと昇華される直前の、末期の叫びである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "halitus",
+		"word": "Halitus",
+		"part_of_speech": "noun",
+		"meaning": "吐息、蒸気、呼気、かすかな霧",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "halare",
+					"type": "root",
+					"meaning": "to breathe (呼吸する)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin halitus, from halare 'breathe'."
+		},
+		"core_concept": {
+			"en": "A vapor, breath, or exhalation",
+			"ja": "生命が自らの内側から静かに解き放つ、温かく湿った『一呼吸（breath）』。存在の奥底から立ち上り、一瞬で虚空（empty air）へと溶けて消えゆく、最も儚（はかな）い境界の表れ"
+		},
+		"thinking_layer": "『呼吸すること』。インヘイル（Inhale/吸い込む）、エクスヘイル（Exhale/吐き出す）、ハリトーシス（Halitosis/口臭）と同根。語源は「呼吸」。ただの「息」ではありません。寒い朝、白く浮かび上がるあの「蒸気（vapor）」のような、視覚化された生命の証。それは。言葉になる前の、純粋な「意志（will）」の震え。知性が世界に対して差し出す、最初の挨拶。 ",
+		"aftertaste": "鏡の表面を曇らせる、自分の「吐息（halitus）」を見つめ、自分が確かに「今、ここで生きている」という事実に戸惑い、その曇りが消えてゆく速度に「時間の無慈悲さ」を悟る、あの峻烈な沈黙。あるいは、自分の言葉がこの「ハリトゥス（halitus）」のように、誰かの心に優しい温もりだけを残し、そのまま静かに霧散（evaporate）してゆくことを願う、あの潔い自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "an-",
+					"meaning": "to breathe (uncertain connection to halare)"
+				}
+			],
+			"points": [
+				"exhale, inhale, anhelation（喘ぎ） 同根。",
+				"『呼吸（breathing）』とは、内側と外側の絶え間ない境界の侵犯である。ハリトゥス（halitus）という言葉は、その侵犯がもたらす『微かな揺らぎ』を慈しむための、知性の繊細なレンズである。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mephitis",
+		"word": "Mephitis",
+		"part_of_speech": "noun",
+		"meaning": "毒気（どっき）、悪臭、地下から立ち上るガス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mefitis",
+					"type": "root",
+					"meaning": "noxious exhalation (有害な呼気)",
+					"lang": "Oscan/Latin"
+				}
+			],
+			"original_statement": "From Latin mephitis."
+		},
+		"core_concept": {
+			"en": "A noxious or foul-smelling exhalation from the earth or from decaying matter",
+			"ja": "大地の裂け目から静かに這い出し、生命を蝕（むしば）む『毒気（noxious gas）』。腐敗や死の影を纏（まと）いながら、抗いがたい支配力で空間を染め上げる、不可視の暴力"
+		},
+		"thinking_layer": "『有害な蒸気』。メフィティック（Mephitic/悪臭を放つ）、メフィストフェレス（Mephistopheles/悪魔＝光を嫌う者、あるいは悪臭を好む者）と同根。語源は「悪臭」。ただの「臭い」ではありません。そこには。生命の秩序を根底から揺るがすような「不吉な予感」が宿っています。それは。社会の表面的な清潔さの下に隠された、剥き出しの「悪意（malice）」や「停滞（stagnation）」。 ",
+		"aftertaste": "古びた図書館の地下から漂ってくる、あの「毒気（mephitis）」を含んだような紙の朽ちる匂いに、歴史の重みと「忘却（oblivion）」の恐怖を同時に感じ、息を詰める、あの峻烈な一瞬。あるいは、自分の心から立ち上る「メフィティス（mephitis）」のような暗い情念を、どうにかして「言葉の香水（perfume of words）」で覆い隠そうとする、あの虚しい、しかし必死の虚飾（vanity）。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神話において、メフィティス（Mephitis）は火山や沼地の有毒ガスを司る女神（goddess）でもあった。破壊的な力は、常に神聖な畏怖と隣り合わせにある。",
+				"『悪臭（stench）』とは、生命がその回避すべき対象を察知するための原初のアラート（alert）である。メフィティスという言葉は、その不快さを知的な探究心へと変換するための、美学的なフィルタとして機能する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nidor",
+		"word": "Nidor",
+		"part_of_speech": "noun",
+		"meaning": "（料理の）匂い、焼肉の匂い、焦げ臭さ、むっとする匂い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nidor",
+					"type": "root",
+					"meaning": "fume, smell, steam (煙、匂い、蒸気)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin nidor."
+		},
+		"core_concept": {
+			"en": "A strong, heavy, or pervasive smell, especially of cooking or burning meat",
+			"ja": "生命が焼かれ、その脂（fat）が火に滴り落ちて、空間を支配する『濃密な重たい匂い』。食欲（appetite）と罪悪感（guilt）を同時に刺激する、動物的な欲望の署名"
+		},
+		"thinking_layer": "『強い匂い』。ニドラス（Nidorous/焦げ臭い）と同根。語源は「煙、匂い」。ただの「匂い」ではありません。そこには「生々しさ（vividness）」と、どこか「むせ返るような密度（density）」が含まれます。それは。知性がどんなに洗練されても、決して逃れることのできない「肉体（flesh）」という名の牢獄。生命を維持するために他者を食らうという、残酷な聖餐（sacrament）のメタファー。",
+		"aftertaste": "夕暮れの街角に漂う、あの強烈な「肉の焼ける匂い（nidor）」に誘われ、自分の内なる野性（wildness）が不意に目を覚まし、理性の仮面を食い破ろうとする（breaking through）のを感じて戦慄する、あの知的な敗北感。あるいは、自分の思考が、この「ニドール（nidor）」のように、あまりにも「生（raw）」すぎて、他人の鼻につくのではないかと自戒する、あの静かな午後の憂鬱。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kneid-",
+					"meaning": "to sting, itch? (uncertain connection to nidor)"
+				}
+			],
+			"points": [
+				"nit（しらみ） 同根の説あり。",
+				"『匂い（smell）』とは、物質の最も微細な断片（fragments）が、他者の体内へと直接的に侵入する行為である。ニドール（nidor）はその侵入の激しさを象徴する言葉である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "olfactible",
+		"word": "Olfactible",
+		"part_of_speech": "adjective",
+		"meaning": "嗅ぎうる、嗅覚にかかる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "olfacere",
+					"type": "root",
+					"meaning": "to smell (嗅ぐ)",
+					"lang": "Latin"
+				},
+				{
+					"text": "olere",
+					"type": "root",
+					"meaning": "to emit a smell (匂いを発する)",
+					"lang": "Latin"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make (作る)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin olfactus, from ol- (from olere 'smell') + facere 'make'."
+		},
+		"core_concept": {
+			"en": "Capable of being smelled; perceptible by the sense of smell",
+			"ja": "目に見えず、耳に聞こえず、ただ『嗅覚（smell）』によってのみ、その存在を感知しうる性質。空気の中に溶け込み、私たちの本能に直接語りかける、不可避な存在の形式"
+		},
+		"thinking_layer": "『匂いを嗅ぐことができる』。オルファクション（Olfaction/嗅覚）、おなじみ「ファクト（事実、作る）」と同根。語源は「匂いを作らせる」。ただの「臭い（smelly）」ではありません。そこには。「感知可能（perceptible）である」という、認識の（cognitive）一歩手前の、中立的で厳格な判断が含まれます。知性が、論理という網にかからない「微かな予兆（premonition）」を捉えようとする瞬間のメタファー。",
+		"aftertaste": "「嗅ぎうる（olfactible）」微かな春の香りに、冬の間の長い停滞（stagnation）の終わりを察知し、自分の直感（intuition）が理性に先駆けて「世界の変化」を祝福していることを知る、あの峻烈な喜び。あるいは、自分の罪（sin）や偽りが、誰かの鋭い鼻にとって「嗅ぎうる（olfactible）」ものになっていないかと怯（おび）え、静かに震える、あの深夜の自己嫌悪。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "od-",
+					"meaning": "to smell (forming olere)"
+				},
+				{
+					"term": "dhe-",
+					"meaning": "to do, make (forming facere)"
+				}
+			],
+			"points": [
+				"odor, smell, redolent, fact, efficient 同根。",
+				"『嗅ぐ（smelling）』という感覚は、他の感覚と異なり、大脳辺縁系（limbic system）という情動の中心に直結している。オルファクタブル（olfactible）な世界とは、意味（meaning）よりも先に、生（life）そのものが激しく揺さぶられる場所である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
