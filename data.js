@@ -286350,5 +286350,1386 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "gastronomy",
+		"word": "Gastronomy",
+		"part_of_speech": "noun",
+		"meaning": "美食学、美食術",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gaster",
+					"type": "root",
+					"meaning": "stomach"
+				},
+				{
+					"text": "nomos",
+					"type": "root",
+					"meaning": "law, knowledge"
+				}
+			],
+			"original_statement": "From Greek gaster + nomos."
+		},
+		"core_concept": {
+			"en": "art of good eating",
+			"ja": "胃袋（stomach）を支配する、快楽の法（law）。"
+		},
+		"thinking_layer": "胃の法則。単なる摂食を峻烈に拒み、知性と感覚によって『食べる』という行為を一つの宇宙的な秩序へと昇華させる、生命の洗練された支配術。",
+		"aftertaste": "味覚の背後にある、文明の深淵な知恵に触れる知的充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gastritis (胃炎), metronome と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "culinary",
+		"word": "Culinary",
+		"part_of_speech": "adjective",
+		"meaning": "料理の、台所の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "culina",
+					"type": "root",
+					"meaning": "kitchen"
+				}
+			],
+			"original_statement": "From Latin culinarius."
+		},
+		"core_concept": {
+			"en": "relating to cooking",
+			"ja": "火と鉄が交差する、台所（kitchen）という名の聖域。"
+		},
+		"thinking_layer": "台所の。素材を峻烈な熱で変容（transform）させる、錬金術的な空間に属すること。日常の背後で蠢く、生々しい創造のエネルギーを指し示す。",
+		"aftertaste": "立ち込める湯気と、静かな刃物の音の記憶。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"kiln (窯) と遠い縁がある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "cuisine",
+		"word": "Cuisine",
+		"part_of_speech": "noun",
+		"meaning": "料理（法）、特有の料理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "coquere",
+					"type": "root",
+					"meaning": "to cook"
+				}
+			],
+			"original_statement": "From Latin coquina 'kitchen'."
+		},
+		"core_concept": {
+			"en": "style or method of cooking",
+			"ja": "文化という名の火で、峻烈に『調理（cook）』された情報の結晶。"
+		},
+		"thinking_layer": "調理されたもの。単なる栄養補給を峻烈に脱し、特定の風土や歴史が凝縮された『様式』へと精錬された、情報の芸術的な体系。",
+		"aftertaste": "一口の中に、遠い異国の風景と時間が溶け出すような陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cock, cook と同根。フランス語の『台所』から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "banquet",
+		"word": "Banquet",
+		"part_of_speech": "noun",
+		"meaning": "宴会、祝宴、晩餐会",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "banc",
+					"type": "root",
+					"meaning": "bench"
+				}
+			],
+			"original_statement": "From Old French banquet 'little bench'."
+		},
+		"core_concept": {
+			"en": "elaborate formal meal",
+			"ja": "長椅子（bench）に集い、情報の連帯を食い尽くす。"
+		},
+		"thinking_layer": "小さなベンチ。孤食を峻烈に拒み、権威、富、そして祝祭という名の情報の奔流を、巨大な円卓の上に並べ立てる。それは社会的な『契約（contract）』の生々しい現出。",
+		"aftertaste": "喧騒が去った後の、黄金の欠片と不滅の連帯の予感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"bank, bench と同じ根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "feast",
+		"word": "Feast",
+		"part_of_speech": "noun",
+		"meaning": "祝宴、祭典、大ごちそう",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "festa",
+					"type": "root",
+					"meaning": "festival, holiday"
+				}
+			],
+			"original_statement": "From Latin festa."
+		},
+		"core_concept": {
+			"en": "large meal celebrating an occasion",
+			"ja": "日常の乏しさを峻烈に打ち砕く、情報の過剰なる聖別（feria）。"
+		},
+		"thinking_layer": "祝祭的なこと。労働という名の『呪い』を峻烈に解き放ち、神々への供物と人間の欲望が一体となった、情報の爆発的な浪費。",
+		"aftertaste": "全感覚が解放され、宇宙と合一したかのような圧倒的な充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"festival と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "condiment",
+		"word": "Condiment",
+		"part_of_speech": "noun",
+		"meaning": "調味料、薬味、情報の微小な火花",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "condire",
+					"type": "root",
+					"meaning": "to preserve, pickle, season"
+				}
+			],
+			"original_statement": "From Latin condimentum."
+		},
+		"core_concept": {
+			"en": "substance added to food to enhance its flavor",
+			"ja": "素材の沈黙を、峻烈な『保存と調和（preserve）』で目覚めさせる。"
+		},
+		"thinking_layer": "共に保存すること。主役を峻烈に引き立てるため、塩、スパイス、あるいは発酵という名の『時間の結晶』を情報の火花（sparkle）として散らす隠れた支配者。",
+		"aftertaste": "一瞬の刺激が、味の迷宮を完璧に完成させるという震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"abscond (隠す/逃亡する) と同じ condire。味を閉じ込める。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "appetizer",
+		"word": "Appetizer",
+		"part_of_speech": "noun",
+		"meaning": "前菜、オードブル、情報の渇望を産む者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "petere",
+					"type": "root",
+					"meaning": "to seek, drive at"
+				}
+			],
+			"original_statement": "From appetite."
+		},
+		"core_concept": {
+			"en": "small dish of food to stimulate the appetite",
+			"ja": "真の満足へと、魂を峻烈に『駆り立て（seek）』る情報の閃き。"
+		},
+		"thinking_layer": "求めること。欠落感を峻烈に煽り、これから始まる巨大な情報の奔流を最高潮の期待で迎えさせるための、知的な先遣部隊（scout）。",
+		"aftertaste": "次は何か、という飢えた好奇心に火が灯る瞬間の戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"petition, compete と同じ petere。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "entree",
+		"word": "Entree",
+		"part_of_speech": "noun",
+		"meaning": "（コース料理の）メインディッシュ、中皿、情報の突入口",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "intra-",
+					"type": "prefix",
+					"meaning": "inside"
+				},
+				{
+					"text": "ire",
+					"type": "root",
+					"meaning": "to go"
+				}
+			],
+			"original_statement": "From French entrée 'entrance'."
+		},
+		"core_concept": {
+			"en": "main course of a meal",
+			"ja": "物語の核心、あるいは真実へと峻烈に『突入（entrance）』する。"
+		},
+		"thinking_layer": "入ること。前置き（preliminary）を峻烈に排し、その文化が持つ最も重層的で、かつ生命力の漲る情報の核を胃袋へと叩き込む、情報の臨界点。",
+		"aftertaste": "全体を掌握したという、重厚で不可逆な満足感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"entry, exit と同じ根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "confectionery",
+		"word": "Confectionery",
+		"part_of_speech": "noun",
+		"meaning": "菓子、製菓業、情報の甘い調合",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make"
+				}
+			],
+			"original_statement": "From confection."
+		},
+		"core_concept": {
+			"en": "sweets and chocolates",
+			"ja": "砂糖という名の光を、峻烈に『作り固め（make together）』た奇跡。"
+		},
+		"thinking_layer": "共に作ること。自然界には存在しない過剰なまでの甘美さを、人の手で峻烈に調合（compound）し、形という名の『誘惑』を授けた、情報の人工的な楽園。",
+		"aftertaste": "一瞬で脳を支配する、暴力的なまでの甘やかさと背徳感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fact, fiction と同じ facere。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "marinate",
+		"word": "Marinate",
+		"part_of_speech": "verb",
+		"meaning": "浸す、マリネ（下味）にする、情報の塩の洗礼",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "marinus",
+					"type": "root",
+					"meaning": "of the sea"
+				}
+			],
+			"original_statement": "From Latin marinus."
+		},
+		"core_concept": {
+			"en": "soak in a liquid before cooking",
+			"ja": "素材を『海（sea）』の沈黙の中に沈め、情報の変容を待つ。"
+		},
+		"thinking_layer": "海の。硬質な物質を、塩と酸という名の『情報の浸透圧』によって峻烈に柔らかくし、内側の深淵にまで意味（味）を浸透させる、時間の魔法を伴う洗礼。",
+		"aftertaste": "芯まで味が染み渡った、情報の調和（unity）への深い満足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"marine, submarine と同じ根。もとは塩水に浸すこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "saute",
+		"word": "Saute",
+		"part_of_speech": "verb",
+		"meaning": "ソテーする、炒める、情報の跳躍",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "salire",
+					"type": "root",
+					"meaning": "to jump, leap"
+				}
+			],
+			"original_statement": "From French sauté 'jumped'."
+		},
+		"core_concept": {
+			"en": "fry quickly in a little hot fat",
+			"ja": "熱き油の海で、素材を峻烈に『躍（jump）』動させる。"
+		},
+		"thinking_layer": "跳ぶこと。ただの加熱を峻烈に拒み、衝撃的なまでの高熱で素材の表面を峻烈に封印（sear）し、一気に情報の密度を爆発させて、躍り上がるような食感を産み出す。",
+		"aftertaste": "外はカリッと、中は瑞々しいという、動的な情報のコントラスト。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"assault, result と同じ salire。火の上の跳躍。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "flambe",
+		"word": "Flambe",
+		"part_of_speech": "verb",
+		"meaning": "フランベする、酒を振って火を上げる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flamma",
+					"type": "root",
+					"meaning": "flame"
+				}
+			],
+			"original_statement": "From French flambé 'flamed'."
+		},
+		"core_concept": {
+			"en": "cover with spirit and set alight",
+			"ja": "酒という名の情報の毒を、峻烈な『炎（flame）』で聖別する。"
+		},
+		"thinking_layer": "燃えていること。アルコールを峻烈に揮発させ、青き炎によって素材を包み込むことで、香りのエッセンスという名の『情報の精霊』を召喚する、一瞬の視覚的祝祭。",
+		"aftertaste": "炎が去った後に残る、芳醇で神秘的な香調（bouquet）への驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"flame, flamingo と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "garnish",
+		"word": "Garnish",
+		"part_of_speech": "noun",
+		"meaning": "盛り付け、添え物、情報の防衛的装飾",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "warnir",
+					"type": "root",
+					"meaning": "to equip, furnish, warn"
+				}
+			],
+			"original_statement": "From Old French garnir."
+		},
+		"core_concept": {
+			"en": "decorate food",
+			"ja": "空白の皿を、峻烈な情報の色彩で『武装（equip）』し、完成させる。"
+		},
+		"thinking_layer": "備え付けること（警告すること）。単一の味の支配を峻烈に拒み、対照的な色彩や香りを添えることで、皿という宇宙を外界の単調さから峻烈に防衛する、情報の化粧。",
+		"aftertaste": "小さな欠片が、全体のパースペクティブを峻烈に決定しているという気づき。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"garret (塔の上の部屋), warn と同根。情報を『護る』装飾。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sommelier",
+		"word": "Sommelier",
+		"part_of_speech": "noun",
+		"meaning": "ソムリエ、ワインの番人、情報の運び手",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sommier",
+					"type": "root",
+					"meaning": "pack animal, beast of burden"
+				}
+			],
+			"original_statement": "From Old French sommelier 'beast of burden officer'."
+		},
+		"core_concept": {
+			"en": "wine steward",
+			"ja": "情報の葡萄（wine）という重荷を背負い、真理の杯を運ぶ『ロバ（beast）』。"
+		},
+		"thinking_layer": "荷を運ぶロバの担当。かつては食料や荷物を運ぶ者の長。今は、数万のワインという名の『情報の迷宮』から、依頼人にふさわしい唯一の糸口を峻烈に見つけ出し、優雅に差し出す情報の司祭。",
+		"aftertaste": "情報の重みを知る者だけが醸し出す、沈黙の圧倒的な信頼感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"easel (イーゼル＝ロバ) と同様の比喩構造。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vintage",
+		"word": "Vintage",
+		"part_of_speech": "noun",
+		"meaning": "ヴィンテージ、特定の年の収穫、情報の時間の凝縮",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vinum",
+					"type": "root",
+					"meaning": "wine"
+				},
+				{
+					"text": "demere",
+					"type": "root",
+					"meaning": "to take off"
+				}
+			],
+			"original_statement": "From Latin vindemia 'a grape-gathering'."
+		},
+		"core_concept": {
+			"en": "year in which wine was produced",
+			"ja": "特定の年という名の時間の断片を、峻烈に『摘み取り（take off）』、瓶に封印する。"
+		},
+		"thinking_layer": "ワインを摘むこと。流動する時間を峻烈に停止させ、その瞬間の太陽、雨、そして大地の記憶を情報の液体として永久保存する、時間の抽出行為。 ",
+		"aftertaste": "十年、二十年前の光が、今自分の網膜と舌で爆発する瞬間の目眩。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vine, wine と同じ根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "terroir",
+		"word": "Terroir",
+		"part_of_speech": "noun",
+		"meaning": "テロワール、土地特有の性格",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "terra",
+					"type": "root",
+					"meaning": "earth, ground"
+				}
+			],
+			"original_statement": "From French terroir."
+		},
+		"core_concept": {
+			"en": "environmental factors that affect a crop's phenotype",
+			"ja": "大地（earth）の底から吸い上げられた、不滅の情報のアイデンティティ。"
+		},
+		"thinking_layer": "土地。気候、地質、そして地形という名の『逃れ得ぬ情報の要塞』が、作物の一つ一つの粒子に峻烈に刻印され、その場所にしか存在し得ない響き（flavor）を峻烈に宣告すること。",
+		"aftertaste": "自分が今、この星の特定の欠片を摂取しているという、強烈な実存感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"territory, terrace と同じ terra。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "delectable",
+		"word": "Delectable",
+		"part_of_speech": "adjective",
+		"meaning": "非常に美味しい、楽しい、情報の魅惑",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "lacere",
+					"type": "root",
+					"meaning": "to entice, snare"
+				}
+			],
+			"original_statement": "From Latin delectare 'to lure away'."
+		},
+		"core_concept": {
+			"en": "delicious",
+			"ja": "日常の正気から、魂を峻烈に『誘い出す（entice away）』甘き罠。"
+		},
+		"thinking_layer": "誘惑し去ること。理性の防壁を峻烈に突き抜け、ただ一つの感覚的な悦びによって、現世の不自由（constraints）を忘れさせ、快楽の淵へと無理やり連れ去るほどに、魅力的であること。",
+		"aftertaste": "抗いようのない情報の誘惑に、自ら進んで堕ちてゆく甘美な降伏。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"delicious, elicit と同根。ラテン語 lacere (罠にかける)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "omnivorous",
+		"word": "Omnivorous",
+		"part_of_speech": "adjective",
+		"meaning": "雑食の、何でも食べる",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "omnis",
+					"type": "root",
+					"meaning": "all"
+				},
+				{
+					"text": "vorare",
+					"type": "root",
+					"meaning": "to devour"
+				}
+			],
+			"original_statement": "From Latin omnivorus."
+		},
+		"core_concept": {
+			"en": "eating every kind of food",
+			"ja": "全（all）宇宙の情報を、際限なく『食い尽くす（devour）』貪欲な意志。"
+		},
+		"thinking_layer": "すべてを飲み込む。特定の領域（specialty）を峻烈に拒絶し、生も死も、光も闇も、あらゆる情報の粒子を自分の実存へと変換しようとする、境界なき捕食のエネルギー。",
+		"aftertaste": "自分の内側に、世界全体の残滓を包含しているという、巨大な混沌の充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"omnipotent, devour と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vegetarian",
+		"word": "Vegetarian",
+		"part_of_speech": "noun",
+		"meaning": "菜食主義者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vegetare",
+					"type": "root",
+					"meaning": "to enliven, animate"
+				}
+			],
+			"original_statement": "From vegetable."
+		},
+		"core_concept": {
+			"en": "person who does not eat meat",
+			"ja": "殺戮という名の情報を峻烈に拒み、大地の『生命（enliven）』だけを摂取する。"
+		},
+		"thinking_layer": "活発にすること。血の通った肉欲を峻烈に排し、植物という名の『情報の純粋な光』によって自己を精錬し、魂の状態を大地へと回帰（return）させようとする情報の倫理。 ",
+		"aftertaste": "自分が透明になり、自然のリズムと完全に同調しているという清浄な感覚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vegetable はもともと『活発な、生き生きした』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vegan",
+		"word": "Vegan",
+		"part_of_speech": "noun",
+		"meaning": "ヴィーガン、完全菜食主義者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "veg-",
+					"type": "prefix",
+					"meaning": "VEGetariAN"
+				}
+			],
+			"original_statement": "Coined by Donald Watson in 1944."
+		},
+		"core_concept": {
+			"en": "person who does not eat any animal products",
+			"ja": "生命の搾取を、情報の『始点（Veg）』から『終点（an）』まで峻烈に断絶する。"
+		},
+		"thinking_layer": "VEGetariANの短縮。搾取という名の情報の鎖から完全に自由になるため、乳、蜜、卵までも峻烈に拒否し、自らを非暴力という名の極限の『空白』へと追い込む、情報の殉教的なまでの徹底。",
+		"aftertaste": "一切の貸し借りが排された後の、冷徹で気高いまでに孤高な存在感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"1944年、イギリスで生まれた新語。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "calorie",
+		"word": "Calorie",
+		"part_of_speech": "noun",
+		"meaning": "カロリー、熱量、情報の火の単位",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "calor",
+					"type": "root",
+					"meaning": "heat"
+				}
+			],
+			"original_statement": "From Latin calor."
+		},
+		"core_concept": {
+			"en": "unit of energy",
+			"ja": "生命を駆動する、峻烈な情報の『熱（heat）』の数値。"
+		},
+		"thinking_layer": "熱。見えない生命のエネルギーを、数学的な単位という名の『情報の檻』に峻烈に閉じ込め、生存という名の燃焼（combustion）を完璧に管理しようとする、現代の情報の呪術。 ",
+		"aftertaste": "自分の存在そのものが、計算可能な熱の塊であるという、乾いた理解。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"calix? (いや違う) calor は熱。scald, nonchalant と同族。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nutrient",
+		"word": "Nutrient",
+		"part_of_speech": "noun",
+		"meaning": "栄養素、情報の養い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nutrire",
+					"type": "root",
+					"meaning": "to feed, suckle, nourish"
+				}
+			],
+			"original_statement": "From Latin nutriens."
+		},
+		"core_concept": {
+			"en": "substance that provides nourishment",
+			"ja": "虚無の肉体を、峻烈な情報の『糧（feed）』で満たし、再構築する。"
+		},
+		"thinking_layer": "養うこと。単なる物質を峻烈に拒み、生命の修復と成長に不可欠な情報の配列を外部から摂取。それは自己という名の物語を、永続（sustain）させるための必須の情報の供給。 ",
+		"aftertaste": "欠乏が満たされ、自分という宇宙が再び拡張し始める瞬間の、名もなき勇気。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nurse, nursery と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "delicacy",
+		"word": "Delicacy",
+		"part_of_speech": "noun",
+		"meaning": "珍味、繊細さ、情報の贅択な誘惑",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "deliciae",
+					"type": "root",
+					"meaning": "pleasure, delight, allure"
+				}
+			],
+			"original_statement": "From Latin deliciae."
+		},
+		"core_concept": {
+			"en": "rare or expensive food",
+			"ja": "稀少（rare）という名の情報の毒で、味覚の最深部を峻烈に麻痺させる。"
+		},
+		"thinking_layer": "快楽。ありふれた満足を峻烈に拒絶し、手に入らぬものへの『渇望』を味覚へと変換した情報の極北。それは、不可能性を喰らうという、知性の究極の不遜。",
+		"aftertaste": "手に入れてしまった後の、言葉では説明できない背徳的な孤独。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"delicious と同根。繊細であることが最大の魅力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "horsdoeuvre",
+		"word": "Hors' d'oeuvre",
+		"part_of_speech": "noun",
+		"meaning": "オードブル、前菜、情報の枠外",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "hors",
+					"type": "prefix",
+					"meaning": "outside"
+				},
+				{
+					"text": "de",
+					"type": "root",
+					"meaning": "of"
+				},
+				{
+					"text": "oeuvre",
+					"type": "root",
+					"meaning": "work"
+				}
+			],
+			"original_statement": "French 'outside of work'."
+		},
+		"core_concept": {
+			"en": "appetizer",
+			"ja": "主要な物語（work）の『外部（outside）』で、遊戯する情報の欠片。"
+		},
+		"thinking_layer": "作品の外。メインディッシュの重い責任を峻烈に免除（exempt）され、ただ感覚の目覚めのためだけに、自由で不条理な形と味を身に纏った、情報の軽やかな先駆け。",
+		"aftertaste": "本編が始まる前に、既に冒険は終わっていたかのような短い充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"oeuvre は opus (作品/仕事)。物語の外側。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "souffle",
+		"word": "Souffle",
+		"part_of_speech": "noun",
+		"meaning": "スフレ、情報の膨らんだ溜息",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sub-",
+					"type": "prefix",
+					"meaning": "under, from below"
+				},
+				{
+					"text": "flare",
+					"type": "root",
+					"meaning": "to blow"
+				}
+			],
+			"original_statement": "From French soufflé 'puffed up'."
+		},
+		"core_concept": {
+			"en": "light, frothy dish",
+			"ja": "空気（air）という名の情報の虚無を、峻烈な熱で『溜息（blow）』へと変える。"
+		},
+		"thinking_layer": "吹かれたもの。物質の重みを峻烈な泡立ち（froth）で打ち砕き、一瞬の熱膨張によって空間の奇跡を維持する情報の刹那。それは触れた瞬間に消えゆく、情報の美しき儚さ。",
+		"aftertaste": "消え去る瞬間の絶頂。実体のなさにこそ宿る、情報の究極の優雅。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"inflate, flute と同じ flare (吹く)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fondue",
+		"word": "Fondue",
+		"part_of_speech": "noun",
+		"meaning": "フォンデュ、情報の合一",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fundere",
+					"type": "root",
+					"meaning": "to melt, pour"
+				}
+			],
+			"original_statement": "From French fondue 'melted'."
+		},
+		"core_concept": {
+			"en": "dish of melted cheese",
+			"ja": "固形の個性を峻烈な熱で『溶かし（melt）』、一つの情報の混沌へと誘う。"
+		},
+		"thinking_layer": "溶かされたもの。境界線を峻烈に解体し、あらゆる断片を熱き情報の海（sauce）へと浸し、共有の一体感（communion）を産み出す。それは差異を消し去る、熱き情報の洗礼。",
+		"aftertaste": "すべてが一つに溶け合う、根源的な安堵と一体感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"foundry, confuse と同じ fundere。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "charcuterie",
+		"word": "Charcuterie",
+		"part_of_speech": "noun",
+		"meaning": "シャルキュトリ、食肉加工品、情報の肉の記憶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "chair",
+					"type": "root",
+					"meaning": "flesh"
+				},
+				{
+					"text": "cuit",
+					"type": "root",
+					"meaning": "cooked"
+				}
+			],
+			"original_statement": "From French chair cuite 'cooked flesh'."
+		},
+		"core_concept": {
+			"en": "cold cooked meats",
+			"ja": "剥き出しの肉（flesh）を、峻烈な技で『調理（cook）』し、時間を封印する。"
+		},
+		"thinking_layer": "調理された肉。生の腐敗を峻烈に拒み、塩、煙、そして冷徹な時間という名の情報の重圧によって、肉体を不滅の味へと結晶化させる、命の加工された残響。",
+		"aftertaste": "死から生まれた豊饒さが、舌の上で静かに声を上げる瞬間の戦慄。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"carnal (肉の), biscuit (二度焼いた) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bouillon",
+		"word": "Bouillon",
+		"part_of_speech": "noun",
+		"meaning": "ブイヨン、情報の煮出し汁",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bullire",
+					"type": "root",
+					"meaning": "to boil"
+				}
+			],
+			"original_statement": "From French bouillon 'to boil'."
+		},
+		"core_concept": {
+			"en": "broth or stock",
+			"ja": "沸騰（boil）という名の情報の臨界点で、素材の魂を抽出する。"
+		},
+		"thinking_layer": "沸騰したもの。固体を峻烈な熱で解体し、そのエッセンスだけを液体の情報の宇宙へと移し替える、情報の蒸留行為。あらゆる料理の無言の、しかし絶対的な基底層。",
+		"aftertaste": "目に見えない透明な一滴が、すべての味の奥行きを決定しているという、隠れた支配への驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"boil と同根。泡立つ熱。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "consomme",
+		"word": "Consomme",
+		"part_of_speech": "noun",
+		"meaning": "コンソメ、情報の純化された極み",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "thoroughly"
+				},
+				{
+					"text": "summare",
+					"type": "root",
+					"meaning": "to sum up, complete"
+				}
+			],
+			"original_statement": "From French consommé 'completed, perfected'."
+		},
+		"core_concept": {
+			"en": "clear soup",
+			"ja": "不純物を峻烈に排し、完璧（complete）なまでに透明化された情報の粋。"
+		},
+		"thinking_layer": "完成されたもの。ただの汁（broth）を峻烈に再定義し、濁りとノイズを完全に取り去ることで、黄金色の光という名の情報の純粋な思考へと昇華させる、味覚のミニマリズム。",
+		"aftertaste": "あまりに澄み切っているからこそ見えてくる、情報の絶対的な骨組み。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sum, summary と同根。情報の集約。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fricassee",
+		"word": "Fricassee",
+		"part_of_speech": "noun",
+		"meaning": "フリカッセ、白い煮込み料理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "frire",
+					"type": "root",
+					"meaning": "to fry"
+				},
+				{
+					"text": "casser",
+					"type": "root",
+					"meaning": "to break"
+				}
+			],
+			"original_statement": "From French fricassée."
+		},
+		"core_concept": {
+			"en": "stew of meat cut into pieces",
+			"ja": "肉の剛性を峻烈に『破壊（break）』し、高熱の油で情報の洗礼を授ける。"
+		},
+		"thinking_layer": "揚げて壊す。あるいは炒めて煮る。素材を一度バラバラに峻烈に解体し、白いソースという名の『情報の抱擁』によって再び一つの優しいカオスへと再構成する、情報の破壊と融和。",
+		"aftertaste": "壊されたからこそ得られた、とろけるような情報の甘心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fry と quash? (いや casser は分断)。複合的な調理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "julienne",
+		"word": "Julienne",
+		"part_of_speech": "noun",
+		"meaning": "ジュリエンヌ、千切り、情報の極細の切断",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Julien",
+					"type": "root",
+					"meaning": "name of a cook?"
+				}
+			],
+			"original_statement": "Origin uncertain, relating to a name."
+		},
+		"core_concept": {
+			"en": "food cut into short, thin strips",
+			"ja": "巨大な質量を、峻烈な刃で『情報の糸』へと微粒化する。"
+		},
+		"thinking_layer": "ジュリアンの。素材の個性を峻烈な線としての形状に変容（restructure）させ、火の通りと情報の拡散を最大化する。それは一塊の情報を、無数の点と線へと解像度を高める行為。 ",
+		"aftertaste": "細い一本一本が、独立した味を主張しながら全体を彩る繊細。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"18世紀の料理人の名に由来するという説が有力。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "emulsion",
+		"word": "Emulsion",
+		"part_of_speech": "noun",
+		"meaning": "乳濁（液）、エマルション、情報の斥け合う共生",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "mulgere",
+					"type": "root",
+					"meaning": "to milk"
+				}
+			],
+			"original_statement": "From Latin emulgere 'to milk out'."
+		},
+		"core_concept": {
+			"en": "mixture of two liquids that are normally immiscible",
+			"ja": "反発し合う水と油（information）を、峻烈な攪拌で『絞り（milk）』出すように結ぶ。"
+		},
+		"thinking_layer": "（乳を）絞り出すこと。本来は決して交わらぬ異質な情報の粒子を、第三の触媒（emulsifier）によって峻烈に、かつ一時的に合一させ、滑らかな新しい幻影（illusion）を産み出す、物理的な魔術。",
+		"aftertaste": "不安定な均衡が産み出す、あまりに儚く濃厚な情報のコク。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"milk と同根。絞り出された白き混沌。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "decoction",
+		"word": "Decoction",
+		"part_of_speech": "noun",
+		"meaning": "煮出し（汁）、煎じ薬、情報の極限の抽出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "coquere",
+					"type": "root",
+					"meaning": "to cook"
+				}
+			],
+			"original_statement": "From Latin decoquere."
+		},
+		"core_concept": {
+			"en": "extract made by boiling",
+			"ja": "煮詰め（cook down）尽くし、情報の残留思念を峻烈に凝固させる。"
+		},
+		"thinking_layer": "煮詰めること。水分を峻烈に蒸発させ、情報の濃度を物理的な限界まで高めることで、最も重厚で、かつ逃れようのない真理の味を抽出する、知性の過激な濃縮行為。 ",
+		"aftertaste": "一口が、全宇宙の重さを語るような、峻烈な情報の密度の圧倒感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"concoction, cook と同じ根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "percolation",
+		"word": "Percolation",
+		"part_of_speech": "noun",
+		"meaning": "ろ過、浸出、情報の重力による選別",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "per-",
+					"type": "prefix",
+					"meaning": "through"
+				},
+				{
+					"text": "colare",
+					"type": "root",
+					"meaning": "to strain"
+				}
+			],
+			"original_statement": "From Latin percolare."
+		},
+		"core_concept": {
+			"en": "process of a liquid filtering through a porous material",
+			"ja": "情報の粒子を、多孔質の『篩（strain）』によって峻烈に突き（through）抜ける。"
+		},
+		"thinking_layer": "突き抜けて漉すこと。重力に身を委ね、素材の層を自らの重みで一歩一歩通過（pass through）し、必要な情報の欠片だけを冷徹に選別して、滴り（drop）へと変える、時間の重厚な連鎖。",
+		"aftertaste": "一滴一滴に込められた、長い旅の果ての不純なき真実。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"colander (水切り) と同根。情報の峻烈な選別。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "sucrose",
+		"word": "Sucrose",
+		"part_of_speech": "noun",
+		"meaning": "ショ糖、情報の結晶的な甘美",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "sucre",
+					"type": "root",
+					"meaning": "sugar"
+				},
+				{
+					"text": "-ose",
+					"type": "suffix",
+					"meaning": "sugar"
+				}
+			],
+			"original_statement": "From French sucre."
+		},
+		"core_concept": {
+			"en": "table sugar",
+			"ja": "太陽の光を、峻烈な情報の『結晶（crystal）』へと固定する。"
+		},
+		"thinking_layer": "砂糖。双糖類という名の情報の二重らせん。かつては黄金と同じほどに稀少だった、脳を峻烈に揺さぶる純粋なエネルギーの情報の、最も代表的な形式。",
+		"aftertaste": "血液を一瞬で熱くし、意志という名のエンジンを空回転させる魔力。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"sugar 同様。科学の言葉としての命名。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fructose",
+		"word": "Fructose",
+		"part_of_speech": "noun",
+		"meaning": "果糖、情報の果実的な悦び",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fructus",
+					"type": "root",
+					"meaning": "fruit"
+				}
+			],
+			"original_statement": "From Latin fructus."
+		},
+		"core_concept": {
+			"en": "fruit sugar",
+			"ja": "果実（fruit）という名の情報の溢れを、単糖へと純化する。"
+		},
+		"thinking_layer": "果実の。野性的な大地の恵みを、峻烈な生化学的な眼差しで分解し、最も本能的に、最も速く脳へ届く情報の甘みとして抽出されたもの。実り（fruit）の冷徹なる真実。",
+		"aftertaste": "熟れた果実が脳内で爆発するような、瑞々しくも瞬発的な悦び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fruit, fruition と同じ root。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "maltose",
+		"word": "Maltose",
+		"part_of_speech": "noun",
+		"meaning": "麦芽糖、情報の優しい発芽",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mealt",
+					"type": "root",
+					"meaning": "malt, to melt?"
+				}
+			],
+			"original_statement": "From malt."
+		},
+		"core_concept": {
+			"en": "malt sugar",
+			"ja": "眠れる情報の種（malt）を、発芽という名の火で峻烈に目覚めさせる。"
+		},
+		"thinking_layer": "モルト（麦芽）。極限の飢餓を凌ぐために、デンプンという名の情報の沈黙を、自らの酵素によって甘き情報の歌へと変容させる、生命の変態（metamorphosis）の甘き残響。",
+		"aftertaste": "穀物の奥底に潜んでいた、穏やかで重厚な知恵の余韻。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"malt (麦芽) ＋ -ose。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "lactose",
+		"word": "Lactose",
+		"part_of_speech": "noun",
+		"meaning": "乳糖、情報の始原の滋養",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "lac",
+					"type": "root",
+					"meaning": "milk"
+				}
+			],
+			"original_statement": "From Latin lac."
+		},
+		"core_concept": {
+			"en": "milk sugar",
+			"ja": "母胎から授かった、情報の最初の『白き囁き（milk）』。"
+		},
+		"thinking_layer": "乳の。生命が最初に口にする情報の甘み。それは他者から自己へと受け渡される、最も原初的な愛という名の情報のエネルギー形式。生と継承の象徴。",
+		"aftertaste": "何も持たなかったあの頃の、絶対的な庇護への無意識の郷愁。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lactate, galaxy (天の川) と親戚。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "caffeine",
+		"word": "Caffeine",
+		"part_of_speech": "noun",
+		"meaning": "カフェイン、情報の強制的な覚醒",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "qahwah",
+					"type": "root",
+					"meaning": "coffee"
+				}
+			],
+			"original_statement": "From German Kaffein."
+		},
+		"core_concept": {
+			"en": "stimulant in coffee and tea",
+			"ja": "脳という名の情報の海へ、峻烈な『覚醒の劇薬』を投じる。"
+		},
+		"thinking_layer": "コーヒーより。疲労という名の情報のノイズを峻烈に遮断し、シナプスを不自然なまでの熱量で強制駆動させる、情報のドーピング。眠れる魂への冷徹な鞭打（lashes）。",
+		"aftertaste": "思考が研ぎ澄まされ、全宇宙の細部が刺すように見えてくる瞬間の震撼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"coffee と同根。アラビア語の『力』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "victuals",
+		"word": "Victuals",
+		"part_of_speech": "noun",
+		"meaning": "食糧、備蓄、情報の生命維持装置",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vivre",
+					"type": "root",
+					"meaning": "to live"
+				}
+			],
+			"original_statement": "From Latin victualia 'provisions'."
+		},
+		"core_concept": {
+			"en": "food or provisions",
+			"ja": "生き（live）続けるために、峻烈に確保された情報の最低限。"
+		},
+		"thinking_layer": "生きるためのもの。空腹という名の『死の予感』を峻烈に打ち消すための、物質的な情報の盾。備蓄され、管理された情報の塊。 ",
+		"aftertaste": "これを食うか死ぬか、という極限の生存に向けた冷徹な決意。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vital, vivid と同じ根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "viands",
+		"word": "Viands",
+		"part_of_speech": "noun",
+		"meaning": "食べ物、豪華なごちそう、情報の生きた欠片",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vivire",
+					"type": "root",
+					"meaning": "to live"
+				}
+			],
+			"original_statement": "From Latin vivenda 'things to be lived on'."
+		},
+		"core_concept": {
+			"en": "item of food",
+			"ja": "命という名の（living）火を燃やすための、峻烈な情報の薪。"
+		},
+		"thinking_layer": "生きるべきもの。単なる栄養素（nutrients）を峻烈に超え、そこにあるだけで魂を奮い立たせるような、生々しく、かつ輝かしい情報の果実。",
+		"aftertaste": "自分が今、別の生命の輝きを食べて生きているという、静かなる感謝と畏怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"victuals より少し高雅な響き。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "pottage",
+		"word": "Pottage",
+		"part_of_speech": "noun",
+		"meaning": "ポタージュ、濃いスープ、情報の煮込みカオス",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pot",
+					"type": "root",
+					"meaning": "pot"
+				}
+			],
+			"original_statement": "From pot."
+		},
+		"core_concept": {
+			"en": "thick soup or stew",
+			"ja": "一つの壺（pot）の中で、境界なき情報の『濃密な混淆』を産み出す。"
+		},
+		"thinking_layer": "壺の中身。あらゆる素材を峻烈な熱で文字通り『煮溶かし（restructuring）』、個体を廃して一つの栄養という名の巨大な意志（unity）へと変容させた、原始の情報のスープ。",
+		"aftertaste": "大地全体の生命が、自分の内側で一体化してゆくような、重厚な充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pot, porridge と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ragout",
+		"word": "Ragout",
+		"part_of_speech": "noun",
+		"meaning": "ラグー、煮込み、情報の食欲復興",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "gouter",
+					"type": "root",
+					"meaning": "to taste"
+				}
+			],
+			"original_statement": "From French ragoût 'to revive the taste'."
+		},
+		"core_concept": {
+			"en": "stew of meat and vegetables",
+			"ja": "摩耗した味覚を、峻烈な刺激によって『再び目覚め（re-taste）』させる。"
+		},
+		"thinking_layer": "再び味を呼び覚ますこと。倦怠した日常を峻烈に打ち破るため、香辛料と旨味という名の情報の過剰を煮込み、一撃で食欲を再起動（reboot）させるための情報の火種。 ",
+		"aftertaste": "眠っていた本能が、激しい味の情報の奔流によって覚醒する瞬間の高揚。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"gusto, disgust? (いや gouter は『味わう』)。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "compote",
+		"word": "Compote",
+		"part_of_speech": "noun",
+		"meaning": "コンポート、シロップ煮、情報の整えられた配置",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "ponere",
+					"type": "root",
+					"meaning": "to put, place"
+				}
+			],
+			"original_statement": "From Latin componere 'to put together'."
+		},
+		"core_concept": {
+			"en": "fruit preserved or cooked in syrup",
+			"ja": "果実の形を峻烈に守りながら、甘美な光と共に『配置（place together）』する。"
+		},
+		"thinking_layer": "共に置くこと。壊れやすい果実を、糖という名の情報のバリアで峻烈に保護し、皿の上に一つの完成された秩序（composition）として提示する。それは時間の残酷さへの知的な抵抗。",
+		"aftertaste": "美しく整えられた宝石のような果実に、刃を立てる時の罪悪感と悦び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"compose, composite と同根。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
