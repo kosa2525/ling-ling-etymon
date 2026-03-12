@@ -252279,5 +252279,111 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "pulchritude",
+		"word": "Pulchritude",
+		"part_of_speech": "noun",
+		"meaning": "肉体美、美貌、端麗",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pulcher",
+					"type": "root",
+					"meaning": "beautiful (美しい)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin pulchritudo, from pulcher 'beautiful'."
+		},
+		"core_concept": {
+			"en": "Beauty",
+			"ja": "彫刻のように完璧に整い、一点の瑕疵もなく、見る者の視線を釘付けにする圧倒的な『肉体的な美しさ』。生物的な極致としての輝き"
+		},
+		"thinking_layer": "『美しいこと』。ビューティー（Beauty）が精神的なものも含めるのに対し、パルクリチュードはより「物質的・造形的な完成度」を強調します。それは神が土から人間を作った際の、設計の完璧さへの賛美。あまりにも美しいがゆえに、どこか非人間的な「怖さ」を伴う輝き。",
+		"aftertaste": "夜の噴水広場で、白い大理石の女神像が月光を浴びて浮かび上がる、その冷徹なまでの完璧さ。あるいは、群衆の中で一際異彩を放つ、完璧な均衡を持った顔立ち。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"polic（磨く）と同根の説あり。",
+				"美しさは『磨き上げられたこと（polished）』の結果であるという認識。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mellifluously",
+		"word": "Mellifluously",
+		"part_of_speech": "adverb",
+		"meaning": "甘く、滑らかに、心地よい響きで",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mel",
+					"type": "root",
+					"meaning": "honey"
+				},
+				{
+					"text": "fluere",
+					"type": "root",
+					"meaning": "to flow"
+				}
+			],
+			"original_statement": "From Latin mellifluus."
+		},
+		"core_concept": {
+			"en": "In a way that is sweet or musical; pleasant to hear",
+			"ja": "一切の引っ掛かりや澱みを感じさせず、聴く者の意識を『蜂蜜（honey）』の河に乗せて運ぶように、極めて『滑らか（fluently）』かつ優美な所作や響きで"
+		},
+		"thinking_layer": "『蜂蜜が流れるように』。形容詞 Mellifluous の副詞形。言葉の端々に、あるいは指先の動きに。そこには「他者を心地よくさせ、武装を解かせる」という魔法のような知的な洗練が宿っています。",
+		"aftertaste": "完璧な調律を施されたピアノが、ピアニストの思い通りに歌い出す、あの重力のない感覚。あるいは、一分の隙もなく、しかしどこまでも優しく響く、外交官の巧みな弁舌。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"honey, flowの組み合わせは、古代から『究極の快楽』の象徴。",
+				"『抵抗がゼロであること』が、知性の美学の極点。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fulsome",
+		"word": "Fulsome",
+		"part_of_speech": "adjective",
+		"meaning": "過度の、鼻につく（賞賛など）、溢れんばかりの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "full",
+					"type": "root",
+					"meaning": "full (いっぱいの)"
+				},
+				{
+					"text": "-some",
+					"type": "suffix",
+					"meaning": "characterized by (〜を特徴とする)"
+				}
+			],
+			"original_statement": "From full + -some. Originally 'abundant', but often used to mean 'excessive'."
+		},
+		"core_concept": {
+			"en": "Complimentary or flattering to an excessive degree; of large size or quantity; generous or abundant",
+			"ja": "『一杯（full）』であることを通り越し、器から溢れ出し、周囲をベタベタと汚してしまうほどの過剰な賞賛や厚遇。あまりにも多すぎて、かえって不信感や不快感を抱かせる状態"
+		},
+		"thinking_layer": "『一杯を特徴とすること』。本来は「豊かな」というポジティブな意味でしたが、次第に「やりすぎで空々しい」というニュアンスを帯びるようになりました。美徳も度が過ぎれば、下品な「偽り」へと変質するという、人間の感覚の繊細な境界線。 ",
+		"aftertaste": "延々と続く、歯の浮くようなお世辞のリストに、思わず目を背けたくなるような気恥ずかしさ。あるいは、あまりにも豪華すぎて、かえって落ち着かない客室の静寂。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pele-",
+					"meaning": "to fill"
+				}
+			],
+			"points": [
+				"plenty, complete, supplyと同根。",
+				"『満たす（fill）』という行為に『節度』が欠けた時、価値は逆転して『不快』になる。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
