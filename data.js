@@ -252090,5 +252090,46 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "quantify",
+		"word": "Quantify",
+		"part_of_speech": "verb",
+		"meaning": "数値化する、量を測る",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quantus",
+					"type": "root",
+					"meaning": "how much (どれほど)",
+					"lang": "Latin"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to make (作る)"
+				}
+			],
+			"original_statement": "From Latin quantus 'how much' + facere 'make'."
+		},
+		"core_concept": {
+			"en": "Express or measure the quantity of",
+			"ja": "曖昧で捉えどころのない世界を、『どれほどか（how much）』という問い（数）へと強制的に『作り変える（make）』。混沌を管理可能なデータへと変換する、冷徹な理性の暴力と恩恵"
+		},
+		"thinking_layer": "『どれほどかを作る』。クオリティ（Quality/質）の対義語的な「量」。心を「ドーパミン量」に、愛を「滞在時間」に。すべてを数字に還元することは、世界の魔法を奪うことかもしれませんが、それによって初めて、私たちは巨大なシステムを制御可能にするのです。",
+		"aftertaste": "計量カップに注がれた、かつては海の一部だった水の、寂しいほど正確な数値。あるいは、自分の努力がグラフになった時の、残酷な分かりやすさ。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kwo-",
+					"meaning": "who, which (interrogative base)"
+				}
+			],
+			"points": [
+				"quality, quantity, quoteと同根。",
+				"『問い（question）』を発することが、世界を『計測』するための第一歩。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
