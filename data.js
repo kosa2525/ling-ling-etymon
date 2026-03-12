@@ -270431,5 +270431,178 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "rubrication",
+		"word": "Rubrication",
+		"part_of_speech": "noun",
+		"meaning": "朱書（しゅしょ）、赤インクでの装飾",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ruber",
+					"type": "root",
+					"meaning": "red (赤い)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin rubricatus, from rubricare 'color red', from ruber 'red'."
+		},
+		"core_concept": {
+			"en": "The addition of text in red ink to a manuscript for emphasis or decoration",
+			"ja": "漆黒のインクで綴られたテキストの海に、鮮烈な『赤（red）』の閃光を走らせる装飾の儀式。重要な箇所（頭文字や注釈）を強調し、視線を強引に真実へと引き寄せる、知的な『血の刻印』"
+		},
+		"thinking_layer": "『赤くすること』。ルビー（Ruby/紅玉）、おなじみの「レッド（Red）」と同根。語源は「赤」。ただの「赤書き」ではありません。そこには。「あまりに重要な言葉を、身体的なエネルギー（血）を象徴する色で定着させる」という、峻烈な強調の意志が宿っています。それは。知性が情報のカオスの中から、最も美しいアイディアを「選別」し、永遠の輝きを与えようとする瞬間のメタファー。",
+		"aftertaste": "古書を開いた瞬間に目に飛び込んでくる、この「ルブリーケーション（rubrication）」の鮮やかな赤に、数世紀前の写字生（scribe）の静かな情熱を感じ、色褪（あ）せない人間の「表現への執着」に息を呑む、あの知的な共鳴。あるいは、自分の言葉が、誰かのモノトーンな日常に捧げられる、この「朱書」のような鮮烈なアクセントとなることを願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "reudh-",
+					"meaning": "red (forming ruber)"
+				}
+			],
+			"points": [
+				"ruby, rust, ruddy, rouge 同根。",
+				"『赤（red）』は生命力と警告の二重性を持ち合わせている。ルブリーケーションは、読者に対して『ここを読め（Here is the Truth）』という、無言の命令を下すための、色彩学的な装置である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "historiated",
+		"word": "Historiated",
+		"part_of_speech": "adjective",
+		"meaning": "物語図入りの、挿絵入りの（頭文字など）",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "historia",
+					"type": "root",
+					"meaning": "history, story (物語、歴史)",
+					"lang": "Latin/Greek"
+				}
+			],
+			"original_statement": "From Latin historia 'history, story'."
+		},
+		"core_concept": {
+			"en": "Decorated with figures of people or animals, especially with a narrative purpose",
+			"ja": "文字という抽象的なシンボルの内側に、具体的な『物語（story）』を封じ込めた、イリュージョンの空間。頭文字（initial）そのものが舞台となり、人物や動物たちが生々しいドラマを演じる、知的な『ミクロの宇宙』"
+		},
+		"thinking_layer": "『物語を持たされた』。ヒストリー（History/歴史）、ストーリー（Story/物語）と同根。語源は「物語」。ただの「挿絵（illustration）」ではありません。そこには。「記号（sign）と表象（image）を一つの点に融合させ、情報の密度を極限まで高める」という、峻烈な美学的野心が宿っています。それは。知性が抽象的な概念を、血肉の通った「現実」へと引き戻してゆくプロセスの象徴。",
+		"aftertaste": "巨大な「H」の文字の中に、聖書の劇的な場面が描き込まれた「物語図入り頭文字（historiated initial）」を見つめ、一つの言葉が背負っている「物語の重み」に眩暈（めまい）を覚える、あの知的な充足。あるいは、自分の人生という「一文字」の中にも、これまで出会った人々や風景が、この「ヒストリエイティッド（historiated）」な装飾のように、ぎっしりと描き込まれているのだと気づく、あの静かな夜の平安。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "weid-",
+					"meaning": "to see, know (forming historia)"
+				}
+			],
+			"points": [
+				"vision, idea, wit, wise 同根。",
+				"『歴史（history）』とは、本来『見たこと（sight）』を語ることである。ヒストリエイティッドな装飾は、文字という『聴覚的（あるいは抽象的）な符号』に、『視覚的な証拠』を突きつけることで、真理の説得力を補強する技法である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "floriated",
+		"word": "Floriated",
+		"part_of_speech": "adjective",
+		"meaning": "花模様で飾られた、花柄の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "flōs",
+					"type": "root",
+					"meaning": "flower (花)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin flos 'flower'."
+		},
+		"core_concept": {
+			"en": "Decorated with floral motifs; leaf-like",
+			"ja": "植物のしなやかな曲線（curves）を文字の骨格に纏（まと）わせ、言葉に『生命の呼吸』を吹き込む装飾の技法。冷たい論理の周りに、色鮮やかな『結晶の華』を咲かせる、知的な『自然への回帰』"
+		},
+		"thinking_layer": "『花を咲かせた』。フラワー（Flower/花）、フローラ（Flora/花神、植物群）、おなじみの「フローリスト（Florist）」と同根。語源は「花」。ただの「花柄」ではありません。そこには。「人間の生み出した言葉という人工物に、大地の芳醇（ほうじゅん）なリズムを接ぎ木（grafting）する」という、謙虚な調和の意志が宿っています。それは。知性が硬直した思考を、柳のような「しなやかさ」で包み込もうとする瞬間のメタファー。",
+		"aftertaste": "蔓（つる）や葉が絡み合う「花模様の（floriated）」デザインの中に、幾何学的な完璧さと、生物的な「ゆらぎ」の同居を見出し、対立する二つの力が生み出す、あの不思議な「美の均衡」に息を呑む、あの知的な平安。あるいは、自分の言葉が、この「フロリエイティッド（floriated）」な装飾のように、鋭利な刃物（logic）を隠しながらも、表面はどこまでも優美でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "bhel-",
+					"meaning": "to bloom, flower (forming flos)"
+				}
+			],
+			"points": [
+				"bloom, blossom, blade, leaf 同根。",
+				"『花（flower）』は、植物にとっての最も過剰で、最も美しい生存戦略である。フロリエイティッドな装飾は、言葉が単なる情報を越えて、受け手の心に『感動（emotion）』という名の花を咲かせるための、戦略的な過剰さ（excess）の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "versal",
+		"word": "Versal",
+		"part_of_speech": "noun",
+		"meaning": "バーサル頭文字、大文字の飾り文字",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "versus",
+					"type": "root",
+					"meaning": "a line of writing, verse (一行、詩節)', from Latin vertere 'to turn'"
+				}
+			],
+			"original_statement": "From verse, because used to begin a verse."
+		},
+		"core_concept": {
+			"en": "An ornate capital letter, typically at the beginning of a section or verse in a manuscript",
+			"ja": "新しい詩節（verse）の幕開けを告げる、誇り高い『先導者』としての文字。行が折り返される（turn）その瞬間に立ち会い、読者の視線を新しい地平へと誘う、知的な『門衛（gatekeeper）』"
+		},
+		"thinking_layer": "『（新しい）行の』。バース（Verse/詩＝折り返して進む行）、バーサス（Versus/対向して）、おなじみの「バージョン（Version/翻訳、変形）」と同根。語源は「折り返す場所」。ただの「大きな文字」ではありません。そこには。「ここから新しい物語が始まる」という、時間の区切り（segmentation）を祝福する響きが宿っています。それは。知性が一つの思考を終え、未知の閃きへと向かって「方向転換（turn）」する際の、最初の一歩。 ",
+		"aftertaste": "ページの一角を独占する、この力強い「バーサル頭文字（versal）」を眺めつつ、どんなに長い旅（テキスト）も、必ず「たった一つの、しかし決定的な一歩」から始まるのだと勇気づけられる、あの知的な充足。あるいは、自分のアイディアが、誰かの思考の「バーサル文字」となり、新しい章を書き始めるきっかけになることを夢見て、ペンを執る、あの静かな夜の自尊心。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wer-",
+					"meaning": "to turn, bend (forming vertere)"
+				}
+			],
+			"points": [
+				"convert, divert, invert, pervert, subvert 同根。",
+				"『回る（turning）』ことは、過去との訣別（severance）と、未来への接続である。バーサルは、テキストがいかにして空間的なリズムを維持し、読者の注意を『旋回』させてゆくかという、視覚的な振付師（choreographer）の役割を果たしている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "drolery",
+		"word": "Drolery",
+		"part_of_speech": "noun",
+		"meaning": "ドロールリー、寓意的滑稽図、（中世写本の）奇怪な小像",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "drolle",
+					"type": "root",
+					"meaning": "jolly fellow, goblin (陽気な奴、ゴブリン)', from Middle French"
+				}
+			],
+			"original_statement": "From French drolerie, from drolle 'funny fellow'."
+		},
+		"core_concept": {
+			"en": "A small whimsical or grotesque figure in the margin of a medieval manuscript",
+			"ja": "聖なる教えの余白（margins）に密かに住み着いた、異形（grotesque）の住人たち。真面目な言葉の裏側で、密かに舌を出して笑う、知的な『不遜（insolence）』と『遊び心』"
+		},
+		"thinking_layer": "『滑稽なこと、小像』。ドロール（Droll/おどけた）、おなじみ「トロール（Troll/妖精？）」とは関係なく。語源は「道化」。ただの「落書き」ではありません。そこには。「完璧な秩序（聖典）の中にも、常に逸脱（deviation）とカオスの種が潜んでいる」という、人間性の残酷なリアリズムが宿っています。それは。知性が自らの「生真面目さ」を自嘲し、世界の不可解さをそのまま愛そうとする、高度な処世術。 ",
+		"aftertaste": "厳粛な神学書の片隅で、この「ドロールリー（drolery）」が逆立ちをして笑っているのを見つけ、どんなに崇高な理想も、この「小さな皮肉」なしには息が詰まってしまうのだと気づき、深い「解放感」を覚える、あの峻烈な一瞬。あるいは、自分の厳密な論理の余白にも、常にこの「ドロールリー」のような「隙（ゆとり）」を残しておきたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Droleries often depicted hybrid creatures (chimera) or reversals of natural order (hares hunting men). These were not mere decorations, but 'marginal critiques' of the main text.",
+				"『滑稽（funny）』であることは、権力に対する最も洗練された抵抗である。ドロールリーは、中世の厳格なヒエラルキーの中で、人間が自らの『想像力の野生』を辛うじて死守した場所である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
