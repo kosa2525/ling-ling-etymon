@@ -278248,5 +278248,150 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "blastula",
+		"word": "Blastula",
+		"part_of_speech": "noun",
+		"meaning": "胞胚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "blastos",
+					"type": "root",
+					"meaning": "bud"
+				}
+			],
+			"original_statement": "From Greek blastos."
+		},
+		"core_concept": {
+			"en": "early embryo ball",
+			"ja": "芽生えの球。情報の原初的な沈黙。"
+		},
+		"thinking_layer": "生命が形を持ち始め、内部に空洞という名の可能性を湛えた状態。空白を設けることで、爆発的な複雑化への準備を整える。中心に空虚を抱える余白の知恵。",
+		"aftertaste": "無限の未来が凝縮されている奇跡。常に芽吹く力を失わず、瑞々しい空白を持ち続けたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中空の球体。まず空洞になることからその旅を始める真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gastrula",
+		"word": "Gastrula",
+		"part_of_speech": "noun",
+		"meaning": "原腸胚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gaster",
+					"type": "root",
+					"meaning": "stomach"
+				}
+			],
+			"original_statement": "From Greek gaster."
+		},
+		"core_concept": {
+			"en": "embryo cup stage",
+			"ja": "峻烈なる深まり。知の器。"
+		},
+		"thinking_layer": "情報の球が自らの中に陥入し、内と外を産み出す。自らを折り畳み、世界を消化し意味を紡ぐ器を完成させる勇気。主体的受容の知恵。",
+		"aftertaste": "単なる細胞の集まりが一つの意志へと変容する激動。内なる深淵を拓き、真実を血肉に変える強靭な器でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"三層構造の誕生。差異こそが世界を構築するアルファベットであるという真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "morula",
+		"word": "Morula",
+		"part_of_speech": "noun",
+		"meaning": "桑実胚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "morus",
+					"type": "root",
+					"meaning": "mulberry"
+				}
+			],
+			"original_statement": "From Latin morum."
+		},
+		"core_concept": {
+			"en": "solid cell ball",
+			"ja": "情報の密集。臨界点。"
+		},
+		"thinking_layer": "生命の爆発の直前、個々の細胞が峻烈に連帯し凝縮された状態。一粒の果実のように熟成を待つ。個が密着し一つの統一を形成する連帯の知恵。",
+		"aftertaste": "無言の調和と可能性の重み。密度の高い真理を自らの中に凝縮させ、いつか実を結びたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"胚盤胞の前の、中身の詰まった状態。広がる前に深まる必要がある真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "placenta",
+		"word": "Placenta",
+		"part_of_speech": "noun",
+		"meaning": "胎盤",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "placenta",
+					"type": "root",
+					"meaning": "flat cake"
+				}
+			],
+			"original_statement": "From Latin placenta."
+		},
+		"core_concept": {
+			"en": "nourishing organ",
+			"ja": "情報の交換所。聖なる食卓。"
+		},
+		"thinking_layer": "二つの生命が接触し生存エネルギーを分かち合う。血液を濾過し純粋な愛の栄養だけを届ける。独立を保ちつつ深く交差する驚異的な共生の知恵。",
+		"aftertaste": "温かな情報の架け橋のおかげで、孤独な生命が宇宙と繋がっていると実感する。優しい媒介者でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"母体と胎児の血液は直接混ざらない。接触しながらも独立を保つ真理。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "amnion",
+		"word": "Amnion",
+		"part_of_speech": "noun",
+		"meaning": "羊膜",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "amnion",
+					"type": "root",
+					"meaning": "bowl"
+				}
+			],
+			"original_statement": "From Greek amnion."
+		},
+		"core_concept": {
+			"en": "fetal membrane",
+			"ja": "聖なる抱擁。情報の保護膜。"
+		},
+		"thinking_layer": "生命の萌芽を衝撃から守り、水の檻の中に浮かべることで重力から解放する。尊いものを静かな液体の抱擁の中に閉じ込め、外部の喧騒から隔離する防衛の知恵。",
+		"aftertaste": "慈愛に満ちた水の器のおかげで、何にも染まらず成長できる歓び。人々を優しく包み込む温かな守護の膜でありたい自尊心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"陸上進出を可能にした進化。内なる海を持ち運ぶことで未知の荒野へ進む真理。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
