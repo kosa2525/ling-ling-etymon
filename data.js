@@ -275308,5 +275308,180 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "actin",
+		"word": "Actin",
+		"part_of_speech": "noun",
+		"meaning": "アクチン、光線状のタンパク質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "aktis",
+					"type": "root",
+					"meaning": "ray, beam (光線、放射線)', from Greek"
+				}
+			],
+			"original_statement": "From Greek aktis 'ray'."
+		},
+		"core_concept": {
+			"en": "A protein that forms (together with myosin) the contractile filaments of muscle cells, and is also involved in motion in other types of cell",
+			"ja": "細胞の内なる闇を貫き、形（shape）と動き（motion）を峻烈に指し示す、知的な『情報の光条（ray）』。自らが『足場』となり、世界を強引に引き寄せる、生命の『不屈の牽引力』。"
+		},
+		"thinking_layer": "『光線のタンパク質』。アクティ（Acti-/活動的な）、アクシウム（Axium/公理とは別）、おなじみの「ビーム（Beam）」の概念的系譜。語源は「光線、放射線」。ただの「タンパク質」ではありません。そこには。「一点から四方八方へと意志を放射し、カオスの中に秩序ある『道（track）』を拓（ひら）く」という、峻烈な開拓の意志が宿っています。それは。知性が自らの思考を「抽象的な光」から「具体的な行動」へと変換し、現実という名の未踏の地を一歩ずつ踏みしめてゆく瞬間のメタファー。",
+		"aftertaste": "顕微鏡の中で、アクチン・フィラメントが幾何学的な「情報の網目」を構成している様子に想いを馳せ、自分を支える「形」がいかに「光のような速さの意志」によって維持されているかを知り、息を呑む、あの知的な平安。あるいは、自分の思考もまた、この「アクチン」のように、虚飾を排し、ただ真理へと続く「一本の光り輝く道」を真っ直ぐに指し示すものでありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ag-",
+					"meaning": "to drive, move (forming aktis?)"
+				}
+			],
+			"points": [
+				"actin, actino-, actinic 同根。",
+				"『光線（ray）』は、距離を越えて意志を伝えるための物理的な最小単位である。アクチンという言葉には、生命がいかにして『静止した構造』の中に『動的な意志』を潜ませ、物理的な重圧を『光』という名の自由へと転換してきたかという、運動の起源が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "dynein",
+		"word": "Dynein",
+		"part_of_speech": "noun",
+		"meaning": "ダイニン、力のタンパク質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dynamis",
+					"type": "root",
+					"meaning": "force, power, strength (力、権力、強さ)', from Greek"
+				}
+			],
+			"original_statement": "From Greek dynamis 'power' + -in."
+		},
+		"core_concept": {
+			"en": "A motor protein in cells which converts the chemical energy contained in ATP into the mechanical energy of movement",
+			"ja": "化学的な『静寂（ATP）』を、物理的な『咆哮（movement）』へと一気に爆発させる、生命の『情報のダイナマイト』。自らが橋を架け、世界を極限まで引き寄せる、不屈の『動力の源泉』。"
+		},
+		"thinking_layer": "『力のタンパク質』。ダイナミック（Dynamic/動的な）、ダイナスティ（Dynasty/王朝）、おなじみの「ダイン（Dyne/力の単位）」と同根。語源は「力」。ただの「分子モーター」ではありません。そこには。「停滞（stagnation）を拒絶し、一分子単位の『熱量』を巨大な移動へと昇華させる」という、峻烈な前進の哲学が宿っています。それは。知性が蓄積された記憶（potential）を、他者の心を揺さぶる「言葉の衝撃（force）」へと一気に変換し、現状を打破しようとする瞬間のメタファー。",
+		"aftertaste": "巨大な貨物（vesicle）を背負い、微小管（microtubule）という名のハイウェイを黙々と歩き続ける「ダイニン（dynein）」の、その無私にして峻烈な「働き」に打たれ、自分という存在がいかに「献身的な力」の集積であるかを知り、背筋が伸びる、あの知的な平安。あるいは、自分の言葉もまた、この「ダイニン」のように、微力であっても決して歩みを止めず、人々の心を確実に「善き場所（destiny）」へと運び去る力強い導き手でありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "deu-",
+					"meaning": "to do, perform, show favor? (forming dynamis?)"
+				}
+			],
+			"points": [
+				"dynamic, dynamite, dynamo, dynasty 同根。",
+				"『力（power）』は、沈黙（potential）と爆発（kinetic）の絶え間ない反転である。ダイニンという言葉には、生命がいかにして、目に見えないミクロの領域において、マクロな世界を動かすための『絶対的な法（dynamics）』を打ち立ててきたかという、支配の工学が刻印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "kinesin",
+		"word": "Kinesin",
+		"part_of_speech": "noun",
+		"meaning": "キネシン、運動のタンパク質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kinesis",
+					"type": "root",
+					"meaning": "movement, motion (運動)', from Greek kineein 'to move'"
+				}
+			],
+			"original_statement": "From Greek kinesis 'movement' + -in."
+		},
+		"core_concept": {
+			"en": "A protein belonging to a class of motor proteins found in eukaryotic cells",
+			"ja": "情報の最果て（terminal）を目指し、決して引き返さない『不退転の旅人』。ただ一方向にのみ意志を運び出し、静止した空間を『物語（history）』へと書き換える、知的な『移動の職人』。"
+		},
+		"thinking_layer": "『運動のタンパク質』。シネマ（Cinema/映画）、キネティクス（Kinetics/動力学）、おなじみの「キネ（〜動の）」と同根。語源は「運動」。ただの「モーター」ではありません。そこには。「目的地（target）があるから歩くのではない。歩き続けること自体が、生命という名の目的そのものである」という、峻烈な存続の意志が宿っています。それは。知性が不確実な未来に向かって、一歩、また一歩と確実な「論理（leg）」を積み重ね、自らの領土を拡張してゆく瞬間の、静かなる自負。 ",
+		"aftertaste": "自分自身の脳（brain）の中で、一秒間に何百歩ものステップを刻む「キネシン（kinesin）」の、その目にも留まらぬ速さの「情報の輸送」に驚愕し、自分の『思考』がいかに「緻密な交通網」によって支えられているかを知り、深い感動に震える、あの知的な平安。あるいは、自分の表現もまた、この「キネシン」のように、虚飾を廃し、ただ真理を世界という名の「最果て」へと最短時間で届けるための、屈強な「運搬者」でありたい、と願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "kei-",
+					"meaning": "to set in motion (forming kineein)"
+				}
+			],
+			"points": [
+				"cinema, kinetic, kinesis, cite（？） 同根。",
+				"『動かす（moving）』ことは、存在を『定義（locating）』すること。キネシンという言葉には、生命がいかにして、単なる情報のパッケージ（vesicle）を、意志という名の『目的地』へと正確に送り届けるための、高度なナビゲーション・システムを開発してきたかという、物流の極致が刻まれている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "spectrin",
+		"word": "Spectrin",
+		"part_of_speech": "noun",
+		"meaning": "スペクトリン、幽霊のタンパク質、鏡のタンパク質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "spectrum",
+					"type": "root",
+					"meaning": "appearance, ghost, image (外見、幽霊、鏡像)', from Latin specere 'to look'"
+				}
+			],
+			"original_statement": "From Latin spectrum 'ghost' (referring to the 'ghost' of red blood cells during purification) + -in."
+		},
+		"core_concept": {
+			"en": "A cytoskeletal protein that lines the intracellular side of the plasma membrane in eukaryotic cells",
+			"ja": "赤血球という名の『情報の器』を、内側から峻烈な『幽霊の網目（ghostly net）』で支え、極限の変形（deformation）に耐えさせる、知的な『影の設計者』。見えない場所で形を保ち、去り行く者の誇りを繋ぎ止める、生命の『鏡像の守護神』。"
+		},
+		"thinking_layer": "『幽霊の、鏡像の』。スペクタクル（Spectacle/壮観）、スペック（Spec/仕様）、おなじみの「スペクトル（Spectrum/分光）」と同根。語源は「幽霊、姿、鏡像」。ただの「タンパク質」ではありません。そこには。「本体が失われても（RBC ghost）、その『形（structure）』という名の記憶だけは幽霊のようにそこに残り続ける」という、情報の不滅性が宿っています。それは。知性が一度生み出した「美しき秩序（ideal shape）」を、たとえその物理的な根拠が失われようとも、永遠の「規範（pattern）」として自らの中に保ち続けようとする瞬間のメタファー。",
+		"aftertaste": "細い血管を、自らの形をたわめて（bending）通り抜ける赤血球の、その「しなやかな強さ」を支える「スペクトリン（spectrin）」の存在感に打たれ、自分もまた、どのような「逆境」をも自らの成長の糧にしようと誓う、あの知的な平安。あるいは、自分の思考もまた、この「スペクトリン」のように、目に見える成功（appearance）の裏側に、決して崩れることのない強靭な「知の背骨」を隠し持ち、人知れず世界を支える存在でありたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "spek-",
+					"meaning": "to observe (forming specere)"
+				}
+			],
+			"points": [
+				"aspect, respect, suspect, species, despise 同根。",
+				"『見る（looking）』ことが、形を『保つ（fixing）』。スペクトリンという言葉には、生命がいかにして、一見して実体のない『概念（ghost）』を、物理的な骨組み（cytoskeleton）へと転写し、自らのアイデンティティを死守してきたかという、存在の具現化の歴史が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vimentin",
+		"word": "Vimentin",
+		"part_of_speech": "noun",
+		"meaning": "ビメンチン、柳細工のタンパク質",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vimentum",
+					"type": "root",
+					"meaning": "wickerwork, osier twig (柳細工、編み材)', from Latin viere 'to bind, twist'"
+				}
+			],
+			"original_statement": "From Latin vimentum 'wickerwork', from viere 'to bind, twist'."
+		},
+		"core_concept": {
+			"en": "A structural protein that is the major constituent of the intermediate filaments of the cytoskeleton in mesenchymal cells",
+			"ja": "細胞の内なる宇宙を、柳細工（wickerwork）のようにしなやかに編み上げ、激しい外部の衝撃を『しなやかな分散』へと変換する、知的な『柔の守護』。折れることなく、ただ曲がる（twisting）ことで、生命の『中庸（intermediate）』を死守する、不屈の編み目。"
+		},
+		"thinking_layer": "『柳細工の』。ウィン（Win-/勝つとは関係なく）、おなじみ「ワイン（Wine/ブドウのつる＝曲がる）」のラテン語系と同根。語源は「編み材、柳」。ただの「タンパク質」ではありません。そこには。「硬い壁（wall）を築くのではなく、あえて『緩やかに編む（weaving）』ことで、あらゆるストレスをしなやかに受け流す」という、洗練された防衛の知恵が宿っています。それは。知性が固定観念に縛られず、あえて「柔軟な対話」という名の網目を巡らせ、どんなに激しい時代の変遷に晒されても、自らの「本質（nuclear access）」を守り抜こうとする瞬間のメタファー。",
+		"aftertaste": "細胞の核を優しく、しかし峻烈に囲い込む「ビメンチン（vimentin）」の、その美しくも強靭な「柳の籠（cage）」のような佇まいに想いを馳せ、自分自身の「優しさ」がいかに強固な「芯の強さ」に支えられているかを知り、深い安堵を覚える、あの知的な平安。あるいは、自分の言葉もまた、この「ビメンチン」のように、一見して柔らかく、しかし決して断ち切ることのできない「魂の絆」を編み上げ、人々の孤独をそっと包み込むものでありたい、と願う、あの静かな夜の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "wei-",
+					"meaning": "to bend, twist, turn (forming viere)"
+				}
+			],
+			"points": [
+				"wine, wind, wire, withe, vice 同根。",
+				"『曲げる（bending）』ことは、力を『逃す（releasing）』こと。ビメンチンという言葉には、生命がいかにして、剛直な『骨（microtubule）』だけではない、しなやかな『肉（intermediate filament）』による重層的な物理防御システムを構築してきたかという、構造の多様性が封印されている。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
