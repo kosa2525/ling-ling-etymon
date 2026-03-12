@@ -259691,5 +259691,237 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "parhelion",
+		"word": "Parhelion",
+		"part_of_speech": "noun",
+		"meaning": "幻日（げんじつ）、幻日環に伴う光の点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside (〜のそばに)"
+				},
+				{
+					"text": "hēlios",
+					"type": "root",
+					"meaning": "sun (太陽)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek parhēlion, from para- 'beside' + hēlios 'sun'."
+		},
+		"core_concept": {
+			"en": "A bright spot in the sky appearing on either side of the sun, formed by the refraction of sunlight through ice crystals in the atmosphere",
+			"ja": "太陽の両脇に、『そばに（beside）』寄り添うように現れる光の化身。氷の結晶が光を折り曲げ、世界に複数の『太陽（sun）』があるかのような錯覚をもたらす、天空の魔術"
+		},
+		"thinking_layer": "『太陽の隣にあるもの』。ヘリウム（Helium/太陽の元素）やヘリオセントリック（Heliocentric/太陽中心の）と同根。ただの「光の反射」ではなく、そこに「虚構の同一性」が宿っています。本物と見紛（みまが）うばかりの輝きを持つ、偽りの太陽。それは、真理のすぐ隣に現れる「美しい誤謬（ごびゅう）」、あるいは、憧れの人の影を追いかける、報われない想いのメタファー。",
+		"aftertaste": "極寒の空に不意に現れた、三つの太陽（parhelia）の荘厳な行列を見上げる時の、あの物理法則が一時的に停止し、自分が異世界の住人になったかのような、現実味のない恍惚（extasy）。あるいは、本物の才能のすぐ隣で、それと同じ光を放とうと懸命に背伸びをする「偽物の太陽（parhelion）」としての自分を見つめる、あの凍てつくような自覚。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "sāwel-",
+					"meaning": "sun (forming helios)"
+				}
+			],
+			"points": [
+				"sun, solar, helium, solstice 同根。",
+				"『太陽（sun）』とは本来は唯一無二（unique）の存在だが、大気の悪戯（ice crystals）によってそれが複製される現象は、知性が『コピー』と『オリジナル』の境界を見失う瞬間の記録である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "anthelion",
+		"word": "Anthelion",
+		"part_of_speech": "noun",
+		"meaning": "対日（たいじつ）、太陽の反対側に現れる光の点",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anti-",
+					"type": "prefix",
+					"meaning": "opposite, against (反対に)"
+				},
+				{
+					"text": "hēlios",
+					"type": "root",
+					"meaning": "sun (太陽)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek anthēlion, from anti- 'opposite' + hēlios 'sun'."
+		},
+		"core_concept": {
+			"en": "A rare optical phenomenon in which a bright spot appears on the parhelic circle opposite the sun",
+			"ja": "太陽が輝く空の、正反対の『対極（opposite）』に現れる、静かで控えめな光の点。主役である太陽の影の中で、ひっそりと正反対の意志を主張する、光のエコー"
+		},
+		"thinking_layer": "『太陽の反対側にあるもの』。アンチ（Anti-）やアンタゴニスト（Antagonist/敵対者）と同根。パルヘリオン（Parhelion）が「仲間」なら、アンテリオンは「鏡像」です。自分を照らし出す光の正反対に、自らもまた光となって現れるという、因果の極致。それは、大きな力に対峙（confront）しつつも、その力を利用して自らを輝かせる、静かなる「反逆」。",
+		"aftertaste": "眩（まぶ）しい太陽に背を向けた瞬間に、目の前の暗い空に一点の「対日（anthelion）」を見出した時の、あの宇宙が自分を中心に完全な対称性（symmetry）を保っていると直感する、知的な戦慄。あるいは、誰かの強すぎる光（influence）に圧殺されまいと、あえてその「正反対（opposite）」の場所で自分の輝きを見つけようとする、あの孤独な決意の光。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ant-",
+					"meaning": "front, forehead (forming anti/against)"
+				}
+			],
+			"points": [
+				"answer, end, antagonist, anterior 同根。",
+				"『反対（opposite）』とは、拒絶ではなく、正面（front）から向き合い、相手を『受け流す』ための知的な位置取りの表現である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "antumbra",
+		"word": "Antumbra",
+		"part_of_speech": "noun",
+		"meaning": "偽本影（ぎほんえい）、金環食のときなどの影の中心部",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "anti-",
+					"type": "prefix",
+					"meaning": "opposite, before (反対、〜の前)"
+				},
+				{
+					"text": "umbra",
+					"type": "root",
+					"meaning": "shadow (影)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "Coined from anti- + umbra."
+		},
+		"core_concept": {
+			"en": "The area from which the body causing an eclipse appears entirely contained within the disc of the light source",
+			"ja": "影（umbra）のそのまた『先（anti-）』にある、光が輪となって溢れ出る不思議な領域。中心には深い闇がありながら、その周囲を輝かしい光が囲む、矛盾した沈黙の空間"
+		},
+		"thinking_layer": "『影の先にあるもの』。アンブラ（Umbra/本影）、ペヌンブラ（Penumbra/半影）と同根。日食などで、影の円錐が交差したあとに現れる「金環」の中心部。ただの「影」ではなく、そこには「光の再帰」が含まれます。それは、絶望（shadow）を突き抜けたその先に、さらなる静寂と新しい光の形（ring）が待っているという、幾何学的な福音（gospel）。",
+		"aftertaste": "金環日食の「偽本影（antumbra）」の中に立ち、太陽が黒い瞳のように自分を見つめ返しているのを感じる時の、あの世界が一時的に「反転」してしまったような、不気味で美しい時間。あるいは、自分の抱えている「巨大な影（umbra）」をどこまでも深く突き進んだ結果、その向こう側に新しい世界の「輪郭（antumbra）」が見えてきた瞬間の、あの静かな震え。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "andho-",
+					"meaning": "blind, dark (forming umbra?)"
+				}
+			],
+			"points": [
+				"umbrage（不快＝影を投げかけること）, umbrella, somber 同根。",
+				"『影（shadow）』とは光の欠如（absence）だが、『偽本影（antumbra）』とはその影さえもが、光という舞台の上での一つの『演目（event）』に過ぎないことを示す、空間の逆説である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "almucantar",
+		"word": "Almucantar",
+		"part_of_speech": "noun",
+		"meaning": "高度圏、地平線に平行な円座",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "al-muqantarāt",
+					"type": "root",
+					"meaning": "the sundial, the bridges (日時計、橋)",
+					"lang": "Arabic"
+				}
+			],
+			"original_statement": "From Arabic al-muqantarāt, from qantara 'to arch over'."
+		},
+		"core_concept": {
+			"en": "A circle on the celestial sphere parallel to the horizon",
+			"ja": "地平線（horizon）と完璧に平行を保ち、天空を幾重にも『アーチ（arch）』状に切り取る、見えない思考の円。自分たちの立っている場所の『高さ』を宇宙の中で定義するための、透明なグリッド"
+		},
+		"thinking_layer": "『アーチを架けられたもの』。語源の「Qantara」は「橋」をも意味します。天球上のあらゆる点を、自分たちの地平線と結びつけ、その「高度」を測るための橋。ただの「線」ではなく、そこに「測量（measurement）」と「航海」の意志が宿っています。それは、果てしない宇宙の広がりを、自分たちの「理解できる言葉（parallel circles）」へと翻訳（translate）するための、知的な階梯。 ",
+		"aftertaste": "星空を見上げ、自分の目には見えないはずの幾千もの「高度圏（almucantar）」の円が、天空を美しく層状に重なり合って包み込んでいるのを想像する、あの自分が巨大な「天球儀」の一部になったかのような、知的な拡張感。あるいは、自分の人生のどの「高度（altitude）」に今立っているのかを、この見えない物差し（almucantar）で測ろうとする、あの静かな内省。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アラビア語の大文字の橋（qantara）が、西洋の航海術と結びつき、天空の座標系となった歴史。",
+				"『橋を架ける（bridging）』という行為の本質は、到達不能な『対象（Sky）』を、自らの『基準（Horizon）』へと引き寄せるための、知的な領土拡張である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "analemma",
+		"word": "Analemma",
+		"part_of_speech": "noun",
+		"meaning": "アナレンマ、日時計の曲線（８の字形）、太陽の軌跡",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "analamma",
+					"type": "root",
+					"meaning": "support, prop (支え、台座)",
+					"lang": "Greek"
+				}
+			],
+			"original_statement": "From Greek analēmma 'support, prop', then used for a sundial (which it supports)."
+		},
+		"core_concept": {
+			"en": "A figure-eight curve representing the sun's changing position in the sky, as seen from a fixed location on Earth at the same time each day throughout the year",
+			"ja": "一年という長い時間をかけて、太陽が空に描き出す『８の字（figure-eight）』のダンスの軌跡。それは、地球の傾きと呼吸が織りなす、天空に刻まれた『時間の署名』"
+		},
+		"thinking_layer": "『支えるもの（台座）』。もとは日時計の台座を指していましたが、そこから「日時計が示すパターン」へと転じました。太陽は毎日同じ場所を通るわけではありません。一年かけてゆっくりと、この「８の字」を描きながら戻ってくる。それは、繰り返される日常（Routine）の中に潜む、目に見えない「劇的な変化（variation）」のメタファー。",
+		"aftertaste": "写真を一年間、同じ時間に同じ場所で重ね、浮かび上がってきた巨大な「アナレンマ（analemma）」の８の字を見た瞬間の、あの太陽もまた地球という「家」に縛られつつ、自由に踊っているのだと知る、温かな連帯感。あるいは、自分の人生という「８の字（analemma）」もまた、長い時間をかけて元の場所へと戻りつつ、少しずつ成長しているのだと信じたい、あの静かな祈り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "slagu-",
+					"meaning": "to seize, take (forming analemma/the thing taken up?)"
+				}
+			],
+			"points": [
+				"syllable, lemma, dilemma 同根の説あり。",
+				"『取られる（taken up）』という行為から『支え（support）』へ、そして『形（pattern）』へと変化した言葉の歴史は、知性が『物』から『法則』へと関心を移してきた証である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "gegenschein",
+		"word": "Gegenschein",
+		"part_of_speech": "noun",
+		"meaning": "対照光（たいしょうこう）、ゲゲンシャイン",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gegen-",
+					"type": "root",
+					"meaning": "opposite, against (反対に、対向する)",
+					"lang": "German"
+				},
+				{
+					"text": "schein",
+					"type": "root",
+					"meaning": "shine, light (輝き)",
+					"lang": "German"
+				}
+			],
+			"original_statement": "From German Gegenschein, literally 'counter-shine'."
+		},
+		"core_concept": {
+			"en": "A faint luminous patch in the night sky opposite the sun, caused by backscattering of sunlight by interplanetary dust",
+			"ja": "太陽とは真反対の暗闇の空に、宇宙の微細な塵（dust）たちが光を跳ね返して作り出す、微かな『対向する輝き（counter-shine）』。そこには何もないはずなのに、ただ『真正面から光を浴びた』という事実だけで、闇の中に浮かび上がる知的な亡霊"
+		},
+		"thinking_layer": "『向こう側で輝くもの』。おなじみの「ゲゲン（〜に対して）」と「シャイン（輝く）」。アンテリオン（Anthelion）が「大気の現象」なら、ゲゲンシャインは「宇宙空間そのものの現象」です。それは太陽から最も遠い場所にある、最も繊細な光。あまりにも淡（あわ）いその輝きは、都会の喧騒（clamor）の中では決して見つけられず、孤独と静寂だけがその目撃者となります。",
+		"aftertaste": "誰もいない砂漠の夜、天頂の真裏に、まるで巨大な眼差（まなざ）しのような「ゲゲンシャイン（gegenschein）」を見出した時の、あの宇宙全体が自分を包み込み、真正面から見つめ返していると感じる、畏怖に満ちた多幸感。あるいは、自分の心の中にある、最も暗い部分（shadow）こそが、実は本当の光（Truth）を最も純粋に反射できる場所なのだと悟る、あの逆説的な納得感。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "skai-",
+					"meaning": "to shine (forming schein/shine)"
+				}
+			],
+			"points": [
+				"shine, sheen, shimmer 同根。",
+				"『対向（gegen-）』することとは、逃げることではなく、正反対（opposite）の場所に立って、相手の放つエネルギー（light）を自らの『存在』として再定義する、強靭な受容の営みである。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
