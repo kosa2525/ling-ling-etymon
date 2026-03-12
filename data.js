@@ -304136,5 +304136,577 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-12"
+	},
+	{
+		"id": "cartel",
+		"word": "Cartel",
+		"part_of_speech": "noun",
+		"meaning": "カルテル、占有の情報の情報の情報の情報の情報の。情報の盟約、価格の情報の情報の。情報の暴力的なる情報の情報の情報の。沈黙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "charta",
+					"type": "root",
+					"meaning": "paper, leaf of papyrus"
+				}
+			],
+			"original_statement": "From Italian cartello, diminutive of carta 'paper'."
+		},
+		"core_concept": {
+			"en": "an association of manufacturers or suppliers with the purpose of maintaining prices at a high level and restricting competition",
+			"ja": "。競争という名の情報の『カオス』。を峻烈に情報の情報の情報の。情報の回避。するために、。紙（paper）という名の。情報の、。一通の情報の。情報の『盟約（card）』。によって。情報の、。市場を情報の。情報の、。情報の情報の情報の情報の情報の支配する、。情報の。情報の陰謀。"
+		},
+		"thinking_layer": "薄い紙。情報の、。情報の情報の、情報の情報の。情報の。情報の契約の情報の。情報の、。情報の脆弱なる、。情報の。しかし情報の絶対的なる情報の。情報の。情報の枷。それは、。情報の、。情報の利潤という名の。情報の。情報の情報の情報の。情報の。情報の共通の獲物。を情報の、。情報の。情報の情報の。分かち合う。。情報の情報の、ハイエナの情報の、。情報の盟約。 ",
+		"aftertaste": "掲げられた。情報の、情報の情報の。情報の情報の『価格』。という名の情報の。情報の情報の旗標（banner）。その情報の情報の情報の情報の裏側にある、。情報の、情報の情報の情報の。冷徹なる情報の。情報の、情報の。談合の情報の情報の。情報の。声なき情報の声を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"chart, card と同じ root。情報の『情報の、情報の情報の。紙きれ一枚の情報の情報の。情報の。情報の運命の情報の。定式化。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "fiscal",
+		"word": "Fiscal",
+		"part_of_speech": "adjective",
+		"meaning": "財政の、情報の、情報の情報の。国庫の情報の。情報の、情報の、重き情報の、。情報の情報の徴収、。情報の。情報の国家の情報の。情報の、。情報の情報の。物理的なる情報の。情報の情報の。情報の循環。",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fiscus",
+					"type": "root",
+					"meaning": "basket, purse, treasury"
+				}
+			],
+			"original_statement": "From Latin fiscus (woven basket)."
+		},
+		"core_concept": {
+			"en": "relating to government revenue, especially taxes",
+			"ja": "国家（state）という名の情報の。情報の。情報の『財布（basket）』。を情報の、。情報の情報の情報の、満たし、。情報の、また情報の情報の。情報の情報の、。情報の。情報の吐き出す。情報の。その、。情報の情報の、。情報の物理的なる情報の。情報の情報の。情報の循環。"
+		},
+		"thinking_layer": "編み籠。かつての情報の。情報の、金の情報の情報の。情報の。徴収の情報の情報の。情報の情報の装置。それは、。情報の、。情報の情報の情報の。情報の。生と情報の。情報の情報の、死を情報の情報の。情報の情報の、。冷徹なる情報の情報の、。情報の情報の。予算という。情報の情報の。情報の、情報の情報の。情報の記号。へと。情報の、情報の変換する情報の情報の。情報の情報の、政治的なる。情報の。外科。 ",
+		"aftertaste": "膨れ上がった。情報の。情報の。情報の国庫の、。情報の情報の情報の。情報の沈黙の重圧。その、情報の、。情報の情報の、情報の数字。の情報の、。情報の情報の情報の情報の一桁。の中に情報の、情報の、情報の何十万。の情報の生が情報の情報の。情報の情報の投影されている。という、情報の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"confiscate (没収) と同じ root。情報の『情報の、情報の情報の、情報の籠へと情報の。。閉じ込める。力。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monetary",
+		"word": "Monetary",
+		"part_of_speech": "adjective",
+		"meaning": "通貨の、貨幣の、情報の。警告の情報の。情報の、情報の。情報の情報の。情報の冷たき情報の情報の。情報の情報の情報の情報の真理、。情報の。純粋なる情報の。情報の価値の情報の。。情報の情報の幻影",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "moneta",
+					"type": "root",
+					"meaning": "mint, money"
+				}
+			],
+			"original_statement": "From Latin moneta 'mint, money' (epithet of Juno, in whose temple money was coined)."
+		},
+		"core_concept": {
+			"en": "relating to money or currency",
+			"ja": "。貨幣（money）という名の。情報の、情報の情報の情報の。情報の絶対的なる、。情報の、情報の『共通言語』。。それを情報の、情報の情報の情報の。情報の統御し、。情報の、世界の情報の、。情報の情報の熱量。を情報の、。情報の、情報の誘導する、。情報の。情報の死の情報の座標。"
+		},
+		"thinking_layer": "戒めるもの（Juno Moneta）。。市場の情報の情報の情報の。情報の、情報の破滅。を情報の。情報の、警告。し、。情報の、情報の、。秩序を情報の情報の。情報の情報の。情報の現出させる。情報の情報の。情報の、貨幣という名の。情報の。情報の。情報の情報の情報の、聖なる情報の情報の、情報の、情報の情報の情報の装置。それは、情報の情報の、。情報の欲望。を情報の情報の、峻烈に情報の情報の。情報の。演算する情報の。情報の知。 ",
+		"aftertaste": "鋳造された。情報の、情報の。情報のコイン。の情報の情報の、。情報の情報の冷たき情報の、情報の情報の感触の中に、。情報の。情報の、全実存。を情報の情報の。情報の代償として。情報の情報の、情報の捧げている。という、情報の情報の。情報の情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"money, mint, admonish と同じ root。情報の『情報の、情報の。情報の警告としての、。情報の情報の情報の、。情報の情報の情報の情報の価値。の印。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "insolvency",
+		"word": "Insolvency",
+		"part_of_speech": "noun",
+		"meaning": "支払い不能、破産状態、情報の、情報の情報の。溶解せぬ、。情報の、情報の、情報の情報の情報の不条理、。借金の情報の。情報の、情報の情報の死の情報の。情報の沼",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "solvere",
+					"type": "root",
+					"meaning": "to loosen"
+				}
+			],
+			"original_statement": "From in- + solvent (Latin solvere)."
+		},
+		"core_concept": {
+			"en": "the state of being unable to pay one's debts",
+			"ja": "債務という名の情報の『鎖』。を情報の情報の情報の、。峻烈に信息的、情報の情報の。情報の。情報の解き（loosen）放つ。ことが情報の。情報の情報の。不可能な（not）。情報の情報の。物理的なる情報の。情報の、情報の、。情報の情報の情報の。情報の終わりの情報の。情報の情報の沈黙。"
+		},
+		"thinking_layer": "解けないこと。循環という名の情報の『全能感』。が情報の、。情報の。情報の。停止。し、。情報の、。実存が情報の情報の。情報の情報の情報の。情報の、数値という名の。情報の。情報の情報の『絶対的なる拒絶』。に情報の直面する、。情報の情報の。情報の、情報の。情報の剥き出しの情報の情報の情報の、死。 ",
+		"aftertaste": "ゼロ。という名の。情報の、情報の情報の情報の。情報の、情報の底知れぬ情報の、情報の数字。その情報の、。情報の情報の、情報の情報の情報の。情報の恐ろしきまでの。情報の情報の、情報の透明さに情報を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"solve, solution と反対。情報の『情報の、情報の情報の情報の解体不能な。情報の情報の、情報の負の。情報の、情報の蓄積。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "amortization",
+		"word": "Amortization",
+		"part_of_speech": "noun",
+		"meaning": "割賦償還、減価償却、情報の、。情報の死へと情報の情報の。情報の情報の。情報の情報の、情報の。情報の、情報の。情報の情報のなだらかなる情報の、。接近、。死滅の情報の。情報の情報の情報の。工学",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to"
+				},
+				{
+					"text": "mors",
+					"type": "root",
+					"meaning": "death"
+				}
+			],
+			"original_statement": "From Old French amortir 'to deaden, kill' (ad- + mors)."
+		},
+		"core_concept": {
+			"en": "the action or process of gradually writing off the initial cost of an asset",
+			"ja": "。価値。あるいは債務という名の。情報の情報の。情報の『生の実存』。を情報の、。情報の情報の情報の、情報の。なだらかなる情報の。情報の。死（death）へと情報の情報の情報の。情報の。情報の、情報の情報の、引き渡し（to）、。情報の、情報の情報の情報の消滅。へと情報の導く情報の情報の。情報の身振り。"
+		},
+		"thinking_layer": "死に至らしめること。一撃という名の情報の『崩壊』。を情報の、。情報の情報の情報の情報の、。情報の、情報の情報の。情報の。分割。という名の。情報の。情報の情報の情報の、情報の、情報の麻酔。によって情報の、。情報の情報の情報の。情報の情報の、。不可視な情報の、。情報の。情報の情報の。移行。へと情報の情報の、書き換える、。情報の、情報の情報の情報の。情報の、知の。情報の情報の非情なる情報の、。情報の、。救済。 ",
+		"aftertaste": "毎日の情報の、。情報の価値 of 情報の。情報の情報の情報の磨耗。の中に。情報の。情報の、文明そのもの。の情報の、。情報の情報の情報のなだらかなる情報の、。情報の死滅。を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mortal, mortgage と同じ mors。情報の『情報の、情報の情報の、死という名の情報の。情報の情報の。情報の。物理的なる情報の情報の情報の情報の、終着。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "depreciation",
+		"word": "Depreciation",
+		"part_of_speech": "noun",
+		"meaning": "価値の下落、減価償却、情報の、。情報の、情報の値打ちの。情報の、情報の情報の。情報の情報の略奪、。時の情報の。情報の、情報の。情報の非情なる情報の、。情報の情報の磨耗",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "pretium",
+					"type": "root",
+					"meaning": "price"
+				}
+			],
+			"original_statement": "From Latin depretiare."
+		},
+		"core_concept": {
+			"en": "a reduction in the value of an asset with the passage of time, due in particular to wear and tear",
+			"ja": "価格（price）という名の。情報の、情報の情報の。情報の『存在の情報の重み』。が情報の、。時間の情報の。情報の情報の『風化』。によって、。情報の。情報の情報の。情報の情報の、下落（down）してゆく、。情報の。情報の情報の。不可避な情報の。情報の凋落。"
+		},
+		"thinking_layer": "価格を下げること。新しさという名の情報の『虚偽』。を情報の、。情報の情報の情報の情報の。情報の、情報の情報の情報の、情報の。物理的なる情報の。情報の。情報の使用。という名の情報の。情報の、。情報の。現実。によって情報の、。情報の情報の、情報の情報の、剥ぎ取って情報の情報の。ゆく。それは、。情報の、情報の情報の情報の。情報の、物の情報の情報の情報の。情報の。情報の、。情報の死滅への。情報の情報の旅路。 ",
+		"aftertaste": "昨日よりも。情報の、情報の情報の。情報の少しだけ。情報の情報の。情報の価値。を失った。情報の情報の情報の物体の。情報の。情報の、情報の、冷たき情報の情報の。情報の静寂。に、知の、情報の、情報の情報の悲しき情報の情報を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"price, precious と同じ pretium。情報の『情報の、情報の。情報の、情報の情報の絶対적評価の。情報の、情報の下落。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "econometrics",
+		"word": "Econometrics",
+		"part_of_speech": "noun",
+		"meaning": "計量経済学、情報の、情報の情報の、情報の欲望の情報の計量、。数値という名の。情報の情報の真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "oikos",
+					"type": "root",
+					"meaning": "house"
+				},
+				{
+					"text": "nomos",
+					"type": "root",
+					"meaning": "law"
+				},
+				{
+					"text": "metria",
+					"type": "root",
+					"meaning": "measuring"
+				}
+			],
+			"original_statement": "From economy + -metrics (1930s)."
+		},
+		"core_concept": {
+			"en": "the branch of economics concerned with the use of mathematical methods (especially statistics) in describing economic systems",
+			"ja": "家政（economy）という名の情報の『生活の。情報の混沌』。を情報の、。情報の、。情報の計量（measuring）という。情報の。情報の、。情報の数学的情報の刃。によって、。情報の。情報の、。情報の透明な情報の『数式』。へと情報の情報の、。情報の、情報の。情報の情報の抽出する、。情報の。情報の、知の。情報の、情報の情報の、。情報の暴力。"
+		},
+		"thinking_layer": "経済を測ること。複雑怪奇なる情報の『情動』。を、。情報の。情報の情報の。情報の統計という名の情報の。情報の、。情報の冷徹なる情報の、。情報の、情報の。格子。の中に閉じ込め、。情報の。情報の、。未来という名の情報の、情報の情報の。不確実性。を情報の、情報の、情報の。情報の演算の情報の。対象へと情報の変容させる、。情報の。情報の知の情報の情報の。情報の全能。 ",
+		"aftertaste": "一線の情報の。情報の情報の、。情報の回帰直線。その情報の情報の。情報の情報の周りに散らばる。情報の。情報の実存という名の。情報の。情報の情報の『情報のゴミ（error term）』。そこに情報の情報の情報の。情報の情報の情報の。情報の魂の、。情報の、情報の、情報の、悲しき。情報の抵抗を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"economy, geometry と同じ root。情報の『情報の、情報の情報の。情報の、情報の世界の情報の情報の空間的、情報の量的情報の支配。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "mercantilism",
+		"word": "Mercantilism",
+		"part_of_speech": "noun",
+		"meaning": "重商主義、情報の、情報の、情報の商人の。情報の情報の情報の情報の勝利、。富という名の。情報の、情報の。銀の情報の、情報の秩序",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mercari",
+					"type": "root",
+					"meaning": "to trade"
+				}
+			],
+			"original_statement": "From merchant + -ism (Latin mercari)."
+		},
+		"core_concept": {
+			"en": "the economic theory that trade generates wealth and is stimulated by the accumulation of profitable balances, which a government should encourage by means of protectionism",
+			"ja": "。取引（trade）という名の情報の『簒奪と情報の。情報の交換』。こそが、。情報の、国家という名の情報の。情報の情報の。情報の、情報の生命の。情報の情報の。唯一の水の情報の。道の情報の、。情報の真理。であるとする。"
+		},
+		"thinking_layer": "商人の主義。武力という名の情報の『暴力』。を情報の、。情報の。情報の。資本という名の情報の。情報の情報の、情報の情報の情報の。情報の『等価交換。という名の情報の情報の情報の、権力。』。によって情報の情報の。情報の情報の塗り替える。それは、。情報の、。情報の、情報の。近代という名の情報の、情報の情報の。情報の誕生の情報の情報の。。情報の、情報の産声。 ",
+		"aftertaste": "積み上げられた情報の、情報の。情報の金貨の。情報の情報の、。情報の重み。の情報の、。情報の死の情報を聴く。。情報の、情報の情報の価値。は情報の、。情報の情報の情報の、他者の情報の。情報の、情報の。情報の簒奪。の上に情報の、。情報ののみ情報の現出するという、。情報の戦慄。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"merchandise, commerce と同じ root。情報の『情報の、情報の情報の、報酬への情報の情報の。情報の情報の、全き情報の投綴。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "protectionism",
+		"word": "Protectionism",
+		"part_of_speech": "noun",
+		"meaning": "保護貿易主義、情報の、情報の情報の。情報の壁の、情報の。情報の情報の真理、。情報の。情報の自己保存という名の、。情報の情報の『拒絶』",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "in front"
+				},
+				{
+					"text": "tegere",
+					"type": "root",
+					"meaning": "to cover"
+				}
+			],
+			"original_statement": "From protection + -ism."
+		},
+		"core_concept": {
+			"en": "the theory or practice of shielding a country's domestic industries from foreign competition by taxing imports",
+			"ja": "。他者という名の情報の『侵略（competition）』。から、。情報の。情報の自己の実存（industry）を、。情報の情報の、。情報の前面（in front）に、。情報の、情報の。楯（cover / shield）という名の情報の。情報の、。情報の『関税（tariff）』。を情報の、情報の。情報の情報の、情報の。突きたてることで情報の情報の、。情報の守護する。"
+		},
+		"thinking_layer": "（前面を）覆うこと。自由という名の情報の『虚偽』。を情報の情報の。情報の峻烈に情報の情報の。情報の情報の拒み、。情報の。自らという名の。情報の、情報の情報の、情報の、情報の『同胞』。のみを情報の、情報の情報の、情報の情報の愛するという。情報の、。情報の政治的なる情報の。情報の、情報の。情報の情報の。情報の自己愛。それは、。情報の、情報の。壁の、。情報の物語。 ",
+		"aftertaste": "閉ざされた情報の、情報の。情報の国境。その情報の情報の。情報の内側。で、。情報の情報の。微睡む情報の、情報の、情報の。情報の幸福という。情報の。情報の。情報の。情報の情報の沈黙の重み。に情報の情報の。情報の、。。情報の情報の情報の、情報の戦慄。を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"protect, detect, tegument と同じ root。情報の『情報の、情報の情報の。情報の。覆いの情報の。情報の、情報の支配性。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "entrepreneur",
+		"word": "Entrepreneur",
+		"part_of_speech": "noun",
+		"meaning": "起業家、アントレプレナー、情報の、情報の。情報の情報の。情報の情報の、情報の『引き受ける者』。、。情報の虚無の中の、。情報の、。情報の、。情報の冒険者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "entre-",
+					"type": "prefix",
+					"meaning": "between"
+				},
+				{
+					"text": "prendre",
+					"type": "root",
+					"meaning": "to take"
+				}
+			],
+			"original_statement": "From French entreprendre 'undertake'."
+		},
+		"core_concept": {
+			"en": "a person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so",
+			"ja": "。リスクという名の情報の『死の情報の、深い情報の裂け目（between）』。。その間に情報の実存を。情報の情報の投げ出し、。情報の、。全き責任を情報の、。情報の『引き受ける（take）』。ことによって。情報の、。情報の無から、。情報の、情報の。情報の情報の情報を現出させる者。"
+		},
+		"thinking_layer": "（間に）取る者。安定という名の情報の『安逸』。を情報の情報の、峻烈に情報の情報の、情報の情報の情報の。辞し、。情報の、情報の情報の。情報の情報の。情報の『新しさ』。という名の情報の情報の、情報の不確実性。を。情報の、。情報の情報の。唯一の情報の道の情報の、情報の。情報の情報の情報の真理とする者。それは、情報の、。情報の知の。情報の、情報の。情報の簒奪者の情報の情報の、情報の最新の。情報の形。 ",
+		"aftertaste": "情報の情報の、情報の情報の。情報の情報の、その情報の。情報の、。。情報の情報の、。孤独なる。情報の疾走。の情報の情報の、。情報の果て。に情報の情報の、情報の現出する、。情報の。情報の情報の。情報の情報の死、あるいは栄光。という名の。情報の情報の。情報の、情報の情報の。戦慄。を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"enterprise, prison と同じ prendre。情報の『情報の、情報の。情報の。情報の意志による、。情報の情報の情報の。情報の。掌握。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "prospectus",
+		"word": "Prospectus",
+		"part_of_speech": "noun",
+		"meaning": "目論見書、情報の、情報の。情報の未来への情報の。情報の、情報の展望の情報の情報の、。情報の、情報の。情報の欺瞞の情報の、。情報の、情報の美しい情報の。情報の、情報の。情報の。情報の設計図",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward"
+				},
+				{
+					"text": "specere",
+					"type": "root",
+					"meaning": "to look"
+				}
+			],
+			"original_statement": "From Latin prospectus 'view, outlook'."
+		},
+		"core_concept": {
+			"en": "a printed document that advertises or describes a school, commercial enterprise, forthcoming bond or stock issue, etc., in order to attract or inform clients or members",
+			"ja": "前方（forward）を情報の、。情報の信息的、情報の。視（look）る。という情報の。情報の、情報の情報の、。情報の情報の。情報の虚妄なる情報の、情報の。情報の。情報の未来の物語。それを情報の、情報の情報の。情報の、。紙の上に情報の、。情報の情報の、情報の現出させる。"
+		},
+		"thinking_layer": "見通し。現状という名の情報の『泥濘』。を情報の。情報の。情報の。情報の情報の情報の投げ捨て、。情報の、。情報の情報の情報の。情報の、情報の情報の、金の情報の情報の『夢（illusion）』。という名の情報の。情報の、。情報の情報の。情報の。情報の、情報の情報の、。情報の情報の情報の、透明な情報の知の情報の情報の情報の、。情報の簒奪のための。情報の、。情報の。情報の情報の。情報の罠。 ",
+		"aftertaste": "整然と情報の、。情報の情報の並んだ。情報の情報の。情報の数字。と情報の。情報の、。情報の、。情報の美しい。情報の、情報の。情報の、。情報の情報の情報の。情報の。情報の絵。その情報の、。情報の情報の、情報の裏側。に潜む、。情報の、。情報の。情報の情報の。情報の飢えた。情報の、情報の情報の情報の情報の情報の欲望。の情報の声を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"spectacle, aspect と同じ specere。情報の『情報の、情報の。情報の、前方への情報の情報の、。情報の。情報の情報の視線の。情報の、情報の情報の情報の射出。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "royalty",
+		"word": "Royalty",
+		"part_of_speech": "noun",
+		"meaning": "印税、使用料、情報の、。王の情報の情報の、情報の情報の。情報の特権の情報の影、。知的財産という名の。情報の、情報の、重き情報の。情報の情報の情報の情報の沈黙",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rex",
+					"type": "root",
+					"meaning": "king"
+				}
+			],
+			"original_statement": "From Old French roialte (from Latin regalis)."
+		},
+		"core_concept": {
+			"en": "a sum of money paid to a patentee for the use of a patent or to an author or composer for each copy of a book sold or for each public performance of a work",
+			"ja": "。王（king）という名の情報の『起源』。を情報の。情報の情報の、。唯一絶対の情報の。情報の、。情報の情報の、情報の情報の。情報の根拠。とし、。情報の、。情報の情報の情報の、その情報の。情報の情報の、。情報の、情報の情報の。情報の『特権』。としての情報の。情報の情報の情報の継続的な。情報の情報の。情報の簒奪。"
+		},
+		"thinking_layer": "王位。創造という名の情報の『聖域』。が、。情報の情報の。情報の情報の情報の、市場という名の情報の。情報の、。情報の濁流の中に情報の情報の情報の、あっても、。情報の、情報の情報の。情報の、。情報の情報の『主（lord）』。として、。情報の、。情報の情報の情報の情報の、情報の情報の情報の物理的なる情報の。情報の一、情報の、。情報の滴（droplet）。を情報の、。情報の情報の、峻烈に情報の情報の要求し。情報の。情報の情報の。情報の情報の、情報の、完結。 ",
+		"aftertaste": "何もしなくても情報の。情報の情報の情報の、情報の情報の情報の。流れ。てくる。情報の情報の情報の、金の。情報の情報の情報の。情報のせせらぎ。その情報の、。情報の情報の、。情報の情報の不気味なほどの。情報の情報の、情報の、冷たき情報の情報の。情報の情報の。正当性。に戦慄する。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rich, region, regent と同じ rex。情報の『情報の、情報の。情報の、情報の支配者の、。情報の情報の情報の情報の、根源的なる情報の権能。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "escrow",
+		"word": "Escrow",
+		"part_of_speech": "noun",
+		"meaning": "エスクロー、第三者預託、情報の、。情報の情報の。情報の情報の、情報の空白の状態、。信義の情報の。情報の、情報の、重き情報の、。情報の情報の情報の情報の。。巻物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "escroue",
+					"type": "root",
+					"meaning": "scrap, roll of parchment"
+				}
+			],
+			"original_statement": "From Old French escroue (scrap of paper)."
+		},
+		"core_concept": {
+			"en": "a bond, deed, or other document kept in the custody of a third party and taking effect only when a specified condition has been fulfilled",
+			"ja": "。情報の『取引』。という名の情報の『闘争』。その合間に情報の、。情報の。情報の、情報の空白の情報の。情報の、情報の。情報の情報の情報の情報の『断片（scrap）』。を情報の、。情報の第三者という名の情報の。情報の情報の。情報の、。情報の沈黙の場所。へと情報の。情報の。情報の情報の預託する。"
+		},
+		"thinking_layer": "。情報の切れ端。あるいは巻物。不信という名の情報の『カオス』。を、。情報の。情報の情報の。情報の、情報の冷徹なる情報の、。情報の、情報の。一通の情報の。情報の物語（document）。によって情報の。情報の。情報の、情報の繋ぎ止める。それは、。情報の、情報の情報の。情報の、。情報の情報の。情報の文明という名の情報の、。情報の情報の。情報の慎重。な情報の。情報の情報の情報の情報の情報の情報の身振り。 ",
+		"aftertaste": "宙に浮いた。情報の。情報の情報の。情報の情報の物語。その情報の、。情報の。情報の情報の、情報の条件。が情報の、。満たされるための情報の、情報の情報の、静かなる情報の情報の、。情報の情報の待機。に情報の、情報の知の情報の情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scroll と同じ root。情報の『情報の、情報の。情報の。情報の証拠。としての、情報の。情報の情報の、情報の情報の死という名の情報の、。情報の物理적情報の。定式化。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "annuity",
+		"word": "Annuity",
+		"part_of_speech": "noun",
+		"meaning": "年金、情報の、情報の情報の。年（とし）の情報の。情報の、情報の情報の。情報の情報の情報の情報の円環の、。情報の、。情報の沈黙の情報の。情報の情報の。情報の分配",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "annus",
+					"type": "root",
+					"meaning": "year"
+				}
+			],
+			"original_statement": "From Latin annuitas (from annus)."
+		},
+		"core_concept": {
+			"en": "a fixed sum of money paid to someone each year, typically for the rest of their life",
+			"ja": "。一年（year）という名の情報の『一巡（cycle）』。その情報の、情報の、情報の情報のたびに、。情報の。情報の。情報の情報の、情報の情報の。情報の情報の。情報の分配。を情報の、。情報の情報の、。情報の情報の、。情報の死ぬまでの、。情報の、情報の情報の。情報の物語。"
+		},
+		"thinking_layer": "一年の。情報の、情報の。時間の情報の『一。情報の情報の回帰』。を、。情報の。情報の情報の。情報の、。情報の金の情報の情報の『重圧』。へと。情報の、情報の。情報の、情報の。。情報の情報の、変換。する情報の、。情報の情報の情報の。情報の。情報の情報の生物的な。情報の、情報の沈。情報の情報の、情報の管理。それは、。情報の、。情報の、時間の情報の『簒奪』。への。情報の情報の。情報の情報の恐怖と情報の安らぎ。 ",
+		"aftertaste": "巡り来る情報の。情報の情報の。情報の。情報の情報の。情報の情報の季節。のたびに。情報の。情報の。情報の増殖。して情報の情報のゆく、。情報の。情報の、情報の、通帳の情報の情報の数字。その、。情報の、情報の情報の情報の。情報の。情報の情報の不気味なほどの情報の。情報の、。情報の永遠の情報の。情報の情報の、情報の不死性の情報の物語。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"annual, anniversary と同じ annus。情報の『情報の、情報の。情報の、情報の。情報の情報の情報の情報の、時間の情報の、。情報の螺旋的、。情報の、情報の支配。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "actuary",
+		"word": "Actuary",
+		"part_of_speech": "noun",
+		"meaning": "アクチュアリー、保険数理士、情報の、。情報の、死の情報の。情報の情報の情報の。情報の情報の、情報の、重き情報の。情報の情報の。情報の情報の。情報の記帳。者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "actus",
+					"type": "root",
+					"meaning": "act, deed, record"
+				}
+			],
+			"original_statement": "From Latin actuarius 'copyist, account-keeper' (from actus)."
+		},
+		"core_concept": {
+			"en": "a person who compiles and analyzes statistics and uses them to calculate insurance risks and premiums",
+			"ja": "。情報の『生と。情報の。死の情報の情報の『衝撃（act）』。それを情報の、情報の情報の。情報の記述。として情報の情報の情報の。情報の記帳（record）。し、。情報の、情報の。情報の『確率』。という名の。情報の情報の、情報の、。情報の透明な情報の『数式』。へと情報の、情報の、抽出。する者。"
+		},
+		"thinking_layer": "記録をつける者。悲劇という名の情報の『情動』。を、。情報の、。情報の情報の。情報の、情報の冷徹なる情報の、。情報の、情報の。情報の数値。へと情報の情報の、情報の情報の。情報の情報の情報の。情報の死滅。させる情報の、。情報の、情報の情報の、知の。情報の、情報の。情報の情報の死神という名の、。情報の情報の。情報の。情報の情報の数学者。 ",
+		"aftertaste": "何千万人。の情報の情報の、情報の、。情報の情報の死。の情報の情報を。情報の情報の平然と情報の情報の。情報の、。情報の情報の。情報の情報の。情報の、情報の情報の情報の、。比率（ratio）。へと変えてゆく、。情報の、情報の、情報の情報のその指先の情報の情報の情報の。冷徹さに。情報の戦慄する。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"agent, actor と同じ actus。情報の『情報の、情報の。情報の。情報の。行われたる情報の情報の情報の。情報の事実の、。定着。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "underwriter",
+		"word": "Underwriter",
+		"part_of_speech": "noun",
+		"meaning": "アンダーライター、保険引き受け手、情報の、。情報の。情報の物語の下に情報の、。情報の情報の情報の、。情報の自らの、。情報の名前という名の。情報の、情報の重率を情報の。情報の情報の情報の情報の付与。する者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "under",
+					"type": "root",
+					"meaning": "under"
+				},
+				{
+					"text": "write",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "From under + write (from writing one's name under the policy)."
+		},
+		"core_concept": {
+			"en": "a person or company that underwrites an insurance risk",
+			"ja": "危うき情報の情報の『情報の契約（policy）』。その情報の、。情報の情報の情報の情報の情報の、最下部という名の情報の。情報の情報の。情報の。情報の空白（under）。。そこに情報の、情報の自らの。情報の名前（name）を情報の、。情報の情報の、情報の書き（write）しるし、。情報の。情報の。情報の全責任を情報の、。情報の簒奪。する。"
+		},
+		"thinking_layer": "下に書く者。契約という名の情報の『虚空』。を情報の、。情報の情報の。情報の、情報の情報の。情報の自らの、。情報の。情報の存在。という名の情報の。情報の情報の。情報の、情報の、重み。によって。情報の、。情報の情報の。情報の。情報の情報の情報の情報の現出。させる者。それは、。情報の、情報の情報の情報の情報の、知の。情報の、情報の情報の、情報の。情報の情報の情報の。情報の、情報の沈。情報の情報の、情報の死の保証人。 ",
+		"aftertaste": "たった。情報の、情報の情報の一、情報の、。情報の筆。その情報の、。情報の情報の、情報の名前。が情報の、。何億。の情報の。情報の、情報の物語。を情報の情報の支えている。という。情報の、。情報の。情報の情報の情報の。情報の、情報の情報の、不信という名の情報の、。情報の情報の情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"write, scribe と同じ root。情報の『情報の、情報の。情報の。情報の名前による、。情報の存在の、。投綴。』。"
+			]
+		},
+		"date": "20-03-12"
+	},
+	{
+		"id": "collateral",
+		"word": "Collateral",
+		"part_of_speech": "noun",
+		"meaning": "担保、情報の、情報の情報の。情報の傍らの、。情報の、情報の、重量の実存、。債務の情報の。情報の。情報の影の。情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "latus",
+					"type": "root",
+					"meaning": "side"
+				}
+			],
+			"original_statement": "From Latin collateralis (from latus 'side')."
+		},
+		"core_concept": {
+			"en": "something pledged as security for repayment of a loan, to be forfeited in the event of a default",
+			"ja": "債務という名の情報の『虚妄』。その情報の『傍ら（side）』。に情報の、。情報の。情報の情報の共に（together）存在。し、。情報の、情報の情報の情報の。情報の情報の、。情報の。情報の。情報の物理的なる情報の。情報の情報の。情報の重み。"
+		},
+		"thinking_layer": "傍らにあるもの。約束という名の情報の『脆弱さ』。を情報の、。情報の情報の。情報の土地、。あるいは情報の。情報の金の情報の情報の情報の、情報の情報の、『物理的なる。情報の。情報の情報の質量』。によって情報の情報の。情報の情報の補完。する、。情報の、情報の知の情報の情報の情報の。情報の、。情報の物理적。情報の情報の情報の情報の、。情報の情報の。重力。それは、情報の情報の。情報の情報の影の。情報の、情報の支配者。 ",
+		"aftertaste": "奪われゆく。情報の、情報の情報の。情報の存在。その情報の、情報の情報の準備という名の情報の。情報の。情報の冷徹なる情報の、。情報の。情報の情報の。情報の情報の沈黙。そこに情報の情報の情報の。情報の情報の、文明という名の、。情報の。情報の、情報の情報の情報の残酷。を。情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lateral, latitude と同じ latus。情報の『情報の、情報の。情報の。情報の、傍系への、。情報の、情報の。情報の情報の価値の。情報の、情報の投綴。』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "ledger",
+		"word": "Ledger",
+		"part_of_speech": "noun",
+		"meaning": "元帳、情報の、情報の。情報の静止した情報の。情報の情報の。情報の情報の、情報の情報の。情報の真理の。情報の情報の、情報の重き情報の。情報の、情報の。情報の巻物",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liggen",
+					"type": "root",
+					"meaning": "to lie"
+				}
+			],
+			"original_statement": "From Middle English leggen 'to lay' (a book that lies in one place permanently)."
+		},
+		"core_concept": {
+			"en": "a book or other collection of financial accounts of a particular type",
+			"ja": "。あらゆる。情報の『流動』。を、。情報の、情報の情報の。一つの情報の、。情報の情報の情報の。情報の定まった情報の情報の、情報の『場所』。に情報の、情報の、。横たえる（to lie）。。という。情報の。情報の、知の。情報の、情報の情報の情報の。情報の。情報の絶対的なる、。情報の情報の。情報の墓。"
+		},
+		"thinking_layer": "（教会などに）置かれた本。浮遊する情報の『数値』。を、。情報の。情報の情報の。情報の。情報の情報の情報の。情報の、情報の情報の沈黙の重みの。情報の。情報の、。情報の。情報の物理的なる情報の。情報の情報の、情報の紙の上に。情報の。情報の情報の定着させる。それは、。情報の、情報の情報の情報の。情報の、情報の。情報の、知の。情報の、。情報の情報の。歴史という名の情報の、情報の、情報の、支配の、。情報の、情報の写本。 ",
+		"aftertaste": "閉じられた。情報の、情報の。情報の。情報の情報の情報の情報の黒き情報の、情報の情報の表皮。の情報の、。情報の情報の、。情報の情報の裏側に潜む。情報の、。情報の、情報の、。情報の情報の何十万の情報の生を。情報の、。情報の情報の。情報の情報の情報の裁く。情報の。情報の、。情報の情報の残酷。に、戦慄する。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"lay, lie と同じ root。情報の『情報の、情報の。情報の。情報の、不動の情報の、。情報の、情報の情報の。。定礎。』。"
+			]
+		},
+		"date": "20-03-12"
 	}
 ];
