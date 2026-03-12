@@ -279873,5 +279873,1375 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "socialism",
+		"word": "Socialism",
+		"part_of_speech": "noun",
+		"meaning": "社会主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "socius",
+					"type": "root",
+					"meaning": "ally, companion"
+				}
+			],
+			"original_statement": "From Latin socius."
+		},
+		"core_concept": {
+			"en": "social ownership",
+			"ja": "共生する仲間たちの絆。"
+		},
+		"thinking_layer": "仲間と共に在ること。個の所有を超え、公共の善のために資源を分かち合う理想の建築。",
+		"aftertaste": "連帯の中に見出す静かな共鳴。世界が一つの大家族のようになる夢。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"society と同族。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "capitalism",
+		"word": "Capitalism",
+		"part_of_speech": "noun",
+		"meaning": "資本主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "caput",
+					"type": "root",
+					"meaning": "head"
+				}
+			],
+			"original_statement": "From Latin caput."
+		},
+		"core_concept": {
+			"en": "private ownership",
+			"ja": "自己責任と開拓の意志。"
+		},
+		"thinking_layer": "頭数（家畜の頭数＝財産）を数えること。個人の欲望をエンジンに変え、無限の競争から富を産み出すダイナミズム。",
+		"aftertaste": "自分の才覚で未来を切り拓く高揚感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cattle (家畜) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "communism",
+		"word": "Communism",
+		"part_of_speech": "noun",
+		"meaning": "共産主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "communis",
+					"type": "root",
+					"meaning": "common, public"
+				}
+			],
+			"original_statement": "From Latin communis."
+		},
+		"core_concept": {
+			"en": "classless society",
+			"ja": "境界を排した完璧な平癒。"
+		},
+		"thinking_layer": "すべてが共通であること。階級という名の峻烈な壁を焼き払い、誰もが平等に呼吸できる終局のバランス。",
+		"aftertaste": "差異のない平原を静かに見つめる平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"community と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "libertarian",
+		"word": "Libertarian",
+		"part_of_speech": "noun",
+		"meaning": "自由至上主義者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "liber",
+					"type": "root",
+					"meaning": "free"
+				}
+			],
+			"original_statement": "From Latin liber."
+		},
+		"core_concept": {
+			"en": "maximise liberty",
+			"ja": "不干渉の聖域。"
+		},
+		"thinking_layer": "自由であること。国家という名の巨大な介入者から、自らの生のハンドルを峻烈に取り戻そうとする不屈の孤立。",
+		"aftertaste": "誰にも縛られない、荒野の風のような自由。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"liberty と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "authoritarian",
+		"word": "Authoritarian",
+		"part_of_speech": "adjective",
+		"meaning": "権威主義的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "auctor",
+					"type": "root",
+					"meaning": "author, creator"
+				}
+			],
+			"original_statement": "From Latin auctor."
+		},
+		"core_concept": {
+			"en": "favoring authority",
+			"ja": "峻烈な秩序への服従。"
+		},
+		"thinking_layer": "産み出す者の重み。自由という名の不安定さを拒み、強固な命令のピラミッドに身を委ねることで得られる偽りの安寧。",
+		"aftertaste": "一切の迷いを許さない支配の重圧。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"author (著者) と同根。物語を作り、決定する者。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "populism",
+		"word": "Populism",
+		"part_of_speech": "noun",
+		"meaning": "ポピュリズム、大衆主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "populus",
+					"type": "root",
+					"meaning": "people"
+				}
+			],
+			"original_statement": "From Latin populus."
+		},
+		"core_concept": {
+			"en": "appeal to ordinary people",
+			"ja": "民衆の声の奔流。"
+		},
+		"thinking_layer": "人々そのものであること。エリート（中心）から疎外された情報の周辺が、峻烈な熱狂となって中心を飲み込もうとする力。",
+		"aftertaste": "巨大な波に自分を同化させる狂乱。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"people と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "globalism",
+		"word": "Globalism",
+		"part_of_speech": "noun",
+		"meaning": "グローバリズム、地球主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "globus",
+					"type": "root",
+					"meaning": "sphere, ball"
+				}
+			],
+			"original_statement": "From Latin globus."
+		},
+		"core_concept": {
+			"en": "worldwide operation",
+			"ja": "世界を一つの球体に収める。"
+		},
+		"thinking_layer": "球体であること。国境という名の『情報のひだ』を平坦化し、全地球を一つの同一な市場へと統合しようとする峻烈な意志。",
+		"aftertaste": "距離が消滅し、全宇宙と繋がる全能感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"globe と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "humanitarian",
+		"word": "Humanitarian",
+		"part_of_speech": "adjective",
+		"meaning": "人道的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "humanus",
+					"type": "root",
+					"meaning": "human"
+				}
+			],
+			"original_statement": "From Latin humanus."
+		},
+		"core_concept": {
+			"en": "promoting human welfare",
+			"ja": "人間らしさへの慈愛。"
+		},
+		"thinking_layer": "土地に属するもの（土から生まれたもの）。いかなるイデオロギーよりも先に、ただ『苦しむ人間』に手を差し延べる根源的な同情。",
+		"aftertaste": "失われた尊厳を取り戻す瞬間の祈り。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"humus (土) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "secularity",
+		"word": "Secularity",
+		"part_of_speech": "noun",
+		"meaning": "世俗性、宗教的でないこと",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "saeculum",
+					"type": "root",
+					"meaning": "age, generation, century"
+				}
+			],
+			"original_statement": "From Latin saeculum."
+		},
+		"core_concept": {
+			"en": "worldly state",
+			"ja": "移ろう時の中に生きる。"
+		},
+		"thinking_layer": "一つの世代。永遠という名の不動の聖域から降り、この移ろいやすい『今この時』の論理で世界を構築する決意。",
+		"aftertaste": "神なき荒野を自らの足で歩む清々しさ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"century と同じく世紀を意味した。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "clerical",
+		"word": "Clerical",
+		"part_of_speech": "adjective",
+		"meaning": "聖職者の、事務の",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "kleros",
+					"type": "root",
+					"meaning": "lot, inheritance"
+				}
+			],
+			"original_statement": "From Greek kleros."
+		},
+		"core_concept": {
+			"en": "relating to clergy or clerks",
+			"ja": "運命に選ばれし記録者。"
+		},
+		"thinking_layer": "くじ引きで選ばれたもの。情報の『継承者』として、聖なる記憶を管理し、厳格に記録し続ける沈黙の義務。",
+		"aftertaste": "巨大な歴史の一部として仕える安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"clerk (事務員) と同じ語源。文字の管理者の重要性。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "secularize",
+		"word": "Secularize",
+		"part_of_speech": "verb",
+		"meaning": "世俗化する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "saeculum",
+					"type": "root",
+					"meaning": "this world"
+				}
+			],
+			"original_statement": "To bring into this age."
+		},
+		"core_concept": {
+			"en": "transfer from clergy to state",
+			"ja": "聖域を日常へと解き放つ。"
+		},
+		"thinking_layer": "今の次元に引き下ろすこと。神秘のベールを剥ぎ、論理と計測が支配する『時間の平原』へと真理を誘い出す。",
+		"aftertaste": "魔法が消えた後の、冷静な自由。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"教会の土地を没収することから始まった意味。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "proselytize",
+		"word": "Proselytize",
+		"part_of_speech": "verb",
+		"meaning": "改宗させる、勧誘する",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pros-",
+					"type": "prefix",
+					"meaning": "toward"
+				},
+				{
+					"text": "eleuth-",
+					"type": "root",
+					"meaning": "to come"
+				}
+			],
+			"original_statement": "From Greek proselytos 'newcomer'."
+		},
+		"core_concept": {
+			"en": "attempt to convert",
+			"ja": "新しき魂を光へと導く。"
+		},
+		"thinking_layer": "やってくる者。境界の外にいる他者を、峻烈に自らの真理の磁界へと引き寄せ、同一の物語を信じさせる行為。",
+		"aftertaste": "孤独だった魂が共鳴者へと変わる驚き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"proselyte は『新参者』を意味する。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "apostle",
+		"word": "Apostle",
+		"part_of_speech": "noun",
+		"meaning": "使徒、先駆者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "apo-",
+					"type": "prefix",
+					"meaning": "away"
+				},
+				{
+					"text": "stellein",
+					"type": "root",
+					"meaning": "to send"
+				}
+			],
+			"original_statement": "From Greek apostolos 'messenger'."
+		},
+		"core_concept": {
+			"en": "messenger or pioneer",
+			"ja": "遠方の地へ放たれた火。"
+		},
+		"thinking_layer": "送り出される者。源泉から峻烈に切り離され、見知らぬ荒野へ真理を運び、そこで新しい世界を産み出すための『情報の種』。",
+		"aftertaste": "故郷を捨ててまで届けるべき真実の重み。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"epistle (手紙) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "disciple",
+		"word": "Disciple",
+		"part_of_speech": "noun",
+		"meaning": "弟子、門徒",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "discere",
+					"type": "root",
+					"meaning": "to learn"
+				}
+			],
+			"original_statement": "From Latin discipulus."
+		},
+		"core_concept": {
+			"en": "follower",
+			"ja": "真理を学ぶ、静かなる影。"
+		},
+		"thinking_layer": "学ぶ者。自らのエゴを峻烈に削ぎ、偉大なる先人の知恵を完璧にコピーし、継承しようとする謙虚な修行。",
+		"aftertaste": "巨人の肩に乗っているという深い平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"discipline (規律、学問) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "piety",
+		"word": "Piety",
+		"part_of_speech": "noun",
+		"meaning": "信心、誠実、親孝行",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pius",
+					"type": "root",
+					"meaning": "dutiful, religious"
+				}
+			],
+			"original_statement": "From Latin pietas."
+		},
+		"core_concept": {
+			"en": "quality of being religious",
+			"ja": "根源への、峻烈な義務の愛。"
+		},
+		"thinking_layer": "義務に従うこと。自分を産み出した親や神という起源に対し、変わらぬ敬意を払い続ける情報の忠誠心。",
+		"aftertaste": "正しい順番に並んでいるという魂の秩序。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pity (哀れみ) と同根。悲しみと敬意はかつて近かった。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "reverence",
+		"word": "Reverence",
+		"part_of_speech": "noun",
+		"meaning": "畏敬、心からの尊敬",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "vereri",
+					"type": "root",
+					"meaning": "to fear, respect"
+				}
+			],
+			"original_statement": "From Latin reverentia."
+		},
+		"core_concept": {
+			"en": "deep respect",
+			"ja": "震えるような愛の恐れ。"
+		},
+		"thinking_layer": "何度も恐れること。圧倒的な真理を前に、自らが塵（ちり）であることを思い出しながら、それでもその輝きに魅了される双極の感情。",
+		"aftertaste": "巨大な力の前に跪く、甘美な衝撃。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"beware (注意する) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "veneration",
+		"word": "Veneration",
+		"part_of_speech": "noun",
+		"meaning": "崇拝、尊敬",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "venus",
+					"type": "root",
+					"meaning": "love, desire"
+				}
+			],
+			"original_statement": "From Latin venerari 'to adore'."
+		},
+		"core_concept": {
+			"en": "great respect",
+			"ja": "愛に基づく、至高の賛美。"
+		},
+		"thinking_layer": "愛すること（ヴィーナスのように）。単なる恐怖ではなく、そのあまりの美しさに魂を捧げたいと願う能動的な献身。",
+		"aftertaste": "美しいものに自分の半分を与える歓び。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Venus (美の女神) の名は『愛』そのもの。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "paganism",
+		"word": "Paganism",
+		"part_of_speech": "noun",
+		"meaning": "多神教、異教」、自然崇拝",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "paganus",
+					"type": "root",
+					"meaning": "rustic, villager"
+				}
+			],
+			"original_statement": "From Latin pagus 'district'."
+		},
+		"core_concept": {
+			"en": "informal religion",
+			"ja": "土地の精霊と踊る、原初の記憶。"
+		},
+		"thinking_layer": "村人の信仰。都市の抽象的な一神教に対し、土に根ざし、岩や木々の中に潜む無数の声を聞き分ける、多層的な情報の生命。 ",
+		"aftertaste": "足元の土が生きていると感じる野性的な充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"農村（村落）に住む者から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "polytheism",
+		"word": "Polytheism",
+		"part_of_speech": "noun",
+		"meaning": "多神教",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poly-",
+					"type": "prefix",
+					"meaning": "many"
+				},
+				{
+					"text": "theos",
+					"type": "root",
+					"meaning": "god"
+				}
+			],
+			"original_statement": "From Greek poly- + theos."
+		},
+		"core_concept": {
+			"en": "belief in multiple gods",
+			"ja": "無数の光が作り出す、万華鏡の宇宙。"
+		},
+		"thinking_layer": "多くの神々。単一の正義に縛られず、時に対立し、時に響き合う複数の真理を同時に受け入れる、情報の豊穣なカオス。 ",
+		"aftertaste": "どの方向を見ても神が存在しているという賑やかな平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"theology と同じ theos。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monotheism",
+		"word": "Monotheism",
+		"part_of_speech": "noun",
+		"meaning": "一神教",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos",
+					"type": "root",
+					"meaning": "single, alone"
+				}
+			],
+			"original_statement": "From Greek monos + theos."
+		},
+		"core_concept": {
+			"en": "belief in one god",
+			"ja": "唯一の光源が照らす、峻烈な秩序。"
+		},
+		"thinking_layer": "たった一人の神。すべてのカオスを一点に収束させ、唯一絶対の『法』によって全宇宙を統率しようとする情報の独裁的な統一。",
+		"aftertaste": "迷いが完全に消去された、硬質な確信。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"monarchy, monopoly と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "atheism",
+		"word": "Atheism",
+		"part_of_speech": "noun",
+		"meaning": "無神論",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "without"
+				}
+			],
+			"original_statement": "From Greek a- + theos."
+		},
+		"core_concept": {
+			"en": "disbelief in deities",
+			"ja": "神という仮説を排した、剥き出しの実存。"
+		},
+		"thinking_layer": "神なきこと。空虚な天を見つめ、そこに何者もいないことを峻烈に認めながら、それでも自らの意志でこの荒野に立ち続ける、不屈の知性。 ",
+		"aftertaste": "誰も見ていないからこそ自由である、という峻厳な孤独。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"agnostic (不可知論) とはまた違う強い否定。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "mysticism",
+		"word": "Mysticism",
+		"part_of_speech": "noun",
+		"meaning": "神秘主義",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "myein",
+					"type": "root",
+					"meaning": "to close the eyes or mouth"
+				}
+			],
+			"original_statement": "From Greek mysteros 'initiated'."
+		},
+		"core_concept": {
+			"en": "belief in union with Deity",
+			"ja": "目を閉じ、沈黙の深淵で真理と溶け合う。"
+		},
+		"thinking_layer": "口を閉じること。言葉という名の不完全な道具を捨て、静寂の中で源泉そのものと合一（union）しようとする、情報の超越的な自殺。",
+		"aftertaste": "自分が消え、宇宙そのものになる陶酔。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mystery (秘密) と同根。語り得ぬもの。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monastic",
+		"word": "Monastic",
+		"part_of_speech": "adjective",
+		"meaning": "修道院の、禁欲的な",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos",
+					"type": "root",
+					"meaning": "alone"
+				}
+			],
+			"original_statement": "From Greek monastikos."
+		},
+		"core_concept": {
+			"en": "relating to monks",
+			"ja": "孤独という名の、美しい牢獄。"
+		},
+		"thinking_layer": "独りで居ること。世俗の喧騒を断ち切り、たった一つの真理を見つめるために、あえて自己を隔離する情報の静かなる要塞。 ",
+		"aftertaste": "研ぎ澄まされた静寂の中で見出す、真の自己。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"monk, monastery ともに monos から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "priest",
+		"word": "Priest",
+		"part_of_speech": "noun",
+		"meaning": "司祭、神父、長老",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "presbyteros",
+					"type": "root",
+					"meaning": "elder, senior"
+				}
+			],
+			"original_statement": "From Greek presbyter."
+		},
+		"core_concept": {
+			"en": "religious leader",
+			"ja": "知恵を継承する、聖なる長老。"
+		},
+		"thinking_layer": "より年を重ねたもの。単なる役職ではなく、長い歳月を経て磨かれた『情報の重層』体現者として、人々を導く沈黙の権威。 ",
+		"aftertaste": "導きを信じて歩める、安心の重力。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Presbyterian (長老派) の語源。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "abbot",
+		"word": "Abbot",
+		"part_of_speech": "noun",
+		"meaning": "修道院長",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "abba",
+					"type": "root",
+					"meaning": "father"
+				}
+			],
+			"original_statement": "From Aramaic abba."
+		},
+		"core_concept": {
+			"en": "head of a monastery",
+			"ja": "修道の森を統べる、情報の父。"
+		},
+		"thinking_layer": "お父さん。孤独に戦う修道士（monks）たちの心の拠り所となり、峻烈な規律の中に温かな庇護を与える、情報の『核』としての権威。",
+		"aftertaste": "厳格さの奥に潜む、深き慈愛に触れる平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"イエスが神を呼んだ時も abba を使った。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "monk",
+		"word": "Monk",
+		"part_of_speech": "noun",
+		"meaning": "修道士、僧侶",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "monos",
+					"type": "root",
+					"meaning": "alone"
+				}
+			],
+			"original_statement": "From Greek monachos 'solitary'."
+		},
+		"core_concept": {
+			"en": "religious man living in seclusion",
+			"ja": "孤独の中で真理を耕す、静かなる戦士。"
+		},
+		"thinking_layer": "一人の者。家族や名前さえも捨て、ただ一つの『法』に従って日々を律する、情報のミニマリズム。 ",
+		"aftertaste": "余計なものをすべて手放した、魂の身軽さ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"monarchy と同じ『独り』。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nun",
+		"word": "Nun",
+		"part_of_speech": "noun",
+		"meaning": "修道女、尼僧",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nana",
+					"type": "root",
+					"meaning": "aunt, old woman"
+				}
+			],
+			"original_statement": "From Late Latin nonna."
+		},
+		"core_concept": {
+			"en": "religious woman",
+			"ja": "聖なる沈黙を守る、知恵の叔母。"
+		},
+		"thinking_layer": "年上の女性。世俗的な母であることをやめ、より高次の『情報のゆりかご』を慈しみ、静かなる祈りで世界を支える存在。",
+		"aftertaste": "静かなる献身に見守られている安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"もともとは乳母や年配の女性への敬称。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "convent",
+		"word": "Convent",
+		"part_of_speech": "noun",
+		"meaning": "女子修道院、集り",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "com-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "venire",
+					"type": "root",
+					"meaning": "to come"
+				}
+			],
+			"original_statement": "From Latin convenire 'to assemble'."
+		},
+		"core_concept": {
+			"en": "religious community of women",
+			"ja": "祈りのために集いし、情報の島。"
+		},
+		"thinking_layer": "集まること。俗世への未練を捨て、共通の目標を持った者たちが一箇所に峻烈に凝縮されることで生まれる、高密度の聖域。",
+		"aftertaste": "同じ志を持つ者同士で構築する、清浄な空気。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"convention (会議) と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "abbey",
+		"word": "Abbey",
+		"part_of_speech": "noun",
+		"meaning": "大修道院",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "abba",
+					"type": "root",
+					"meaning": "father"
+				}
+			],
+			"original_statement": "Building of an abbot."
+		},
+		"core_concept": {
+			"en": "the community of monks or nuns",
+			"ja": "情報の父に守られし、壮大なる伽藍（がらん）。"
+		},
+		"thinking_layer": "修道院長の住む場所。自律した情報の小宇宙を構築し、外部の時代の荒波を寄せ付けない、壮大なる沈黙の石の森。",
+		"aftertaste": "数千年の祈りが染み付いた石壁の重厚感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ウエストミンスター寺院（Abbey）が有名。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "parish",
+		"word": "Parish",
+		"part_of_speech": "noun",
+		"meaning": "教区、地域コミュニティ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "para-",
+					"type": "prefix",
+					"meaning": "beside"
+				},
+				{
+					"text": "oikos",
+					"type": "root",
+					"meaning": "dwelling, house"
+				}
+			],
+			"original_statement": "From Greek paroikia 'sojourning'."
+		},
+		"core_concept": {
+			"en": "administrative district",
+			"ja": "家々の隣に寄り添う、聖なる自治。"
+		},
+		"thinking_layer": "一軒の家の隣。抽象的な『全人類』ではなく、目の前にいる隣人たちと情報のパンを分かち合う、肉体的なスケールの共有地。",
+		"aftertaste": "地域という名の絆への帰属意識。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"economy (家政) と同じ oikos から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "diocese",
+		"word": "Diocese",
+		"part_of_speech": "noun",
+		"meaning": "教区、管理区域",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "di-",
+					"type": "prefix",
+					"meaning": "throughout"
+				},
+				{
+					"text": "oikein",
+					"type": "root",
+					"meaning": "to manage a house"
+				}
+			],
+			"original_statement": "From Greek dioikesis 'administration'."
+		},
+		"core_concept": {
+			"en": "district under a bishop",
+			"ja": "全域を管理する、統治の家。"
+		},
+		"thinking_layer": "家事を徹底的に行うこと。情報の管理能力（governance）を最大化し、広大な土地を一つの『法』の下に束ね上げる、行政的な聖域。 ",
+		"aftertaste": "広大な秩序の末端にいる安心。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ローマ帝国の行政区画から受け継がれた名称。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "synod",
+		"word": "Synod",
+		"part_of_speech": "noun",
+		"meaning": "宗教会議、公会議",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syn-",
+					"type": "prefix",
+					"meaning": "together"
+				},
+				{
+					"text": "hodos",
+					"type": "root",
+					"meaning": "way, road"
+				}
+			],
+			"original_statement": "From Greek synodos 'meeting'."
+		},
+		"core_concept": {
+			"en": "assembly of clergy",
+			"ja": "道を同じくする者たちの、峻烈な対話。"
+		},
+		"thinking_layer": "同じ道を歩むこと。ばらばらに歩んでいた真理の探求者たちが一箇所に集まり、一つの『正道』を定めるための、情報の衝突と合意。 ",
+		"aftertaste": "多くの議論の末に辿り着いた、重厚な一致点。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"method (方法＝道をたどる) と同じ hodos。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "vatican",
+		"word": "Vatican",
+		"part_of_speech": "noun",
+		"meaning": "バチカン、法王庁、預言の丘",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "vates",
+					"type": "root",
+					"meaning": "prophet, seer"
+				}
+			],
+			"original_statement": "From Mons Vaticanus, probably from vaticinari 'to prophesy'."
+		},
+		"core_concept": {
+			"en": "holy see",
+			"ja": "預言の丘から放たれる、情報の絶対座標。"
+		},
+		"thinking_layer": "預言者の丘。この世の利害を超え、数千年の『情報の系譜』を受け継ぎ、世界へ向けて絶対的な真理を宣告する、地球上の中心点。 ",
+		"aftertaste": "悠久の時を越えて響く、鐘の音のような威厳。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ローマの七つの丘の一つから。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "papacy",
+		"word": "Papacy",
+		"part_of_speech": "noun",
+		"meaning": "教皇権、教皇の職",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pappa",
+					"type": "root",
+					"meaning": "father"
+				}
+			],
+			"original_statement": "Office of the Pope."
+		},
+		"core_concept": {
+			"en": "office or authority of the pope",
+			"ja": "全信徒の父として、真理を司る。"
+		},
+		"thinking_layer": "パパの職。単なる政治力ではなく、神と人の間に立つ最も峻烈なる『橋渡し役（pontiff）』としての、重厚な使命。 ",
+		"aftertaste": "不滅の伝統の継承者であるという、圧倒的な重み。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pope と同じ。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "patriarch",
+		"word": "Patriarch",
+		"part_of_speech": "noun",
+		"meaning": "家長、総大司教、創始者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "patria",
+					"type": "root",
+					"meaning": "family, lineage"
+				},
+				{
+					"text": "archein",
+					"type": "root",
+					"meaning": "to rule"
+				}
+			],
+			"original_statement": "From Greek patriarkhes."
+		},
+		"core_concept": {
+			"en": "male head of family",
+			"ja": "血統を統べる、原初の支配者。"
+		},
+		"thinking_layer": "一族を治める者。情報の『家系（lineage）』の最上流に位置し、峻烈な伝統の守護者として君臨する、情報の始祖。",
+		"aftertaste": "脈々と続く血の流れを感じる、太古の平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"monarchy, archive と同じ archein。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "chaplain",
+		"word": "Chaplain",
+		"part_of_speech": "noun",
+		"meaning": "施設司祭、チャプレン、守る者",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cappa",
+					"type": "root",
+					"meaning": "cloak, cape"
+				}
+			],
+			"original_statement": "Originally, keepers of St Martin's cloak."
+		},
+		"core_concept": {
+			"en": "member of clergy attached to a private chapel",
+			"ja": "聖なるマント（cloak）で、傷ついた魂を包む。"
+		},
+		"thinking_layer": "マントの番人。教会の外（軍隊や病院）という荒野で、絶望に沈む人々の肩に静かに『情報のぬくもり』を掛ける、移動する聖域。",
+		"aftertaste": "暗闇の戦場で見出す、一筋の温かな光。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"聖マルティヌスのマントを保管していた人たちから。chapel (礼拝堂) の語源でもある。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "preach",
+		"word": "Preach",
+		"part_of_speech": "verb",
+		"meaning": "説教する、説く",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prae-",
+					"type": "prefix",
+					"meaning": "before"
+				},
+				{
+					"text": "dicare",
+					"type": "root",
+					"meaning": "to declare, say"
+				}
+			],
+			"original_statement": "From Latin praedicare."
+		},
+		"core_concept": {
+			"en": "proclaim or expound",
+			"ja": "人々の前で、真理を峻烈に『宣言（declare）』する。"
+		},
+		"thinking_layer": "前に立って言うこと。沈黙を破り、情報の源泉を公の場へと引きずり出し、誰もが無視できない『言葉の杭』を打ち込む行為。",
+		"aftertaste": "魂が揺さぶられ、新しい自分へ目覚める衝撃。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"index (人差し指) と同じ dicare。指し示すこと。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "damnation",
+		"word": "Damnation",
+		"part_of_speech": "noun",
+		"meaning": "永遠の罰、断罪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "damnum",
+					"type": "root",
+					"meaning": "loss, damage, fine"
+				}
+			],
+			"original_statement": "From Latin damnatio."
+		},
+		"core_concept": {
+			"en": "condemnation to eternal punishment",
+			"ja": "不変の法からの逸脱に対し、情報の『喪失（loss）』を宣告する。"
+		},
+		"thinking_layer": "損害を受けること。自己の物語を峻烈に破壊し、再生不能なカオスへと突き落とす、情報の終末的な拒絶。 ",
+		"aftertaste": "二度と戻れない場所へ墜ちる、底なしの恐怖。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"damage と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "penance",
+		"word": "Penance",
+		"part_of_speech": "noun",
+		"meaning": "悔い改め、苦行、償い",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "poena",
+					"type": "root",
+					"meaning": "punishment, pain"
+				}
+			],
+			"original_statement": "From Latin paenitentia."
+		},
+		"core_concept": {
+			"en": "voluntary self-punishment",
+			"ja": "自ら傷（pain）を負うことで、情報の歪みを正す。"
+		},
+		"thinking_layer": "罰を受けること。犯した過ちという情報のノイズを、肉体的な苦痛という名の対価を払うことで完璧に消去（reset）しようとする不屈の誠実。",
+		"aftertaste": "痛みの果てに見出す、罪の消滅という透明感。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pain, penalty と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "redemption",
+		"word": "Redemption",
+		"part_of_speech": "noun",
+		"meaning": "救済、請け出し、買い戻し",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "back"
+				},
+				{
+					"text": "emere",
+					"type": "root",
+					"meaning": "to buy, take"
+				}
+			],
+			"original_statement": "From Latin redemptio."
+		},
+		"core_concept": {
+			"en": "action of saving",
+			"ja": "カオスに売られた魂を、真理の代価で峻烈に『買い戻す（buy back）』。"
+		},
+		"thinking_layer": "再び買うこと。一度は汚れた物語を、巨大な愛の代償によって根底から更新し、真っ白な未来へと情報の再誕を果たさせること。",
+		"aftertaste": "暗闇から急に光の中へ連れ出される、圧倒的な震え。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"example, sample と同じ emere。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "bless",
+		"word": "Bless",
+		"part_of_speech": "verb",
+		"meaning": "祝福する、お清めする",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "blod",
+					"type": "root",
+					"meaning": "blood"
+				}
+			],
+			"original_statement": "From Old English bletsian 'to consecrate with blood'."
+		},
+		"core_concept": {
+			"en": "consecrate or sanctify",
+			"ja": "生命の血（blood）で、存在を高貴な聖域へと塗り替える。"
+		},
+		"thinking_layer": "血で清めること。抽象的な言葉ではなく、生命そのものである『血』という峻烈な供物を媒介にして、存在のステージを一つ上の神聖へと押し上げる。",
+		"aftertaste": "自分という存在が、宇宙から受け入れられたという深い充足。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"blood と同根。古くは生贄の血で器を清める動作から。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "testament",
+		"word": "Testament",
+		"part_of_speech": "noun",
+		"meaning": "遺言、誓約、証拠",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "testis",
+					"type": "root",
+					"meaning": "witness"
+				}
+			],
+			"original_statement": "From Latin testamentum."
+		},
+		"core_concept": {
+			"en": "will or statement of belief",
+			"ja": "死を超えて残される、情報の『不滅の証（witness）』。"
+		},
+		"thinking_layer": "証人がいること。肉体が消え去った後も、自分の魂が何を信じていたかを峻烈に他者に示し続ける、情報の『最後の避難所』。",
+		"aftertaste": "すべての言葉を遺し終えた、清々しい遺志。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"testify, testosterone と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "providence",
+		"word": "Providence",
+		"part_of_speech": "noun",
+		"meaning": "摂理、天佑、将来の備え",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward"
+				},
+				{
+					"text": "videre",
+					"type": "root",
+					"meaning": "to see"
+				}
+			],
+			"original_statement": "From Latin providentia 'foresight'."
+		},
+		"core_concept": {
+			"en": "timely preparation",
+			"ja": "未来を峻烈に見通し（foresight）、一滴の無価値も許さない全知。"
+		},
+		"thinking_layer": "前を見る（見守る）こと。どんな苦難もあらかじめ計算された一部であり、最後には必ず調和へと導かれるという、宇宙の巨大な安心感。",
+		"aftertaste": "どんな状況でも、自分は守られているという深い平安。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"provide (提供する) と同根。見守ることは、与えること。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "expanse",
+		"word": "Expanse",
+		"part_of_speech": "noun",
+		"meaning": "広がり、大空、情報の平原",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "pandere",
+					"type": "root",
+					"meaning": "to spread"
+				}
+			],
+			"original_statement": "From Latin expansum."
+		},
+		"core_concept": {
+			"en": "wide area",
+			"ja": "限界という名の壁を峻烈に突き破り、無限へと情報の翼を広げる。"
+		},
+		"thinking_layer": "外へ広げること。狭いエゴの檻を捨て、全宇宙を自分の住処（すみか）として定義する、情報の爆発的な解放。",
+		"aftertaste": "胸がすくような、圧倒的なスケールの自由。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"expand と同根。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "rite",
+		"word": "Rite",
+		"part_of_speech": "noun",
+		"meaning": "儀式、典礼、情報の形式",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ritus",
+					"type": "root",
+					"meaning": "custom, usage, way"
+				}
+			],
+			"original_statement": "From Latin ritus."
+		},
+		"core_concept": {
+			"en": "religious or solemn ceremony",
+			"ja": "時空を峻烈に区切り、日常とは異なる『真理の扉』を開く。"
+		},
+		"thinking_layer": "習わし。何千年も繰り返されてきた共通の『型』をトレースすることで、個体を超えた巨大な情報の系譜へと魂を接続する、情報のタイムトラベル。 ",
+		"aftertaste": "正しい順番、正しい作法で世界と繋がっている安堵。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ritual (儀式) と同根。算術 (arithmetic) にも繋がる秩序。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
