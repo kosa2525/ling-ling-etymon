@@ -267841,5 +267841,231 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-12"
+	},
+	{
+		"id": "naught",
+		"word": "Naught",
+		"part_of_speech": "noun/adjective",
+		"meaning": "無、ゼロ、無価値なもの、無に等しい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ne",
+					"type": "prefix",
+					"meaning": "not (〜でない)",
+					"lang": "Old English"
+				},
+				{
+					"text": "awiht",
+					"type": "root",
+					"meaning": "anything (何らかのもの)",
+					"lang": "Old English"
+				}
+			],
+			"original_statement": "From Old English nāwiht, from ne 'not' + āwiht 'anything'."
+		},
+		"core_concept": {
+			"en": "Nothing; zero; of no value or importance",
+			"ja": "あらゆる『形あるもの（anything）』を否定し、最後に残留した、絶対的な『無（nothing）』。ゼロよりも深く、空虚よりも冷たい、存在の底が抜け落ちた場所"
+		},
+		"thinking_layer": "『何者でもないこと』。ノート（Nought/ゼロ）、ナティ（Naughty/行儀の悪い＝価値のない、わんぱくな）と同根。語源は「何もない」。ただの「ゼロ」ではありません。そこには。「あるべきものが、そこにない」という、峻烈な剥奪（deprivation）の響きが宿っています。それは。努力が水泡に帰し、期待が「無」へと還元される瞬間の、冷徹な真実。知性が自らの限界に突き当たり、沈黙せざるを得ない境界線。 ",
+		"aftertaste": "自分の積み上げてきたすべてが、ある一瞬のミスや運命の悪戯（mischance）によって「無（naught）」へと霧散してゆくのを眺め、自分の存在の「もろさ（fragility）」を突きつけられる、あの知的な眩暈（dizziness）。あるいは、余計な虚飾（vanity）をすべて捨て去ったその「無（naught）」の境地にこそ、本当の自由があるのだと逆説的に確信する、あの静かな夜の悟り。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ne-",
+					"meaning": "not (forming ne)"
+				},
+				{
+					"term": "aiw-",
+					"meaning": "vital force, life, age (forming awiht via wiht/thing)"
+				}
+			],
+			"points": [
+				"no, neither, nor, ever, age, eon 同根。",
+				"『何らかのもの（wiht）』を否定して『無』とするプロセスは、知性が世界を区分けし、価値を『再定義』するための必須の通過点である。ナウト（naught）は、存在を一度ゼロにリセットするための、峻烈な知的洗浄（cleansing）である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "nonentity",
+		"word": "Nonentity",
+		"part_of_speech": "noun",
+		"meaning": "実在しないもの、無、つまらない人、取るに足りないもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "non-",
+					"type": "prefix",
+					"meaning": "not (否、非)"
+				},
+				{
+					"text": "entitas",
+					"type": "root",
+					"meaning": "being, existence (存在、実在)",
+					"lang": "Latin"
+				},
+				{
+					"text": "esse",
+					"type": "root",
+					"meaning": "to be (あること)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From non- 'not' + entity, from Latin entitas, from ens 'being'."
+		},
+		"core_concept": {
+			"en": "A person or thing with no special or interesting qualities; an unimportant person; non-existence",
+			"ja": "存在（entity）の光を浴びることなく、背景の闇へと溶け込んだ『実体のない影』。名前を持たず、記憶にも残らない、存在しないことと同義の『取るに足りなさ』"
+		},
+		"thinking_layer": "『存在しないこと』。エッセンス（Essence/本質）、アイデンティティ（Identity/同一性）、おなじみの「ノン（非）」と同根。語源は「存在しないもの」。ただの「凡人」ではありません。そこには。「存在そのものが定義されていない」という、形而上学的な虚無（metaphysical void）が宿っています。それは。社会の歯車として記号化され、自らの「顔」を失ってしまった知性の悲劇。 ",
+		"aftertaste": "群衆の中に紛れ込み、自分がただの「実体のない一人（nonentity）」として扱われていることに、一瞬の解放感と、それ以上の深い「孤独」を感じて足がすくむ、あの知的な戦慄。あるいは、自分の言葉が、この「ノンエンティティ（nonentity）」のように誰の心にも波紋を立てずに消えてゆくのを眺め、もう一度自分の「実存（existence）」を激しく打ち立てたいと願う、あの静かな午後の自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "es-",
+					"meaning": "to be (forming esse)"
+				}
+			],
+			"points": [
+				"is, am, entity, absent, present, sin（？） 同根。",
+				"『ある（being）』という属性を剥奪されたものは、言語によって語ることすら困難になる。ノンエンティティ（nonentity）という言葉は、その語り得ぬ『不在』に、かろうじて名前を与えるための、知性の苦肉の策である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "imponderable",
+		"word": "Imponderable",
+		"part_of_speech": "adjective/noun",
+		"meaning": "重さのない、量れない、評価できない、量り難いもの",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "im-",
+					"type": "prefix",
+					"meaning": "not (否、無)"
+				},
+				{
+					"text": "ponderabilis",
+					"type": "root",
+					"meaning": "weighable (量れる)', from ponderare 'to weigh'"
+				},
+				{
+					"text": "pondus",
+					"type": "root",
+					"meaning": "weight (重さ)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From French impondérable, from Latin im- 'not' + ponderabilis, from ponderare 'weigh'."
+		},
+		"core_concept": {
+			"en": "A factor that is difficult or impossible to estimate or assess; weightless",
+			"ja": "物理的な『重さ（weight）』を持たず、論理（logic）の天秤でも量ることのできない、不可知な『不確定要素』。計算の枠外から不意に現れ、すべてを決定づける、目に見えない運命の重力"
+		},
+		"thinking_layer": "『量ることができない』。ポンド（Pound/重さの単位）、ポンダラス（Ponderous/重苦しい）、ポンダー（Ponder/熟考する＝重さを量る）と同根。語源は「重さのない」。ただの「軽い」ではありません。そこには。「私たちの認知能力を超えている」という、謙虚な絶望が含まれます。それは。知性がどんなに精緻なモデルを組み上げても、決して予測（prediction）できない、人生の「微かな、しかし決定的な揺らぎ」。",
+		"aftertaste": "完璧だったはずの計画が、ある一つの「量り難い要素（imponderable）」によって音を立てて崩れ去るのを眺め、自分の知性の傲慢さ（arrogance）を恥じる、あの知的な静寂。あるいは、自分の人生において本当に大切なものは、すべてこの「インポンダラブル（imponderable）」な性質、すなわち「量れない美しさ」の中に宿っているのだと確信する、あの静かな夜の安堵。 ",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "pend-",
+					"meaning": "to hang, weigh (forming pondus)"
+				}
+			],
+			"points": [
+				"pendant, depend, spend, pension, compensate 同根。",
+				"『重さを量る（weighing）』という行為は、世界を数値へと翻訳する行為である。インポンダラブル（imponderable）は、その翻訳が不可能な『残余（remnant）』としての真実を肯定する言葉である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "inapprehensible",
+		"word": "Inapprehensible",
+		"part_of_speech": "adjective",
+		"meaning": "理解できない、理解し難い、捉えがたい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not (否)"
+				},
+				{
+					"text": "ad-",
+					"type": "prefix",
+					"meaning": "to (〜へ)"
+				},
+				{
+					"text": "prehendere",
+					"type": "root",
+					"meaning": "to seize, grasp (掴む)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From in- 'not' + apprehensible, from Latin apprehendere 'seize'."
+		},
+		"core_concept": {
+			"en": "Not able to be understood or grasped conceptually; intangible",
+			"ja": "概念の手（hand of concept）ですくい上げようとしても、指の隙間からさらさらと溢（あふ）れ落ちてゆく、捉えがたい『真理』。知性の網（net of intellect）を通り抜ける、あまりにも微細で巨大な何か"
+		},
+		"thinking_layer": "『掴み取ることができない』。プリズン（Prison/捕らえられた場所）、コンプリヘンド（Comprehend/共に掴む＝理解する）、おなじみの「プレ（掴む）」と同根。語源は「掴めない」。ただの「難しい（difficult）」ではありません。そこには。「形そのものが自分を拒んでいる」という、峻烈な疎外感が宿っています。それは。未知の深淵を覗き込んだ瞬間に感じる、知的な「眩暈（dizziness）」と「畏怖（awe）」。",
+		"aftertaste": "宇宙の広がりや、一人の人間の心の深さが、この「インアプリヘンシブル（inapprehensible）」な領域に属していることを自覚し、自分の小さな知性がかろうじて掴んでいる「一握（いちあく）の砂」を愛おしむ、あの静かな午後の平安。あるいは、自分の言葉が、いつかこの「理解不能な深淵」の向こう側に届くことを夢見て、空（くう）に向かって手を伸ばし続ける、あの虚しい、しかし高潔な野心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "ghend-",
+					"meaning": "to seize, take (forming prehendere)"
+				}
+			],
+			"points": [
+				"get, guess, surprise, prize 同根の説あり。",
+				"『掴む（seizing）』という身体的な比喩が、『理解する』という知的な行為と直結している事実は重い。インアプリヘンシブル（inapprehensible）という言葉は、知性が自らの『身体的な限界』を自白する瞬間の署名である。"
+			]
+		},
+		"date": "2026-03-12"
+	},
+	{
+		"id": "evanid",
+		"word": "Evanid",
+		"part_of_speech": "adjective",
+		"meaning": "（古語・まれ）消えていく、儚い、微かな、消えやすい",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "e-",
+					"type": "prefix",
+					"meaning": "out (外へ)"
+				},
+				{
+					"text": "vanus",
+					"type": "root",
+					"meaning": "empty, void (空の、無駄な)",
+					"lang": "Latin"
+				}
+			],
+			"original_statement": "From Latin evanidus, from evanescere 'fade away', from e- 'out' + vanus 'empty'."
+		},
+		"core_concept": {
+			"en": "Fading and vanishing; evanescent; weak; ephemeral",
+			"ja": "朝露（morning dew）や消えゆく霧（mist）のように、目に見える実体を持つのを止め、『空（void）』へと還ってゆこうとする『儚（はかな）さ』の極致。存在することと、消え去ることの甘美な交差点"
+		},
+		"thinking_layer": "『空きつつある』。エバネセント（Evanescent/消えゆく）、バニティ（Vanity/虚栄＝空っぽの誇り）、バニッシュ（Vanish/消える）と同根。語源は「空になる」。ただの「儚い（ephemeral）」ではありません。そこには。「少しずつ、しかし確実に、強度が失われてゆく」という、衰退（decline）の微かな響きが宿っています。それは。かつての情熱（passion）が、洗練された「哀愁（melancholy）」へと蒸留（distilling）されてゆく知性のプロセスのメタファー。",
+		"aftertaste": "夕暮れの光の中で、自分の影がこの「エヴァニド（evanid）」な淡さへと溶けてゆくのを見つめ、自分が決して「永遠」ではないことを、これ以上ないほど優しく、しかし残酷に教えられる、あの峻烈な一瞬。あるいは、自分のアイディアが、世の喧騒（noise）の中でこの「エヴァニド（evanid）」な囁きへと消えてゆくのを眺め、その消え去りゆく瞬間の「究極の美」だけを記憶に刻もうとする、あの孤独な自尊心。",
+		"deep_dive": {
+			"roots": [
+				{
+					"term": "eue-",
+					"meaning": "to leave, abandon, give out (forming vanus)"
+				}
+			],
+			"points": [
+				"want, waste, vacant, avoid 同根。",
+				"『空（void）』とは欠如ではなく、すべての可能性が『そこへ還る場所』である。エヴァニド（evanid）な存在とは、もはやこの世界の塵（dust）に縛られることを拒み、純粋な『光』や『空間』そのものになろうとする、物質の最後の決断である。"
+			]
+		},
+		"date": "2026-03-12"
 	}
 ];
