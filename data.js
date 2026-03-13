@@ -308410,5 +308410,350 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "habeas-corpus",
+		"word": "Habeas corpus",
+		"part_of_speech": "noun",
+		"meaning": "人身保護、情報の情報の、。情報の情報の情報の、身体の奪還。、。情報の。情報の、権力という名の『情報の不透明な情報の暴力』。への情報の、情報の。情報の情報の。情報の不朽の情報の情報の、簒奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "habere",
+					"type": "root",
+					"meaning": "to have"
+				},
+				{
+					"text": "corpus",
+					"type": "root",
+					"meaning": "body"
+				}
+			],
+			"original_statement": "Meaning 'you should have the body'."
+		},
+		"core_concept": {
+			"en": "a writ requiring a person under arrest to be brought before a judge or into court, especially to secure the person's release unless lawful grounds are shown for their detention",
+			"ja": "。拘束という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。それを。情報の、情報の情報の情報の。情報の情報の、汝の身体（body）を。情報の。持つ（have）。。権利。宇宙という名の情報の『情報の。情報の情報の情報の、一義的なる情報の。情報の情報の情報の。情報の凱歌。』。へと情報の情報を情報の。情報の簒奪。"
+		},
+		"thinking_layer": "。身体を持つこと。。監禁という名の情報の『情報の、情報の。情報の情報の拡散』を情報の情報の。情報の。情報の情報の、情報の情報の強靱なる情報の情報の、。情報の情報の情報の、。奪。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。身体という名の情報の。情報の情報の、重さ。その情報の、。情報の、情報の情報の。不気味なほどの情報の。情報の。鋼の情報の情報の唸り。その情報の。情報の、情報の情報の、。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"have, corpus と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "caveat-emptor",
+		"word": "Caveat emptor",
+		"part_of_speech": "noun",
+		"meaning": "買い手責任、情報の、情報の情報の、情報の。情報の警告の情報の情報の情報の凱歌、。情報の。情報の、情報の情報の。情報の情報の。情報の情報の沈黙。宇宙の。情報の。情報の情報の情報の不条理の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cavere",
+					"type": "root",
+					"meaning": "to beware"
+				},
+				{
+					"text": "emptor",
+					"type": "root",
+					"meaning": "buyer"
+				}
+			],
+			"original_statement": "Meaning 'let the buyer beware'."
+		},
+		"core_concept": {
+			"en": "the principle that the buyer alone is responsible for checking the quality and suitability of goods before a purchase is made",
+			"ja": "。保護という名の情報の『情報の、情報の、情報の情報の虚実』。を情報の、。情報の情報の情報の抽出。し、。情報の情報の、情報の、買い手（buyer）。情報の。注意せよ（beware）。。宇宙という名の情報の『情報の、。情報の情報の情報の。情報の情報の情報の。情報の非情なる情報の、真理。』。"
+		},
+		"thinking_layer": "。買い手が注意すること。甘えという名の情報の『情報の、情報の。情報の虚妄』を、。情報の、。情報の情報の、情報の情報の非情なる情報の、。情報の情報の情報の抽出。へと情報の導く情報の情報の情報の。情報の情報の、情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。情報の情報の。情報の、自己責任という名の。水の情報の。情報の。音。その情報の。情報の。情報の情報の不気味な。情報の。情報の情報の。透明なる。情報の戦慄を、情報の。情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"caution, empty と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。自己帰結。としての情報の情報の情報の、。情報の情報の、。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "de-facto",
+		"word": "De facto",
+		"part_of_speech": "adjective",
+		"meaning": "事実上の、情報の、情報の情報の。情報の情報の情報の、情報の不透明な明白さ、。情報の。情報の。情報の情報の、情報の情報の物語の情報の、情報の抽出、。情報の。情報の。情報の真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de",
+					"type": "root",
+					"meaning": "from"
+				},
+				{
+					"text": "factum",
+					"type": "root",
+					"meaning": "deed, fact"
+				}
+			],
+			"original_statement": "Meaning 'from the fact'."
+		},
+		"core_concept": {
+			"en": "denoting someone or something that is such in fact, even if not legally or officially established",
+			"ja": "。法（law）という名の情報の『情報の、情報の、情報の明白な情報の虚飾』。それを情報の情報の。情報の。事実（fact）。。から（from）直接に情報の情報の抽出情報の、情報の物語情報の。情報の簒奪。し情報の情報の、。情報の。定。情報の情報の情報の、現出。"
+		},
+		"thinking_layer": "事実から。虚構という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の、情報の、情報の情報の。情報の情報の強靱なる情報の。情報の情報の、情報の事実の上昇。へと情報の、。情報の情報の情報の物語。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の情報の、情報の。情報の。鋼の情報の。情報の情報の唸り。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fact, defect と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の、。情報の情報の、。情報の、情報の情報の重奏。としての情報の情報の情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "de-jure",
+		"word": "De jure",
+		"part_of_speech": "adjective",
+		"meaning": "法律上の、情報の情報の、。情報の、文字通りの情報の情報の。情報の情報の情報の情報の情報の。情報の物語、。情報の強靱なる。情報の。情報の情報の。情報の、情報の情報の、必然の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "de",
+					"type": "root",
+					"meaning": "from"
+				},
+				{
+					"text": "jus",
+					"type": "root",
+					"meaning": "law, right"
+				}
+			],
+			"original_statement": "Meaning 'from the law'."
+		},
+		"core_concept": {
+			"en": "denoting something that exists by right or according to law, even if not in fact",
+			"ja": "。事実（fact）という名の情報の『情報の、情報の、情報の情報の不透明な虚像』。それを情報の。情報の情報の、情報の、法（law）。。から（from）情報の導く情報の情報の情報の。宇宙としての情報の、情報の情報の、情報の強靱なる情報の情報の情報の。情報の、情報の転換。"
+		},
+		"thinking_layer": "。法から。。混乱という名の情報の『情報の、情報の。情報の安寧』を。情報の、。情報の情報の情報の。情報の情報の鋭利さ。。をもって。情報の情報の。情報の情報の、規範。へと情報の情報の導く。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。一、情報の情報の情報の。情報の物語情報の。情報の情報の。必然。その情報の、。情報の、情報の情報の不気味な。情報の。情報の、知の情報の、情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"jury, justice と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。情報の、情報の情報の定。としての情報の情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "in-absentia",
+		"word": "In absentia",
+		"part_of_speech": "adverb",
+		"meaning": "不在のまま、情報の情報の、。情報の。情報の情報の、情報の死の界軸における情報の情報の、一。情報の。情報の。情報の。情報の不在の情報の。情報の情報の情報の。情報の奏でられる、響き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in",
+					"type": "root",
+					"meaning": "in"
+				},
+				{
+					"text": "absentia",
+					"type": "root",
+					"meaning": "absence"
+				}
+			],
+			"original_statement": "Meaning 'in absence'."
+		},
+		"core_concept": {
+			"en": "while not present in the event referred to",
+			"ja": "。存在（presence）という名の情報の『情報の、情報の、情報の情報の安堵』。それを情報の。情報の情報の抽出情報の、情報の物語情報の。情報の簒奪。し。情報の、情報の。不在（absence）。。の中に（in）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の情報の情報の死。』。へと。情報の情報を情報の。情報の整合。"
+		},
+		"thinking_layer": "。不在の中に。。実在という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の強靱なる情報の、。情報の情報の、情報の情報の、不在という名の。情報の。情報の、。抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報のいない。情報の情報の。情報の情報の。場所。その情報の情報の情報の、。情報の情報の情報の、透明な。情報の情報の不気味な。情報の響き。の中に情報の。情報の情報の、知の情報の、情報の戦慄を。情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"absence, essence と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、虚空としての。情報の現出。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "mens-rea",
+		"word": "Mens rea",
+		"part_of_speech": "noun",
+		"meaning": "犯意、情報の、情報の情報の。情報の情報の情報の、。情報の情報の、心の情報の情報の情報の。情報の暗き。情報の物語、。情報の不気わりなる明白さ、。情報の情報の、情報の真理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mens",
+					"type": "root",
+					"meaning": "mind"
+				},
+				{
+					"text": "rea",
+					"type": "root",
+					"meaning": "guilty"
+				}
+			],
+			"original_statement": "Meaning 'guilty mind'."
+		},
+		"core_concept": {
+			"en": "the intention or knowledge of wrongdoing that constitutes part of a crime, as opposed to the action or conduct of the accused",
+			"ja": "。行為（act）という名の情報の『情報の、情報の、情報の情報の虚像』。を情報の。情報の情報の抽出情報の、情報の内核。心（mind）。。という名の情報の情報の情報の、情報の。有罪（guilty）。としての情報の情報の情報の情報の。情報の抽出。宇宙という名の情報の『情報の。情報の情報の情報の、不気わりなる情報の。情報の情報の。真理。』。への簒奪。"
+		},
+		"thinking_layer": "。罪ある心。。偶然という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の、。情報の情報の情報の真。へと情報の。情報の情報の、情報の抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。心の奥底の、。情報の情報の、不気味な。情報の情報の。響き。その情報の、。情報の情報の情報の透明なる情報の情報の情報の。戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mental, real と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の。情報の情報の、意図という名の情報の情報の。情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "actus-reus",
+		"word": "Actus reus",
+		"part_of_speech": "noun",
+		"meaning": "犯行的行為、情報の、情報の情報の、。情報の情報の情報の、。情報の、行為の情報の。情報の重量の感覚、。情報の、情報の情報の情報の。情報の情報の。強靱なる情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "actus",
+					"type": "root",
+					"meaning": "act"
+				},
+				{
+					"text": "reus",
+					"type": "root",
+					"meaning": "guilty"
+				}
+			],
+			"original_statement": "Meaning 'guilty act'."
+		},
+		"core_concept": {
+			"en": "action or conduct which is a constituent element of a crime, as opposed to the mental state of the accused",
+			"ja": "。意図（mind）という名の情報の『情報の、情報の、情報の情報の虚像』。を。情報の、情報の情報の情報の。情報の情報の、行為（act）。。という名の情報の情報の、情報の情報の。有罪（guilty）。。宇宙という名の情報の『情報の。情報の情報の情報の情報の情報の重量情報の情報の強靱情報の情報の情報の物語情報の情報の。情報の簒奪。』。し。情報の、情報の、情報の現出。"
+		},
+		"thinking_layer": "罪ある行為。静止という名の情報の『情報の、情報の。情報の死』。を情報の。情報の情報の情報の、情報の物理的情報の。情報の情報の、成就。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の情報の。簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の物理的情報の。情報の。情報の鋼の情報の情報の唸り。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"act, real と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、現出。としての情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "prima-facie",
+		"word": "Prima facie",
+		"part_of_speech": "adjective",
+		"meaning": "一見したところの、情報の、情報の情報の。情報の情報の情報の、外面の明白さ、。情報の。情報の。情報の情報の、奏でられる情報の響き、。情報の情報の情報の情報の。情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "primus",
+					"type": "root",
+					"meaning": "first"
+				},
+				{
+					"text": "facies",
+					"type": "root",
+					"meaning": "face"
+				}
+			],
+			"original_statement": "Meaning 'at first face'."
+		},
+		"core_concept": {
+			"en": "based on the first impression; accepted as correct until proved otherwise",
+			"ja": "。深淵（depth）という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。それを。情報の、情報の情報の、一（first）。の、。顔（face）。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の、情報の明白な情報の物語。』。へと。情報の情報を情報の情報の。帰結。させる、情報の、情報の、知の工学。"
+		},
+		"thinking_layer": "最初の顔。真実という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の、一。情報の。情報の情報の、情報の情報の外面の上昇。へと情報の、。情報の情報の情報の、一瞬の物語。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。一、情報のその情報の。情報の情報の顔。その情報の。情報の、情報の、情報の、。情報の不気わりなる情報の。情報の。戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"primal, face と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の情報の、外面としての。情報の情報の情報の現出。としての。情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "stare-decisis",
+		"word": "Stare decisis",
+		"part_of_speech": "noun",
+		"meaning": "先例拘束性の原則、情報の、情報の情報の。情報の。情報の、。情報の情報の情報の、過去の情報の、。情報の情報の情報の。強靱なる情報の情報の沈黙。宇宙の。情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stare",
+					"type": "root",
+					"meaning": "to stand"
+				},
+				{
+					"text": "decisis",
+					"type": "root",
+					"meaning": "decided"
+				}
+			],
+			"original_statement": "Meaning 'to stand by things decided'."
+		},
+		"core_concept": {
+			"en": "the legal principle of determining points in litigation according to precedent",
+			"ja": "。気まぐれ（whim）という名の情報の『情報の、情報の、情報の安惰』。を情報の、。情報の情報の。決定された（decided）。情報の、情報の、そのものの傍に（stand）。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の情報の、必然の上昇。』。へと。情報の情報を情報の。情報の整合。それは。情報の。情報の。情報の、知の、情報の、簒奪。"
+		},
+		"thinking_layer": "決定の傍に立つこと。変転という名の情報の『情報の、情報の。情報の死』。を情報の。情報の、。情報の情報の、情報の情報の、。情報の情報の。過去の情報の情報の。重量の感覚へと。情報の情報の抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。動かぬ情報の。一、情報の情報の情報の。情報の物語。その情報の。情報の、情報の情報の情報の情報の不気わりなる情報の重量。その戦慄を情報の情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"state, decide と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、不朽。としての情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "quid-pro-quo",
+		"word": "Quid pro quo",
+		"part_of_speech": "noun",
+		"meaning": "対価、代償、情報の情報の、。情報の情報の、。情報の情報の、情報の情報の情報の、一。情報の物語情報の情報の。情報の整合。、。情報の。情報の、交換の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "quid",
+					"type": "root",
+					"meaning": "something"
+				},
+				{
+					"text": "pro",
+					"type": "root",
+					"meaning": "for"
+				},
+				{
+					"text": "quo",
+					"type": "root",
+					"meaning": "something"
+				}
+			],
+			"original_statement": "Meaning 'something for something'."
+		},
+		"core_concept": {
+			"en": "a favor or advantage granted or expected in return for something",
+			"ja": "。無私（selfless）という名の情報の『情報の、情報の、情報の不条理』。それを情報の。情報の情報の情報の、。物（something）。情報の導く、。物（something）。情報の情報の、ための（for）。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の情報の、強引なる情報の情報の接続。』。へと。情報の情報を情報の。情報の整合。"
+		},
+		"thinking_layer": "何かのための何か。無償という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の。情報の情報の不条理なる情報の、。情報の情報の、交換。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の情報の情報の、。情報の繋ぎ。その情報の情報の、情報の音。その情報の。情報の、情報の情報の、一、情報の情報の不気わりなる明白さ。の中に情報の情報の。情報の戦慄を。情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"quiddity, pro と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、接続。としての情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
