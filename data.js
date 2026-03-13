@@ -321513,5 +321513,31 @@ const WORDS = [
    "original_statement": "From Sanskrit kalpa 'a cosmic period / an aeon'."
   },
   "concept": "The cosmic period (「。。、。一。、。人。の、。、。、命。、。、」。など、。、。、一。、。瞬。、の。、。瞬（。まばた。）。、。き。、に。、。過ぎ。ない。。、。ほど。に、。、。巨大。な、。、。、。、時の。、。環（。わ）。。、。、。宇宙。が。、。、生。ま。れ。、。、。、。そして。、。、。滅（。ほろ）。。び。、、。、。また。、始。、。まる。。、。、までの。、。、。、悠。久。の、。。、旅。、。、。)"
+ },
+ {
+  "id": "gnosticism",
+  "word": "Gnosticism",
+  "meaning": "グノーシス主義、知ることによる救済、霊的知識。",
+  "era": "Greek gnosis",
+  "etymology": {
+   "components": [
+    "gnosis (knowledge)"
+   ],
+   "original_statement": "From Greek gnosticizmos, from gnosis 'knowledge'."
+  },
+  "concept": "Salvation by knowing (「。。、。信じる。、。、」。のではなく。、。、。、「。。、。、知。る（。Gnosis）。。、。、」。、こと。、。、。この。、。、。、残酷な。、。、。、。監。、獄。、。、。のような。、。、。、。現実。を、。、。、。「。。、。、。理知。、。、。、」。という。、。、。、鍵。、。で。、。、。、。、。開（。あ）。。、。けて、。、。、。ここ。。から。、。、。脱。、。出。、。しようと。、。、。する、。、。、峻烈な。、。、。、飛。躍。、)"
+ },
+ {
+  "id": "kabbalah",
+  "word": "Kabbalah",
+  "meaning": "カバラ、伝承、数と文字の神秘主義。",
+  "era": "Hebrew qabbalah",
+  "etymology": {
+   "components": [
+    "qibel (to receive / accept)"
+   ],
+   "original_statement": "From Hebrew qabbalah 'tradition', from qibel 'to receive / accept'."
+  },
+  "concept": "Receiving the truth (「。。、。一。、。、」。つの。、。、。、「。。、。文字。、。、」。や。、。、「。。、。数。、。、。、」。の、。、奥。、に、。、。、ひっそり。と、。、。、隠。された。。、。、。宇宙。の、。、。。理知。を、。、。、。静（。しず）。。、。やかに。、。、。受け。、取（。と）。。、。る。。、ための、。、。、。理。知。の、。、。。、「。、。、。階段。、。、。、」。、)"
  }
 ];
