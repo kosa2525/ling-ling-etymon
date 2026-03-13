@@ -321420,5 +321420,58 @@ const WORDS = [
    "original_statement": "From Welsh crom 'bent' + llech 'flat stone / slate'."
   },
   "concept": "The curved stone (「。。、石。たち。が。、。、」。手。を、。、。、繋（。つな）。。ぎ、。、。、。一。、。つの。、。、。、「。。、。、。聖。なる。、。、。、。輪。、。、。、」。を。、。、。描（。えが）。。、。き、。、。、。その。、。中心。に、。、。。見えない。、。、。、「。。、。神。、。、。、」。を、。、。、。。飼（。か）。、。い。。、。慣（な）。。らす。。ための。、。、。、理。知。の、。、。。、。「。、。器。、。、。、」。、)"
+ },
+ {
+  "id": "orpiment",
+  "word": "Orpiment",
+  "meaning": "石黄（せきおう）、黄金の色、太陽の石。",
+  "era": "Latin auripigmentum",
+  "etymology": {
+   "components": [
+    "aurum (gold)",
+    "pigmentum (pigment)"
+   ],
+   "original_statement": "From Latin auripigmentum, from aurum 'gold' + pigmentum 'pigment'."
+  },
+  "concept": "Gold pigment (「。。、。黄金（。Aurum）。、。、」。の、。、。色彩（。Pigment）。。、を。、。、そのまま。。、一。、。つの。、。、。、石。へと。、。、。、封。じ。、込め。。た、。、。、。、。まば。ゆ。、い。。、。、。黄。、金。、。の、。、。火。、花。、。、。、しかし。、。その実。体。は。、。、。、。毒（。ドク）。。、。である。、。という、。、。、。残酷な。、。、。。誘（。いざな）。。い、。)"
+ },
+ {
+  "id": "malachite",
+  "word": "Malachite",
+  "meaning": "マラカイト、孔雀石、深い緑の記憶。",
+  "era": "Greek malakhe",
+  "etymology": {
+   "components": [
+    "malakhe (mallow)"
+   ],
+   "original_statement": "From Greek malakhe 'mallow', from its resemblance to the leaves of the mallow plant."
+  },
+  "concept": "Leaf-green stone (深い。、。、。森。の。、。中で。、。、。、ひっそり。と、。、。、芽。、。吹いた。。、。、。、。緑。、い。ろ。、。の。、。、。吐。息。。、それが。、。時間を。、。、かけて。、。、。、一。、。つの。、。、。、縞（。しま）。。模様。、。へと。、。、。、。凝。、。縮。、。された。。、。、。地球。の、。、。。瞳。、)"
+ },
+ {
+  "id": "azurite",
+  "word": "Azurite",
+  "meaning": "アズライト、藍銅鉱、思考の青。",
+  "era": "Persian lazhward",
+  "etymology": {
+   "components": [
+    "lazhward (lapis lazuli)"
+   ],
+   "original_statement": "Named after its azure blue color."
+  },
+  "concept": "The thinking blue (「。。、暗。、。、。、夜。、。、」。よりも。、。、深く。、。、。、「。。、。蒼。、。、」。よりも。、。、。鋭い。、。、。、一。、。、。つの。、。、。、空（。ソラ）。。の、。欠片（かけら）。。、。、。それは、。、。、。理知。が、。、。、。、極。、。限。、。まで。、。、。高ま。った。、時に。、。、。、。放。つ。、。、。、。青。、い。、。、。火。、花。、。、。、)"
+ },
+ {
+  "id": "hematite",
+  "word": "Hematite",
+  "meaning": "ヘマタイト、赤鉄鉱、大地に流れる血。",
+  "era": "Greek haimatites",
+  "etymology": {
+   "components": [
+    "haima (blood)"
+   ],
+   "original_statement": "From Greek haimatites (lithos) 'blood-like (stone)', from haima 'blood'."
+  },
+  "concept": "Blood-like stone (「。。、石。、、」。の、。中に。、。、。ひっそり。と、。、。、流れる。、。、。、。地。球。、。の、。、。「。。、。、血。、。、。、」。、。、。削（。けず）。。れば。、。、。、。不。意に、。、。赤。く。、。、。綻（。ほころ）。。、。ぶ。。、その。、。、。無。、骨。、。な。、。、鉄。の。、。輝き。は、。、。、。戦。士。たちの。、。、。、。、。不。屈。、。の、。、。守護。、。、。石。、な。のです。、。)"
  }
 ];
