@@ -321486,5 +321486,32 @@ const WORDS = [
    "original_statement": "From Greek aither 'upper air / sky', from aithein 'to burn / shine'."
   },
   "concept": "Shining air (「。。、地上。、。、」。の、。、。淀（よど）。。んだ。。大。、気。、。ではなく。、。、。、神々。が。、。、吸（。す）。。、。う、。、。、まば。ゆ。、い。。、。、。ほどに。、。、。、。、透（。す）。。、。き。、。、通。、。った。。、。、。光。、。そのもの。、。、。としての。、。、。、。、。空（ソラ）。、。、の、。、。、呼。吸。、)"
+ },
+ {
+  "id": "chronograph",
+  "word": "Chronograph",
+  "meaning": "クロノグラフ、時を刻むもの、記録計。",
+  "era": "Greek khronos + graphein",
+  "etymology": {
+   "components": [
+    "khronos (time)",
+    "graphein (to write)"
+   ],
+   "original_statement": "From Greek khronos 'time' + graphein 'to write'."
+  },
+  "concept": "Writing time (流（。なが）。。、。れて。。、。ゆ。く。。、。一。、。瞬、。、。一。、。瞬、。、という、。、。捉え。どころ。の。、。ない。、。、。時間を（。Khronos）。。、。あえて。、。、一。、字。、一。、句。。、。、正確。に、。、。、書き。。止（。と。）。、。める（。Graphein）。。、。、。ための、。、。理。知。の、。、。、「。、。楔（くさび）。、。、」。、)"
+ },
+ {
+  "id": "kalpa",
+  "word": "Kalpa",
+  "meaning": "劫（こう）、永遠に近い時間、世界の周期。",
+  "era": "Sanskrit kalpa",
+  "etymology": {
+   "components": [
+    "kalp (to be fit / possible)"
+   ],
+   "original_statement": "From Sanskrit kalpa 'a cosmic period / an aeon'."
+  },
+  "concept": "The cosmic period (「。。、。一。、。人。の、。、。、命。、。、」。など、。、。、一。、。瞬。、の。、。瞬（。まばた。）。、。き。、に。、。過ぎ。ない。。、。ほど。に、。、。巨大。な、。、。、。、時の。、。環（。わ）。。、。、。宇宙。が。、。、生。ま。れ。、。、。、。そして。、。、。滅（。ほろ）。。び。、、。、。また。、始。、。まる。。、。、までの。、。、。、悠。久。の、。。、旅。、。、。)"
  }
 ];
