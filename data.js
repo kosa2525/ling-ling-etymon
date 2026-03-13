@@ -319806,5 +319806,372 @@ const WORDS = [
    ]
   },
   "era": "17th Century Latin"
+ },
+ {
+  "id": "coefficient",
+  "word": "Coefficient",
+  "meaning": "係数、変数に掛けられる定数。",
+  "era": "Latin co- + efficience",
+  "etymology": {
+   "components": [
+    "co- (together)",
+    "ex- (out)",
+    "facere (to do / make)"
+   ],
+   "original_statement": "From New Latin coefficience, from co- 'together' + efficere 'work out, accomplish'."
+  },
+  "concept": "Working together (共に成し遂げるもの、未知の可能性（変数）の横に寄り添い、その力を重層化させる存在)",
+  "thinking": "変数が孤独に踊る時、係数はそのステップに一定の「リズム」や「倍率」を与えます。あくまで裏方でありながら、方程式の「性格」を決定づける影の主役です。協働とは、個性を消さずに影響を与えることです。",
+  "aftertaste": "静かなるパートナーシップの、数学的な証明。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "dhe-",
+     "meaning": "to set / put"
+    }
+   ],
+   "points": [
+    "Efficient（効率的）と同じく「成し遂げる」力。",
+    "掛け合わせることで、力は倍増します。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "jacobian",
+  "word": "Jacobian",
+  "meaning": "ヤコビの、ヤコビ行列（式）。",
+  "era": "Name of C.G.J. Jacobi",
+  "etymology": {
+   "components": [
+    "Jacob (proper name)",
+    "-ian (of / pertaining to)"
+   ],
+   "original_statement": "Named after the German mathematician Carl Gustav Jacob Jacobi."
+  },
+  "concept": "Jacobi's legacy (一人の人間の思索が、座標変換の影で「構造の変化」を捉える永遠の装置となったこと)",
+  "thinking": "ある空間から別の空間へ飛び移る時、その広がりがどれだけ歪むかを測るスケール。人名がそのまま数学の「道具」の名前になる、それは個人の思考が永遠の客観性を得たという記念碑です。",
+  "aftertaste": "座標がひしゃげる瞬間に立ち会う、空間の目撃者。",
+  "deep_dive": {
+   "roots": [],
+   "points": [
+    "多変数の微積分における最重要ツール。",
+    "個人の名前が宇宙の法則に刻まれた証。"
+   ]
+  },
+  "part_of_speech": "adjective/noun"
+ },
+ {
+  "id": "polynomial",
+  "word": "Polynomial",
+  "meaning": "多項式。",
+  "era": "Greek poly + Latin nomen",
+  "etymology": {
+   "components": [
+    "poly- (many)",
+    "nomen (name / term)"
+   ],
+   "original_statement": "A hybrid from Greek poly 'many' and Latin nōmen 'name', modeled on binomial."
+  },
+  "concept": "Many names (いくつもの「項」という名の声が重なり合い、一つの複雑な旋律を描き出すこと)",
+  "thinking": "xの二乗、三乗といった「名前」を持つ項たちが、加算という糸で繋がれたもの。単純な比例ではない、曲がりくねった世界の「カーブ」を記述するための、言葉の羅列。それは世界の複雑さへのラブレターです。",
+  "aftertaste": "次々と投げかけられる問いが、一つの答えを形作る充足感。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "pelu-",
+     "meaning": "much / many"
+    },
+    {
+     "term": "no-men-",
+     "meaning": "name"
+    }
+   ],
+   "points": [
+    "Noun（名詞）と同じnomenが使われています。",
+    "数学とは、未知のものに名前をつけて繋ぐ作業です。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "quotient",
+  "word": "Quotient",
+  "meaning": "商、割り算の答え、比率。",
+  "era": "Latin quotiens",
+  "etymology": {
+   "components": [
+    "quot (how many)"
+   ],
+   "original_statement": "From Latin quotiens 'how many times', from quot 'how many'."
+  },
+  "concept": "How many times (「何度」繰り返せば、あなたは私に追いつくか？という回数の哲学)",
+  "thinking": "全体を切り分け、一人の取り分を確定する言葉。それは分配の正義であり、あるいは無限の反復の中に潜む「整数」の発見です。商は、関係性の「密度」を教えてくれます。",
+  "aftertaste": "等分されたパイが、静かな皿に並ぶ納得感。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "kwo-",
+     "meaning": "who / which / how"
+    }
+   ],
+   "points": [
+    "Quota（割り当て）やQuote（引用して数える）と同根。",
+    "数は、常に「問い」から始まります。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "unitary",
+  "word": "Unitary",
+  "meaning": "単一の、一元的な、ユニタリな。",
+  "era": "Latin unitas",
+  "etymology": {
+   "components": [
+    "unus (one)"
+   ],
+   "original_statement": "From Latin unitas 'oneness', from unus 'one'."
+  },
+  "concept": "Pertaining to oneness (すべてを「一」へと統合し、エネルギー（内積）を保存する、揺るぎない単一性)",
+  "thinking": "変化しても、その中心にある「強さ」はけっして失われない。ユニタリ変換は、世界の形状を保ったまま視点だけを変える、量子世界のダンスのようなものです。個は一であり、一は全。その調和の数学です。",
+  "aftertaste": "完璧な円のように、どこから見ても一なるもの。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "oi-no-",
+     "meaning": "one / unique"
+    }
+   ],
+   "points": [
+    "Union（結合）やUnique（唯一の）の故郷。",
+    "最小の完全、それが「一」です。"
+   ]
+  },
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "wavelet",
+  "word": "Wavelet",
+  "meaning": "ウェーブレット、小さな波。",
+  "era": "Old English wafian + French -let",
+  "etymology": {
+   "components": [
+    "wave (wave)",
+    "-let (small)"
+   ],
+   "original_statement": "Modern coinage, from wave + diminutive suffix -let."
+  },
+  "concept": "A tiny ripple (無限に続く波ではなく、一瞬だけ現れて消える「さざなみ」の数学的な記述)",
+  "thinking": "長く続く旋律の中に潜む、一瞬の「ノイズ」や「きらめき」を捉えるための小さな窓。それは時間を細かく、空間を鋭く切り取り、世界の解像度を極限まで高めます。マクロとミクロを繋ぐ、短い呼吸です。",
+  "aftertaste": "水面に石を投げた時に広がる、一瞬の同心円の儚さ。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "webh-",
+     "meaning": "to weave"
+    }
+   ],
+   "points": [
+    "Weave（織る）の根からWaveが。世界は織られた波です。",
+    "縮小と解体、それがウェーブレットの魔法。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "sine",
+  "word": "Sine",
+  "meaning": "正弦、サイン。",
+  "era": "Latin sinus",
+  "etymology": {
+   "components": [
+    "sinus (fold / curve / bosom / bay)"
+   ],
+   "original_statement": "From Latin sinus 'bay, pocket, curve', used by Gherardo of Cremona to translate Arabic jaib 'pocket, fold', which was a misinterpretation of jiba 'chord'."
+  },
+  "concept": "A gentle fold (懐（ふところ）のように、たゆたう。円の奥底に秘められた「垂直な高さ」の夢)",
+  "thinking": "波打つ音、光、あるいは心臓の鼓動。すべてはサインカーブの「たゆたい」の中にあります。インドの「弦」がアラビアの「懐」と誤訳され、ラテン語のこの名を得た、歴史の迷宮が生んだ言葉です。",
+  "aftertaste": "寄せては返す、永遠の潮騒の幾何学。",
+  "deep_dive": {
+   "roots": [],
+   "points": [
+    "Sinus（副鼻腔：折れ曲がった場所）とおなじ語源。",
+    "誤訳が美しさを定義した、数少ない例。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "bilateral",
+  "word": "Bilateral",
+  "meaning": "左右相称の、二国間の。",
+  "era": "Latin bi + latus",
+  "etymology": {
+   "components": [
+    "bi- (two)",
+    "latus (side)"
+   ],
+   "original_statement": "From Latin bi- 'two' + latus 'side'."
+  },
+  "concept": "Two sides (鏡を間に挟んだような、二つの側面の「完璧な対称性」。共鳴し合う双子のような存在)",
+  "thinking": "私たちの体のように、真ん中で折りたためば重なり合う性質。一方が動けば、もう一方も反対方向に同じだけ動く。それは不変のバランスであり、世界を安定させるための「美的な二重性」です。",
+  "aftertaste": "均衡がもたらす、深い呼吸のような安定感。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "stel-",
+     "meaning": "to spread / extend"
+    }
+   ],
+   "points": [
+    "Latitude（緯度：広がり）のlatusと同じ。",
+    "二つで一つ、それがバイラテラルです。"
+   ]
+  },
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "normal",
+  "word": "Normal",
+  "meaning": "法線、直角の、標準的な。",
+  "era": "Latin norma",
+  "etymology": {
+   "components": [
+    "norma (carpenter's square)"
+   ],
+   "original_statement": "From Latin normalis, from norma 'carpenter's square'."
+  },
+  "concept": "Constituting a right angle (大工の「指矩（さしがね）」のように、どこまでも垂直で、どこまでも正しい「基準」)",
+  "thinking": "「普通」という意味の裏には、実は「直角」という鋭い幾何学が潜んでいます。平面に対して正しく屹立していること。その垂直な姿勢こそが、すべての秩序の「標準（ノーマル）」となったのです。",
+  "aftertaste": "背筋を伸ばし、大地に対して垂直に立つ時の清々しさ。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "gnō-",
+     "meaning": "to know"
+    }
+   ],
+   "points": [
+    "Norm（規範）と同じく、世界を計るための定規。",
+    "正しさは、直角であることから始まりました。"
+   ]
+  },
+  "part_of_speech": "noun/adjective"
+ },
+ {
+  "id": "polygon",
+  "word": "Polygon",
+  "meaning": "多角形。",
+  "era": "Greek poly + gonia",
+  "etymology": {
+   "components": [
+    "poly- (many)",
+    "gonia (angle / knee)"
+   ],
+   "original_statement": "From Greek polygonon, from poly- 'many' + gonia 'angle'."
+  },
+  "concept": "Many knees (多くの「膝」を曲げ、空間を抱き抱えるようにして閉じ込めた「領域」)",
+  "thinking": "いくつもの「角」が連なって、一続きの境界線を作る。それは円という抽象的な完璧さに抗う、カクカクとした「現実的な面」の構築です。角を増やせば増やすほど、私たちは「円」という理想に近づいていきます。",
+  "aftertaste": "パズルの欠片が噛み合い、一つの領土が完成する達成感。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "pelu-",
+     "meaning": "much / many"
+    },
+    {
+     "term": "genu-",
+     "meaning": "knee"
+    }
+   ],
+   "points": [
+    "Knee（膝）が折れ曲がって「角」をなす、という身体的幾何学。",
+    "世界を囲い込むことは、膝を折ることに似ています。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "x-axis",
+  "word": "X-axis",
+  "meaning": "X軸、横軸。",
+  "era": "Modern terminology",
+  "etymology": {
+   "components": [
+    "x (unknown variable letter)",
+    "axis (axle / pivot)"
+   ],
+   "original_statement": "Named using the letter x (from Descartes) and Latin axis 'axle'."
+  },
+  "concept": "The horizontal axle (水平方向にどこまでも伸びる「思考の背骨」、未知（x）が旅するための無限の大地)",
+  "thinking": "地平線のように真っ直ぐ、私たちはまずここから歩き出します。y軸という「高み」を目指す前に、まず地べたを這うようにして、未知の量「x」の居場所を探る。それは理性のための、最初の一線です。",
+  "aftertaste": "どこまでも続く水平線の、清々しい空虚さ。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "aks-",
+     "meaning": "axis"
+    }
+   ],
+   "points": [
+    "Axis（軸）はもともと車輪の「車軸」を意味しました。",
+    "未知数 x はデカルトが気まぐれに選んだアルファベットの末尾。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "y-intercept",
+  "word": "Y-intercept",
+  "meaning": "Y切片。",
+  "era": "Latin inter- + capere",
+  "etymology": {
+   "components": [
+    "y (vertical variable)",
+    "inter- (between)",
+    "capere (to take / seize)"
+   ],
+   "original_statement": "Formed from y + intercept, from Latin interceptus, from intercipere 'to seize between'."
+  },
+  "concept": "Seized at the vertical (垂直な壁（y軸）を横切る瞬間、強制的に「捕らえられた」その点の高さ)",
+  "thinking": "グラフがy軸という門番と出会い、その一瞬の「関所」で支払う通行料のような数値。まだ何も始まっていない（x=0）の時に、すでにあなたが持っている「初期値」という名の運命です。",
+  "aftertaste": "ゼロ地点において、すでに定まっている不変の標高。",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "kap-",
+     "meaning": "to grasp"
+    }
+   ],
+   "points": [
+    "Capture（捕虜）やConcept（概念：共に掴むもの）と同じcapere。",
+    "軸と交わることは、その点において座標を「掴み取る」ことです。"
+   ]
+  },
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "zeta",
+  "word": "Zeta",
+  "meaning": "ゼータ、ギリシャ文字の第6字母、リーマンのゼータ関数。",
+  "era": "Greek zeta",
+  "etymology": {
+   "components": [
+    "zayin (Semitic name / weapon)"
+   ],
+   "original_statement": "From Greek zeta, from Phoenician zayin 'weapon'."
+  },
+  "concept": "The sixth gate / The weapon (アルファベットの最後の方で光る、素数の秘密を射抜くための「鋭利な武器」)",
+  "thinking": "数学史上最大の謎（リーマン予想）において、中心的な役割を果たす文字。それはカオスのように見える素数の並びに、音楽のような調和を見出すための鍵です。知性が神の領域に踏み込むための「最終兵器」。",
+  "aftertaste": "未解決の謎が放つ、人を惹きつけて離さない禁断の輝き。",
+  "deep_dive": {
+   "roots": [],
+   "points": [
+    "数学者にとって、最も美しく最も恐ろしい文字の一つ。",
+    "もとは「武器」を意味したという事実は、現代数学でも生き続けています。"
+   ]
+  },
+  "part_of_speech": "noun"
  }
 ];
