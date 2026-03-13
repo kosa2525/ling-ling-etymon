@@ -321243,5 +321243,19 @@ const WORDS = [
    "original_statement": "From Fermi's question 'Where is everybody?' regarding extraterrestrial life."
   },
   "concept": "The great silence (これほど。、。、巨大。な、。、。宇宙。に、。、。星。々。が、。、。、煌（。きら）。。めき、。、。、命。が。、。芽。吹く。、。、チャンス。。が、。、。、。溢（。あふ）。。れて。、。いる。。、。はず。、なのに。、。、なぜ。、。これほどまでに。、。、宇宙。は、。、。、。沈。、。黙。、。、。して。、。いる。、のか。、。、。という、。、。、峻烈な。、。、。、。寂し。さ。、)"
+ },
+ {
+  "id": "afterglow",
+  "word": "Afterglow",
+  "meaning": "夕映え、余韻、幸福な思い出。",
+  "era": "English after + glow",
+  "etymology": {
+   "components": [
+    "after (after)",
+    "glow (light / heat)"
+   ],
+   "original_statement": "From after + glow."
+  },
+  "concept": "Light after light (太陽。が、。、。沈。み。、。去った。、。後の。、。、。空（ソラ）。に。、。ひっそり。と、。、。残された。。、。、。、まば。ゆ。、い。。、。、。記憶。の。、。、熱。、。、。それは、。、。、。今日。。、。と。、。、明日。を、。、。静かに。、。、繋ぐ。。、ための。、。、。、。、。、。、理知。の、。、。最後。の、。、。、微。、笑。、。、。み。、)"
  }
 ];
