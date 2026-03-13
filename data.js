@@ -320481,5 +320481,154 @@ const WORDS = [
   "thinking": "宇宙の始まりにおいて、物質と反物質の数がほんの少し違ったから、この世界は存在します。均衡の崩壊こそが、エネルギーの流れを作り、ドラマを産む。美しさは、完璧な左右対称ではなく、その微かな「揺らぎ」に宿ります。",
   "aftertaste": "均整の取れた美の隣に、ふと見つけた微かな歪への、愛おしさの混じった予感。",
   "part_of_speech": "noun"
+ },
+ {
+  "id": "atavism",
+  "word": "Atavism",
+  "meaning": "先祖返り、隔世遺伝、原初への回帰。",
+  "era": "Latin atavus",
+  "etymology": {
+   "components": [
+    "atavus (great-great-great-grandfather / ancestor)"
+   ],
+   "original_statement": "From Latin atavus 'ancestor', probably from atta 'father' + avus 'grandfather'."
+  },
+  "concept": "The awakening of the ancestor (文明という薄い膜を突き破って、数万年前の野生が突如として現代に顔を出すこと)",
+  "thinking": "遠い遠い祖先の記憶が、遺伝子の深い層から這い上がり、現代の肉体に発現する現象。それは、人間がどれほど進化しても、その深層には「原初の荒野」が今なお息づいていることを教えてくれます。",
+  "aftertaste": "耳の奥で微かに聞こえる、原始の遠吠えの残響。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "vitalism",
+  "word": "Vitalism",
+  "meaning": "生気論。",
+  "era": "Latin vita",
+  "etymology": {
+   "components": [
+    "vita (life)"
+   ],
+   "original_statement": "From Latin vita 'life'."
+  },
+  "concept": "The spark of life (生命は「物理的な部品」の組み合わせ以上の、何か神聖な、何か特別な「火花（エラン・ヴィタール）」を宿しているという信仰)",
+  "thinking": "肉体を機械とみなす考えに対し、そこには絶対に説明できない「生気」があると主張する。それは科学の敗北宣言ではなく、死を免れないこの肉体が、いかにして「生きる」という熱を持っているかへの、驚嘆の哲学です。",
+  "aftertaste": "指先に流れる血潮が、単なる液体ではなく、宇宙の意志で脈打っているという、温かい実感。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "weltanschauung",
+  "word": "Weltanschauung",
+  "meaning": "世界観、深層の人生観。",
+  "era": "German Welt + Anschauung",
+  "etymology": {
+   "components": [
+    "Welt (world)",
+    "Anschauung (view / perception / observation)"
+   ],
+   "original_statement": "German Weltanschauung, from Welt 'world' + Anschauung 'view, observation'."
+  },
+  "concept": "The world-view (自分が立っている「土壌」そのもの。言葉や文化、歴史を越えて、世界がいかに「見えるか」という魂のフィルター)",
+  "thinking": "単なる意見ではなく、存在の根底に流れる「調律（チューニング）」。他者の世界観を知ることは、自分とは違う「宇宙の解り方」があることを認め、自分の孤独を少しだけ和らげる行為です。",
+  "aftertaste": "他人の瞳を借りて、自分が今まで一度も見たことのなかった「別の地球」を瞥見する驚き。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "circumspection",
+  "word": "Circumspection",
+  "meaning": "慎重さ、警戒、思慮周到。",
+  "era": "Latin circum + specere",
+  "etymology": {
+   "components": [
+    "circum (around)",
+    "specere (to look)"
+   ],
+   "original_statement": "From Latin circumspectionem, from circumspicere 'to look around / take heed'."
+  },
+  "concept": "Looking around (一歩を踏み出す前に、周囲を「ぐるりと見渡す（Circum-specere）」。闇の中に潜む、予期せぬ何かを見逃さないための理知)",
+  "thinking": "暗闇の森を歩く時のように、足元ではなく、遠くの影を窺う。それは、臆病さではなく、自分の「生」と「尊厳」を守るための、最も誠実な距離感です。世界は広く、未知であることを認める謙虚さです。",
+  "aftertaste": "張り詰めた沈黙の中で、かすかな風の音を聞き分けようとする、あの研ぎ澄まされた神経の感触。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "ebullience",
+  "word": "Ebullience",
+  "meaning": "溢れる情熱、沸き立つ興奮、元気いっぱい。",
+  "era": "Latin e- + bullire",
+  "etymology": {
+   "components": [
+    "ex- (out)",
+    "bullire (to bubble / boil)"
+   ],
+   "original_statement": "From Latin ebullient-, from ebullire 'to bubble out'."
+  },
+  "concept": "Bubbling out (心の奥底にある熱い想いが、器から「沸き立ち（E-bullire）」、制御不能な泡となって世界へと溢れ出していく姿)",
+  "thinking": "抑えきれない喜び。理由のない熱狂。それは、生命が自身の「存在の謳歌」を、物理的な肉体の限界を超えて叫び、踊らせている瞬間です。熱いお湯が沸騰するように、魂が震えています。",
+  "aftertaste": "はじける炭酸の泡が、肌に触れて一瞬で消えていくような、あの眩しく刹那的な生命感。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "gregariousness",
+  "word": "Gregariousness",
+  "meaning": "社交性、群居性、群れたがる性質。",
+  "era": "Latin greg-",
+  "etymology": {
+   "components": [
+    "grex (flock / herd)"
+   ],
+   "original_statement": "From Latin gregarius 'of a flock', from grex 'flock'."
+  },
+  "concept": "Belonging to the flock (一人の孤独を耐えかね、羊の群れ（Grex）の一部となって、誰かの温もりを、誰かの声を、盲目的に求める本能的な寂しさ)",
+  "thinking": "私たちは群れをなす動物です。集まることで安心し、自分の輪郭を他者の瞳の中に確認する。しかし、群れの中にいる時、私たちは自分自身の「声」を失っていないでしょうか。",
+  "aftertaste": "大勢の笑い声の中にありながら、ふと、自分一人の吐息だけが、どこか遠くへ、逸れていくような微かな違和感。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "judiciousness",
+  "word": "Judiciousness",
+  "meaning": "賢明、思慮深さ、良識的。",
+  "era": "Latin judicium",
+  "etymology": {
+   "components": [
+    "jus (law / right)",
+    "dicere (to say / proclaim)"
+   ],
+   "original_statement": "From judicious + -ness, from Latin judicium 'judgment'."
+  },
+  "concept": "Speaking the law (衝動的な感情に溺れず、内なる「法（Jus）」に従って、状況を冷静に見定め、最も「正しい言葉」を、最も「正しいタイミング」で、告げること)",
+  "thinking": "天秤を手にした女神のように、物事の重さを正しく計り分ける。それは冷徹な判断ではなく、世界を慈しむための「バランス」への祈りです。性急な判断を避け、沈黙の中から真実を聴き取る力です。",
+  "aftertaste": "荒れ狂う波間に、そっと下ろされた、一筋の細く、しかし決して切れない、錨のような確信。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "ubiquity",
+  "word": "Ubiquity",
+  "meaning": "偏在、いたる所にあること、遍在性。",
+  "era": "Latin ubique",
+  "etymology": {
+   "components": [
+    "ubi (where)",
+    "que (anywhere / ever)"
+   ],
+   "original_statement": "From Latin ubique 'everywhere', from ubi 'where' + -que, suffix of general application."
+  },
+  "concept": "Being everywhere (どこにいても、逃れられない。空気のように、光のように、神のように、宇宙の隅々にまで、その気配が、浸透し、。満ち満ちていること)",
+  "thinking": "特別な場所などない。すべてがここであり、ここがすべてである。それは繋がりの究極。あなたが独りだと思っている時でさえ、世界という名の全体性は、常にそこに「遍在（Ubique）」しています。",
+  "aftertaste": "暗闇に目を凝らしても、背後に誰かの視線を感じるような、あの濃密で、不可避な、世界の。包囲感",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "yearning",
+  "word": "Yearning",
+  "meaning": "憧れ、切望、思慕、うずくような。渇望",
+  "era": "Old English giernan",
+  "etymology": {
+   "components": [
+    "georn (eager / desirous)"
+   ],
+   "original_statement": "From Old English giernan 'to strive / desire', from georn 'eager'."
+  },
+  "concept": "Eager for the void (欠けている自分の「半分」を埋めるために、魂が、物理的な距離を超えて、。叫び、。手を伸ばし、。必死に這い上がろうとする、。もっとも、純粋な、。飢え)",
+  "thinking": "届かないからこそ、想いは強まる。この渇きこそが、私たちを成長させ、新しい世界へと駆り立てる原動力です。それは、不完全な私たちが、完全な「何か」に出会おうとする、聖なる、。祈りそのものです",
+  "aftertaste": "喉の奥に、砂漠の熱砂が残っているような、あの、。癒えることのない、。しかし甘やかな、。乾きの",
+  "part_of_speech": "noun"
  }
 ];
