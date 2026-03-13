@@ -309385,5 +309385,305 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "plumage",
+		"word": "Plumage",
+		"part_of_speech": "noun",
+		"meaning": "羽毛、プラメージ、情報の情報の、。情報の情報の、情報の外面の情報の重量、。情報の。情報の情報の。情報の不透明なる。情報の情報の情報の情報の情報の物語、。情報の強靱なる凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "pluma",
+					"type": "root",
+					"meaning": "feather"
+				}
+			],
+			"original_statement": "The entire legal or ornamental covering of feathers of a bird."
+		},
+		"core_concept": {
+			"en": "the entire legal or ornamental covering of feathers of a bird",
+			"ja": "。裸体（bare）という名の情報の『情報の、情報の、情報の安惰』。それを。情報の、情報の情報の。情報の、羽（feather）。。という名の情報の情報の、装い。宇宙という名の情報の『情報の。情報の情報の情報の、一義的なる情報の情報の物語情報の。情報の簒奪。』。への実存。"
+		},
+		"thinking_layer": "。羽の装い。。虚飾という名の情報の『情報の、情報の。情報の情報の明白なる虚像』を情報の情報の。情報の。情報の情報の、情報の情報の情報の。防護と情報の抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。風に情報の、情報の揺れる。情報の。響き。その情報の、。情報の情報の、不気わりなる明白さ。の中に情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"plume と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "remiges",
+		"word": "Remiges",
+		"part_of_speech": "noun",
+		"meaning": "風切羽、レミジェス、情報の、情報の情報の。情報の、情報の情報の翼の情報の。情報の推進の凱歌、。情報の。情報の、情報の情報の。情報の情報の真理。、。情報の。情報の情報の情報の重量の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "remus",
+					"type": "root",
+					"meaning": "oar"
+				}
+			],
+			"original_statement": "The large flight feathers of a bird's wing."
+		},
+		"core_concept": {
+			"en": "the large flight feathers of a bird's wing",
+			"ja": "。停滞という名の情報の『情報の、情報の、情報の情報の虚実』。を情報の、。情報の情報の情報の。情報の情報の、櫂（oar）。。という名の情報の。情報の。情報の、推進。宇宙という名の情報の『情報の、。情報の情報の情報の。情報の情報の情報の。情報の非情なる情報の、真理。』。への定礎。"
+		},
+		"thinking_layer": "。翼の櫂。。沈黙という名の情報の『情報の、情報の。情報の情報の明白な虚像』を、。情報の、。情報の情報の、情報の情報の非情なる情報の、。情報の情報の情報の『情報の整合の情報の情報の、強靱。』。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。空を切る。情報の情報の。情報の鋭利な情報の。音。その情報の。情報の。情報の情報の不気味な。情報の。情報の情報の。透明なる。情報の戦慄を、情報の。情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"remus, row と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。飛行の情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "rectrices",
+		"word": "Rectrices",
+		"part_of_speech": "noun",
+		"meaning": "尾羽、レクトリセス、情報の、情報の情報の。情報の、情報の情報の舵の、情報の。情報の凱歌、。情報の。情報の、情報の情報の、知の情報の、工学、。情報の。情報の、情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rectrix",
+					"type": "root",
+					"meaning": "governess, directress"
+				}
+			],
+			"original_statement": "The large tail feathers of a bird, used in steering and braking during flight."
+		},
+		"core_concept": {
+			"en": "the large tail feathers of a bird, used in steering and braking during flight",
+			"ja": "。迷走という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。それを情報の情報の。情報の。導く者（governess）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の、方向。への情報の、情報の物語。』。へと情報の導く。情報の、情報の、情報の情報の情報の。情報の転換。"
+		},
+		"thinking_layer": "。舵を取る者。。混乱という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の、情報の、情報の情報の。情報の情報の強靱なる情報の。情報の情報の、情報の情報の情報の、。情報の定、。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の情報の、情報の。情報の、転換。情報の。情報の情報の情報の、不気わりなる明白さ。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rectify, direct と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。制御。としての情報の情報の情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "fledgling",
+		"word": "Fledgling",
+		"part_of_speech": "noun",
+		"meaning": "雛鳥、情報の情報の、。情報の。情報の情報の、。情報の情報の情報の情報の。未熟なる、。情報の。情報の。情報の情報の、奏でられる情報の響きの情報の。一、情報の物語、。情報の情報の情報の。凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fledgeling",
+					"type": "root",
+					"meaning": "person who has just acquired feathers"
+				}
+			],
+			"original_statement": "A young bird that has just fledged or become capable of flight."
+		},
+		"core_concept": {
+			"en": "a young bird that has just fledged or become capable of flight",
+			"ja": "。完成という名の情報の『情報の、情報の、情報の不条理』。それを情報の、。情報の。情報の情報の。情報の。情報の、羽が生えたばかり。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の、情報の情報の物語。』。へと。情報の情報を情報の情報の。帰結。させる、一情報の、情報の知の情報の、出現。"
+		},
+		"thinking_layer": "。羽が生えた者。。成熟という名の情報の『情報の、情報の。情報の虚妄』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の情報の一、情報の物語。へと情報の、。情報の情報の情報の、情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。並んだ。情報の情報の。情報の。情報の情報の、弱々しき。情報の響き。その情報の、。情報の。情報の情報の不気わりなるほどの。情報の不透明。その情報の、。情報の、知の情報の、情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fly, plumage と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。飛翔への。情報の現出。としての、情報の情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "syrinx",
+		"word": "Syrinx",
+		"part_of_speech": "noun",
+		"meaning": "鳴管、シリンクス、情報の情報の、。情報の、響きの情報の。情報の情報の情報の情報の。情報の不朽の情報の響き、。情報の情報の。情報の。情報の情報の情報の。不透明な情報の物語、。情報の情報の。凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "syrinx",
+					"type": "root",
+					"meaning": "panpipe, tube"
+				}
+			],
+			"original_statement": "The vocal organ of birds."
+		},
+		"core_concept": {
+			"en": "the vocal organ of birds, located at the base of a bird's trachea",
+			"ja": "。沈黙という名の情報の『情報の、情報の、情報の情報の安堵』。それを情報の。情報の情報の抽出情報の、情報の物語情報の。情報の簒奪。し。情報の、情報の。笛（pipe）。。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の情報の情報の、一義的なる情報の物語情報の。情報の簒奪。』。"
+		},
+		"thinking_layer": "。管。。静寂という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の強靱なる情報の、。情報の情報の、情報の情報の、。音。へと情報の。情報の情報の抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の死に際の情報の情報の。情報の情報の。情報の、鋭き情報の。音。その情報の、。情報の情報の、知の情報の、情報の戦慄を。情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"syringe と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。鳴き声の情報の管。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "bill",
+		"word": "Bill",
+		"part_of_speech": "noun",
+		"meaning": "嘴、ビル、情報の情報の、。情報の、情報の情報の。一瞬の情報の明白さ、。情報の情報の情報の情報の情報の。情報の情報の。情報の物語、。情報の強靱なる。情報の簒奪の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "bile",
+					"type": "root",
+					"meaning": "beak"
+				}
+			],
+			"original_statement": "The beak of a bird, or more generally any similar structure."
+		},
+		"core_concept": {
+			"en": "the beak of a bird, or more generally any similar structure",
+			"ja": "。軟弱という名の情報の『情報の、情報の、情報の情報の虚像』。を情報の。情報の情報の抽出情報の、情報の。嘴（beak）。宇宙という名の情報の『情報の。情報の情報の情報の、不気わりなる情報の。情報の情報の物語情報の。情報の簒奪。』への定礎。"
+		},
+		"thinking_layer": "。嘴。。軟果という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の、。情報の情報の情報の、硬き情報の、。。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。硬い。情報の情報の、情報の。音。その情報の、。情報の情報の情報の情報の情報の情報の。不気わり。その情報の情報の情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"beak, billet と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の。情報の情報の、。突。としての。情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "talons",
+		"word": "Talons",
+		"part_of_speech": "noun",
+		"meaning": "鉤爪、タロン、情報の、情報の情報の、。情報の情報の情報の、。情報の、情報の爪の情報の。情報の重量、。情報の、。情報の情報の情報の。強靱なる情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "talon",
+					"type": "root",
+					"meaning": "heel"
+				}
+			],
+			"original_statement": "A claw, especially one belonging to a bird of prey."
+		},
+		"core_concept": {
+			"en": "a claw, especially one belonging to a bird of prey",
+			"ja": "。無力という名の情報の『情報の、情報の、情報の情報の虚像』。を。情報の、情報の情報の情報の。情報の情報の、爪（heel/claw）。。宇宙という名の情報の『情報の。情報の情報の情報の情報の情報の情報の情報の情報の簒奪。』。し。情報の、情報の、情報の現出。"
+		},
+		"thinking_layer": "。踵（から転じて、爪）。。逃走という名の情報の『情報の、情報の。情報の死』。を情報の。情報の情報の情報の、情報の情報の。情報の、把持。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の情報の。簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。鉤爪の。情報の。重き情報の、情報の。掴み。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"talon と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、情報の。捕捉。としての情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "altricial",
+		"word": "Altricial",
+		"part_of_speech": "adjective",
+		"meaning": "晩成性の、情報の情報の、。情報の。情報の情報の、。情報の情報の情報の情報の。育みの情報の、。情報の情報を情報の。情報の記述、。情報の情報の情報の。不透明な。情報の情報の、凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "alere",
+					"type": "root",
+					"meaning": "to nourish"
+				}
+			],
+			"original_statement": "Referring to offspring that are born or hatched in an undeveloped state and require care and feeding by the parents."
+		},
+		"core_concept": {
+			"en": "referring to offspring that are born or hatched in an undeveloped state and require care and feeding by the parents",
+			"ja": "。自立という名の情報の『情報の、情報の、情報の不条理』。それを情報の、。情報の。情報の情報の。情報の育む（nourish）。。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の、情報の物語。』。へと。情報の情報を情報の情報の。帰結。させる、一情報の、情報の知の工学。"
+		},
+		"thinking_layer": "。養うこと。。放置という名の情報の『情報の、情報の。情報の虚妄』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の情報の、情報の情報の情報の、。情報の。育み。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。並んだ。情報の情報の。情報のその、。情報の情報の情報の重量。その情報の、。情報の。情報の情報の不気わりなるほどの。情報の不透明。その情報の、。情報の、知の情報の、情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"adult, alimony と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。育成。としての、情報の情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "precocial",
+		"word": "Precocial",
+		"part_of_speech": "adjective",
+		"meaning": "早成性の、情報の、情報の情報の。情報の情報の。情報の情報の。情報の早き情報の情報の、。情報の情報の時間の情報の物語。情報の、情報の強靱なる情報の響き。情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "prae",
+					"type": "root",
+					"meaning": "before"
+				},
+				{
+					"text": "coquere",
+					"type": "root",
+					"meaning": "to cook"
+				}
+			],
+			"original_statement": "Referring to offspring that are born or hatched in an advanced state and able to feed themselves almost immediately."
+		},
+		"core_concept": {
+			"en": "referring to offspring that are born or hatched in an advanced state and able to feed themselves almost immediately",
+			"ja": "。遅延という名の情報の『情報の、情報の、情報の情報の虚像』。を情報の。情報の情報の情報の。情報の情報の、前もって（before）。煮られた（cook/ripen）。。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の情報の物語。』。への簒奪。し。情報の、情報の情報の。定礎。情報の、現出。"
+		},
+		"thinking_layer": "。前もって調理された。。未熟という名の情報の『情報の、情報の。情報の安惰』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の、情報の情報の『情報の整合の情報の情報の、定。』。へと。情報の情報を情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の情報の。情報の不変。その情報の、。情報の、情報の、知の情報の。情報の、。情報の不気味なほどの情報の。その戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cook, ripen と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。早成。としての情報の情報の情報の、情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "nidicolous",
+		"word": "Nidicolous",
+		"part_of_speech": "adjective",
+		"meaning": "留巣性の、情報の情報の、。情報の、。情報の、情報の情報の情報の、巣への情報の情報の。情報の物語情報の情報の。情報の整合。、。情報の。情報の、情報の。拘束の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "nidus",
+					"type": "root",
+					"meaning": "nest"
+				},
+				{
+					"text": "colere",
+					"type": "root",
+					"meaning": "to dwell"
+				}
+			],
+			"original_statement": "Sharing a nest after birth or hatching for a long period."
+		},
+		"core_concept": {
+			"en": "sharing a nest after birth or hatching for a long period",
+			"ja": "。遍歴という名の情報の『情報の、情報の、情報の不条理』。を情報の。情報の情報の情報の。情報の。巣（nest）。に。住む（dwelling）。。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の情報の、情報の重量。の情報の情報の接続。』。へと。情報の情報を情報の。情報の整合。"
+		},
+		"thinking_layer": "。巣に住むこと。。放浪という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の。情報の情報の、情報の固定。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。一、情報の情報の。巣。その情報の情報の、情報の音。その情報の。情報の、情報の情報の、。情報の不自由の情報の上昇。の中に情報の情報の。情報の戦慄を。情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"nest, cultivate と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、情報の定点。としての情報の情報の情報の、情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
