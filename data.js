@@ -321392,5 +321392,33 @@ const WORDS = [
    "original_statement": "From Latin axis 'axle / axis / pivot'."
   },
   "concept": "The central pivot (「。。、激しく。、。、」。揺れ。動く。、。、。世界。の。、。。真ん中。に、。、。、。、一。、。条の。、。、。、。。「。。、。、。静。、。止。、。、。、」。の。、。線を。、。、引。き。、。、。そこ。。を。、。、。、。中心。、として。、。、。すべて。を、。、。。、回。、。して。、。ゆ。く。。、。、。、理。知。の、。。、。「。、。、柱。、。、。、」。、)"
+ },
+ {
+  "id": "petroglyph",
+  "word": "Petroglyph",
+  "meaning": "岩面彫刻、刻まれた記憶、石の叫び。",
+  "era": "Greek petra + glyphein",
+  "etymology": {
+   "components": [
+    "petra (rock)",
+    "glyphein (to carve)"
+   ],
+   "original_statement": "From Greek petra 'rock' + glyphein 'to carve'."
+  },
+  "concept": "Carving into rock (紙。、。など。、。。ない。、。、。数。千年。の。。、。昔。、。に、。、。、剥（。は。）。、。き。出しの。、。、岩肌。に、。、。理知。の、。。、。。爪。。を。、。、立て、。、。、。「。。、。、俺。は、。、ここに。、。いた。、。、。、」。と、。、。、。、。刻（。きざ）。、。み。。、。付け。た、。、。、。震える。。、。、一。、。点の。、。、。、。最。、。、。初の。、。、。、意志。、)"
+ },
+ {
+  "id": "cromlech",
+  "word": "Cromlech",
+  "meaning": "クロムレック、環状列石、石の輪。",
+  "era": "Welsh crom + llech",
+  "etymology": {
+   "components": [
+    "crom (bent / curved)",
+    "llech (flat stone)"
+   ],
+   "original_statement": "From Welsh crom 'bent' + llech 'flat stone / slate'."
+  },
+  "concept": "The curved stone (「。。、石。たち。が。、。、」。手。を、。、。、繋（。つな）。。ぎ、。、。、。一。、。つの。、。、。、「。。、。、。聖。なる。、。、。、。輪。、。、。、」。を。、。、。描（。えが）。。、。き、。、。、。その。、。中心。に、。、。。見えない。、。、。、「。。、。神。、。、。、」。を、。、。、。。飼（。か）。、。い。。、。慣（な）。。らす。。ための。、。、。、理。知。の、。、。。、。「。、。器。、。、。、」。、)"
  }
 ];
