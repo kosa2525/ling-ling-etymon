@@ -321148,5 +321148,31 @@ const WORDS = [
    "original_statement": "From Friedrich Nietzsche's 'Wille zur Macht'."
   },
   "concept": "Desire for strength (単。なる、。、。支配。。では、。、。ありません。、。、。、。自ら。を、。、。、。、。越。、え。。つ。づ。け、。、。、。より。、。高み。へと、。、。、。自らを、。、。、強。め。。、。、。、。、。。、拡（。ひろ）。。げて。。い。こう。、とする、。、。、生命。。そのもの。、が、。、。、。、放。つ、。、。、最。も。、。、。根。、源。、的な。、。。動。、。、悸。、)"
+ },
+ {
+  "id": "modularity",
+  "word": "Modularity",
+  "meaning": "モジュール性、分割可能性、交換可能な美。",
+  "era": "Latin modulus",
+  "etymology": {
+   "components": [
+    "modulus (small measure)"
+   ],
+   "original_statement": "From Latin modulus 'a small measure'."
+  },
+  "concept": "The small measure (全体。を。、。、。一。、。つの。、。、塊。、。、として。、。、。作る。。、。のではなく。、。、。美。しい。、。小。、単位（。モデュール）。。、。へと。、。、。分解。、。し、。、。、。それらを。、。、自在に。、。、。組み。替え。。、。る。。ことで、。、。、。永遠。の、。、。、変容。、。を。、。、。可能に。、。する、。、。、。、。知。的な。、。、システム。、)"
+ },
+ {
+  "id": "optimization",
+  "word": "Optimization",
+  "meaning": "最適化、もっとも良き状態への磨き上げ。",
+  "era": "Latin optimus",
+  "etymology": {
+   "components": [
+    "optimus (best)"
+   ],
+   "original_statement": "From Latin optimus 'best' + -ize + -ation."
+  },
+  "concept": "Seeking the best (「。。、。、無駄。、。、」。を。、。、一。、滴。、。も、。、。残。さぬ。、。、。まで。、。に、。、。、。徹底。、。して。、。研。ぎ。、。澄。まし、。、。、。、。理知。の、。、。刃（は）。、。で、。、。、現実。を。、。、もっとも。、。、最。良（。オプティマス）。。、。な、。、。、一。。、。点。、へと。、。絞り。。、込む。。、。峻烈。な、。、。、。、。工。、。、。程。、)"
  }
 ];
