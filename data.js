@@ -321379,5 +321379,18 @@ const WORDS = [
    "original_statement": "From Latin assonare 'to answer with a similar sound'."
   },
   "concept": "Echoing to (言葉。の、。、奥に、。、。、ひっそり。と、。、。、潜。んだ。、。、。一。、。つの。、。、。母音。、。が、。、。、。遠く。の、。。、言葉。と、。、。、呼。び。。、。応（こた）。、。え。。、。合う。、。、。、。、。一。、。瞬、。、の、。透。、明。、。な。、。、。。、。共。、。鳴。、)"
+ },
+ {
+  "id": "axis",
+  "word": "Axis",
+  "meaning": "軸、地軸、(世界の)回転の中心。",
+  "era": "Latin axis",
+  "etymology": {
+   "components": [
+    "axis (axle / axis)"
+   ],
+   "original_statement": "From Latin axis 'axle / axis / pivot'."
+  },
+  "concept": "The central pivot (「。。、激しく。、。、」。揺れ。動く。、。、。世界。の。、。。真ん中。に、。、。、。、一。、。条の。、。、。、。。「。。、。、。静。、。止。、。、。、」。の。、。線を。、。、引。き。、。、。そこ。。を。、。、。、。中心。、として。、。、。すべて。を、。、。。、回。、。して。、。ゆ。く。。、。、。、理。知。の、。。、。「。、。、柱。、。、。、」。、)"
  }
 ];
