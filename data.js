@@ -321079,5 +321079,60 @@ const WORDS = [
   "thinking": "言葉。は、。、。、。本来。、。、雲。、のように。、。、実体。が。、。、。ありません。、。、。それに。、。、。無理。やり。、。境界。を。、。引き、。、。一。つの。、。意味。を、。、。、押し。、。。込める。、こと。、。、。それは、。、。、。、。秩序。。、。の、。創。、造。であり、。、。、。、。暴力。、でも。、。、。あ。る。、。、。、のかもしれま。せん。、。、。、。そこから。、。、。すべて。は。、。、。始まる。、。の。ですが。、。、。)",
   "aftertaste": "真っ白な。、、。、。紙。の上に。、。、。、。、針。で、。、。、。、プ。、。、。ツ。、リ。、。と、。、。、。最後。の、。、。、点を。、。、。、。打。った。、時。の、。あの。、冷。徹。な。、。完。結。感",
   "part_of_speech": "noun"
+ },
+ {
+  "id": "nash-equilibrium",
+  "word": "Nash Equilibrium",
+  "meaning": "ナッシュ均衡、動けない調和、最善の妥協。",
+  "era": "Name John Nash",
+  "etymology": {
+   "components": [
+    "John Nash (mathematician)"
+   ],
+   "original_statement": "Named after John Forbes Nash Jr., who defined it in game theory."
+  },
+  "concept": "Moving not (お互い。に、。、。自分。だけ。が、。、。、。戦略（。手）。を、。、。変え。ても。、。、。、一。、ミリ。も、。、。、得。を。、。しない。、。、。という、。、。、峻烈な。、。、。。、。「。。、。、。、膠着（こうちゃく）。。、。、。、」。の状態。、。、。それは、。、。、。、エゴイズム。が、。、。、。最後に。、。辿り。着く、。、。、。、。静かな。、。、。、断崖。、。、。です。、。)"
+ },
+ {
+  "id": "opportunity-cost",
+  "word": "Opportunity Cost",
+  "meaning": "機会費用、(失われた)可能性の痛み。",
+  "era": "English opportunity + cost",
+  "etymology": {
+   "components": [
+    "opportunity (chance)",
+    "cost (sacrifice)"
+   ],
+   "original_statement": "The loss of potential gain from other alternatives when one alternative is chosen."
+  },
+  "concept": "The cost of choice (何か。を。、。、。選。ぶ。、。ということは。、。、。、。、。他。の。、。すべて。を、。、。、。「。。、。、。捨。てる。、。、。、」。、こと。、。、。その。、。、。、投げ。捨てた。。、。可能性。。の、。、。、総。、。計、。、が。、。、今の。、。、自分。の。、。、身体（。肉。）。、を。、。作って。、。いる。、。、。という、。、。、。逃。げ。場。、。のない。、。、。、残酷な。、。、。、。、。、。代。、償。、)"
+ },
+ {
+  "id": "zero-sum-game",
+  "word": "Zero-sum Game",
+  "meaning": "ゼロサムゲーム、誰かの得は誰かの損。",
+  "era": "English zero + sum",
+  "etymology": {
+   "components": [
+    "zero (zero)",
+    "sum (total)"
+   ],
+   "original_statement": "A situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the utility of the other participants."
+  },
+  "concept": "The limited pie (「。。、全。体。。、」。の、。、パイ。、は。、。、が決まって。、。いる。、。。、。、あなたが。、。、笑。う。、。裏側。で、。、。、。必ず。、。、。誰か。が、。、。泣いて。。、いる。、。、。という、。、。この。、。、。、凍。て。ついた。。、。、。、数。。学。、。的。な、。、。、、。宿命。、)"
+ },
+ {
+  "id": "stagflation",
+  "word": "Stagflation",
+  "meaning": "スタグフレーション、(不況と膨張の)不幸な結婚。",
+  "era": "stagnation + inflation",
+  "etymology": {
+   "components": [
+    "stagnation (standing still)",
+    "inflation (swelling)"
+   ],
+   "original_statement": "Portmanteau of stagnation and inflation, coined by Iain Macleod in 1965."
+  },
+  "concept": "Standing still while swelling (景気。、が、。、。沈。み。、。込。み。、。、。（。Stagnation）。、。、。ながら。、。、。物。価。、だけが。、。、。虚しく。。、。、。、膨（ふく）。。らむ。、。、。（。Inflation）。。、という。、。、。出口。の。、。ない。、。、。、。地。獄。、。、。それは、。、。、。理知。が、。、。、。、。、。秩序。。、。を。、。、。失い。、。、。、溺。れ。。始めた。、。、。、時の。、。、。、断。、。。、末。、魔。、"
  }
 ];
