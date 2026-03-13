@@ -307365,5 +307365,335 @@ const WORDS = [
 			]
 		},
 		"date": "2026-03-13"
+	},
+	{
+		"id": "undecidability",
+		"word": "Undecidability",
+		"part_of_speech": "noun",
+		"meaning": "非決定性、計算不能性、情報の情報の、。情報の情報の、情報の沈黙の情報の情報の物語、。情報の、情報の、決定という名の『情報の情報の、情報の情報の明白な虚像』。その情報の粉砕",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "un-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "completely"
+				},
+				{
+					"text": "caedere",
+					"type": "root",
+					"meaning": "to cut, decide"
+				}
+			],
+			"original_statement": "The property of a problem that cannot be solved by any possible algorithm."
+		},
+		"core_concept": {
+			"en": "the property of a mathematical problem for which it is proved to be impossible to construct an algorithm that always leads to a correct yes-or-no answer",
+			"ja": "。決定（decision）という名の情報の『情報の、情報の情報の、情報の安惰』。それを。情報の、情報の情報の情報の。情報の情報の、情報の情報の、不透明なる情報の情報の沈黙。の中に潜む。情報の情報の。情報の限界。宇宙という名の情報の『情報の。情報の情報の情報の、情報の情報の情報の冷徹なる情報の情報の、情報の情報の、情報の終焉。』。"
+		},
+		"thinking_layer": "。決定できないこと。万能という名の情報の『情報の、情報の。情報の情報の拡散』を情報の情報の。情報の。情報の情報の、情報の情報の情報の情報の情報の極限において情報の。情報の、情報の情報の。情報の情報の情報の。簒奪。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。問い。。が情報の、情報の。情報の永遠の一部。へと情報の、情報の、変わる。その情報の。情報の、情報の情報の、情報の不気味なほどの情報の。情報の。情報の情報の透明な情報の情報の。情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"un-, decide と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "metacircular",
+		"word": "Metacircular",
+		"part_of_speech": "noun",
+		"meaning": "超循環的、メタサーキュラー、情報の、。情報の情報の。情報の、情報の自身を情報の情報の。情報の、情報の情報の情報の。情報の記述する。情報の物語、。情報の。情報の情報の情報の。凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meta-",
+					"type": "prefix",
+					"meaning": "beyond, above"
+				},
+				{
+					"text": "circulus",
+					"type": "root",
+					"meaning": "circle"
+				}
+			],
+			"original_statement": "Relating to an interpreter for a programming language that is written in the language itself."
+		},
+		"core_concept": {
+			"en": "describing an interpreter for a programming language that is written in the language itself",
+			"ja": "。鏡（mirror）という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。それを。情報の、情報の情報の、。情報の情報の、自らを自らによって（self-in-self）。情報の情報の、情報の情報の超越（beyond）し、。情報の情報の。情報の、情報の、円環（circle）。の中に情報の、情報の情報の、情報の不気味な、。情報の情報の。真理。の現出。"
+		},
+		"thinking_layer": "。超越した円環。外部という名の情報の『情報の、情報の。情報の虚飾』を情報の情報の。情報の。情報の情報の、情報の情報の内部への情報の。情報の、情報の情報の。情報の情報の、情報の沈。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。見つめ合う。情報の。情報の鏡面。その情報の、。情報の情報の。不気味なほどの情報の。情報の。情報の情報の情報の情報の透明。その情報の、。情報の。情報の情報の、情報の情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"meta-, circle と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の。情報の、。情報の情報の重奏。としての情報の情報の情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "idempotency",
+		"word": "Idempotency",
+		"part_of_speech": "noun",
+		"meaning": "冪等性（べきとうせい）、情報の情報の、。情報の情報の、何度繰り返しても情報の情報の。情報の。情報の不変の情報の情報の。情報の、情報の。情報の強靱なる情報の。情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "idem",
+					"type": "root",
+					"meaning": "same"
+				},
+				{
+					"text": "potentia",
+					"type": "root",
+					"meaning": "power"
+				}
+			],
+			"original_statement": "Property of certain operations in mathematics and computer science whereby they can be applied multiple times without changing the result."
+		},
+		"core_concept": {
+			"en": "the property of certain operations in mathematics and computer science whereby they can be applied multiple times without changing the result beyond the initial application",
+			"ja": "。変化（change）という名の情報の『情報の、情報の、情報の不条理』。それを情報の、。情報の情報を情報の。情報の、情報の同じである（same）。情報の。情報の力（power）。宇宙という名の情報の『情報の。情報の情報の情報の、情報の情報の。情報の不変。』。へと。情報の情報を情報の。情報の整合。する、情報の工学。"
+		},
+		"thinking_layer": "。同じ力の性質。氾濫という名の情報の『情報の、情報の。情報の情報の拡散』を情報の、。情報の信息的、情報の。情報の。情報の情報の情報の情報の情報の情報の情報の情報の一義的なる情報の情報の、。情報の、情報の情報の情報の情報の。情報の情報の、情報の、。定。それは、。情報の、情報の、知の。情報の。情報の情報の情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の、静かなる情報の、。情報の情報の情報の情報のその一。情報の。情報の物語。その情報の。情報の、情報の情報の不気味なほどの情報の。情報の。情報の情報の情報の。透明なる。情報の戦慄を情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"identic, potential と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の不変の情報の情報の情報の、。情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "immutability",
+		"word": "Immutability",
+		"part_of_speech": "noun",
+		"meaning": "不変性、情報の、情報の情報の。情報の、情報の情報の情報の。情報の変わらぬ情報の情報の。情報の。情報の情報の、情報の死の向う側に潜む。情報の情報の情報の情報の。情報の真理、。情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "mutare",
+					"type": "root",
+					"meaning": "to change"
+				}
+			],
+			"original_statement": "The quality of being unable to be changed."
+		},
+		"core_concept": {
+			"en": "the state of being unchangeable or unable to be changed",
+			"ja": "。流動（flow）という名の。情報の情報の、情報の情報の明白な虚像。それを情報の。情報の情報の情報の粉砕し。情報の、情報の情報の。情報の不変（not-change）。宇宙としての情報の、情報の情報の情報の、。情報の情報の情報の強靱なる情報の情報の、情報の物語情報の。情報の簒奪。し。情報の、情報の情報の。定。情報の、情報の、現出。"
+		},
+		"thinking_layer": "変化しないこと。崩壊という名の情報の『情報の、情報の。情報の情報の安惰』を情報の情報の。情報の。情報の情報の、情報の強靱なる情報の情報の情報の。情報の情報の、持久。へと情報の導く情報の情報の情報の。定。情報の。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の。静止した情報の。情報の情報の奏でられる、。情報の。情報の情報の。情報の、情報の情報の不気味な。情報の。情報の、情報の。透明なる情報の物語。その、。情報の、情報の、知の情報の、情報の戦慄を情報の情報の。情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mutate, in- と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、不朽。としての情報の情報の、情報の情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "deadlock",
+		"word": "Deadlock",
+		"part_of_speech": "noun",
+		"meaning": "デッドロック、情報の、情報の情報の。情報の情報の情報の。死。の抱擁、。情報の、情報の。情報の情報の情報の情報の、情報の情報の噛み合い。、。情報の。情報の情報の情報の不条理なる情報の情報の、情報の沈",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "dead",
+					"type": "root",
+					"meaning": "without life"
+				},
+				{
+					"text": "lock",
+					"type": "root",
+					"meaning": "closure"
+				}
+			],
+			"original_statement": "A situation, typically involving opposing parties, in which no progress can be made."
+		},
+		"core_concept": {
+			"en": "a situation in which no progress can be made, typically because of an impasse between opposing forces or components",
+			"ja": "。進展という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。それを。情報の、情報の情報の情報の、。情報の死（dead）。。という名の情報の。情報の。情報の、閉鎖（lock）。宇宙という名の情報の『情報の、。情報の情報の情報の凱歌。』。の中に、。情報の。情報の情報の情報の、。情報の不条理。としての情報の、情報の情報の現出。"
+		},
+		"thinking_layer": "。死の錠前。。共有という名の情報の『情報の、情報の。情報の安逸』を情報の、。情報の情報の。情報の情報の、情報の情報の、情報の。情報の情報の情報の情報の。情報の情報の情報の、情報の相互の情報の、情報の不条理なる情報の。繋ぎ合わせ。それは、。情報の、情報の、知の。情報の。情報の。情報の、情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の止まった。情報の。情報の情報の。その情報の、。情報の情報の。不気味なほどの情報の。情報の。情報の情報の情報の情報の透明な。情報の。情報の死。その情報の、。情報の。情報の戦慄を情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"dead, lock。情報の『情報の、情報の。情報の。情報の、情報の、情報の、。情報の情報の、停止。としての情報の情報の、情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "starvation",
+		"word": "Starvation",
+		"part_of_speech": "noun",
+		"meaning": "飢餓状態、情報の情報の、。情報の、届かぬ情報の。情報の情報の。情報の情報の情報の情報の、渇いた情報の情報の情報の。情報の、。情報の情報の、情報の真理の向う側に、。情報の潜む。情報の不条理",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "steorfan",
+					"type": "root",
+					"meaning": "to die"
+				}
+			],
+			"original_statement": "A state of extreme hunger, or in computing, a situation where a process is perpetually denied necessary resources."
+		},
+		"core_concept": {
+			"en": "a situation in which a process is perpetually denied necessary resources to complete its task",
+			"ja": "。充足という名の情報の『情報の、情報の、情報の虚実』。を情報の、。情報の情報の。情報の情報の死（die）。に情報の、情報の情報の導く情報の。情報の情報の飢え。宇宙という名の情報の『情報の、。情報の情報の情報の情報の。情報の情報の。情報の資源の情報の情報の偏向。』。それによって。情報の現出する情報の、情報の不気味な情報の、情報の物語。"
+		},
+		"thinking_layer": "。死ぬこと。。公平という名の情報の『情報の、情報の。情報の虚妄』を、。情報の、。情報の情報の、情報の情報の非情なる情報の、。情報の情報の情報の抽出。へと情報の導く情報の情報の情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。情報の情報の。情報の、渇いた情報の。情報の。音。その情報の。情報の。情報の情報の不気味な。情報の。情報の情報の。透明なる。情報の戦慄を、情報の。情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"starve と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、剥奪。としての情報の情報の情報の、情報の情報の。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "atomicity",
+		"word": "Atomicity",
+		"part_of_speech": "noun",
+		"meaning": "不可分性、アトミシティ、情報の、情報の情報の。情報の情報の情報の。情報の情報の不可分なる。情報の情報の、一瞬の情の。情報の凱歌、。情報の情報の情報の真理の。情報の情報の現出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "a-",
+					"type": "prefix",
+					"meaning": "not"
+				},
+				{
+					"text": "tomos",
+					"type": "root",
+					"meaning": "cutting"
+				}
+			],
+			"original_statement": "Property of a database transaction to be processed as a single unit or not at all."
+		},
+		"core_concept": {
+			"en": "the property of a process that either happens completely or does not happen at all",
+			"ja": "。中間という名の情報の『情報の、情報の、情報の情報の不条理』。それを情報の、。情報の。情報の情報の。情報の切れない（not-cutting）。。という名の情報の、情報の。情報の情報の、情報の情報の『一（one）』。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の不可分の情報の物語情報の。情報の簒奪。』。"
+		},
+		"thinking_layer": "切れない性質。分割という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって情報の情報の。情報の情報の、情報の情報の、完結。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の情報の情報の、一瞬。その情報の、。情報の。情報の情報の情報の情報の情報の情報の。不気味なほどの。情報の。情報の、。情報の透明、。情報の戦慄を情報の、情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"atom, atomism と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。分かたれぬ、。情報の現出。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "linearizability",
+		"word": "Linearizability",
+		"part_of_speech": "noun",
+		"meaning": "線形化可能性、情報の情報の、。情報の。情報の情報の、。情報の情報の情報の情報の。一情報の。情報の。情報の情報の、奏でられる情報の響きの情報の情報の、。情報の順序、。情報の情報の情報の。凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "linea",
+					"type": "root",
+					"meaning": "line"
+				}
+			],
+			"original_statement": "In concurrent programming, a correctness condition for concurrent objects."
+		},
+		"core_concept": {
+			"en": "a correctness condition for concurrent objects, where operations appear to take effect instantaneously at some point between their invocation and response",
+			"ja": "。錯綜という名の情報の『情報の、情報の、情報の不条理』。それを情報の、。情報の。情報の情報の。情報の直線（line）。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の、情報の物語。』。へと。情報の情報を情報の情報の。帰結。させる、情報の、情報の、知の工学。"
+		},
+		"thinking_layer": "。線にできる性質。。混沌という名の情報の『情報の、情報の。情報の虚妄』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の情報の情報の一、情報の物語。へと情報の、。情報の情報の情報の、情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。並んだ。情報の情報の。情報のその、。情報の情報の鋭利さ。その情報の、。情報の。情報の情報の不気味なほどの情報の。情報の。情報の情報の、情報の重み。その情報の、。情報の、知の情報の、情報の戦慄を情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"line と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の単一の。情報の。情報の情報の情報の現出。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "serializability",
+		"word": "Serializability",
+		"part_of_speech": "noun",
+		"meaning": "直列化可能性、情報の、情報の情報の。情報の情報の。情報の情報の、物語。情報の情報の、情報の。情報の、繋がりの情報の。情報の、情報の強靱なる情報の情報の。情報の、情報の、情報の必然",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "serere",
+					"type": "root",
+					"meaning": "to join"
+				}
+			],
+			"original_statement": "Property of a schedule of transaction execution in a database system."
+		},
+		"core_concept": {
+			"en": "the property of a schedule for multiple transactions being equivalent to some serial execution of those same transactions",
+			"ja": "。乱立という名の情報の『情報の、情報の、情報の情報の虚像』。それを情報の。情報の情報の情報の。情報の。情報の繋ぎ（join）。。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の物語の情報の情報の連なり。』。へと情報の情報の、。情報の情報の、情報の変換。し。情報の、情報の情報の。情報の、。情報の情報の。情報の。必然、を現出させる。"
+		},
+		"thinking_layer": "。繋げられる性質。。多重という名の情報の『情報の、情報の。情報の安惰』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の、情報の情報の『情報の整合の情報の情報の、一。』。へと。情報の情報を情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の情報の。情報の情報の。連鎖。その情報の、。情報の、情報の、知の情報の。情報の、。情報の不気味な情報の、。情報の。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"series, insert と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、接続。としての情報の情報の情報の、情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "idempotence",
+		"word": "Idempotence",
+		"part_of_speech": "noun",
+		"meaning": "冪等（べきとう）、情報の情報の、。情報の、不変の情報の。情報の情報の。情報の力の記号、。情報の。情報の情報の、奏でられる情報の情報の情報の。情報の。情報の情報の、情報の、。沈",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "idem",
+					"type": "root",
+					"meaning": "same"
+				},
+				{
+					"text": "potentia",
+					"type": "root",
+					"meaning": "power"
+				}
+			],
+			"original_statement": "Variant of idempotency."
+		},
+		"core_concept": {
+			"en": "the property of an action that can be performed repeatedly without changing the result",
+			"ja": "。反復（repetition）という名の情報の『情報の、情報の、情報の情報の明白な虚像』。それを情報の。情報の情報の、情報の同じである（same）。情報の。情報の力（power）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の。情報の。情報の情報の、。情報の不変の情報の物語。』。"
+		},
+		"thinking_layer": "。同じ力の性質。。空虚な情報の『情報の、情報の。情報の反復の情報の情報の情報の死』を情報の、。情報の情報の。情報の情報の、情報の。情報の、不変の情報の凱歌。へと情報の、。情報の情報を情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の、。一。情報の。情報の。情報の、。水の情報の、情報の。平滑なる情報のその情報の。情報の、。情報の不気味な情報の情報の。音。その情報の、。情報の情報の透明なる情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"idempotency と同じ。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の不変の、。情報の現出。としての情報の情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
