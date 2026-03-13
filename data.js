@@ -320173,5 +320173,313 @@ const WORDS = [
    ]
   },
   "part_of_speech": "noun"
+ },
+ {
+  "id": "diffeomorphism",
+  "word": "Diffeomorphism",
+  "meaning": "微分同相写像、滑らかな同相写像。",
+  "era": "Modern Math",
+  "etymology": {
+   "components": [
+    "differentia (difference)",
+    "morphe (form)"
+   ],
+   "original_statement": "Coined from differential + isomorphism/homeomorphism."
+  },
+  "concept": "Smoothly changing form (空間を、千切らず、折らず、滑らかに歪めることで、別の形へと同質化させること)",
+  "thinking": "ある形を別の形に変形させる時、そこに一切の「破綻（微分不可能性）」を許さない。それは空間の連続性と滑らかさに対する、最高度の敬意です。宇宙の本質的な構造は、この微分同相な写像の下で、その姿を変えつつも本質を保っています。",
+  "aftertaste": "ゴムのように伸び縮みする空間が、永遠の滑らかさを保つ美学。",
+  "part_of_speech": "noun",
+  "deep_dive": {
+   "roots": [
+    {
+     "term": "morph",
+     "meaning": "form"
+    }
+   ],
+   "points": [
+    "トポロジーと微分幾何学の架け橋。"
+   ]
+  }
+ },
+ {
+  "id": "hessian",
+  "word": "Hessian",
+  "meaning": "ヘッセ行列、二階偏導関数を行列としたもの。",
+  "era": "Named after Ludwig Otto Hesse",
+  "etymology": {
+   "components": [
+    "Hesse (proper name)"
+   ],
+   "original_statement": "Named after the German mathematician Ludwig Otto Hesse."
+  },
+  "concept": "The curvature of choice (多次元の地形において、その地点がいかに「曲がっているか」を示す、空間の表情計)",
+  "thinking": "勾配（Gradient）が「方向」を示すなら、ヘッセ行列は「曲がり具合」を示します。極小か、極大か、あるいは鞍点か。一人の数学者の名前が、関数の凹凸を決定づける永遠の尺度となりました。",
+  "aftertaste": "関数の背骨に触れ、その険しさを計測する感覚。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "heisenberg",
+  "word": "Heisenberg",
+  "meaning": "ハイゼンベルク（の不確定性原理）。",
+  "era": "Named after Werner Heisenberg",
+  "etymology": {
+   "components": [
+    "Heisenberg (proper name)"
+   ],
+   "original_statement": "Named after the German physicist Werner Heisenberg."
+  },
+  "concept": "The boundary of knowledge (知ろうとすればするほど、別の何かが逃げていく。この宇宙が課した「絶対的な沈黙」の場所)",
+  "thinking": "位置を定めれば速度がボヤけ、時間を計ればエネルギーが揺らぐ。宇宙は、私たちがすべてを把握することを最後まで許しません。その不確定性こそが、私たちの知性が謙虚であるべき理由を示しています。",
+  "aftertaste": "真理に指が触れようとした瞬間、霧散していく儚い現実。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "symplectic",
+  "word": "Symplectic",
+  "meaning": "シンプレクティック、絡み合った、複素の。",
+  "era": "Greek sym- + plektikos",
+  "etymology": {
+   "components": [
+    "syn- (together)",
+    "plekein (to weave / plait)"
+   ],
+   "original_statement": "Coined by Hermann Weyl in 1939 as a Greek equivalent for Latin complexus."
+  },
+  "concept": "Woven together (位置と運動量が、分かちがたく織り合わされた「力学の織物」)",
+  "thinking": "ラテン語の「Complex（複雑）」を、物理学者ヴォイルがギリシャ語風に言い換えたもの。位置と動きの「ペア」が織りなす構造を指します。世界は個別の点ではなく、絡み合った糸の集積であることを教えてくれます。",
+  "aftertaste": "幾重にも重なり、織り合わされた多次元のタペストリー。",
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "holomorphic",
+  "word": "Holomorphic",
+  "meaning": "正則な、複素微分可能な。",
+  "era": "Greek holos + morphos",
+  "etymology": {
+   "components": [
+    "holos (whole / entire)",
+    "morphe (form)"
+   ],
+   "original_statement": "From Greek holos 'whole' + morphe 'form'."
+  },
+  "concept": "The whole form (複素平面という広大な海において、どこまでも滑らかで「全き姿」を保ち続ける完全性)",
+  "thinking": "微かな揺らぎ（微分）さえもが、全体（Whole）の構造に支配されている。正則関数は、その一箇所の情報が全体を決定するという、驚くべき統一性を持っています。それは、「部分は全体を表す」という宇宙のフラクタルな真理の雛形です。",
+  "aftertaste": "一滴の水が、湖全体の深さを知っているような、圧倒的な統一感。",
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "cauchy",
+  "word": "Cauchy",
+  "meaning": "コーシー、(数学)オーギュスタン＝ルイ・コーシー。",
+  "era": "Proper Name",
+  "etymology": {
+   "components": [
+    "Cauchy (proper name)"
+   ],
+   "original_statement": "Named after the French mathematician Augustin-Louis Cauchy."
+  },
+  "concept": "The architect of rigor (曖昧さを許さず、無限の彼方まで「論理の収束」を見届けた厳格なる精神)",
+  "thinking": "数列がどこへ向かうのか、その「収束」の条件を定義した男。彼の名がついた「コーシー列」は、目的地が見えなくても「近づいている」ことさえ分かれば進める、という理性の希望の灯火です。",
+  "aftertaste": "無限の階段を一歩ずつ、確実な足場で登り切る充足感。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "riemannian",
+  "word": "Riemannian",
+  "meaning": "リーマンの、リーマン幾何学的な。",
+  "era": "Named after Bernhard Riemann",
+  "etymology": {
+   "components": [
+    "Riemann (proper name)"
+   ],
+   "original_statement": "Named after the German mathematician Bernhard Riemann."
+  },
+  "concept": "The curved world (直線という幻想を捨て、ゆがみ、波打つ「空間の真実」をそのまま受け入れる知性)",
+  "thinking": "アインシュタインの相対性理論の舞台となった幾何学。空間そのものが重力で曲がることを、彼は数学という言葉で事前に予言していました。平坦な見方をやめ、曲率という宇宙の個性を愛でる言葉です。",
+  "aftertaste": "たわんだ空間を滑り落ちる、美しい光の軌跡。",
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "minkowski",
+  "word": "Minkowski",
+  "meaning": "ミンコフスキー、(物理)時空の幾何学。",
+  "era": "Named after Hermann Minkowski",
+  "etymology": {
+   "components": [
+    "Minkowski (proper name)"
+   ],
+   "original_statement": "Named after the mathematician Hermann Minkowski."
+  },
+  "concept": "Unified space-time (時間と空間を切り離さず、一つの「4次元の織物」として捉え直す革命的な視座)",
+  "thinking": "「時」「空」は別物ではなく、一つの時空連続体。彼はアインシュタインの理論に「幾何学的な形」を与えました。私たちは三次元の住人ではなく、四次元の壮大な織物の中に埋め込まれた存在なのです。",
+  "aftertaste": "時間が空間の一方向に溶け込んでいく、広大な静寂。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "dirichlet",
+  "word": "Dirichlet",
+  "meaning": "ディリクレ、(数学)ディリクレ問題。",
+  "era": "Named after P.G.L. Dirichlet",
+  "etymology": {
+   "components": [
+    "Dirichlet (proper name)"
+   ],
+   "original_statement": "Named after the mathematician Peter Gustav Lejeune Dirichlet."
+  },
+  "concept": "Boundary commitment (境界で何が起きているかを決めれば、その内部の運命もまた決まる、という決定論的な調和)",
+  "thinking": "部屋の壁の温度を決めれば、部屋全体の温度分布が決まる。境界（エッジ）における約束が、中心（コア）を規定する。それは支配と服従、あるいは調和による、空間の厳格な記述です。",
+  "aftertaste": "冷たい壁に指を触れ、その部屋のすべてを知る予感。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "poincare",
+  "word": "Poincaré",
+  "meaning": "ポアンカレ、(数学)ポアンカレ予想。",
+  "era": "Named after Henri Poincaré",
+  "etymology": {
+   "components": [
+    "Poincaré (proper name)"
+   ],
+   "original_statement": "Named after the mathematician Henri Poincaré."
+  },
+  "concept": "Cyclic return (長い旅の果てに、宇宙がいつか元の場所へ戻る可能性（再帰定理）を見つめた、壮大な知性)",
+  "thinking": "「カオス」の発見。初期値の微かな差が未来を激変させることを、彼は直感していました。トポロジーの父であり、宇宙の形という究極の謎に挑んだ、最後の万能天才です。",
+  "aftertaste": "何億年の後、また今の自分と同じ言葉を綴っているという目眩。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "fibonacci",
+  "word": "Fibonacci",
+  "meaning": "フィボナッチ、(数学)フィボナッチ数列。",
+  "era": "Nickname of Leonardo of Pisa",
+  "etymology": {
+   "components": [
+    "filius (son)",
+    "Bonacci (proper name)"
+   ],
+   "original_statement": "Contraction of 'filius Bonacci' (son of Bonacci)."
+  },
+  "concept": "Organic growth (1, 1, 2, 3, 5... と、過去を積み重ねて未来を産み出す、生命の成長の黄金律)",
+  "thinking": "ひまわりの種、貝殻の渦巻き。自然界のいたる所にこの数字が現れます。それは宇宙が「最も効率よく、最も美しく成長するための暗号」。過去の二歩を統合して、次の一歩を踏み出す、成長の哲学です。",
+  "aftertaste": "黄金の螺旋が、自分の内側から外へと広がっていく多幸感。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "isometry",
+  "word": "Isometry",
+  "meaning": "等長写像、アイソメトリー。",
+  "era": "Greek iso + metron",
+  "etymology": {
+   "components": [
+    "isos (equal)",
+    "metron (measure)"
+   ],
+   "original_statement": "From Greek isos 'equal' + metron 'measure'."
+  },
+  "concept": "Preserving distance (場所を移動しても、回っても、二つの点の「距離」という思い出を決して変えない、忠実な写像)",
+  "thinking": "平行移動や回転。それは、私たちの「サイズ」というアイデンティティを保ったまま世界を旅するための、幾何学的な約束です。何が変わっても、お互いの距離感だけは守り抜く。沈黙の信頼関係のようです。",
+  "aftertaste": "移り変わる景色の中で、手に持った定規の長さだけは変わらない、小さな不変。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "cylindrical",
+  "word": "Cylindrical",
+  "meaning": "円柱状の。",
+  "era": "Greek kylindein",
+  "etymology": {
+   "components": [
+    "kylindein (to roll)"
+   ],
+   "original_statement": "From Greek kylindros 'roller', from kylindein 'to roll'."
+  },
+  "concept": "The rolling order (転がるための「回転」と、どこまでも続く「直進」。二つの自由度を統合した安定した柱)",
+  "thinking": "無限の直線を、円の中に閉じ込めて巻き上げたもの。それは三次元空間を効率よく、しかも美しく支配するためのフォルムです。回転対称性の安心感と、高みを目指す垂直性の融合。それが円柱です。",
+  "aftertaste": "滑らかな曲線を手の中に転がす時の、充実した充足。",
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "cartesian",
+  "word": "Cartesian",
+  "meaning": "デカルトの、直交座標系の。",
+  "era": "Named after René Descartes",
+  "etymology": {
+   "components": [
+    "Cartesius (Latin form of Descartes)"
+   ],
+   "original_statement": "From Cartesius, the Latinized form of the name of French philosopher René Descartes."
+  },
+  "concept": "Ordered enlightenment (混沌とした空間に「垂直な目盛り」を打ち込み、理性の光で世界を数値化する試み)",
+  "thinking": "「我思う、ゆえに我あり」。彼は自分の存在だけでなく、空間そのものを「思考」で定義し直しました。この座標系が、私たちの理性が世界を操作するための強力な「OS」となりました。",
+  "aftertaste": "定規とコンパスを手に、真っ新なキャンバスに秩序を描き込む快感。",
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "euclidean",
+  "word": "Euclidean",
+  "meaning": "ユークリッドの、(数学)ユークリッド幾何学の。",
+  "era": "Named after Euclid (Eukleides)",
+  "etymology": {
+   "components": [
+    "Eukleides (proper name)"
+   ],
+   "original_statement": "Named after the Greek mathematician Euclid."
+  },
+  "concept": "The classic harmony (平坦な大地、平行な線。数千年にわたって私たちの直感を支配した、最も「素直な」幾何学)",
+  "thinking": "「共通概念（公理）」からすべてを導き出す。教育の、そして科学の原点。曲がらない意志としての直線と、どこまでも交わらない平行線。それは、私たちが理性的であるための「故郷」と言える場所です。",
+  "aftertaste": "平行線が、永遠に同じ距離を保ちながら並走する清々しさ。",
+  "part_of_speech": "adjective"
+ },
+ {
+  "id": "likelihood",
+  "word": "Likelihood",
+  "meaning": "尤度（ゆうど）、確からしさ。",
+  "era": "Old English gelic + -hood",
+  "etymology": {
+   "components": [
+    "like (similar / same)",
+    "-hood (state / condition)"
+   ],
+   "original_statement": "From likely + -hood."
+  },
+  "concept": "The state of being plausible (目の前の現実が、ある仮説から「どれほどもっともらしく」産み落とされたかの、逆説的な指標)",
+  "thinking": "確率が「未来」を問うのに対し、尤度は「過去（原因）」を問います。この結果が起きたのは、どの神様（パラメータ）の仕業なのか。尤度最大化とは、最も「自然な説明」を探し出す理性の旅です。",
+  "aftertaste": "偶然だと思っていたことが、「そうなるべくしてなった」と確信する瞬間の震え。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "logarithm",
+  "word": "Logarithm",
+  "meaning": "対数。",
+  "era": "Greek logos + arithmos",
+  "etymology": {
+   "components": [
+    "logos (proportion / ratio / word)",
+    "arithmos (number)"
+   ],
+   "original_statement": "Coined by John Napier from Greek logos 'proportion' + arithmos 'number'."
+  },
+  "concept": "The logic of numbers (天文学的な巨大な数字を、足し算という「人間の歩幅」にまで引き下ろすための比率の論理)",
+  "thinking": "積を和に変え、星の距離を書斎で計算可能にする魔法。対数は、宇宙の巨大さと人間の知性を橋渡しする「縮尺」の芸術です。耳の聞こえ方から星の輝きまで、私たちの感覚の多くは、この対数というレンズを通しています。",
+  "aftertaste": "広大な宇宙が、対数という魔法で一冊のノートに収まっていく心地よさ。",
+  "part_of_speech": "noun"
+ },
+ {
+  "id": "asymmetry",
+  "word": "Asymmetry",
+  "meaning": "非対称性。",
+  "era": "Greek a- + symmetria",
+  "etymology": {
+   "components": [
+    "a- (not)",
+    "syn- (together)",
+    "metron (measure)"
+   ],
+   "original_statement": "From Greek asymmetria, from a- 'not' + symmetria."
+  },
+  "concept": "The flaw that creates life (完璧な均衡をわずかに崩した「ズレ」。その欠落こそが、停滞を打破し、時間と変化を産み出す「生命の種」)",
+  "thinking": "宇宙の始まりにおいて、物質と反物質の数がほんの少し違ったから、この世界は存在します。均衡の崩壊こそが、エネルギーの流れを作り、ドラマを産む。美しさは、完璧な左右対称ではなく、その微かな「揺らぎ」に宿ります。",
+  "aftertaste": "均整の取れた美の隣に、ふと見つけた微かな歪への、愛おしさの混じった予感。",
+  "part_of_speech": "noun"
  }
 ];
