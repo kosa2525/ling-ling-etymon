@@ -321339,5 +321339,45 @@ const WORDS = [
    "original_statement": "Plural of Latin arcanum 'secret / mystery', from arcanus 'secret / hidden', from arca 'chest'."
   },
   "concept": "The secret box (「。。、。箱（。Arca）。、。、」。の中に。、。、。、厳重。に、。、。、閉。じ。込め。られた。、。、。、。「。真理。、」。、。、。それ。を、。、。、。、。知。る。、。ことは。、。、。禁。忌。であり、。、。、。。、。。同時に。、。、。、。、。至高の。、。、。、。快。楽。、。なのです。、。)"
+ },
+ {
+  "id": "archives",
+  "word": "Archives",
+  "meaning": "アーカイブ、公文書、記憶の保管庫。",
+  "era": "Greek arkheion",
+  "etymology": {
+   "components": [
+    "arkhe (beginning / origin / government)"
+   ],
+   "original_statement": "From Greek arkheion 'public office / town hall / records stored there', from arkhe 'government'."
+  },
+  "concept": "The place of origin (「。。、過去。。、」。の、。、。。、。出来事。。たちを、。、。、決して。、。消。し。去らぬ。、ため。、。に、。、。、。一。、。つの。、。、。、箱。の中に。、。、。、。厳重。に、。、。、。、封。じ。、込め。。た、。、。、。、理。知。の、。、。、。、記憶。。、。、。の。、。墓。であり、。、。生。ま。、。、。れた。、。場所。、。でもある。、。、)"
+ },
+ {
+  "id": "armament",
+  "word": "Armament",
+  "meaning": "軍備、武装、(理知の)武装。",
+  "era": "Latin armare",
+  "etymology": {
+   "components": [
+    "arma (arms / weapons)"
+   ],
+   "original_statement": "From Latin armamentum, from armare 'to arm'."
+  },
+  "concept": "Tools for protection (「。。、。世界。、。、」。という。、。、。、。荒（。あ。）。、野。に。、。、。、一。、。、。、人で。、。、。、。。、。立ち。。、。向。かう。。ための、。、。、。、。理知。の、。、。、。「。。、。、鉄。の、。、。衣、。、」。、。、。それ。が、。、。、いつ。しか。、。、。自分。を、。、。、。、。縛（。しば）。、。る。。、。と。、。、知。って。、い。ながら。、。)"
+ },
+ {
+  "id": "assonance",
+  "word": "Assonance",
+  "meaning": "類韻、半韻、母音の響き。",
+  "era": "Latin ad- + sonare",
+  "etymology": {
+   "components": [
+    "ad- (to)",
+    "sonare (to sound)"
+   ],
+   "original_statement": "From Latin assonare 'to answer with a similar sound'."
+  },
+  "concept": "Echoing to (言葉。の、。、奥に、。、。、ひっそり。と、。、。、潜。んだ。、。、。一。、。つの。、。、。母音。、。が、。、。、。遠く。の、。。、言葉。と、。、。、呼。び。。、。応（こた）。、。え。。、。合う。、。、。、。、。一。、。瞬、。、の、。透。、明。、。な。、。、。。、。共。、。鳴。、)"
  }
 ];
