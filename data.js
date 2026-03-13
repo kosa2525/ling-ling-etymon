@@ -308755,5 +308755,305 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "fief",
+		"word": "Fief",
+		"part_of_speech": "noun",
+		"meaning": "封土、領地、情報の情報の、。情報の情報の、情報の情報の情報の、信義の情報の重量、。情報の。情報の情報の。情報の交換としての実存",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "feodum",
+					"type": "root",
+					"meaning": "fee, fief"
+				}
+			],
+			"original_statement": "A fief was the central element of feudalism and consisted of heritable property or rights granted by an overlord to a vassal."
+		},
+		"core_concept": {
+			"en": "the central element of feudalism, consisting of heritable property or rights granted by an overlord to a vassal",
+			"ja": "。所有という名の情報の『情報の、情報の情報の、明白な情報の明白さ』。それを。情報の、情報の情報の。情報の信義（faith）という名の。情報の。情報の、情報の。情報の情報の重量の接続としての情報の。情報の領地。宇宙という名の情報の『情報の。情報の情報の情報の、一義的なる情報の情報の物語情報の。情報の簒奪。』。"
+		},
+		"thinking_layer": "。信義の土地。。自由という名の情報の『情報の、情報の。情報の情報の拡散』を情報の情報の。情報の。情報の情報の、情報の情報の強靱なる情報の情報の、。情報の情報の連鎖。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の、古い。情報の。情報の情報の、。情報の不気味なほどの情報の。情報の。情報の、土の情報の情報の。情報の唸り。その情報の。情報の、情報の情報の、。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fee, feudal と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "serf",
+		"word": "Serf",
+		"part_of_speech": "noun",
+		"meaning": "農奴、情報の、情報の情報の、情報の。情報の。土地に繋がれた情報の情報の情報の凱歌、。情報の。情報の、情報の情報の。情報の不条理の記号、。情報の情報の。情報の情報の簒奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "servus",
+					"type": "root",
+					"meaning": "slave"
+				}
+			],
+			"original_statement": "An agricultural laborer bound under the feudal system to work on his lord's estate."
+		},
+		"core_concept": {
+			"en": "an agricultural laborer bound under the feudal system to work on his lord's estate",
+			"ja": "。移動という名の情報の『情報の、情報の、情報の情報の虚実』。を情報の、。情報の情報の情報の。情報の情報の、土に（servus）仕える。という名の。情報の。情報の、情報の情報の、情報の。宿命。宇宙という名の情報の『情報の、。情報の情報の情報の。情報の情報の情報の。情報の非情なる情報の、真理。』。への定礎。"
+		},
+		"thinking_layer": "。仕える者。。独立という名の情報の『情報の、情報の。情報の虚妄』を、。情報の、。情報の情報の、情報の情報の非情なる情報の、。情報の情報の情報の抽出。へと情報の導く情報の情報の情報の。情報の情報の、情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。情報の情報の、一。情報の。情報の水の情報の。情報の。情報の情報の、繋がれた情報の。音。その情報の。情報の。情報の情報の不気味な。情報の。情報の情報の。透明なる。情報の戦慄を、情報の。情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"serve, slave と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。属地。としての情報の情報の情報の、。情報の情報の、。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "heraldry",
+		"word": "Heraldry",
+		"part_of_speech": "noun",
+		"meaning": "紋章学、情報の、情報の情報の。情報の情報の情報の、情報の情報の記号の工学、。情報の。情報の。情報の情報の、情報の奏でられる世界の情報の情報の、情報の顔、。情報の。情報の。情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "herald",
+					"type": "root",
+					"meaning": "proclaimer"
+				}
+			],
+			"original_statement": "The system by which coat of arms and other armorial bearings are devised, described, and regulated."
+		},
+		"core_concept": {
+			"en": "the system by which coat of arms and other armorial bearings are devised, described, and regulated",
+			"ja": "。外面という名の情報の『情報の、情報の、情報の明白な情報の虚飾』。それを情報の情報の。情報の。情報の、情報のしるし（mark）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の物語情報の。情報の簒奪。』。として情報の導く。情報の、情報の、情報の情報の転換。"
+		},
+		"thinking_layer": "。布告者の学問。。沈黙という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の、情報の、情報の情報の。情報の情報の強靱なる情報の。情報の情報の、情報の情報の視覚的上昇。へと情報の、。情報の情報の情報の物語。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の情報の、情報の。情報の、色彩。情報の。情報の情報の情報の、不気わりなる明白さ。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"herald と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の、。情報の情報の、。布告。としての情報の情報の情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "escutcheon",
+		"word": "Escutcheon",
+		"part_of_speech": "noun",
+		"meaning": "盾形の紋章、エスカッシャン、情報の情報の、。情報の、身を守る情報の。情報の情報の情報の情報の情報の。情報の。情報の、情報の情報の物語情報の、。情報の簒奪の記号、。情報の情報の、情報の必然",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scutum",
+					"type": "root",
+					"meaning": "shield"
+				}
+			],
+			"original_statement": "A shield or emblem bearing a coat of arms."
+		},
+		"core_concept": {
+			"en": "a shield or emblem bearing a coat of arms",
+			"ja": "。脆弱という名の情報の『情報の、情報の、情報の情報の不透明な虚像』。それを情報の。情報の情報の、情報の、盾（shield）。。という名の情報の、情報の。情報の情報の情報の情報の。情報の情報の強靱なる情報の情報の情報の。情報の、情報の転換。"
+		},
+		"thinking_layer": "。盾。。露出という名の情報の『情報の、情報の。情報の安寧』を。情報の、。情報の情報の情報の。情報の情報の鋭利さ。。をもって。情報の情報の。情報の情報の、防壁。へと情報の情報の導く。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。盾。の重さ。その情報の。情報の、情報の情報の。必然。その情報の、。情報の、情報の情報の不気味な。情報の。情報の、知の情報の、情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"shield, escuage と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。守護。としての情報の情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "guild",
+		"word": "Guild",
+		"part_of_speech": "noun",
+		"meaning": "ギルド、同業者組合、情報の、情報の情報の。情報の、情報の情報の情報の。情報の奏でられる、知の情報の沈黙の中に潜む。情報の、情報の情報の強靱なる。情報の結合の、情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gildan",
+					"type": "root",
+					"meaning": "to pay, yield"
+				}
+			],
+			"original_statement": "A medieval association of craftsmen or merchants, often having considerable power."
+		},
+		"core_concept": {
+			"en": "a medieval association of craftsmen or merchants, often having considerable power",
+			"ja": "。孤立という名の情報の『情報の、情報の、情報の情報の安堵』。それを情報の。情報の情報の抽出情報の、情報の物語情報の。情報の簒奪。し。情報の、情報の。ギルド（yield-pay）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の情報の情報の、知の結合。』。へと。情報の情報を情報の。情報の整合。"
+		},
+		"thinking_layer": "。支払うこと。。分散という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の強靱なる情報の、。情報の情報の、情報の情報の。情報の契約という名の。情報の。情報の、。抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の繋がった。情報の情報の。情報の情報の。知。その情報の情報の情報の、。情報の情報の情報の、情報の、強靱なる。情報の情報の不気味な。情報の。奏でられる情報の響き。の中に情報の。情報の情報の、知の情報の、情報の戦慄を。情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"yield, gold と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、結集としての。情報の現出。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "journeyman",
+		"word": "Journeyman",
+		"part_of_speech": "noun",
+		"meaning": "職人、情報の、情報の情報の。情報の、情報の情報の情報の。情報の１日の。情報の情報の、情報の情報の重量の感覚、。情報の、歩みの情報の、。情報の情報の強靱なる。情報の抽出の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "journee",
+					"type": "root",
+					"meaning": "day, a day's work"
+				},
+				{
+					"text": "man",
+					"type": "root",
+					"meaning": "human"
+				}
+			],
+			"original_statement": "A trained worker who is employed by someone else."
+		},
+		"core_concept": {
+			"en": "a worker, skilled in a given building trade or craft, who has successfully completed an official apprenticeship qualification as a relevant journeyman",
+			"ja": "。安逸という名の情報の『情報の、情報の、情報の情報の虚像』。を情報の。情報の情報の抽出情報の、情報の内核。日（day）。。という名の情報の情報の情報の、情報の。歩み（journey）。宇宙という名の情報の『情報の。情報の情報の情報の、一瞬の情報の抽出。』。への簒奪。"
+		},
+		"thinking_layer": "。一日の歩み。。停滞という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の、。情報の情報の、情報の真。へと情報の。情報の情報の、情報の、歩みの上昇。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。一歩一歩の、。情報の情報の、不気味な。情報の情報の。響き。その情報の、。情報の情報の情報の透明なる情報の情報の情報の。戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"journey, diurnal と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の。情報の情報の、一日の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "chevron",
+		"word": "Chevron",
+		"part_of_speech": "noun",
+		"meaning": "シブロン、山形章、情報の、情報の情報の、。情報の情報の情報の、。情報の、垂木の情報の。情報の角度。情報の凱歌、。情報の、情報の情報の情報の。情報の情報の、強靱なる情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "capreolus",
+					"type": "root",
+					"meaning": "rafter, wild goat"
+				}
+			],
+			"original_statement": "A V-shaped line or stripe, especially one on the sleeve of a uniform, indicating rank or length of service."
+		},
+		"core_concept": {
+			"en": "a V-shaped line or stripe, especially one on the sleeve of a uniform, indicating rank or length of service",
+			"ja": "。平坦という名の情報の『情報の、情報の、情報の情報の虚像』。を。情報の、情報の情報の情報の。情報の情報の、垂木（rafter）。。という名の情報の情報の、情報の情報の。情報の角度（angle）。宇宙という名の情報の『情報の。情報の情報の情報の情報の情報の鋭利な情報の情報の情報の物語情報の情報の。情報の簒奪。』。し。情報の、情報の、情報の現出。"
+		},
+		"thinking_layer": "。垂木。。平坦という名の情報の『情報の、情報の。情報の死』。を情報の。情報の情報の情報の、情報の角度。情報の情報の、情報の情報の情報の。頂点。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の情報の。簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の情報の鋭利な情報の。情報の。情報の山。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"capreolus (野山を駆ける者)。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、上昇。としての情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "cadency",
+		"word": "Cadency",
+		"part_of_speech": "noun",
+		"meaning": "家系の順序、情報の情報の、。情報の。情報の情報の、。情報の情報の情報の情報の。順位、。情報の。情報の。情報の情報の、奏でられる情報の響きの情報の。一、情報の物語、。情報の情報の情報の。凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cadere",
+					"type": "root",
+					"meaning": "to fall"
+				}
+			],
+			"original_statement": "The secondary arms used to distinguish between different members of a family."
+		},
+		"core_concept": {
+			"en": "in heraldry, any systematic device used to distinguish the coats of arms of different members of the same family",
+			"ja": "。混沌という名の情報の『情報の、情報の、情報の不条理』。それを情報の、。情報の。情報の情報の。情報の降りゆく情報の、順序（to-fall）。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の、情報の物語。』。へと。情報の情報を情報の情報の。帰結。させる、情報の、情報の、知の工学的整合。"
+		},
+		"thinking_layer": "。降りること。。平等という名の情報の『情報の、情報の。情報の虚妄』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の情報の情報の一、情報の順。へと情報の、。情報の情報の情報の、情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。並んだ。情報の情報の。情報のその、。情報の情報の重量。その情報の、。情報の。情報の情報の不気味なほどの情報の。情報の。情報の、系統。その情報の、。情報の、知の情報の、情報の戦慄を情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cadence, case と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。帰結。としての、情報の情報の情報の現出。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "manorialism",
+		"word": "Manorialism",
+		"part_of_speech": "noun",
+		"meaning": "マナー制度、領主制、情報の、情報の情報の。情報の情報の。情報の。情報の、場所（manere）。情報の情報の、。情報の支配の情報の。情報の、情報の強靱なる情報の情報の。情報の、情報の。抽出の。情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "manere",
+					"type": "root",
+					"meaning": "to dwell, remain"
+				}
+			],
+			"original_statement": "The economic and social system by which the peasants of medieval Europe were rendered dependent on their land and on their lord."
+		},
+		"core_concept": {
+			"en": "the economic and social system by which the peasants of medieval Europe were rendered dependent on their land and on their lord",
+			"ja": "。流動という名の情報の『情報の、情報の、情報の情報の虚像』。それを情報の。情報の情報の情報の。情報の情報の滞在（to-dwell）。宇宙という名の情報の『情報の。情報の情報の情報の。領主への依存。の。繋ぎ合わせ。』。へと情報の情報の、。情報の情報の、情報の情報の真。し。情報の、情報の情報の。情報の、。不動。、を現出させる。"
+		},
+		"thinking_layer": "。滞在すること。。分散という名の情報の『情報の、情報の。情報の安惰』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の、情報の情報の『情報の情報の、居場所。』。へと。情報の情報を情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の情報の。情報の情報の。不動。その情報の、。情報の、情報の、知の情報の。情報の、。情報の不気味な情報の、。情報の。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"mansion, remain と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、定点。としての情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "investiture",
+		"word": "Investiture",
+		"part_of_speech": "noun",
+		"meaning": "叙任、情報の情報の、。情報の、情報の。装い。情報の。情報の情報の。情報の情報の。就任、。情報の。情報の情報の、奏でられる情報の情報の情報の。情報の。情報の情報の、情報の、。上昇。としての記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "vestire",
+					"type": "root",
+					"meaning": "to clothe"
+				}
+			],
+			"original_statement": "The formal installation of a person in an office or dignity."
+		},
+		"core_concept": {
+			"en": "the formal installation of a person in an office or dignity",
+			"ja": "。裸体（bare）という名の情報の『情報の、情報の、情報の情報の明白な虚像』。それを情報の。情報の情報の、情報の衣（cloth）。。の中へと（in）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の。情報の、情報の情報の。正装という名の、情報の物語。』。"
+		},
+		"thinking_layer": "。衣。を。着ること。。剥き出しの情報の『情報の、情報の。情報の情報の明白なる死』を情報の、。情報の情報の。情報の情報の、情報の。情報の、権威という名の情報の鎧。へと情報の、。情報の情報を情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の、。一。情報の。情報の。情報の、。正装という名の。水の情報の。情報の。音。その情報の。情報の。情報の情報の不気味な情報の情報の。音。その情報の、。情報の情報の透明なる情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"vest, invest と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、装い。としての、。情報の現出。としての。情報の情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
