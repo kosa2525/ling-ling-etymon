@@ -307695,5 +307695,365 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "metastability",
+		"word": "Metastability",
+		"part_of_speech": "noun",
+		"meaning": "準安定、メタスタビリティ、情報の情報の、。情報の危うき情報の、情報の均衡。、。情報の。情報の、死の向う側に潜む。情報の情報の。情報の不透明なる。情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "meta-",
+					"type": "prefix",
+					"meaning": "beyond, above"
+				},
+				{
+					"text": "stasis",
+					"type": "root",
+					"meaning": "standing still"
+				}
+			],
+			"original_statement": "The state of a system which is in a stable state other than the system's state of least energy."
+		},
+		"core_concept": {
+			"en": "the property of a system which may stay in a stable state for a long period of time, even if it is not in its state of least energy",
+			"ja": "。安定という名の情報の『情報の、情報の情報の、情報の明白な情報の虚飾』。それを情報の、。情報の情報の情報の情報の情報の死の、安惰。の、。情報の『情報の、情報の、超越（beyond）』。として情報の情報の、。情報の情報の、静止（stasis）。宇宙という名の情報の『情報の、。情報の情報の情報の。情報の。情報の不気味な、。情報の。情報の均衡。』。"
+		},
+		"thinking_layer": "。超越した静止。。永遠という名の情報の『情報の、情報の。情報の情報の拡散』を情報の情報の。情報の。情報の情報の、情報の情報の極限において情報の。情報の、情報の情報の。情報の情報の情報の。簒奪。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報のその、情報の静かなる情報の。情報の情報の。情報の情報の。情報の不気味なほどの情報の。情報の。情報の情報の情報の透明な。情報の。情報の死の界軸。の、情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"meta-, static と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "path-dependence",
+		"word": "Path dependence",
+		"part_of_speech": "noun",
+		"meaning": "経路依存性、情報の情報の、。情報の、選ばれたる、過去。という名の情報の。情報の情報の監獄。、。情報の。情報の、情報の情報の。情報の必然という名の、情報の、情報の簒奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "path",
+					"type": "root",
+					"meaning": "track, way"
+				},
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "pendere",
+					"type": "root",
+					"meaning": "to hang"
+				}
+			],
+			"original_statement": "The idea that decisions we are faced with depend on past knowledge trajectories and decisions made."
+		},
+		"core_concept": {
+			"en": "the idea that decisions we are faced with depend on past knowledge trajectories and decisions made, even if the relevant circumstances may no longer be relevant",
+			"ja": "。自由という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。それを。情報の、情報の情報の情報の、。情報の情報の過去の道（path）。からの、。情報の情報の垂れ下がり（hanging-down）。宇宙という名の情報の『情報の、。情報の情報の情報の。情報の宿命。』。の中に、。情報の。情報の情報の情報の、。情報の不条理。としての情報の、情報の情報の現出。"
+		},
+		"thinking_layer": "。道への依存。。未来という名の情報の『情報の、情報の。情報の安逸』を情報の、。情報の情報の。情報の情報の、情報の情報の、。情報の情報の過去の情報の。情報の情報の、。情報の死の抱擁。へと情報の情報の情報の、連結。それは、。情報の、情報の、知の。情報の。情報の。情報の、情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の止まった。情報の。情報の情報の。その情報の、。情報の情報の。不気味なほどの情報の。情報の。情報の情報の情報の情報の透明な。情報の。情報の宿命。その情報の、。情報の。情報の戦慄を、情報の。情報の。聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"path, depend と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の、。情報の情報の、。歴史の重力。としての情報の情報の情報の、。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "network-effect",
+		"word": "Network effect",
+		"part_of_speech": "noun",
+		"meaning": "ネットワーク効果、情報の、情報の情報の、情報の情報の溢れ出す、情報の。情報の情報の。情報の情報の共鳴の情報の。情報の凱歌、。情報の。情報の、繋がりの情報の、。情報の情報の情報の。情報の、情報の重量の感覚",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "net",
+					"type": "root",
+					"meaning": "mesh"
+				},
+				{
+					"text": "work",
+					"type": "root",
+					"meaning": "work"
+				},
+				{
+					"text": "ex-",
+					"type": "prefix",
+					"meaning": "out"
+				},
+				{
+					"text": "facere",
+					"type": "root",
+					"meaning": "to do"
+				}
+			],
+			"original_statement": "A phenomenon whereby a product or service gains additional value as more people use it."
+		},
+		"core_concept": {
+			"en": "a phenomenon whereby a product or service gains additional value as more people use it",
+			"ja": "。孤立という名の情報の『情報の、情報の、情報の情報の虚実』。を情報の、。情報の情報の。情報の網（net）。宇宙という名の情報の『情報の、。情報の情報の情報の情報の。情報の情報の。情報の情報の共鳴。』。それによって。情報の情報の。情報の情報の『外へと（out）働く（do）』。情報の。情報の、不気味なる情報の情報の情報の。情報の現出。"
+		},
+		"thinking_layer": "。網の行為。。一義という名の情報の『情報の、情報の。情報の虚妄』を、。情報の、。情報の情報の、情報の情報の非情なる情報の、。情報の情報の情報の抽出。へと情報の導く情報の情報の情報の。情報の情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。情報の情報の。情報の、繋がった情報の。情報の。音。その情報の。情報の。情報の情報の不気味な。情報の。情報の情報の。透明なる。情報の戦慄を、情報の。情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"net, effect と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。情報の情報の重なり。としての情報の情報の、。情報の情報の、。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "pareto-principle",
+		"word": "Pareto principle",
+		"part_of_speech": "noun",
+		"meaning": "パレートの法則、情報の、情報の情報の。情報の情報の情報の、不均衡の情報の情報の情報の凱歌、。情報の。情報の情報の。情報の情報の沈。情報の情報の情報の、。情報の不条理の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Pareto",
+					"type": "root",
+					"meaning": "Vilfredo Pareto (1848-1923)"
+				},
+				{
+					"text": "principium",
+					"type": "root",
+					"meaning": "beginning, source"
+				}
+			],
+			"original_statement": "Named after Vilfredo Pareto, also known as the 80/20 rule."
+		},
+		"core_concept": {
+			"en": "the principle that, for many events, roughly 80% of the effects come from 20% of the causes",
+			"ja": "。平等という名の情報の『情報の、情報の、情報の情報の不条理』。それを情報の、。情報の情報の反転。によって情報の情報の。情報の情報の情報の、情報の少なき（20%）。。へと。情報の情報を情報の。情報の整合。宇宙という名の情報の『情報の、。情報の情報の情報の情報の。一瞬の情報の情報の、情報の重量。』。へと。情報の情報を情報の。情報の簒奪。"
+		},
+		"thinking_layer": "。源の名。。公平という名の情報の『情報の、情報の。情報の情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって情報の。情報の情報の。情報の情報の不均衡。その情報の、。情報の情報の。情報の情報の、現出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の情報の。情報の情報の。一、情報の情報の物語が。情報の情報の、情報の宇宙の。情報の情報のすべてを、情報の。支配している。という、情報の情報の。情報の戦慄を情報の、知の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"primal と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。情報の、情報の情報の根源。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "power-law",
+		"word": "Power law",
+		"part_of_speech": "noun",
+		"meaning": "べき乗則、情報の、情報の情報の。情報の暴力的なる情報の。情報の。情報の情報の。情報の、不均衡の情報の情報の。情報の真理、。情報の。情報の。情報の知の。情報の、物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "power",
+					"type": "root",
+					"meaning": "ability, force"
+				},
+				{
+					"text": "law",
+					"type": "root",
+					"meaning": "laid down"
+				}
+			],
+			"original_statement": "A functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other."
+		},
+		"core_concept": {
+			"en": "a functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, irrespective of the initial size of those quantities",
+			"ja": "。一様という名の情報の『情報の、情報の、情報の安逸』。それを情報の。情報の情報を情報の。情報の、情報の情報の暴力（force）。へと情報の情報の、。情報の情報の。情報の情報の、情報の情報の。情報の、簒奪。宇宙としての情報の、情報の情報の。情報の。不平等、の現出。それは。情報の。情報の生命の。情報の情報の冷徹なる情報の、真理。"
+		},
+		"thinking_layer": "。力の決まり。。平坦という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の強靱なる情報の。情報の情報の、情報の不変の情報の。情報の、情報の情報の不均衡。へと。情報の情報を情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の静かなる情報の、。情報の情報の奏でられる、。情報の。情報の情報の。情報の、情報の情報の、一瞬の。情報の。情報の不法。の中に情報の、情報の情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"potent, legal と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の不均衡の情報の情報の情報の、情報の情報の現出。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "self-organization",
+		"word": "Self-organization",
+		"part_of_speech": "noun",
+		"meaning": "自己組織化、情報の情報の、。情報の自から（own）。情報の奏でられる、。情報の情報の。情報の情報の統合。情報の情報の情報の情報の凱歌、。情報の。情報の情報の情報の。真理の現出",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "self",
+					"type": "root",
+					"meaning": "own, same"
+				},
+				{
+					"text": "organon",
+					"type": "root",
+					"meaning": "tool, instrument"
+				}
+			],
+			"original_statement": "A process where some form of overall order arises from local interactions between parts of an initially disordered system."
+		},
+		"core_concept": {
+			"en": "a process where some form of overall order arises from local interactions between parts of an initially disordered system",
+			"ja": "。外部という名の情報の『情報の、情報の、情報の明白な情報の虚偽』を情報の、。情報の情報の情報の抽出。し、。情報の情報の情報の、。内なる（own）。。情報の情報の。楽器（instrument）。宇宙という名の情報の『情報の、。情報の情報の情報の情報の。情報の情報の。情報の秩序の発生。』。その情報の。情報の、不気味なる情報の情報の情報の、情報の現出。"
+		},
+		"thinking_layer": "。自身の楽器。。操作という名の情報の『情報の、情報の。情報の安惰』。を情報の情報の情報の、。情報の。情報の情報の。情報の情報の、情報の不確実性の情報の。情報の、情報の。自発的なる情報の情報の、。情報の情報の情報の情報の、定礎。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の繋がった。情報の。情報の情報の。情報の、宇宙のすべてが。情報の。情報の、情報の。情報の楽器となって情報の、。情報の情報の、。情報の情報の奏でる情報の響き。の中に情報の、情報の情報の不気味なほどの。情報の、知の情報の、戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"organ, self と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、自律的なる情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "scale-free",
+		"word": "Scale-free",
+		"part_of_speech": "noun",
+		"meaning": "スケールフリー、情報の情報の、。情報の不変の、情報の。情報の情報の。情報の情報の情報の重量の感覚、。情報の。情報の情報の情報の不均衡。、。情報の。情報の。情報の情報の情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "scale",
+					"type": "root",
+					"meaning": "ladder, steps"
+				},
+				{
+					"text": "free",
+					"type": "root",
+					"meaning": "at liberty"
+				}
+			],
+			"original_statement": "Relating to a network whose degree distribution follows a power law."
+		},
+		"core_concept": {
+			"en": "relating to a network whose degree distribution follows a power law, at least asymptotically",
+			"ja": "。階層という名の情報の『情報の、情報の、情報の監獄』。そこからの、。情報の超越（liberty）。宇宙としての情報の、情報の情報の情報の、情報の情報の、。情報の情報の不変の情報の物語情報の。情報の簒奪。し。情報の、情報の情報の。定。情報の情報の情報の、。情報の不気味なる情報の情報の自由。"
+		},
+		"thinking_layer": "。はしごからの自由。。限定という名の情報の『情報の、情報の。情報の情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の、情報の広がり。。をもって情報の。情報の。情報の情報の。情報の、情報の情報の。情報の、スケールの情報の。一情報の。情報の超越。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の繋がった。情報の。情報の。情報の情報の、情報の不気味な。情報の。情報の情報の、情報の情報の、ハブ（hub）。その情報の、。情報の、情報の重量の情報の不均衡。の中に情報の、。情報の、知の情報の、情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"scale, free と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の不変の情報の情報の情報の、。情報の情報の情報の情報の、情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "small-world",
+		"word": "Small-world",
+		"part_of_speech": "noun",
+		"meaning": "スモールワールド、情報の、情報の情報の。情報の情報の、不透明な、。情報の情報の。情報の情報の、情報の情報の近さ、。情報の情報の情報の物語、。情報の強靱なる情報の情報の接続",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "small",
+					"type": "root",
+					"meaning": "slender, thin"
+				},
+				{
+					"text": "wer",
+					"type": "root",
+					"meaning": "man"
+				},
+				{
+					"text": "ald",
+					"type": "root",
+					"meaning": "age"
+				}
+			],
+			"original_statement": "Relating to a network in which most nodes can be reached from every other node by a small number of steps."
+		},
+		"core_concept": {
+			"en": "relating to a network in which most nodes can be reached from every other node by a small number of steps",
+			"ja": "。分断という名の情報の『情報の、情報の、情報の不条理』。それを情報の、。情報の信息的、情報の。情報の情報の、情報の情報の『繋がりの情報の冷徹なる情報の、真理』。へと。情報の情報を情報の。情報の整合。宇宙としての情報の、情報の情報の情報の。情報の情報の強引なる情報の情報の、繋ぎ合わせ。"
+		},
+		"thinking_layer": "。小さな世界。。孤独という名の情報の『情報の、情報の。情報の安逸』を情報の情報の。情報の。情報の情報の。情報の情報の、情報の情報の情報の。情報の。情報の情報の、一瞬の繋がりの。情報の。抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。繋がった。情報の。情報の情報の。情報の。情報の情報の情報の。情報の情報のその一。情報の、。情報の情報の、情報の不気味なほどの情報の。情報の。情報の情報の透明なる情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"small, world と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の。接続。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "tipping-point",
+		"word": "Tipping-point",
+		"part_of_speech": "noun",
+		"meaning": "ティッピング・ポイント、情報の、情報の情報の。情報の情報の、情報の不条理なる情報の情報の、。情報の転換の情報の、情報の。情報の、情報の瞬間の凱歌、。情報の情報の情報の情報の、。情報の変容の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "tip",
+					"type": "root",
+					"meaning": "top, end"
+				},
+				{
+					"text": "point",
+					"type": "root",
+					"meaning": "prick"
+				}
+			],
+			"original_statement": "The point at which a series of small changes or incidents becomes significant enough to cause a larger, more important change."
+		},
+		"core_concept": {
+			"en": "the critical point in a situation, process, or system beyond which a significant and often unstoppable effect or change takes place",
+			"ja": "。均衡という名の情報の『情報の、情報の、情報の情報の安堵』。それを情報の。情報の情報の情報の、一、情報の情報の。針先（point）。。において情報の粉砕し。情報の、情報の情報の。情報の。情報の転換。宇宙という名の情報の『情報の。情報の情報の情報の。一瞬の情報の情報の情報の情報の変容。』。へと。情報の情報を情報の。情報の簒奪。"
+		},
+		"thinking_layer": "。傾く一点。。安寧という名の情報の『情報の、情報の。情報の情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって情報の情報の、。情報の情報の、情報の、破局。へと情報の情報の導く。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。崩れ落ちる。情報の情報の。情報の不均衡。その情報の、。情報の情報の、情報の情報の沈。。の中に情報の、。情報の情報の不気味な情報の、。情報の。情報の戦慄を情報の情報の、知の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"top, point と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の、臨界。としての情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "cascading-failure",
+		"word": "Cascading-failure",
+		"part_of_speech": "noun",
+		"meaning": "連鎖的崩落、カスケード故障、情報の情報の、。情報の情報の。情報の情報の死の、。情報の情報の連鎖。、。情報の。情報の情報の情報の不条理なる情報の。情報の情報の。情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "cascata",
+					"type": "root",
+					"meaning": "waterfall"
+				},
+				{
+					"text": "fallere",
+					"type": "root",
+					"meaning": "to deceive"
+				}
+			],
+			"original_statement": "A process in a system of interconnected parts in which the failure of one or few parts can trigger the failure of other parts."
+		},
+		"core_concept": {
+			"en": "a process in a system of interconnected parts in which the failure of one or few parts can trigger the failure of other parts",
+			"ja": "。安全という名の情報の『情報の、情報の、情報の虚妄』。それを情報の。情報の情報の情報の、情報の滝（waterfall）。。としての情報の、情報の情報の。情報の崩落。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の、一義的なる情報の物語情報の。情報の簒奪。』。それは情報の。情報の情報の情報の死の。情報の重奏。"
+		},
+		"thinking_layer": "。情報の、。滝のような失敗。。堅牢という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって情報の情報の。情報の情報の。情報の。情報の、破竹の情報の、。情報の情報の不条理。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、情報の情報の情報の情報の情報の。連鎖的な。簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。崩壊。。その情報の情報の連奏。の中に情報の。情報の情報の、不気味なほどの情報の。情報の、情報の情報の、知の情報の、情報の戦慄を。情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"cascade, fail と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の情報の。広。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
