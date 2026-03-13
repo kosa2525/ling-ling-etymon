@@ -321257,5 +321257,87 @@ const WORDS = [
    "original_statement": "From after + glow."
   },
   "concept": "Light after light (太陽。が、。、。沈。み。、。去った。、。後の。、。、。空（ソラ）。に。、。ひっそり。と、。、。残された。。、。、。、まば。ゆ。、い。。、。、。記憶。の。、。、熱。、。、。それは、。、。、。今日。。、。と。、。、明日。を、。、。静かに。、。、繋ぐ。。、ための。、。、。、。、。、。、理知。の、。、。最後。の、。、。、微。、笑。、。、。み。、)"
+ },
+ {
+  "id": "abeyance",
+  "word": "Abeyance",
+  "meaning": "一時的な中止、休止状態、宙吊りの時間。",
+  "era": "French abance",
+  "etymology": {
+   "components": [
+    "a- (to)",
+    "baer (to gape)"
+   ],
+   "original_statement": "From Old French abance 'expectation', from abaer 'gape at'."
+  },
+  "concept": "Gaping in expectation (何。かが。、。始まる。、。のを。、。大（。おお）。、きな。、口。を。、。開。けて。、。待。ち。、つ。づ。ける。、。、。「。。、。宙。吊。り。、。、。、」。の。、。状態。、。、。理。知。が、。、。次。の。、。一。歩。、を、。、踏み。。出す。。ための、。、。、。一。、。瞬の。、。沈。、。黙。、)"
+ },
+ {
+  "id": "acme",
+  "word": "Acme",
+  "meaning": "絶頂、極致、もっとも高い点。",
+  "era": "Greek akme",
+  "etymology": {
+   "components": [
+    "akme (point / edge / highest point)"
+   ],
+   "original_statement": "From Greek akme 'highest point / peak / prime'."
+  },
+  "concept": "The sharpest point (これ。以上。、。、上（。ウエ）。。へ。、。、。行けない。、。、。ほどに、。、。、研。、。ぎ。、。澄。まされた、。、。、。一。、。、。、。点。、。、。、山。の。、。、。頂（。いただき）。。、であり、。、。理知。の。、。、。、。最。、。、。高の。、。、到達。、。、、。点。、。、。)"
+ },
+ {
+  "id": "amanuensis",
+  "word": "Amanuensis",
+  "meaning": "代筆者、書記者、手伝う人。",
+  "era": "Latin a- + manus",
+  "etymology": {
+   "components": [
+    "a- (from)",
+    "manus (hand)"
+   ],
+   "original_statement": "From Latin (servus) a manu 'servant from the hand / secretary'."
+  },
+  "concept": "From the hand (自。、が。、。、何か。を。、。語。る。。、のではありません。、。、。、。誰か。の、。、。熱。き。、。魂の。、。、。震え。。、。、。を。、。、。、一。、字。、一。、句。。、。正確。に、。、。、紙。の上に。、。、。写（うつ）。。し。、、。取る。。、ための。、。、。、誠実。なる。。、。「。。、。、手。、。、。、」。、)"
+ },
+ {
+  "id": "amorphism",
+  "word": "Amorphism",
+  "meaning": "無定形、不定形、形なきこと。",
+  "era": "Greek a- + morphe",
+  "etymology": {
+   "components": [
+    "a- (without)",
+    "morphe (form / shape)"
+   ],
+   "original_statement": "From Greek amorphos 'without form / shapeless'."
+  },
+  "concept": "Without form (「。。、。形（。Morphe）。、。、」。を。、。、持た。、ず、。、。、。流動。、。、。する。、。、。カオス。、。、。その、。、。、。、。捉え。どころ。の。、。ない。、。、。、不。、安。、と。、。、同時に。、。、。全。、的な。、。、。、。自。、。、。由。、。、の、。、。、。気。、。配。、)"
+ },
+ {
+  "id": "aquamarine",
+  "word": "Aquamarine",
+  "meaning": "アクアマリン、海の色をした、藍玉（らんぎょく）。",
+  "era": "Latin aqua + marina",
+  "etymology": {
+   "components": [
+    "aqua (water)",
+    "marina (of the sea)"
+   ],
+   "original_statement": "From Latin aqua marina 'seawater'."
+  },
+  "concept": "Color of the sea (深い。、。、。海。、。の、。、。、。溜。息。、を。、。、。そのまま。。、一。、。つの。、。、。結晶。へと。、。、。封。じ。込め。。、た、。、。、。静かな。、。、。、。、青。い。、。、。、火。、花。、。、。、その、。、。澄。み。。切った。、。、。、。、。透。明。感。、への、。、。あこ。、が。、れ、)"
+ },
+ {
+  "id": "arcana",
+  "word": "Arcana",
+  "meaning": "アルカナ、秘儀、隠された知識。",
+  "era": "Latin arcanus",
+  "etymology": {
+   "components": [
+    "arca (chest / box)"
+   ],
+   "original_statement": "Plural of Latin arcanum 'secret / mystery', from arcanus 'secret / hidden', from arca 'chest'."
+  },
+  "concept": "The secret box (「。。、。箱（。Arca）。、。、」。の中に。、。、。、厳重。に、。、。、閉。じ。込め。られた。、。、。、。「。真理。、」。、。、。それ。を、。、。、。、。知。る。、。ことは。、。、。禁。忌。であり、。、。、。。、。。同時に。、。、。、。、。至高の。、。、。、。快。楽。、。なのです。、。)"
  }
 ];
