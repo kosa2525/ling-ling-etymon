@@ -321134,5 +321134,19 @@ const WORDS = [
    "original_statement": "Portmanteau of stagnation and inflation, coined by Iain Macleod in 1965."
   },
   "concept": "Standing still while swelling (景気。、が、。、。沈。み。、。込。み。、。、。（。Stagnation）。、。、。ながら。、。、。物。価。、だけが。、。、。虚しく。。、。、。、膨（ふく）。。らむ。、。、。（。Inflation）。。、という。、。、。出口。の。、。ない。、。、。、。地。獄。、。、。それは、。、。、。理知。が、。、。、。、。、。秩序。。、。を。、。、。失い。、。、。、溺。れ。。始めた。、。、。、時の。、。、。、断。、。。、末。、魔。、"
+ },
+ {
+  "id": "will-to-power",
+  "word": "Will-to-power",
+  "meaning": "権力への意志、力への意志、生の根源的衝動。",
+  "era": "German Wille zur Macht",
+  "etymology": {
+   "components": [
+    "Wille (will)",
+    "Macht (power)"
+   ],
+   "original_statement": "From Friedrich Nietzsche's 'Wille zur Macht'."
+  },
+  "concept": "Desire for strength (単。なる、。、。支配。。では、。、。ありません。、。、。、。自ら。を、。、。、。、。越。、え。。つ。づ。け、。、。、。より。、。高み。へと、。、。、。自らを、。、。、強。め。。、。、。、。、。。、拡（。ひろ）。。げて。。い。こう。、とする、。、。、生命。。そのもの。、が、。、。、。、放。つ、。、。、最。も。、。、。根。、源。、的な。、。。動。、。、悸。、)"
  }
 ];
