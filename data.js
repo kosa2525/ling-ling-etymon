@@ -321473,5 +321473,18 @@ const WORDS = [
    "original_statement": "From Greek haimatites (lithos) 'blood-like (stone)', from haima 'blood'."
   },
   "concept": "Blood-like stone (「。。、石。、、」。の、。中に。、。、。ひっそり。と、。、。、流れる。、。、。、。地。球。、。の、。、。「。。、。、血。、。、。、」。、。、。削（。けず）。。れば。、。、。、。不。意に、。、。赤。く。、。、。綻（。ほころ）。。、。ぶ。。、その。、。、。無。、骨。、。な。、。、鉄。の。、。輝き。は、。、。、。戦。士。たちの。、。、。、。、。不。屈。、。の、。、。守護。、。、。石。、な。のです。、。)"
+ },
+ {
+  "id": "aether",
+  "word": "Aether",
+  "meaning": "エーテル、輝く大気、光の媒体、第五元素。",
+  "era": "Greek aither",
+  "etymology": {
+   "components": [
+    "aithein (to burn / shine)"
+   ],
+   "original_statement": "From Greek aither 'upper air / sky', from aithein 'to burn / shine'."
+  },
+  "concept": "Shining air (「。。、地上。、。、」。の、。、。淀（よど）。。んだ。。大。、気。、。ではなく。、。、。、神々。が。、。、吸（。す）。。、。う、。、。、まば。ゆ。、い。。、。、。ほどに。、。、。、。、透（。す）。。、。き。、。、通。、。った。。、。、。光。、。そのもの。、。、。としての。、。、。、。、。空（ソラ）。、。、の、。、。、呼。吸。、)"
  }
 ];
