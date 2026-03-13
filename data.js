@@ -321215,5 +321215,33 @@ const WORDS = [
    "original_statement": "Coined by T.H. Huxley in 1869 from Greek agnostos 'unknown / unknowable'."
   },
   "concept": "Not knowing (神。、。や。、。宇宙。の、。真理。、。と、。いう、。、。あまりに。、。巨大。。な。もの。に、。、。対して。、。、。「。、。私は。、。知らない。、。、」。と、。、。あえて。、。、言（。い）。、。切。、。る。。ことで、。、。、未知。への。、。謙。虚。、。な。、。、。、。、。礼。、。、。節。、。を。、。、保。、。つ、。、。知性。の、。。、断崖。、)"
+ },
+ {
+  "id": "uncertainty-principle",
+  "word": "Uncertainty Principle",
+  "meaning": "不確定性原理、ゆらぎ、(知性の)限界。",
+  "era": "German Unbestimmtheitsrelation",
+  "etymology": {
+   "components": [
+    "uncertainty (not certain)",
+    "principle (rule)"
+   ],
+   "original_statement": "Proposed by Werner Heisenberg in 1927."
+  },
+  "concept": "The logic of blur (すべて。を、。、。精密。に、。、。測り（。はかり）。。、。知る。。こと。は。、。、決して。、。できない。。という、。、。宇宙。の、。、。。深。き。、。、恥。じ。ら。、。い。、。、。真実。は。、。、影。のように。、。、。、。、。、常に。、。、逃。、。げ。、ま。、わ。、る。。、。、ことで、。、。、。その。、。、。尊厳。、。を。、。、。保。、。って。、い。る。、。、。という。、。、。謙。、虚。、な、。。、。、断。、。崖。、)"
+ },
+ {
+  "id": "fermi-paradox",
+  "word": "Fermi Paradox",
+  "meaning": "フェルミのパラドックス、沈黙、(宇宙は)なぜ静かなのか。",
+  "era": "Name Enrico Fermi",
+  "etymology": {
+   "components": [
+    "Enrico Fermi (physicist)",
+    "paradox (contradiction)"
+   ],
+   "original_statement": "From Fermi's question 'Where is everybody?' regarding extraterrestrial life."
+  },
+  "concept": "The great silence (これほど。、。、巨大。な、。、。宇宙。に、。、。星。々。が、。、。、煌（。きら）。。めき、。、。、命。が。、。芽。吹く。、。、チャンス。。が、。、。、。溢（。あふ）。。れて。、。いる。。、。はず。、なのに。、。、なぜ。、。これほどまでに。、。、宇宙。は、。、。、。沈。、。黙。、。、。して。、。いる。、のか。、。、。という、。、。、峻烈な。、。、。、。寂し。さ。、)"
  }
 ];
