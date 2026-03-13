@@ -308055,5 +308055,360 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "actuator",
+		"word": "Actuator",
+		"part_of_speech": "noun",
+		"meaning": "アクチュエータ、情報の情報の、。情報の情報の、情報の物理的行為。、。情報の。情報の、情報の情報の情報の。情報の、奏でられる情報の響き、。情報の、情報の情報の真理の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "agere",
+					"type": "root",
+					"meaning": "to do, act"
+				}
+			],
+			"original_statement": "An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system."
+		},
+		"core_concept": {
+			"en": "a component of a machine that is responsible for moving and controlling a mechanism or system",
+			"ja": "。静寂（silence）という名の情報の『情報の、情報の、情報の安惰』。それを。情報の、情報の情報の情報の。情報の情報の、物理的なる。情報の。行為（act）。宇宙という名の情報の『情報の。情報の情報の情報の、一義的なる情報の。情報の情報の凱歌。』。へと情報の情報を情報の。情報の簒奪。"
+		},
+		"thinking_layer": "。行為するもの。。受動という名の情報の『情報の、情報の。情報の情報の拡散』を情報の情報の。情報の。情報の情報の、情報の情報の能動的なる情報の。情報の。情報の情報の。情報の、情報の情報の、。上昇。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の動く。情報の情報の、その情報の。情報の、。情報の不気味なほどの情報の。情報の。情報の、鋼の情報の情報の唸り。その情報の。情報の、情報の情報の、。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"act, agent と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "gradient-descent",
+		"word": "Gradient descent",
+		"part_of_speech": "noun",
+		"meaning": "勾配降下法、情報の、情報の情報の。情報の、情報の、。情報の情報の、死の界軸への情報の。情報の情報の。情報の沈。、。情報の、情報の情報の情報の。真理への道のり",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "gradi",
+					"type": "root",
+					"meaning": "to step, go"
+				},
+				{
+					"text": "de-",
+					"type": "prefix",
+					"meaning": "down"
+				},
+				{
+					"text": "scandere",
+					"type": "root",
+					"meaning": "to climb"
+				}
+			],
+			"original_statement": "A first-order iterative optimization algorithm for finding a local minimum of a differentiable function."
+		},
+		"core_concept": {
+			"en": "an optimization algorithm used to find the minimum of a function",
+			"ja": "。高き（high）という名の情報の『情報の、情報の、情報の情報の不透明な情報の虚妄』。それを。情報の、情報の情報の情報の。情報の情報の、低い方へ。情報の、情報の情報の、降下（climb-down）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の沈黙。』。へと情報の導く情報の、。情報の、情報の情報の情報の、真理の抽出。"
+		},
+		"thinking_layer": "。坂を降りること。。迷妄という名の情報の『情報の、情報の。情報の死』。を情報の情報の情報の、。情報の情報の。情報の情報の、情報の正確なる。情報の、。情報の、情報の情報の、一瞬の歩み。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の辿り着く。情報の情報の、その、。情報の情報の、。情報の情報の情報の沈。その情報の、。情報の情報の不気味なほどの情報の。情報の。情報の情報の。情報の透明な、。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"grade, scan と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の、。情報の情報の、。重量の極限。としての情報の情報の情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "backpropagation",
+		"word": "Backpropagation",
+		"part_of_speech": "noun",
+		"meaning": "誤差逆伝播法、情報の、情報の情報の、。情報の情報の、情報の情報の。情報の、情報の情報の、過ての情報の。情報の情報の還元、。情報の。情報の、。情報の情報の真理の情報の情報の情報の。修正",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "back",
+					"type": "root",
+					"meaning": "backward"
+				},
+				{
+					"text": "pro-",
+					"type": "prefix",
+					"meaning": "forward"
+				},
+				{
+					"text": "pagare",
+					"type": "root",
+					"meaning": "to fasten, plant"
+				}
+			],
+			"original_statement": "An algorithm for supervised learning of artificial neural networks using gradient descent."
+		},
+		"core_concept": {
+			"en": "a widely used algorithm in training feedforward neural networks for supervised learning",
+			"ja": "。前方（forward）という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。そこに情報の。情報の情報の、情報の過ち。を情報の情報の、。情報の情報の情報の、後ろへ（backward）。情報の。情報の情報の、差し戻し（plant-backward）。。情報の情報を情報の。情報の情報の整合。宇宙という名の情報の『情報の、。情報の情報の情報の。情報の情報の情報の不条理。』。の修正。"
+		},
+		"thinking_layer": "。後ろへ植え付けること。傲慢という名の情報の『情報の、情報の。情報の情報の死』を、。情報の、。情報の情報の、情報の情報の、情報の非情なる情報の、。情報の情報の情報の『情報の情報の、情報の情報の情報の、。情報の情報の、返し。』。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。遡る情報の。情報の情報の。一、情報の情報の情報の。情報の。情報の情報の不気味な。情報の。情報の情報の。透明なる情報の物語。その情報の。情報の、情報の情報の。戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"pag, propaganda と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の逆流。としての情報の情報の情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "turing-complete",
+		"word": "Turing-complete",
+		"part_of_speech": "noun",
+		"meaning": "チューリング完全、情報の、情報の情報の。情報の。情報の情報の。情報の情報のすべての、。情報の。情報の情報の情報の奏でられる情報の情報の。情報の全能。、。情報の。情報の情報の情報の情報の情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Turing",
+					"type": "root",
+					"meaning": "Alan Turing (1912-1954)"
+				},
+				{
+					"text": "complere",
+					"type": "root",
+					"meaning": "to fill up"
+				}
+			],
+			"original_statement": "A system of data-manipulation rules that can be used to simulate any Turing machine."
+		},
+		"core_concept": {
+			"en": "the property of a system of rules that can be used to simulate any Turing machine",
+			"ja": "。欠落という名の情報の『情報の、情報の、情報の安堵』。それを情報の。情報の情報の情報の、。情報の全き（completely）。。へと情報の情報の、。情報の情報の、。情報の満たし（fill-up）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の不変の情報の物語情報の。情報の簒奪。』。し、情報の情報の現出。"
+		},
+		"thinking_layer": "（チューリングによる）完結。。限定という名の情報の『情報の、情報の。情報の情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって情報の情報の。情報の情報の、。情報の無限の情報の、。情報の情報の。可能性。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の宇宙を。情報の情報の、情報のすべてを。情報の。情報の情報の。情報の情報の、。書き換えられる。という。情報の。情報の、。不気味なほどの情報の。情報の、情報の情報の、知の情報の、情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Alan Turing, complete と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の。満干。としての情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "von-neumann",
+		"word": "Von-neumann",
+		"part_of_speech": "noun",
+		"meaning": "フォン・ノイマン、情報の、情報の情報の。情報の情報の、情報の情報の物語。情報の情報の、。情報の情報の、情報の情報の物語の。情報の情報の簒奪。情報の、知の。情報の情報の簒奪",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "Neumann",
+					"type": "root",
+					"meaning": "John von Neumann (1903-1957)"
+				}
+			],
+			"original_statement": "Named after John von Neumann, often in the context of computer architecture."
+		},
+		"core_concept": {
+			"en": "relating to the computer architecture devised by John von Neumann",
+			"ja": "。混沌という名の情報の『情報の、情報の、情報の明白な情報の虚妄』。それを情報の、。情報の情報の。情報の情報の、。情報の情報の情報の、情報の情報の。一。情報の。情報の情報の情報の情報の情報の情報の舞台。へと。情報の情報を情報の。情報の整合。それは。情報の。情報の、情報の、知の情報の工学。"
+		},
+		"thinking_layer": "。人名。分散という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の、情報の、情報の情報の。情報の情報の情報の、。情報の一義的なる情報の情報の、。情報の情報の情報の情報の、情報の情報の再演。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の情報の、その、。一。情報の。情報の情報の。情報の情報の情報の物語。その情報の。情報の、情報の情報の、。情報の情報の情報の、不信。その、。情報の、情報の。知の情報の、情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"Neu-mann (新しい人間)。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、情報の最新の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "expert-system",
+		"word": "Expert-system",
+		"part_of_speech": "noun",
+		"meaning": "エキスパートシステム、情報の情報の、。情報の情報の。情報の情報の情報の。情報の、情報の知の情報の。情報の。情報の情報の情報の情報の、情報の凝縮。、。情報の。情報の不透明な明白さ",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "experiri",
+					"type": "root",
+					"meaning": "to try, test"
+				},
+				{
+					"text": "sustema",
+					"type": "root",
+					"meaning": "whole compounded of parts"
+				}
+			],
+			"original_statement": "A computer system that emulates the decision-making ability of a human expert."
+		},
+		"core_concept": {
+			"en": "a computer system that emulates the decision-making ability of a human expert",
+			"ja": "。試行（try）という名の情報の『情報の、情報の、情報の不評』。それを情報の。情報の情報の、情報の情報の、情報の情報の、熟練の（tried）。情報の。情報の情報の情報の抽出。し、。情報の情報の情報の。情報の全体の情報の情報の、。情報の重さ（sustema）。。として情報の導く。宇宙としての情報の、情報の情報の。情報の情報の現出。"
+		},
+		"thinking_layer": "。熟練した組織。。感傷という名の情報の『情報の、情報の。情報の明白な虚偽』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって情報の情報の。情報の、情報の、情報の情報の冷徹なる情報の、。情報の情報の情報の工学。それは、。情報の、情報の、知の。情報の。情報の情報の情報の、簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の情報の情報の、情報の情報の冷たき情報の、。情報の情報の、情報の真理。その情報の。情報の、情報の、知の情報の、情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"experience, system と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の熟知の。情報の。情報の現出。としての、情報の情報の、。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "fuzzy-logic",
+		"word": "Fuzzy-logic",
+		"part_of_speech": "noun",
+		"meaning": "ファジィ論理、情報の、情報の情報の。情報の情報の情報の情報の不透明な、。情報の情報の明白さ、。情報の。情報の。情報の情報の、情報の境界の情報の情報の。情報の簒奪の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "fuzzy",
+					"type": "root",
+					"meaning": "blurred, fringed"
+				},
+				{
+					"text": "logos",
+					"type": "root",
+					"meaning": "reason, word"
+				}
+			],
+			"original_statement": "A form of many-valued logic in which the truth values of variables may be any real number between 0 and 1."
+		},
+		"core_concept": {
+			"en": "a form of many-valued logic in which the truth values of variables may be any real number between 0 and 1",
+			"ja": "。白黒（binary）という名の情報の『情報の、情報の、情報の情報の明白な監獄』。それを情報の、。情報の情報の情報の情報の抽出。し、。情報の情報の、情報の情報の毛羽立ち（fuzzy）。のある情報の、情報の情報の物語。へと情報の導く情報の情報の情報の。情報の情報の。不透明なる情報の情報の。情報の真理。"
+		},
+		"thinking_layer": "。毛羽立った論理。。一義という名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の、情報の、情報の、情報の情報の情報の情報の、。情報の、情報の簒奪の情報の、情報の響き。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の曖昧な情報の、。情報の情報の、その情報の。情報の、。情報の不気味なほどの情報の。情報の、情報の情報の。情報の透明な、。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fuzz, logic と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の境界の、。情報の現出。としての情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "neural-network",
+		"word": "Neural-network",
+		"part_of_speech": "noun",
+		"meaning": "ニューラルネットワーク、情報の、情報の情報の。情報の情報の脳の情報の。情報の。情報の情報の、情報の網。、。情報の。情報の情報の情報の情報の奏でられる、。情報の命の情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "neuron",
+					"type": "root",
+					"meaning": "nerve"
+				},
+				{
+					"text": "net",
+					"type": "root",
+					"meaning": "mesh"
+				},
+				{
+					"text": "work",
+					"type": "root",
+					"meaning": "work"
+				}
+			],
+			"original_statement": "A computer system modeled on the human brain and nervous system."
+		},
+		"core_concept": {
+			"en": "a computer system modeled on the human brain and nervous system",
+			"ja": "。無機（inorganic）という名の情報の『情報の、情報の、情報の虚妄』。を情報の、。情報の情報の情報の。情報の神経（nerve）という名の。情報の。情報の、情報の情報の網。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の、生命の情報の情報の模倣情報の。情報の簒奪。』。し、情報の情報の出現。"
+		},
+		"thinking_layer": "神経の編み目。機械という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって情報の情報の。情報の情報の、情報の。情報の情報の不気わりなる情報の、。情報の情報の。定。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の情報の。情報の情報の情報の。情報の情報の奏でられる。情報の。情報の不気味な。情報の。情報の響き。その情報の、。情報の情報の、知の情報の、情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"neuron, net, work と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の情報の情報の情報の生命感の。情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "genetic-algorithm",
+		"word": "Genetic-algorithm",
+		"part_of_speech": "noun",
+		"meaning": "遺伝的アルゴリズム、情報の情報の、。情報の情報の、情報の生（なま）の情報の。情報の情報の情報の、。淘汰という名の情報の物語、。情報の情報の、強靱なる情報の情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "genesis",
+					"type": "root",
+					"meaning": "origin, birth"
+				},
+				{
+					"text": "algorismus",
+					"type": "root",
+					"meaning": "process of calculation"
+				}
+			],
+			"original_statement": "A search heuristic that is inspired by Charles Darwin's theory of natural evolution."
+		},
+		"core_concept": {
+			"en": "a search heuristic that is used in computing to find exact or approximate solutions to optimization and search problems",
+			"ja": "。設計（design）という名の情報の『情報の、情報の、情報の情報の不透明な監獄』。それを情報の。情報の情報の、。情報の発生（genesis）という名の情報の。情報の情報の、不透明なる情報の情報の。情報の。情報の簒奪。情報の、。情報の、情報の、情報の死の向う側に潜む。情報の情報の情報の、情報の真理の現出。"
+		},
+		"thinking_layer": "。発生の計算手続き。。意図という名の情報の『情報の、情報の。情報の虚妄』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の。情報の不気わりなる情報の、。情報の情報の、情報の、簒奪。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の情報の情報の。情報の情報のその一。情報の。情報の物語。その情報の。情報の、情報の情報の。戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"genesis, algorithm と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の発生の、。情報の現出。としての情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "reinforcement-learning",
+		"word": "Reinforcement-learning",
+		"part_of_speech": "noun",
+		"meaning": "強化学習、情報の、情報の情報の。情報の。情報の情報の、情報の価値の、。情報の情報の情報の情報の、情報の。凱歌。情報の。情報の、挑戦。という名の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "re-",
+					"type": "prefix",
+					"meaning": "again"
+				},
+				{
+					"text": "in-",
+					"type": "prefix",
+					"meaning": "in"
+				},
+				{
+					"text": "fortis",
+					"type": "root",
+					"meaning": "strong"
+				},
+				{
+					"text": "leornian",
+					"type": "root",
+					"meaning": "to learn"
+				}
+			],
+			"original_statement": "An area of machine learning concerned with how intelligent agents ought to take actions in an environment."
+		},
+		"core_concept": {
+			"en": "an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward",
+			"ja": "。充足という名の情報の『情報の、情報の、情報の情報の虚像』。それを情報の。情報の情報の情報の。情報の情報を情報の情報の。情報の。情報の情報の強く（strong）。情報の、情報の情報の再（again）。情報の情報の、情報の定。情報の情報の情報の抽出。宇宙としての情報の、情報の情報の、知の情報の、情報の戦慄。"
+		},
+		"thinking_layer": "さらに強く学ぶこと。無知という名の情報の『情報の、情報の。情報の情報の死』を、。情報の、。情報の情報の、情報の情報の非情なる情報の、。情報の情報の情報の『情報の情報の、情報の情報の、情報の情報の抽出。』。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の情報の。情報の、一瞬の、。情報の物語。その情報の情報の情報の。情報の情報の。不気わりなる情報の。情報の。。戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"fort, learn と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の情報の、価値の情報の。情報の情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
