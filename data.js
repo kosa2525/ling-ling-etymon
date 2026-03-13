@@ -321201,5 +321201,19 @@ const WORDS = [
    "original_statement": "Coined in 1933 from positive + electron."
   },
   "concept": "The positive electron (私。の、。、「。。、影。。、」。であり、。、。、鏡。の中。の、。、。、。、私。、。、。である。、。、。、。青。、。い。、。、。、火。、花。、。、。、もし。、。私。と。、。出会（。であ）。。、。えば。、。、。互。、いに、。、。消。、。、。滅（。アナア。イ、レイション）。。、。し、。、。、光。、。へと、。、。還（。かえ）。。る。。、。という。、。、。、残酷。な、。、。、。、。待。ち。、。合わせ。、)"
+ },
+ {
+  "id": "agnosticism",
+  "word": "Agnosticism",
+  "meaning": "不可知論、知らないことへの誠実さ。",
+  "era": "Greek a- + gnostos",
+  "etymology": {
+   "components": [
+    "a- (not)",
+    "gnostos (known)"
+   ],
+   "original_statement": "Coined by T.H. Huxley in 1869 from Greek agnostos 'unknown / unknowable'."
+  },
+  "concept": "Not knowing (神。、。や。、。宇宙。の、。真理。、。と、。いう、。、。あまりに。、。巨大。。な。もの。に、。、。対して。、。、。「。、。私は。、。知らない。、。、」。と、。、。あえて。、。、言（。い）。、。切。、。る。。ことで、。、。、未知。への。、。謙。虚。、。な。、。、。、。、。礼。、。、。節。、。を。、。、保。、。つ、。、。知性。の、。。、断崖。、)"
  }
 ];
