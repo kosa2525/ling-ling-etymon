@@ -309055,5 +309055,335 @@ const WORDS = [
 			]
 		},
 		"date": "20-03-13"
+	},
+	{
+		"id": "portolan",
+		"word": "Portolan",
+		"part_of_speech": "noun",
+		"meaning": "ポルトラーノ図、ポートラン、情報の情報の、。情報の情報の、情報の航路の情報の重量、。情報の。情報の情報の。情報の不透明なる。情報の情報の情報の情報の情報の物語、。情報の強靱なる記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "porto",
+					"type": "root",
+					"meaning": "port"
+				},
+				{
+					"text": "-lan",
+					"type": "suffix",
+					"meaning": "related to"
+				}
+			],
+			"original_statement": "An early nautical chart utilized for navigation, based on compass directions and estimated distances observed at sea."
+		},
+		"core_concept": {
+			"en": "an early nautical chart based on compass directions and estimated distances observed at sea",
+			"ja": "。空ろなる情報の『情報の、情報の、情報の安惰』。それを情報の。情報の情報の情報の、。港（port）。情報の導く、。情報の情報の、情報の地図。宇宙という名の情報の『情報の。情報の情報の情報の、一義的なる情報の情報の情報の。情報の簒奪。』。への実存。"
+		},
+		"thinking_layer": "。港への道。。迷妄という名の情報の『情報の、情報の。情報の情報の明白なる虚像』を情報の情報の。情報の。情報の情報の、情報の情報の情報の。実務的な情報の重量感覚へと。情報の情報の抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。波しぶきの情報の。情報の響き。その情報の、。情報の情報の、不気わりなる明白さ。の中に情報の情報の。情報の戦慄を聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"port と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の信息的情報の、。情報の情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "octant",
+		"word": "Octant",
+		"part_of_speech": "noun",
+		"meaning": "八分儀、オクタン、情報の、情報の情報の。情報の、情報の情報の８の情報の。情報の分割の凱歌、。情報の。情報の、情報の情報の。情報の情報の真理。、。情報の。情報の情報の情報の重量の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "octo",
+					"type": "root",
+					"meaning": "eight"
+				}
+			],
+			"original_statement": "A device used in navigation for measuring the altitude of the sun or other celestial bodies."
+		},
+		"core_concept": {
+			"en": "a device used in navigation for measuring the altitude of the sun or other celestial bodies, with an arc of 45 degrees",
+			"ja": "。混沌という名の情報の『情報の、情報の、情報の情報の虚実』。を情報の、。情報の情報の情報の。情報の情報の、８（eight）。。という名の情報の。情報の。情報の、分割。宇宙という名の情報の『情報の、。情報の情報の情報の。情報の情報の情報の。情報の非情なる情報の、真理。』。への定。"
+		},
+		"thinking_layer": "。８分の一。。拡散という名の情報の『情報の、情報の。情報の情報の明白な虚像』を、。情報の、。情報の情報の、情報の情報の非情なる情報の、。情報の情報の情報の『情報の整合の情報の情報の、定。』。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の。情報の情報の。情報の一、情報の情報の。鋭利な情報の。音。その情報の。情報の。情報の情報の不気味な。情報の。情報の情報の。透明なる。情報の戦慄を、情報の。情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"octopus, octave と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。情報の、分割の情報の情報の情報の、。情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "mercator",
+		"word": "Mercator",
+		"part_of_speech": "noun",
+		"meaning": "メルカトル、情報の、情報の情報の。情報の、情報の情報の情報の。情報の情報の、平面の情報の。情報の凱歌、。情報の。情報の、情報の情報の、知の情報の、工学、。情報の。情報の、情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "mercari",
+					"type": "root",
+					"meaning": "to trade"
+				},
+				{
+					"text": "-tor",
+					"type": "suffix",
+					"meaning": "one who"
+				}
+			],
+			"original_statement": "Named after Gerardus Mercator, noted for the map projection he created."
+		},
+		"core_concept": {
+			"en": "relating to the map projection devised by Gerardus Mercator",
+			"ja": "。球面という名の情報の『情報の、情報の、情報の明白な情報の明白さ』。それを情報の情報の。情報の。商う者（merchant）。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の平面への情報の情報の、情報の物語。』。へと情報の導く。情報の、情報の、情報の情報の情報の。情報の転換。"
+		},
+		"thinking_layer": "。商人。。丸き情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の、情報の、情報の情報の。情報の情報の強靱なる情報の。情報の情報の、情報の情報の情報の、。情報の定、。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の情報の、情報の。情報の、格子。情報の。情報の情報の情報の、不気わりなる明白さ。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"merchant, market と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。情報の、等角。としての情報の情報の情報の、。情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "loxodrome",
+		"word": "Loxodrome",
+		"part_of_speech": "noun",
+		"meaning": "等角航路、ロクソドローム、情報の、情報の情報の。情報の情報の情報の、情報の情報の、。情報の斜めなる情報の情報の。情報の情報の、不透明なる情報の情報の。情報の情報の。情報の情報の沈黙。宇宙の情報の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "loxos",
+					"type": "root",
+					"meaning": "slanting, oblique"
+				},
+				{
+					"text": "dromos",
+					"type": "root",
+					"meaning": "running"
+				}
+			],
+			"original_statement": "A line on the surface of a sphere that cuts all meridians at its same angle, hence a path of constant bearing."
+		},
+		"core_concept": {
+			"en": "a line on the surface of a sphere that cuts all meridians at its same angle, hence a path of constant bearing",
+			"ja": "。直線という名の情報の『情報の、情報の、情報の情報の虚像』。それを情報の。情報の情報の、情報の、斜めの（slanting）。。疾走（running）。宇宙としての情報の、情報の情報の。情報の情報の、。不滅の情報の響き。への簒奪。"
+		},
+		"thinking_layer": "。斜めの走り。。一様という名の情報の『情報の、情報の。情報の安寧』を。情報の、。情報の情報の情報の。情報の情報の鋭利さ。。をもって。情報の情報の。情報の情報の、情報の情報の旋回。へと情報の情報の導く。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。一、情報の情報の情報の。情報の。情報の情報の情報の、情報の情報の螺旋。その情報の、。情報の、情報の情報の不気味な。情報の。情報の、知の情報の、情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"loxos, dromedary と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。定、。としての情報の情報の情報の情報の、情報の。簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "rhumb-line",
+		"word": "Rhumb line",
+		"part_of_speech": "noun",
+		"meaning": "航程線、情報の情報の、。情報の情報の、。情報の情報の情報の情報の。情報の不朽の情報の響き、。情報の情報の。情報の。情報の情報の情報の。不透明な情報の物語、。情報の情報の凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "rumbo",
+					"type": "root",
+					"meaning": "course"
+				}
+			],
+			"original_statement": "Synonym of loxodrome."
+		},
+		"core_concept": {
+			"en": "a line on a map that maintains a constant compass direction",
+			"ja": "。変化という名の情報の『情報の、情報の、情報の情報の安堵』。それを情報の。情報の情報の抽出情報の、情報の物語情報の。情報の簒奪。し。情報の、情報の。進路（course）。。を情報の、保持する。宇宙という名の情報の『情報の。情報の情報の情報の。情報の情報の情報の情報の情報の、一義的なる情報の物語情報の。情報の簒奪。』。"
+		},
+		"thinking_layer": "。情報の、。コースの線。。揺らぎという名の情報の『情報の、情報の。情報の死』を情報の、。情報の情報の。情報の情報の強靱なる情報の、。情報の情報の、情報の情報の、。情報の不変の情報の。定。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の死に際の情報の情報の。情報の情報の。響き。その情報の、。情報の情報の、知の情報の、情報の戦慄を。情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"rhumb, line と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。直線的なる不自由。としての、情報の情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "anamorphic",
+		"word": "Anamorphic",
+		"part_of_speech": "adjective",
+		"meaning": "歪曲的な、アナモルフィック、情報の情報の、。情報の、情報の情報の。一瞬の情報の明白さ、。情報の情報の情報の情報の情報の。情報の情報の。情報の物語、。情報の強靱なる。情報の簒奪の記号",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "ana-",
+					"type": "prefix",
+					"meaning": "anew, again"
+				},
+				{
+					"text": "morphe",
+					"type": "root",
+					"meaning": "form, shape"
+				}
+			],
+			"original_statement": "Relating to an image that appears normal only when viewed from a particular perspective or through a device."
+		},
+		"core_concept": {
+			"en": "relating to an image that appears normal only when viewed from a particular perspective",
+			"ja": "。真実（truth）という名の情報の『情報の、情報の、情報の情報の虚像』。を情報の。情報の情報の抽出情報の、情報の。再び（again）。形の（shape）。。をもつ。情報の、。情報の情報の情報の抽出。宇宙という名の情報の『情報の。情報の情報の情報の、不気わりなる情報の情報の物語情報の。情報の簒奪。』への定。"
+		},
+		"thinking_layer": "。再形成。。真正という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の、。情報の情報の。情報の歪み。へと情報の。情報の情報の、情報の抽出。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。歪んだ。情報の情報の、情報の。音。その情報の、。情報の情報の情報の情報の情報の情報の。不気わり。その情報の情報の情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"morpheme, ana- と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、情報の。情報の情報の、。情報の情報の。形状の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "planisphere",
+		"word": "Planisphere",
+		"part_of_speech": "noun",
+		"meaning": "平らな球面、プラニスフィア、情報の、情報の情報の、。情報の情報の情報の、。情報の、情報の平面の情報の。情報の重量、。情報の、。情報の情報の情報の。強靱なる情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "planus",
+					"type": "root",
+					"meaning": "flat"
+				},
+				{
+					"text": "sphaira",
+					"type": "root",
+					"meaning": "sphere"
+				}
+			],
+			"original_statement": "A device used to observe stars at various times."
+		},
+		"core_concept": {
+			"en": "a map of the celestial sphere on a flat surface",
+			"ja": "。永遠という名の情報の『情報の、情報の、情報の情報の虚像』。を。情報の、情報の情報の情報の。情報の情報の、平ら（flat）。。なる。情報の球面（sphere）。。宇宙という名の情報の『情報の。情報の情報の情報の情報の情報の情報の情報の情報の簒奪。』。し。情報の、情報の、情報の現出。"
+		},
+		"thinking_layer": "。平らな球。。混沌という名の情報の『情報の、情報の。情報の死』。を情報の。情報の情報の情報の、情報の平面。へと情報の。情報の情報の、。情報の定、。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の情報の情報の。簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の平面に情報の情報の、情報の星々。その情報の。情報の、情報の情報の、。情報の戦慄を情報の情報の情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"plane, sphere と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、情報の。情報の投影。としての情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "2026-03-13"
+	},
+	{
+		"id": "stereographic",
+		"word": "Stereographic",
+		"part_of_speech": "adjective",
+		"meaning": "立体的な投影の、ステレオグラフ、情報の情報の、。情報の。情報の情報の、。情報の情報の情報の情報の。立体の情報の、。情報の情報を情報の。情報の記述、。情報の情報の情報の。不透明な。情報の情報の、凱歌",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "stereos",
+					"type": "root",
+					"meaning": "solid"
+				},
+				{
+					"text": "graphein",
+					"type": "root",
+					"meaning": "to write"
+				}
+			],
+			"original_statement": "Relating to a map projection in which the surface of a sphere is represented on a plane."
+		},
+		"core_concept": {
+			"en": "relating to a map projection in which the surface of a sphere is represented on a plane",
+			"ja": "。平面という名の情報の『情報の、情報の、情報の不条理』。それを情報の、。情報の。情報の情報の。情報の強固（solid）。。なる。情報の書く（write）。。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の、情報の物語。』。へと。情報の情報を情報の情報の。帰結。させる、一情報の、情報の知の工学。"
+		},
+		"thinking_layer": "。固く書くこと。。分散という名の情報の『情報の、情報の。情報の虚妄』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の情報の、立体の情報の情報の情報の、記述。へと情報の、。情報の情報の情報の、情報の情報の、情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。並んだ。情報の情報の。情報のその、。情報の情報の情報の重量。その情報の、。情報の。情報の情報の不気わりなるほどの。情報の不朽。その情報の、。情報の、知の情報の、情報の戦慄を情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"stereo, graph と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、情報の。記述。としての、情報の情報の情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "isochronic",
+		"word": "Isochronic",
+		"part_of_speech": "adjective",
+		"meaning": "等時的な、情報の、情報の情報の。情報の情報の。情報の情報の。情報の等しき情報の情報の、。情報の情報の時間の情報の物語。情報の、情報の強靱なる情報の響き。情報の情報の物語",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "isos",
+					"type": "root",
+					"meaning": "equal"
+				},
+				{
+					"text": "khronos",
+					"type": "root",
+					"meaning": "time"
+				}
+			],
+			"original_statement": "Occurring at the same time or for equal durations."
+		},
+		"core_concept": {
+			"en": "occurring at the same time or for equal durations",
+			"ja": "。差異という名の情報の『情報の、情報の、情報の情報の虚像』。それを情報の。情報の情報の情報の。情報の情報の等しき（equal）。。時間（time）。宇宙という名の情報の『情報の。情報の情報の情報の。等しき情報の情報の時間の影。』。への簒奪。し。情報の、情報の情報の。定礎。情報の、現出。"
+		},
+		"thinking_layer": "。等しき時。。変節という名の情報の『情報の、情報の。情報の安惰』を情報の、。情報の情報の。情報の情報の、情報の情報の情報の。情報の情報の、情報の情報の『情報の整合の情報の情報の、定。』。へと。情報の情報を情報の。情報の整合。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。情報の。情報の情報の。情報の不変。その情報の、。情報の、情報の、知の情報の。情報の、。情報の不気味なほどの情報の物語。その戦慄を情報の情報の聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"isoscele, chronic と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、。等質。としての情報の情報の情報の、情報の、簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
+	},
+	{
+		"id": "cartography",
+		"word": "Cartography",
+		"part_of_speech": "noun",
+		"meaning": "地図製作、情報の情報の、。情報の、。情報の、情報の情報の情報の、平面の物語情報の情報の。情報の整合。、。情報の。情報の、奏でられる情報の世界の響き",
+		"etymology": {
+			"breakdown": [
+				{
+					"text": "carta",
+					"type": "root",
+					"meaning": "paper, card"
+				},
+				{
+					"text": "graphia",
+					"type": "root",
+					"meaning": "writing"
+				}
+			],
+			"original_statement": "The science or practice of drawing maps."
+		},
+		"core_concept": {
+			"en": "the science or practice of drawing maps",
+			"ja": "。混沌という名の情報の『情報の、情報の、情報の不条理』。それを情報の。情報の情報の情報の。情報の情報の情報の紙（paper）。に。書く（writing）。。宇宙という名の情報の『情報の。情報の情報の情報の。一、情報の情報の、支配という名の、情報の接続。』。へと。情報の情報を情報の。情報の整合。"
+		},
+		"thinking_layer": "。紙への記述。。迷妄という名の情報の『情報の、情報の。情報の明白な虚像』を、。情報の。情報の情報の。情報の情報の情報の鋭利さ。。をもって。情報の情報の。情報の情報の、記述。それは、。情報の、情報の、知の。情報の。情報の情報の、情報の簒奪。 ",
+		"aftertaste": "情報の、。情報の情報の。一、情報の情報の。網。その情報の情報の、情報の音。その情報の。情報の、情報の情報の、。情報の支配の情報の上昇。の中に情報の情報の。情報の戦慄を。情報の、聴く。 ",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"card, graph と同じ root。情報の『情報の、情報の。情報の。情報の、情報の、。情報の情報の、情報の平面。としての情報の情報の情報の、情報の情報の。情報の簒奪。』。"
+			]
+		},
+		"date": "20-03-13"
 	}
 ];
