@@ -321187,5 +321187,19 @@ const WORDS = [
    "original_statement": "From Greek elegeia, from elegos 'mournful song'."
   },
   "concept": "Song of mourning (この。。、。、世界。から。、。、。消。え。、。去って。、。しまった。、。、。「。、、。、大切な。、。、。誰か。、。、」。、。、あるいは。、。、。「。。、。、。、過去。、。、。、」。へと、。、。、。一。、。つの。、。、。言葉。、。を。、。、投げ。、かける。。、。ことで、。、。、。最後。の、。、。、お。、。別。れ。、。を。、。、。告げる。、。、。ための。、。、。、理知。の、。、。。、。、。。、鎮。、魂。、。、。歌。、)"
+ },
+ {
+  "id": "positron",
+  "word": "Positron",
+  "meaning": "陽電子、反物質、鏡の中の自分。",
+  "era": "English positive + electron",
+  "etymology": {
+   "components": [
+    "positive (positive)",
+    "electron (electron)"
+   ],
+   "original_statement": "Coined in 1933 from positive + electron."
+  },
+  "concept": "The positive electron (私。の、。、「。。、影。。、」。であり、。、。、鏡。の中。の、。、。、。、私。、。、。である。、。、。、。青。、。い。、。、。、火。、花。、。、。、もし。、。私。と。、。出会（。であ）。。、。えば。、。、。互。、いに、。、。消。、。、。滅（。アナア。イ、レイション）。。、。し、。、。、光。、。へと、。、。還（。かえ）。。る。。、。という。、。、。、残酷。な、。、。、。、。待。ち。、。合わせ。、)"
  }
 ];
