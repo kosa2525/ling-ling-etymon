@@ -321539,5 +321539,31 @@ const WORDS = [
    "original_statement": "From Hebrew qabbalah 'tradition', from qibel 'to receive / accept'."
   },
   "concept": "Receiving the truth (「。。、。一。、。、」。つの。、。、。、「。。、。文字。、。、」。や。、。、「。。、。数。、。、。、」。の、。、奥。、に、。、。、ひっそり。と、。、。、隠。された。。、。、。宇宙。の、。、。。理知。を、。、。、。静（。しず）。。、。やかに。、。、。受け。、取（。と）。。、。る。。、ための、。、。、。理。知。の、。、。。、「。、。、。階段。、。、。、」。、)"
+ },
+ {
+  "id": "posterity",
+  "word": "Posterity",
+  "meaning": "後世、子孫、未来の人々。",
+  "era": "Latin posteritas",
+  "etymology": {
+   "components": [
+    "posteritas (future time / posterity)"
+   ],
+   "original_statement": "From Latin posteritas, from posterus 'coming after'."
+  },
+  "concept": "Coming after (「。。、私たちの。。、」。命。。が。、。、尽（。つ。）。、。きた。。、。後の。、。、。世界。を。、。、。歩（。あ。る）。。、。く。。、。「。。、。、名。も。な。き。、。、。人々。、。、。、」。たち。、。、。彼らに。、。、。、一。、。つの。、。、。理知。の、。、。。、。灯（。とも。）。、。し。、。火。を。、。、繋（。つな）。。、。ぐ。。、。ための。、。、。、静かな。。、。祈。り。、)"
+ },
+ {
+  "id": "memorial",
+  "word": "Memorial",
+  "meaning": "記念碑、記憶の、不朽の。",
+  "era": "Latin memorialis",
+  "etymology": {
+   "components": [
+    "memoria (memory)"
+   ],
+   "original_statement": "From Latin memorialis 'belonging to memory'."
+  },
+  "concept": "Belonging to memory (「。。、。忘れ。、。、」。去ら。れる。、。こと。を、。、。拒。絶。し、。、。、。一。、。つの。、。、。石。や。、。、「。。、。、。言葉。、。、。、」。の中に。、。、。、。、永久。に、。、。、。その。、。魂。。を、。、。、。、。刻（。きざ）。。、。み。。、。付け。。、。た、。、。、。、峻烈な。、。、。、。証（あかし）。、)"
  }
 ];
