@@ -382864,5 +382864,806 @@ const WORDS = [
 			]
 		},
 		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "aesthetics_ad",
+		"word": "Aesthetics",
+		"meaning": "美学（びがく）",
+		"etymology": [
+			"Greek aisthesis (perception/feeling)"
+		],
+		"concept": "Philosophy of beauty/art",
+		"thinking": "「感じること（Aisthesis）」の本質。目に映る美、耳に響く旋律、そして心に刺さる崇高。単なる「好き嫌い」を超えて、いかにして人間が価値を見出し、魂を揺さぶられるのかという、精神の最も華やかで切ない理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "poiesis_art",
+		"word": "Poiesis",
+		"meaning": "ポイエーシス、制作（せいさく）",
+		"etymology": [
+			"Greek poiein (to make)"
+		],
+		"concept": "Bringing into being",
+		"thinking": "「作ること（Poiein）」。無の中から、詩を、絵を、音楽を、この世界へと「産み落とす」創造の行為。自然界にはなかった『新しい貌』を現出させる、神の模倣としての芸術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "praxis_art",
+		"word": "Praxis (Art)",
+		"meaning": "プラクシス、実践（じっせん）としての芸術",
+		"etymology": [
+			"Greek prassein (to do/act)"
+		],
+		"concept": "Art as social action",
+		"thinking": "「なす（Prassein）」こと。完成された『モノ』ではなく、それを作る「行為」や、それによって社会に突きつける「意志」そのものが芸術であるという考え。世界を書き換えるための動的な舞踏。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "mimesis_adv",
+		"word": "Mimesis",
+		"meaning": "ミメーシス、模倣（もほう） (美学)",
+		"etymology": [
+			"Greek mimetikos"
+		],
+		"concept": "Art as imitation",
+		"thinking": "現実を「写し取る」こと。鏡のようにそのままを映すか。それとも、現実の裏側に隠れた『真実の貌』を引きずり出すことで、現実よりも「現実らしい」幻を作り上げるか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "techne_adv",
+		"word": "Techne",
+		"meaning": "テクネー、技法（ぎほう）・芸術（げいじゅつ）",
+		"etymology": [
+			"Greek tekhne (art/skill/craft)"
+		],
+		"concept": "Knowledge of making",
+		"thinking": "ただの「技術」ではない。素材と対話し、その本質を引き出すための『知的な熟練』。職人の手仕事と、芸術家の魂が解け合う場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "disinterest",
+		"word": "Disinterest",
+		"meaning": "無関心（むかんしん）性、無利害性",
+		"etymology": [
+			"Dis- + Interest"
+		],
+		"concept": "Enjoying for its own sake",
+		"thinking": "「利害（Interest）」を一度「捨てる（Dis-）」。腹が減ったから見るのではなく、役に立つから聴くのでもない。ただその美しさの前に佇み、自分を忘れて純粋な『観照』に浸る、精神の贅沢な自由。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "contemplatio",
+		"word": "Contemplatio",
+		"meaning": "観照（かんしょう）",
+		"etymology": [
+			"Latin con- + templum (space for observation)"
+		],
+		"concept": "Objective quiet looking",
+		"thinking": "自らを聖別された「場所（Templum）」に置き、対象と「共にある（Con-）」。分析するのではなく、ただその存在という名の光を浴び続け、心の鏡に写し出す、静かなる魂の休息。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "aura_benjami",
+		"word": "Aura",
+		"meaning": "アウラ、オーラ",
+		"etymology": [
+			"Greek aura (breath/breeze)"
+		],
+		"concept": "Unique presence of art",
+		"thinking": "芸術作品がまとう、唯一無二の「息遣い（Aura）」。今、ここ、その一点にしか存在しないという『一回性』。複製が可能になった時代に失われてしまった、物質的な魂の煌めき。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "mechanical_r",
+		"word": "Mech Repro",
+		"meaning": "技術的（ぎじゅつてき）複製（ふくせい）可能性（かのうせい）",
+		"etymology": [
+			"Mechanical + Reproduction"
+		],
+		"concept": "Art in age of copy",
+		"thinking": "写真や映画のように、誰でも、どこでも、同じものを手にできる。聖域（アウラ）から引きずり出された芸術が、大衆という名の荒波の中で、新しい政治的・大衆的な貌を得るまでの革命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "avante_garde",
+		"word": "Avant-Garde",
+		"meaning": "前衛（ぜんえい）、アヴァンギャルド",
+		"etymology": [
+			"French avant- (before) + garde (guard)"
+		],
+		"concept": "Experimental/Radical art",
+		"thinking": "「先頭（Avant）」に立って「守る（Garde）」。未踏の地へと一人歩みを進め、古い美の掟を破壊し、新しい価値観を切り拓く知の尖兵。既存の調和に対する、美しき反逆。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "simulacrum_a",
+		"word": "Simulacrum",
+		"meaning": "シミュラークル、模造品（もぞうひん）",
+		"etymology": [
+			"Latin simulare (to imitate)"
+		],
+		"concept": "Copy with no original",
+		"thinking": "「オリジナル」など初めから存在しない。すべては「模倣（Simulate）」の集積であり、コピーがコピーをコピーし、現実という名の虚構を上書きしていく。中身のない膜だけが踊る、現代の幻影。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "spectacle_ad",
+		"word": "Spectacle",
+		"meaning": "スペクタクル、見世物（みせもの）",
+		"etymology": [
+			"Latin spectare (to look at)"
+		],
+		"concept": "Visual mass society",
+		"thinking": "「見る（Spectare）」ことそのものが目的化された社会。現実は体験されるものではなく、消費されるための魅力的な映像へと変容していく。すべてが虚像の祝祭へと回収される、孤独な眼差しの帝国。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "grotesque_ad",
+		"word": "Grotesque",
+		"meaning": "グロテスク、奇怪（きかい）な美（び）",
+		"etymology": [
+			"Italian grotta (cave/grotto)"
+		],
+		"concept": "Distorted and strange",
+		"thinking": "「洞窟（Grotta）」のように暗く、歪んだ場所から這い出してきた異形の貌。恐ろしさと滑稽さが裏表になり、私たちの常識という境界線を笑いながら踏み越えていく、逸脱した美の力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "uncanny_adv_",
+		"word": "The Uncanny",
+		"meaning": "不気味（ぶきみ）なもの",
+		"etymology": [
+			"Un- + Canny (knowing/safe)"
+		],
+		"concept": "Strange but familiar",
+		"thinking": "慣れ親しんだ（Canny）はずのものが、ふとした瞬間に「異質な他者（Un-）」へと変貌して立ち現れる、背筋の凍るような感覚。自分の家の中に知らない自分が住んでいるような、親和性と恐怖の危うき融合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "abjection_ad",
+		"word": "Abjection",
+		"meaning": "アブジェクシオン、排斥（はいせき）される卑（いや）しきもの",
+		"etymology": [
+			"Latin ab- (away) + jacere (to throw)"
+		],
+		"concept": "State of being cast off",
+		"thinking": "自分という境界を守るために「外（Ab-）」へと「放り出された（Jacere）」汚れ。吐き気、死体、排泄物。清浄であるために切り捨てたはずのものが、逆に自分という存在を脅かす、根源的な恐怖と美のあわい。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "synesthesia_a",
+		"word": "Synesthesia",
+		"meaning": "共感覚（きょうかんかく） (美学)",
+		"etymology": [
+			"Greek sun- + aisthesis"
+		],
+		"concept": "Merging of senses",
+		"thinking": "色が「聞こえ」、音が「見える」。五感という名の壁が「共に（Sun-）」崩れ去り、一つの巨大な「感じ（Aisthesis）」へと溶け合う。宇宙の全方位から魂を震わせる、全感覚的な詩情の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "performance_",
+		"word": "Performance",
+		"meaning": "パフォーマンス",
+		"etymology": [
+			"Latin per- + formare (to form/complete)"
+		],
+		"concept": "Execution of an action",
+		"thinking": "形を「最後まで（Per-）」「作る（Form）」。一度限りの「行為」そのものが作品となり、消え去ることで永遠に刻まれる。静止した美を拒み、今この瞬間の生（動き）を祭壇に捧げる、儚き芸術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "appropriatio",
+		"word": "Appropriate",
+		"meaning": "流用（りゅうよう）、アプロプリエーション",
+		"etymology": [
+			"Latin ad- + proprius (one's own)"
+		],
+		"concept": "Using existing elements",
+		"thinking": "他者のものを「自分のもの（Proprius）」へと「引き寄せる（Ad-）」。既存のイメージを意図的に盗み、文脈をずらし、全く別の意味を吹き込む、大胆不敵な引用の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "interactivit",
+		"word": "Interactivi",
+		"meaning": "双方向性（そうほうこうせい）、インタラクティビティ",
+		"etymology": [
+			"Latin inter- + agere (to act)"
+		],
+		"concept": "Mutual action",
+		"thinking": "作品と鑑賞者が「間（Inter-）」で「行動（Agere）」し合う。一方が与え、他方が受け取るだけの沈黙を破り、共犯関係となって物語を編み上げていく、開かれた芸術の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "readymade_ad",
+		"word": "Readymade",
+		"meaning": "レディメイド、既成品（きせいひん）の芸術",
+		"etymology": [
+			"Ready + Made"
+		],
+		"concept": "Found object as art",
+		"thinking": "すでに「作られて（Made）」そこに「あった（Ready）」便器や自転車の車輪。作者の『感性』ではなく、それを芸術として『名指す（選択する）』ことの冷徹な知性こそが、芸術の概念を根底から覆す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "conceptual_a",
+		"word": "Concept Art",
+		"meaning": "概念（がいねん）芸術（げいじゅつ）、コンセプチュアル・アート",
+		"etymology": [
+			"Latin con- + capere (to take together)"
+		],
+		"concept": "Idea is the art",
+		"thinking": "形や色ではなく、「考え（Concept）」そのものを作品とする。肉体（物質）としての美は滅びても、一つの『問い』として心に残り続ける。目に見えぬ美を「捉えよう（Capere）」とする知の極北。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "minimalism_a",
+		"word": "Minimalism",
+		"meaning": "ミニマリズム、最小主義（さいしょうしゅぎ）",
+		"etymology": [
+			"Latin minimus (smallest)"
+		],
+		"concept": "Using simplest elements",
+		"thinking": "「最小（Minimus）」の要素まで削ぎ落とす。余分な意味、過剰な情熱を捨て、冷徹な『物質そのもの』の貌を見つめる。空白の中にこそ、無限の響きを見出そうとする沈黙の情熱。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "abstraction_a",
+		"word": "Abstraction",
+		"meaning": "抽象（ちゅうしょう）",
+		"etymology": [
+			"Latin ab- + trahere (to draw away)"
+		],
+		"concept": "Pulling away from reality",
+		"thinking": "具体的な姿形から、本質を「引き（Trahere）」「離す（Ab-）」。光、線、形。それら純粋な要素の舞踏によって、私たちの網膜を越えて直接「魂」へと干渉しようとする、知的な超越の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "expression_ad",
+		"word": "Expression",
+		"meaning": "表現（ひょうげん）、表出（ひょうしゅつ）",
+		"etymology": [
+			"Latin ex- + premere (to press)"
+		],
+		"concept": "Pressing out inner world",
+		"thinking": "内側に秘めた情熱や苦悩を、外の世界へと力強く「押し（Press）」「出す（Ex-）」。心の奥底にある名状しがたき叫びを、色や音という名の肉体に変容させる、魂の純化作用。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "realism_adv_",
+		"word": "Realism",
+		"meaning": "写実主義（しゃじつしゅぎ）、レアリスム",
+		"etymology": [
+			"Latin res (thing/matter)"
+		],
+		"concept": "Depicting world as is",
+		"thinking": "「もの（Res）」の本質に寄り添う。夢物語を語らず、冷徹な現実、時には目を背けたくなるような真実を、そのままの貌で提示する。世界に対する、誠実で残酷なほどに真っ直ぐな眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "stylization_",
+		"word": "Stylization",
+		"meaning": "様式化（ようしきか）、スタイライゼーション",
+		"etymology": [
+			"Greek stylos (pillar/writing tool/style)"
+		],
+		"concept": "Representing in non-real way",
+		"thinking": "現実をありのままに描くのではなく、独自の「流儀（Style）」という名のフィルターを通し、理想化され、記号化された貌へと昇華させる。現実を『記号の園』へと誘う、意図的な変奏。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "idealization_",
+		"word": "Idealization",
+		"meaning": "理想化（りそうか）",
+		"etymology": [
+			"Greek idea (form/pattern)"
+		],
+		"concept": "Representing in perfect form",
+		"thinking": "欠点のある現実を、魂の「雛形（Idea）」へと近づける。汚れを払い、均衡を整え、この世ならぬ完全無欠な貌を現出させる。地上の生を、天上の光で照らそうとする祈りの美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "classicism_a",
+		"word": "Classicism",
+		"meaning": "古典（こてん）主義（しゅぎ）",
+		"etymology": [
+			"Latin classis (rank/class)"
+		],
+		"concept": "Adherence to ancient models",
+		"thinking": "最高級の「階級（Class）」に属する、過去の規範。調和、秩序、節度。三千年前から変わらぬ普遍的な美の掟を仰ぎ、時代を越えた『永遠の静寂』に帰依しようとする、気高き回顧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "romanticism_a",
+		"word": "Romanticism",
+		"meaning": "ロマン主義（しゅぎ） (美学)",
+		"etymology": [
+			"Old French romanz"
+		],
+		"concept": "Focus on emotion/nature",
+		"thinking": "冷徹な秩序への反乱。嵐のような情熱、夜の闇、野生の自然、そして名状しがたき不条理。理性の物差しでは測れない、魂の震えそのものを最高価値に置く、激しき反抗の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "naturalism_ad",
+		"word": "Naturalism",
+		"meaning": "自然主義（しぜんしゅぎ）",
+		"etymology": [
+			"Latin natura (birth/nature)"
+		],
+		"concept": "Close observation of nature",
+		"thinking": "一切の粉飾を廃し、生命の「生い立ち（Natura）」を科学者のような冷徹な眼差しで描く。美しさよりも「真実（事実）」を優先し、人間の泥臭い本質さえも白日の下に晒し出す、徹底した実証の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "symbolism_ad_",
+		"word": "Symbolism",
+		"meaning": "象徴主義（しょうちょうしゅぎ）",
+		"etymology": [
+			"Greek symbolon (token/contract)"
+		],
+		"concept": "Suggesting ideas via symbols",
+		"thinking": "言葉や形は「徴（Symbol）」に過ぎない。現実世界は一つの巨大な神殿であり、私たちはその記号の森を彷徨いながら、目に見えない絶対的な真実や霊的な響きを「予感」する。隠喩に満ちた夢の芸術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "modernism_ad_",
+		"word": "Modernism",
+		"meaning": "モダニズム (芸術)",
+		"etymology": [
+			"Latin modo (just now)"
+		],
+		"concept": "Rejecting past traditions",
+		"thinking": "「たった今（Modo）」という激動に立ち向かう。過去の遺産を焼き払い、全く新しい言葉、全く新しい色彩で、崩壊し再構築される現代という名の断面を捉えようとした、知性の決死の覚悟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "postmodern_ar",
+		"word": "Postmodern A",
+		"meaning": "ポストモダン・アート",
+		"etymology": [
+			"Post- + Modern"
+		],
+		"concept": "Mixing styles after modern",
+		"thinking": "「大きな物語」が終わった後（Post-）。高貴な芸術も俗な玩具も、すべてを等価に並べ、遊び心と皮肉を持ってかき混ぜる。中心のない、輝かしき断片たちの乱痴気騒ぎとしての芸術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "sublime_kant",
+		"word": "The Sublime",
+		"meaning": "崇高（すうこう） (カント等)",
+		"etymology": [
+			"Latin sub- (up to) + limen (threshold)"
+		],
+		"concept": "Overwhelming greatness",
+		"thinking": "自分の想像力の「限界（Limen）」の「すぐ下（Sub-）」まで迫り、ついにはそれを突き破るような圧倒的な巨大さ。美しさという快感を超え、戦慄と畏怖を呼び起こす、宇宙的な「力」の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "judgment_art",
+		"word": "Judgement",
+		"meaning": "判断（はんだん）、趣味（しゅみ）判断（はんだん）",
+		"etymology": [
+			"Latin judicare (to judge)"
+		],
+		"concept": "Determining beauty",
+		"thinking": "「これは美しい」という宣言。それは単なる個人的な好みではなく、世界中の人々に「そうであろう？」と同意を求める、普遍的なコミュニケーションの試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "sensus_commu",
+		"word": "Sensus Comm",
+		"meaning": "共通（きょうつう）感覚（かんかく）",
+		"etymology": [
+			"Latin sensus + communis"
+		],
+		"concept": "Shared aesthetic sense",
+		"thinking": "「みんな（Communis）」が持っている「感じ方（Sensus）」。言葉を超えて、美しいものを美しいと分かち合えるという、人類の魂の地下茎に流れる根源的な共感の可能性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "melancholy_a",
+		"word": "Melancholy",
+		"meaning": "メランコリー、憂鬱（ゆううつ）の美学",
+		"etymology": [
+			"Greek melas (black) + khole (bile)"
+		],
+		"concept": "Sadness as artistic source",
+		"thinking": "「黒い（Melas）」「胆汁（Khole）」。失われたものへの思慕、拭えぬ孤独、そして生のはかなさ。その淀んだ哀しみこそが、最も深く、最も透明な表現を産み出すという、美のパラドックス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "nostalgia_art",
+		"word": "Nostalgia",
+		"meaning": "郷愁（きょうしゅう）、ノスタルジー",
+		"etymology": [
+			"Greek nostos (homecoming) + algos (pain)"
+		],
+		"concept": "Longing for the past",
+		"thinking": "「家（Nostos）」へ帰りたいという「痛み（Algos）」。二度と戻れぬ時間、失われた楽園への激しい渇望。その『欠落』を埋めるために産まれる、世界の最も優しい記憶の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "transience_a",
+		"word": "Transience",
+		"meaning": "無常（むじょう）、はかなさ",
+		"etymology": [
+			"Latin trans- + ire (to go)"
+		],
+		"concept": "State of passing away",
+		"thinking": "「過ぎ（Trans-）」「去る（Ire）」こと。桜のように、放たれた矢のように、この世のすべては移ろい、消えていく。その『消え去る瞬間の輝き』を愛でる、日本的な、あるいは普遍的な滅びの美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "immortality_",
+		"word": "Immortality",
+		"meaning": "不朽（ふきゅう）、不滅（ふめつ）",
+		"etymology": [
+			"Latin im- (not) + mortalis"
+		],
+		"original_statement": "The quest for eternal art.",
+		"concept": "The victory over time",
+		"thinking": "「死すべき定め（Mortalis）」では「ない（Im-）」。私たちの肉体は土に還っても、この一筋の線、この一つの調べは、数百年後の誰かの魂を震わせ続ける。芸術という名の、死を克服するための唯一の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵を、感性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と芸術哲学の極致へ。"
+			]
+		},
+		"example": "Aesthetics explores the nature of beauty and art."
 	}
 ];
