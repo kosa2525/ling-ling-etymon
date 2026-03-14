@@ -321565,5 +321565,18 @@ const WORDS = [
    "original_statement": "From Latin memorialis 'belonging to memory'."
   },
   "concept": "Belonging to memory (「。。、。忘れ。、。、」。去ら。れる。、。こと。を、。、。拒。絶。し、。、。、。一。、。つの。、。、。石。や。、。、「。。、。、。言葉。、。、。、」。の中に。、。、。、。、永久。に、。、。、。その。、。魂。。を、。、。、。、。刻（。きざ）。。、。み。。、。付け。。、。た、。、。、。、峻烈な。、。、。、。証（あかし）。、)"
+ },
+ {
+  "id": "locus",
+  "word": "Locus",
+  "meaning": "軌跡、点の動いた跡。",
+  "era": "Latin locus",
+  "etymology": {
+   "components": [
+    "locus (place)"
+   ],
+   "original_statement": "From Latin locus 'place'."
+  },
+  "concept": "The place of movement (「。。、。、点。、。、」。が、。、。、。、世界。を、。、。、駆（。か）。。、。け。。、抜（。ぬ）。。、けた。。、。、。、。、消す。、。ことのでき。ない。。、。、魂。、。、。、。の、。、足。、。跡。、。、。それは、。、。、。過去。、。と、。、未来。を、。、。繋（。つな）。。ぐ。。、。、。、一。、。条の。、。、。、光。、。、。の、。、。線。、)"
  }
 ];
