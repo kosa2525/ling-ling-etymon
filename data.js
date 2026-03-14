@@ -325177,5 +325177,125 @@ const WORDS = [
 				"知の構造を解き明かす。"
 			]
 		}
+	},
+	{
+		"id": "intractability",
+		"word": "Intractability",
+		"meaning": "手に追えなさ、難解さ",
+		"era": "Latin in- + tractare",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"tractare (to handle / manage)"
+			],
+			"original_statement": "From Latin intractabilis 'not to be handled / unmanageable'."
+		},
+		"concept": "Impossible to handle (手に負えぬ深淵、拒絶する難問)",
+		"thinking": "「扱う（Tract）」ことが「できない（In-）」。答えはあるはずなのに、宇宙の寿命をかけても計算が終わらない、計算不可能な壁。人間の知性の限界を突きつける、世界の傲慢なまでの深遠さです。",
+		"aftertaste": "手に負えないものがあるからこそ、知性はより高く飛ぼうとします。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "polynomial_words",
+		"word": "Polynomial",
+		"meaning": "多項式の、多項時間の",
+		"era": "Greek poly- + Latin nomen",
+		"etymology": {
+			"components": [
+				"polys (many)",
+				"nomen (name / term)"
+			],
+			"original_statement": "From Greek polys 'many' + Latin nomen 'name / term'."
+		},
+		"concept": "Scaling with many names (多くの名を纏いし成長、現実的な解決可能域)",
+		"thinking": "「多くの（Poly）」「名（Nomen）」。問題のサイズが大きくなっても、計算時間が緩やかにしか増えない理想的な状態。現実的な知性が、有限の時間内で到達できる最大の領域。それは『手に届く真理』の境界線です。",
+		"aftertaste": "緩やかな成長こそが、持続可能な成功の鍵です。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "exponential_words",
+		"word": "Exponential",
+		"meaning": "指数の、急激な",
+		"era": "Latin ex- + ponere",
+		"etymology": {
+			"components": [
+				"ex- (out)",
+				"ponere (to place)"
+			],
+			"original_statement": "From Latin exponentem 'putting out', from ex- 'out' + ponere 'to place'."
+		},
+		"concept": "Placing out of bounds (枠を越えて置き去る、爆発的な増殖)",
+		"thinking": "「外へ（Ex）」「置く（Pon）」。少しの変化が、瞬時にして制御不能な巨大さへと膨れ上がる恐怖と神秘。一歩進むたびに世界が二倍、三倍と書き換わっていく、爆発する創造性（あるいは破壊）。",
+		"aftertaste": "小さな変化を甘く見ないで。それはいつか宇宙を飲み込む力になります。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "np_completeness",
+		"word": "NP-completeness",
+		"meaning": "NP完全",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"NP (Non-deterministic Polynomial)",
+				"complete (full / total)"
+			],
+			"original_statement": "Coined by Stephen Cook in 1971 for the hardest problems in the class NP."
+		},
+		"concept": "The hardest of the possible (可能性の中の最強、難問の王座)",
+		"thinking": "あらゆる偶然性が許されてもなお、解決が極めて困難な階層。もしこの中の一つでも簡単に解ければ、世界のすべての謎（NP）が解明されてしまうという、禁断のパスワードのような存在。知性のフロンティアの最前線です。",
+		"aftertaste": "最強の難問は、すべての問題を解き明かすための鍵でもあります。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "determinism_non",
+		"word": "Non-determinism",
+		"meaning": "非決定性、不確定性",
+		"era": "Latin non- + determinism",
+		"etymology": {
+			"components": [
+				"non- (not)",
+				"determinism"
+			],
+			"original_statement": "The absence of determinism, allowing for multiple possible next steps."
+		},
+		"concept": "Garden of forking paths (分岐する庭園、あらゆる可能性の同時存在)",
+		"thinking": "「決定（Determine）」することを「拒む（Non-）」。一つの原因から、無数の未来が同時に、かつ奔放に生まれる可能性。選び取る前の、すべてが重なり合った最強の自由。混沌としているからこそ、そこには奇跡の入り込む余地があります。",
+		"aftertaste": "定まっていない。それは、あなたが自由に選べるということです。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
 	}
 ];
