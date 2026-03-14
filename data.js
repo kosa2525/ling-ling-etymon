@@ -405594,5 +405594,85 @@ const WORDS = [
 			]
 		},
 		"example": "Renaissance humanism emphasized the value and agency of human beings."
+	},
+	{
+		"id": "schrodinger",
+		"word": "Schrodinge",
+		"meaning": "シュレーディンガー方程式（ほうていしき）",
+		"etymology": [
+			"Erwin Schrodinger"
+		],
+		"concept": "Basic equation of quantum",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "原子の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子化学と計算化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry applies quantum mechanics to chemical systems."
+	},
+	{
+		"id": "wavefunctio",
+		"word": "Wavefunct",
+		"meaning": "波動（はどう）関数（かんすう）",
+		"etymology": [
+			"Wave + Latin functio"
+		],
+		"concept": "Mathematical description of quantum state",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "原子の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子化学と計算化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry applies quantum mechanics to chemical systems."
+	},
+	{
+		"id": "orbital_adv",
+		"word": "Orbital",
+		"meaning": "軌道（きどう）、オービタル",
+		"etymology": [
+			"Latin orbis (circle)"
+		],
+		"concept": "Region of electron probability",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "原子の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子化学と計算化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry applies quantum mechanics to chemical systems."
+	},
+	{
+		"id": "hybridizati",
+		"word": "Hybridize",
+		"meaning": "交雑（こうざつ）、（軌道（きどう）の）混成（こんせい）",
+		"etymology": [
+			"Latin hybrida"
+		],
+		"concept": "Mixing atomic orbitals",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "原子の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子化学と計算化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry applies quantum mechanics to chemical systems."
 	}
 ];
