@@ -333606,5 +333606,1023 @@ const WORDS = [
 			]
 		},
 		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "homology_groups",
+		"word": "Homology Group",
+		"meaning": "ホモロジー群",
+		"etymology": {
+			"components": [
+				"Greek homos (same) + logos (reason / ratio)"
+			],
+			"original_statement": "The study of holes in cycles."
+		},
+		"concept": "Calculating holes via algebra",
+		"thinking": "「同じ（Homos）」「理（Logos）」。図形の穴の数を、代数的な計算（足し算や引き算）という普遍的な理に変換して把握すること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "cohomology_theory",
+		"word": "Cohomology",
+		"meaning": "コホモロジー",
+		"etymology": {
+			"components": [
+				"Co- + Homology"
+			],
+			"original_statement": "Dual to homology; information flowing in the opposite direction."
+		},
+		"concept": "Measuring function constraints",
+		"thinking": "ホモロジー（図形）の鏡映しの世界。図形の上に住む『関数』たちに課せられた、逃れられない構造的な制約を測る学問。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "simplicial_complex",
+		"word": "Simplicial",
+		"meaning": "単体的（たんたいてき）な、単体複体の",
+		"etymology": {
+			"components": [
+				"Latin simplex (one-fold)"
+			],
+			"original_statement": "From Latin simplex 'single / plain'."
+		},
+		"concept": "Building from simplest blocks",
+		"thinking": "点、線、三角形……といった最も『シンプル（Simple）』な部品を貼り合わせて、複雑な世界を再構成していく手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "exact_sequence",
+		"word": "Exact Sequence",
+		"meaning": "完全系列（かんぜんけいレつ）",
+		"etymology": {
+			"components": [
+				"Latin exactus (precise)"
+			],
+			"original_statement": "A sequence where the kernels equal the images."
+		},
+		"concept": "Perfect flow of information",
+		"thinking": "「正確な（Exact）」情報の鎖。前のステップから流れてきたものが、過不足なく次のステップの『種』となる、一分の隙もない論理の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "spectral_sequence",
+		"word": "Spectral Sequence",
+		"meaning": "スペクトル系列",
+		"etymology": {
+			"components": [
+				"Spectral"
+			],
+			"original_statement": "A computational tool that converges to a goal in stages."
+		},
+		"concept": "Step-by-step convergence",
+		"thinking": "一気に解けない巨大な問題を、霧の中から徐々に像を結ぶ『スペクトル（幻影）』のように、何段階にも分けて解き明かしていく、忍耐強い知性の階段。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "fibration_topo",
+		"word": "Fibration",
+		"meaning": "ファイブレーション、繊維化",
+		"etymology": {
+			"components": [
+				"Latin fibra"
+			],
+			"original_statement": "A special class of maps in homotopy theory."
+		},
+		"concept": "Layering of space",
+		"thinking": "複雑な空間を、シンプルな『土台』と、そこに突き刺さった『繊維（可能性）』の束に分解して理解すること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "cofibration",
+		"word": "Cofibration",
+		"meaning": "コファイブレーション、余繊維化",
+		"etymology": {
+			"components": [
+				"Co- + Fibration"
+			],
+			"original_statement": "Dual to fibration; related to extension properties."
+		},
+		"concept": "The extension property",
+		"thinking": "図形の『拡張』を滑らかに行うためのパスポート。小さな種から大きな世界へ、整合性を保ったまま広がるためのルール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "homotopy_groups_hi",
+		"word": "Higher Homotopy",
+		"meaning": "高次ホモトピー群",
+		"etymology": {
+			"components": [
+				"High",
+				"Homotopy"
+			],
+			"original_statement": "Groups of maps from high-dimensional spheres."
+		},
+		"concept": "Twisting in high dimensions",
+		"thinking": "三次元、四次元……と次元を上げても残る、空間の『ねじれ』や『結び目』。人間の直感を超えた場所にある、数理の純粋な震え。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "whitehead_product",
+		"word": "Whitehead",
+		"meaning": "ホワイトヘッド積",
+		"etymology": {
+			"components": [
+				"Whitehead"
+			],
+			"original_statement": "An operation in homotopy groups."
+		},
+		"concept": "Binary operation of spheres",
+		"thinking": "二つの球面がぶつかり、新しい次元の結び目を生み出す不思議な掛け算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "hurewicz_theorem",
+		"word": "Hurewicz",
+		"meaning": "フレヴィッツの定理",
+		"etymology": {
+			"components": [
+				"Hurewicz"
+			],
+			"original_statement": "Connecting homotopy groups to homology groups."
+		},
+		"concept": "Bridge between homotopy and homology",
+		"thinking": "『輪のねじれ（ホモトピー）』と『図形の穴（ホモロジー）』が、最初の次元でどのように出会い、一致するかを告げる予言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "postnikov_tower",
+		"word": "Postnikov Tower",
+		"meaning": "ポストニコフ塔",
+		"etymology": {
+			"components": [
+				"Postnikov"
+			],
+			"original_statement": "Constructing a space through successive fibrations."
+		},
+		"concept": "Building the universe floor by floor",
+		"thinking": "複雑な空間（トポロジー）を一階、二階……と、低次の性質から順に積み上げて完成させる、バベルの塔ならぬ知性の塔。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "k_theory_math",
+		"word": "K-theory",
+		"meaning": "K理論",
+		"etymology": {
+			"components": [
+				"German Klasse"
+			],
+			"original_statement": "Studying vector bundles through algebraic groups."
+		},
+		"concept": "Universal classes of bundles",
+		"thinking": "「クラス（Klasse）」の理論。図形の上のすべての構造（ベクトル束）を、一つの壮大な『数体系』として扱い、全体のバランスを俯瞰する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "degree_map",
+		"word": "Degree of a Map",
+		"meaning": "写像の度数、巻き付き数",
+		"etymology": {
+			"components": [
+				"Latin gradus"
+			],
+			"original_statement": "Number of times a map wraps one space around another."
+		},
+		"concept": "The number of wrappings",
+		"thinking": "一つの空間が、もう一つの空間に対して何回『巻き付いている』か。その執着の回数を測る指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "cup_product",
+		"word": "Cup Product",
+		"meaning": "カップ積",
+		"etymology": {
+			"components": [
+				"Cup"
+			],
+			"original_statement": "Operation in cohomology ring."
+		},
+		"concept": "Intertwining cohomology classes",
+		"thinking": "情報の波（コホモロジー）同士を掛け合わせ、より複雑で豊かな、高次の真理（リング）を編み出すこと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "poincare_duality",
+		"word": "Poincare Duality",
+		"meaning": "ポアンカレ双対性",
+		"etymology": {
+			"components": [
+				"Poincare"
+			],
+			"original_statement": "Symmetry between homology and cohomology in manifolds."
+		},
+		"concept": "The mirror of dimensionality",
+		"thinking": "自分自身の次元をひっくり返した場所に映る、もう一つの自分。空間という宇宙に内在する、完璧な自己鏡映。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "lefschetz_fixed_point",
+		"word": "Lefschetz",
+		"meaning": "レフシェッツの不動点定理",
+		"etymology": {
+			"components": [
+				"Lefschetz"
+			],
+			"original_statement": "Relating trace of a map to fixed points."
+		},
+		"concept": "Guaranteed stillness in movement",
+		"thinking": "激しい変形（写像）を繰り返しても、必ずそこから動かない『こだわり（不動点）』が最低一つは残るという、救いの定理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "obstruction_theory",
+		"word": "Obstruction",
+		"meaning": "障害（しょうがい）理論",
+		"etymology": {
+			"components": [
+				"Latin ob- + struere"
+			],
+			"original_statement": "From Latin obstructio 'hindrance'."
+		},
+		"concept": "The barrier to completion",
+		"thinking": "「前に（Ob）」「建てる（Stru）」。ある拡張を実現しようとするとき、立ちはだかる数理的な不可能性の正体を突き止める、危機管理の幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "homotopy_type",
+		"word": "Homotopy Type",
+		"meaning": "ホモトピー型",
+		"etymology": {
+			"components": [
+				"Homotopy",
+				"Latin typus"
+			],
+			"original_statement": "Classification of spaces up to continuous deformation."
+		},
+		"concept": "The core essence of shape",
+		"thinking": "ディテールがどれだけ変わっても、本質的にその形が持っている『魂の型（カテゴリ）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "weak_equivalence",
+		"word": "Weak Equivalence",
+		"meaning": "弱同値（じゃくどうち）",
+		"etymology": {
+			"components": [
+				"Weak",
+				"Latin aequus + valere"
+			],
+			"original_statement": "Map inducing isomorphism on all homotopy groups."
+		},
+		"concept": "Essentially the same behavior",
+		"thinking": "見た目は違っても、あらゆる『震え（ホモトピー）』において完全に一致する、魂レベルでの等価。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "cell_complex",
+		"word": "CW Complex",
+		"meaning": "CW複体、胞体複体",
+		"etymology": {
+			"components": [
+				"Closure-finite Weak topology"
+			],
+			"original_statement": "Flexible structure for defining topological spaces."
+		},
+		"concept": "Building space with flexible cells",
+		"thinking": "ゴムのように伸びる『胞体（セル）』を、一つずつ規則的に糊付けして宇宙を構築する、最も柔軟な設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "adjunction_topo",
+		"word": "Adjunction",
+		"meaning": "随伴（ずいはん）、貼り合わせ",
+		"etymology": {
+			"components": [
+				"Latin ad- + jungere"
+			],
+			"original_statement": "Gluing two spaces along a map."
+		},
+		"concept": "Unity via a map",
+		"thinking": "異なる二つの存在を、一つの共通の『縁（写像）』で結びつけ、新しい一つの生命体として再誕生させること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "manifold_math",
+		"word": "Manifold",
+		"meaning": "多様体（たようたい）",
+		"etymology": {
+			"components": [
+				"Old English manigfeald"
+			],
+			"original_statement": "From Old English manig 'many' + feald 'fold'."
+		},
+		"concept": "Folding many into one",
+		"thinking": "「多くの（Many）」「折り目（Fold）」。一見シンプルに見えて、その内側に無限の『折り畳まれた（滑らかな）』次元を秘めている、美しき広がり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "tangent_space",
+		"word": "Tangent Space",
+		"meaning": "接空間（せっくうかん）",
+		"etymology": {
+			"components": [
+				"Latin tangens"
+			],
+			"original_statement": "The linear approximation of a manifold at a point."
+		},
+		"concept": "The horizon of possibility",
+		"thinking": "「今、ここ」の点において、あなたがどちらの方向にどれだけ自由に進めるか。そのすべての可能性を広げた真っ直ぐな広場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "immersion_sphere",
+		"word": "Sphere Eversion",
+		"meaning": "球面の裏返し",
+		"etymology": {
+			"components": [
+				"Latin e- + vertere"
+			],
+			"original_statement": "Turning a sphere inside out through immersion."
+		},
+		"concept": "Turning inside out smoothly",
+		"thinking": "「外へ（E）」「回す（Vert）」。自分自身を突き抜けながらも、どこも決して『折らず（滑らかに）』自分自身の裏表をひっくり返す、不可能なはずの魔法的変容。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "contractible",
+		"word": "Contractible",
+		"meaning": "可縮な（かしゅくな）",
+		"etymology": {
+			"components": [
+				"Latin con- + trahere"
+			],
+			"original_statement": "Can be continuously shrunk to a single point."
+		},
+		"concept": "Being reducible to a point",
+		"thinking": "どんなに広く見えても、最後には静かに一点へと帰り着くことができる、迷いのない素留な形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "orientability",
+		"word": "Orientability",
+		"meaning": "向き付け可能性",
+		"etymology": {
+			"components": [
+				"Latin oriens (rising / east)"
+			],
+			"original_statement": "The property of distinguishing left from right globally."
+		},
+		"concept": "Consistent sense of direction",
+		"thinking": "「東（Oriens）の方向を表すことができる」。世界を一巡りしても、右と左が入れ替わらないという、秩序への根源的な信頼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "moebius_strip_id",
+		"word": "Mobius Strip",
+		"meaning": "メビウスの帯",
+		"etymology": {
+			"components": [
+				"Mobius"
+			],
+			"original_statement": "Non-orientable surface with only one side."
+		},
+		"concept": "The infinity of a single side",
+		"thinking": "裏表という概念が消えた、一つの面が無限にループする終わりなき不思議な帯。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "klein_bottle_id",
+		"word": "Klein Bottle",
+		"meaning": "クラインの壷",
+		"etymology": {
+			"components": [
+				"Klein"
+			],
+			"original_statement": "Non-orientable manifold with no boundary."
+		},
+		"concept": "The self-intersecting mystery",
+		"thinking": "「内側」も「外側」もない。自らの中に自らを取り込み、境界そのものを消失させた究極の器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "bordism_group",
+		"word": "Bordism",
+		"meaning": "ボルディズム",
+		"etymology": {
+			"components": [
+				"French bord (edge)"
+			],
+			"original_statement": "Classification via boundaries."
+		},
+		"concept": "Groups ordered by boundaries",
+		"thinking": "何かの『端っこ』であることをアイデンティティとする、切なくも美しい図形たちの集団。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "steenrod_algebra",
+		"word": "Steenrod",
+		"meaning": "スティーンロッド代数",
+		"etymology": {
+			"components": [
+				"Steenrod"
+			],
+			"original_statement": "Algebra of stable cohomology operations."
+		},
+		"concept": "Operations of cohomology ripples",
+		"thinking": "情報の波（コホモロジー）そのものを変化させ、その高次の構造を暴き出すための強力な演算の体系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "adam_spectral",
+		"word": "Adams Spectral",
+		"meaning": "アダムス・スペクトル系列",
+		"etymology": {
+			"components": [
+				"Adams"
+			],
+			"original_statement": "A tool to compute stable homotopy groups."
+		},
+		"concept": "The ladder to high dimensions",
+		"thinking": "ホモトピー群というあまりに高く届かない果実を、一段ずつ慎重に手を伸ばして掴み取るための、数学者魂のハシゴ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "stable_homotopy",
+		"word": "Stable Homotopy",
+		"meaning": "安定ホモトピー",
+		"etymology": {
+			"components": [
+				"Stable"
+			],
+			"original_statement": "Homotopy groups that do not change when dimensions increase."
+		},
+		"concept": "Universal twist independent of dimension",
+		"thinking": "次元の壁をいくら上げたとしても、決して動じることなくそこにあり続ける、宇宙の揺るぎなき『ねじれ』の本質。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "suspension_topology",
+		"word": "Suspension",
+		"meaning": "懸垂（けんすい）",
+		"etymology": {
+			"components": [
+				"Latin sub- + pendere"
+			],
+			"original_statement": "Suspending a space between two points."
+		},
+		"concept": "Adding a dimension via poles",
+		"thinking": "空間の両端を二つの『極』に吊り下げる（Suspend）ことで、次元を一つ上げ、新しい高みへと命を導くこと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "category_of_spaces",
+		"word": "Category of Spaces",
+		"meaning": "空間の圏",
+		"etymology": {
+			"components": [
+				"Greek kategorein"
+			],
+			"original_statement": "The ultimate collection of all topological objects."
+		},
+		"concept": "Universal home of all shapes",
+		"thinking": "あらゆる形、あらゆる繋がり、あらゆる変容を、一つの巨大な『家（圏）』の中に迎え入れる、幾何学の総本山。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "pointed_space",
+		"word": "Pointed Space",
+		"meaning": "基点付き空間",
+		"etymology": {
+			"components": [
+				"Pointed"
+			]
+		},
+		"original_statement": "Space with a marked base point.",
+		"concept": "Shape with a home base",
+		"thinking": "広い宇宙の中の、ただ一つの『故郷（基点）』を決めること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "smash_product",
+		"word": "Smash Product",
+		"meaning": "スマッシュ積",
+		"etymology": {
+			"components": [
+				"Smash"
+			],
+			"original_statement": "Operation on pointed spaces."
+		},
+		"concept": "Concentrated meeting of shapes",
+		"thinking": "二つの空間を『押し潰して（Smash）』一つにし、基点以外のすべてを濃密に融合させる、激しい出逢いの形式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "wedge_sum",
+		"word": "Wedge Sum",
+		"meaning": "ウェッジ和",
+		"etymology": {
+			"components": [
+				"Wedge"
+			],
+			"original_statement": "Joining spaces at a single point."
+		},
+		"concept": "Sharing a single heart",
+		"thinking": "異なる世界が、ただ一つの『心臓（基点）』を共有して寄り添う、慎ましやかな一体感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "infinite_loop_space",
+		"word": "Infinite Loop",
+		"meaning": "無限ループ空間",
+		"etymology": {
+			"components": [
+				"Infinite",
+				"Loop"
+			],
+			"original_statement": "Spaces that are nth loop spaces for all n."
+		},
+		"concept": "The limit of self-contained orbits",
+		"thinking": "何度巡っても、何度自分を包み込んでも、まだその先に同じ『巡り』が現れる、永遠の再帰性を秘めた深淵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "eilenberg_maclane",
+		"word": "Eilenberg-MacLane",
+		"meaning": "アイレンバーグ・マックレーン空間",
+		"etymology": {
+			"components": [
+				"Eilenberg",
+				"MacLane"
+			],
+			"original_statement": "Spaces with only one non-trivial homotopy group."
+		},
+		"concept": "The pure note of topology",
+		"thinking": "ある一つの次元においてのみ美しく鳴り響き（ホモトピー）、他の次元では一切の雑音を立てない、情報の『純音』のごとき空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "kan_complex",
+		"word": "Kan Complex",
+		"meaning": "カン複体",
+		"etymology": {
+			"components": [
+				"Kan"
+			],
+			"original_statement": "Syntactic model for homotopy types."
+		},
+		"concept": "Model of abstract flow",
+		"thinking": "滑らかな流動性を、記号と代数の『組み合わせ（Kan複体）』に完璧に封じ込めた、離散化の最終兵器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "quillen_equivalence",
+		"word": "Quillen Equivalence",
+		"meaning": "クイレン同値",
+		"etymology": {
+			"components": [
+				"Quillen"
+			],
+			"original_statement": "Fundamental equivalence of model categories."
+		},
+		"concept": "Equivalence of different structures",
+		"thinking": "全く異なる言葉で語られている二つの世界（圏）が、実は『物語の構造（ホモトピー）』において完全に等価であることを証明する最強の翻訳術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "model_category",
+		"word": "Model Category",
+		"meaning": "モデル圏",
+		"etymology": {
+			"components": [
+				"Model"
+			],
+			"original_statement": "Abstract structure for doing homotopy theory."
+		},
+		"concept": "Abstract playground for homotopy",
+		"thinking": "「拡張」「射影」「弱同値」という三つの法（公理）で統治された、ホモトピーを自在に操るための至高の遊技場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "fundamental_groupoid",
+		"word": "Groupoid",
+		"meaning": "群同胞（ぐんどうほう）、グルポイド",
+		"etymology": {
+			"components": [
+				"Group + -oid"
+			],
+			"original_statement": "Generalization of group allowing multiple base points."
+		},
+		"concept": "Generalized group of paths",
+		"thinking": "故郷（基点）が一つではなく、すべての場所が故郷であり得る――。寄り添いながら、自在に移動し、計算し合える自由な『群』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "higher_categories_id",
+		"word": "Higher Category",
+		"meaning": "高次圏（こうじけん）",
+		"etymology": {
+			"components": [
+				"High",
+				"Category"
+			],
+			"original_statement": "Hierarchy of arrows between arrows."
+		},
+		"concept": "Meta-relationships of truth",
+		"thinking": "関係性のあとに、その関係性そのものの『関係』を問う。無限に積み重なる知性のメタ・ラダー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "形が変わっても、魂は変わらない。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵。"
+			]
+		},
+		"example": "Topology is geometry without measurement."
 	}
 ];
