@@ -324824,5 +324824,145 @@ const WORDS = [
 				"探求は続く。"
 			]
 		}
+	},
+	{
+		"id": "ionization",
+		"word": "Ionization",
+		"meaning": "電離、イオン化",
+		"era": "Greek ion",
+		"etymology": {
+			"components": [
+				"ion (going / traveller)"
+			],
+			"original_statement": "From Greek ion 'going', neuter present participle of ienai 'to go'."
+		},
+		"concept": "The act of going forth (旅立ちとしての乖離、自由な電荷)",
+		"thinking": "束縛されていた電子が、エネルギーを得て「旅立つ（Ion）」。中性を脱し、自らの極性を持って動き出すこと。それは、慣れ親しんだ平穏を捨てて、自立した存在として宇宙の海へ漕ぎ出すプロセスです。",
+		"aftertaste": "束縛を振り切り、自分だけの『色（電気）』を持って歩き出そう。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
+	},
+	{
+		"id": "tokamak",
+		"word": "Tokamak",
+		"meaning": "トカマク型",
+		"era": "Russian acronym",
+		"etymology": {
+			"components": [
+				"toroidal'naya kamera s magnitnymi katushkami"
+			],
+			"original_statement": "Acronym of Russian phrase meaning 'toroidal chamber with magnetic coils'."
+		},
+		"concept": "Magnetic sanctuary (磁気による聖域、囚われの太陽)",
+		"thinking": "ドーナツ状の容器に仕掛けられた磁気の檻。一億度の太陽を地上に再現するための「器」。触れればすべてを溶かす炎を、磁力という『見えない手』で優しく、しかし強固に包み込む知性の結晶です。",
+		"aftertaste": "強すぎる情熱を、冷静な知性の檻で優雅にコントロールして。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
+	},
+	{
+		"id": "reconnection",
+		"word": "Magnetic Reconnection",
+		"meaning": "磁気リコネクション、磁気再結合",
+		"era": "Modern terminology",
+		"etymology": {
+			"components": [
+				"re- (again)",
+				"connectere (to bind together)"
+			],
+			"original_statement": "Modern scientific term for the process where magnetic field lines snap and join again."
+		},
+		"concept": "Violent transformation of ties (絆の再編、閃光を放つ切断)",
+		"thinking": "引き裂かれた磁力線が、爆発的なエネルギーを放ちながら「再び（Re）」「結びつく（Connect）」。古い絆が壊れ、新しい繋がりが生まれる瞬間の痛みと輝き。それは宇宙規模の『決断』であり、星々の命を震わせます。",
+		"aftertaste": "別れと再会。その激動が、あなたの魂に強大なエネルギーをもたらします。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
+	},
+	{
+		"id": "langmuir_probe",
+		"word": "Langmuir Probe",
+		"meaning": "ラングミュア・プローブ",
+		"era": "Named after Irving Langmuir",
+		"etymology": {
+			"components": [
+				"Irving Langmuir (Chemist/Physicist)"
+			],
+			"original_statement": "Named after Irving Langmuir, who won the Nobel Prize for surface chemistry."
+		},
+		"concept": "Messenger of the void (深淵の使者、プラズマの触覚)",
+		"thinking": "熱きプラズマの中に差し込まれた小さな針。見えない環境の温度や密度を測るための、知性の「指先」。過酷な現場に自らを投じ、静かに情報を収集するその姿は、真実を求める探求者のストイックな献身そのものです。",
+		"aftertaste": "未知の世界に飛び込み、まずはそっとその肌触りを感じてみて。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
+	},
+	{
+		"id": "debye_length",
+		"word": "Debye Length",
+		"meaning": "デバイ長",
+		"era": "Named after Peter Debye",
+		"etymology": {
+			"components": [
+				"Peter Debye (Physicist)"
+			],
+			"original_statement": "Named after physical chemist Peter Debye, who described the shielding of electric charges."
+		},
+		"concept": "The reach of influence (影響力の届く範囲、遮蔽の距離)",
+		"thinking": "電気がその存在を誇示できる、短い「距離」。それを過ぎれば、周囲の群衆に遮られ、その力は消えてしまう。個人の声が届く範囲、あるいは一つの愛が影響を及ぼせる限界。それは、プラズマという社会が持つ『優しき隠蔽』です。",
+		"aftertaste": "すべての人に届かなくてもいい。手の届く範囲の『熱量』を大切に。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
+	},
+	{
+		"id": "quasineutrality",
+		"word": "Quasineutrality",
+		"meaning": "準中性",
+		"era": "Latin quasi + neutral",
+		"etymology": {
+			"components": [
+				"quasi (as if)",
+				"neutralis (neuter / impartial)"
+			],
+			"original_statement": "From Latin 'quasi-' (as if) + 'neutral'."
+		},
+		"concept": "Peace in chaos (カオスの中の平穏、均衡する嵐)",
+		"thinking": "ミクロでは激しい電荷が飛び交っていても、マクロで見れば「あたかも（Quasi）」「中立（Neutral）」であるかのような調和。対立する要素が激しくぶつかり合いながらも、全体として一つの静寂を保っている、奇跡的なバランス状態を指します。",
+		"aftertaste": "心の激動を飲み込み、穏やかな表情で世界と対峙する強さを。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
 	}
 ];
