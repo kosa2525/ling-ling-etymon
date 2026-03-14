@@ -340466,5 +340466,992 @@ const WORDS = [
 			]
 		},
 		"example": "Numbers are the secrets of the universe written in a hidden language."
+	},
+	{
+		"id": "laplace_equation",
+		"word": "Laplace Equation",
+		"meaning": "ラプラス方程式",
+		"etymology": {
+			"components": [
+				"Laplace"
+			],
+			"original_statement": "Steady-state potential equation."
+		},
+		"concept": "Perfect balance and harmony",
+		"thinking": "どこにも突出がなく、周囲の平均と完璧に調和している状態の方程式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "poisson_equation",
+		"word": "Poisson Equation",
+		"meaning": "ポアソン方程式",
+		"etymology": {
+			"components": [
+				"Poisson"
+			],
+			"original_statement": "Laplace with source."
+		},
+		"concept": "Response to a source",
+		"thinking": "静寂に源が加わったもの。重力や電場が源に応える様を司る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "heat_equation",
+		"word": "Heat Equation",
+		"meaning": "熱伝導方程式",
+		"etymology": {
+			"components": [
+				"Heat"
+			],
+			"original_statement": "Temperature distribution evolution."
+		},
+		"concept": "Diffusion and decay",
+		"thinking": "鋭い尖りは丸まり、不均一なものは均一へと溶けていく忘却の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "wave_equation",
+		"word": "Wave Equation",
+		"meaning": "波動方程式",
+		"etymology": {
+			"components": [
+				"Wave"
+			],
+			"original_statement": "Wave propagation."
+		},
+		"concept": "Propagation of information",
+		"thinking": "一点の震えが、消えることなく未来へと運ばれる記憶の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "dirichlet_boundary",
+		"word": "Dirichlet Boundary",
+		"meaning": "ディリクレ境界条件",
+		"etymology": {
+			"components": [
+				"Dirichlet"
+			],
+			"original_statement": "Fixed edge values."
+		},
+		"concept": "Prescribed edges",
+		"thinking": "世界の縁に、動かすことのできない不変の価値を与える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "neumann_boundary",
+		"word": "Neumann Boundary",
+		"meaning": "ノイマン境界条件",
+		"etymology": {
+			"components": [
+				"Neumann"
+			],
+			"original_statement": "Fixed flux at edge."
+		},
+		"concept": "Prescribed flow at edges",
+		"thinking": "境界そのものではなく、そこを通り抜ける風の勢いを規定。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "elliptic_pde",
+		"word": "Elliptic PDE",
+		"meaning": "楕円型偏微分方程式",
+		"etymology": {
+			"components": [
+				"Greek elleipsis"
+			],
+			"original_statement": "Steady states."
+		},
+		"concept": "Static harmony",
+		"thinking": "時間が止まった、あるいは無限の時間を経たあとに残る完璧な均衡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "parabolic_pde",
+		"word": "Parabolic PDE",
+		"meaning": "放物型偏微分方程式",
+		"etymology": {
+			"components": [
+				"Greek parabole"
+			],
+			"original_statement": "Diffusion processes."
+		},
+		"concept": "Unidirectional evolution",
+		"thinking": "過去には戻れない、拡散という一方向の時間の流れ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "hyperbolic_pde",
+		"word": "Hyperbolic PDE",
+		"meaning": "双曲型偏微分方程式",
+		"etymology": {
+			"components": [
+				"Greek hyperbole"
+			],
+			"original_statement": "Wave phenomena."
+		},
+		"concept": "Dynamic wave propagation",
+		"thinking": "有限の速さで情報が走り回り、跳ね返り、重なり合う躍動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "sobolev_norm",
+		"word": "Sobolev Norm",
+		"meaning": "ソボレフ・ノルム",
+		"etymology": {
+			"components": [
+				"Sobolev"
+			],
+			"original_statement": "Smoothness with derivatives."
+		},
+		"concept": "Energy of derivatives",
+		"thinking": "値の大きさだけでなく、震えを含めた関数の真のエネルギーを測る定規。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "weak_solution",
+		"word": "Weak Solution",
+		"meaning": "弱解",
+		"etymology": {
+			"components": [
+				"Weak"
+			],
+			"original_statement": "Generalization of solutions."
+		},
+		"concept": "The solution that endures impact",
+		"thinking": "微分不能な衝撃さえも、積分という包容力で受け入れる知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "fundamental_solution",
+		"word": "Fundamental Sol",
+		"meaning": "基本解",
+		"etymology": {
+			"components": [
+				"Fundamental"
+			],
+			"original_statement": "Point source response."
+		},
+		"concept": "The soul of the equation",
+		"thinking": "一点の衝撃に対し、方程式がどのような波紋を広げるか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "greens_function",
+		"word": "Green's Function",
+		"meaning": "グリーン関数",
+		"etymology": {
+			"components": [
+				"Green"
+			],
+			"original_statement": "Inhomogeneous solver."
+		},
+		"concept": "The reaction function",
+		"thinking": "入力を結果へと繋ぎ直すための、空間の反応のレシピ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "maximum_principle_pde",
+		"word": "Maximum Principle",
+		"meaning": "最大値原理",
+		"etymology": {
+			"components": [
+				"Latin maximum"
+			],
+			"original_statement": "Max values on boundary."
+		},
+		"concept": "Inherent stability",
+		"thinking": "内側では常に平均を守り、極端な現象は必ず外縁からやってくる理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "viscosity_solution",
+		"word": "Viscosity Solution",
+		"meaning": "粘性解",
+		"etymology": {
+			"components": [
+				"Latin viscosus"
+			],
+			"original_statement": "Generalized HJ solutions."
+		},
+		"concept": "Ordering through friction",
+		"thinking": "微かな摩擦を仮想的に導入し、カオスから唯一の正解を選ぶ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "singular_perturbation",
+		"word": "Singular Perturb",
+		"meaning": "特異摂動",
+		"etymology": {
+			"components": [
+				"Latin perturbare"
+			],
+			"original_statement": "Equation-changing perturbation."
+		},
+		"concept": "Small changes with massive effects",
+		"thinking": "微かな揺らぎが前提を覆すような、繊細で危うい変化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "boundary_layer",
+		"word": "Boundary Layer",
+		"meaning": "境界層",
+		"etymology": {
+			"components": [
+				"Boundary"
+			],
+			"original_statement": "Region of rapid change."
+		},
+		"concept": "The thin skin of change",
+		"thinking": "壁の近くで劇的に変化する薄い膜。主流と境界の衝突。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "navier_stokes_adv",
+		"word": "Navier-Stokes",
+		"meaning": "ナヴィエ・ストークス方程式",
+		"etymology": [
+			"Navier",
+			"Stokes"
+		],
+		"original_statement": "Fluid dynamics eq.",
+		"concept": "The chaos of flow",
+		"thinking": "流体の持つ欲望と衝突を封じた、千年の数学の壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "shrodinger_eq",
+		"word": "Schrödinger Eq",
+		"meaning": "シュレーディンガー方程式",
+		"etymology": [
+			"Schrödinger"
+		],
+		"original_statement": "Quantum wave equation.",
+		"concept": "Evolution of possibilities",
+		"thinking": "存在の可能性（波）が漂い、重なり合う様を司る量子の原理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "burgers_equation",
+		"word": "Burgers' Equation",
+		"meaning": "バーガース方程式",
+		"etymology": [
+			"Burgers"
+		],
+		"original_statement": "Shock wave model.",
+		"concept": "Non-linear wave sharpening",
+		"thinking": "流れが自らを追い越し、不連続な壁へと尖る非線形の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "shock_wave_pde",
+		"word": "Shock Wave",
+		"meaning": "衝撃波",
+		"etymology": {
+			"components": [
+				"Shock",
+				"Wave"
+			],
+			"original_statement": "Discontinuous jump."
+		},
+		"concept": "The wall of velocity",
+		"thinking": "速度の差が極限まで凝縮され、不連続な壁となったもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "entropy_condition",
+		"word": "Entropy Condition",
+		"meaning": "エントロピー条件",
+		"etymology": {
+			"components": [
+				"Greek trope"
+			],
+			"original_statement": "Uniqueness of physical sol."
+		},
+		"concept": "Direction of time and stability",
+		"thinking": "物理的に許される答えだけを選び抜くための、自然の規律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "finite_element",
+		"word": "Finite Element",
+		"meaning": "有限要素法",
+		"etymology": {
+			"components": [
+				"Finite"
+			],
+			"original_statement": "Spatial partitioning method."
+		},
+		"concept": "Discretization of continuous truth",
+		"thinking": "滑らかな世界を小さな要素に分解し、パズルのように真理を組む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "singular_support",
+		"word": "Singular Support",
+		"meaning": "特異台",
+		"etymology": {
+			"components": [
+				"Singular"
+			],
+			"original_statement": "Distributive non-smooth set."
+		},
+		"concept": "The location of irregularity",
+		"thinking": "情報の滑らかさが失われた傷が生じている、その場所の記録。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "characteristics_method",
+		"word": "Method of Char",
+		"meaning": "特性曲線法",
+		"etymology": {
+			"components": [
+				"Greek kharakter"
+			],
+			"original_statement": "Path tracing for PDEs."
+		},
+		"concept": "Flow of the local truth",
+		"thinking": "霧の中から、情報が運ばれる唯一の道を見つけ出し進む手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "well_posedness",
+		"word": "Well-posedness",
+		"meaning": "適正さ",
+		"etymology": {
+			"components": [
+				"Well"
+			],
+			"original_statement": "Stable unique existence."
+		},
+		"concept": "The reliability of the system",
+		"thinking": "解が一意で安定していること。予言の最低限の前提条件。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "kdv_equation",
+		"word": "KdV Equation",
+		"meaning": "KdV方程式",
+		"etymology": [
+			"Korteweg",
+			"de Vries"
+		],
+		"original_statement": "Shallow water soliton.",
+		"concept": "The balance of non-linearity",
+		"thinking": "鋭くなろうとする力と広がろうとする力が打ち消し合う奇跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "soliton_wave_pde",
+		"word": "Soliton",
+		"meaning": "ソリトン",
+		"etymology": {
+			"components": [
+				"Latin solus"
+			],
+			"original_statement": "Stable wave packets."
+		},
+		"concept": "The lone particle of information",
+		"thinking": "孤独に、しかし堂々と形を崩さず走り抜ける情報の塊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "spectral_radius_pde",
+		"word": "Spectral Radius",
+		"meaning": "スペクトル半径",
+		"etymology": {
+			"components": [
+				"Spectrum"
+			],
+			"original_statement": "Max eigenvalue size."
+		},
+		"concept": "The bound of the spectral expansion",
+		"thinking": "固有値が広がる地平。システムの運命を司る領域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "gradient_descent_pde",
+		"word": "Gradient Descent",
+		"meaning": "勾配降下法",
+		"etymology": [
+			"Latin gradus"
+		],
+		"original_statement": "Steepest descent curve.",
+		"concept": "The path of least resistance",
+		"thinking": "険しい斜面を、重力に身を委ねるように最短で至る道。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "initial_value",
+		"word": "Initial Value",
+		"meaning": "初期値",
+		"etymology": {
+			"components": [
+				"Latin initium"
+			],
+			"original_statement": "Start conditions."
+		},
+		"concept": "The seed of the universe",
+		"thinking": "物語の始まり。その一点に、未来のすべてが完遂されている種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "well_posed",
+		"word": "Well-posed",
+		"meaning": "適切な",
+		"etymology": [
+			"Well"
+		],
+		"original_statement": "Posed for stability.",
+		"concept": "Reliable mathematical destiny",
+		"thinking": "問いが正しく立てられていること。答えがあると確約。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "stability_math",
+		"word": "Stability",
+		"meaning": "安定性",
+		"etymology": {
+			"components": [
+				"Latin stabilis"
+			],
+			"original_statement": "Robustness to perturbations."
+		},
+		"concept": "The power of staying the course",
+		"thinking": "外部の微かなノイズに対しても、自分を見失わずに居られる強靭さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "dispersion_pde",
+		"word": "Dispersion",
+		"meaning": "分散",
+		"etymology": {
+			"components": [
+				"Latin spargere"
+			],
+			"original_statement": "Frequency-based spreading."
+		},
+		"concept": "Sifting by frequency",
+		"thinking": "速さが音色ごとに違うため、虹のように時空へ広がる現象。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "diffusivity",
+		"word": "Diffusivity",
+		"meaning": "拡散係数",
+		"etymology": [
+			"Latin diffundere"
+		],
+		"original_statement": "Spreading rate.",
+		"concept": "Speed of spreading information",
+		"thinking": "一箇所に留まろうとせず、周囲へと溢れ出す勢いの強さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "vorticity_pde",
+		"word": "Vorticity",
+		"meaning": "渦度",
+		"etymology": {
+			"components": [
+				"Latin vortex"
+			],
+			"original_statement": "Velocity field curl."
+		},
+		"concept": "The local spin of the universe",
+		"thinking": "広大な流れの中の、極微な場所にある回転。嵐の種子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "energy_estimate",
+		"word": "Energy Estimate",
+		"meaning": "エネルギー評価",
+		"etymology": [
+			"Energy"
+		],
+		"original_statement": "Bounding energy totals.",
+		"concept": "Bounding the potential of change",
+		"thinking": "システムの力が、無から湧き出さないことを監視する理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "harmonic_map",
+		"word": "Harmonic Map",
+		"meaning": "調和写像",
+		"etymology": [
+			"Harmonic"
+		],
+		"original_statement": "Energy-minimizing map.",
+		"concept": "Minimal stress connection",
+		"thinking": "ムリがなく、最も歪みが少ない状態で結ばれた理想的な対応。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "minimal_surface_pde",
+		"word": "Minimal Surface",
+		"meaning": "極小曲面",
+		"etymology": [
+			"Latin minimus"
+		],
+		"original_statement": "Area-minimizing surface.",
+		"concept": "The perfect soap film",
+		"thinking": "限界まで面積を削ぎ落とした、ストイックな緊張の中の平穏。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "calabi_yau_pde",
+		"word": "Calabi-Yau",
+		"meaning": "カラビ・ヤウ多様体",
+		"etymology": [
+			"Calabi"
+		],
+		"original_statement": "Special Kahler variety.",
+		"concept": "The hidden garden of extra dimensions",
+		"thinking": "平坦に見えて、超次元のねじれを巧妙に隠し持った宇宙のパズル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "yang_mills_eq",
+		"word": "Yang-Mills",
+		"meaning": "ヤン・ミルズ方程式",
+		"etymology": [
+			"Yang"
+		],
+		"original_statement": "Gauge force laws.",
+		"concept": "Geometry of force fields",
+		"thinking": "力の源が、自らの歪みとどのように対話するかを司る宇宙の掟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "gauge_invariance",
+		"word": "Gauge Invariant",
+		"meaning": "ゲージ不変性",
+		"etymology": [
+			"Gauge"
+		],
+		"original_statement": "Physics under gauge.",
+		"concept": "Reality beyond labels",
+		"thinking": "視点をどのように変えても、真理はびくともしないという一貫性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "renormalization_pde",
+		"word": "Renormalization",
+		"meaning": "くりこみ",
+		"etymology": [
+			"Re- + Normal"
+		],
+		"original_statement": "Managing infinities.",
+		"concept": "Adjusting the lens to infinity",
+		"thinking": "無限大に対抗し、物差しを書き換えて、有限を救い出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "asymptotic_analysis",
+		"word": "Asymptotic",
+		"meaning": "漸近解析",
+		"etymology": {
+			"components": [
+				"Greek asymptotos"
+			],
+			"original_statement": "Trend towards horizons."
+		},
+		"concept": "The trend towards the horizon",
+		"thinking": "極限において何に近づいているか。その傾向を読み解く予言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "変化の理をその目に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "Equations describe the unfolding of the world."
 	}
 ];
