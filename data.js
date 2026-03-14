@@ -393473,5 +393473,825 @@ const WORDS = [
 			]
 		},
 		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "philology_ad",
+		"word": "Philology",
+		"meaning": "文献学（ぶんけんがく）、古典（こてん）言語学（げんごがく）",
+		"etymology": [
+			"Greek philos (loving) + logos"
+		],
+		"concept": "Love of learning and language",
+		"thinking": "「言葉（Logos）」を「愛する（Philo）」。千年の時を経た羊皮紙や石碑に刻まれた沈黙の声を、緻密な考証によって蘇らせる。人間がかつていかに考え、いかに世界と対峙したか、その『記憶の貌』を愛で、守るための高潔な知性の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "epigraphy_a",
+		"word": "Epigraphy",
+		"meaning": "碑文（ひぶん）研究（けんきゅう）、エピグラフィ",
+		"etymology": [
+			"Greek epi- (upon) + graphein"
+		],
+		"concept": "Study of inscriptions",
+		"thinking": "硬い石や金属の「上（Epi-）」に「刻まれた（Graphein）」声。紙のように燃えず、風化に耐え抜き、支配者の野望や名もなき者の祈りを現代へと届ける、最も強靭な歴史の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "etymology_a",
+		"word": "Etymology",
+		"meaning": "語源学（ごげんがく）",
+		"etymology": [
+			"Greek etymon (true meaning) + logos"
+		],
+		"concept": "Study of word origins",
+		"thinking": "言葉の「真実の貌（Etymon）」を追い求める。時代と共に擦り切れ、変容した現在の言葉の皮を剥ぎ、その深層に眠る原初の知覚、原初の感触を蘇らせる、知の考古学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "exegesis_adv",
+		"word": "Exegesis",
+		"meaning": "釈義（しゃくぎ）、エグゼジェーシス",
+		"etymology": [
+			"Greek ex- + hegeisthai (to lead)"
+		],
+		"concept": "Critical explanation of text",
+		"thinking": "言葉の中から意味を「外（Ex-）」へと「引き出す（Hegeis-）」。聖典や古典の真意という、隠された黄金を傷つけぬよう慎重に掘り起こす、文献学者の誠実な義務の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "codicology_",
+		"word": "Codicology",
+		"meaning": "写本（しゃほん）学（がく）",
+		"etymology": [
+			"Latin codex (book block) + logos"
+		],
+		"concept": "Study of books as objects",
+		"thinking": "「本（Codex）」という物理的な実体の理。綴じ方、余白の書き込み、素材。知識（中身）を運ぶ『肉体（貌）』としての書物を、一人の証言者として分析する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "codex_adv_v",
+		"word": "Codex",
+		"meaning": "写本（しゃほん）、コデックス",
+		"etymology": [
+			"Latin codex (trunk/block of wood)"
+		],
+		"concept": "Ancient manuscript in book form",
+		"thinking": "巻物（スクロール）を捨て、ページをめくる「木の塊（Codex）」の形を選んだ知の集積。情報の「検索性」と「保存性」を獲得した、文明の飛躍的な記憶装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "manuscript_a",
+		"word": "Manuscript",
+		"meaning": "手書き（てがき）本（ぼん）、マニュスクリプト",
+		"etymology": [
+			"Latin manus (hand) + scribere"
+		],
+		"concept": "Written by hand",
+		"thinking": "「手（Manus）」で「書かれた（Script）」。活字の均一性を拒み、一字一字に筆者の魂と疲れが刻み込まれた、世界にただ一つの『特異点』としての情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "palimpsest_",
+		"word": "Palimpsest",
+		"meaning": "パリンプセスト、重（じゅう）層（そう）写本（しゃほん）",
+		"etymology": [
+			"Greek palin (again) + psasthai (to scrape)"
+		],
+		"concept": "Reused writing surface",
+		"thinking": "羊皮紙を「削り取られ（Psasthai）」、その上に「再び（Palin）」書かれたテクスト。上書きされた記憶の下に、かつて消し去られた異端の智慧や古い詩が、幽霊のように浮かび上がる。歴史の重層的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "incunabula_",
+		"word": "Incunabula",
+		"meaning": "インキュナブラ、揺（ゆ）り籠（かご）本（ぼん）",
+		"etymology": [
+			"Latin incunabula (swaddling clothes/cradle)"
+		],
+		"concept": "Early printed books (pre-1501)",
+		"thinking": "印刷術という革命の「揺り籠（Cradle）」の中にあった初期の本。手書きの美しさを模倣しようと背伸びしつつ、大量生産という新しい時代の貌を見せ始めた、文明のあわいの輝き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "papyrologia",
+		"word": "Papyrology",
+		"meaning": "パピルス学（がく）",
+		"etymology": [
+			"Greek papuros (reed)"
+		],
+		"concept": "Study of papyrus documents",
+		"thinking": "「パピルス（草）」に刻まれた、名もなき人々の日常。買い物リスト、愚痴、恋文。歴史の教科書には載らない、泥臭くも愛おしい古代の『生の肌触り』を蘇らせる情報の断片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "ostracon_ad",
+		"word": "Ostracon",
+		"meaning": "オストラコン、陶片（とうへん）",
+		"etymology": [
+			"Greek ostrakon (shell/potsherd)"
+		],
+		"concept": "Pottery shard used for writing",
+		"thinking": "高価な紙の代わりに使われた「焼き物の欠片」。民主主義という名の、独裁者の追放（陶片追放）に使われた過酷な一票の重み。捨てられた破片（エッジ）から、真実を拾い集める文献学の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "rosetta_sto",
+		"word": "Decipher",
+		"meaning": "解読（かいどく） (失われた言語)",
+		"etymology": [
+			"De- + Cipher"
+		],
+		"concept": "Unlocking lost languages",
+		"thinking": "「暗号（Cipher）」を「解く（De-）」。何千年も誰にも読まれなかった沈黙の文字に、再び意味（音）を取り戻す。死者を蘇らせ、語らうことを可能にする、言語学者の究極の勝利。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "logogram_ad",
+		"word": "Logogram",
+		"meaning": "表意（ひょうい）文字（もじ）、ロゴグラム",
+		"etymology": [
+			"Greek logos (word) + gramma"
+		],
+		"concept": "Sign representing a word",
+		"thinking": "音ではなく、直接「概念（Logos）」を「描く（Gramma）」。山という文字が山の貌をしている、原初の具象的な知性。言葉がまだ絵と不可分だった頃の世界の捉え方。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "phonogram_a",
+		"word": "Phonogram",
+		"meaning": "表音（ひょうおん）文字（もじ）",
+		"etymology": [
+			"Greek phone (sound/voice) + gramma"
+		],
+		"concept": "Sign representing a sound",
+		"thinking": "意味を捨て、ただ「声（Phone）」だけを「写し取る（Gramma）」。この抽象化の飛躍によって、人間はあらゆる思考を数少ない記号の組み合わせで記述し、保存する力を手に入れた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "cuneiform_a",
+		"word": "Cuneiform",
+		"meaning": "楔形（くさびがた）文字（もじ）",
+		"etymology": [
+			"Latin cuneus (wedge) + forma"
+		],
+		"concept": "Wedge-shaped writing",
+		"thinking": "「楔（Cuneus）」のような「形（Form）」。人類最古の叙事詩、最初の法。粘土の板に力強く刻み込まれたその一撃が、文明という名の重厚な貌を産み落とした。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "hieroglyph_",
+		"word": "Hieroglyph",
+		"meaning": "聖刻（せいこく）文字（もじ）、ヒエログリフ",
+		"etymology": [
+			"Greek hieros (holy) + glyphein (carve)"
+		],
+		"concept": "Holy carved characters",
+		"thinking": "「聖なる（Hieros）」ものを「刻む（Glyph）」。神々へ奉げるための、美しく神秘的な意匠。絵の中に永遠の真理が宿っていると信じられた、魔法的な言語の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "proto_indo_",
+		"word": "PIE (Philol)",
+		"meaning": "印（いん）欧（おう）祖語（そご） (PIE)",
+		"etymology": [
+			"Proto-Indo-European"
+		],
+		"concept": "Hypothetical ancestor language",
+		"thinking": "比較言語学の刃によって、現代の無数の言葉の奥底に復元された「幻の母語（貌）」。記録は残っていないが、私たちの声の中に、その数千年前の残響は今も響き続けている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "comparative",
+		"word": "Comp Philol",
+		"meaning": "比較（ひきょう）文献学（ぶんけんがく）",
+		"etymology": [
+			"Latin comparare (to match/couple)"
+		],
+		"concept": "Comparing languages/texts",
+		"thinking": "異なる二つの言語やテクストを「並べ（Pair）」、その奥底に潜む『共通の祖先（貌）』を炙り出す。バラバラに見える人類の叡智を、一つの巨大な系統樹へと繋ぎ合わせる、理性の越境。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "stemmatolog",
+		"word": "Stemmatolog",
+		"meaning": "写本（しゃほん）系統学（けいとうがく）",
+		"etymology": [
+			"Greek stemma (garland/ancestor map) + logos"
+		],
+		"concept": "Genealogy of manuscripts",
+		"thinking": "「写本の系図（Stemma）」。書き写されるたびに混入する。間違い、あるいは意図的な改ざん。それらを「変異」と捉え、原本という名の『神の貌』へと遡っていく、文献の遺伝学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "archetype_w",
+		"word": "Archetype T",
+		"meaning": "祖本（そほん）、アーキタイプ (文献)",
+		"etymology": [
+			"Greek arkhe + typos"
+		],
+		"concept": "Lost common ancestor version",
+		"thinking": "現存するすべての写本の、失われた「源流（Arkhe）」。作者の最初の一滴。永遠に辿り着けないかもしれないが、その完璧な貌を夢見て、文献学者は日々破片を繋ぎ合わせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "critical_edi",
+		"word": "Crit Editio",
+		"meaning": "校訂（こうてい）版（ばん）、クリティカル・エディション",
+		"etymology": [
+			"Greek krinein (judge) + Latin e- + dare"
+		],
+		"concept": "Scientific reconstruction of text",
+		"thinking": "あらゆる写本を「判断（Krinein）」し、その異同を取捨選択して「世に問う（Edit）」。現在の私たちが読める最高精度の、古代の知恵。そこには文献学者の汗と、誠実な闘争の跡が刻まれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "apparatus_c",
+		"word": "Appar Crit",
+		"meaning": "校異（こうい）欄（らん）、下部（かぶ）注（ちゅう）",
+		"etymology": [
+			"Latin apparatus (preparation/tools)"
+		],
+		"concept": "Notes on textual variations",
+		"thinking": "本文の下にびっしりと書き込まれた、写本ごとの「異なり（準備）」。どの写本が何を間違え、何を隠したか。真実の脇役たちが語る、波乱に満ちた情報の伝承の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "haplography",
+		"word": "Haplograph",
+		"meaning": "一（いち）字（じ）脱漏（だつろう）、ハプログラフィー",
+		"etymology": [
+			"Greek haplos (simple/single) + graphein"
+		],
+		"concept": "Writing once what should be twice",
+		"thinking": "「一つ（Haplo）」にまとめて書いてしまった、写本作成者の不注意。本来は繰り返されるべき言葉が、一点の油断によって歴史から消え去る。人間の『弱さ』が歴史を歪めた瞬間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "dittograph_",
+		"word": "Dittograph",
+		"meaning": "重復（じゅうふく）誤写（ごしゃ）、ディトグラフィー",
+		"etymology": [
+			"Greek dittos (double) + graphein"
+		],
+		"concept": "Writing twice what should be once",
+		"thinking": "同じことを「二度（Ditto）」書いてしまった、退屈な写字生の過ち。言葉の重複。千年の呪縛を解くために、文献学者はこの不自然な『貌の歪み』を修正する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "gloss_adv_v",
+		"word": "Gloss",
+		"meaning": "注解（ちゅうかい）、用語（ようご）注（ちゅう）",
+		"etymology": [
+			"Greek glossa (tongue/language)"
+		],
+		"concept": "Commentary on difficult words",
+		"thinking": "難解な言葉（舌）の隣にそっと添えられた、小さな「説明」。かつての読者が未来の読者へと残した、理解の足跡。言葉を噛み砕くための、知恵の隠し味。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "marginalia_",
+		"word": "Marginalia",
+		"meaning": "余白（よはく）の書き込み",
+		"etymology": [
+			"Latin margo (edge)"
+		],
+		"concept": "Notes in margins",
+		"thinking": "紙の「端（Margo）」に溢れ出した、読者の激情、反論、落書き、あるいは世紀の発見（フェルマーの最終定理）。中心であるテクストを脅かすほどに饒舌な、余白という名の『もう一つの貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "classical_l",
+		"word": "Classical L",
+		"meaning": "古典（こてん）言語（げんご）",
+		"etymology": [
+			"Latin classicus (of the highest class)"
+		],
+		"concept": "High-status dead languages",
+		"thinking": "「最高級の（Classicus）」言葉。ラテン語、ギリシャ語、サンスクリット。もはや誰も日常では喋らぬが、その厳格な文法と深遠な概念の中に、人類の魂の最も純度の高い結晶（貌）が保存されている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "dead_languag",
+		"word": "Dead Lang",
+		"meaning": "死語（しご） (文献)",
+		"etymology": [
+			"Dead + Language"
+		],
+		"concept": "Language without native speakers",
+		"thinking": "もはや変容することをやめた、静止した言葉。死ぬことで永遠の貌を手に入れ、生きた言葉が決して持てない、鋼のような一貫性と美しさを獲得した、理性の聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "lexicograph",
+		"word": "Lexicograp",
+		"meaning": "辞書（じしょ）編纂（へんさん）学（がく）",
+		"etymology": [
+			"Greek lexis (word) + graphein"
+		],
+		"concept": "Writing of dictionaries",
+		"thinking": "「言葉（Lexis）」を「記し（Graphe）」、集める。広大な情報の混沌を、アルファベットという名の檻の中に閉じ込めて整理する、文明の巨大な地誌。言葉の一つ一つに居場所を与える、命名の儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "corpus_phi_",
+		"word": "Corpus (P)",
+		"meaning": "コーパス、文献（ぶんけん）集成（しゅうせい）",
+		"etymology": [
+			"Latin corpus (body)"
+		],
+		"concept": "Body of text for analysis",
+		"thinking": "膨大なテクストの「死体（あるいは肉体：Corpus）」。個別の言葉ではなく、数十万の単語の『群れ（統計）』として言語を捉え、その深層に潜む法則を暴き出す、数理文献学の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "concordance",
+		"word": "Concordanc",
+		"meaning": "コンコーダンス、用語（ようご）索引（さくいん）",
+		"etymology": [
+			"Latin con- + cor (heart)"
+		],
+		"concept": "Index of words in a text",
+		"thinking": "「心（Cor）」を「一（Con-）」にする。どの言葉が、どこで、何回使われたか。テクストの『神経網』を可視化し、一瞬で目的地へと誘うための地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "rhetoric_ad",
+		"word": "Rhetoric",
+		"meaning": "修辞（しゅうじ）学（がく）、弁論（べんろん）術（じゅつ）",
+		"etymology": [
+			"Greek rhetor (public speaker)"
+		],
+		"concept": "Art of persuasion",
+		"thinking": "「語る者（Rhetor）」の技法。ただ真実を述べるのではなく、言葉に熱を与え、リズムを刻み、聴き手の魂を望む方向へと「動かす」力。美しさの中に毒と薬を忍ばせる、言語の戦略家。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "dialectic_a",
+		"word": "Dialectic",
+		"meaning": "弁証法（べんしょうほう）、対話（たいわ）術（じゅつ）",
+		"etymology": [
+			"Greek dia- (through) + legein (to speak)"
+		],
+		"concept": "Inquiry via conversation",
+		"thinking": "「対話を通じて（Dialect）」真理へと至る。二つの矛盾する意見をぶつけ、その火花からより高次な『新しい貌（真理）』を産み落とす。言葉の衝突による、理性の進化の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "syllabary_a",
+		"word": "Syllabary",
+		"meaning": "音節（おんせつ）文字（もじ）、シラバリー",
+		"etymology": [
+			"Greek sullabe (that which is taken together)"
+		],
+		"concept": "System where signs = syllables",
+		"thinking": "複数の音が「共に（Sun-）」「取られた（Labe）」固まり。一文字が一息の音を表す、リズミカルな情報の単位。音の肉感と、記号の抽象化のあわいに立つ、生命の鼓動そのもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "deciphermen",
+		"word": "Linear B",
+		"meaning": "線文字（せんもんじ）B",
+		"etymology": [
+			"Linear + B"
+		],
+		"concept": "Ancient Mycenaean script",
+		"thinking": "粘土板に刻まれた、謎の「線」。王宮の在庫整理の中に隠されていた、古代ギリシャ以前の未踏の歴史。ヴェントリスという名の建築家が、学者たちの常識を覆して読み解いた、純粋な好奇心の勝利。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "archaic_ad_",
+		"word": "Archaic",
+		"meaning": "古風（こふう）な、アルカイクな",
+		"etymology": [
+			"Greek arkhe (beginning)"
+		],
+		"concept": "Relating to early period",
+		"thinking": "「始まり（Arkhe）」の時代の、素朴で力強い貌。洗練される前の、野生的で、神々と人間がまだ近くにいた頃の息遣い。未完成ゆえの、無限の可能性を秘めた美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "hellenistic",
+		"word": "Hellenisti",
+		"meaning": "ヘレニズム期（き）の",
+		"etymology": [
+			"Greek hellenizein (to speak/act Greek)"
+		],
+		"concept": "Post-Alexander Greek world",
+		"thinking": "アレクサンダーの遠征によって、ギリシャの「理（Hellen-）」が、東方の神々と「混じり合った（-ize）」、絢爛豪華で退廃的な、最初の大いなる『越境』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "augustan_ad",
+		"word": "Augustan",
+		"meaning": "アウグストゥス時代（じだい）の、黄金期（おうごんき）の",
+		"etymology": [
+			"Augustus (majestic/venerable)"
+		],
+		"concept": "Golden age of literature",
+		"thinking": "「尊き（Augustus）」平和の下で花開いた、詩と散文の極致。秩序と美が完璧に調和し、もはやこれ以上付け加えるものがないほどの、文明の円熟した貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "metrical_ad",
+		"word": "Metrical",
+		"meaning": "韻律（いんりつ）的（てき）な",
+		"etymology": [
+			"Greek metron (measure)"
+		],
+		"concept": "Based on rhythmic measurement",
+		"thinking": "言葉を「物差し（Metron）」で測り、歌のように整える。呼吸の長短。情報の意味を超えて、肉体のリズムを言葉に移植する。詩という名の、時間を刻む数理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "scansion_ad",
+		"word": "Scansion",
+		"meaning": "韻律（いんりつ）分析（ぶんぜき）",
+		"etymology": [
+			"Latin scandere (to climb)"
+		],
+		"concept": "Marking verse rhythms",
+		"thinking": "詩のリズムの階段を「登り（Scandere）」、その骨格を暴き出す。強弱、長短の波。隠された言葉の音楽（貌）を視覚化する、理性のタクト。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "tradition_a",
+		"word": "Oral Trad",
+		"meaning": "口承（こうしょう）伝統（でんとう）",
+		"etymology": [
+			"Latin os/oris (mouth) + Tradition"
+		],
+		"concept": "Knowledge passed via speech",
+		"thinking": "文字に頼らず、「口（Os）」から耳へと受け継がれてきた生きた記憶。語り手の声、表情、その瞬間の即興。文字という冷たい氷に閉じ込められる前の、熱を帯びた情報の奔流の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "古典の深淵を、文献の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古代史と古典文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
 	}
 ];
