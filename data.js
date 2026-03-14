@@ -326669,5 +326669,241 @@ const WORDS = [
 				"探求の果てに。"
 			]
 		}
+	},
+	{
+		"id": "axiom_logic",
+		"word": "Axiom",
+		"meaning": "公理、自明の理",
+		"era": "Greek axios",
+		"etymology": {
+			"components": [
+				"axios (worthy)"
+			],
+			"original_statement": "From Greek axioma 'that which is thought worthy / self-evident principle', from axios 'worthy'."
+		},
+		"concept": "Worthy of belief (信じるに値する礎、思考の出発点)",
+		"thinking": "「価値あるもの（Axios）」。証明を必要とせず、すべての論理のピラミッドの最下層に置かれる、揺るぎない土台。それは信じることを決意した者だけが見ることのできる、世界の最も純粋な『正しさ』の貌（かたち）です。",
+		"aftertaste": "何かを証明しようとする前に、まず自分が何を信じているのか（公理）を見つめ直して。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "cardinality_math",
+		"word": "Cardinality",
+		"meaning": "濃度、集合の大きさ",
+		"era": "Latin cardinalis",
+		"etymology": {
+			"components": [
+				"cardo (hinge / pivot)"
+			],
+			"original_statement": "From Latin cardinalis 'principal / chief', from cardo 'hinge'."
+		},
+		"concept": "The hinge of size (規模を司る蝶番、存在の質的な量)",
+		"thinking": "「蝶番（Cardo）」。集合の中にどれだけの『魂（要素）』が集まっているかを示す指標。単なる個数ではなく、無限という広大な海において、その無限がどれほど『濃い』かを測る、数理的な偉大さの尺です。",
+		"aftertaste": "多さよりも、その『濃さ』が世界の形を決定します。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "ordinality_math",
+		"word": "Ordinality",
+		"meaning": "順序、序数性",
+		"era": "Latin ordinalis",
+		"etymology": {
+			"components": [
+				"ordo (order / row)"
+			],
+			"original_statement": "From Latin ordinalis, from ordo 'line / series / row / order'."
+		},
+		"concept": "Being in a row (列に並ぶ整列、立ち位置の順序)",
+		"thinking": "「列（Ordo）」。誰が前で誰が後ろか、という物語の順番。存在そのものよりも、その存在が全体の系列の中で『何番目』に位置づけられているかという構造的なアイデンティティを指します。",
+		"aftertaste": "順番があるからこそ、次に続く者への希望（バトン）が生まれます。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "infinite_words",
+		"word": "Infinite",
+		"meaning": "無限の、果てしない",
+		"era": "Latin in- + finis",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"finis (end / boundary)"
+			],
+			"original_statement": "From Latin infinitus 'not bounded / unlimited', from in- 'not' + finis 'end / limit'."
+		},
+		"concept": "Refusing the boundary (境界を拒む自由、終わりのない旅)",
+		"thinking": "「終わり（Finis）」が「ない（In-）」。限界という檻を突き破り、どこまでも広がっていく宇宙。それは恐怖であると同時に、決してすべてを知り尽くすことができないという、探求者への永遠の甘い誘惑でもあります。",
+		"aftertaste": "終わりがないからこそ、一歩一歩の歩みそのものが目的になります。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "universal_set",
+		"word": "Universal",
+		"meaning": "普遍的な、全体の",
+		"era": "Latin unus + versus",
+		"etymology": {
+			"components": [
+				"unus (one)",
+				"versus (turned)"
+			],
+			"original_statement": "From Latin universalis 'of or belonging to all', from unus 'one' + versus 'turned toward'."
+		},
+		"concept": "Turned into oneness (一つへと向けられた、すべてを包む器)",
+		"thinking": "「一つ（Unus）」に「向けられた（Vers）」。あらゆる個別の事象を、たった一つの大きな物語へと統合しようとする意志。例外を許さず、宇宙の隅々まで行き渡る、冷徹で慈悲深い共通のルールです。",
+		"aftertaste": "バラバラな出来事も、視点を上げれば一つの大きな『普遍』へと収束します。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "relation_logic",
+		"word": "Relation",
+		"meaning": "関係、関連",
+		"era": "Latin re- + ferre",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"ferre (to carry)"
+			],
+			"original_statement": "From Latin relationem 'a bringing back / report', from relatus, past participle of referre 'bring back'."
+		},
+		"concept": "Carrying back the connection (繋がりを持ち帰ること、存在の結び目)",
+		"thinking": "「持ち帰られた（Relat）」もの。二つの要素の間に引かれた、見えない糸。一方が存在することで他方も意味を持つ、ペアとなる宿命。関係性こそが、孤独な点（実体）を星座（意味）へと変える魔法です。",
+		"aftertaste": "あなたを定義するのは、あなた自身ではなく、他者との『関係』かもしれません。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "mapping_math",
+		"word": "Mapping",
+		"meaning": "写像、マッピング",
+		"era": "Latin mappa",
+		"etymology": {
+			"components": [
+				"mappa (napkin / cloth)"
+			],
+			"original_statement": "From Latin mappa 'napkin / tabletop-cover', used in Medieval Latin for maps (chart on cloth)."
+		},
+		"concept": "Drawing on the cloth (布に描かれた対応、世界の翻訳)",
+		"thinking": "「ナフキン（Mappa）」。ある世界（集合）の住人を、別の世界へと『移し替える』。対応関係を布に描き、迷宮の案内図（マップ）を作る知的な作業。それは、混沌を秩序へと、未知を既知へと翻訳するプロセスです。",
+		"aftertaste": "あなたの経験（インプット）を、どんな素晴らしい表現（アウトプット）にマッピングしますか？",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "null_set_words",
+		"word": "Null Set",
+		"meaning": "空集合",
+		"era": "Latin nullus",
+		"etymology": {
+			"components": [
+				"ne- (not)",
+				"ullus (any)"
+			],
+			"original_statement": "From Latin nullus 'none / not any / no one'."
+		},
+		"concept": "The beauty of none (何もないことの美、虚無という名の種子)",
+		"thinking": "「何ひとつ（Ullus）」「ない（Ne-）」。中身が空っぽであるという、極めて特別な集合。それは無能なのではなく、あらゆるものをこれから収容するための『原初の空き地』であり、すべての数学がここから立ち上がるゼロ地点です。",
+		"aftertaste": "空っぽであることは、何にでもなれるという最強の可能性です。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "complement_set",
+		"word": "Complement",
+		"meaning": "補集合、補完するもの",
+		"era": "Latin com- + plere",
+		"etymology": {
+			"components": [
+				"com- (intensive)",
+				"plere (to fill)"
+			],
+			"original_statement": "From Latin complementum 'that which fills up / completes', from complere 'to fill up'."
+		},
+		"concept": "Filling up the whole (全体を満たす影、欠落を埋める相棒)",
+		"thinking": "「満たす（Plere）」。自分ではないすべてのもの。あなたという存在を浮き彫りにするために、あなたの『外側』を埋め尽くしている広大な景色。補集合こそが、あなたが何者であるかを間接的に定義してくれる鏡です。",
+		"aftertaste": "自分を知りたければ、自分ではない世界（外側）をよく見て。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "intersection_set",
+		"word": "Intersection",
+		"meaning": "交わり、共通部分、交差点",
+		"era": "Latin inter- + secare",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"secare (to cut)"
+			],
+			"original_statement": "From Latin intersectionem 'a cutting through / intersecting', from inter- 'between' + secare 'to cut'."
+		},
+		"concept": "Cutting between commonality (間に切り込む共通項、響き合う領域)",
+		"thinking": "「間に（Inter）」「切り込む（Sec）」。二つの世界が重なり、分かち合っている特別な場所。そこは譲れない個性同士が歩み寄り、共通の言葉を見つけた証。交点こそが、新しい物語が生まれるエネルギーの源泉です。",
+		"aftertaste": "誰かと何かが重なる場所（交差点）。そこを大切に温めて。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
 	}
 ];
