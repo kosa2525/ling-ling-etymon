@@ -375429,5 +375429,867 @@ const WORDS = [
 			]
 		},
 		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "nucleotide_ad",
+		"word": "Nucleotide",
+		"meaning": "ヌクレオチド",
+		"etymology": [
+			"Latin nucleus (kernel)"
+		],
+		"concept": "Building block of DNA/RNA",
+		"thinking": "生命の「核（Nucleus）」を形作る最小の単位。リン酸、糖、そして塩基。この三つのパーツが結びつき、無限に続く『情報の鎖』の一環となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "chromatin_ad",
+		"word": "Chromatin",
+		"meaning": "クロマチン、染色質（せんしょくしつ）",
+		"etymology": [
+			"Greek chroma (color)"
+		],
+		"concept": "DNA-protein complex",
+		"thinking": "「色（Chroma）」に染まるもの。長いDNAをタンパク質の芯に巻き付け、コンパクトに畳み込んだ生命のライブラリー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "histone_mod_a",
+		"word": "Histone",
+		"meaning": "ヒストン",
+		"etymology": [
+			"Greek histos (web/tissue)"
+		],
+		"concept": "DNA spooling protein",
+		"thinking": "DNAという糸を巻き取る「機織りの芯（Histos）」。ただの土台ではなく、その『巻き取り方』が、遺伝子が読まれるか眠り続けるかを決定する鍵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "epigenetics_",
+		"word": "Epigenetics",
+		"meaning": "エピジェネティクス、後成的（こうせいてき）制御",
+		"etymology": [
+			"Greek epi- (upon) + Genetics"
+		],
+		"concept": "Inheritance without DNA sequence change",
+		"thinking": "遺伝子の「上（Epi-）」にあるもの。配列そのものは変えずに、化学的な印（修飾）だけで運命を書き換える。環境の記憶が体に刻み込まれる、見えないペン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "methylation_",
+		"word": "Methylation",
+		"meaning": "メチル化（か）",
+		"etymology": [
+			"Greek methy (wine/spirit)"
+		],
+		"concept": "Gene silencing mark",
+		"thinking": "特定の遺伝子に「メチル基」という名の『鍵』をかける。そのスイッチがOFFになることで、生命の多様な貌が産み出される、沈黙の調律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "acetylation_",
+		"word": "Acetylation",
+		"meaning": "アセチル化（か）",
+		"etymology": [
+			"Latin acetum (vinegar)"
+		],
+		"concept": "Activating gene expression",
+		"thinking": "「酢（Acetum）」のような刺激。ヒストンという芯を緩め、眠っていた遺伝子を「光」の当たる場所へと解き放つ、生命の覚醒の儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "translation_b",
+		"word": "Translation",
+		"meaning": "翻訳（ほんやく） (Bio)",
+		"etymology": [
+			"Latin trans- + latus (carried)"
+		],
+		"concept": "mRNA to Protein",
+		"thinking": "核酸という記号の言葉を、タンパク質という生命の「肉体」へと「運び（Latus）」「替える（Trans-）」。情報の魂が、物質として具現化する奇跡の瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "codon_usage_a",
+		"word": "Codon",
+		"meaning": "コドン",
+		"etymology": [
+			"Latin codex (book)"
+		],
+		"concept": "Three-base logic unit",
+		"thinking": "三つの塩基が織りなす「暗号（Code）」。一つのアミノ酸を指し示すための最小の『単語』。このコドンの羅列が、生命という名の壮大な叙事詩を編み上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "promoter_gen_",
+		"word": "Promoter",
+		"meaning": "プロモーター、転写開始（てんしゃかいし）領域",
+		"etymology": [
+			"Latin pro- + movere (to move)"
+		],
+		"concept": "Where transcription starts",
+		"thinking": "情報の読み取りを「前へ（Pro-）」「動かす（Move）」場所。そこには巨大な酵素たちが集まり、命のドラマの幕を開けるための賑やかな合図が鳴り響く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "enhancer_gen_",
+		"word": "Enhancer",
+		"meaning": "エンハンサー、増幅（ぞうふく）領域",
+		"etymology": [
+			"Latin in- + altus (high)"
+		],
+		"concept": "Boosting gene expression",
+		"thinking": "遺伝子の響き（発現）をより「高く（Altus）」引き上げる。遠く離れた場所からDNAの鎖がしなり、プロモーターにキスをするように触れることで、爆発的な生命力を引き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "repressor_gen",
+		"word": "Repressor",
+		"meaning": "リプレッサー、抑制因子（よくせいいんし）",
+		"etymology": [
+			"Latin re- + premere (to press)"
+		],
+		"concept": "Turning off gene",
+		"thinking": "遺伝子の働きを「後ろへと（Re-）」「抑え込む（Press）」。不要な暴走を許さない、静かなる支配者の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "alternative_s",
+		"word": "Alt Splicing",
+		"meaning": "選択的（せんたくてき）スプライシング",
+		"etymology": [
+			"Alternative + Dutch splissen (to join/splice)"
+		],
+		"concept": "One gene, many proteins",
+		"thinking": "一つの遺伝子という「素材」を、どのように「繋ぎ合わせる（Splice）」か。その「選択（Alternative）」一つで、全く違う貌を持つタンパク質が産まれる。情報の無限の再編集。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "exon_intron_a",
+		"word": "Exon/Intron",
+		"meaning": "エキソン / イントロン",
+		"etymology": [
+			"Ex- + On / In- + Tron"
+		],
+		"concept": "Kept vs Cut sections",
+		"thinking": "「外へ（Ex-）」出て使われる部分と、自分の中に「留まる（In-）」だけの部分。一見無駄に見えるイントロンの存在こそが、生命に『揺らぎ』と『進化の余白』を与えている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "telomere_ad_v",
+		"word": "Telomere",
+		"meaning": "テロメア、染色体末端（せんしょくたいたん）",
+		"etymology": [
+			"Greek telos (end) + meros (part)"
+		],
+		"concept": "Protection caps on DNA",
+		"thinking": "生命の「端（Telos）」の「部分（Meros）」。分裂のたびに少しずつ削られていく、命の残量（蝋燭のエンプティ）。自分という存在を削りながら、明日を繋ぐための切ない保護膜。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "telomerase_ad",
+		"word": "Telomerase",
+		"meaning": "テロメラーゼ",
+		"etymology": [
+			"Telomere + -ase (enzyme)"
+		],
+		"concept": "Enzyme that lengthens telomere",
+		"thinking": "テロメアを修復し、命の時間を「巻き戻す」魔法のような酸素。しかしそれが暴走すれば「ガン」という名の不老不死の怪物を産み落とす、神の禁じ手。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "apoptosis_ad",
+		"word": "Apoptosis",
+		"meaning": "アポトーシス、細胞（さいぼう）の自殺（じさつ）",
+		"etymology": [
+			"Greek apo- (away) + ptosis (falling)"
+		],
+		"concept": "Programmed cell death",
+		"thinking": "「離れて（Apo-）」「落ちる（Ptosis）」。枯れ葉のように、自分という個体を守るために、特定の細胞が自ら死を選ぶ。美しき撤退。全体の生を支えるための、誠実な死の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "autophagy_ad_",
+		"word": "Autophagy",
+		"meaning": "オートファジー、自食作用（じしょくさよう）",
+		"etymology": [
+			"Greek autos (self) + phagein (to eat)"
+		],
+		"concept": "Self-eating for recycling",
+		"thinking": "「自分（Autos）」を「食べる（Phagein）」。飢餓のとき、あるいは古くなった部品を壊し、再び新しい命の糧にする。終わりなき自己更新（リサイクル）という名の、究極の自給自足。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "mitosis_ad_v",
+		"word": "Mitosis",
+		"meaning": "有糸分裂（ゆうしぶんれつ）",
+		"etymology": [
+			"Greek mitos (thread)"
+		],
+		"concept": "Cell division",
+		"thinking": "「糸（Mitos）」のような染色体が現れ、正確に二つに分かたれる。コピーでもあり、分身でもある。生命がその「数」を増やすための、最も精緻な舞踏。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "meiosis_ad_v",
+		"word": "Meiosis",
+		"meaning": "減数分裂（げんすうぶんれつ）",
+		"etymology": [
+			"Greek meioun (to lessen)"
+		],
+		"concept": "Cell division for sex cells",
+		"thinking": "「減らす（Meioun）」こと。自分の情報を半分にし、誰かの半分と出会うための『欠落』をあえて作る。出会いのために自らを削る、愛の原初的な形式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "recombinatio",
+		"word": "Recombinatio",
+		"meaning": "組（く）み換（か）え",
+		"etymology": [
+			"Latin re- + con- + binare (to join of two)"
+		],
+		"concept": "Mixing of DNA parents",
+		"thinking": "父の糸と母の糸を「再び（Re-）」「共に（Con-）」「二つに結ぶ（Bin-）」。偶然によって混ざり合い、世界にただ一人の『新しい貌』を産み出す、進化のカジノ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "mutation_gen_",
+		"word": "Mutation",
+		"meaning": "突然変異（とつぜんへんい）",
+		"etymology": [
+			"Latin mutare (to change)"
+		],
+		"concept": "Change in DNA sequence",
+		"thinking": "「変わること（Mutare）」。計算違い、あるいは宇宙線の一撃。意図せぬ間違い（バグ）こそが、単調な繰り返しに奇跡をもたらし、進化という名の新しい可能性の扉を叩く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "polymorphism_",
+		"word": "SNP (Genetics)",
+		"meaning": "一塩基多型（いちえんきたけい）、スニップ",
+		"etymology": [
+			"Single Nucleotide Polymorphism"
+		],
+		"concept": "One base difference between people",
+		"thinking": "たった「一文字（Single）」の「違い（Poly-morphe）」。それが、お酒に強いか弱いか、あるいはどんな病に弱いかを決定する。私たちは、この微差（ノイズ）の中に、個としてのアイデンティティを宿している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "genotype_ad_v",
+		"word": "Genotype",
+		"meaning": "遺伝子型（いでんしがた）",
+		"etymology": [
+			"Greek genos (race/type)"
+		],
+		"concept": "Genetic makeup",
+		"thinking": "魂の「型（Type）」。表面には見えない、DNAの中に秘められた可能性の全リスト。私たちの運命が書かれた、目に見えない設計図の原本。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "phenotype_ad_",
+		"word": "Phenotype",
+		"meaning": "表現型（ひょうげんがた）",
+		"etymology": [
+			"Greek phainein (to show) + Type"
+		],
+		"concept": "Observable traits",
+		"thinking": "「現れている（Phainein）」貌。設計図が環境と格闘した結果、この肉体として結晶化した、生きた事実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "homozygous_ad",
+		"word": "Homozygous",
+		"meaning": "ホモ接合（せつごう）の",
+		"etymology": [
+			"Greek homos (same) + zygos (yoked)"
+		],
+		"concept": "Same alleles",
+		"thinking": "「同じ（Homos）」貌が「繋がって（Yoked）」いる。二本の鎖に、全く同じ命令が刻まれている。迷いのない、一貫した命令の結実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "heterozygous_",
+		"word": "Heterozygous",
+		"meaning": "ヘテロ接合（せつごう）の",
+		"etymology": [
+			"Greek heteros (other) + zygos"
+		],
+		"concept": "Different alleles",
+		"thinking": "「違う（Heteros）」貌が「繋がって（Yoked）」いる。二つの異なる命令を内側に抱え、そのせめぎ合いの中で新しい可能性（優劣）を見出す、多様性の苗床。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "dominance_gen",
+		"word": "Dominance",
+		"meaning": "優性（ゆうせい）、顕性（けんせい）",
+		"etymology": [
+			"Latin dominus (master)"
+		],
+		"concept": "Expressed trait in hetero",
+		"thinking": "「主人（Dominus）」としての力。二つの命令があるとき、優先的に表層へと現れる強き者の貌。しかしそれは「優れている」こととは限らない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "recessive_gen",
+		"word": "Recessive",
+		"meaning": "劣性（れっせい）、潜性（せんせい）",
+		"etymology": [
+			"Latin re- + cedere (to go back/retreat)"
+		],
+		"concept": "Trait hidden in hetero",
+		"thinking": "「後ろへと（Re-）」「退く（Cedere）」。そこにありながら、表舞台には出ずに、誰かの背後に隠れている。しかし、同じ孤独（劣性）が出会ったとき、一気にその貌が覚醒する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "pleiotropy_ad",
+		"word": "Pleiotropy",
+		"meaning": "多面発現（ためんはつげん）",
+		"etymology": [
+			"Greek pleion (more) + tropos (way)"
+		],
+		"concept": "One gene, many effects",
+		"thinking": "一つの遺伝子が「もっと（Pleion）」多くの「やり方（Tropos）」で影響を及ぼす。目の色を変える遺伝子が、同時に性格や寿命さえ変えてしまう。生命の糸がいかに複雑に絡み合っているか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "polygenic_ad_",
+		"word": "Polygenic",
+		"meaning": "多因子遺伝（たいんしいでん）の",
+		"etymology": [
+			"Greek poly- + Genos"
+		],
+		"concept": "Many genes, one trait",
+		"thinking": "「多くの（Poly）」遺伝子が「産み出す（Genos）」。身長や知能のように、たった一つのスイッチではなく、無数の小さな命令が重なり合って、一人の人間の個性を奏でるオーケストラ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "heritability_",
+		"word": "Heritability",
+		"meaning": "遺伝率（いでんりつ）",
+		"etymology": [
+			"Latin heres (heir)"
+		],
+		"concept": "Variance due to genes",
+		"thinking": "「継承するもの（Heres）」の割合。私たちはどれほど親（過去）から引き継ぎ、どれほど自分自身の経験で今の貌を作ったのか。運命と自由の境界線を測る、残酷で誠実な数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "horizontal_gt",
+		"word": "HGT (Gene)",
+		"meaning": "水平伝播（すいへいでんぱ）",
+		"etymology": [
+			"Horizontal Gene Transfer"
+		],
+		"concept": "Passing genes without sex",
+		"thinking": "親子（垂直）ではなく、「横（Horizontal）」に情報を手渡す。ウイルスやバクテリアが、他人の『能力』をそっくりそのまま盗み出し、一足飛びに進化する、掟破りのショートカット。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "transposon_ad",
+		"word": "Transposon",
+		"meaning": "トランスポゾン、跳（と）び回（まわ）る遺伝子",
+		"etymology": [
+			"Latin trans- + ponere (to place)"
+		],
+		"concept": "Jumping genes",
+		"thinking": "場所を「越えて（Trans-）」「置かれる（Pose）」。ゲノムの中を飛び回り、場所を変え、配列をかき乱す。この「落ち着きのない」存在こそが、生命に絶え間ない変化の火を灯し続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "crispr_cas9_a",
+		"word": "CRISPR",
+		"meaning": "クリスパー、ゲノム編集（へんしゅう）",
+		"etymology": [
+			"Clustered Regularly Interspaced Short Palindromic Repeats"
+		],
+		"original_statement": "The ultimate tool for gene editing.",
+		"concept": "The precise scalpel of life",
+		"thinking": "生命の原典（DNA）を、文字通り「編集」するためのハサミ。神が書いた物語の一行を、人間の意志で書き換える。それは救いか、それとも傲慢か。指先一つの修正が、永遠の未来を書き換える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "optogenetics_",
+		"word": "Optogenetic",
+		"meaning": "光遺伝学（ひかりいでんがく）",
+		"etymology": [
+			"Greek optos (light) + Genetics"
+		],
+		"concept": "Controlling cells with light",
+		"thinking": "神経細胞に「光（Optos）」のスイッチを組み込む。光を当てるだけで、感情を、記憶を、運動を、外部から「リモコン」のように操る。生命と光の究極の、そして恐ろしき融合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "synthetic_bio",
+		"word": "Synthetic Bio",
+		"meaning": "合成生物学（ごうせいせいぶつがく）",
+		"etymology": [
+			"Greek synthesis + Bios"
+		],
+		"concept": "Building life from scratch",
+		"thinking": "生命を理解するのではなく、一から「組み立てる（Synthesis）」。自然界には存在しない新しいパーツを組み合わせ、全く新しい機能を持つ命を創造する。知性の新しい天地創造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "metabolomics_",
+		"word": "Metabolomics",
+		"meaning": "メタボロミクス",
+		"etymology": [
+			"Greek metabole (change)"
+		],
+		"concept": "Study of chemical leftovers",
+		"thinking": "生命という名の巨大な工場から吐き出される、「変化（Metabole）」の残骸たちをすべて網羅する。その化学的な『足跡』を追うことで、今、体がどのような叫びを上げているかを知る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "proteomics_ad",
+		"word": "Proteomics",
+		"meaning": "プロテオミクス",
+		"etymology": [
+			"Protein + Ome (whole)"
+		],
+		"concept": "Study of entire protein set",
+		"thinking": "「タンパク質（Protein）」の「全体（Ome）」。設計図（遺伝子）ではなく、実際に働いている「職人（タンパク質）」たちの全リスト。現実に起きている生の流れを、丸ごと捉えようとする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "bioinformatic",
+		"word": "Bioinformati",
+		"meaning": "バイオインフォマティクス",
+		"etymology": [
+			"Greek bios + Latin informatio"
+		],
+		"concept": "Merging biology and data",
+		"thinking": "「命（Bios）」と「情報（Information）」。あまりに膨大な生命の暗号を、コンピュータという名の新しい瞳で読み解く。生命現象を理（アルゴリズム）の海として再定義する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "systems_bio_a",
+		"word": "Systems Bio",
+		"meaning": "システム生物学",
+		"etymology": [
+			"Greek systema (placed together)"
+		],
+		"concept": "Integration of biological parts",
+		"thinking": "個別の部品を見るのではなく、それらが「共に置かれた（Systema）」時のネットワークそのものを見る。一つの部品の変更が、いかに動的に全体に響き渡るか。命を一つの『巨大な回路』として捉える眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "phylogenetics",
+		"word": "Phylogenetic",
+		"meaning": "系統発生（けいとうはっせい）学",
+		"etymology": [
+			"Greek phylon (tribe/race) + genesis"
+		],
+		"concept": "Evolutionary tree reconstruction",
+		"thinking": "「種族（Phylon）」の「誕生（Genesis）」の道筋を遡る。過去に誰と誰が出会い、どの枝が分かれたのか。DNAという名の歴史書を紐解き、数十億年の命の繋がりの全景を再構築する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "molecular_cl",
+		"word": "Molecular Cl",
+		"meaning": "分子時計（ぶんしどけい）",
+		"etymology": [
+			"Molecule + Clock"
+		],
+		"concept": "Dating evolution via DNA change",
+		"thinking": "DNAに静かに降り積もる「間違い（変異）」の数を、生命が歩んできた「時間」として読み替える。宇宙の深淵に刻まれた、消えることのない進化の秒針。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "convergent_ev",
+		"word": "Convergent E",
+		"meaning": "収斂進化（しゅうれんしんか）",
+		"etymology": [
+			"Latin con- + vergere (to incline)"
+		],
+		"original_statement": "Independently evolving similar traits.",
+		"concept": "Destined forms of adaptation",
+		"thinking": "全く違う出自の者たちが、同じ環境を生き抜くために、同じ「貌（形）」へと「傾き（Verge）」「寄り添って（Con-）」いく。魚のヒレとクジラのヒレ。真理は一つではないが、正解は一つに収束するという、進化の必然。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を、光の糸で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の深淵へ。"
+			]
+		},
+		"example": "Genetic information is stored in DNA."
 	}
 ];
