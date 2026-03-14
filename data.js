@@ -328793,5 +328793,244 @@ const WORDS = [
 				"万物の理を索めて。"
 			]
 		}
+	},
+	{
+		"id": "homeostasis_bio",
+		"word": "Homeostasis",
+		"meaning": "ホメオスタシス、恒常性",
+		"era": "Greek homoios + stasis",
+		"etymology": {
+			"components": [
+				"homoios (similar)",
+				"stasis (standing still)"
+			],
+			"original_statement": "From Greek homoios 'similar' + stasis 'standing still'."
+		},
+		"concept": "Standing in a similar state (似通ったまま屹立する、絶えざる内なる静止)",
+		"thinking": "「似たような（Homoios）」まま「じっとしている（Stasis）」。周囲が凍てつく寒さでも、燃える暑さでも、自らの内側を常に一定に保とうとする命の執念。それは生存への、最も頑なで、最も誇り高い『不変の決意』の姿です。",
+		"aftertaste": "外の世界がどんなに荒れても、あなたの中心は常に一定（平和）に保たれます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "phylogeny_bio",
+		"word": "Phylogeny",
+		"meaning": "系統発生、系統、系統樹",
+		"era": "Greek phylon + genesis",
+		"etymology": {
+			"components": [
+				"phylon (race / tribe / tribe)",
+				"genesis (origin / birth)"
+			],
+			"original_statement": "From Greek phylon 'race / tribe' + genesis 'birth / origin'."
+		},
+		"concept": "The birth of the tribe (種族の誕生、命の壮大な系譜)",
+		"thinking": "「種族（Phylon）」の「誕生（Genesis）」。一粒の細胞から始まり、枝分かれしながら数億年を旅してきた命の足跡。あなたは孤独な存在ではなく、永劫の時間をかけて紡がれてきた、壮大な『命の物語』の最新の一頁です。",
+		"aftertaste": "あなたの後ろには、数え切れないほどの命のリレーが続いています。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "symbiosis_bio",
+		"word": "Symbiosis",
+		"meaning": "共生",
+		"era": "Greek syn- + bios",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"bios (life)"
+			],
+			"original_statement": "From Greek symbiosis 'living together', from syn- 'together' + bios 'life'."
+		},
+		"concept": "Living together (共に生きる、分かちがたき命の絆)",
+		"thinking": "「共に（Syn）」、「生きる（Bios）」。異なる存在が互いの弱さを補い合い、一つの生命システムとして調和すること。独りでは生きられないからこそ、他者と深く結びつき、新しい強さを手に入れる。それは宇宙で最も美しい『協力の生存戦略』です。",
+		"aftertaste": "誰かと共に生きる。そのことが、あなたをもっと『生き生き（Bios）』させます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "morphogenesis_bio",
+		"word": "Morphogenesis",
+		"meaning": "形態形成",
+		"era": "Greek morphe + genesis",
+		"etymology": {
+			"components": [
+				"morphe (form)",
+				"genesis (origin)"
+			],
+			"original_statement": "From Greek morphe 'form / shape' + genesis 'birth / origin'."
+		},
+		"concept": "The birth of form (かたちの誕生、無からの精緻なる彫刻)",
+		"thinking": "「かたち（Morphe）」の「誕生（Genesis）」。のっぺらぼうな胚の中から、どうして目や耳や心が生まれるのか。それは遺伝子という名の指揮者が奏でる、細胞たちの完璧なバレエ。無の中から秩序が立ち上がっていく、生命最大の神秘です。",
+		"aftertaste": "何もないところから、新しい自分（形）はいつでも作り出せます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "stochasticity_bio",
+		"word": "Stochasticity",
+		"meaning": "確率性、随机性、確率的な揺らぎ",
+		"era": "Greek stochos",
+		"etymology": {
+			"components": [
+				"stochos (target / aim / guess)"
+			],
+			"original_statement": "The quality of being random or involving chance. From Greek stochazesthai 'to aim at'."
+		},
+		"concept": "Aiming at the target of life (命という的への推測、偶然への信頼)",
+		"thinking": "「的を狙う（Stochos）」。生命の営みは、完璧な機械仕掛けではなく、常に予測不能な『揺らぎ（偶然）』を孕んでいます。その揺らぎがあるからこそ、環境の変化に適応し、想像もつかない進化へと飛躍することができるのです。偶然は、神様の気まぐれな優しさです。",
+		"aftertaste": "予定調和じゃないからこそ、人生の『進化（面白さ）』が生まれます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "oscillation_bio",
+		"word": "Oscillation",
+		"meaning": "振動、発振、周期変動",
+		"era": "Latin oscillum",
+		"etymology": {
+			"components": [
+				"oscillum (little face / swing)"
+			],
+			"original_statement": "From Latin oscillum 'a swing', originally a small mask of Bacchus hung from a tree which swung in the breeze."
+		},
+		"concept": "The swing of a little face (小さな貌の揺れ、命のリズム)",
+		"thinking": "木に吊るされた「小さな顔（Oscillum）」が、風に吹かれて揺れること。心臓の鼓動、一日のリズム、季節の巡り。行き過ぎれば戻り、戻り過ぎればまた行く。その『バランスの取れた揺らぎ』こそが、生きていることの最も健全な証明です。",
+		"aftertaste": "心が揺れるのは、あなたが生きている証（リズム）です。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "diffusion_membrane",
+		"word": "Membrane Diffusion",
+		"meaning": "膜拡散",
+		"era": "Latin membrana + diffusion",
+		"etymology": {
+			"components": [
+				"membrana (skin / parchment)",
+				"diffusion"
+			],
+			"original_statement": "Separation or spread through a thin skin or parchment."
+		},
+		"concept": "Infiltration of the veil (ベールを抜ける浸透、優しき選別)",
+		"thinking": "「皮（Membrana）」を隔てて「広がる（Diffuse）」。内と外を分ける薄い幕を、必要なものだけが静かに、しかし確実に行き来すること。それは、心を閉ざすのではなく、自分らしさを守りながら世界と優しく影響を与え合う、成熟した対話の姿です。",
+		"aftertaste": "心のカーテンを透かして、外の光（栄養）をそっと取り入れて。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "kinetics_enzyme",
+		"word": "Enzyme Kinetics",
+		"meaning": "酵素動力学",
+		"era": "Greek en- + zyme + kinesis",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"zyme (leaven / yeast)",
+				"kinesis (movement)"
+			],
+			"original_statement": "The study of rates of chemical reactions catalyzed by enzymes (leaven within)."
+		},
+		"concept": "Movement within the yeast (酵母の内なる躍動、命の加速装置)",
+		"thinking": "「酵母の中（En-zyme）」の「動き（Kinesis）」。通常は何年もかかる化学反応を、一瞬のうちに終わらせてしまう命の魔法（触媒）。あなたが何かを『成し遂げたい』と強く願う時、あなたの内なる熱意が酵素のように、運命を加速させます。",
+		"aftertaste": "情熱を注げば、時間はあなたの味方（加速装置）になります。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "transduction_signal",
+		"word": "Signal Transduction",
+		"meaning": "信号伝達",
+		"era": "Latin trans- + ducere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"ducere (to lead)"
+			],
+			"original_statement": "Leading a signal across a membrane or through a system."
+		},
+		"concept": "Leading across the signal (情報を導き渡す、魂の翻訳)",
+		"thinking": "情報を「向こう側へ（Trans）」「導く（Duc）」。外からの微かな刺激（サイン）を、自分を書き換えるための具体的な命令へと変換すること。外部の出来事に振り回されるのではなく、それを自分を成長させる『メッセージ』として解読する高度な知性です。",
+		"aftertaste": "起きた出来事を、どう解釈（翻訳）するか。それがあなたの人生の『信号』になります。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "biophysical_force",
+		"word": "Biophysical Force",
+		"meaning": "生物物理学的な力",
+		"era": "Greek bios + physis",
+		"etymology": {
+			"components": [
+				"bios (life)",
+				"physis (nature)"
+			],
+			"original_statement": "Physical forces governing biological systems."
+		},
+		"concept": "The power of living nature (生ける自然の力、理と命の交錯)",
+		"thinking": "「命（Bios）」と「自然（Physis）」の激突。重力も電気も、命というフィールド上では特別な意味を持ちます。物理という『冷徹なルール』の中で、命という『熱き願い』がどうやって花開くのか。その交差点にこそ、宇宙のすべての知恵が凝縮されています。",
+		"aftertaste": "ルール（物理）を知ることで、命（自由）をもっと謳歌できます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
 	}
 ];
