@@ -323560,5 +323560,89 @@ const WORDS = [
    "original_statement": "A branch of mathematics focusing on the behavior of dynamical systems that are highly sensitive to initial conditions."
   },
   "concept": "The hidden law in void (「。。、。バラ。バラ。、。、」。に、。、。、。、見えた。。、。としても。、。、その。、。奥（。オク）。。には、。、。、決して。、。、。、崩（。くず）。。、。れ。、。ぬ。。、。、。一。、。つの。、。、。、。「。。、。、理。、。、。、」。が、。、。脈。、動。。、。して。。、。いる。。、。ことの、。、。、。、。。、。。驚。、き。、。それは、。、。、。、暗。、黒。、を。、。、。、愛。、する。。、。ための。、。、。、。、理。知。の。、。、。、。勇。、気。、)"
+ },
+ {
+  "id": "squid",
+  "word": "SQUID",
+  "meaning": "SQUID（イカ）、量子。、。、。干渉。、。を利用して。、。、。宇宙。の、。、。。幽（。かす）。。、。かな。。、。、磁。力。、を。、。、。感（。かん）。。、。ずる。。、。究極の。、。、。触。、。角。、",
+  "era": "English SQUID",
+  "etymology": {
+   "components": [
+    "Superconducting",
+    "Quantum",
+    "Interference",
+    "Device"
+   ],
+   "original_statement": "A very sensitive magnetometer used to measure extremely subtle magnetic fields, based on superconducting loops containing Josephson junctions."
+  },
+  "concept": "The quantum antenna (「。。、。宇宙。、。、」。の、。、。。ささ。、。やき。。、よりも。、。、。、さら。に。、。、。幽（。かす）。。、。かな。。、。、一。、。つの。。、。、。「。。、。、。、。振（。ふ）。。、。る。。、。え。。、。、」。を。、。、。、捕（。とら）。。、。える。。、。ために。、。、。、。量。、子。、。という。、。、。魔法。の。、。波。、。を。、。、あえて。、。、。、。重ね。、。合わせ。、。、。。、。、見。、。守。、。、。、る。。、。峻烈なる。、。、。、知。、。、。性の。、。、。。目。、。、。、ざ。、。、し。、)"
+ },
+ {
+  "id": "bcs-theory",
+  "word": "BCS Theory",
+  "meaning": "BCS理論、電子。が。、。、お互い。に、。、。二人。。三。、脚。、。となって、。、。、抵抗。、を。、。、捨て。。、。、。流（。なが）。。、。れる。。、。、。、。理知。の、。、。。神。、。話。、",
+  "era": "Name Bardeen + Cooper + Schrieffer",
+  "etymology": {
+   "components": [
+    "John Bardeen",
+    "Leon Cooper",
+    "John Robert Schrieffer (physicists)"
+   ],
+   "original_statement": "The first microscopic theory of superconductivity, describing it as a microscopic effect caused by a condensation of Cooper pairs."
+  },
+  "concept": "The dance of pairs (「。。、。一人。、。、」。では。、。、決して。、。、。、辿（。たど）。。、。り。。、。、。着（。つ。）。。、。け。。、。、。なかった。。、。、。峻烈。な、。、。、。無。、。、。、。、。、。。「。。、。、抵。、。、抗。、。、。、」。の、。、。世界。へと。、。、。不意に。、。、。、。二人が。、。、手。を。、。繋（。つな）。。ぎ。。、。あ。った。。、。瞬。間に。、。、。、。、導（。みちび）。。、。かれた。。、。、。理。、。知。、。の、。、。、。光。、。、。路。、)"
+ },
+ {
+  "id": "brillouin-zone",
+  "word": "Brillouin Zone",
+  "meaning": "ブリュアンゾーン、格子。。の。、。、。奥（。オク）。。に。、。、ひっそり。と、。。、。、。横（よこ）。。、。た。、。わる。。、。、。波（。は。）。。、。の、。、。。「。、。、住。、所。、。、。、」。、",
+  "era": "Name Léon Brillouin",
+  "etymology": {
+   "components": [
+    "Léon Brillouin (physicist)"
+   ],
+   "original_statement": "A uniquely defined primitive cell in reciprocal space."
+  },
+  "concept": "The home of waves (「。。、どこ。。、。まで。、。、」。が。、。、。、。「。。、。、。、同じ。。、。、。、」。で。、。、。どこ。から。、。、。、。「。。、。、。、新。、。しき。。、。、。、」。、名。、。な。、。のか。、。、。という、。、。、理知。が、。、。、波。に対して。、。、。、与（あたた）。。、。えた。。、。、峻烈な。、。、。、。、、。「。。、。、領。、。土。、。、。、」。、。、。それは、。、。、。、。結晶。、。の中に。、。、潜む。、。、。、。理知。の、。、。。幾。、。何。、。学。、)"
+ },
+ {
+  "id": "landau-level",
+  "word": "Landau Level",
+  "meaning": "ランドウ順位、強力。な。、。、。磁。場。、の中を、。、。、駆け。、。。、抜け。。、。ようとした。。、。電子。。が、。、。、囚（。とら）。。、。われた。。、。、。一。、。。、。つの。、。、。。、。階。、。、段。、",
+  "era": "Name Lev Landau",
+  "etymology": {
+   "components": [
+    "Lev Landau (physicist)"
+   ],
+   "original_statement": "Quantized energy levels that magnetic fields induce in charged particles."
+  },
+  "concept": "The magnetic stairs (「。。、。、自由。、。、」。に、。、。、。、羽（。は。）。。、。ば。、。た。、。、く。。、。、つもり。であ。った。、。、。魂。。が、。、。、不意に。、。、。、。磁。力。、という、。、。、。峻烈なる。、。、。、。檻（。おり）。。、。の中に、。、。、。、。並（。なら）。。、。べ。。、。。、。られた。。、。、。瞬、。。、間。。、。、それは、。、。、。理知。が、。、。、。、波。、を。、。、。一。、点。、。へと、。、。、凍（。い。）。。、。、。て。。、。つ。。、。かせた。。、。、。、。結。、晶。、。、。の、。、。声。、)"
+ },
+ {
+  "id": "de-haas-van-alphen",
+  "word": "de Haas-van Alphen",
+  "meaning": "ド・ハース・ファン・アルフェン効果、磁場。を。、。、。強（つよ）。。、。め。。、る。ほどに、。、。物質。の、。、。「。。、。、。心。、。、。、」。が。、。一。、。、。周。。、し、。、。、。震。え。。、。る。。、。こと。、",
+  "era": "Name de Haas + van Alphen",
+  "etymology": {
+   "components": [
+    "Wander Johannes de Haas",
+    "Pieter van Alphen (physicists)"
+   ],
+   "original_statement": "A quantum mechanical effect in which the magnetic susceptibility of a pure metal crystal oscillates as the intensity of the magnetic field B is increased."
+  },
+  "concept": "The oscillating soul (「。。、。、磁。、。、。力。、。、。を。、。、強（つよ）。。、。め。。、。る。。、。たびに。、。、物質。は。、。、一。、。、度。。、。「。。、。、。、。自分。、。、。、」。を。、。、。忘（。わす）。。、。れて。。、。は。、。、。再び。、。、。、思（。おも）。。、。い。。、。出す。。、。、。、。、理知。の。、。、。、巡（めぐ）。。、。り。。、それは、。、。、。フェルミ。の、。、。面。が。、。、ひっそり。と、。、。、世界。。へと、。、。、。、告（つ。）。。、。げる。。、。、。、秘。、。、。め。。、。、。、られた。。、。、。、。理。知。、)"
+ },
+ {
+  "id": "peierls-instability",
+  "word": "Peierls Instability",
+  "meaning": "パイエルス不安定性、一。、。次元。。、の、。、。滑（なめ）。。らかな。。、。、導。、体。が、。、。、自ら。の。、。、。格子。。を。、。、歪（。ゆ。が）。。、。めて。。、。まで。、。、。得（。え）。。、。ようとした。。、。平。、穏。、",
+  "era": "Name Rudolf Peierls",
+  "etymology": {
+   "components": [
+    "Rudolf Peierls (physicist)"
+   ],
+   "original_statement": "A distortion of a periodic one-dimensional modern atomic string that creates a gap at the Fermi surface."
+  },
+  "concept": "The broken line (「。。、。、完璧。、。、」。な、。、。、。、一。、。、。つの。、。、。、。線。が。、。、あえて。、。、。、。美。しき。、。、。、「。。、。、。、。歪（。ゆ。が）。。、。み。。、。、。、」。を。、。、。、。選（。えら）。。、。ぶ。。、。、ことで、。、。、。自らの。、。、。、。魂。を。、。、。、。、。守（。まも）。。、。り。。、。抜（。ぬ）。。、。く。。、。、一。、。つの。、。、。、。理知。、。それは、。、。、。、金属。が、。、。、。、不。意に。、。、。絶。、。縁。、。へと、。、。、堕（お。）。。、。ちる。。、。、時の、。、。。、。峻烈な。、。、。、祈。、。、。り。、)"
  }
 ];
