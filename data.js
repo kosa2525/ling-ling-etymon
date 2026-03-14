@@ -326433,5 +326433,241 @@ const WORDS = [
 				"探求の果てに。"
 			]
 		}
+	},
+	{
+		"id": "isotope_words",
+		"word": "Isotope",
+		"meaning": "同位体、アイソトープ",
+		"era": "Greek isos + topos",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"topos (place)"
+			],
+			"original_statement": "Coined by Frederick Soddy, from Greek isos 'equal' + topos 'place', because they occupy the same place in the periodic table."
+		},
+		"concept": "Seated in the same place (同じ場所を分かつ者、重みの違う家族)",
+		"thinking": "「同じ（Isos）」「場所（Topos）」。化学的には同じ顔を持ちながら、内側に秘めた重み（中性子数）だけが異なる存在。表面的な役割は同じでも、誰もが異なる『過去の重荷』を背負って同じ席に座っている、そんな人間の愛おしさを象徴しています。",
+		"aftertaste": "同じ場所にいても、みんなそれぞれ違う重みを抱えて生きています。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "fission_nuclear",
+		"word": "Fission",
+		"meaning": "核分裂、分裂",
+		"era": "Latin findere",
+		"etymology": {
+			"components": [
+				"findere (to split / cleave)"
+			],
+			"original_statement": "From Latin fissionem, from findere 'to split'."
+		},
+		"concept": "The splitting apart (引き裂かれる核、解放される膨大な熱)",
+		"thinking": "「引き裂く（Find）」。重すぎる負荷に耐えかね、一つの核が二つに分かれる瞬間に放たれる閃光。別れは痛みを伴いますが、それは同時に、新しい形へと生まれ変わるための強大なエネルギーをこの世界に提供することでもあります。",
+		"aftertaste": "分かたれることで、初めて解き放たれるエネルギーがあります。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "fusion_nuclear",
+		"word": "Fusion",
+		"meaning": "核融合、融合、溶解",
+		"era": "Latin fundere",
+		"etymology": {
+			"components": [
+				"fundere (to pour / melt)"
+			],
+			"original_statement": "From Latin fusionem 'a pouring / melting', from fundere 'to pour'."
+		},
+		"concept": "Pouring together into one (溶け合う一体、太陽を支える絆)",
+		"thinking": "「注ぎ込む（Fund）」。お互いの境界を溶かし、一つに結びつくことで、莫大な愛（光）を生み出す星々の営み。反発を乗り越え、極限まで近づいた魂同士が融合する時、宇宙はもっとも美しく輝き始めます。",
+		"aftertaste": "溶け合い、結びつくこと。それが生命を育む最大の熱源です。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "decay_nuclear",
+		"word": "Radioactive Decay",
+		"meaning": "放射性崩壊、衰退",
+		"era": "Latin de- + cadere",
+		"etymology": {
+			"components": [
+				"de- (down / away)",
+				"cadere (to fall)"
+			],
+			"original_statement": "The spontaneous transformation of an unstable atomic nucleus. From 'decay', from de- 'down' + cadere 'to fall'."
+		},
+		"concept": "Falling away from stability (安定への下落、静寂への身投げ)",
+		"thinking": "「落ちる（Cad）」。不安定な熱狂を捨て、より穏やかな場所へと自らを「投げ下ろす」プロセス。それは単なる壊死ではなく、あるべき自分へと戻るための『存在の浄化』の旅です。失われていくことで、完成へと近づきます。",
+		"aftertaste": "手放していくたびに、あなたはより清らかな存在へと近づいていきます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "half_life_words",
+		"word": "Half-life",
+		"meaning": "半減期",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"half (partly)",
+				"life (existence / duration)"
+			],
+			"original_statement": "The time required for a quantity to reduce to half of its initial value."
+		},
+		"concept": "The duration of becoming half (半分になるまでの時間、緩やかな消滅の譜面)",
+		"thinking": "存在が「半分（Half）」になるまでの「時間（Life）」。一気に消えるのではなく、名残惜しそうに半分ずつ、無限にその余韻を薄めていく。それは、忘れ去られるまでの優しい猶予、あるいは記憶が歴史へと溶け込むペースを指しています。",
+		"aftertaste": "半分になっても、あなたはそこにいます。そして語り続けます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "binding_energy",
+		"word": "Binding Energy",
+		"meaning": "結合エネルギー",
+		"era": "Old English bindan + Greek energeia",
+		"etymology": {
+			"components": [
+				"bindan (to tie up)",
+				"energeia (activity / work)"
+			],
+			"original_statement": "The energy required to disassemble a whole into separate parts."
+		},
+		"concept": "The work of staying together (共にいるための活動、結束の対価)",
+		"thinking": "「縛りつける（Bind）」ための「活動（Energy）」。バラバラになろうとする個性を、一つの『絆（核）』として繋ぎ止めるために費やされる莫大な愛。結束は偶然ではありません。そこには、共に居続けるためのたゆまぬ努力（エネルギー）が込められています。",
+		"aftertaste": "絆を保つには、エネルギーが必要です。その努力こそが貴い。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "cross_section_nuclear",
+		"word": "Cross-section",
+		"meaning": "断面積、可能性の幅",
+		"era": "English cross + sectio",
+		"etymology": {
+			"components": [
+				"cross (athwart)",
+				"sectio (a cutting)"
+			],
+			"original_statement": "Measure of probability of a specific interaction. From Latin sectio 'a cutting'."
+		},
+		"concept": "The width of interaction (触れ合いの幅、確率という名の的)",
+		"thinking": "「交差（Cross）」する「切り口（Sect）」。二つの魂がぶつかった時、何かが起きる確率を示す『的』の大きさ。物理的な広さではなく、その存在がどれだけ周りの世界に対して『開かれているか』という可能性の広がりを指します。",
+		"aftertaste": "自分をオープンに開くことで、世界との『交差（出会い）』は増えていきます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "radioactivity_words",
+		"word": "Radioactivity",
+		"meaning": "放射能",
+		"era": "Latin radius",
+		"etymology": {
+			"components": [
+				"radius (ray / spoke of a wheel)",
+				"activus (active)"
+			],
+			"original_statement": "From radius 'ray' + activity. Coined by Marie Curie."
+		},
+		"concept": "Active shining (能動的な放射、溢れ出す存在感)",
+		"thinking": "「放射（Radius）」の「活動（Activity）」。自分を磨き上げ、溢れ出た自らの成分（線）を周囲に放ち続けること。それは時には危険ですが、閉ざされた殻を破り、外の世界へと自分のメッセージを届けるための、命懸けの自己表現です。",
+		"aftertaste": "あなたの内なる力を、光線（メッセージ）として遠くへ届けて。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "breeding_nuclear",
+		"word": "Breeding",
+		"meaning": "増殖、飼育、教養",
+		"era": "Old English bredan",
+		"etymology": {
+			"components": [
+				"bredan (to nourish / nourish / keep warm)"
+			],
+			"original_statement": "From Old English bredan 'to nourish / cherish / keep warm / bring to birth'."
+		},
+		"concept": "Nourishing more life (育み増やす温もり、燃えながらの再生)",
+		"thinking": "「温めて育む（Bred）」。エネルギーを消費しながら、同時に新しい燃料を自らの手で『産み出す』こと。ただ奪うのではなく、燃えながら次世代の種を暖める。それは、有限を超えて循環し続けようとする、生命の慈愛に満ちたシステムです。",
+		"aftertaste": "自分のために使い切るのではなく、次の誰かのために何かを『増殖（育成）』させて。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "moderator_nuclear",
+		"word": "Moderator",
+		"meaning": "減速材、司会者、節度を守るもの",
+		"era": "Latin moderari",
+		"etymology": {
+			"components": [
+				"moderari (to set bounds / restrain)"
+			],
+			"original_statement": "From Latin moderari 'to set bounds / restrain / control'."
+		},
+		"concept": "Setting the boundaries (境界を定める者、加熱を抑える優しさ)",
+		"thinking": "「限界を定める（Model）」。激しすぎる中性子の走りを優しく受け止め、連鎖反応が暴走しないようにその速度を『適度』に落とすこと。熱狂を冷静な知恵でなだめ、持続可能な温かさに変える。それは、集団を調和へと導くリーダーの役割でもあります。",
+		"aftertaste": "熱くなりすぎた時こそ、冷静にスピードを落とす（減速する）勇気を。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
 	}
 ];
