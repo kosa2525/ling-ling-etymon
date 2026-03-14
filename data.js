@@ -405734,5 +405734,85 @@ const WORDS = [
 			]
 		},
 		"example": "Entomology is the scientific study of insects."
+	},
+	{
+		"id": "ludology_ad",
+		"word": "Ludology",
+		"meaning": "ゲーム学（がく）、ルドロジー",
+		"etymology": [
+			"Latin ludus (game) + logos"
+		],
+		"concept": "Study of games and play",
+		"thinking": "「遊び（Ludus）」の「理（Logos）」。言葉、映像、物語。。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "遊戯の深淵を、設計の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲームデザインと遊びの学問の極致へ。"
+			]
+		},
+		"example": "Ludology is the study of games and gameplay."
+	},
+	{
+		"id": "interactivi",
+		"word": "Interactiv",
+		"meaning": "双方向（そうほうこう）性（せい）、インタラクティビティ",
+		"etymology": [
+			"Inter- + Active"
+		],
+		"concept": "Two-way communication",
+		"thinking": "「間（Inter）」で「動く（Active）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "遊戯の深淵を、設計の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲームデザインと遊びの学問の極致へ。"
+			]
+		},
+		"example": "Ludology is the study of games and gameplay."
+	},
+	{
+		"id": "emergent_pl",
+		"word": "Emergent P",
+		"meaning": "創発（そうはつ）的（てき）プレイ",
+		"etymology": [
+			"Latin emergere"
+		],
+		"concept": "Unplanned player behavior",
+		"thinking": "設計を超えて「現れ出る（Emerge）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "遊戯の深淵を、設計の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲームデザインと遊びの学問の極致へ。"
+			]
+		},
+		"example": "Ludology is the study of games and gameplay."
+	},
+	{
+		"id": "gamificatio",
+		"word": "Gamificat",
+		"meaning": "ゲーミフィケーション",
+		"etymology": [
+			"Game + -fication"
+		],
+		"concept": "Applying game mechanics to life",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "遊戯の深淵を、設計の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲームデザインと遊びの学問の極致へ。"
+			]
+		},
+		"example": "Ludology is the study of games and gameplay."
 	}
 ];
