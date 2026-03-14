@@ -346110,5 +346110,1067 @@ const WORDS = [
 			]
 		},
 		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "crystal_lattice_adv",
+		"word": "Crystal Lattice",
+		"meaning": "結晶格子",
+		"etymology": {
+			"components": [
+				"Greek krystallos"
+			],
+			"original_statement": "Symmetrical atomic arrangement."
+		},
+		"concept": "Orderly atomic repetition",
+		"thinking": "原子たちが手を取り合い、一糸乱れぬ行進を成している聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "band_gap_phys",
+		"word": "Band Gap",
+		"meaning": "バンドギャップ",
+		"etymology": {
+			"components": [
+				"Band",
+				"Gap"
+			],
+			"original_statement": "Forbidden energy range."
+		},
+		"concept": "The forbidden energy zone",
+		"thinking": "電子の立ち入りを許さない空白。物質を導体か半導体か運命付ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "fermi_level_adv",
+		"word": "Fermi Level",
+		"meaning": "フェルミ準位",
+		"etymology": {
+			"components": [
+				"Fermi"
+			],
+			"original_statement": "Thermodynamic potential for electrons."
+		},
+		"concept": "The water-level of energy",
+		"thinking": "電子たちが静かに満たされている水面。ここでのさざ波が電流を生む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "brillouin_zone_adv",
+		"word": "Brillouin Zone",
+		"meaning": "ブリルアン・ゾーン",
+		"etymology": {
+			"components": [
+				"Brillouin"
+			],
+			"original_statement": "Unit cell in reciprocal space."
+		},
+		"concept": "The fundamental unit of momentum",
+		"thinking": "運動量の世界における、情報の最初で最も本質的な対称性の部屋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "phonon_mode_phys",
+		"word": "Phonon",
+		"meaning": "フォノン",
+		"etymology": {
+			"components": [
+				"Greek phone"
+			],
+			"original_statement": "Quantized lattice vibration."
+		},
+		"concept": "Quantized vibration",
+		"thinking": "原子たちの集団的な揺らぎを、一粒の粒子として捉えたもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "superconductivity_adv",
+		"word": "Superconduct",
+		"meaning": "超伝導",
+		"etymology": {
+			"components": [
+				"Super-",
+				"Conduce"
+			],
+			"original_statement": "Zero electrical resistance."
+		},
+		"concept": "Frictionless dance of pairs",
+		"thinking": "一切の抵抗を捨て、電子たちがペアを組んで永遠に踊り続ける至福。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "meissner_effect",
+		"word": "Meissner",
+		"meaning": "マイスナー効果",
+		"etymology": {
+			"components": [
+				"Meissner"
+			],
+			"original_statement": "Magnetic field expulsion."
+		},
+		"concept": "The perfect magnetic shield",
+		"thinking": "外部からの磁界をその身から完璧に排除する、超伝導体の気高き拒絶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "cooper_pair_adv",
+		"word": "Cooper Pair",
+		"meaning": "クーパー対",
+		"etymology": {
+			"components": [
+				"Cooper"
+			],
+			"original_statement": "Bound electron pairs."
+		},
+		"concept": "Algebraic marriage of opposites",
+		"thinking": "本来反発し合う電子が、原子の震えを介して手を取り合う奇跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "bose_einstein_condens",
+		"word": "BEC",
+		"meaning": "ボース・アインシュタイン凝縮",
+		"etymology": {
+			"components": [
+				"Bose",
+				"Einstein"
+			],
+			"original_statement": "Identical quantum state occupation."
+		},
+		"concept": "Unified atomic resonance",
+		"thinking": "数多の原子が個性を捨てて一つの巨大な波へと溶け合う、静かな調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "spintronics_adv",
+		"word": "Spintronics",
+		"meaning": "スピントロニクス",
+		"etymology": {
+			"components": [
+				"Spin",
+				"Electronics"
+			],
+			"original_statement": "Harnessing electron spin."
+		},
+		"concept": "The new dimension of data",
+		"thinking": "電流だけでなく、電子の回転さえも情報として操るミクロな磁性の舞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "giant_magnet_resist",
+		"word": "GMR",
+		"meaning": "巨大磁気抵抗効果",
+		"etymology": {
+			"components": [
+				"Giant",
+				"Magnetic"
+			],
+			"original_statement": "Significant resistance change."
+		},
+		"concept": "The sensitivity of spin layers",
+		"thinking": "積層された微小磁石が磁界を感知する、現代ハードディスクの感覚器官。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "topological_insul",
+		"word": "Topo Insulator",
+		"meaning": "トポロジカル絶縁体",
+		"etymology": {
+			"components": [
+				"Topological",
+				"Insulator"
+			],
+			"original_statement": "Surface conductor, interior insulator."
+		},
+		"concept": "The protected edge current",
+		"thinking": "内部は沈黙し、境界だけが滔々と流れる、ねじれに守られた不変の流れ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "dirac_semimetal",
+		"word": "Dirac Semimetal",
+		"meaning": "ディラック半金属",
+		"etymology": {
+			"components": [
+				"Dirac"
+			],
+			"original_statement": "Linear dispersion in 3D."
+		},
+		"concept": "Relativistic electrons in solids",
+		"thinking": "電子たちが、まるで質量を持たない光のように振る舞う相対論的結晶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "weyl_semimetal",
+		"word": "Weyl Semimetal",
+		"meaning": "ワイル半金属",
+		"etymology": {
+			"components": [
+				"Weyl"
+			],
+			"original_statement": "Chiral nodes in materials."
+		},
+		"concept": "Conductivity from chiral nodes",
+		"thinking": "ねじれの源（ワイル点）が潜み、奇妙なホール効果を立ち上げる物質。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "quantum_hall_effect",
+		"word": "Quantum Hall",
+		"meaning": "量子ホール効果",
+		"etymology": {
+			"components": [
+				"Quantum",
+				"Hall"
+			],
+			"original_statement": "Quantized Hall conductance."
+		},
+		"concept": "The stepped march of electrons",
+		"thinking": "強烈な磁場下で電流が階段状に変化する、完璧な精度の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "berry_phase_phys",
+		"word": "Berry Phase",
+		"meaning": "ベリー位相",
+		"etymology": {
+			"components": [
+				"Berry"
+			],
+			"original_statement": "Geometric phase in cycle."
+		},
+		"concept": "The memory of the journey",
+		"thinking": "一周回って戻っても、旅路のねじれが記憶のように残ってしまう性質。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "photonic_crystal",
+		"word": "Photonic Xtal",
+		"meaning": "フォトニック結晶",
+		"etymology": {
+			"components": [
+				"Greek phos"
+			],
+			"original_statement": "Photonic bandgap structure."
+		},
+		"concept": "The forbidden zone for light",
+		"thinking": "光の入れない禁制帯を持ち、光を自在に閉じ込め、操るための回路。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "metamaterial_adv",
+		"word": "Metamaterial",
+		"meaning": "メタマテリアル",
+		"etymology": {
+			"components": [
+				"Greek meta-"
+			],
+			"original_statement": "Natural-defying engineered materials."
+		},
+		"concept": "Beyond the gifts of nature",
+		"thinking": "光を逆方向に屈折させるなど、自然の常識を人工構造で再定義する魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "piezoelectric_effect",
+		"word": "Piezoelectric",
+		"meaning": "圧電効果",
+		"etymology": {
+			"components": [
+				"Greek piezein"
+			],
+			"original_statement": "Charge from stress."
+		},
+		"concept": "Energy from the squeeze",
+		"thinking": "押し潰すことで電気が生まれる、物理的な叫びを電気に変換する様。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "thermoelectric_eff",
+		"word": "Thermoelectric",
+		"meaning": "熱電効果",
+		"etymology": {
+			"components": [
+				"Greek thermos"
+			],
+			"original_statement": "Heat to electricity conversion."
+		},
+		"concept": "Voltage from heat",
+		"thinking": "温度の勾配から電流を汲み出す。乱雑な熱を秩序ある電気へ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "nanotechnology_adv",
+		"word": "Nanotechnology",
+		"meaning": "ナノテクノロジー",
+		"etymology": {
+			"components": [
+				"Greek nanos"
+			],
+			"original_statement": "Atomic-scale engineering."
+		},
+		"concept": "The engineering of the tiny",
+		"thinking": "原子を一つずつ並べ、宇宙の最小単位から直接機能を編み上げる挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "carbon_nanotube",
+		"word": "Nanotube",
+		"meaning": "カーボンナノチューブ",
+		"etymology": {
+			"components": [
+				"Carbon",
+				"Nano",
+				"Tube"
+			],
+			"original_statement": "Cylindrical carbon structures."
+		},
+		"concept": "The molecular rope of steel",
+		"thinking": "炭素が筒状に組み合わさった、鋼鉄より強い未来を支える夢の糸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "graphene_monolayer",
+		"word": "Graphene",
+		"meaning": "グラフェン",
+		"etymology": {
+			"components": [
+				"Graphite",
+				"-ene"
+			],
+			"original_statement": "Hexagonal carbon lattice layer."
+		},
+		"concept": "The two-dimensional wonder",
+		"thinking": "原子一個分の究極の薄さ。驚異の導電性を持つ二次元世界の主役。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "perovskite_structure",
+		"word": "Perovskite",
+		"meaning": "ペロブスカイト",
+		"etymology": {
+			"components": [
+				"Perovski"
+			],
+			"original_statement": "Solar crystal structure."
+		},
+		"concept": "The geometric sponge of light",
+		"thinking": "美しき立方体の骨組みを持ち、高効率に電気へ変える次世代の寵児。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "shape_memory_alloy",
+		"word": "Shape Memory",
+		"meaning": "形状記憶合金",
+		"etymology": {
+			"components": [
+				"Shape",
+				"Memory"
+			],
+			"original_statement": "Thermally-driven shape return."
+		},
+		"concept": "Material nostalgia",
+		"thinking": "歪められても、熱刺激で「本来の自分」を思い出す形への郷愁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "superalloy_adv",
+		"word": "Superalloy",
+		"meaning": "超合金",
+		"etymology": {
+			"components": [
+				"Super-",
+				"Alloy"
+			],
+			"original_statement": "High-temp strength alloy."
+		},
+		"concept": "Resilience in the furnace",
+		"thinking": "灼熱の中でも、その貌を守り抜くために鍛えられた不屈の金属。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "dislocation_phys",
+		"word": "Dislocation",
+		"meaning": "転位",
+		"etymology": {
+			"components": [
+				"Latin dis-",
+				"Locare"
+			],
+			"original_statement": "Lattice defect movement."
+		},
+		"concept": "The mobile flaw of order",
+		"thinking": "完璧な秩序の中に紛れ込んだ傷。それが動くことで金属は粘り強く曲がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "grain_boundary_adv",
+		"word": "Grain Boundary",
+		"meaning": "結晶粒界",
+		"etymology": {
+			"components": [
+				"Grain",
+				"Boundary"
+			],
+			"original_statement": "Crystallite interface."
+		},
+		"concept": "The seam of atomic empires",
+		"thinking": "異なる向きを向いた秩序たちが衝突し、折り合いをつける境界線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "amorphous_solid",
+		"word": "Amorphous",
+		"meaning": "非晶質",
+		"etymology": {
+			"components": [
+				"Greek a-",
+				"Morphe"
+			],
+			"original_statement": "Lacking long-range order."
+		},
+		"concept": "The frozen liquid",
+		"thinking": "形を持たない。自由な配置のまま一瞬で凍りついたカオスの氷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "diffraction_limit",
+		"word": "Diffraction",
+		"meaning": "回折限界",
+		"etymology": {
+			"components": [
+				"Latin dis-",
+				"Frangere"
+			],
+			"original_statement": "Resolution limit from diffraction."
+		},
+		"concept": "The blurry boundary of reality",
+		"thinking": "光が障害物を回って砕け広がるため、決して見ることができない極限。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "scanning_tunneling",
+		"word": "STM",
+		"meaning": "STM",
+		"etymology": {
+			"components": [
+				"Scan",
+				"Tunneling"
+			],
+			"original_statement": "Atomic surface imaging."
+		},
+		"concept": "Touching atoms via quantum leaps",
+		"thinking": "針先から壁抜け電流を流し、原子の凹凸をなぞる究極の触覚。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "xray_crystallography",
+		"word": "X-ray Crystal",
+		"meaning": "X線構造解析",
+		"etymology": {
+			"components": [
+				"X-ray",
+				"Crystal"
+			],
+			"original_statement": "Diffractive structure determination."
+		},
+		"concept": "The shadow-dance of atoms",
+		"thinking": "光を当てて散らばった影子から、内部の配置を甦らせる魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "spectroscopy_adv",
+		"word": "Spectroscopy",
+		"meaning": "分光法",
+		"etymology": {
+			"components": [
+				"Latin spectrum",
+				"Greek skopein"
+			],
+			"original_statement": "Matter-light interaction study."
+		},
+		"concept": "Listening to the colors of matter",
+		"thinking": "物質の放つ虹の欠落から、彼らが誰であるかを読み解く署名。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "synchrotron_light",
+		"word": "Synchrotron",
+		"meaning": "放射光",
+		"etymology": {
+			"components": [
+				"Sync",
+				"Chronos"
+			],
+			"original_statement": "High-brightness accelerator light."
+		},
+		"concept": "The artificial sun of science",
+		"thinking": "電子が加速されカーブを切る瞬間に放つ、宇宙一の明るい光。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "lattice_dynamics",
+		"word": "Lattice Dynam",
+		"meaning": "格子力学",
+		"etymology": {
+			"components": [
+				"Lattice",
+				"Greek dynamis"
+			],
+			"original_statement": "Lattice vibration study."
+		},
+		"concept": "The music of the crystals",
+		"thinking": "静的な格子に潜む、激しい震え。熱や音がどう踊るかを知る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "effective_mass",
+		"word": "Effective Mass",
+		"meaning": "有効質量",
+		"etymology": {
+			"components": [
+				"Effective",
+				"Latin massa"
+			],
+			"original_statement": "In-lattice particle mass."
+		},
+		"concept": "Weight through environment",
+		"thinking": "結晶という森を抜けるとき、電子が周囲との干渉で感じる重さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "hole_carrier",
+		"word": "Hole (Physics)",
+		"meaning": "正孔",
+		"etymology": {
+			"components": [
+				"Hole"
+			],
+			"original_statement": "Positive carrier from absence."
+		},
+		"concept": "The creative absence",
+		"thinking": "電子が去ったあとの穴が、あたかも実体のように動き出す逆転。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "dopant_impurity",
+		"word": "Dopant",
+		"meaning": "ドーパント",
+		"etymology": {
+			"components": [
+				"Dutch doop"
+			],
+			"original_statement": "Semiconductor impurity trace."
+		},
+		"concept": "The catalytic flaw",
+		"thinking": "清浄な世界に混ぜる微かなスパイスが、劇的な変容を招く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "diffusivity_solid",
+		"word": "Diffusivity",
+		"meaning": "拡散性",
+		"etymology": {
+			"components": [
+				"Latin diffundere"
+			],
+			"original_statement": "Atomic diffusion rate."
+		},
+		"concept": "Atomic travel speed",
+		"thinking": "岩盤のような結晶の中でも、原子は密かに溢れ出し場所を替える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "anisotropy_adv",
+		"word": "Anisotropy",
+		"meaning": "異方性",
+		"etymology": {
+			"components": [
+				"Greek an-",
+				"Isos",
+				"Tropos"
+			],
+			"original_statement": "Directional dependence."
+		},
+		"concept": "The bias of direction",
+		"thinking": "宇宙は平等ではない。進む向きによって速さも強さも変わる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "hysteresis_loop",
+		"word": "Hysteresis",
+		"meaning": "ヒステリシス",
+		"etymology": {
+			"components": [
+				"Greek hysteresis"
+			],
+			"original_statement": "History-dependent state."
+		},
+		"concept": "The memory of loss",
+		"thinking": "一度かけた磁界を解いても、物質はその記憶をすぐには離さない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "coercivity_phys",
+		"word": "Coercivity",
+		"meaning": "保磁力",
+		"etymology": {
+			"components": [
+				"Latin coercere"
+			],
+			"original_statement": "Magnetic resistance force."
+		},
+		"concept": "The stubbornness of orientation",
+		"thinking": "逆風に抗って、自分の中の磁石の向きを守り抜こうとする強情さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "dielectric_const",
+		"word": "Dielectric",
+		"meaning": "誘電率",
+		"etymology": {
+			"components": [
+				"Greek dia-",
+				"Electric"
+			],
+			"original_statement": "Charge storage ability."
+		},
+		"concept": "The polarization of the void",
+		"thinking": "電気を受け止め、その身に溜め込む。物質が震えやすい度合い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "refractive_index_adv",
+		"word": "Refractive Ind",
+		"meaning": "屈折率",
+		"etymology": {
+			"components": [
+				"Latin re-",
+				"Frangere"
+			],
+			"original_statement": "Light speed reduction ratio."
+		},
+		"concept": "The measure of light's delay",
+		"thinking": "光が物質に入り、速さを砕かれ戸惑う度合い。その分、光は折れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "quantum_dot_nano",
+		"word": "Quantum Dot",
+		"meaning": "量子ドット",
+		"etymology": {
+			"components": [
+				"Quantum",
+				"Dot"
+			],
+			"original_statement": "Artificial atom nanocrystal."
+		},
+		"concept": "The artificial atom of light",
+		"thinking": "小さく閉じ込められ点となった半導体。サイズ一つで色を変える魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"材料科学の最前線へ。"
+			]
+		},
+		"example": "Material properties emerge from the dance of electrons."
 	}
 ];
