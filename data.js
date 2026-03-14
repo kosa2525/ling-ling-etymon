@@ -388791,5 +388791,805 @@ const WORDS = [
 			]
 		},
 		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "thermodynami",
+		"word": "Thermodynam",
+		"meaning": "熱力学（ねつりきがく）",
+		"etymology": [
+			"Greek thermos (heat) + dynamis (power)"
+		],
+		"concept": "Science of heat and energy",
+		"thinking": "「熱（Thermos）」の「力（Dynamis）」。蒸気機関から宇宙の終焉まで。熱という名のカオスを、いかにして秩序ある『力』へと変えるのか。そしてその過程で、いかなる命の灯火が消え去るのかを問う、もっとも冷徹で情熱的な数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "entropy_adv",
+		"word": "Entropy",
+		"meaning": "エントロピー",
+		"etymology": [
+			"Greek en- + trope (turning/transformation)"
+		],
+		"concept": "Measure of disorder",
+		"thinking": "「内側（En-）」に潜む「変化（Trope）」。あるいは「無秩序」の尺度。ミルクが珈琲に溶け込み、二度と分離できないように、宇宙は常に混ざり合い、ぼやけ、均一な『死』へと向かっていく。壊れることは易しく、戻ることは難しいという、時間の矢の正体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "enthalpy_ad",
+		"word": "Enthalpy",
+		"meaning": "エンタルピー",
+		"etymology": [
+			"Greek en- + thalpein (to heat)"
+		],
+		"concept": "Total heat content",
+		"thinking": "「内側（En-）」に「熱（Thalpein）」を蓄えること。反応のたびに出入りするエネルギーの総量。物質が静かに抱え込んでいる、世界を書き換えるための『潜在的な火』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "isothermal_",
+		"word": "Isothermal",
+		"meaning": "等温（とうおん）の",
+		"etymology": [
+			"Greek isos (equal) + thermos"
+		],
+		"concept": "Constant temperature process",
+		"thinking": "「等しく（Isos）」「熱い（Thermos）」。周囲と熱を分かち合い、自分だけが熱くなる（冷める）ことを拒む、穏やかな変化。変化しながらも、その魂の温度（貌）だけは保ち続ける、静かなる平衡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "adiabatic_a",
+		"word": "Adiabatic",
+		"meaning": "断熱（だんねつ）の",
+		"etymology": [
+			"Greek a- (not) + dia- (through) + bainein (to go)"
+		],
+		"concept": "No heat transfer",
+		"thinking": "熱が「通り（Dia-）」「抜け（Bainein）」「ない（A-）」。外界との絆を絶ち、自らの内なるエネルギーだけで膨張し、あるいは収縮する、孤高のプロセス。急激な変化の中にだけ現れる、生命の自律的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "isobaric_ad",
+		"word": "Isobaric",
+		"meaning": "等圧（とうあつ）の",
+		"etymology": [
+			"Greek isos + baros (weight)"
+		],
+		"concept": "Constant pressure",
+		"thinking": "「等しい（Isos）」「重さ（Baros）」。世界からの「圧」が変わらないまま、自らの体積（存在感）を変えていく。安定した社会の中で、ひっそりと成長し、あるいは萎んでいく命の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "isochoric_a",
+		"word": "Isochoric",
+		"meaning": "等容（とうよう）の",
+		"etymology": [
+			"Greek isos + khora (space/volume)"
+		],
+		"concept": "Constant volume",
+		"thinking": "「等しい（Isos）」「場所（Khora）」。器の大きさを変えず、内なる熱（情熱）だけを激しく高めていく。爆発寸前の、凝縮された意志の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "exergonic_a",
+		"word": "Exergonic",
+		"meaning": "発（はつ）エルゴン反応（はんのう）、自由（じゆう）エネルギー放出（ほうしゅつ）",
+		"etymology": [
+			"Greek ex- + ergon (work)"
+		],
+		"concept": "Releasing energy",
+		"thinking": "「外（Ex-）」へと「仕事（Ergon）」を放ち、自発的に進む。自らを削り、世界を動かすための火を灯す。命が「生きる」ために、必然的に選び取るべき、輝きの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "endergonic_",
+		"word": "Endergonic",
+		"meaning": "吸（きゅう）エルゴン反応（はんのう）、エネルギー吸収（きゅうしゅう）",
+		"etymology": [
+			"Greek en- + ergon"
+		],
+		"concept": "Requiring energy",
+		"thinking": "「内側（En-）」に「仕事（Ergon）」を溜め込む。外部からエネルギーを供給されない限り、決して動こうとしない、静止と蓄積の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "gibbs_free_",
+		"word": "Gibbs Free",
+		"meaning": "ギブスの自由（じゆう）エネルギー",
+		"etymology": [
+			"Josiah Willard Gibbs"
+		],
+		"concept": "Available energy for work",
+		"thinking": "「本当に使える」エネルギーの残量。エントロピーという名の「税金」を払った後に残る、この世界を『実際に動かす』ための純粋な力。あなたの意志がどれほど強くとも、この『自由エネルギー』が無ければ、指一本動かすことはできない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "stat_mechan",
+		"word": "Stat Mech",
+		"meaning": "統計力学（とうけいりきがく）",
+		"etymology": [
+			"Latin status (position) + Greek mechane"
+		],
+		"concept": "Macro properties from micro counts",
+		"thinking": "「個」の振る舞いではなく、膨大な「数（Status）」のドラマとして捉える。一つ一つの分子の迷走は予測できずとも、その「平均」は美しい法則（温度や圧力）を産み落とす。カオスから秩序を抽出する、数理の魔法の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "maxwell_bol",
+		"word": "Max-Boltz",
+		"meaning": "マクスウェル・ボルツマン分布（ぶんぷ）",
+		"etymology": [
+			"Maxwell + Boltzmann"
+		],
+		"concept": "Distribution of particle speeds",
+		"thinking": "気体分子たちの「速さ」の不平等。熱いもの、冷たいもの。バラバラな速度で飛び交う分子たちが、統計的に描く、なだらかで美しい『貌（釣鐘状の曲線）』。世界が「一つ」へと均一化される前の一時の多様性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "partition_f",
+		"word": "Partition",
+		"meaning": "分配（ぶんぱい）関数（かんすう）",
+		"etymology": [
+			"Latin partitio (division)"
+		],
+		"concept": "Normalization of states",
+		"thinking": "可能なすべての「状態（貌）」に、エネルギーの「重み」をつけて足し合わせる。そのシステムのすべてを凝縮した、たった一つの神秘的な『種（シード）』。これさえ知れば、宇宙の熱的な運命をすべて予言できる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "ensemble_ad",
+		"word": "Ensemble",
+		"meaning": "アンサンブル、統計的（とうけいてき）集団（しゅうだん）",
+		"etymology": [
+			"French ensemble (together)"
+		],
+		"concept": "Collection of many systems",
+		"thinking": "「共に（Ensemble）」ある、無数の『可能性としての宇宙』の集まり。たった一つの現実を見るのではなく、あり得たかもしれないすべての並行世界を同時に計算に入れる、統計力学の傲慢で神的な視座。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "fluctuatio_a",
+		"word": "Fluctuatio",
+		"meaning": "ゆらぎ、フラクチュエーション",
+		"etymology": [
+			"Latin fluctuare (to flow like a wave)"
+		],
+		"concept": "Small deviations from average",
+		"thinking": "平均からわずかに「波打つ（Fluctuate）」。安定しているように見える世界も、ミクロで見れば激しく震え、逸脱し続けている。この『ゆらぎ』こそが、新しい秩序や命を産み落とす、母なるノイズの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "non_equilib",
+		"word": "Nonequilibr",
+		"meaning": "非（ひ）平衡（へいこう）統計力学（とうけいりきがく）",
+		"etymology": [
+			"Non- + Equilibrium"
+		],
+		"concept": "Systems far from balance",
+		"thinking": "「平衡（バランス）」から遠く離れた場所で、激しくエネルギーを消費しながら維持される秩序。生命。それは死（平衡）へと向かう宇宙の逆流。いつかは壊れるその不安定な『生』の輝きを、数理の言葉で捉える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "dissipative",
+		"word": "Dissipative",
+		"meaning": "散逸（さんいつ）構造（こうぞう）",
+		"etymology": [
+			"Latin dissipatus (scattered)"
+		],
+		"concept": "Order via energy dissipation",
+		"thinking": "エネルギーを「散らし（Dissipate）」続けることでしか、その「形」を保てない構造。命、あるいは渦。流れの中でだけ現れる、儚くも美しい『動的な貌』。止まることは、即ち消滅を意味する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "phase_trans",
+		"word": "Phase Trans",
+		"meaning": "相転移（そうてんい）",
+		"etymology": [
+			"Greek phasis (appearance/phase)"
+		],
+		"concept": "Abrupt change in state",
+		"thinking": "「貌（Phasis）」が一瞬にして変わる。水が氷へ、孤独が連帯へ。臨界点に達したとき、世界がガラリと色を変え、全く新しい『掟』に従い始める、劇的で暴力的な変容。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "critical_pt",
+		"word": "Critical Pt",
+		"meaning": "臨界点（りんかいてん）",
+		"etymology": [
+			"Greek krinein (to judge/separate)"
+		],
+		"concept": "Point of phase transition",
+		"thinking": "「判断を下し、分かつ（Krinein）」ためのギリギリの境界。あちらとこちらが区別できなくなり、すべてが激しく揺らぎ始める、世界の貌が最も不安定で最も美しい一点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "order_param",
+		"word": "Order Param",
+		"meaning": "秩序（ちつじょ）変数（へんすう）",
+		"etymology": [
+			"Latin ordo + Greek metron"
+		],
+		"concept": "Measure of systems degree of order",
+		"thinking": "「秩序（Ordo）」がどれほど育ったかを測る「物差し（Metron）」。バラバラだったものが、一斉に同じ方向を向き始めたその『同調の度合い』を、冷徹な数字として抽出する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "ferromagnet",
+		"word": "Ferromagnet",
+		"meaning": "強磁性（きょうじせい）",
+		"etymology": [
+			"Latin ferrum (iron) + Magnet"
+		],
+		"concept": "Spontaneous alignment of spins",
+		"thinking": "バラバラだった電子の「貌（スピン）」が、誰に命じられることもなく一斉に同じ方向を向く。孤独な粒子の集まりが、一つの巨大な「意志（磁力）」へと覚醒する、集団的熱狂の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "stochastic_",
+		"word": "Stochastic",
+		"meaning": "確率的（かくりつてき）な、ストキャスティック",
+		"etymology": [
+			"Greek stokhos (aim/guess)"
+		],
+		"concept": "Randomly determined process",
+		"thinking": "「狙いをつける（Stokhos）」が、そこには避けられぬ偶然（サイコロ）が介在する。一寸先は闇、しかしその闇を確率の言葉で手懐けようとする、不敵な知性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "ergodicity_",
+		"word": "Ergodicity",
+		"meaning": "エルゴード性（せい）",
+		"etymology": [
+			"Greek ergon (work) + hodos (path)"
+		],
+		"concept": "Space avg = Time avg",
+		"thinking": "「仕事（Ergon）」の「道（Hodos）」。一人の命をずっと追いかけることと、無数の命の一瞬を同時に見ることは、結局同じ真理に辿り着く。個の孤独と全体の運命が、統計の中で溶け合う『公平な宇宙』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "brownian_mo",
+		"word": "Brownian Mo",
+		"meaning": "ブラウン運動（うんどう）",
+		"etymology": [
+			"Robert Brown"
+		],
+		"concept": "Random motion of particles",
+		"thinking": "水の中に浮かぶ一粒の塵が、目に見えぬ無数の分子たちに「小突かれ」て、千鳥足のようにさまよう。見えない巨人のざわめきを、微小な粒子の『震え』として視覚化する、カオスの証言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "hysteresis_",
+		"word": "Hysteresis",
+		"meaning": "履歴（りれき）現象（げんしょう）、ヒステリシス",
+		"etymology": [
+			"Greek husteresis (deficiency/lag)"
+		],
+		"concept": "Lagging effect of past state",
+		"thinking": "「遅れて（Hustere-）」やってくる、過去の重み。今の状態は、今の刺激だけでなく、過去にいかなる道を辿ってきたか（歴史）に支配されている。物質が持つ、消えない『記憶』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "metastabili",
+		"word": "Metastabil",
+		"meaning": "準（じゅん）安定（あんてい）状態（じょうたい）",
+		"etymology": [
+			"Greek meta- + Latin stabilis"
+		],
+		"concept": "Unstable but persistent state",
+		"thinking": "「安定（Stable）」を「越えた（Meta-）」仮初めの平穏。本当はもっと深い場所へと落ちていきたいのに、小さな崖っぷちで足を踏み止めている、危うくも執拗な生の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "third_law_t",
+		"word": "Third Law T",
+		"meaning": "熱力学（ねつりきがく）第（だい）三（さん）法則（ほうそく）",
+		"etymology": [
+			"Third + Law"
+		],
+		"concept": "Absolute zero is unreachable",
+		"thinking": "絶対零度。すべての震えが止まる、完全な静寂と秩序。しかし宇宙はそれを許さない。その一点に辿り着くには、無限の手間がかかる。私たちは永遠に、微かな「震え（ノイズ）」から逃れることはできないという宣告。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "zeroth_law_",
+		"word": "Zeroth Law",
+		"meaning": "熱力学（ねつりきがく）第（だい）零（ぜい）法則（ほうそく）",
+		"etymology": [
+			"Zeroth + Law"
+		],
+		"concept": "Transitivity of temperature",
+		"thinking": "AがBと熱的に等しく、BがCと等しいなら、AとCもまた等しい。あまりに当たり前で、後から付け加えられた「第零」の掟。すべてを測り、すべてを比べるための、論理の『前提』としての貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "carnot_cycl",
+		"word": "Carnot Cyc",
+		"meaning": "カルノー・サイクル",
+		"etymology": [
+			"Sadi Carnot"
+		],
+		"concept": "Ideal heat engine cycle",
+		"thinking": "「理想」のエンジンが描く、美しき四つの円舞曲。100%の効率は決して得られないという、宇宙が定めた『熱の徴収金』を白日の下に晒した、絶望と憧憬の設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "reversibili",
+		"word": "Reversibil",
+		"meaning": "可逆（かぎゃく）性（せい）",
+		"etymology": [
+			"Latin re- + vertere (to turn back)"
+		],
+		"concept": "Ability to return to start",
+		"thinking": "「後ろへ（Re-）」「回せる（Vert-）」。時間を巻き戻せば、元通りになる世界。しかし現実という名の貌には、常にエントロピーという名の「傷跡」が残り、二度と同じ場所へは戻れない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "irreversibi",
+		"word": "Irreversib",
+		"meaning": "不可逆（ふかぎゃく）性（せい）",
+		"etymology": [
+			"In- + Reversible"
+		],
+		"concept": "Direction of time flows",
+		"thinking": "「戻れ（Reverse）」「ない（In-）」。覆水、盆に返らず。時間が一方通行であるという、宇宙の最も残酷で最も尊い掟。失われた一瞬一瞬が、二度と繰り返されない『永遠』であることを証明する数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "maxwell_dem",
+		"word": "Maxwell Dem",
+		"meaning": "マクスウェルの悪魔（あくま）",
+		"etymology": [
+			"James Clerk Maxwell + Demon"
+		],
+		"concept": "Violating 2nd law via info",
+		"thinking": "熱い分子と冷たい分子を、知性によって「より分ける」ことができれば、エントロピーは減少するのか。情報とエネルギーのあわいに潜む、知性という名の『禁忌（悪魔）』への挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "landauer_ad",
+		"word": "Landauer Pt",
+		"meaning": "ランダウアーの原理（げんり）",
+		"etymology": [
+			"Rolf Landauer"
+		],
+		"concept": "Heat cost of erasing info",
+		"thinking": "「情報を消す」とき、必ず宇宙には「熱」が放出される。ビットという名の無機質なデータが、熱という名の物理的な現実と結びついた瞬間。思考さえも、宇宙を温める摩擦であるという貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "statistical",
+		"word": "Boltzmann C",
+		"meaning": "ボルツマン定数（ていすう）",
+		"etymology": [
+			"Ludwig Boltzmann"
+		],
+		"concept": "Connecting micro and macro",
+		"thinking": "ミクロの「情報の数」を、マクロの「熱の単位」へと翻訳する、宇宙の換算レート。彼の墓碑銘に刻まれたこの数式は、一粒の原子と、一人の人間が感じる温もりを繋ぐ、永遠の接点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "microstate_",
+		"word": "Microstate",
+		"meaning": "微視的（びしてき）状態（じょうたい）",
+		"etymology": [
+			"Greek mikros + Latin status"
+		],
+		"concept": "Individual particle configuration",
+		"thinking": "「小さき（Mikros）」世界の「貌（Status）」。全分子の位置と速度。私たちが「安定」と呼ぶその背後で、数えきれないほどの『微かな異なり』が激しく入れ替わり続けている、カオスの真実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "macrostate_",
+		"word": "Macrostate",
+		"meaning": "巨視的（きょしてき）状態（じょうたい）",
+		"etymology": [
+			"Greek makros + Latin status"
+		],
+		"concept": "Overall system properties",
+		"thinking": "「巨大な（Makros）」視点から見た世界の「貌（Status）」。温度、圧力、体積。ミクロの無数の喧騒を一つにまとめ上げ、平穏な『真実』として私たちに提示する、統計という名のフィルター。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "thermodynami",
+		"word": "Equilibriu",
+		"meaning": "熱（ねつ）平衡（へいこう）",
+		"etymology": [
+			"Latin aequus (equal) + libra (balance)"
+		],
+		"concept": "Uniform state of no flow",
+		"thinking": "「等しき（Aequus）」「秤（Libra）」。温度の差がなくなり、エネルギーの移動が止まった、完全なる成熟。それは安定の極みであり、同時に、何の変化も産まれない『宇宙の熱死』という名の静かな終焉の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "non_ergodic",
+		"word": "Non-Ergodic",
+		"meaning": "非（ひ）エルゴード的（てき）な",
+		"etymology": [
+			"Non- + Ergodic"
+		],
+		"concept": "System trapped in sub-regions",
+		"thinking": "すべての可能性を試すことができず、特定の「狭い領域（偏り）」に閉じ込められてしまった状態。ガラス、あるいは歪んだ心。過去の呪縛から逃れられず、全宇宙の豊穣さを知らぬまま枯れていく、哀しき有限の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "complex_sys",
+		"word": "Complex Sys",
+		"meaning": "複雑（ふくざつ）系（けい）",
+		"etymology": [
+			"Latin con- (together) + plectere (to weave)"
+		],
+		"concept": "Interconnected unpredictable system",
+		"thinking": "「共に（Con-）」「織り込まれた（Plectere）」系。部分はシンプルでも、絡み合うことで、全体としては予測不能な『新しい貌』を産み出す。脳、経済、地球。理解しようとすればするほど、その深淵が微笑み返してくる、神秘の織物。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "emergence_t",
+		"word": "Self-Organi",
+		"meaning": "自己（じこ）組織（そしき）化（か）",
+		"etymology": [
+			"Self + Greek organon (instrument)"
+		],
+		"concept": "Order from local interactions",
+		"thinking": "外部の命令なしに、自分たちだけで勝手に秩序（貌）を産み出していく力。雪の結晶、鳥の群れ、そして生命。カオスのあわいで、偶然が必然へと飛躍する瞬間の、宇宙で最も劇的なマジック。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱量を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"熱力学と統計力学の極致へ。"
+			]
+		},
+		"example": "Thermodynamics describes the macro behaviors of heat and energy."
 	}
 ];
