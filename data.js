@@ -327852,5 +327852,240 @@ const WORDS = [
 				"現象の背後にある法則を索めて。"
 			]
 		}
+	},
+	{
+		"id": "laplacian_math",
+		"word": "Laplacian",
+		"meaning": "ラプラシアン、ラプラス演算子",
+		"era": "Named after Pierre-Simon Laplace",
+		"etymology": {
+			"components": [
+				"Pierre-Simon Laplace (Mathematician)"
+			],
+			"original_statement": "Named after Pierre-Simon Laplace, who used the operator in celestial mechanics."
+		},
+		"concept": "The measure of local smoothness (場所ごとの滑らかさ、平穏の守護神)",
+		"thinking": "数学者ラプラスの名。ある地点が、周囲に比べてどれだけ『突出』しているか、あるいは『沈んでいる』かを示す魔法の指標。熱が平らになろうとしたり、膜がピンと張ろうとしたりする時、この演算子が世界の『平穏（平衡）』を目指す動きを司ります。",
+		"aftertaste": "周りから浮きすぎていないか、あるいは沈みすぎていないか。そっと測ってみて。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "diffusion_math",
+		"word": "Diffusion",
+		"meaning": "拡散、普及、散漫",
+		"era": "Latin dis- + fundere",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"fundere (to pour)"
+			],
+			"original_statement": "From Latin diffusionem 'a pouring forth / spreading out', from diffundere 'to pour apart'."
+		},
+		"concept": "Pouring out apart into the world (世界へ注ぎ出す、平均化への旅)",
+		"thinking": "「バラバラに（Dis）」「注ぎ込む（Fund）」。濃いところから薄いところへ、熱や香りが静かにじわじわと広がっていく、宇宙の謙虚な平等主義。一箇所に留まらず、境界を越えて混ざり合い、すべてを心地よい『平均』へと導く、時の流れの別名です。",
+		"aftertaste": "あなたの素敵な香（アイデア）を、惜しみなく世界に拡散させて。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "harmonic_math",
+		"word": "Harmonic",
+		"meaning": "調和の、倍音、調和関数",
+		"era": "Greek harmonia",
+		"etymology": {
+			"components": [
+				"harmonia (joint / agreement / music)"
+			],
+			"original_statement": "From Greek harmonia 'joint / agreement / concordant sound', from harmos 'joint'."
+		},
+		"concept": "Being in a joint agreement (節度を持って一致する、偏りのない安定)",
+		"thinking": "「繋ぎ目（Harmos）」が一致していること。どこを切り取っても周囲との平均が自分自身に一致するという、究極の安定（ラプラス方程式）を満たす関数。出っ張りも凹みもない、磨き抜かれた鏡面のような心の平和を指します。",
+		"aftertaste": "周囲と調和し、偏りのない心。それが『ハーモニック（調和）』の極意です。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "boundary_condition",
+		"word": "Boundary",
+		"meaning": "境界、境界条件、限界",
+		"era": "Old French bounde",
+		"etymology": {
+			"components": [
+				"bounde (limit / boundary)"
+			],
+			"original_statement": "From Old French bounde, from Medieval Latin bodina."
+		},
+		"concept": "The line of definition (定義を司る線、世界を縛る約束)",
+		"thinking": "「境界（Bound）」。方程式という広大な可能性の海に、現実としての唯一の正解を与えるための『最果ての約束』。海がどこまでかを岸が決めるように、あなたの人生の正解も、あなたが定めた『限界（ルール）』によって決まります。",
+		"aftertaste": "限界（境界）があるからこそ、その内側にある自由が形を成します。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "eigenfunction_math",
+		"word": "Eigenfunction",
+		"meaning": "固有関数",
+		"era": "German eigen + function",
+		"etymology": {
+			"components": [
+				"eigen (own / characteristic)",
+				"function"
+			],
+			"original_statement": "A function that, when acted upon by an operator, returns a scalar multiple of itself."
+		},
+		"concept": "One's own characteristic form (自分自身の固有の貌、変容なき本質)",
+		"thinking": "「自分自身の（Eigen）」関数。どんな試練（演算子）を与えられても、その基本的な『形（貌）』を失わず、ただ大きくなったり、反転したりするだけで耐え抜く、不屈の個性。作用を及ぼしても変わらない、あなたの魂の原型です。",
+		"aftertaste": "どんな状況に置かれても、あなたの『本質的な形』は決して壊されません。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "singularity_pde",
+		"word": "Singularity (PDE)",
+		"meaning": "特異点（方程式の）",
+		"era": "Latin singulus",
+		"etymology": {
+			"components": [
+				"singulus (single / one by one)"
+			],
+			"original_statement": "Points where mathematical objects like solutions fail to be well-behaved (e.g., blow up to infinity)."
+		},
+		"concept": "Point of unruly oneness (手に負えぬ一点、理屈の果て)",
+		"thinking": "「たった一つの（Singulus）」。計算が追いつかず、数値が無限大へと吹き飛んでしまう、論理の裂け目。予測も制御もできない『破綻』の場所ですが、そこには既存の形を完全に破壊し、全く新しい宇宙を産み出すための凄まじいエネルギーが潜んでいます。",
+		"aftertaste": "理屈で説明できない『破綻』の中に、新しい自分への扉があります。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "wave_equation_words",
+		"word": "Wave Equation",
+		"meaning": "波動方程式",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"wave (moving ridge)",
+				"aequatio (equalizing)"
+			],
+			"original_statement": "Mathematical model for propagation of waves through space and time."
+		},
+		"concept": "The rhythm of propagation (伝播の律動、世界を震わせる方程式)",
+		"thinking": "「波」の「等しさ（Aequatio）」。光、音、地震、あらゆる『震え』が宇宙を伝わっていくための基本譜面。今の震えが、未来のどこかを揺らすための、時間の経過を織り込んだ伝言板のようなものです。あなたの声も、この旋律に乗って遠くへ運ばれます。",
+		"aftertaste": "あなたの放つ震え（言葉）は、いつか必ず誰かの岸辺に辿り着きます。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "characteristic_pde",
+		"word": "Characteristic",
+		"meaning": "特性（曲線）、特徴的な",
+		"era": "Greek charakter",
+		"etymology": {
+			"components": [
+				"charakter (engraved mark / symbol)"
+			],
+			"original_statement": "From Greek charakter 'engraved mark / distinguishing feature', from charassein 'to engrave'."
+		},
+		"concept": "Engraved path of news (刻まれた情報の航路、宿命の道筋)",
+		"thinking": "「刻まれた印（Charakter）」。偏微分方程式において、情報（ニュース）が伝わっていくための唯一無二の、変更不可能な道筋。運命のレール。その線に沿って進む限り、あなたの本質的な価値（解）は損なわれることなく未来へと運ばれます。",
+		"aftertaste": "あなただけの『特性（物語）』に乗って、自分の真実を未来へ届けて。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "linearity_pde",
+		"word": "Linearity",
+		"meaning": "線形性、直線性",
+		"era": "Latin linea",
+		"etymology": {
+			"components": [
+				"linea (linen thread / line)"
+			],
+			"original_statement": "From Latin linea 'linen thread / string / line'."
+		},
+		"concept": "The straightness of thread (糸のごとき直線性、調和する足し算)",
+		"thinking": "「亜麻の糸（Linea）」。入力と出力が綺麗な比例関係にあり、個別の答えを足し合わせれば全体の答えになるという、美しく素直な関係性。複雑な世界を、単純な要素の『積み重ね』として理解させてくれる、宇宙の優しい誠実さです。",
+		"aftertaste": "シンプルであること。それは、世界を理解するためのもっとも強力な糸（武器）です。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "asymptotic_math",
+		"word": "Asymptotic",
+		"meaning": "漸近的な、漸近の",
+		"era": "Greek a- + sym- + ptosis",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"syn- (together)",
+				"ptosis (falling)"
+			],
+			"original_statement": "From Greek asumptotos 'not falling together', from a- 'not' + sympiptom 'fall together'."
+		},
+		"concept": "Not falling together (重なり合わぬ接近、永遠の片想い)",
+		"thinking": "「共に（Sym）」「落ちる（Ptosis）」ことが「ない（A-）」。限りなく近づき、寄り添うけれど、決して一つには重ならない（あるいは届かない）。届かないからこそ、永遠にその背中を追い続け、理想を抱き続けることができる、切なくも美しい距離感です。",
+		"aftertaste": "届かない理想。だからこそ、あなたはどこまでも高く、近くへと登り続けることができます。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
 	}
 ];
