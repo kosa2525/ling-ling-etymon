@@ -358525,5 +358525,891 @@ const WORDS = [
 			]
 		},
 		"example": "The proof was logically sound."
+	},
+	{
+		"id": "semantics_ling",
+		"word": "Semantics",
+		"meaning": "意味論（いみろん）",
+		"etymology": [
+			"Greek sema (sign)"
+		],
+		"concept": "Mapping meaning to signs",
+		"thinking": "「しるし（Sema）」の理。言葉が何を指し、いかにして脳内に『意味』という名の宇宙を構築するか、その翻訳過程の探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "pragmatics_ling",
+		"word": "Pragmatics",
+		"meaning": "語用論（ごようろん）",
+		"etymology": [
+			"Greek pragma (deed/act)"
+		],
+		"concept": "Language in action",
+		"thinking": "「行い（Pragma）」としての言葉。文面そのものではなく、使われる文脈や状況によって変わる、生きた『意志のやり取り』の解明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "syntax_ling_adv",
+		"word": "Syntax",
+		"meaning": "統語論（とうごろん）、構文論",
+		"etymology": [
+			"Greek syn- + tassein (to arrange)"
+		],
+		"concept": "The order of signs",
+		"thinking": "「共に（Syn-）」「並べる（Tassein）」こと。バラバラの単語を、いかなる規則で繋ぎ合わせれば、意味のある『一文』という名の秩序が生まれるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "phonology_ling",
+		"word": "Phonology",
+		"meaning": "音韻論（おんいんろん）",
+		"etymology": [
+			"Greek phone (voice/sound)"
+		],
+		"concept": "Logic of the voice",
+		"thinking": "「声（Phone）」の理。物理的な音ではなく、意味を区別するための『概念としての音』がいかに脳内で整理されているか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "morphology_ling",
+		"word": "Morphology",
+		"meaning": "形態論（けいたいろん）",
+		"etymology": [
+			"Greek morphe (form)"
+		],
+		"concept": "Geometry of words",
+		"thinking": "「形（Morphe）」の理。単語がいかにして最小の意味の欠片（形態素）から組み上げられ、変幻自在に貌を変えるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "philology_hist",
+		"word": "Philology",
+		"meaning": "文献学（ぶんけんがく）",
+		"etymology": [
+			"Greek philo- (love) + logos"
+		],
+		"concept": "Love of the word",
+		"thinking": "「言葉（Logos）」を「愛する（Philo-）」こと。古い記録を掘り起こし、時間の風化に抗って、失われた文明の声を聞き届けようとする知の考古学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "signifier_ling",
+		"word": "Signifier",
+		"meaning": "シニフィアン、能記",
+		"etymology": [
+			"Latin signare (to mark)"
+		],
+		"concept": "The physical shell of sign",
+		"thinking": "「指し示すもの（Sign-ifier）」。音や文字という、物理的な貌。意味を運ぶための、中身の空っぽな『器』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "signified_ling",
+		"word": "Signified",
+		"meaning": "シニフィエ、所記",
+		"etymology": [
+			"Latin signare"
+		],
+		"concept": "The concept within sign",
+		"thinking": "「指し示されているもの（Signi-fied）」。言葉を聞いた瞬間に脳内に浮かぶ、概念という名の『魂』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "competence_chom",
+		"word": "Competence",
+		"meaning": "言語能力（げんごのうりょく）",
+		"etymology": [
+			"Latin com- + petere (to seek together)"
+		],
+		"concept": "Innate capacity for rules",
+		"thinking": "私たちが「共に（Com-）」「求める（Petere）」、生まれながらに備わった文法の鏡。無限の文を産み出すための、内なる数学的直観。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "performance_ling",
+		"word": "Performance",
+		"meaning": "言語運用（げんごうんよう）",
+		"etymology": [
+			"Old French par- (thorough) + fournir (to furnish)"
+		],
+		"concept": "Actual use of language",
+		"thinking": "「完全に（Par-）」「供給する（Fournir）」。内なる能力が、息づかいや言い間違いと共に、現実の世界へと流れ出した、不完全で愛おしい言葉の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "language_game_w",
+		"word": "Language Game",
+		"meaning": "言語（げんご）ゲーム",
+		"etymology": [
+			"Language",
+			"Game"
+		],
+		"concept": "Language as a social ritual",
+		"thinking": "言葉は定義ではない。ある状況下で、誰かと特定の『遊び（ルール）』を共有することそのもの。生活という名のルールブック。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "private_language",
+		"word": "Private Lang",
+		"meaning": "私的言語（してきげんご）",
+		"etymology": [
+			"Latin privatus"
+		],
+		"concept": "The impossible inner tongue",
+		"thinking": "「自分だけの（Privatus）」言葉など、成立し得るのか。ルールは他者の瞳があってこそ意味を成すという、孤独への拒絶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "referential_fac",
+		"word": "Reference",
+		"meaning": "指示（しじ）、リファレンス",
+		"etymology": [
+			"Latin re- + ferre (to carry back)"
+		],
+		"concept": "Carrying back to world",
+		"thinking": "言葉から現実の対象へと、「運び戻す（Re-fer）」。頭の中の記号を、世界の実体へと繋ぐ一本の細い糸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "sense_and_ref",
+		"word": "Sense (Sinn)",
+		"meaning": "意義（いぎ）、ジン",
+		"etymology": [
+			"German Sinn"
+		],
+		"concept": "Mode of presentation",
+		"thinking": "「金星」を「明けの明星」と呼ぶか「宵の明星」と呼ぶか。同じ対象（指示対象）への、異なる『見せ方・アプローチ』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "intentionality_l",
+		"word": "Intentionality",
+		"meaning": "指向性（しこうせい）",
+		"etymology": [
+			"Latin in- + tendere (to stretch towards)"
+		],
+		"concept": "Stretching towards object",
+		"thinking": "意識や言葉が、何かに「向かって延びる（In-tend）」。何についても語らない言葉など存在しない。常に何かを捕らえようとする心の矢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "speech_act_aust",
+		"word": "Speech Act",
+		"meaning": "発話（はつわ）行為",
+		"etymology": [
+			"Speech",
+			"Latin actus"
+		],
+		"concept": "Saying is doing",
+		"thinking": "「言う」ことは、世界を「なす（Act）」こと。「誓う」「名付ける」。言葉は情報の伝達ではなく、現実を直接書き換える力である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "performative_ut",
+		"word": "Performative",
+		"meaning": "行為遂行的（こういすいこうてき）",
+		"etymology": [
+			"Per- + form"
+		],
+		"concept": "Language that acts",
+		"thinking": "「完全に（Per-）」「形作る（Form）」発話。言った瞬間に約束が結ばれ、結婚が成立する。言葉が現実の創造主となる瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "illocutionary",
+		"word": "Illocutionary",
+		"meaning": "発話内（はつわない）の",
+		"etymology": [
+			"Latin in- + loqui (to speak)"
+		],
+		"concept": "The intent of speaking",
+		"thinking": "「話すこと（Loqui）」その中に「込められた（In-）」力。質問、脅し、謝罪。言葉の背後にある、目に見えない意志の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "perlocutionary",
+		"word": "Perlocutionary",
+		"meaning": "発話媒介的（はつわばいかいてき）",
+		"etymology": [
+			"Latin per- + loqui"
+		],
+		"concept": "The effect of speaking",
+		"thinking": "「話すことを通じて（Per-loqui）」、結果として相手に引き起こされる変化。驚き、説得、あるいは怒り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "deconstruction_d",
+		"word": "Deconstruction",
+		"meaning": "脱構築（だつこうちく）",
+		"etymology": [
+			"Latin de- + struere"
+		],
+		"concept": "Breaking the structure",
+		"thinking": "「積み上げられたもの（Structure）」を、その中心から「壊す（De-）」。一見完璧に見える言葉の城壁の中に、密かに潜む矛盾や綻びを暴き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "logocentrism_ad",
+		"word": "Logocentrism",
+		"meaning": "ロゴス中心主義",
+		"etymology": [
+			"Logos",
+			"Latin centrum"
+		],
+		"concept": "Dominance of written/spoken word",
+		"thinking": "「言葉（Logos）」こそが真理の「中心（Centrum）」であるという盲信。語られぬ沈黙や、余白の響きを忘れた文明の傲慢への批判。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "différance_derr",
+		"word": "Différance",
+		"meaning": "差延（さえん）",
+		"etymology": [
+			"French différer"
+		],
+		"concept": "Infinite delay of meaning",
+		"thinking": "「異なる（Difference）」ことと「遅らせる（Defer）」ことの合生。意味は決して今ここに定まらず、絶えずズレ続け、未来へと永遠に先送りされる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "hermeneutics_ad",
+		"word": "Hermeneutics",
+		"meaning": "解釈学（かいしゃくがく）",
+		"etymology": [
+			"Greek Hermes (messenger god)"
+		],
+		"concept": "Art of understanding",
+		"thinking": "「ヘルメス（伝令神）」の術。他者の言葉という『異界の便り』を、自分の魂へと翻訳し、意味の橋を架ける営み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "universal_gramm",
+		"word": "Universal Gram",
+		"meaning": "普遍文法（ふへんぶんぽう）",
+		"etymology": [
+			"Latin universalis",
+			"Grammar"
+		],
+		"concept": "The biological code of language",
+		"thinking": "「宇宙の（Universalis）」理。あらゆる言語の底に流れる、人類共通の設計図。私たちは皆、同じ魂の文法で世界を綴っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "sapir_whorf_hyp",
+		"word": "Sapir-Whorf",
+		"meaning": "サピア＝ウォーフの仮説",
+		"etymology": [
+			"Sapir",
+			"Whorf"
+		],
+		"concept": "Language shapes reality",
+		"thinking": "私たちが使う言葉の「枠組み（文法）」が、そのまま世界をどう見るかを決定づける。言葉を変えれば、世界の色さえ変わるという大胆な予感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "linguistic_rel",
+		"word": "Linguistic Rel",
+		"meaning": "言語相対性（げんごそうたいせい）",
+		"etymology": [
+			"Latin relativus (referring to)"
+		],
+		"concept": "Subjectivity of language world",
+		"thinking": "言葉は絶対的な鏡ではない。文化ごとに異なる切り取り方的によって、それぞれの「相対的（Relativus）」な宇宙が立ち上がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "presupposition",
+		"word": "Presuppose",
+		"meaning": "前提（ぜんてい）、了解",
+		"etymology": [
+			"Latin prae- + sub- + ponere"
+		],
+		"concept": "Already-placed below",
+		"thinking": "語られる前に、あらかじめ「下に（Sub-）」「置かれている（Ponere）」了解。語らずとも分かっているという、深い相互信頼の土壌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "conversational",
+		"word": "Implicature",
+		"meaning": "会話（かいわ）の含意",
+		"etymology": [
+			"Latin in- + plicare (to fold)"
+		],
+		"concept": "Folded meaning",
+		"thinking": "言葉の中に「折り畳まれた（Plicare）」真実。額面通りではない、行間に仕込まれた微かな囁きを聞き取ること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "cooperative_pri",
+		"word": "Coop Principle",
+		"meaning": "協調の原理",
+		"etymology": [
+			"Latin co- + operari (to work)"
+		],
+		"concept": "Shared commitment to talk",
+		"thinking": "互いに「共に（Co-）」「働く（Operari）」。対話という奇跡を成立させるための、誠実さと礼儀の不文律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "neologism_adv",
+		"word": "Neologism",
+		"meaning": "新語（しんご）、造語",
+		"etymology": [
+			"Greek neos + logos"
+		],
+		"concept": "Birth of new meaning",
+		"thinking": "「新しい（Neos）」言葉。古い言葉では捉えられなかった現代の裂け目に、新しい名（Logos）を授けることで、実体を産み落とす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "etymology_meta",
+		"word": "Etymology",
+		"meaning": "語源学（ごげんがく）",
+		"etymology": [
+			"Greek etymon (true meaning)"
+		],
+		"concept": "Seeking the true root",
+		"thinking": "「本当のこと（Etymon）」の理。言葉の表層を剥ぎ取り、数千年前の魂の叫びにまで遡る、意味の血統調査。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "onomatopoeia_ad",
+		"word": "Onomatopoeia",
+		"meaning": "擬音（ぎおん）語、オノマトペ",
+		"etymology": [
+			"Greek onoma (name) + poiein (to make)"
+		],
+		"concept": "Making names from sounds",
+		"thinking": "「名（Onoma）」を「作る（Poiein）」。概念ではなく、世界の震え（音）そのものを直接文字に刻み込む、原初の呪辞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "metaphor_ling_a",
+		"word": "Metaphor",
+		"meaning": "隠喩（いんゆ）、メタファー",
+		"etymology": [
+			"Greek meta- (beyond/across) + pherein (to carry)"
+		],
+		"concept": "Carrying meaning across boundaries",
+		"thinking": "「向こう側へ（Meta-）」「運ぶ（Pherein）」。ある領域の意味を、別の領域へと越境させることで、世界に新しい眩い光を当てる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "metonymy_ling_a",
+		"word": "Metonymy",
+		"meaning": "換喩（かんゆ）、メトニミー",
+		"etymology": [
+			"Greek meta- (change) + onoma (name)"
+		],
+		"concept": "Substituted names",
+		"thinking": "「名（Onoma）」を「取り替える（Meta-）」。隣接するもの、一部、あるいは道具。関連するものへ名を乗り移らせることで、焦点を鋭く絞る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "synecdoche_adv",
+		"word": "Synecdoche",
+		"meaning": "提喩（ていゆ）、シネクドキ",
+		"etymology": [
+			"Greek syn- + ek- + dekhesthai (to receive together)"
+		],
+		"concept": "The part for the whole",
+		"thinking": "「共に（Syn-）」「受け取る（Dekhesthai）」。一滴の水に海を、一つの細胞に命を。一部という窓から、全体という巨大な貌を覗き見る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "lexicography_ad",
+		"word": "Lexicography",
+		"meaning": "辞書編纂（じしょへんさん）",
+		"etymology": [
+			"Greek lexikon + graphein"
+		],
+		"concept": "Mapping the treasury of words",
+		"thinking": "「言葉の宝庫（Lexikon）」を「描く（Graphein）」。奔放に増殖し、消えゆく言葉たちを、静かな一冊の書（牢獄であり聖域）に閉じ込める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "corpus_linguist",
+		"word": "Corpus",
+		"meaning": "コーパス、言語集成",
+		"etymology": [
+			"Latin corpus (body)"
+		],
+		"original_statement": "Body of real-world text for linguistic analysis.",
+		"concept": "The physical body of language",
+		"thinking": "理想の文法ではなく、実際に語られ、書かれた言葉の「肉体（Corpus）」。膨大な実在の残骸から、真の言葉の理をあぶり出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "diglossia_adv",
+		"word": "Diglossia",
+		"meaning": "二言語使い分け、ダイグロシア",
+		"etymology": [
+			"Greek di- (two) + glossa (tongue)"
+		],
+		"concept": "Double-tongue status",
+		"thinking": "「二つの（Di-）」「言葉（Glossa）」。神聖な言葉と、日々の泥にまみれた言葉。一つの社会の中で使い分けられる、魂の階層構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "pidgin_language",
+		"word": "Pidgin",
+		"meaning": "ピジン、接触言語",
+		"etymology": [
+			"Business (corruption)"
+		],
+		"concept": "The emergency bridge of words",
+		"thinking": "言葉の通じぬ者たちが、ただ生き延びるために（Business）作り上げた、剥き出しで不恰好な、ゆえに切実で強靭な即席の言葉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "creolization_ad",
+		"word": "Creole",
+		"meaning": "クレオール",
+		"etymology": [
+			"Spanish criollo (native)"
+		],
+		"concept": "Native birth of mixed language",
+		"thinking": "「生まれつきの（Criollo）」混ざり合い。即席のピジンが、子供たちの母語となったとき、そこには新しい文法と魂が宿り、一つの『文化』として咆哮を上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "etymon_origin",
+		"word": "Etymon",
+		"meaning": "語源、真語",
+		"etymology": [
+			"Greek etymon"
+		],
+		"concept": "The true essence",
+		"thinking": "「本当の（Etymon）」こと。幾千年の変化という皮を剥ぎ取った後に残る、言葉の核となる根源的な響き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "glossary_academic",
+		"word": "Glossary",
+		"meaning": "用語集（ようごしゅう）",
+		"etymology": [
+			"Greek glossa"
+		],
+		"concept": "Guide to the tongues",
+		"thinking": "「言葉（Glossa）」の集積。専門という名の高い壁を越えるための、小さな暗号集（パスワード）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "dialectology_ad",
+		"word": "Dialectology",
+		"meaning": "方言学（ほうげんがく）",
+		"etymology": [
+			"Greek dialektos"
+		],
+		"concept": "Logic of the locality",
+		"thinking": "「対話（Dialektos）」の理。土地のごとの土と風が、共有の言葉にいかなる独自の『響き』と『魂』を添えたかを探る旅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
+	},
+	{
+		"id": "neologism_cycle",
+		"word": "Neological",
+		"meaning": "新語（しんご）形成、造語力",
+		"etymology": [
+			"Neos + Logos"
+		],
+		"concept": "Fertility of language",
+		"thinking": "世界が新しくなるたびに、私たちは「新しい名（Neos-logos）」を産み落とさずにはいられない。言葉の、その若々しき呼吸を追う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の銀河を越えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語哲学の深淵へ。"
+			]
+		},
+		"example": "Language shapes our perception."
 	}
 ];
