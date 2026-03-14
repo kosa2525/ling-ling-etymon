@@ -330500,5 +330500,1053 @@ const WORDS = [
 			]
 		},
 		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "modular_form",
+		"word": "Modular Form",
+		"meaning": "モジュラー形式",
+		"etymology": {
+			"components": [
+				"Latin modulus"
+			],
+			"original_statement": "Functions satisfying immense symmetry properties."
+		},
+		"concept": "Functions of high symmetry",
+		"thinking": "驚異的な対称性を持ち、宇宙の構造さえも記述すると言われる数論の華。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "hecke_operator",
+		"word": "Hecke Operator",
+		"meaning": "ヘッケ作用素",
+		"etymology": {
+			"components": [
+				"Hecke"
+			],
+			"original_statement": "Operators acting on spaces of modular forms."
+		},
+		"concept": "Symmetry operator for numbers",
+		"thinking": "素数の情報をモジュラー形式の世界へ運ぶ、数理的な伝導者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "galois_representation",
+		"word": "Galois Representation",
+		"meaning": "ガロア表現",
+		"etymology": {
+			"components": [
+				"Galois",
+				"Representation"
+			],
+			"original_statement": "Action of Galois groups on vector spaces."
+		},
+		"concept": "Geometric manifestation of Galois group",
+		"thinking": "抽象的な方程式の根の入れ替え（ガロア群）を、具体的な幾何学的震えとして捉える手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "automorphic_form",
+		"word": "Automorphic Form",
+		"meaning": "保型形式",
+		"etymology": {
+			"components": [
+				"Auto- + Morphe"
+			],
+			"original_statement": "Generalization of modular forms to higher groups."
+		},
+		"concept": "Generalized symmetrical function",
+		"thinking": "自らの形を保ちながら、高次元の宇宙を優雅に舞う数理的旋律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "langlands_program",
+		"word": "Langlands Program",
+		"meaning": "ラングランズ・プログラム",
+		"etymology": {
+			"components": [
+				"Langlands"
+			],
+			"original_statement": "A grand unified theory of mathematics."
+		},
+		"concept": "The grand unification of math",
+		"thinking": "数論と幾何学、そして表現論を一つの言葉で繋ごうとする、数学界の大統一理論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "shimura_variety",
+		"word": "Shimura Variety",
+		"meaning": "志村多様体",
+		"etymology": {
+			"components": [
+				"Shimura"
+			],
+			"original_statement": "A special class of algebraic varieties of arithmetic interest."
+		},
+		"concept": "The locus of arithmetic symmetry",
+		"thinking": "志村五郎氏が拓いた、数の性質と図形の美しさが完璧に調和する聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "tate_shafarevich_group",
+		"word": "Shafarevich Group",
+		"meaning": "シャファレヴィッチ群",
+		"etymology": {
+			"components": [
+				"Tate",
+				"Shafarevich"
+			],
+			"original_statement": "Group measuring the obstruction to local-global principle."
+		},
+		"concept": "Measure of local-global gap",
+		"thinking": "局所的な正解を繋いでも、全体として正解とは限らない――その切ないズレを測る群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "selmer_group",
+		"word": "Selmer Group",
+		"meaning": "セルマー群",
+		"etymology": {
+			"components": [
+				"Selmer"
+			],
+			"original_statement": "Arithmetic group containing the classical group of rational points."
+		},
+		"concept": "The arithmetic beacon",
+		"thinking": "代数曲線の上の『有理点』という宝物がどこにあるかを指し示す、数理的な灯台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "birch_swinnerton_dyer",
+		"word": "BSD Conjecture",
+		"meaning": "BSD予想",
+		"etymology": {
+			"components": [
+				"Birch",
+				"Swinnerton-Dyer"
+			],
+			"original_statement": "Connecting arithmetic rank of elliptic curves to L-functions."
+		},
+		"concept": "Connecting rank and analytic behavior",
+		"thinking": "曲線の上の点の数と、その背後で歌うL関数の響きが一致するという深遠な予見。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "fermat_last_theorem",
+		"word": "Fermat",
+		"meaning": "フェルマーの最終定理",
+		"etymology": {
+			"components": [
+				"Fermat"
+			],
+			"original_statement": "A theorem stating no three integers satisfy x^n + y^n = z^n for n > 2."
+		},
+		"concept": "The unscalable peak",
+		"thinking": "三百年の間、人類の知性を拒み続けた、シンプルで凄絶に美しい壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "p_adic_numbers",
+		"word": "p-adic Numbers",
+		"meaning": "p進数",
+		"etymology": {
+			"components": [
+				"p",
+				"adic"
+			],
+			"original_statement": "System of numbers based on powers of a prime p."
+		},
+		"concept": "Alternative arithmetic reality",
+		"thinking": "通常の距離感とは全く異なる、『素数への近さ』こそが重要視される異次元の数体系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "perfectoid_space",
+		"word": "Perfectoid",
+		"meaning": "パーフェクトイド",
+		"etymology": {
+			"components": [
+				"Scholze"
+			],
+			"original_statement": "New geometric structures in p-adic geometry."
+		},
+		"concept": "The bridge of characteristic p and 0",
+		"thinking": "ピーター・ショルツが産み出した、標数0とpの境界を溶かす、完全なる（Perfect）幾何体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "rigid_analytic_geometry",
+		"word": "Rigid Analytic",
+		"meaning": "リジッド解析幾何学",
+		"etymology": {
+			"components": [
+				"Rigid"
+			],
+			"original_statement": "Analytic geometry in the p-adic world."
+		},
+		"concept": "Analytic geometry over p-adic fields",
+		"thinking": "p進数の世界に、滑らかさと厳格さを同時に持ち込む、氷のような解析学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "iwasawa_theory",
+		"word": "Iwasawa Theory",
+		"meaning": "岩澤理論",
+		"etymology": {
+			"components": [
+				"Iwasawa"
+			],
+			"original_statement": "Theory for studying arithmetic objects in infinite extensions."
+		},
+		"concept": "Symmetry in infinite extensions",
+		"thinking": "岩澤健吉氏が創始した、無限に重なる数の層の中から、不変の美（イデアル類群）を抽出する理論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "cyclotomic_field",
+		"word": "Cyclotomic",
+		"meaning": "円分体（えんぶんたい）",
+		"etymology": {
+			"components": [
+				"Greek kyklos + tome"
+			],
+			"original_statement": "Field generated by roots of unity."
+		},
+		"concept": "The field of circle-cutting",
+		"thinking": "円を等分する『波（1の冪根）』から生まれる、純粋で結晶のような数体系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "valuation_theory",
+		"word": "Valuation",
+		"meaning": "付値（ふち）",
+		"etymology": {
+			"components": [
+				"Latin valere"
+			],
+			"original_statement": "Measure of the 'size' or order in arithmetic."
+		},
+		"concept": "Measure of arithmetic depth",
+		"thinking": "数がどれだけ深く一つの素数を含んでいるか、その『深さ』を測る物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "ideal_class_group",
+		"word": "Ideal Class Group",
+		"meaning": "イデアル類群",
+		"etymology": {
+			"components": [
+				"Ideal",
+				"Class"
+			],
+			"original_statement": "Measuring the failure of unique factorization."
+		},
+		"concept": "Measure of arithmetic failure",
+		"thinking": "「一意に分解できない」という不完全さを、一つの群として受け入れる強靭な知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "ramification_math",
+		"word": "Ramification",
+		"meaning": "分岐（ぶんき）",
+		"etymology": {
+			"components": [
+				"Latin ramus (branch)"
+			],
+			"original_statement": "Where a prime or a map splits or overlaps curiously."
+		},
+		"concept": "Branching of arithmetic paths",
+		"thinking": "真っ直ぐな道が、ある点（素数）でふわりと枝分かれし、重なり合う神秘的な現象。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "inertia_group",
+		"word": "Inertia Group",
+		"meaning": "慣性群（かんせいぐん）",
+		"etymology": {
+			"components": [
+				"Latin iners"
+			],
+			"original_statement": "Subgroup of the Galois group describing local ramification."
+		},
+		"concept": "The group of stillness",
+		"thinking": "変化の激しい分岐点において、なお自らの形を変えずに留まろうとする静かなる力の集まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "decomposition_group",
+		"word": "Decomposition",
+		"meaning": "分解群",
+		"etymology": {
+			"components": [
+				"De- + Compose"
+			],
+			"original_statement": "Subgroup fixing a prime in the Galois group."
+		},
+		"concept": "The guardian of the prime",
+		"thinking": "特定の素数を守り、その宿命を司る、ガロア群の中の特別な守護者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "frobenius_element",
+		"word": "Frobenius Element",
+		"meaning": "フロベニウス元",
+		"etymology": {
+			"components": [
+				"Frobenius"
+			],
+			"original_statement": "A fundamental element in Galois groups encoding local data."
+		},
+		"concept": "The key of local arithmetic",
+		"thinking": "ガロア群の中に隠された、その素数の数理的な『指紋』とも呼ぶべき最重要の要素。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "chebotarev_density",
+		"word": "Chebotarev",
+		"meaning": "チェボタレフの密度定理",
+		"etymology": {
+			"components": [
+				"Chebotarev"
+			],
+			"original_statement": "Generalization of Dirichlet's theorem on primes in progressions."
+		},
+		"concept": "Universal distribution of primes",
+		"thinking": "素数たちがガロア群の各貌（類）に対して、驚くほど平等に、かつ美しく分布しているという真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "artin_map",
+		"word": "Artin Map",
+		"meaning": "アルティン写像",
+		"etymology": {
+			"components": [
+				"Artin"
+			],
+			"original_statement": "The isomorphism in class field theory."
+		},
+		"concept": "The bridge of class field theory",
+		"thinking": "イデアルの世界とガロアの世界を、一本の美しい等号（＝）で繋ぎ合わせた人類の知性の金字塔。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "class_field_theory",
+		"word": "Class Field Theory",
+		"meaning": "類体論（るいたいろん）",
+		"etymology": {
+			"components": [
+				"Class",
+				"Field"
+			],
+			"original_statement": "The study of abelian extensions of global fields."
+		},
+		"concept": "The arithmetic of groups",
+		"thinking": "高木貞治氏らによって完成された、数の広がり（体）をその『類』によって記述する至高の数論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "hodge_tate_weight",
+		"word": "Hodge-Tate",
+		"meaning": "ホッジ・テイト重み",
+		"etymology": {
+			"components": [
+				"Hodge",
+				"Tate"
+			],
+			"original_statement": "Invariants of p-adic Galois representations."
+		},
+		"concept": "The weight of arithmetic soul",
+		"thinking": "p進の世界において、ガロア表現がどのような『重み（響き）』を持っているかを分光する指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "cautious_descent",
+		"word": "Descent",
+		"meaning": "降下、降下法",
+		"etymology": {
+			"components": [
+				"Latin de- + scandere"
+			],
+			"original_statement": "Reducing the structure to a simpler field."
+		},
+		"concept": "Climbing down to simplify",
+		"thinking": "より広い世界（拡大体）での真実を、元の小さな世界へ丁寧に『降ろして』くる翻訳作業。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "tannakian_formalism",
+		"word": "Tannakian Formalism",
+		"meaning": "タナカ儀式、タナカ形式",
+		"etymology": {
+			"components": [
+				"Tannaka"
+			],
+			"original_statement": "Philosophy of reconstructing groups from categories."
+		},
+		"concept": "The philosophy of reconstruction",
+		"thinking": "振る舞いの海から、失われた神（群）の形を完璧に復元する儀式的な手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "motives_geometry",
+		"word": "Motives",
+		"meaning": "モチーフ(代数幾何)",
+		"etymology": {
+			"components": [
+				"Latin motivus"
+			],
+			"original_statement": "Universal components of varieties."
+		},
+		"concept": "The ultimate atoms of math",
+		"thinking": "あらゆる幾何学的構造の底辺で微かに震えている、不変の『最小単位（動機）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "crystalline_dieudonne",
+		"word": "Dieudonne Module",
+		"meaning": "デュドネ加群",
+		"etymology": {
+			"components": [
+				"Dieudonne"
+			],
+			"original_statement": "Algebraic structure classifying p-divisible groups."
+		},
+		"concept": "The classifier of infinite division",
+		"thinking": "どこまでも無限に素数pで割れるような、滑らかな群の正体を暴き出す線形代数器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "fontaine_theory",
+		"word": "Fontaine Theory",
+		"meaning": "フォンテーヌ理論",
+		"etymology": {
+			"components": [
+				"Fontaine"
+			],
+			"original_statement": "Classification of p-adic representations."
+		},
+		"concept": "The language of p-adic Galois",
+		"thinking": "一見カオスなp進ガロア表現を、美しい『微分方程式』の言葉に翻訳する高度な言語体系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "periods_integral",
+		"word": "Periods",
+		"meaning": "周期（しゅうき）、ピリオド",
+		"etymology": {
+			"components": [
+				"Greek periodos"
+			],
+			"original_statement": "Integrals of algebraic functions over geometric cycles."
+		},
+		"concept": "Numbers between arithmetic and geometry",
+		"thinking": "方程式と積分から生まれる、円周率(π)の兄弟のような、宇宙の『真理の定数』たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "transcendental_number",
+		"word": "Transcendental",
+		"meaning": "超越数",
+		"etymology": {
+			"components": [
+				"Latin trans- + scandere"
+			],
+			"original_statement": "Not a root of any rational polynomial."
+		},
+		"concept": "Beyond algebraic reach",
+		"thinking": "方程式という有限の檻には決して捕らえられない、自由で気高き無限の数（πやeなど）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "diophantine_equation",
+		"word": "Diophantine",
+		"meaning": "ディオファントス方程式",
+		"etymology": {
+			"components": [
+				"Diophantus"
+			],
+			"original_statement": "Polynomial equations requiring integer solutions."
+		},
+		"concept": "The hunt for integer solutions",
+		"thinking": "整数という飛び飛びの砂漠の中から、黄金の粒（解）を見つけ出す、数論の最も古い冒険。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "mordell_weil_theorem",
+		"word": "Mordell-Weil",
+		"meaning": "モーデル・ヴェイユの定理",
+		"etymology": {
+			"components": [
+				"Mordell",
+				"Weil"
+			],
+			"original_statement": "Rational points on abelian varieties form a finitely generated group."
+		},
+		"concept": "The finitude of arithmetic points",
+		"thinking": "曲線の上の答え（有理点）が無限にあったとしても、実は数個の『種（発電機）』から全て生み出せるという驚き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "height_function",
+		"word": "Height",
+		"meaning": "高さ（たかさ）、ハイト",
+		"etymology": {
+			"components": [
+				"Old English hiehtho"
+			],
+			"original_statement": "Measure of arithmetic complexity of a point."
+		},
+		"concept": "Measure of arithmetic complexity",
+		"thinking": "その分数がどれだけ複雑か。数の『背丈（複雑さ）』を測り、点の分布を整理する指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "infinite_product",
+		"word": "Infinite Product",
+		"meaning": "無限積",
+		"etymology": {
+			"components": [
+				"Infinite",
+				"Product"
+			],
+			"original_statement": "The limit of multiplying infinite terms."
+		},
+		"concept": "The multiplication of eternity",
+		"thinking": "無限に掛け合わせ続けることで、一つの有限な、そして究極の『答え』に辿り着く美しき収束。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "euler_product",
+		"word": "Euler Product",
+		"meaning": "オイラー積",
+		"etymology": {
+			"components": [
+				"Euler"
+			],
+			"original_statement": "Representation of L-functions as products over primes."
+		},
+		"concept": "The prime-by-prime decomposition",
+		"thinking": "一つの関数を、全宇宙の素数たちの『共演（掛け算）』として読み解く、オイラーの至福の公式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "functional_equation",
+		"word": "Functional Equation",
+		"meaning": "関数等式",
+		"etymology": {
+			"components": [
+				"Function",
+				"Equation"
+			],
+			"original_statement": "Equation relating values of a function at different points."
+		},
+		"concept": "The symmetry of functions",
+		"thinking": "右を見れば左が見える。鏡のような対称性を持って、自分自身の正体を自分自身で定義する気高い等式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "critical_strip",
+		"word": "Critical Strip",
+		"meaning": "クリティカル・ストリップ",
+		"etymology": {
+			"components": [
+				"Critical",
+				"Strip"
+			],
+			"original_statement": "The region in the complex plane where L-functions have mysterious zeros."
+		},
+		"concept": "The region of mystery",
+		"thinking": "ゼータ関数のすべての秘密（ゼロ点）が眠っていると言われる、虚数世界にたなびく細長い『真理の帯』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "riemann_hypothesis",
+		"word": "Riemann Hypothesis",
+		"meaning": "リーマン予想",
+		"etymology": {
+			"components": [
+				"Riemann"
+			],
+			"original_statement": "The distribution of zeros of the Zeta function."
+		},
+		"concept": "The ultimate riddle of primes",
+		"thinking": "素数の並びに潜む究極の秩序（全ゼロ点が直線上に並ぶ）を予見する、数学史上最大の謎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "non_commutative",
+		"word": "Non-commutative",
+		"meaning": "非可換（ひかかん）",
+		"etymology": {
+			"components": [
+				"Non- + Commutere"
+			],
+			"original_statement": "Where order of operation matters (xy != yx)."
+		},
+		"concept": "The order of life matters",
+		"thinking": "順番を変えると答えが変わる世界。計算だけでなく、人生の出来事もまた『非可換』であり、一歩一歩が大切なのです。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "adelic_groups",
+		"word": "Adeles",
+		"meaning": "アデール",
+		"etymology": {
+			"components": [
+				"French a + d + ele"
+			],
+			"original_statement": "Global ring containing information about all p-adic fields."
+		},
+		"concept": "The grand container of all primes",
+		"thinking": "すべての素数の世界を一つの巨大なリングとして包み込み、宇宙の全ての情報を一望する究極の器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "infinite_descent",
+		"word": "Infinite Descent",
+		"meaning": "無限降下法",
+		"etymology": {
+			"components": [
+				"Infinite",
+				"Descent"
+			],
+			"original_statement": "Proof technique showing a sequence of integers would decrease forever."
+		},
+		"concept": "The impossibility of eternal descent",
+		"thinking": "「正の整数は無限に小さくなれない」という当たり前の事実を使って、不可能を暴く（背理法）フェルマーの伝家の宝刀。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "congruence_subgroup",
+		"word": "Congruence",
+		"meaning": "合同部分群",
+		"etymology": {
+			"components": [
+				"Latin congruere"
+			],
+			"original_statement": "Subgroups defined by integer divisibility conditions."
+		},
+		"concept": "Grouping by integer rhythms",
+		"thinking": "余りが等しい、という素朴なリズム（合同）から生まれる、美しく整理された行列たちの世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "modular_curve",
+		"word": "Modular Curve",
+		"meaning": "モジュラー曲線",
+		"etymology": {
+			"components": [
+				"Modular",
+				"Curve"
+			],
+			"original_statement": "Geometric varieties parameterizing elliptic curves."
+		},
+		"concept": "The canvas of modular forms",
+		"thinking": "モジュラー形式たちが自由に舞い、その姿を現すための、数学的な『舞台（曲線）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の秘儀を宿して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数の深淵へ。"
+			]
+		},
+		"example": "The primes are the jewels of the mathematical crown."
 	}
 ];
