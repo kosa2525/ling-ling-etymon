@@ -322088,5 +322088,85 @@ const WORDS = [
    "original_statement": "A set composed of points, line segments, triangles, and their n-dimensional counterparts."
   },
   "concept": "The woven fragments (「。。、。破。、片。、。、」。たちの。、。、。、。。寄せ。集（。あつ）。。、。め。。、。に。、。過（。す。）。。、。ぎなかった。。、。、。、理知。、が。、。、。不意。に。、。、。、秩序。。、。を、。、。、持ち、。、。、一。、。つの。、。、。、壮大な。、。、。、。伽（。が）。。、。藍（。らん）。。、。を。、。、、。組み。、。上げて。。、。ゆ。く。。、一。、。瞬、。、。、そこには。、。、。、祈。り。、にも。、。、似た、。、。、。、。。構。、。築。、。の、。、。、。悦。、。び。、)"
+ },
+ {
+  "id": "lyapunov-exponent",
+  "word": "Lyapunov Exponent",
+  "meaning": "リアプノフ指数、未来への予測が失われてゆく速度。",
+  "era": "Name Aleksandr Lyapunov",
+  "etymology": {
+   "components": [
+    "Aleksandr Lyapunov (mathematician / physicist)"
+   ],
+   "original_statement": "A quantity that characterizes the rate of separation of infinitesimally close trajectories."
+  },
+  "concept": "The rate of forgetting (「。。、。今。、ここ。、。、」。の、。、。。わずかな。、。揺（。ゆ。）。、。ら。、。ぎ、。、。が。、。不意に。、。、。巨大。な、。、。嵐。、。へと、。、。増（。ぞう）。。、。幅。。、。される。。、。その。、。峻烈な。、。、。、。速度。、。、。それは、。、。、。理知。が、。、。、。予測。不能。な。、。、未来。という。、。、。断崖。へと、。、。落ち。。、。て。、ゆく。。、。ための。、。、。、。地。、獄。、の。、。算。、術。、)"
+ },
+ {
+  "id": "mandelbrot-set",
+  "word": "Mandelbrot Set",
+  "meaning": "マンデルブロ集合、複雑さの極限に潜む無限の美。",
+  "era": "Name Benoît Mandelbrot",
+  "etymology": {
+   "components": [
+    "Benoît Mandelbrot (mathematician)"
+   ],
+   "original_statement": "The set of complex numbers c for which the function f(z) = z^2 + c does not diverge to infinity when iterated from z = 0."
+  },
+  "concept": "The infinite shore (「。。、どこまでも。、。、」。深く。、。、。降り。。、。て。、いっても、。、。、決して。、。、。、終。わ。、。り。。、。のない。、。、。、複雑。な。、。、。。「。。、。、海岸。線。、。、。、」。、。、。それ。は。、。、。、理知。が。、。、。、単純。な、。。、。、一。、つの。、。、方。程式。の中に。、。、。見出した。。、。、。無限。の、。宇宙。、)"
+ },
+ {
+  "id": "julia-set",
+  "word": "Julia Set",
+  "meaning": "ジュリア集合、宝石のような輝きを放つカオスの境界。",
+  "era": "Name Gaston Julia",
+  "etymology": {
+   "components": [
+    "Gaston Julia (mathematician)"
+   ],
+   "original_statement": "The set of points for which the iteration of a complex function remains bounded."
+  },
+  "concept": "The gem of chaos (「。。、。秩序。、。、」。と。、。、「。。、。、カオス。、。、。、」。その。、。、危（。あぶ）。。、。な。、い。。、。「。。、。、。境。、目。、。、。、」。に、。、。不意に。、。、。、結。晶。。、した。。、。、。宝石。、。、。、。、。それ。は、。、。、。一。、。点の。、。、。歪（。ゆ。が）。。み。、。も、。、。許。、。さぬ。。、。、理知。の、。、。。、。峻烈な。、。、。、祈。、。り。、)"
+ },
+ {
+  "id": "lorenz-attractor",
+  "word": "Lorenz Attractor",
+  "meaning": "ローレンツ・アトラクタ、バタフライ・エフェクトが描き出す蝶の舞い。",
+  "era": "Name Edward Lorenz",
+  "etymology": {
+   "components": [
+    "Edward Lorenz (meteorologist)"
+   ],
+   "original_statement": "A set of chaotic solutions of the Lorenz system, notably resembling a butterfly."
+  },
+  "concept": "The butterfly's dance (一。、。、。つの。、。、。羽（。は。ね）。。、。ば。、。たき。、が、。、。、宇宙。の、。、。。の。、向こう。側で。、。、。、。嵐。を、。、。、。、呼。ぶ。、。という、。、。理知。の、。、。、美しい。、。、。、。皮。、。肉。、。、。それは、。、。、。、ただ。、。、。静かに。、。、。二つの。、。、。、。「。、円。、。、。、」。を。、。、。、。、描（。えが）。。き。。、つ。づ。ける。。、。、幽（。かす）。。、。かな。。、。、。魂。、。の、。、。。、。軌。、跡。、)"
+ },
+ {
+  "id": "strange-attractor",
+  "word": "Strange Attractor",
+  "meaning": "ストレンジ・アトラクタ、フラクタル構造を持つカオスの終着点。",
+  "era": "English strange + attractor",
+  "etymology": {
+   "components": [
+    "strange",
+    "attractor"
+   ],
+   "original_statement": "An attractor that has a fractal structure."
+  },
+  "concept": "The strange pull (「。。、。決して。、。、」。戻。る。、。ことのない。、。、。、。遍（。あま。）。、。ね。、。く。。、。、。世界。を。、。、。、駆け。、。抜（。ぬ）。。、た。。、。、。、。軌。跡。が、。、。、。いつしか。、。、。一。、。つの。、。、。、。、幽（。かす）。。、。かな。。、。、「。、。、。形。、。、。、」。、と。、。、。なる。。、。、。こと。、。、。、それは、。、。、。、。理。知。が、。。、。、。カオス。の中に。、。、。、。ひっそり。と、。。見出した。。、。、沈。、。黙。、。の、。、。理。、)"
+ },
+ {
+  "id": "intermittency",
+  "word": "Intermittency",
+  "meaning": "間欠性、静寂とカオスが交互に訪れる不穏なリズム。",
+  "era": "Latin inter- + mittere",
+  "etymology": {
+   "components": [
+    "inter- (between)",
+    "mittere (to send)"
+   ],
+   "original_statement": "From Latin intermittentem, from intermittere 'to leave an interval'."
+  },
+  "concept": "The broken rhythm (「。。、静か。な..。、。、」。時に。、。、。、不意に、。、。、。、「。。、。、狂。気。、。、。、」。が。、。、。、混（。ま。）。、。じ。。、。る。。、。こと。、。、。それは、。、。、。、。嵐。の、。、。、予。感。、。であり。、。、。、。理知。が、。、。、。、平穏。、。、。、の中に。、。、。、ひっそり。と。、。、。。、。研（。と。）。。、。ぎ。。、。澄（。す）。。、。、ませ。。、。ている。。、。一。、。、。、。振りの。、。、。、。、。刃（は）。、)"
  }
 ];
