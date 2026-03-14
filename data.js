@@ -322827,5 +322827,86 @@ const WORDS = [
    "original_statement": "A type of quasiparticle that occurs only in two-dimensional systems."
   },
   "concept": "Any phase (「。。、フェルミオン。、。、」。でも。、。、「。。、。、。ボソン。、。、。、」。でも。、。、。。ない。、。、。、。第。、三。、の。、。、道の。、。、。存在。。、。それは、。、。、。、理知。が、。、。、。一。、。つの。。、円。を。、。、。、。。描（。えが）。。き。。、。終えた。。、とき。の、。。、峻烈な。、。、。、。、「。、。記憶。、。、。、」。、)"
+ },
+ {
+  "id": "optimality",
+  "word": "Optimality",
+  "meaning": "最適性、限られた条件の中で最も。、。、。ふさわしい。、。結末。を。、。、。見出す。。、。峻烈な。、。、。理知。、",
+  "era": "Latin optimus",
+  "etymology": {
+   "components": [
+    "optimus (best / very good)"
+   ],
+   "original_statement": "From Latin optimus 'best'."
+  },
+  "concept": "The best end (「。。、。これ以上。、。、」。は。、。、存在。。し。ない。。、。という、。、。、極限。、の。、。地点。、。、。それは、。、。、。理知。が、。、。、あらゆる。、。、。、。「。。、。、無駄。、。、。、」。を。、。、切り。、。捨て。。、。、磨（。みが）。。、。き。。、。上げた。。、。、。最後。の、。一。、。、。滴。、)"
+ },
+ {
+  "id": "pareto-optimality",
+  "word": "Pareto Optimality",
+  "meaning": "パレート最適、誰の幸福をも。、。、失わ。ずに。、。、他者の幸福。を。、。、、高める。。、ことの。、。、。できない。。、。、峻烈な。、。、均衡。、",
+  "era": "Name Vilfredo Pareto",
+  "etymology": {
+   "components": [
+    "Vilfredo Pareto (economist)"
+   ],
+   "original_statement": "A state of allocation of resources from which it is impossible to reallocate so as to make any one individual or preference criterion better off without making at least one individual or preference criterion worse off."
+  },
+  "concept": "The delicate balance (「。。、だれ。の。、。、」。犠（。ぎ）。。、。牲（。せい）。。、も。、。、。許。、。さぬ。。、。、。、あ。、ま。り。。に。、。、。美しい。、、。、。。理知。の、。。、。「。。、。、均衡。、。、。、」。それは、。、。、。一。、。、。点。、。へと。、。、。、。辿り。、。着。いた。。、。、。共。、。存。、。、の、。、。。限界。、)"
+ },
+ {
+  "id": "subgame-perfection",
+  "word": "Subgame Perfection",
+  "meaning": "部分ゲーム完全性、未来の。、。あらゆる。、。、。、分岐。、においても。、。、。自らの。、。、理知。を。、。、。、貫（。つらぬ）。。、。く。。、。、。峻烈な。、。、。、誠実。、",
+  "era": "English sub- + game + perfection",
+  "etymology": {
+   "components": [
+    "sub- (under)",
+    "game",
+    "perfection"
+   ],
+   "original_statement": "A refinement of a Nash equilibrium used in dynamic games."
+  },
+  "concept": "Consistency in branches (「。。、たとえ。、。、」。どのような。。、。不意な。、。、「。。、。、。、。もしも。、。、。、」。が。、。、。訪（。おとず）。。、。れて。。、。、。も、。、。、。その。、。、舞台。の。、。、。。隅々。、に至るまで。、。、。理知。を。、。、。、行き。、。わた。。、らせ、。、。、。正。、。、答。、を。、。、。出し。。、。つ。。、づ。ける。。、。、。たゆ。まなき。、。、。「。。、。、意志。、。、。、」。、)"
+ },
+ {
+  "id": "metaheuristic",
+  "word": "Metaheuristic",
+  "meaning": "メタヒューリスティック、正解のない。、。、。迷宮。を。、。、。。抜（。ぬ）。。、。ける。。、ための、。、。、理知。の、。、。、。戦略。。、。の、。、。。、。ための。、。、戦略。、",
+  "era": "Greek meta + heuriskein",
+  "etymology": {
+   "components": [
+    "meta (beyond)",
+    "heuriskein (to find / discover)"
+   ],
+   "original_statement": "From Greek meta- 'beyond' + heuriskein 'to find'."
+  },
+  "concept": "Strategy of discovery (「。。、。答（。こたえ）。。、。、」。を。、。、。探（。さが）。。、。す。。、。ことに。、。、。疲（。つか）。。、。れた。。、。、理知。が、。、。、。不意に。、。、。、「。。、。、。探し。、。、。方。、。、。、」。その。、。、もの。に、。、。、想（。おも）。。、。い。。、。を。。、。馳（。は。）。。、。せた。。、とき。に。、。、。。、見出（。みいだ）。。、。される。。、。高。、。次元。、。の。、。、。、。教。、。、訓。、)"
+ },
+ {
+  "id": "simplex-method",
+  "word": "Simplex Method",
+  "meaning": "シンプレックス法、多面体の頂点を。、。、一。、。つずつ、。、。、辿（たど）。。、。り。。、ながら。、。、。頂（。いただき）。。、。へと。、。、。昇（。のぼ）。。、。る。。、理。知。の、。、。。歩。、。み。、",
+  "era": "Latin simplex",
+  "etymology": {
+   "components": [
+    "simplex (simple / single)"
+   ],
+   "original_statement": "A popular algorithm for linear programming, moving from vertex to vertex on the feasible region."
+  },
+  "concept": "Moving the vertex (「。。、。一。、。歩。、。、」。あ。、。る。。い。は。、。、。「。。、。、。一。、点。、。、。、」。それらを。、。、。、確実。に。、。、。、。踏（。ふ）。。、。み。。、。し。め。なが。ら。、。、。、高く。、。、。、。、高み。へと。、。、。、。昇（。のぼ）。。、。り。。、。ゆ。く。。、一。、。つの。、。、。直。、。。、観。、。、。という。、。、。、。勇。、。、。気。、)"
+ },
+ {
+  "id": "convex-optimization",
+  "word": "Convex Optimization",
+  "meaning": "凸最適化、ただ。、。、。一。、。つの。。、。、。「。。、。、。、。底。、。、。、」。へと、。、。、。迷（。まよ）。。、。わず。。に。、。、辿り。、。着。ける。。、。峻烈な。、。、。。場所。、。、。の、。、。。理知。、",
+  "era": "Latin convexus",
+  "etymology": {
+   "components": [
+    "convexus (vaulted / arched)"
+   ],
+   "original_statement": "A subfield of mathematical optimization that studies the problem of minimizing convex functions over convex sets."
+  },
+  "concept": "The single bowl (「。。、どこ。。、。から。、。、」。落（。お。）。。、。と。、。、。。された。。、。としても、。、。、最後。には。、。、。必ず。、。、。、「。。、。、同一。の、。、。、。底。、。、。、」。へと、。、。、辿。り。。、。着。ける。。、。という、。、。、絶対的。。、。、な。、。、。、「。。、。、安心。感。、。、。、」。、。、。それは、。、。、。、。理。知。、。が。、。、。、約束。。、された。。、。、。、救。、い。、)"
  }
 ];
