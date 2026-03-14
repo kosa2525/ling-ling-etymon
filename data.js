@@ -399694,5 +399694,765 @@ const WORDS = [
 			]
 		},
 		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "musicology_a",
+		"word": "Musicology",
+		"meaning": "音楽学（おんがくがく）",
+		"etymology": [
+			"Greek mousike + logos"
+		],
+		"concept": "Academic study of music",
+		"thinking": "「ミューズの技（Mousike）」を「理（Logos）」で解き明かす。感性の快楽を、歴史、文化、そして数理の刃で解剖し、音符の裏側に潜む思想の貌（貌）を暴き出す知の営み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "ethnomusicol",
+		"word": "Ethnomusico",
+		"meaning": "民族音楽学（みんぞくおんがくがく）",
+		"etymology": [
+			"Greek ethnos + Musicology"
+		],
+		"concept": "Music in cultural context",
+		"thinking": "「民族（Ethnos）」の魂の響きを聴く。西欧の楽譜という名の檻から音楽を解き放ち、大地の声、祈りの調べ、生活の拍動としての音の貌を探索する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "atonal_music",
+		"word": "Atonality",
+		"meaning": "無調（むちょう）性（せい）",
+		"etymology": [
+			"Greek a- (not) + Tone"
+		],
+		"concept": "Lack of central key",
+		"thinking": "「調（中心の重力：Tone）」を「失った（A-）」自由と孤独。重力から解き放たれ、すべての音符が平等に浮遊する、20世紀の虚無と解放を象徴する音楽の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "serialism_a",
+		"word": "Serialism",
+		"meaning": "セリエリズム、音列主義（おんれつしゅぎ）",
+		"etymology": [
+			"Latin series (row/order)"
+		],
+		"concept": "Composition via series/rows",
+		"thinking": "インスピレーション（感情）を排し、「列（Series）」という厳格な数理的規律によって作曲を進める。数学者が方程式を解くように、一音一音を配置していく、禁欲的な知性の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "dodecaphony",
+		"word": "Dodecaphon",
+		"meaning": "十二音技法（じゅうにおんぎほう）",
+		"etymology": [
+			"Greek dodeka (twelve) + phone (sound)"
+		],
+		"concept": "Equally using 12 notes",
+		"thinking": "「十二（Dodeka）」の「音（Phone）」が、身分（調性）の差なく共演する。シェーンベルクが生み落とした、耳のための民主主義、あるいは独裁。秩序が崩壊した後の、新しい人工的な美の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "polytonality",
+		"word": "Polytone",
+		"meaning": "多調（たちょう）性（せい）",
+		"etymology": [
+			"Greek poly- + Tone"
+		],
+		"concept": "Using multiple keys at once",
+		"thinking": "「多くの（Poly）」重力が同時に存在する世界。一人のためのメロディと、他者のためのメロディが、互いの重なりを無視して響き合う、カオスの中の奇妙な調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "aleatory_mus",
+		"word": "Aleatory",
+		"meaning": "偶然性（ぐうぜんせい）の音楽（おんがく）",
+		"etymology": [
+			"Latin alea (dice)"
+		],
+		"concept": "Music via chance/dice",
+		"thinking": "「サイコロ（Alea）」を振り、音楽の運命を偶然（野生）へと手渡す。作曲家という名の独裁から音を解放し、一期一会の『響き（貌）』との出会いを楽しむ、ジョン・ケージ的な虚無の美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "stochastic_m",
+		"word": "Stochastic",
+		"meaning": "推計学（すいけいがく）的（てき）音楽（おんがく） (クセナキス)",
+		"etymology": [
+			"Greek stokhazesthai (to aim/guess)"
+		],
+		"concept": "Composition via probability",
+		"thinking": "「確率（Stochastic）」という名の巨大な雲として音を扱う。個々の音符ではなく、数理的に制御された『音の塊（クラスター）』が織りなす、建築的な美。カオスの中の必然。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "spectralism",
+		"word": "Spectralism",
+		"meaning": "スペクトル主義（しゅぎ）",
+		"etymology": [
+			"Latin spectrum (appearance/specter)"
+		],
+		"concept": "Composition based on acoustics",
+		"thinking": "音の「内部（スペクトル）」を顕微鏡で覗き込み、その倍音構造そのものをオーケストラで拡大して演奏する。物質としての音、その物理的な肌触り（貌）を音楽にする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "minimalism_m",
+		"word": "Mus Minimal",
+		"meaning": "ミニマル・ミュージック",
+		"etymology": [
+			"Minimal"
+		],
+		"concept": "Repetition of simple units",
+		"thinking": "極小の旋律を無限に反復し、さざなみのように変化させていく。時間を「線」ではなく「層」として体験させる。意識をトランス状態へと導く、清廉な情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "fugue_adv_v",
+		"word": "Fugue",
+		"meaning": "フーガ、遁走曲（とんそうきょく）",
+		"etymology": [
+			"Latin fuga (flight/chase)"
+		],
+		"concept": "Voices chasing each other",
+		"thinking": "一つのテーマが次々と現れ、互いに「逃げ（Fuga）」、追いかける。終わりのない追跡の連鎖。秩序が秩序を生み、追い越し、再び混ざり合う、高度な形式美の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "monophony_ad",
+		"word": "Monophony",
+		"meaning": "モノフォニー、単声（たんせい）",
+		"etymology": [
+			"Greek monos + phone"
+		],
+		"concept": "Single melodic line",
+		"thinking": "「一つ（Mono）」の、混じりけのない声。グレゴリオ聖歌のような、峻厳な沈黙のあわい。迷いのない、一本の線の美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "homophony_ad",
+		"word": "Homophony",
+		"meaning": "ホモフォニー",
+		"etymology": [
+			"Greek homos + phone"
+		],
+		"concept": "Melody with accompaniment",
+		"thinking": "主旋律に、他の声部が「同じ（Homos）」リズムで付き従う。一人の英雄を、大衆が支えるような構成。旋律の明快さと、和声の豊かさの統合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "enharmonic_a",
+		"word": "Enharmonic",
+		"meaning": "異名（いめい）同音（どうおん）の",
+		"etymology": [
+			"Greek en- + harmonia"
+		],
+		"concept": "Different names for same pitch",
+		"thinking": "ド＃とレ♭。名前（貌）は違うが、実体は「同じ」。音楽という名の情報の曖昧さを利用し、一瞬で別な世界（調）へと跳躍するための秘密の通路。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "microtonalit",
+		"word": "Microtone",
+		"meaning": "微分音（びぶんおん）",
+		"etymology": [
+			"Greek mikros + Tone"
+		],
+		"concept": "Intervals smaller than semitone",
+		"thinking": "ピアノの鍵盤の隙間に落ちている、もっと「小さい（Mikros）」音。平均律という人工的な秩序から、無限のグラデーションとしての自然な響き（貌）を救い出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "temperament_",
+		"word": "Temperament",
+		"meaning": "音律（おんりつ）、テンペラメント",
+		"etymology": [
+			"Latin temperare (to mix/restrain)"
+		],
+		"concept": "System of tuning",
+		"thinking": "完全な美しさを、実用のために「節制（Temper）」する。不協和音を分散し、すべての調で演奏可能にするための、人間の知恵と妥協の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "consonance_a",
+		"word": "Consonance",
+		"meaning": "協和（きょうわ）",
+		"etymology": [
+			"Latin con- + sonare (to sound together)"
+		],
+		"concept": "Pleasant, stable harmony",
+		"thinking": "「共に（Con-）」「響く（Sound）」。波形が完璧に重なり合い、安らぎと安定を与える響き。魂が帰るべき故郷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "resolutio_ad",
+		"word": "Resolution",
+		"meaning": "解決（かいけつ） (音楽)",
+		"etymology": [
+			"Latin re- + solvere (loosen again)"
+		],
+		"concept": "Moving tension to stability",
+		"thinking": "張り詰めた不協和音が、ふっと「解かれる（Solve）」。緊迫から安らぎへの、情報のカタルシス。心が。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "syncopation_",
+		"word": "Syncopation",
+		"meaning": "シンコペーション、切分音（せつぶんおん）",
+		"etymology": [
+			"Greek sun- + koptein (to cut short)"
+		],
+		"concept": "Displaced accent/rhythm",
+		"thinking": "拍の流れを「切り裂き（Koptein）」、予期せぬ場所でアクセントを打つ。重力（拍感）への反抗。リズムに魂と躍動（貌）を与える、衝撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "polyrhythm_a",
+		"word": "Polyrhythm",
+		"meaning": "ポリリズム",
+		"etymology": [
+			"Greek poly- + rhythmos"
+		],
+		"concept": "Simultaneous different rhythms",
+		"thinking": "「多くの（Poly）」リズムが、それぞれ独立した時間感覚で同時に流れる。一人の体の中に、複数の鼓動が宿るような。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "orchestratio",
+		"word": "Orchestrat",
+		"meaning": "管弦楽（かんげんがく）法（ほう）、オーケストレーション",
+		"etymology": [
+			"Greek orkhestra (place for dancing)"
+		],
+		"concept": "Art of arranging for orchestra",
+		"thinking": "ピアノのための白白しい下書きに、楽器という名の「色」を塗る。バイオリンの絹、ホルンの黄金、ティンパニの大地。音のパレットを使って、巨大な音の巨大な貌を彩る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "timbre_music",
+		"word": "Timbre",
+		"meaning": "音色（ねいろ）、ティンブル",
+		"etymology": [
+			"Greek tympanon (drum/bell)"
+		],
+		"concept": "Quality of musical sound",
+		"thinking": "音符が同じでも、楽器が違えば「貌」が違う。その音をその音たらしめている、物理的な肌触りと倍音の響き。情報の『質感』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "leitmotif_ad",
+		"word": "Leitmotif",
+		"meaning": "示導（しどう）動機（どうき）、ライトモティーフ",
+		"etymology": [
+			"German leiten (to lead) + Motif"
+		],
+		"concept": "Theme for recurring idea",
+		"thinking": "特定の登場人物や概念（愛、死、希望）に結びつけられた「導き（Leit）」の旋律。音が鳴るだけで、その背後にある物語が召喚される。情報を音のシンボルへと凝縮する、ワグナーの魔術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "program_musi",
+		"word": "Prog Music",
+		"meaning": "標題（ひょうだい）音楽（おんがく）",
+		"etymology": [
+			"Greek pro- (before) + graphein"
+		],
+		"concept": "Music depicting story/image",
+		"thinking": "言葉や絵（Program）を「前に（Pro）」置き、それを音で描き出す。音楽を翻訳機として使い、文学的な貌を音響へと変換する試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "absolute_mus",
+		"word": "Abs Music",
+		"meaning": "絶対（ぜったい）音楽（おんがく）",
+		"etymology": [
+			"Absolute"
+		],
+		"concept": "Music self-contained",
+		"thinking": "物語も言葉も不要。ただ音と形式（理）だけで完結する、純粋な音楽。何ものにも「解き放たれた（Absolute）」、抽象的な美の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "cadence_musi",
+		"word": "Cadence",
+		"meaning": "収止（しゅうし）、カデンツ",
+		"etymology": [
+			"Latin cadere (to fall)"
+		],
+		"concept": "Closing musical phrase",
+		"thinking": "「落ちる（Cadere）」場所。長い道のりの果てに、ようやく辿り着いた安住の地。フレーズに句読点を打つための。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "improv_music",
+		"word": "Improvise",
+		"meaning": "即興（そっきょう）",
+		"etymology": [
+			"Latin in- + pro- + visere (not seen before)"
+		],
+		"concept": "Composing while performing",
+		"thinking": "「前もって（Pro）」「見て（Vis-）」いない、一発勝負の調べ。あらかじめ書かれた楽譜を捨て、今この瞬間の感情という名の嵐に身を任せる。生きた情報の瞬発的な爆発。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "virtuosity_m",
+		"word": "Virtuoso",
+		"meaning": "名演奏家（めいえんそうか）、絶技（ぜつぎ）",
+		"etymology": [
+			"Latin virtus (virtue/excellence)"
+		],
+		"concept": "Exceptional technical skill",
+		"thinking": "「卓越（Virtus）」を極めた者。肉体の限界を超え、楽器と一体化し、人ならぬ神速の調べを産み出す。超絶技巧という名の、畏敬すべき魂の研鑽の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "psychoacoust",
+		"word": "Psychoacou",
+		"meaning": "心理（しんり）音響（おんきょう）学（がく）",
+		"etymology": [
+			"Greek psykhe + akouein (to hear)"
+		],
+		"concept": "Perception of sound",
+		"thinking": "耳から入った空気の振動が、脳の中でどのようにして「音楽（貌）」へと変容するのか。物理と意識の境界線を探る、聴覚の認識論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "organology_",
+		"word": "Organology",
+		"meaning": "楽器（がっき）学（がく）",
+		"etymology": [
+			"Greek organon (tool) + logos"
+		],
+		"concept": "Study of musical instruments",
+		"thinking": "「音を出す道具（Organon）」の理。木、金、皮、そして電子。知性が重力と格闘して産み出した、音の拡張器たちの進化の歴史。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "music_therap",
+		"word": "Music Ther",
+		"meaning": "音楽（おんがく）療法（りょうほう）",
+		"etymology": [
+			"Music + Greek therapeia (service/cure)"
+		],
+		"concept": "Music for healing",
+		"thinking": "言葉の届かない深い傷を、調べという名の手（Therapeia）で「癒す」。情報の共鳴（貌）によって、壊れた心の安らぎを再構築する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "solfeggio_ad",
+		"word": "Solfeggio",
+		"meaning": "ソルフェージュ",
+		"etymology": [
+			"Italian solfa"
+		],
+		"concept": "Music training system",
+		"thinking": "音の「読み書き」の訓練。目に見える記号（楽譜）と、耳で聞こえる響きを、脳内で直結させるための。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "transpositi",
+		"word": "Transpose",
+		"meaning": "移調（いちょう）",
+		"etymology": [
+			"Latin trans- (across) + ponere (to place)"
+		],
+		"concept": "Changing key of a piece",
+		"thinking": "全体の構造（響き合いの理）を保ったまま、場所（高さ）を「向こう側（Trans）」へ「置く（Pone）」。相対的な関係性こそが音楽の本質であることを証明する理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "modulation_",
+		"word": "Modulation",
+		"meaning": "転調（てんちょう）",
+		"etymology": [
+			"Latin modulus (small measure)"
+		],
+		"concept": "Changing the key",
+		"thinking": "「物差し（Modulus）」を途中で変える。今まで「正しい」と信じていた中心（貌）が崩れ、全く新しい色彩の世界へと染まっていく、ドラマチックな変容の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "ostinato_ad",
+		"word": "Ostinato",
+		"meaning": "オスティナート、執拗（しつよう）低音（ていおん）",
+		"etymology": [
+			"Latin obstinatus (obstinate)"
+		],
+		"concept": "Persistent repeated pattern",
+		"thinking": "「頑固（Obstinate）」に繰り返されるパターン。変化する世界を底辺で支え、あるいは呪縛する。逃れられぬ運命を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "cacophony_ad",
+		"word": "Cacophony",
+		"meaning": "不協和音（ふきょうわおん）、耳（みみ）障（ざわ）りな音（おと）",
+		"etymology": [
+			"Greek kakos (bad) + phone"
+		],
+		"concept": "Harsh, jarring sound",
+		"thinking": "「醜い（Kakos）」声。意味をなさぬノイズの洪水。しかし、その混沌の中からこそ、新しい秩序（貌）の産声が上がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "euphony_adv_",
+		"word": "Euphony",
+		"meaning": "心地（ここち）よい響（ひび）き",
+		"etymology": [
+			"Greek eu- (good) + phone"
+		],
+		"concept": "Pleasant sound association",
+		"thinking": "「善き（Eu）」声。滑らかに繋がり、魂を優しく包み込む。情報の最も純粋で、最も甘美な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "leitmotif_ad",
+		"word": "Motif (C)",
+		"meaning": "動機（どうき）の核心（かくしん）",
+		"etymology": [
+			"Motif"
+		],
+		"concept": "Smallest unit of movement",
+		"thinking": "たった三つの音、たった一つのリズムが、巨大なシンフォニー（宇宙）のすべてを支配する。一滴の雫に、大海の理が凝縮されているように。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "沈黙を、響きの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"音楽理論と作曲法の極致へ。"
+			]
+		},
+		"example": "Music theory provides a formal system for understanding harmony and rhythm."
 	}
 ];
