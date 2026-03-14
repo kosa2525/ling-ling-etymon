@@ -368655,5 +368655,885 @@ const WORDS = [
 			]
 		},
 		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "comparative_li",
+		"word": "Comparative",
+		"meaning": "比較文学（ひかくぶんがく）",
+		"etymology": [
+			"Latin con- + par (equal)"
+		],
+		"concept": "Literature across borders",
+		"thinking": "「等しさ（Par）」を「共に（Con-）」見出す。国境や言語の壁を越え、異なる物語たちが共有する人間的な苦悩や歓喜の『貌』を浮き彫りにする、開かれた文学の眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "intertextual_l",
+		"word": "Intertextual",
+		"meaning": "テクスト間（かん）相互作用",
+		"etymology": [
+			"Latin inter- + texere (to weave)"
+		],
+		"concept": "Web of references",
+		"thinking": "言葉は「織物（Texere）」の「間（Inter-）」にのみ存在する。一つの詩が、数千年前の誰かの溜息を引用し、別の物語がそれを上書きする。世界そのものが、終わりのない情報の重なり合い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "transcultural",
+		"word": "Transcultural",
+		"meaning": "トランスカルチュラル、文化横断的",
+		"etymology": [
+			"Latin trans- (across) + Culture"
+		],
+		"concept": "Crossing cultures",
+		"thinking": "一つの「文化」の中に踏み留まらず、境界を「横切って（Trans-）」いく。混ざり合い、衝突し、新しい何かが産まれる。固定されたアイデンティティを溶かす、流動的な生の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "hegemony_gram",
+		"word": "Hegemony",
+		"meaning": "ヘゲモニー、覇権（はけん）",
+		"etymology": [
+			"Greek hegemon (leader)"
+		],
+		"concept": "Cultural dominance",
+		"thinking": "「リーダー（Hegemon）」による、力（暴力）ではなく、同意（文化）を通じた支配。何が正しいか、何が美しいかという『常識』そのものを握り、人々の心を静かに縛り付ける目に見えない力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "subaltern_phil",
+		"word": "Subaltern",
+		"meaning": "サバルタン、下位（かい）主体",
+		"etymology": [
+			"Latin sub- (under) + alternus (alternate)"
+		],
+		"concept": "Oppressed who cannot speak",
+		"thinking": "歴史の「下（Sub）」に置かれ、支配的な言葉の枠組みの中では自らの声を発することさえ許されない者たち。沈黙を強いられた彼らの叫びを、いかにして聞き取るかという倫理的挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "orientalism_sa",
+		"word": "Orientalism",
+		"meaning": "オリエンタリズム",
+		"etymology": [
+			"Latin oriens (rising sun/East)"
+		],
+		"concept": "Western view of the East",
+		"thinking": "「東方（Oriens）」を、西洋の欲望や不安を投影した『異質の他者』として勝手に作り上げる。知るためではなく、支配し、優越感に浸るための、歪んだ眼差しの装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "eurocentrism_a",
+		"word": "Eurocentrism",
+		"meaning": "ヨーロッパ中心主義",
+		"etymology": [
+			"Europe + Greek kentron"
+		],
+		"concept": "Europe as the standard",
+		"thinking": "ヨーロッパの歴史や価値観を、唯一無二の「中心（Center）」であり、世界の進歩の基準であると信じ込む。他者の多様な時間を、自らの物語の中へと強引に組み込もうとする傲慢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "hybridity_bhab",
+		"word": "Hybridity",
+		"meaning": "ハイブリディティ、混淆性",
+		"etymology": [
+			"Latin hybrida (offspring of tame sow and wild boar)"
+		],
+		"concept": "Mixed identity",
+		"thinking": "二つの異なるルーツが交わり、どちらでもない「第三の場所」が産まれる。矛盾を抱えたまま生きるその「混ざり合い（Hybrid）」こそが、固定された支配を揺さぶる力の源となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "mimicry_bhabha",
+		"word": "Mimicry",
+		"meaning": "ミミクリー、擬態（ぎたい）",
+		"etymology": [
+			"Greek mimos (actor)"
+		],
+		"concept": "Imitation that mocks",
+		"thinking": "支配者の真似をしながら、どこか一点をわざと外し、その支配がいかに滑稽であるかをあざ笑う「似て非なる」振る舞い。従順を装った、静かなる抵抗の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "diaspora_cult",
+		"word": "Diaspora",
+		"meaning": "ディアスポラ、離散（りさん）",
+		"etymology": [
+			"Greek dia- (across) + speirein (to scatter)"
+		],
+		"concept": "Scattered people",
+		"thinking": "故郷から「四方八方へ（Dia-）」「撒き散らされた（Speirein）」者たち。失われた大地への郷愁と、新しい土地での孤独な戦い。境界を生きる、根無し草たちの強靭な文化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "cosmopolit_ad",
+		"word": "Cosmopolit",
+		"meaning": "コスモポリタン、世界市民",
+		"etymology": [
+			"Greek kosmos + polites (citizen)"
+		],
+		"concept": "Citizen of the world",
+		"thinking": "「宇宙（Kosmos）」そのものを自らの「都市（Polis）」とする。国境という名の檻を抜け出し、全人類的な正義と共感を抱いて、どこにいても故郷であるかのように振る舞う、自由な魂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "deterritoriali",
+		"word": "Deterritoral",
+		"meaning": "脱領域（だつりょういき）化",
+		"etymology": [
+			"Latin de- + territorium"
+		],
+		"concept": "Removal from locality",
+		"thinking": "「大地（Territory）」との繋がりを「断ち切る（De-）」。資本、言葉、文化が場所を離れ、ネットワークの中を高速で駆け巡る。定住という安心を捨て、漂流し続ける現代の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "appropriation",
+		"word": "Appropriation",
+		"meaning": "文化（ぶんか）の盗用（とうよう）",
+		"etymology": [
+			"Latin ad- + proprius (one's own)"
+		],
+		"concept": "Taking without respect",
+		"thinking": "他者の神聖なシンボルを、勝手に「自分のもの（Proprius）」として消費する。敬意なき模倣と、略奪の歴史。美という名の下で行われる、もう一つの支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "canon_lit_adv",
+		"word": "The Canon",
+		"meaning": "カノン、正典（せいてん）",
+		"etymology": [
+			"Greek kanon (measuring rod)"
+		],
+		"concept": "List of 'great' books",
+		"thinking": "何を読み、何を後世に伝えるべきかという「物差し（Kanon）」。権力が選んだ『最高傑作』のリスト。しかし、そのリストに選ばれなかった無数の物語たちにこそ、失われた真実が眠っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "vernacular_ad",
+		"word": "Vernacular",
+		"meaning": "ヴァナキュラー、土着的",
+		"etymology": [
+			"Latin vernaculus (native/slave born in house)"
+		],
+		"concept": "Language of the people",
+		"thinking": "高貴な教養（ラテン語など）ではなく、その土地の「家の中で産まれた（Vernaculus）」、人々の剥き出しの言葉。生活の匂い、泥、そして切実な叫びを宿した言葉の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "polyphony_bak",
+		"word": "Polyphony",
+		"meaning": "ポリフォニー、多声性",
+		"etymology": [
+			"Greek poly- + phone (voice)"
+		],
+		"concept": "Many independent voices",
+		"thinking": "作者一人の支配に屈しない、「多くの（Poly）」「声（Phone）」。物語の中で、それぞれの人物が自らの正理を持ち、対等に響き合う。真理は一つではなく、数多の声の『対話』の中にこそ宿るという確信。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "chronotope_bak",
+		"word": "Chronotope",
+		"meaning": "クロノトープ、時空（じくう）",
+		"etymology": [
+			"Greek khronos (time) + topos (place)"
+		],
+		"concept": "Intersection of time and space in story",
+		"thinking": "「時間（Khronos）」と「場所（Topos）」が固く結びついた、物語特有の宇宙の感触。英雄の道、あるいは家庭の暖炉。その舞台設定そのものが、語られる言葉の運命を決定づける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "carnivalesque",
+		"word": "Carnivalesque",
+		"meaning": "カーニバル的、祝祭的",
+		"etymology": [
+			"Latin carnem levare (put away meat)"
+		],
+		"concept": "Temporary subversion of order",
+		"thinking": "上下関係が逆転し、王が道化になり、道化が王になる「祭り（Carnival）」の時間。抑圧された日常を笑い飛ばし、生命の根源的なカオスを爆発させる、破壊と再生のひととき。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "monoglossia_a",
+		"word": "Monoglossia",
+		"meaning": "単一言語（たんいつげんご）状況",
+		"etymology": [
+			"Greek monos + glossa"
+		],
+		"concept": "Suppression of language variety",
+		"thinking": "「ただ一つ（Monos）」の正しい「舌（Glossa）」。あらゆる差異を塗りつぶし、完璧な統一と支配を目指す、権力の無機質な言葉の静寂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "narratology_ad",
+		"word": "Narratology",
+		"meaning": "物語論（ものがたりろん）",
+		"etymology": [
+			"Latin narrare (to tell) + logos"
+		],
+		"concept": "Science of storytelling",
+		"thinking": "「物語ること（Narrate）」の理。何が語られたかではなく、いかに『語られた』か。時間の順序、視点の位置。物語という名の精緻な装置を分解し、その魔法の仕組みを解き明かす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "fabula_szjuzh",
+		"word": "Fabula",
+		"meaning": "ファブラ、筋（すじ）",
+		"etymology": [
+			"Latin fabula (story/discourse)"
+		],
+		"concept": "The chronological events",
+		"thinking": "起きたことを時間の順番通りに並べた、物語の「骨格」。装飾を剥ぎ取った、生の出来事の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "syuzhet_narrat",
+		"word": "Syuzhet",
+		"meaning": "スユージェット、構成",
+		"etymology": [
+			"French sujet (subject)"
+		],
+		"concept": "The artistic arrangement",
+		"thinking": "出来事をわざと前後させ、伏線を張り、遅延させる、作家による「表現（Sujet）」の貌。この『語り方の歪み』こそが、ただの記録を芸術（アート）へと変貌させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "implied_author",
+		"word": "Implied Auth",
+		"meaning": "内包（ないほう）される作者",
+		"etymology": [
+			"Latin implicare (to fold in)"
+		],
+		"concept": "Author persona in the text",
+		"thinking": "現実の作者ではない。ただ、テクストの中に「折り畳まれて（Implic-）」存在する、特定の価値観や語り手を感じさせる影。私たちは、その影（読者の幻想）と対話している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "focalization_a",
+		"word": "Focalization",
+		"meaning": "焦点化（しょうてんか）",
+		"etymology": [
+			"Latin focus (hearth/center)"
+		],
+		"concept": "Perspective of the story",
+		"thinking": "「火を焚く場所（Focus）」をどこに置くか。誰の眼差しを通して、世界を透かし見るか。視点を固定することで、読者の感情を物語の中央へと誘い、あるいは突き放す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "diegesis_narr",
+		"word": "Diegesis",
+		"meaning": "ディエゲーシス、語り",
+		"etymology": [
+			"Greek diegesis (narrative)"
+		],
+		"concept": "Narrative world",
+		"thinking": "物語の中で「起きている世界」そのもの。語り手が介入し、説明する。世界を見せる（ミメーシス）のではなく、言葉で『語り尽くす』という、報告者の誠実さと傲慢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "metalepsis_ad",
+		"word": "Metalepsis",
+		"meaning": "メタレプシス、越境（えっきょう）",
+		"etymology": [
+			"Greek meta- + lambanein (to take)"
+		],
+		"concept": "Breaking the fourth wall",
+		"thinking": "「境界を（Meta-）」「掴み取る（Lambanein）」。作中の人物が、突然作者（現実）の次元に足を踏み入れる、あるいはその逆。物語の虚構という皮膜を、内側から突き破る不気味な接触。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "allegory_cult",
+		"word": "National Alle",
+		"meaning": "国民的（こくみんてき）アレゴリー",
+		"etymology": [
+			"National + Allegory"
+		],
+		"concept": "Third world lit as politics",
+		"thinking": "一人の愛やつまずきを語りながら、それがそのまま「国家（Nation）」全体の運命や苦悩を語ることになる。個人の魂が、巨大な共同体の貌を映し出す鏡となるという、政治的文学の宿命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "ecocriticism_a",
+		"word": "Ecocriticism",
+		"meaning": "エコクリティシズム",
+		"etymology": [
+			"Greek oikos (home) + krinein"
+		],
+		"concept": "Literature and environment",
+		"thinking": "「家（Oikos）」としての地球を、いかに文学的に「審判（Krinein）」するか。人間中心の物語を捨て、自然、山、河という他者たちがいかに語られているかを問い直す、緑の文芸批評。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "affect_theory",
+		"word": "Affect Theory",
+		"meaning": "情動（じょうどう）理論",
+		"etymology": [
+			"Latin ad- + facere (to act upon)"
+		],
+		"concept": "Impact before emotion",
+		"thinking": "言葉になる前の、心の「震え（Affect）」そのもの。何かに「作用され（Ad-facere）」、体が震え、肌が粟立つ。意味という解釈を飛び越えて、直接的に心に突き刺さる根源的な波動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "unreliable_na",
+		"word": "Unreliable Na",
+		"meaning": "信頼（しんらい）できない語り手",
+		"etymology": [
+			"Un- + Rely + Able"
+		],
+		"concept": "The liar narrator",
+		"thinking": "「頼りに（Rely）」「できない（Un-）」。語られていることが、実は語り手の狂気や嘘、あるいは無知によって歪んでいる。読者を疑惑の迷宮へと誘い込む、物語の毒。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "paratext_gen",
+		"word": "Paratext",
+		"meaning": "パラテクスト",
+		"etymology": [
+			"Greek para- (beside) + Texere"
+		],
+		"concept": "Threshold of interpretation",
+		"thinking": "本文の「そばに（Para-）」あるもの。タイトル、帯、あとがき。入り口を飾るこれらの断片が、私たちの読み方をあらかじめ呪い、あるいは祝福しているという、文脈の門番。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "architextual",
+		"word": "Architext",
+		"meaning": "アーキテクスト、原テクスト",
+		"etymology": [
+			"Greek arkhe (beginning) + Texere"
+		],
+		"concept": "Generic categories",
+		"thinking": "「始まり（Arkhe）」の型。小説であれ、詩であれ、私たちはあらかじめそのジャンルの『約束事』に従って読んでいる。個々の作品を超えた、文学の普遍的な形式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "hypertextual",
+		"word": "Hypertextual",
+		"meaning": "ハイパーテクスト性",
+		"etymology": [
+			"Greek hyper- (beyond) + Texere"
+		],
+		"concept": "One text leads to another",
+		"thinking": "境界を「越えて（Hyper-）」結びつく。ある物語が、別の物語（プロトテクスト）を土台にし、変容させ、パロディとして上書きする。文学という名の、巨大な重層都市。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "hypotextual",
+		"word": "Hypotext",
+		"meaning": "ヒポテクスト、下位テクスト",
+		"etymology": [
+			"Greek hypo- (under)"
+		],
+		"concept": "Source text for another",
+		"thinking": "新しい物語を支える、その「下（Hypo）」にある源泉。かつての巨匠の言葉を種にして、新しい美が芽吹くための、肥沃な過去の土壌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "xenophobia_cult",
+		"word": "Xenophobia",
+		"meaning": "外国人嫌悪（がいこくじんけんお）",
+		"etymology": [
+			"Greek xenos (stranger) + phobos"
+		],
+		"concept": "Fear of the other",
+		"thinking": "「他者（Xenos）」を、自分たちの平穏を壊す「恐怖（Phobos）」の対象として拒絶する。鏡の中に映った、理解できない自分自身の影を恐れているに過ぎないという、心の防衛本能。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "transgressive",
+		"word": "Transgressive",
+		"meaning": "越境（えっきょう）的、冒涜的",
+		"etymology": [
+			"Latin trans- (across) + gradi (to step)"
+		],
+		"concept": "Violating boundaries",
+		"thinking": "一線を「越えて（Trans-）」「足を踏み出す（Gradi）」。タブーを侵し、聖域を汚す。その冒涜的な行為の果てにこそ、隠された真理が剥き出しになるという、危険な美の探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "epistemology_l",
+		"word": "Epistemology",
+		"meaning": "認識論（にんしきろん） (Lit)",
+		"etymology": [
+			"Greek episteme + logos"
+		],
+		"concept": "How we know what we know",
+		"thinking": "何かが「分かっている（Episteme）」という確信は、どこから来るのか。文学が提示する『事実』がいかにして構築され、私たちの世界観を支配しているかを解剖する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "ontological_l",
+		"word": "Ontological",
+		"meaning": "存在論（そんざいろん）的 (Lit)",
+		"etymology": [
+			"Greek on (being) + logos"
+		],
+		"concept": "Realities in literature",
+		"thinking": "物語の中の彼らは、本当に「存在して（On）」いるのか。文字の向こう側に広がる広大な宇宙の、その実在性の重みを問う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "subjectivizati",
+		"word": "Subjectify",
+		"meaning": "主体化（しゅたいか）",
+		"etymology": [
+			"Latin sub- + jacere (to throw under)"
+		],
+		"concept": "Forming the self",
+		"thinking": "人は、いかにして「自分（Subject）」になっていくのか。外部の言葉や権力によって「下に投げ出され（Sub-ject）」、形作られていくプロセスの、痛みと快楽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "interpellatio",
+		"word": "Interpellatio",
+		"meaning": "呼びかけ、呼び指し、喚問",
+		"etymology": [
+			"Latin inter- + pellere (to push)"
+		],
+		"concept": "Being hailed by ideology",
+		"thinking": "「おい、お前！」という声に振り向いたとき、あなたはすでにその言葉（イデオロギー）の一部として「押し込められて（Pellere）」いる。日常の中に潜む、主体形成の無意識の暴力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "performativity_p",
+		"word": "Performance",
+		"meaning": "パフォーマンス、実演（じつえん）",
+		"etymology": [
+			"Latin per- + formare"
+		],
+		"concept": "The act of culture",
+		"thinking": "あらかじめそこにある「伝統」があるのではない。それを「演じ（Perform）」、再現し続けるその行為そのものが、文化という名の形（Form）を生み出している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "mimesis_adv_p",
+		"word": "A-Mimesis",
+		"meaning": "ミメーシスの超越",
+		"etymology": [
+			"Greek mimos"
+		],
+		"concept": "Beyond simple copy",
+		"thinking": "ただ真似るのではなく、真似ることを通じて、オリジナルよりも鮮烈な真実を暴き出す。鏡を割り、破片の中に新しい宇宙の貌を映し出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "poetics_ad_p",
+		"word": "Poetics",
+		"meaning": "詩学（しがく）、作詩法",
+		"etymology": [
+			"Greek poietikos (creative/making)"
+		],
+		"concept": "The theory of making",
+		"thinking": "「作ること（Poiesis）」の理。言葉がいかにして命を吹き込まれ、宇宙という名の作品（物語）へと組み上げられていくかという、創造の神聖な技法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "hermeneutics_a",
+		"word": "Hermeneutics",
+		"meaning": "解釈学（かいしゃくがく）",
+		"etymology": [
+			"Greek Hermeneus (interpreter/Hermes)"
+		],
+		"concept": "Ancient art of reading",
+		"thinking": "神の使い「ヘルメス（Hermes）」のように、深淵な沈黙（テクスト）から、意味を「解き明かし（Interpret）」、今の私たちの言葉へと翻訳する、読み手の創造的な旅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の交差を、歴史の風の中で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文化理論の深淵へ。"
+			]
+		},
+		"example": "Comparative literature bridges different cultures."
 	}
 ];
