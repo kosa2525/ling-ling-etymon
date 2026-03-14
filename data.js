@@ -321841,5 +321841,88 @@ const WORDS = [
    "original_statement": "A topological space in which any two distinct points have disjoint neighborhoods."
   },
   "concept": "The separation (「。。、。私。、。、」。と。、。、「。。、。、あ。、な。た。、。、。」。が、。、。、決して。、。、。交（。ま。）。、。、じ。、。わら。。、ぬ。。、。ように、。、。、。、。一。、。つの。、。、。、。。「。。、。、。壁。、。、。、」。を。、。、。隔（。へだ）。。、。て。。、。て。、。、。、それぞれの。、。、。、自。、。由。、を。、。、守。り。、。、抜（。ぬ）。。、。く。。、。、。理。知。の、。、。。、。法。、。、則。、)"
+ },
+ {
+  "id": "contravariance",
+  "word": "Contravariance",
+  "meaning": "反変性、基底の変換とは「逆（。ぎゃく）。。、」。の、。、。。変換。。、を。、。受ける。。、。性質。",
+  "era": "Latin contra- + varius",
+  "etymology": {
+   "components": [
+    "contra (against)",
+    "varius (various)"
+   ],
+   "original_statement": "From contra- 'against' + variance."
+  },
+  "concept": "Against the change (「。。、。世界。、。、」。が、。、。右。、へと、。、。動く。。、。なら、。、。あえて。、。、。左。、へと、。、。、。逆（さから）。。、。い。。、。なが。、。ら。、。、。自分。の。、。。、。理知。を、。、。。、。保。、。とう。、。とする、。、。、。峻烈なる。、。、。、。。、。抵抗。、。、。)"
+ },
+ {
+  "id": "worldline",
+  "word": "Worldline",
+  "meaning": "世界線、時空の中を駆け抜ける粒子の軌跡。",
+  "era": "German Weltlinie",
+  "etymology": {
+   "components": [
+    "Welt (world)",
+    "Linie (line)"
+   ],
+   "original_statement": "Coined by Hermann Minkowski from German Weltlinie 'world-line'."
+  },
+  "concept": "The line of existence (「。。、過去。、。、」。から。、。、「。。、。、。未来。、。、。、」。へと、。、。、。ただ。。、。一。、。つの。、。、。、。点。、として。、。、。時。、空。、を。、。、切り。、。裂（。さ。）。、。き。。、ながら。、。、。、残。された。。、。、。一。、条の。、。、。、。光。、。、。、それ。は、。。、。あなたが。、。、。そこに。、。、。、。在。、る、。、。ことの、。、。。、唯一。、無。、二の。、。、。、。証（あかし）。、)"
+ },
+ {
+  "id": "light-cone",
+  "word": "Light-cone",
+  "meaning": "光円錐、因果律が支配する時空の境界。",
+  "era": "English light + cone",
+  "etymology": {
+   "components": [
+    "light",
+    "cone"
+   ],
+   "original_statement": "The path that a flash of light, emanating from a single event, would take through spacetime."
+  },
+  "concept": "The boundary of cause (「。。、光。、。、」。が、。、。、。辿。り。。、。着（。つ。）。、。ける。。、。、。「。。、。、。範囲。、。、。、」。、と。、。、。決して。、。、。辿り。、着けぬ。、。、。、。、。。「。、。、。闇。、。、。、」。、その。、。、峻烈な。、。、。、境。、界面（。は。ざま）。。、。、。、それは、。、。、。、理知。が、。、。、。未来。へと、。、。、。働き。、。掛（。か。）。。、。ける。。、。ための。、。、。、。、絶対的。な。、。、。制。、。限。、)"
+ },
+ {
+  "id": "gauge-theory",
+  "word": "Gauge Theory",
+  "meaning": "ゲージ理論、局所的な変換の下での不変性を追求する物理の美学。",
+  "era": "German Eichinvarianz",
+  "etymology": {
+   "components": [
+    "gauge (measure / standard)"
+   ],
+   "original_statement": "A type of field theory in which the Lagrangian does not change under local transformations from certain continuous groups."
+  },
+  "concept": "The measured truth (「。。、。測（。はか）。。、。る。。、ための。、。、。「。、。尺。度（。ゲージ）。、。、」。を。、。、。あえて。、。、。、場所。。ごとに。、。、。変（。か。）。。、。えた。。、。としても。、。、。、決して。、。、。壊（。こわ）。。、。れぬ。。、。、。真実。の。、。、。。「。。、。対称。、性。、。、」。、。、。それ。こそが、。、。、。、この。、。世界。を、。、。。統。、。べて。。、。いる。。、。理知。、の、。根。、。源。、)"
+ },
+ {
+  "id": "supergravity",
+  "word": "Supergravity",
+  "meaning": "超重力、一般相対性理論と超対称性を融合した究極の夢。",
+  "era": "Latin super- + gravitas",
+  "etymology": {
+   "components": [
+    "super (above / beyond)",
+    "gravitas (weight)"
+   ],
+   "original_statement": "A field theory that combines the principles of supersymmetry and general relativity."
+  },
+  "concept": "Beyond weight (「。。、。重（。お。）。、。、。も。、。み。、。、」。という。、。、。、。、。この。、現実。、を、。、。、さらに。、。、。、高次。の。、。、。、。「。、。対称。、性。、。、」。、。、。へと。、。、。昇（。のぼ）。。、。り。。、つ。める。。、。ための、。、。、。理。知。の。、。、。。、「。、。、。翼。、。、。、」。、。、。それは、。、。、。、すべて。の。、。、粒子。が。、。、。一つの。、。、叙事詩。の中へと。、。、。、溶。け。、。合う。。、。、夢。、)"
+ },
+ {
+  "id": "holographic-principle",
+  "word": "Holographic Principle",
+  "meaning": "ホログラフィック原理、世界の全情報が境界の面に刻印されているという予感。",
+  "era": "Greek holos + graphein",
+  "etymology": {
+   "components": [
+    "holos (whole)",
+    "graphein (to write)"
+   ],
+   "original_statement": "The idea that the entire information of a volume is encoded on its boundary."
+  },
+  "concept": "The whole written (「。。、。、立。体。、。、」。としての。、。、。、この。、。世界。は、。、。、。、実は。、。、。一。、。枚の。、。、。。「。。、。、。影。、。絵。、。、。、」。に。、。、す。、ぎ。、。ない。。、。、。、かもしれない。。、。という、。、。理知。の、。、。峻烈な。、。、。、。皮。、。肉。、。、。それは、。、。、。、。果てし。なき。、。、。宇宙。の、。、。深。淵。、を、。、。、一。、点の。、。、。面に。、。、。封（。ふう）。。、。じ。。込（。こ。）。。、める。。、。、。知性の。、。、簒。、奪。、)"
  }
 ];
