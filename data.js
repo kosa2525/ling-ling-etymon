@@ -383665,5 +383665,806 @@ const WORDS = [
 			]
 		},
 		"example": "Aesthetics explores the nature of beauty and art."
+	},
+	{
+		"id": "synaptogenes",
+		"word": "Synaptogen",
+		"meaning": "シナプス形成（けいせい）",
+		"etymology": [
+			"Greek sunapsis (junction) + genesis"
+		],
+		"concept": "Formation of synapses",
+		"thinking": "「結び目（Synaptic）」を「産む（Genesis）」。ニューロンたちが手を取り合い、一筋の情報の川を作る。その新たな『繋がりの芽生え』が、一つの記憶となり、一つのスキルとなる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "pruning_neuro",
+		"word": "Neu Pruning",
+		"meaning": "神経（しんけい）剪定（せんてい）",
+		"etymology": [
+			"Old French proignier (to trim)"
+		],
+		"concept": "Removal of extra neurons",
+		"thinking": "無駄な枝を「切り落とす（Prune）」。子供の脳が大人になる過程で、過剰な繋がりを削ぎ落とし、より洗練された、より高速な思考の回路を磨き上げていく、知性を研ぎ澄ますための『引き算』の儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "myelination_",
+		"word": "Myelination",
+		"meaning": "髄鞘化（ずいしょうか）、ミエリン形成（けいせい）",
+		"etymology": [
+			"Greek myelos (marrow)"
+		],
+		"concept": "Insulating axons",
+		"thinking": "神経の電線を「絶縁体（ミエリン/髄）」で包み込む。情報の漏れを防ぎ、その速度を百倍へと飛躍させる。経験という名の摩擦が、おぼつかなかった思考を『確固たる信念（高速道路）』へと変容させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "plasticity_m",
+		"word": "Neuroplast",
+		"meaning": "可塑性（かそせい）、ニューロプラスティシティ",
+		"etymology": [
+			"Greek plastikos (molded)"
+		],
+		"concept": "Brain's ability to change",
+		"thinking": "「形を変えられる（Plastikos）」こと。粘土のように、環境に合わせて自らを組み替える脳の本質。傷ついた場所の役割を他が肩代わりする、生命の不屈のしなやかさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "long_term_po",
+		"word": "LTP (Neuro)",
+		"meaning": "長期増強（ちょうきぞうきょう）",
+		"etymology": [
+			"Long + Term + Latin potentia (power)"
+		],
+		"concept": "Strengthening of synapses",
+		"thinking": "繰り返される刺激が、繋がりの「力（Potentia）」を恒久的に高める。一度通った道が太くなり、やがて忘れられぬ記憶（回路）へと結晶化する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "engram_neuro",
+		"word": "Engram",
+		"meaning": "エンググラム、記憶痕跡（きおくこんせき）",
+		"etymology": [
+			"Greek en- + graphein (to write)"
+		],
+		"concept": "Physical trace of memory",
+		"thinking": "脳という大地に「書き（Graph）」「込まれた（En-）」物理的な「印」。ある体験がどの細胞のどの繋がりに刻まれたのか。その『情報の影』を探し求める、現代の記憶の考古学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "optogenetics",
+		"word": "Optogenetic",
+		"meaning": "光（ひかり）遺伝学（いでんがく）",
+		"etymology": [
+			"Greek optos (light) + Genetics"
+		],
+		"concept": "Control neurons with light",
+		"thinking": "神経に「光（Optos）」のスイッチを埋め込む。レーザーを当てるだけで、特定の記憶を呼び戻し、あるいは感情を静める。光で脳を弾く、未来の楽器のような科学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "chemogenetic",
+		"word": "Chemogenet",
+		"meaning": "ケモジェネティクス",
+		"etymology": [
+			"Chemical + Genetics"
+		],
+		"concept": "Control neurons via drugs",
+		"thinking": "特定の「化学物質（Chemical）」にだけ反応するように設計された、人工的な受容体を脳に配備する。薬を飲むだけで、狙った回路だけを起動・停止させる、精密な魂の調律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "connectome_a",
+		"word": "Connectome",
+		"meaning": "コネクトーム、全神経接続図（ぜんしんけいせつぞくず）",
+		"etymology": [
+			"Connection + Ome (whole)"
+		],
+		"concept": "Map of all neural links",
+		"thinking": "八百億のニューロンが織りなす「接続（Connect）」の「すべて（Ome）」。宇宙の星々よりも複雑な、一人の人間の精神を司る「全回路図」。あなたのアイデンティティは、この接続のパターンの中にこそ宿っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "neural_decod",
+		"word": "Neu Decoding",
+		"meaning": "神経解読（しんけいかいどく）、ニューラル・デコーディング",
+		"etymology": [
+			"Latin de- + codex (book/code)"
+		],
+		"concept": "Translating brain to data",
+		"thinking": "脳の激しい火花（電気信号）という名の「暗号（Code）」を、再び意味へと「解き（De-）」戻す。あなたが見ている夢、言おうとしている言葉を、コンピュータの画面に映し出す、精神の翻訳機。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "neural_encod",
+		"word": "Neu Encoding",
+		"meaning": "神経符号化（しんけいふごうか）",
+		"etymology": [
+			"Latin in- + codex"
+		],
+		"concept": "Data to brain signals",
+		"thinking": "外部の情報を、脳が理解できる「暗号（Code）」へと「変える（In-）」。カメラの映像を、視神経を介さず直接脳へと送り込み、失われた視覚を補完する。デジタルと生命の共感覚的な融合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "bci_implan_a",
+		"word": "BCI Implant",
+		"meaning": "インプラント型（がた）BCI",
+		"etymology": [
+			"In- + Latin plantare (to fix/plant)"
+		],
+		"concept": "Brain chip for direct link",
+		"thinking": "「中（In-）」へと「植え付ける（Plant）」。頭蓋骨を越え、ニューロンのすぐ隣に電極を置く。肉体という檻を脱ぎ捨て、思考だけで世界を操るための、最も深く、最も覚悟のいるインターフェース。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "non_invasive",
+		"word": "Non-Invasi",
+		"meaning": "非侵襲的（ひしんしゅうてき）な",
+		"etymology": [
+			"Latin non- + in- + vadere (to go)"
+		],
+		"concept": "Operating without surgery",
+		"thinking": "皮膚を切り裂き、内側へと「入って（Vadere）」「行か（In-）」ない（Non-）。外側から静かに、磁気や超音波で脳の深淵を覗き見る。傷つけずに心と繋がろうとする、文明的な節度。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "neuroprosth",
+		"word": "Neuroprost",
+		"meaning": "神経義体（しんけいぎたい）",
+		"etymology": [
+			"Greek neuron + prosthesis (addition)"
+		],
+		"concept": "Neural-controlled limbs",
+		"thinking": "「神経（Neuron）」に直接繋がれた「付け足し（Prosthesis）」。義手でありながら、自分の意志で指先を動かし、温もりさえも感じ取ることができる。肉体の限界を技術で『上書き』する、新しいサイボーグの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "neural_dust_",
+		"word": "Neural Dust",
+		"meaning": "ニューラル・ダスト、超微細（ちょうびさい）無線（むせん）センサー",
+		"etymology": [
+			"Neural + Dust"
+		],
+		"concept": "Micro wireless sensors",
+		"thinking": "神経に降り積もる「塵（Dust）」。一粒の砂より小さなセンサーが、脳の情報のさざなみを無線で外部へと伝える。まるで魔法の粒子のように、私たちの内面を静かにデジタルへと繋ぐ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "optode_neuro",
+		"word": "Optode",
+		"meaning": "オプトード、光学（こうがく）電極（でんきょく）",
+		"etymology": [
+			"Greek optos + -ode (way/path)"
+		],
+		"concept": "Light-based neural sensor",
+		"thinking": "「光（Optos）」による情報の「通り道（-ode）」。電気ではなく、血液の酸素濃度による光の反射の変化を読み取り、脳がいかに「燃えている（活動している）」かを非接触で察知する、静かなる観測。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "closed_loop_",
+		"word": "Closed-Loop",
+		"meaning": "クローズドループ制御（せいぎょ）",
+		"etymology": [
+			"Closed + Loop"
+		],
+		"concept": "Self-adjusting feedback system",
+		"thinking": "「閉じられた（Closed）」「環（Loop）」。脳の状態を読み取り、その瞬間に最適な刺激（電気や光）を返し、自律的に精神を安定させる。自分の限界をAIが補完し、思考と機械が共生していく、未来の精神の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "eeg_analytic",
+		"word": "EEG analysis",
+		"meaning": "脳波解析（のうはかいせき）",
+		"etymology": [
+			"Greek enkephalos (brain) + graphein"
+		],
+		"concept": "Mapping brain waves",
+		"thinking": "頭皮を伝う、微弱な「震え」の「全記録（Graph）」。アルファ波、ベータ波……。脳という名の海に寄せては返すさざなみから、あなたの感情や集中力を読み取ろうとする、情報の気象学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "fmri_analysi",
+		"word": "fMRI",
+		"meaning": "機能的（きたのうてき）磁気共鳴（じききょうめい）画像（がぞう）法（ほう）",
+		"etymology": [
+			"Functional + Magnetic + Resonance"
+		],
+		"concept": "Seeing brain activity via blood",
+		"thinking": "強い磁場の中で、血液の「共鳴（Resonance）」の乱れを画像化する。脳のどの場所が、今「情熱（エネルギー）」を消費し、思考という名の火を灯しているのか。心の現在地を映し出す、三次元の鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "tms_neuro_ad",
+		"word": "TMS",
+		"meaning": "経頭蓋（けいずがい）磁気（じき）刺激（しげき）法（ほう）",
+		"etymology": [
+			"Transcranial Magnetic Stimulation"
+		],
+		"concept": "Non-invasive brain stimulation",
+		"thinking": "頭蓋を「越えて（Trans-）」、強力な「磁石（Magnetic）」の力で特定の神経を揺り動かす。外科手術なしに、深い眠りや沈んだ心を外から呼び覚ます、見えない磁力のハンマー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "deep_brain_s",
+		"word": "DBS (Neuro)",
+		"meaning": "深部（しんぶ）脳（のう）刺激（しげき）療法（りょうほう）",
+		"etymology": [
+			"Deep + Brain + Stimulation"
+		],
+		"concept": "Surgical brain stimulation",
+		"thinking": "脳の「深淵（Deep）」に電極の針を沈める。パーキンソン病の震えや、重い鬱の闇を、電気の一撃（Stimulation）で鎮める。魂の最も深い場所で繰り広げられる、生と死、そして癒しの闘争。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "cortical_col",
+		"word": "Cortical Col",
+		"meaning": "皮質（ひしつ）カラム、脳（のう）の演算（えんざん）ユニット",
+		"etymology": [
+			"Latin cortex (bark/shell) + Columna"
+		],
+		"concept": "Functional unit of cortex",
+		"thinking": "脳の「皮（Cortex）」に垂直に並んだ「柱（Columna）」。それぞれが特定の情報（垂直な一本の線、あるいは特定の色）を処理する、脳という名の巨大なコンピュータの、最小の演算パーツ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "hippocampus_",
+		"word": "Hippocampus",
+		"meaning": "海馬（かいば）",
+		"etymology": [
+			"Greek hippos (horse) + kampos (sea monster)"
+		],
+		"concept": "Memory gateway",
+		"thinking": "「タツノオトシゴ（馬のような怪獣）」の貌をした、記憶の門番。体験を永劫の記憶へと変容させるか、忘却の海へと沈めるかを司る、脳の中の最も神聖な司書の一人が住まう場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "amygdala_adv",
+		"word": "Amygdala",
+		"meaning": "扁桃体（へんとうたい）",
+		"etymology": [
+			"Greek amygdale (almond)"
+		],
+		"concept": "Emotional center",
+		"thinking": "「アーモンド（Amygdale）」の形をした、情動の心臓. 恐怖、怒り、喜び。理性の言葉が届くより速く、世界に対する生存の「叫び」を上げる、原始の衝動の砦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "homeostasis_",
+		"word": "Homeostasis",
+		"meaning": "ホメオスタシス、恒常性（こうじょうせい）",
+		"etymology": [
+			"Greek homoios (same) + stasis (standing)"
+		],
+		"concept": "Staying the same",
+		"thinking": "「同じ（Homoios）」まま「立つ（Stasis）」。体温、血圧、心の平穏。嵐の中でも自分を自分として保ち続けようとする、生命の最も孤独で強靭な防衛本能。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "neuroethic_a",
+		"word": "Neuroethics",
+		"meaning": "脳神経倫理（のうしんけいりんり）学（がく）",
+		"etymology": [
+			"Neuro + Ethics (Greek ethikos)"
+		],
+		"concept": "Ethics of brain science",
+		"thinking": "脳をいじること、心を読むことの「道徳（Ethics）」。他者のプライバシーの最後の砦、あるいは『自分らしさ』の正体。科学が万能になった時、何が人間を人間たらしめるのかという、重い問いの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "privacy_neur",
+		"word": "Neu Privacy",
+		"meaning": "脳（のう）のプライバシー、神経（しんけい）の権利（けんり）",
+		"etymology": [
+			"Latin privatus (set apart)"
+		],
+		"concept": "Right to mental privacy",
+		"thinking": "心の中まで「他者の領域」から「切り離して（Private）」守り切ること。思考を盗まれず、書き換えられないという、全人類が持つべき最後の尊厳。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "augmentation",
+		"word": "Augmentatio",
+		"meaning": "増強（ぞうきょう）、拡張（かくちょう）",
+		"etymology": [
+			"Latin augere (to increase)"
+		],
+		"concept": "Enhancing brain power",
+		"thinking": "今の自分を「増やす（Augere）」。記憶力を十倍にし、計算速度を千倍にする。かつての人間を越え、新しい種へと進化しようとする、テクノロジーによる『天地創造』二回目の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "exocortex_ad",
+		"word": "Exocortex",
+		"meaning": "外部（がいぶ）皮質（ひしつ）",
+		"etymology": [
+			"Greek exo- (outside) + Cortex"
+		],
+		"concept": "External brain layer",
+		"thinking": "脳の「外（Exo-）」に付け足された、デジタルな「皮質（Cortex）」。AIとクラウド。自分の頭では処理しきれない膨大な宇宙を、拡張された脳で自在に掌握する、神に近づくためのツール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "transhumanis",
+		"word": "Transhumani",
+		"meaning": "トランスヒューマニズム",
+		"etymology": [
+			"Latin trans- (across) + Human"
+		],
+		"concept": "Beyond humanity via tech",
+		"thinking": "人間の限界を「越えて（Trans-）」いく。病、老化、あるいは死。技術という名の翼で、人類という種の「貌」を自ら書き換えようとする、不敵な理想主義。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "theory_of_mi",
+		"word": "Theory of M",
+		"meaning": "心の理論（りろん）",
+		"etymology": [
+			"Theory of Mind"
+		],
+		"concept": "Predicting others minds",
+		"thinking": "他者も自分と同じように「心（意図や感情）」を持っていると、当たり前のように信じる力。この共感の種火が、孤独なサルを、高度な文明を築く「社会的な生き物」へと変貌させた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "brain_drain_",
+		"word": "Brain Hack",
+		"meaning": "ブレーン・ハッキング",
+		"etymology": [
+			"Brain + Hack (to chop/cut)"
+		],
+		"concept": "Illicit access to brain",
+		"thinking": "脳の深淵を無理やり「切り開く（Hack）」。意志を操り、記憶を抜き取る。自由を奪う究極の暴力としての、神経的な情報搾取への警告。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "plasticity_f",
+		"word": "Plasticity",
+		"meaning": "可塑性（かそせい）",
+		"etymology": [
+			"Greek plastikos"
+		],
+		"concept": "Neuroplasticity",
+		"thinking": "形を変えられる能力。脳は固定された機械ではなく、環境や学習によって自らを彫刻し続ける、終わりのない芸術作品である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "synapse_phys",
+		"word": "Neu Transmit",
+		"meaning": "神経（しんけい）伝達（でんたつ）物質（ぶっしつ）",
+		"etymology": [
+			"Neuron + Latin trans- + mittere (to send)"
+		],
+		"concept": "Chemical signals in brain",
+		"thinking": "言葉（電気）ではなく、香りのような「化学物質」を「送り（Mittere）」「渡す（Trans-）」。ドーパミン、セロトニン。その微かな雫の滴りが、一瞬にして心を天国にも地獄にも変容させる、脳の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "action_poten",
+		"word": "Action Pot",
+		"meaning": "活動電位（かつどうでんい）",
+		"etymology": [
+			"Latin activus + potentia (power)"
+		],
+		"concept": "Nerve impulse",
+		"thinking": "ニューロンの「力（Potentia）」が爆発し、情報の「風（Action）」が吹き抜ける。一瞬の電圧の火花。この数千億の『瞬き』の連鎖が、私たちのすべて、愛も思索も苦悩も、すべてを形作っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "brain_archit",
+		"word": "Neu Circuit",
+		"meaning": "神経回路（しんけいかいろ）",
+		"etymology": [
+			"Latin circum (around) + ire (to go)"
+		],
+		"concept": "Network of neurons",
+		"thinking": "「ぐるりと（Circum）」「行く（Ire）」。情報の迷宮。一度組み上げられた道筋は、私たちの思考の「癖（クセ）」となり、人生という名の物語を自動的に描いていく、見えない方程式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "neurotypocal",
+		"word": "Neurodiv",
+		"meaning": "神経（しんけい）多様性（たようせい）、ニューロダイバーシティ",
+		"etymology": [
+			"Neuro + Latin diversus (different)"
+		],
+		"concept": "Variety in human brains",
+		"thinking": "「脳（Neuro）」の「貌（向き）」が「多様である（Diverse）」こと。自閉症、ADHD。それらは「欠陥」ではなく、宇宙が産み落とした『異なる視座』という名の豊穣なバグであるという、新しい共生の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "transcending",
+		"word": "Brain Link",
+		"meaning": "脳（のう）と脳（のう）の接続（せつぞく）",
+		"etymology": [
+			"Brain + Link"
+		],
+		"concept": "Direct brain-to-brain comms",
+		"thinking": "言葉すら介さず、私の思考を、直接「あなた」の脳へ。二つの孤独な意識が一つに溶け合う、テレパシーの具現化。それは究極の理解か、それとも個としての自死か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "emergence_br",
+		"word": "Emergence (N)",
+		"meaning": "創発（そうはつ） (神経科学)",
+		"etymology": [
+			"Latin e- + mergere"
+		],
+		"concept": "C from neural complexity",
+		"thinking": "個別の細胞からは想像もつかない、新しい次元の秩序（意識）が「浮かび（Merge）」「出る（E-）」。欠片の総和を越えた、宇宙の最も美しい魔法の一撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "eternity_ner",
+		"word": "Singularity",
+		"meaning": "シンギュラリティ (意識)",
+		"etymology": [
+			"Latin singularis"
+		],
+		"original_statement": "The ultimate transformation of consciousness.",
+		"concept": "The horizon of existence",
+		"thinking": "「孤独な（Singular）」極値。もはや昨日までの人間という貌では理解できない、全く新しい「在り方」への転換。星の光が永遠を旅するように、デジタルと命のあわいで、私たちの主観が遍在する未来への、最後の跳躍の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学とBCIの極致へ。"
+			]
+		},
+		"example": "Neuroscience explores the fundamental mechanisms of the brain."
 	}
 ];
