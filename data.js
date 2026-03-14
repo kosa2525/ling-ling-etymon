@@ -322168,5 +322168,88 @@ const WORDS = [
    "original_statement": "From Latin intermittentem, from intermittere 'to leave an interval'."
   },
   "concept": "The broken rhythm (「。。、静か。な..。、。、」。時に。、。、。、不意に、。、。、。、「。。、。、狂。気。、。、。、」。が。、。、。、混（。ま。）。、。じ。。、。る。。、。こと。、。、。それは、。、。、。、。嵐。の、。、。、予。感。、。であり。、。、。、。理知。が、。、。、。、平穏。、。、。、の中に。、。、。、ひっそり。と。、。、。。、。研（。と。）。。、。ぎ。。、。澄（。す）。。、。、ませ。。、。ている。。、。一。、。、。、。振りの。、。、。、。、。刃（は）。、)"
+ },
+ {
+  "id": "hjb-equation",
+  "word": "HJB Equation",
+  "meaning": "ハミルトン＝ヤコビ＝ベルマン方程式、最適制御の極致を示す数式。",
+  "era": "Names Hamilton + Jacobi + Bellman",
+  "etymology": {
+   "components": [
+    "William Rowan Hamilton",
+    "Carl Jacobi",
+    "Richard Bellman"
+   ],
+   "original_statement": "A partial differential equation which is central to optimal control theory."
+  },
+  "concept": "The optimal choice (「。。、どこ。、。、」。を通（。とお）。。、。れば。。、。、。最も。、。ふさわしい。、。、。真実。へと、。、。辿。り。。、着ける。、。のか。。、。、という、。、。理知。の、。峻烈な。、。、。。問。、い。。、。それは、。、。、。未来。、。、を。、。、。あらかじめ。、。、見通（。みとお）。。、。し、。、。、。最。善。の。、。結末。を。、。、、。手。、。に。、。。、入れる。。、ための。、。、。、呪（。じゅ）。。、文。、)"
+ },
+ {
+  "id": "euler-lagrange",
+  "word": "Euler-Lagrange Equation",
+  "meaning": "オイラー＝ラグランジュ方程式、自然が選ぶ「最小」の美。",
+  "era": "Names Euler + Lagrange",
+  "etymology": {
+   "components": [
+    "Leonhard Euler",
+    "Joseph-Louis Lagrange"
+   ],
+   "original_statement": "The fundamental equation of the calculus of variations, whose solutions are the functions for which a given functional is stationary."
+  },
+  "concept": "The natural path (「。。、。無。、。、」。駄。な。、。、。ことは。、。、何。一。つ。、。、。、しない。。、。という、。、。自然。の。、。。理。知。。、。それは、。、。、。あらゆる。。、。可能。性。、。、の中から。、。、。ただ。。、「。。、。、一。、。、。条。、。、。、」。、の、。最短。、。経路。を、。、。。、見。、。出す。。、ための、。、。、。、光。の、。律。法。、)"
+ },
+ {
+  "id": "brachistochrone",
+  "word": "Brachistochrone",
+  "meaning": "最速降下曲線、最も速く目的地へ辿り着くための滑り台。",
+  "era": "Greek brakhistos + khronos",
+  "etymology": {
+   "components": [
+    "brakhistos (shortest)",
+    "khronos (time)"
+   ],
+   "original_statement": "From Greek brakhistos 'shortest' + khronos 'time'."
+  },
+  "concept": "The shortest time (「。。、。最短。、。、」。距離。、が。、。、。必ず。しも。、。、。「。。、。、。最速。、。、。、」。である。、。、とは。、。、。、。限（。かぎ）。。、ら。、。ぬ。。、。、という。。、。、。理知。の、。。、。「。。、。、。皮。、。肉。、。、。、」。それは、。、。、。あえて。、。、。、。、。深。、。淵。、。へと、。、。一度。、。落ちる。。、。ことで、。、。、。未来。を。、。、。、。射（。い）。。、射（い）。。、抜（。ぬ）。。、。く。。、。ための。、。、。、。曲線。、)"
+ },
+ {
+  "id": "isoperimetric",
+  "word": "Isoperimetric",
+  "meaning": "等周の、限られた周囲の中で最大の面積を囲む知性。",
+  "era": "Greek isos + perimetros",
+  "etymology": {
+   "components": [
+    "isos (equal)",
+    "perimetros (perimeter)"
+   ],
+   "original_statement": "From Greek isos 'equal' + perimetron 'circumference'."
+  },
+  "concept": "The equal perimeter (「。。、限（。かぎ）。。、。、」。られた。。、。「。。、。、。鎖。、。、。、」。を。、。、。使（。つか）。。、。って。。、。、。最大の。、。、。、。自由。、を。、。、。。、「。。、。、。、。囲。、。、。、」。い。。、。込む。。、。ための。、。、。、。、理知。の、。、。。戦略。、。それは、。、。、。、もっとも。、。、。美。しい。。、。、「。。、。、。、。円。、。、。、」。、と。、。いう、。、。真。実。、へと、。、。、。、。、辿り。、着。く。。、。ための。、。、。、旅。、)"
+ },
+ {
+  "id": "variational-principle",
+  "word": "Variational Principle",
+  "meaning": "変分原理、世界を一つの「極致」として捉える哲学。",
+  "era": "Latin variatio",
+  "etymology": {
+   "components": [
+    "variatio (change / variation)"
+   ],
+   "original_statement": "A scientific principle that models physical laws as minimization or maximization of a certain quantity."
+  },
+  "concept": "The extreme truth (「。。、。もしも。、。、」。何。かが。、。、。わずかに。、。、。、。、。、「。。、。、。、。、。変（。か。）。。、。わ。、。った。、。、。なら、。、。、」。という、。、。理知。の、。、。。、。想定。。、。、。その。、。、一。、点の。、。、。ゆ。ら。ぎ。、も、。、。許。、。さぬ。。、。、。場所。こそ。、。、。、。、。「。。、。、。、真。理。、。、。、」。が、。、。、。ひっそり。と、。、。、。、息（。いき）。。を、。、。、潜。めて。、い。る。。、。、峻烈な。、。、。、死。、。角。、)"
+ },
+ {
+  "id": "extremum",
+  "word": "Extremum",
+  "meaning": "極値、最も高い、あるいは最も低い、特別なる地点。",
+  "era": "Latin extremus",
+  "etymology": {
+   "components": [
+    "extremus (outermost / last)"
+   ],
+   "original_statement": "From Latin extremum 'the extreme / highest / last'."
+  },
+  "concept": "The outermost point (「。。、。、頂（。いただき）。、。、」。であれ。、。、「。。、。、。。泥。、。、。、泥（。ど。ろ）。。、。、」。の、。、。。底。。であれ。、。、。、そこ。。に。、。、。しか。、。、。存在。。、。し得（。え）。。、。ない。。、。、。一。、。つの。、。、。、。峻烈な。、。、。、。理。知。、。それは、。、。、。、。平。、。凡。、。な。、。、現実。を、。、。、。切り。、。裂（。さ。）。、。く。。、。、。、一。、。、。、束の。、。、。、。、。閃。、光。、)"
  }
 ];
