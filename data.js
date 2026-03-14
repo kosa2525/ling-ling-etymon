@@ -405674,5 +405674,65 @@ const WORDS = [
 			]
 		},
 		"example": "Quantum chemistry applies quantum mechanics to chemical systems."
+	},
+	{
+		"id": "entomologist",
+		"word": "Entomology",
+		"meaning": "昆虫学（こんちゅうがく）",
+		"etymology": [
+			"Greek entomon (insect/notched) + logos"
+		],
+		"concept": "Scientific study of insects",
+		"thinking": "「刻み目（Entomon）」のある体。地球上で最も多様な、最も微細な建築家たちの理。数億年の進化が産み出した、驚異的な機能美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の生命を、観察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"昆虫学と行動学の極致へ。"
+			]
+		},
+		"example": "Entomology is the scientific study of insects."
+	},
+	{
+		"id": "eusociality",
+		"word": "Eusociali",
+		"meaning": "真社会（しんしゃかい）性（せい）",
+		"etymology": [
+			"Greek eu- (good/true) + Social"
+		],
+		"concept": "High level of social org",
+		"thinking": "「真の（Eu-）」社会。女王、働きアリ。個を捨て、集団という一つの巨大な命（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の生命を、観察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"昆虫学と行動学の極致へ。"
+			]
+		},
+		"example": "Entomology is the scientific study of insects."
+	},
+	{
+		"id": "pheromones_",
+		"word": "Pheromone",
+		"meaning": "フェロモン",
+		"etymology": [
+			"Greek pherein (to carry) + horme (stimulus)"
+		],
+		"concept": "Chemical signals",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の生命を、観察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"昆虫学と行動学の極致へ。"
+			]
+		},
+		"example": "Entomology is the scientific study of insects."
 	}
 ];
