@@ -350010,5 +350010,935 @@ const WORDS = [
 			]
 		},
 		"example": "DNA is the software of life."
+	},
+	{
+		"id": "semantics_adv",
+		"word": "Semantics",
+		"meaning": "意味論（いみろん）",
+		"etymology": {
+			"components": [
+				"Greek sema (sign)"
+			],
+			"original_statement": "The study of meaning in language and logic."
+		},
+		"concept": "The geometry of meaning",
+		"thinking": "「記号（Sema）」の背後に潜む、実体としての『意味』。言葉という殻を剥いた時、そこにはどんな概念の貌（かたち）が横たわっているのかを問う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "syntax_adv",
+		"word": "Syntax",
+		"meaning": "統語論（とうごろん）、構文",
+		"etymology": {
+			"components": [
+				"Greek syn- (together) + tassein (to arrange)"
+			],
+			"original_statement": "The arrangement of words and phrases to create well-formed sentences."
+		},
+		"concept": "The architecture of the sentence",
+		"thinking": "「共に（Syn-）」「配置する（Tassein）」。バラバラな単語を、どのような秩序で組み上げれば、そこに『理（ロゴス）』が宿るのか。情報の骨組みの技法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "pragmatics_ctx",
+		"word": "Pragmatics",
+		"meaning": "語用論（ごようろん）",
+		"etymology": {
+			"components": [
+				"Greek pragma (deed/action)"
+			],
+			"original_statement": "The study of language use in context."
+		},
+		"concept": "Language as action",
+		"thinking": "「行い（Pragma）」。言葉は単なる情報の羅列ではなく、誰かが誰かに向かって放つ『行為』である。沈黙すらもが意味を成す、脈絡の深淵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "morpheme_ling",
+		"word": "Morpheme",
+		"meaning": "形態素（けいたいそ）",
+		"etymology": [
+			"Greek morphe (form)"
+		],
+		"original_statement": "The smallest unit of meaning in a language.",
+		"concept": "The atom of significance",
+		"thinking": "「形（Morphe）」。これ以上分解すれば意味が死んでしまう、言語の最小の生命単位。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "phonology_sound",
+		"word": "Phonology",
+		"meaning": "音韻論（おんいんろん）",
+		"etymology": [
+			"Greek phone (voice)"
+		],
+		"original_statement": "The study of the system of contrastive relationships among speech sounds.",
+		"concept": "The system of distinction",
+		"thinking": "「声（Phone）」。単なる音波ではなく、それらを人間がどう『意味のある音』として脳内で仕分けしているか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "universal_grammar",
+		"word": "UG",
+		"meaning": "普遍文法（ふへんぶんぽう）",
+		"etymology": [
+			"Latin universalis + grammar"
+		],
+		"original_statement": "The innate, shared structure of all human languages.",
+		"concept": "The hardwired logic of speech",
+		"thinking": "人間が生まれながらにして脳に持っている、言語の『共通のOS』。どんな文化に生まれても、私たちは同じ論理の種火を持って言葉を紡ぎ始める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "neuroplasticity_cog",
+		"word": "Neuroplasticity",
+		"meaning": "神経可塑性（しんけいかそせい）",
+		"etymology": [
+			"Greek neuron + plastikos (formed)"
+		],
+		"original_statement": "The ability of the brain to reorganize itself.",
+		"concept": "The brain as a living clay",
+		"thinking": "「形作れる（Plastikos）」、脳。経験が、学びが、出会いが、脳という物理的な回路そのものを、柔らかな土のように刻み替えていく神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "executive_function",
+		"word": "Executive Funct",
+		"meaning": "実行機能（じっこうきのう）",
+		"etymology": [
+			"Latin ex- + sequi (to follow out)"
+		],
+		"original_statement": "Higher-level cognitive processes for self-control and planning.",
+		"concept": "The CEO of the mind",
+		"thinking": "「最後まで（Ex-）」「従わせる（Sequi）」。目先の誘惑を抑え、長期的な未来（目的）を成し遂げるための、心の奥底に住む峻厳な司令塔。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "metacognition_adv",
+		"word": "Metacognition",
+		"meaning": "メタ認知",
+		"etymology": [
+			"Greek meta- (beyond/after) + cognition"
+		],
+		"original_statement": "Thinking about thinking.",
+		"concept": "The transcendent observer",
+		"thinking": "自分自身の思考を、一段高い場所からそっと見つめるもう一人の自分。理性の背後に潜む、理性そのものを測る物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "embodied_cognit",
+		"word": "Embodied Cog",
+		"meaning": "身体化（しんたいか）認知",
+		"etymology": [
+			"In- + body"
+		],
+		"original_statement": "The theory that cognition is deeply influenced by the body.",
+		"concept": "Mind born from flesh",
+		"thinking": "心は脳だけに宿るのではない。私たちの『体（Body）』の動き、温度、感覚こそが、思考の貌を形作っている。肉体という名の、重みのある知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "declarative_memory",
+		"word": "Declarative Mem",
+		"meaning": "宣言的記憶（せんげんてききおく）",
+		"etymology": [
+			"Latin de- + clarare (to make clear)"
+		],
+		"original_statement": "Memory that can be consciously recalled.",
+		"concept": "The explicit record of facts",
+		"thinking": "「はっきりと（Clare）」「言い切れる（De-）」記憶。名前、言葉、出来事。沈黙を破って、他者に語りかけることのできる知識の貯蔵庫。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "procedural_memory",
+		"word": "Procedural Mem",
+		"meaning": "手続き的記憶",
+		"etymology": [
+			"Latin pro- + cedere (to go forward)"
+		],
+		"original_statement": "Memory for how to perform tasks.",
+		"concept": "The knowledge in the limbs",
+		"thinking": "言葉にはできない、しかし体が自ずと知っている『歩み（Cedere）』の記憶。自転車の乗り方、指の動き。忘れることのない、肉体の智慧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "aphasia_pathology",
+		"word": "Aphasia",
+		"meaning": "失語症（しつごしょう）",
+		"etymology": [
+			"Greek a- (without) + phasis (speech)"
+		],
+		"original_statement": "Loss of ability to understand or express speech.",
+		"concept": "The silence of the logos",
+		"thinking": "「言葉（Phasis）」を「失う（A-）」。心は溢れるほどにあるのに、それを世界へと繋ぐ出口が閉ざされてしまった、孤独な沈黙の病。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "neurotransmitter_adv",
+		"word": "Neurotransmit",
+		"meaning": "神経伝達物質",
+		"etymology": [
+			"Neuron + Latin trans- + mittere (to send)"
+		],
+		"original_statement": "Chemicals that transmit signals across synapses.",
+		"concept": "The chemical couriers of thought",
+		"thinking": "思考の合間に「送り出される（Mittere）」微かな雫。電気の走りが途切れた場所で、化学という名の『手紙』が次の神経へと渡され、意識が紡がれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "synaptic_pruning",
+		"word": "Pruning",
+		"meaning": "シナプス剪定（せんてい）",
+		"etymology": [
+			"Old French proignier (to cut back)"
+		],
+		"original_statement": "Reduction in Number of synapses to increase efficiency.",
+		"concept": "Refining through loss",
+		"thinking": "「切り詰める（Prune）」こと。余分な繋がりをあえて捨てることで、本質的な道をより太く、より速くする。忘れることは、賢くなるための不可欠な工程。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "working_memory_adv",
+		"word": "Working Memory",
+		"meaning": "ワーキングメモリ",
+		"etymology": [
+			"Work + Memory"
+		],
+		"original_statement": "Part of short-term memory concerned with immediate processing.",
+		"concept": "The desktop of conscious thought",
+		"thinking": "今、この瞬間に扱える情報の枠。狭く、儚い場所だが、そこで火花が散る瞬間に、私たちの『現在』という創造が行われる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "long_term_potentiat",
+		"word": "LTP",
+		"meaning": "長期増強、LTP",
+		"etymology": [
+			"Long-term Potentiation"
+		],
+		"original_statement": "Persistent strengthening of synapses based on recent patterns of activity.",
+		"concept": "Sculpting the path of thought",
+		"thinking": "何度も通った道は、広く強くなる。刺激の繰り返しが、神経の結びつきを不変の『記憶』へと鍛え上げる、脳内の道作り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "qualia_subjective",
+		"word": "Qualia",
+		"meaning": "クオリア、主観的質感",
+		"etymology": [
+			"Latin qualis (of what sort)"
+		],
+		"original_statement": "Individual instances of subjective, conscious experience.",
+		"concept": "The inexpressible 'feel'",
+		"thinking": "「どのようであるか（Qualis）」。リンゴの赤さ、痛みの鋭さ。数式や言葉では決して捉えきれない、主観という名の宇宙の、剥き出しの質感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "hard_problem_consc",
+		"word": "Hard Problem",
+		"meaning": "意識の困難（こんなん）な問題",
+		"etymology": [
+			"Hard + Problem"
+		],
+		"original_statement": "Challenge of explaining how and why we have qualitative experiences.",
+		"concept": "The gap between matter and mind",
+		"thinking": "物質（脳）がどれほど複雑になっても、なぜそこに『感じること（意識）』が生まれるのか。物理学の果てに横たわる、人類最大の壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "theory_of_mind_adv",
+		"word": "Theory of Mind",
+		"meaning": "心の理論（こころのりろん）",
+		"etymology": [
+			"Theory + Mind"
+		],
+		"original_statement": "Ability to attribute mental states to others.",
+		"concept": "The mirror of empathy",
+		"thinking": "「あの人もまた、私と同じように心を持っている」。他者の瞳の奥に、見えない思いや意図を読み取る、社会性を支える奇蹟の想像力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "cognitive_disson",
+		"word": "Cog Dissonance",
+		"meaning": "認知（にんち）的不協和",
+		"etymology": [
+			"Cognition + Latin dis- + sonare (to sound)"
+		],
+		"original_statement": "Mental discomfort from holding conflicting beliefs.",
+		"concept": "The inner discord",
+		"thinking": "「離れて（Dis-）」「響く（Sonare）」心。信じていることと、現実が噛み合わない時。その不快から逃れるために、私たちは時に自らの記憶や理屈を歪めてしまう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "implicit_bias_cog",
+		"word": "Implicit Bias",
+		"meaning": "潜在的（せんざいてき）バイアス",
+		"etymology": [
+			"Latin implicare (to infold)"
+		],
+		"original_statement": "Unconscious attitudes or stereotypes.",
+		"concept": "The folded prejudice",
+		"thinking": "「内側に（In-）畳み込まれた（Plicare）」、自分でも気づかない偏り。自覚することのできない心の影が、私たちの判断を静かに、しかし強力に支配している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "top_down_process",
+		"word": "Top-down",
+		"meaning": "トップダウン処理",
+		"etymology": [
+			"Top + Down"
+		],
+		"original_statement": "Using prior knowledge to interpret sensory information.",
+		"concept": "Perception as hypothesis",
+		"thinking": "高次の「期待や知識」が、低次の「感覚」を先回りして解釈する。私たちは世界をあるがままに見ているのではなく、自分の物語を通して見ている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "bottom_up_process",
+		"word": "Bottom-up",
+		"meaning": "ボトムアップ処理",
+		"etymology": [
+			"Bottom + Up"
+		],
+		"original_statement": "Starting with sensory data to build up a perception.",
+		"concept": "The emergence of reality",
+		"thinking": "断片的な感覚の欠片を積み上げ、ゼロから像を構築する。先入観を排し、ただ、そこで震えている光の粒から真実を組み上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "priming_effect_cog",
+		"word": "Priming",
+		"meaning": "プライミング効果",
+		"etymology": [
+			"Latin primus"
+		],
+		"original_statement": "Exposure to one stimulus influences response to a later stimulus.",
+		"concept": "The preparation of intuition",
+		"thinking": "「最初（Primus）」に見たものが、無意識のうちに次の出会いの貌（かたち）を決めてしまう。心が気づかぬうちに、次の舞台の準備を整えてしまうこと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "affordance_cog",
+		"word": "Affordance",
+		"meaning": "アフォーダンス",
+		"etymology": [
+			"Afford (to give/yield)"
+		],
+		"original_statement": "Possibilities for action provided by the environment.",
+		"concept": "Language of the environment",
+		"thinking": "物が「私に何をさせるか」を語りかけてくる。椅子の形は座ることを、取っ手は握ることを『提供（Afford）』している。物と人の、言葉なき対話。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "schemas_cognition",
+		"word": "Schema",
+		"meaning": "スキーマ、図式（ずしき）",
+		"etymology": [
+			"Greek skhema (form/figure)"
+		],
+		"original_statement": "Organized pattern of thought or behavior.",
+		"concept": "The template of memory",
+		"thinking": "「形（Skhema）」。過去の経験から得た、世界の『雛形』。私たちは新しい出来事を、いつもこの古い図式に当てはめて理解しようとする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "encoding_bio",
+		"word": "Encoding",
+		"meaning": "符号化（ふごうか）、記銘",
+		"etymology": [
+			"En- + Code"
+		],
+		"original_statement": "Translating sensory info into a form used by memory.",
+		"concept": "Translating life into record",
+		"thinking": "「符号（Code）」にする。通り過ぎる瞬間の刺激を、永遠の記憶へと変えるために、脳の秘密の言葉に書き換える工程。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "consolidation_mem",
+		"word": "Consolidation",
+		"meaning": "固定化（こていか）、復習",
+		"etymology": [
+			"Latin con- + solidare (to make firm)"
+		],
+		"original_statement": "Stabilizing a memory trace after the initial acquisition.",
+		"concept": "Hardening the trail",
+		"thinking": "「共に（Con-）」「固める（Solidare）」。眠っている間に、あるいは時を経ることで、脆い情報の欠片が強靭な知識の岩盤へと変わっていくプロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "interference_mem",
+		"word": "Interference",
+		"meaning": "干渉（かんしょう）",
+		"etymology": [
+			"Latin inter- + ferire (to strike)"
+		],
+		"original_statement": "Information preventing efficient retrieval of other info.",
+		"concept": "The collision of memories",
+		"thinking": "「間に（Inter）」「割り込んで打つ（Ferire）」。新しく覚えたことが、古く大切な記憶を覆い隠し、あるいは混ざり合って、真実を霞ませる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "lexicon_mental",
+		"word": "Mental Lexicon",
+		"meaning": "心内辞書（しんないじしょ）",
+		"etymology": [
+			"Greek lexikos (of words)"
+		],
+		"original_statement": "The store of words and related info in a person's mind.",
+		"concept": "The internalized library",
+		"thinking": "私たちの心の中に住む、無限の言葉の森。意味、響き、綴りが複雑に絡み合い、呼びかけを待っている沈黙の書庫。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "discourse_analys",
+		"word": "Discourse",
+		"meaning": "談話（だんわ）、ディスクール",
+		"etymology": [
+			"Latin dis- + currere (to run about)"
+		],
+		"original_statement": "Extended communication beyond the single sentence.",
+		"concept": "The flow of social meaning",
+		"thinking": "「あちこちへ（Dis-）」「走る（Currere）」。単なる一文ではなく、対話や社会の中に流れ続ける巨大な意味の奔流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "sociolinguistics",
+		"word": "Sociolinguistics",
+		"meaning": "社会言語学",
+		"etymology": [
+			"Latin socius + linguistics"
+		],
+		"original_statement": "Study of how language varies based on social context.",
+		"concept": "Language as a mirror of society",
+		"thinking": "言葉は「仲間（Socius）」との間でどう変わるのか。階級、地域、性別。言葉の微かな揺れに、社会の断層が映し出される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "comparative_ling",
+		"word": "Comp Linguistics",
+		"meaning": "比較言語学",
+		"etymology": [
+			"Latin comparare"
+		],
+		"original_statement": "Comparing languages to find historical relationships.",
+		"concept": "The genealogy of Babel",
+		"thinking": "「共に（Com-）」「並べる（Parare）」。遠く離れた国の言葉たちを並べ、その共通の『祖先』や『別れの記憶』を辿る、言語の考古学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "computational_ling",
+		"word": "NLP",
+		"meaning": "自然言語処理（NLP）",
+		"etymology": [
+			"Compute + Linguistics"
+		],
+		"original_statement": "Designing systems to understand human language.",
+		"concept": "Binary processing of logos",
+		"thinking": "人間の魂の響き（言葉）を、計算機という冷徹な論理の装置で解きほぐし、理解しようとする、現代の究極の対話。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "sentiment_anal_cog",
+		"word": "Sentiment Anal",
+		"meaning": "感情分析（かんじょうぶんせき）",
+		"etymology": [
+			"Latin sentire (to feel)"
+		],
+		"original_statement": "Determining the emotional tone of text.",
+		"concept": "Quantifying the heart's echo",
+		"thinking": "「感じる（Sentire）」。言葉の隙間に漂う微かな喜びや怒りを、数理的な重みとして抽出し、見えない心の温度を測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "word_embedding_adv",
+		"word": "Word Embedding",
+		"meaning": "単語埋め込み",
+		"etymology": [
+			"Word + In- + Bed"
+		],
+		"original_statement": "Representing words as high-dimensional vectors.",
+		"concept": "The geometry of concept space",
+		"thinking": "言葉を数多の次元が交差する『宇宙』の一点へと「埋め込む（Em-bed）」。近い意味を持つ言葉たちが、その宇宙の近傍に集まって星座を成す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "attention_mech",
+		"word": "Attention Mech",
+		"meaning": "注意機構（ちゅういきこう）",
+		"etymology": [
+			"Latin ad- + tendere (to stretch)"
+		],
+		"original_statement": "Mechanism focusing on specific parts of input data.",
+		"concept": "Dynamic focus of the gaze",
+		"thinking": "「そちらへ（Ad）」「意識を引き伸ばす（Tendere）」。膨大な情報の中から、今、どこに目を向けるべきかを瞬時に判断し、重点を置くための、知略の眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "transformer_model",
+		"word": "Transformer",
+		"meaning": "トランスフォーマー",
+		"etymology": [
+			"Latin trans- + formare"
+		],
+		"original_statement": "Deep learning model using attention to process sequences.",
+		"concept": "Structural transformation of meaning",
+		"thinking": "「形（Form）を変える（Trans-）」。情報の文脈を、全体の響き合いの中から一気に読み解き、新しい貌へとメタモルフォーゼさせる、知性の革命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "inference_engine",
+		"word": "Inference Eng",
+		"meaning": "推論（すいろん）エンジン",
+		"etymology": [
+			"Latin in- + ferre (to carry)"
+		],
+		"original_statement": "Software making logical deductions from facts.",
+		"concept": "Carrying truth forward",
+		"thinking": "「内側へ（In-）」「運ぶ（Ferre）」。既にある事実の中から、まだ語られていない『隠された真実』を静かに運び出す、論理の運び手。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "heuristics_cog",
+		"word": "Heuristics",
+		"meaning": "ヒューリスティクス、直感解",
+		"etymology": [
+			"Greek heuriskein"
+		],
+		"original_statement": "Mental shortcuts for fast decision making.",
+		"concept": "The art of findig over proving",
+		"thinking": "「見つけた！（Heuriskein）」。厳密な美しさより、一瞬の正しさを。時間が足りない現実で、私たちが生き延びるために使う、賢きショートカット。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "bounded_rational",
+		"word": "Bounded Ration",
+		"meaning": "限定合理性（げんていごうりせい）",
+		"etymology": [
+			"Bound + Rational"
+		],
+		"original_statement": "Rationality limited by info, cognitive capacity, and time.",
+		"concept": "Reason within limits",
+		"thinking": "私たちの理性は万能ではない。限られた情報の「檻（Bound）」の中で、精一杯足掻（あが）いて導き出した、不完全だが愛おしき最善。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "optimization_cog",
+		"word": "Cog Opt",
+		"meaning": "認知的最適化（にんちてきさいてきか）",
+		"etymology": [
+			"Cognition + Optimus"
+		],
+		"original_statement": "Refinement of cognitive strategies.",
+		"concept": "Polishing the lens of mind",
+		"thinking": "心というレンズを、最も「最高（Optimus）」な解像度へと磨き上げる。無駄なノイズを排し、真実だけを射抜くための修練。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "plasticity_mem",
+		"word": "Memory Plastic",
+		"meaning": "記憶の可塑性（かそせい）",
+		"etymology": [
+			"Memory + Plastikos"
+		],
+		"original_statement": "Capacity for memory traces to be updated.",
+		"concept": "Editable history",
+		"thinking": "一度書き込まれた過去も、今の思いによって「形作られ（Plastikos）」直される。記憶とは冷徹な記録ではなく、常に再定義される物語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉と心の深淵を覗いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知科学の知性へ。"
+			]
+		},
+		"example": "Language is the mirror of the mind."
 	}
 ];
