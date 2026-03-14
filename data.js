@@ -345182,5 +345182,933 @@ const WORDS = [
 			]
 		},
 		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "nucleosynthesis_cosmo",
+		"word": "Nucleosynthesis",
+		"meaning": "元素合成（げんそごうせい）",
+		"etymology": {
+			"components": [
+				"Nucleus (kernel) + Synthesis (placing together)"
+			],
+			"original_statement": "Creation of new atomic nuclei from pre-existing nucleons."
+		},
+		"concept": "Creation of matter",
+		"thinking": "宇宙の始まり、そして星の命。極微の粒子たちが『共に（Syn-）置かれる（Thesis）』ことで、多様な生命を育む重い原子が生まれていく、物質の誕生のドラマ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "inflationary_epoch",
+		"word": "Inflationary Epoch",
+		"meaning": "インフレーション期",
+		"etymology": {
+			"components": [
+				"Inflation (blowing into)"
+			],
+			"original_statement": "A period of exponential expansion of the early universe."
+		},
+		"concept": "The big bang expansion",
+		"thinking": "真空のエネルギーが溢れ出し、宇宙が瞬きよりも早く、圧倒的な大きさへと『膨らまされた（In-flation）』、すべての始まりの爆発。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "cosmic_microwave",
+		"word": "CMB",
+		"meaning": "宇宙マイクロ波背景放射",
+		"etymology": [
+			"Cosmic + Microwave + Background"
+		],
+		"original_statement": "Electromagnetic radiation as a remnant from an early stage of the universe.",
+		"concept": "The fossil light of the universe",
+		"thinking": "宇宙が生まれて38万年後、光がようやく霧を抜けて直進できるようになった瞬間の、あまりに古く、あまりに静かな『最古の光』の化石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "dark_matter_halo",
+		"word": "Dark Matter Halo",
+		"meaning": "ダークマター・ハロー",
+		"etymology": [
+			"Dark + Matter + Greek halos"
+		],
+		"original_statement": "Hypothetical component of a galaxy that envelops the galactic disc.",
+		"concept": "The invisible cradle of stars",
+		"thinking": "目には見えず、光さえ反射しない。しかし、その強大な重力で銀河を優しく包み込み、星々がバラバラにならないように繋ぎ止めている、暗黒の『光輪（Halo）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "dark_energy_dens",
+		"word": "Dark Energy",
+		"meaning": "ダークエネルギー",
+		"etymology": [
+			"Dark + Energy"
+		],
+		"original_statement": "Hypothetical form of energy that exerts a negative pressure.",
+		"concept": "The repulsive force of empty space",
+		"thinking": "何もない空間そのものに宿り、重力に抗って宇宙を加速的に引き裂き続ける、未知なる大いなる力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "reionization_age",
+		"word": "Reionization",
+		"meaning": "再電離（さいでんり）",
+		"etymology": [
+			"Re- + Ionization"
+		],
+		"original_statement": "The process that caused matter in the universe to reionize after the dark ages.",
+		"concept": "The second dawn of the universe",
+		"thinking": "最初の星々が点灯し、冷え切っていた水素の霧を再び引き裂いた瞬間。宇宙が『再び（Re-）』光を通す体（イオン）へと目覚めた、第二の夜明け。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "redshift_param",
+		"word": "Redshift",
+		"meaning": "赤方偏移（せきほうへんい）",
+		"etymology": [
+			"Red + Shift"
+		],
+		"original_statement": "Increase in wavelength as light sources move away.",
+		"concept": "The measure of cosmic distance and time",
+		"thinking": "遠ざかる星の光が、ドップラー効果によって長く、赤く引き伸ばされること。それは宇宙が今もなお広がっているという、寂しくも確かな証拠。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "baryon_acoustic",
+		"word": "BAO",
+		"meaning": "バリオン音響振動",
+		"etymology": [
+			"Baryon + Acoustic + Oscillation"
+		],
+		"original_statement": "Fluctuations in the density of visible baryonic matter caused by acoustic waves.",
+		"concept": "Cosmic sound waves",
+		"thinking": "原始の宇宙を駆け巡った巨大な『音（振動）』が、物質の分布に刻みつけた、壮大な波紋の記憶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "gravitational_lens",
+		"word": "Grav Lens",
+		"meaning": "重力レンズ",
+		"etymology": [
+			"Gravity + Latin lens (lentil)"
+		],
+		"original_statement": "Distribution of matter causing light to bend.",
+		"concept": "The warping of the gaze",
+		"thinking": "強大な質量が、空間そのものをレンズのように歪ませて、背後の星の姿を増幅し、引き伸ばし、時にいくつもの影として描き出す神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "chandrasekhar_limit",
+		"word": "Chandra Limit",
+		"meaning": "チャンドラセカール限界",
+		"etymology": [
+			"Chandrasekhar"
+		],
+		"original_statement": "Maximum mass of a stable white dwarf star.",
+		"concept": "The barrier of stellar collapse",
+		"thinking": "白色矮星が、自分の重力に耐えていられる最後の境界線。これを超えた星には、爆発か、あるいは終わりのない崩壊という運命が待っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "neutron_star_dens",
+		"word": "Neutron Star",
+		"meaning": "中性子星（ちゅうせいしせい）",
+		"etymology": [
+			"Latin neuter (neither)"
+		],
+		"original_statement": "extremely dense star composed almost entirely of neutrons.",
+		"concept": "The atomic nuclei of galactic scale",
+		"thinking": "原子核がそのまま都市ほどの大きさになったような、想像を絶する密度の星。小さじ一杯が山ほどの重さを持つ、極限の物質の状態。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "pulsar_magnet",
+		"word": "Pulsar",
+		"meaning": "パルサー",
+		"etymology": [
+			"Pulse + -ar (like star)"
+		],
+		"original_statement": "Highly magnetized rotating neutron star that emits beam of radiation.",
+		"concept": "The lighthouse of the void",
+		"thinking": "宇宙の暗闇の中で、一秒間に何百回も回転し、強烈な光線を放ち続ける灯台。その精緻なリズムは、宇宙の時計そのもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "magnetar_field",
+		"word": "Magnetar",
+		"meaning": "マグネタ―",
+		"etymology": [
+			"Magnetic + Star"
+		],
+		"original_statement": "Type of white dwarf with extremely powerful magnetic fields.",
+		"concept": "The strongest magnets in the cosmos",
+		"thinking": "宇宙最強の磁場を持つ星。その磁力は、数千キロ離れた場所からでも原子の形を歪めてしまうほどの、恐るべき見えない力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "accretion_disk_bh",
+		"word": "Accretion Disk",
+		"meaning": "降着円盤（こうちゃくえんばん）",
+		"etymology": [
+			"Latin accretio (increase)"
+		],
+		"original_statement": "Structure formed by diffused material in orbital motion around a massive central body.",
+		"concept": "The swirling meal of the black hole",
+		"thinking": "「増えるもの（Accretion）」。ブラックホールの胃袋へ向かって、激しい摩擦と熱を放ちながら渦巻いて吸い込まれていく、物質の最後のアリア。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "jets_astrophysic",
+		"word": "Relativistic Jets",
+		"meaning": "相対論的（そうたいろんてき）ジェット",
+		"etymology": [
+			"Relativistic + French jeter (to throw)"
+		],
+		"original_statement": "Powerful streams of radiation and particles ejected from compact objects.",
+		"concept": "The cosmic exhale",
+		"thinking": "すべてを呑み込む中心から、なぜか光速に近い速さで放たれる、極光の柱。宇宙の驚異的なエネルギーの排出。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "event_horizon_tel",
+		"word": "EHT",
+		"meaning": "イベント・ホライズン・テレスコープ",
+		"etymology": [
+			"Event + Horizon"
+		],
+		"original_statement": "Global network of telescopes to image black holes.",
+		"concept": "Gazing at the unseeable",
+		"thinking": "地球という惑星全体を一つの巨大な耳（望遠鏡）に変えて、決して見ることができないはずの『事象の地平線』の影を捉えようとする、人類の飽くなき挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "singularity_center",
+		"word": "Singularity",
+		"meaning": "特異点（とくいてん）",
+		"etymology": [
+			"Latin singularis"
+		],
+		"original_statement": "Location where the density and curvature become infinite.",
+		"concept": "The point where math fails",
+		"thinking": "「唯一の（Singular）」場所。数理が無限大へと走り去り、物理法則がその意味を失ってしまう、宇宙に開いた致命的な『穴』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "hawking_radi_adv",
+		"word": "Hawking Radi",
+		"meaning": "ホーキング放射",
+		"etymology": [
+			"Hawking"
+		],
+		"original_statement": "Thermal radiation predicted to be emitted by black holes.",
+		"concept": "The evaporation of shadows",
+		"thinking": "絶対の監獄であるはずのブラックホールから、量子的な『揺らぎ』によって漏れ出す微かな温度。永遠ではない、暗黒の終焉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "entropy_bound_bh",
+		"word": "Bekenstein Bound",
+		"meaning": "ベッケンシュタイン境界",
+		"etymology": [
+			"Bekenstein"
+		],
+		"original_statement": "Upper limit of entropy that can be contained in a region.",
+		"concept": "The storage limit for information",
+		"thinking": "ある閉ざされた空間に詰め込める情報の総量は、その表面積によって決まってしまうという、宇宙の『情報の器』の物理学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "information_para",
+		"word": "Info Paradox",
+		"meaning": "情報（じょうほう）パラドックス",
+		"etymology": [
+			"Information + Paradox"
+		],
+		"original_statement": "Conflict between quantum mechanics and general relativity regarding black hole evaporation.",
+		"concept": "The lost record of existance",
+		"thinking": "ブラックホールが蒸発したとき、そこに落ちたものの『記憶（情報）』はどこへ行くのか。壊してはならない量子力学の掟と、すべてを呑み込む重力の矛盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "cosmic_census",
+		"word": "Cosmic Census",
+		"meaning": "宇宙の個体数調査",
+		"etymology": [
+			"Cosmic + Latin census (count)"
+		],
+		"original_statement": "Estimating total numbers of galaxies/stars in the observable universe.",
+		"concept": "Counting the infinite lanterns",
+		"thinking": "観測可能な宇宙に、どれだけの銀河が灯っているか。その途方もない数を数え上げることで、私たちの孤独の深さを測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "large_scale_struct",
+		"word": "Large Scale",
+		"meaning": "大規模構造（だいきぼこうぞう）",
+		"etymology": [
+			"Large + Scale + Structure"
+		],
+		"original_statement": "Distribution of matter on scales larger than individuals galaxies.",
+		"concept": "The cosmic web",
+		"thinking": "銀河さえもたった一点の泡に過ぎない、蜘蛛の巣のような壮大な宇宙の『骨格』。泡立ち、繋がり、広がる、闇と光のタペストリー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "void_cosmology",
+		"word": "Void",
+		"meaning": "ボイド、空洞（くうどう）",
+		"etymology": [
+			"Latin viduus (bereft/empty)"
+		],
+		"original_statement": "Vast, nearly empty spaces between filaments of the cosmic web.",
+		"concept": "The lonely vacuums of space",
+		"thinking": "銀河さえも住まない、何億光年にもわたる広大な『無』。しかし、その虚ろな空間が、宇宙の構造を形作る重要な一部となっている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "active_galactic_n",
+		"word": "AGN",
+		"meaning": "活動銀河核",
+		"etymology": [
+			"Active + Galactic + Nucleus"
+		],
+		"original_statement": "Compact region at the center of a galaxy with exceptionally high luminosity.",
+		"concept": "The high-energy heart of a galaxy",
+		"thinking": "銀河の中心で吠える、巨大なブラックホールという名のエンジン。銀河全体の光を霞ませるほどの、激しいエネルギーの乱調。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "quasars_cosmo",
+		"word": "Quasar",
+		"meaning": "クエーサー",
+		"etymology": [
+			"Quasi-stellar"
+		],
+		"original_statement": "Extremely luminous active galactic nucleus.",
+		"concept": "The distant beacons of the early universe",
+		"thinking": "「準（Quasi）星」。あまりに遠く、あまりに明るいために、星のように一点に輝いて見える十数億年前の宇宙の激しき残響。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "primordial_gravity",
+		"word": "Primordial Wave",
+		"meaning": "原始重力波",
+		"etymology": [
+			"Latin primordialis"
+		],
+		"original_statement": "Gravitational waves from the inflation period.",
+		"concept": "The rumble of the creation",
+		"thinking": "宇宙創世の瞬間、空間そのものが激しく震えたときの『潮騒』。インフレーションが本当に起きたことを告げる、究極の証拠。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "multiverse_hypo",
+		"word": "Multiverse",
+		"meaning": "マルチバース、多重宇宙",
+		"etymology": [
+			"Multi- + Universe"
+		],
+		"original_statement": "hypothetical group of multiple universes.",
+		"concept": "The infinite ensemble of realities",
+		"thinking": "私たちの宇宙は、たった一つの可能性に過ぎないのかもしれない。数えきれないほどの別の法則、別の運命を持った宇宙が、泡のように浮かんでいる広大な景色。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "eternal_inflation",
+		"word": "Eternal Infl",
+		"meaning": "永久インフレーション",
+		"etymology": [
+			"Eternal + Inflation"
+		],
+		"original_statement": "Inflation process that never stops for some regions of space.",
+		"concept": "The never-ending bubble generator",
+		"thinking": "宇宙の膨張は止まることがなく、各所で『別の宇宙』を絶え間なく生み出し続けているという、終わりのない創造の物語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "cosmic_string_hypo",
+		"word": "Cosmic String",
+		"meaning": "宇宙ひも",
+		"etymology": [
+			"Cosmic + String"
+		],
+		"original_statement": "Hypothetical topological defects in the fabric of space-time.",
+		"concept": "The seam of the universe",
+		"thinking": "宇宙の冷却過程で取り残された、空間そのものの『裂け目』。原子よりも細く、銀河よりも重い、超次元の糸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "braneworld_cosmo",
+		"word": "Braneworld",
+		"meaning": "ブレーン宇宙論",
+		"etymology": [
+			"Membrane"
+		],
+		"original_statement": "Our universe is a 3D membrane in a higher-dimensional space.",
+		"concept": "The floating sheet of reality",
+		"thinking": "私たちは、多次元という高次な海に浮かぶ一枚の『膜（Brane）』の上に住んでいる、影絵のような存在なのかもしれない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "calabi_yau_shape",
+		"word": "Calabi-Yau",
+		"meaning": "カラビ・ヤウ空間",
+		"etymology": [
+			"Calabi + Yau"
+		],
+		"original_statement": "The shape of hidden extra dimensions in string theory.",
+		"concept": "The hidden origami of dimensions",
+		"thinking": "目に見える次元の影に、美しく、そして複雑に折りたたまれた六つの余剰次元。そこに宇宙に宿る力のすべてが封じ込められている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "string_landscape",
+		"word": "String Landscape",
+		"meaning": "超弦（ちょうげん）景観",
+		"etymology": [
+			"String + Landscape"
+		],
+		"original_statement": "The vast space of possible vacuum states in string theory.",
+		"concept": "The map of possible physical laws",
+		"thinking": "物理法則そのものが、地形のように複雑な『景観』をなしている。どの谷底に住むかによって、光の速さも重力の強さも変わってしまう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "anthropic_princ",
+		"word": "Anthropic Princ",
+		"meaning": "人間原理（にんげんげんり）",
+		"etymology": [
+			"Greek anthropos (human)"
+		],
+		"original_statement": "The physical constants of the universe are compatible with human life.",
+		"concept": "The universe as a customized home",
+		"thinking": "宇宙がなぜこれほど絶妙なバランスなのか。それは、もしそうでなければ、私たちという観測者がここに存在して問いを立てられなかったからだ、という逆転の論理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "big_crunch_hypo",
+		"word": "Big Crunch",
+		"meaning": "ビッグクランチ",
+		"etymology": [
+			"Big + Crunch"
+		],
+		"original_statement": "Hypothetical collapse of the universe.",
+		"concept": "The ultimate backward replay",
+		"thinking": "広がりすぎた宇宙が、ある時再び重力に屈し、最後は一点へと『砕け散る（Crunch）』ように収束していく、終わりと再生のシナリオ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "big_rip_hypo",
+		"word": "Big Rip",
+		"meaning": "ビッグリップ",
+		"etymology": [
+			"Big + Rip"
+		],
+		"original_statement": "Ultimate fate of the universe where expansion tears all matter apart.",
+		"concept": "The final tearing of time",
+		"thinking": "加速しすぎた夜風（ダークエネルギー）が、銀河を、星を、原子を、そして時空そのものを『引き裂いて（Rip）』バラバラにする、孤独な最期。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "big_freeze_hypo",
+		"word": "Big Freeze",
+		"meaning": "ビッグフリーズ",
+		"etymology": [
+			"Big + Freeze"
+		],
+		"original_statement": "The universe ends in a state of absolute zero temperature.",
+		"concept": "The eternal slumber",
+		"thinking": "すべてが遠ざかり、星が消え、熱そのものが薄まって消えていく。絶対零度の虚無だけが永遠に続く、宇宙の冷たい死。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "zero_point_energy",
+		"word": "Zero-point Eng",
+		"meaning": "零点（れいてん）エネルギー",
+		"etymology": [
+			"Zero + Point + Energy"
+		],
+		"original_statement": "The lowest possible energy that a quantum physical system may have.",
+		"concept": "Activity in the absolute void",
+		"thinking": "絶対零度になっても、何もない真空になっても、消し去ることのできない量子の『震え』。無とは、実は激しく活動している場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "casimir_effect",
+		"word": "Casimir Effect",
+		"meaning": "カシミール効果",
+		"etymology": [
+			"Casimir"
+		],
+		"original_statement": "Physical force arising from a quantized field between plates.",
+		"concept": "The pressure of nothingness",
+		"thinking": "真空という無が、二枚の板をそっと押し付ける。見えない力の正体は、何もない空間に宿る量子の響き合い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "loop_quantum",
+		"word": "Loop Quantum",
+		"meaning": "ループ量子重力理論",
+		"etymology": [
+			"Loop + Quantum"
+		],
+		"original_statement": "Attempt to describe gravity using discrete loops of space-time.",
+		"concept": "The atoms of space itself",
+		"thinking": "空間は滑らかではない。それは、極微な『輪っか（Loop）』が鎖のように編み上げられた、蜘蛛の巣のような離散的な織物であるという挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "quantum_foam_hyp",
+		"word": "Quantum Foam",
+		"meaning": "量子（りょうし）の泡",
+		"etymology": [
+			"Quantum + Foam"
+		],
+		"original_statement": "Subatomic sea of fluctuations in space-time.",
+		"concept": "The boiling floor of reality",
+		"thinking": "ミクロの極限までズームした時空の貌は、激しく泡立つ『泡（Foam）』のようなカオスに満ちている。そこでは時間も場所もその意味を失う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "penrose_til_cosmo",
+		"word": "Penrose Tiling",
+		"meaning": "ペンローズ・タイリング",
+		"etymology": [
+			"Penrose"
+		],
+		"original_statement": "Aperiodic tiling of the plane.",
+		"concept": "Quasicrystalline order",
+		"thinking": "「規則的」でありながら「繰り返さない」。宇宙の背景に流れる、どこか不安で、しかし完璧な調和を持った非周期的なパズル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "fine_tuning_para",
+		"word": "Fine Tuning",
+		"meaning": "微調整問題",
+		"etymology": [
+			"Fine + Tuning"
+		],
+		"original_statement": "The suspicion that some physical constants are highly sensitive for our existence.",
+		"concept": "The razor-edge of reality",
+		"thinking": "宇宙の定数が、ほんの一滴でもズレていれば、私たちは存在しなかった。この薄氷を踏むような『奇跡の調整』の背後には、何があるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "steady_state_hypo",
+		"word": "Steady State",
+		"meaning": "定常宇宙論（ていじょううちゅうろん）",
+		"etymology": [
+			"Steady + State"
+		],
+		"original_statement": "Discarded theory that the universe has no beginning or end.",
+		"concept": "The universe of eternal equilibrium",
+		"thinking": "宇宙には始まりも終わりもなく、新しい物質が絶えず生まれることで、永遠に今の姿を保ち続けるという、かつての美しき異説。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
+	},
+	{
+		"id": "cosmic_coincidence",
+		"word": "Coincidence",
+		"meaning": "宇宙的符合（ふごう）",
+		"etymology": [
+			"Latin co- + incidere (to fall on)"
+		],
+		"original_statement": "Surprising numerical relations between disparate physical scales.",
+		"concept": "The synchronicity of scale",
+		"thinking": "「共に（Co-）」「降りかかる（Incidere）」。全く関係のない物理量たちが、なぜか今の瞬間にだけほぼ一致しているという、宇宙の奇妙なタイミングの符合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の記憶の中へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙の最果てへ。"
+			]
+		},
+		"example": "The cosmos is within us. We are made of star-stuff."
 	}
 ];
