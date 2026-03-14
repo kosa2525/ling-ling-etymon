@@ -323152,5 +323152,87 @@ const WORDS = [
    "original_statement": "A geometrical representation of the pure state space of a two-level quantum mechanical system."
   },
   "concept": "The sphere of state (「。。、。、生。、。、」。きて。、も、。、。、「。。、。、。死。、。、。、」。んで。、。、。も、。、。、いる。。、。という、。、。、。、あ。、ま。り。。に。、。、不。安。定。な。、。、。理知。を、。、。、。せめて。、。、。、。、一つ。の、。、。、。、「。。、。、。形（。Form）。、。、。、」。の中。へと、。、。、封（。ふう）。。、。じ。、。込（。こ。）。。、。めて。。、。、。愛。、。、。で。、。る。。ための。、。、。、。理知。の、。、。。、「。。、。、。、。器。、。、。、」。、)"
+ },
+ {
+  "id": "meromorphic",
+  "word": "Meromorphic",
+  "meaning": "有理型な、至る所。、。、。滑（。なめ）。。らかであるが、。、。数。、。、点の。、。「。、。、。、傷。、。、。、」。を持つ関数。",
+  "era": "Greek meros + morphe",
+  "etymology": {
+   "components": [
+    "meros (part)",
+    "morphe (form)"
+   ],
+   "original_statement": "From Greek meros 'part / fraction' + morphe 'form'."
+  },
+  "concept": "The fractional form (「。。、。完璧。、。、」。であ。った。。、はず。の。、。美しき。、。関数。の、。中。に。、。ひっそり。と、。、。刻（きざ）。。、。まれた。。、。峻烈なる。、。、。「。。、。、。、極（きょく）。、。、。、」。、と。、。いう、。、。欠落。、。、それは、。、。、。理知。が、。、。、。あえて。、。、「。。、。、。、。不。全。、。、。、」。を。、。、背（。せ。）。、。お。、。う。。、ことで。、。、。広。、大な。、。、。、真実。へと、。、。。、手。を、。、。伸ば。した。。、。、証（。あかし）。、)"
+ },
+ {
+  "id": "residue-theorem",
+  "word": "Residue Theorem",
+  "meaning": "留数定理、特異点の。、。周囲。を。、。一周。。、。する。だけで、。、。、すべて。の。、。理知。が。、。明（。あ）。。、。ら。、。か。、。になる。、。、。峻烈な。、。数理の。、。、美。、",
+  "era": "Latin residuum",
+  "etymology": {
+   "components": [
+    "residuum (that which remains / residue)"
+   ],
+   "original_statement": "A powerful tool in complex analysis to evaluate line integrals of analytic functions over closed curves."
+  },
+  "concept": "The remaining truth (「。。、。一。、。、。周。。、」。する。。、。だけで。、。、。、その。、。、中心。に。、。、ひっそり。と、。、。遺（。のこ）。。、。された。。、。、。「。。、。、。、魂。、。、。、」。の、。、。。叫び（。さけび）。。、を。、。、。。聴（。き）。。、。く。。、。、こと。、。、。、それは、。、。、。、理知。が、。、。、。、。孤独。、。の中に。、。、。ただ。。、。。、「。。、。、。一。、。、。つ。、。、。、」。、の。、。、。遺。、言。、。を。、。見出す。。、。、峻烈な。、。、。結。、。末。、)"
+ },
+ {
+  "id": "contour-integral",
+  "word": "Contour Integral",
+  "meaning": "輪郭積分、複素数。の。、。、。海。を。、。、。一。、。つの。、。、。道。、を描きながら。、。、。巡（。めぐ）。。、。る。。、。旅路の。、。計算。、",
+  "era": "French contour",
+  "etymology": {
+   "components": [
+    "con- (together)",
+    "tornare (to turn)"
+   ],
+   "original_statement": "An integral where the function is integrated along a curve in the complex plane."
+  },
+  "concept": "The turning path (「。。、どこ。へ。、。、」。行。、。く。、。、。べき。、。なのか。、。、という、。、。理知。の、。峻烈な。、。。旅。、。それは、。、。、。複。、。素。、。という、。、。広大な。、。、。。「。。、。、。闇。、。、。、」。の中。に。、。、あえて。、。、。「。。、。、。一。、。、。、」。、。、。の、。、実。、。体の。、。、ない。。、。線を。、。、。引く。。、こと。の、。、。悦。、び。、)"
+ },
+ {
+  "id": "riemann-surface",
+  "word": "Riemann Surface",
+  "meaning": "リーマン面、多価関数。を。、。、。一。、。つの。、。、。、理知。の。、。、。。「。、。、連。、な。、。り。。、。、」。として。、。、。捉（とど）。。める。。、。多層。の世界。、",
+  "era": "Name Bernhard Riemann",
+  "etymology": {
+   "components": [
+    "Bernhard Riemann (mathematician)"
+   ],
+   "original_statement": "An oriented manifold of dimension two, allowing multi-valued functions to be viewed as single-valued."
+  },
+  "concept": "The layered view (「。。、。一。、。、。枚。、。」。では。、。、。納（。おさ）。。、。ま。、。り。。、。きら。ぬ。。、。、想（。おも）。。、。い。。、。を。、。、。あえて。、。、。、何。層。。、もの。。、。、「。。、。、。、紙。、。、。、」。へと、。、。、。、広げ。。、。、。重（。かさ）。。、。ね。。、。合わせる。。、。ことで、。、。、。真実。の、。、。。「。。、。、。、全貌。、。、。、」。を。、。、。視。。、る。、。、ための。、。、。、理。、知。の、。、。、。、鏡。、。、。、)"
+ },
+ {
+  "id": "conformal-mapping",
+  "word": "Conformal Mapping",
+  "meaning": "共形写像、形（フォルム）。。は。、。、。、変（。か。）。。、。わ。。、。れど。、。、。、「。、。、角。、。度。、。、。、」。という。、。、。純粋な。、。、。理知。を。、。、。守り。、。、抜（。ぬ）。。、。く。。、変。、容。、",
+  "era": "Latin con- + forma",
+  "etymology": {
+   "components": [
+    "con- (together)",
+    "forma (form / shape)"
+   ],
+   "original_statement": "A function that locally preserves angles, but not necessarily lengths."
+  },
+  "concept": "Preserving the angle (「。。、。姿。、。、」。は。、。、。醜（。みにく）。。、。く。。、。歪（。ゆ。が）。。、。ま。。、。された。。、。としても、。、。、。その。。「。。、。、。、。心。、。、。、」。、と。、。いう、。、。一。、。点の。、。、。、「。。、。、向き。、。、。、」。だけ。は。、。、。決して。、。、。、。変（。か。）。。、。え。。、。ぬ。。、。、という、。、。理知。の、。、。峻烈な。、。、。、誇。、。、。り。、)"
+ },
+ {
+  "id": "analytic-continuation",
+  "word": "Analytic Continuation",
+  "meaning": "解析接続、わずかな。、。、。断。片。、。、から、。、。、宇宙。の、。、。。全。て。、。を、。、。。、。復。、。、元。。、。、しようと。、。する、。、理。知。の、。、。。執。、。念。、",
+  "era": "Greek ana- + luein + Latin continuare",
+  "etymology": {
+   "components": [
+    "analusis (a loosening / release)",
+    "continuare (to join together)"
+   ],
+   "original_statement": "A technique to extend the domain of a given analytic function."
+  },
+  "concept": "The chain of logic (「。。、。一。、。、。片。、。、」。の、。、。、理。知。、。が。、。、あれば。、。、。、そこ。。から。、。、。「。。、。、。、全貌。、。、。、」。へと、。、。、。辿（。たど）。。、。り。。、。着（。つ。）。。、。ける。。、。と。、。いう、。、。、傲（。ごう）。。、。慢。、な。。、。、。。、までに。、。、。、峻烈な。、。、。、確。、。信。、。、それは、。、。、。理知。が。、。、。闇。を、。、。、。。、切り。、。拓（。ひら）。。、。く。。、ための。、。、。、。、。灯。、火。、)"
  }
 ];
