@@ -372100,5 +372100,870 @@ const WORDS = [
 			]
 		},
 		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "nash_equil_ad",
+		"word": "Nash Equilib",
+		"meaning": "ナッシュ均衡（きんこう）",
+		"etymology": [
+			"Nash",
+			"Latin aequus + libra"
+		],
+		"concept": "No incentive to deviate",
+		"thinking": "誰もが自分の「最良」を選び、それ以上動きようがなくなった、冷徹な静止。互いの欲望が「等しく（Aequus）」「秤（Libra）」のように釣り合った、動けない檻（デッドロック）のような安定。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "pareto_optim",
+		"word": "Pareto Opt",
+		"meaning": "パレート最適（さいてき）",
+		"etymology": [
+			"Pareto",
+			"Latin optimus (best)"
+		],
+		"concept": "No one better off without making other worse",
+		"thinking": "誰かを幸せにするためには、必ず誰かを不幸にしなければならない、究極の「限界（Best）」。無駄が一切削ぎ落とされた、しかし決して『公平』とは限らない、効率性の冷酷な極北。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "zero_sum_adv",
+		"word": "Zero-sum",
+		"meaning": "ゼロ和（わ）",
+		"etymology": [
+			"Zero + Sum"
+		],
+		"concept": "Total gain/loss equals zero",
+		"thinking": "私が得た分は、必ずあなたの「欠落」である。パイを奪い合い、プラスとマイナスを足せば空虚な「ゼロ」に帰る、掠奪と競争の閉ざされた円。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "mechanism_de",
+		"word": "Mechanism Ds",
+		"meaning": "メカニズム・デザイン",
+		"etymology": [
+			"Greek mekhane + Latin de- + signare"
+		],
+		"concept": "Reverse game theory",
+		"thinking": "望ましい「結果（印/Sign）」を先に決め、そのために人々がどう「動くか（機械/Mekhane）」という『ルール』を逆算して設計する。神の視点から欲望を導く、制度という名の調教。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "incentive_ad",
+		"word": "Incentive",
+		"meaning": "インセンティブ、誘因（ゆういん）",
+		"etymology": [
+			"Latin incentivus (striking up the tune/inciting)"
+		],
+		"concept": "Motivation for action",
+		"thinking": "「音を奏で（In-centivus）」、心を躍らせる。人の心に欲望という名の針を刺し、動かすための報酬。私たちは、誰かが書いた楽譜（インセンティブ設計）の上で踊る、欲望の奴隷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "adversar_sel",
+		"word": "Adverse Sel",
+		"meaning": "逆選択（ぎゃくせんたく）",
+		"etymology": [
+			"Latin adversus (against) + Select"
+		],
+		"concept": "Information asymmetry problems",
+		"thinking": "「向かい風（Adverse）」のように、悪いものばかりが「選ばれて（Select）」しまう。相手の心が読めない（情報の非対称性）がゆえに、市場が質の低いものに埋め尽くされていく、不信の深淵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "moral_hazard",
+		"word": "Moral Hazard",
+		"meaning": "モラル・ハザード",
+		"etymology": [
+			"Latin moralis + Arabic az-zahr (die/game of chance)"
+		],
+		"concept": "Irresponsibility from insurance",
+		"thinking": "「正しさ（Moral）」が「運（Hazard）」に晒される。守られているという安心が、人の心を傲慢に、あるいは無責任に変貌させる、安全という名の病。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "signaling_gt",
+		"word": "Signaling",
+		"meaning": "信号（しんごう）、シグナリング",
+		"etymology": [
+			"Latin signum (sign)"
+		],
+		"concept": "Conveying hidden info",
+		"thinking": "「印（Sign）」をあえて相手に見せる。自分がどれほど価値があるか。言葉ではなく、学歴や高級車、あるいはクジャクの羽という「コスト（痛み）」を払うことでしか伝わらない、真剣な覚悟の証明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "screening_gt",
+		"word": "Screening",
+		"meaning": "スクリーニング、選別",
+		"etymology": [
+			"Dutch scherm (screen/shield)"
+		],
+		"concept": "Sorting types by testing",
+		"thinking": "「盾（Screen）」で仕分け、篩い落とす。相手の口八丁を見抜き、その本質を力づくで引き出すための、無情な選別の門番。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "externality",
+		"word": "Externality",
+		"meaning": "外部性（がいぶせい）",
+		"etymology": [
+			"Latin exter (outside)"
+		],
+		"concept": "Impact on un-involved",
+		"thinking": "契約の「外側（Exter）」に漏れ出した、意図せぬ情熱。誰かの成功が誰かを癒し、誰かの汚れが誰かを病ませる。私たちは切り離された個ではなく、網の目のように響き合う『繋がりの一部』である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "tit_for_tat",
+		"word": "Tit-for-tat",
+		"meaning": "しっぺ返し戦略",
+		"etymology": [
+			"Tip for tap"
+		],
+		"concept": "Iterated prisoner's dilemma strat",
+		"thinking": "「打たれたら（Tip）打ち返す（Tap）」。最初は信じ、裏切られれば報復し、謝れば許す。単純だが最強の、信頼を築き直すための不屈の対話のリズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "cheap_talk_a",
+		"word": "Cheap Talk",
+		"meaning": "情報の非（ひ）対称性、安っぽい言葉",
+		"etymology": [
+			"Cheap + Talk"
+		],
+		"concept": "Uncostly communication",
+		"thinking": "「安っぽい（Cheap）」「言葉（Talk）」。何の保証（コスト）もない約束は、カオスなゲームの舞台では無力な騒音に過ぎない。真実には常に、血や汗（コスト）の匂いが伴う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "vickrey_auct",
+		"word": "Vickrey Auct",
+		"meaning": "ヴィクリー・オークション",
+		"etymology": [
+			"Vickrey"
+		],
+		"concept": "Truthful bidding",
+		"thinking": "二番目に高い価格で落札するという、奇妙な掟。それは自分の「欲望の重さ」を嘘偽りなく語らせるための、天才的な嘘発見の儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "shirking_gt",
+		"word": "Shirking",
+		"meaning": "サボり、シャーキング",
+		"etymology": [
+			"German schurke (scoundrel/shirk)"
+		],
+		"concept": "Avoiding responsibility",
+		"thinking": "「悪漢（Schurke）」のように、見えないところで手を抜く。全体の利益をむさぼりながら、自分だけは労力を削る、集団の中に潜む必然的な心の弛み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "free_rider_ad",
+		"word": "Free Rider",
+		"meaning": "フリーライダー、タダ乗り",
+		"etymology": [
+			"Free + Ride"
+		],
+		"concept": "Benefiting without paying cost",
+		"thinking": "「タダ（Free）」で「乗る（Ride）」。誰もが願う静かな秩序を、一銭も払わずに使い潰す。合理的すぎるゆえに道徳を失った者の、賢くも寂しき振る舞い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "common_pool",
+		"word": "Common Pool",
+		"meaning": "コモンズの悲劇",
+		"etymology": [
+			"Latin communis (at joint service)"
+		],
+		"concept": "Overuse of shared resource",
+		"thinking": "「みんな（Communis）」のものだから。自分のものだけを慈しみ、共有のものを搾取する。個人の合理性が、全体の破滅を招くという、理性の哀しき自己矛盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "bounded_rat",
+		"word": "Bounded Rat",
+		"meaning": "限定合理性（げんていごうりせい）",
+		"etymology": [
+			"Bound + Latin ratio"
+		],
+		"concept": "Limits of human cognition",
+		"thinking": "「理性（Ratio）」には「限界（Bound）」がある。私たちは神ではない。限られた時間と知能の中で、不完全に、しかし必死に最良を探す、愛おしき不完全な思考の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "satisficing",
+		"word": "Satisficing",
+		"meaning": "満足化（まんぞくか）",
+		"etymology": [
+			"Latin satis (enough) + facere"
+		],
+		"concept": "Choosing good enough",
+		"thinking": "「最高」を求めるのではなく、自分にとって「十分（Satis）」であることを「目指す（Facere）」。効率の奴隷であることを辞め、心の平穏を得るための、成熟した大人の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "prospect_th",
+		"word": "Prospect Th",
+		"meaning": "プロスペクト理論",
+		"etymology": [
+			"Latin pro- + specere (to look ahead)"
+		],
+		"concept": "Loss aversion",
+		"thinking": "「未来（Pro-spect）」を見据えたとき、人は得る喜びよりも、失う痛みに「二倍」敏感になる。合理的ではないが、極めて人間的な、痛みを避けるための生存本能。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "loss_aversion",
+		"word": "Loss Avers",
+		"meaning": "損失（そんしつ）回避性",
+		"etymology": [
+			"Loss + Latin ab- (away) + vertere"
+		],
+		"concept": "Hating loss more than gain",
+		"thinking": "損をすることから「顔を背ける（Ab-vert）」。失うことの恐怖が、私たちを現状に縛り付け、新しい冒険を躊躇わせる、心の重石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "hyperbolic_d",
+		"word": "Hyperbolic D",
+		"meaning": "双曲（そうきょく）割引",
+		"etymology": [
+			"Greek hyperbole + Discount"
+		],
+		"concept": "Value drops for future rewards",
+		"thinking": "「あまりにも（Hyper）」遠い未来の報酬は、価値がゼロに等しく見えてしまう。目の前の誘惑に負け、遠き夢を安売りしてしまう、人間の「今」という時間への極端な執着。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "framing_effec",
+		"word": "Framing Eff",
+		"meaning": "フレーミング効果",
+		"etymology": [
+			"Old English framian (to benefit/frame)"
+		],
+		"concept": "Context shapes decision",
+		"thinking": "同じ絵も、「額縁（Frame）」を変えれば全く違う印象になる。真理が語られる『文脈』をいかに飾り立てるかによって、私たちの決断は容易に操られるという、知の脆弱性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "anchoring_eff",
+		"word": "Anchoring",
+		"meaning": "アンカリング、係留（けいりゅう）",
+		"etymology": [
+			"Greek agkyra (anchor)"
+		],
+		"concept": "Initial info as reference",
+		"thinking": "最初に見せられた数字という名の「錨（Anchor）」に、思考が繋ぎ止められてしまう。一度下りた錨を上げるのは難しく、私たちはその呪縛の中でしか自由を測ることができない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "availability",
+		"word": "Availability",
+		"meaning": "利用可能性（りようかのうせい）ヒューリスティック",
+		"etymology": [
+			"Latin ad- + valere (to be strong/available)"
+		],
+		"concept": "Judging by easy memory",
+		"thinking": "思い出しやすい（強烈な）「記憶（Available）」だけを世界のすべてだと信じ込む。稀な悲劇を確率のすべてと見誤り、静かな真理を見落とす、心のバイアス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "hindsight_bia",
+		"word": "Hindsight",
+		"meaning": "後知恵（あとぢえ）バイアス",
+		"etymology": [
+			"Hind (back) + Sight"
+		],
+		"concept": "Knowing it already after fact",
+		"thinking": "起きてしまった後で、「後ろを（Hind）」「見る（Sight）」。最初から分かっていたかのように錯覚し、運命の不条理を忘れてしまう、知的な傲慢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "kurtosis_stat",
+		"word": "Kurtosis",
+		"meaning": "尖度（せんど）",
+		"etymology": [
+			"Greek kurtos (curved/humped)"
+		],
+		"concept": "Sharpness of peak",
+		"thinking": "「尖（Krtos）」っているか。平凡な中央に多くの人が集まっているか、それとも極端な異端者（外れ値）たちが運命を支配しているか。平均という名の幻影に潜む、極端な存在の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "skewness_stat",
+		"word": "Skewness",
+		"meaning": "歪度（わいど）",
+		"etymology": [
+			"Old English sceoh (shy/oblique)"
+		],
+		"concept": "Asymmetry of distribution",
+		"thinking": "「斜めに（Skew）」歪んでいる。均衡が破れ、どちらか一方へと欲望が偏っている。その『歪み』にこそ、世界の隠された不平等や意志が宿っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "covariance_st",
+		"word": "Covariance",
+		"meaning": "共分散（きょうぶんさん）",
+		"etymology": [
+			"Latin con- + varius"
+		],
+		"concept": "Varying together",
+		"thinking": "「共に（Con-）」「変化（Varius）」する程度。二つの運命がいかにシンクロし、互いの浮き沈みを分かち合っているかを示す、関係性の数理的な結晶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "regression_ad",
+		"word": "Regression",
+		"meaning": "回帰（かいき）",
+		"etymology": [
+			"Latin re- + gradi (to step back)"
+		],
+		"concept": "Reverting to mean",
+		"thinking": "「後ろへ（Re-）」「戻る（Gradi）」。どれほど飛び抜けた天才や異端も、最後は平均という名の「凡庸な平穏」へと引き戻されていく。宇宙が持つ、静かなる収束の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "correlation_a",
+		"word": "Correlation",
+		"meaning": "相関（そうかん）",
+		"etymology": [
+			"Latin con- + relatus (brought back)"
+		],
+		"concept": "Mutual relationship",
+		"thinking": "「共に（Con-）」「結び付けられる（Relate）」。因果関係（原因）は見えなくても、二つの事象が双子のように寄り添って動く。偶然か、それとも見えない糸があるのかを問い続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "causality_adv",
+		"word": "Causality",
+		"meaning": "因果（いんが）関係",
+		"etymology": [
+			"Latin causa (reason/cause)"
+		],
+		"concept": "Reason for being",
+		"thinking": "「原因（Causa）」がある。ただの偶然の重なりではなく、AがあるからBがあるという、世界の強固な歯車。この繋がりを理解することこそが、未来というカオスを統べる知恵となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "spurious_corr",
+		"word": "Spurious",
+		"meaning": "疑似（ぎじ）相関、偽（にせ）の",
+		"etymology": [
+			"Latin spurius (false/illegitimate)"
+		],
+		"concept": "Fake relationship",
+		"thinking": "「嘘（Spurius）」の繋がり。たまたま同時に動いただけで、何の関係もない二つの事象。意味を見出そうとする人間の脳が産み出した、哀しきパレイドリア（幻視）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "propensity_ad",
+		"word": "Propensity",
+		"meaning": "傾向（けいこう）、プロペンシティ",
+		"etymology": [
+			"Latin pro- + pendere (to hang forward)"
+		],
+		"concept": "Inclination toward outcome",
+		"thinking": "「前へ（Pro-）」「傾く（Pendere）」。一瞬の判断の裏側に潜む、過去の重みや環境の圧力。必然ではないが、気づけばそちらを選んでしまう、心のしなやかな傾斜。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "equilib_price",
+		"word": "Walrasian Eq",
+		"meaning": "ワルラス均衡（きんこう）",
+		"etymology": [
+			"Walras",
+			"Equilibrium"
+		],
+		"concept": "Total market clearing",
+		"thinking": "万物に対する需要と供給が、ある一点の「価格」において完璧に解消される。すべての欲望が満たされ、市場から飢えと余りが消え去る、美しき数学的空想。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "general_equil",
+		"word": "General Equi",
+		"meaning": "一般（いっぱん）均衡",
+		"etymology": [
+			"Latin genus + Equilibrium"
+		],
+		"concept": "Connecting all markets",
+		"thinking": "一つの市場だけではない。全宇宙のすべての市場が、相互に響き合いながら、最後は一つの巨大な均衡へと至る。宇宙のすべての歯車が、たった一つの調和したリズムで回る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "welfare_econ",
+		"word": "Welfare Econ",
+		"meaning": "厚生（こうせい）経済学",
+		"etymology": [
+			"Well + Fare"
+		],
+		"concept": "Economic well-being",
+		"thinking": "いかにして「良く（Well）」「やっていくか（Fare）」。数字の増大ではなく、個人の幸福、社会の正義。経済という冷徹な計算を、倫理という名の血で温める試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "social_choice",
+		"word": "Social Choice",
+		"meaning": "社会的選択（しゃかいてきせんたく）",
+		"etymology": [
+			"Latin socius + Choice"
+		],
+		"concept": "Aggregating individual wills",
+		"thinking": "バラバラの個人の我儘（好み）を、いかにして「私たち（Socius）」全体の意志としてまとめ上げるか。投票か、独裁か。民主主義が直面する、数理的なアポリア。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "arrows_imposs",
+		"word": "Arrows Theo",
+		"meaning": "アローの不可能性（ふかのうせい）定理",
+		"etymology": [
+			"Arrow",
+			"Impossibility"
+		],
+		"concept": "Fair voting is impossible",
+		"thinking": "完璧な民主主義（投票制度）など存在しない。いくつかの「当然」のルールを守ろうとすれば、必ずどこかで誰かの意志が踏みにじられる。自由への究極の絶望と、その先にある叡智。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "coase_theorem",
+		"word": "Coase Theor",
+		"meaning": "コースの定理",
+		"etymology": [
+			"Coase"
+		],
+		"concept": "Market fixes externalities if no costs",
+		"thinking": "取引のコストさえなければ、当事者同士の「話し合い（取引）」だけで、世界は最も効率的な均衡へと辿り着く。ルールではなく、『自由な交換』こそが、世界の傷を癒すという逆説。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "transact_cost",
+		"word": "Transact Cst",
+		"meaning": "取引（とりひき）コスト",
+		"etymology": [
+			"Latin trans- + actus + Cost"
+		],
+		"concept": "The friction of exchange",
+		"thinking": "人と人が出会い、合意し、「事をなす（Trans-act）」ためにかかる見えない摩擦。制度や慣習、不信。これこそが、数学的な理想を阻む「現実の重み」そのもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "institutional",
+		"word": "Institution",
+		"meaning": "制度（せいど）、インスティチュート",
+		"etymology": [
+			"Latin in- + statuere (to set up)"
+		],
+		"concept": "Rules of the game",
+		"thinking": "人の欲望の奔流の中に、「杭を打ち（Statuere）」「確立したもの（In-）」。法、慣習、結婚。それはカオスな生に秩序を与える檻であり、同時に私たちが安全に生きるためのシェルター。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "path_dependen",
+		"word": "Path Depend",
+		"meaning": "経路依存性（けいろいぞんせい）",
+		"etymology": [
+			"Path + Latin de- + pendere"
+		],
+		"concept": "History shapes options",
+		"thinking": "過去の「道（Path）」に「ぶら下がって（Depend）」いる。今の選択肢は、かつての些細な偶然によって縛られている。合理性ではなく、歴史のしがらみが未来を決定する、宇宙の慣性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "evolutionary_",
+		"word": "Evol Gam Tho",
+		"meaning": "進化（しんか）ゲーム理論",
+		"etymology": [
+			"Latin evolutio + Game Theory"
+		],
+		"original_statement": "Strategic interactions over biological time.",
+		"concept": "Survival of the smartest strategies",
+		"thinking": "理性あふれる交渉ではなく、ただ『生き残った者が正義』という時間。戦略そのものが遺伝子として刻まれ、数万年の月日の中で、最も強靭な「協力」のルーチンが選び取られていく過程。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の均衡を、数理の舞台で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と制度設計の深淵へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions."
 	}
 ];
