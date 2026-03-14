@@ -405194,5 +405194,205 @@ const WORDS = [
 			]
 		},
 		"example": "Theoretical linguistics explores the underlying structure of human language."
+	},
+	{
+		"id": "topology_adv",
+		"word": "Topology",
+		"meaning": "位相（いそう）幾何（きか）学（がく）、トポロジー",
+		"etymology": [
+			"Greek topos (place) + logos"
+		],
+		"concept": "Study of continuous deformation",
+		"thinking": "「場所（Topos）」の「理（Logos）」。距離や角度という表面的な貌（貌）を捨て、伸ばしても、縮めても変わらない『つながりの本質』だけを捉える。ドーナツとコーヒーカップが「同じ」に見える、知性の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "differentiabl",
+		"word": "Diff Manif",
+		"meaning": "微分（びぶん）可能（かのう）多様体（たようたい）",
+		"etymology": [
+			"Difference + Able"
+		],
+		"concept": "Manifolds with calculus",
+		"thinking": "滑らかに「微分」ができる多様体。カオスのような空間の中に、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "cohomology_",
+		"word": "Cohomology",
+		"meaning": "コホモロジー",
+		"etymology": [
+			"Co- + Homology"
+		],
+		"concept": "Algebraic tool for topology",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "genus_topol",
+		"word": "Genus (T)",
+		"meaning": "種数（しゅすう）、ジーナス",
+		"etymology": [
+			"Latin genus (kind/type)"
+		],
+		"concept": "Number of holes in a surface",
+		"thinking": "空間（貌）を特徴づける「穴」の数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "curvature_a",
+		"word": "Curvature",
+		"meaning": "曲率（きょくりつ）",
+		"etymology": [
+			"Latin curvus (bent)"
+		],
+		"concept": "Measure of space bending",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "connectedne",
+		"word": "Connectnes",
+		"meaning": "連結（れんけつ）性（せい）",
+		"etymology": [
+			"Latin con- + nectere (to bind)"
+		],
+		"concept": "Being in one piece",
+		"thinking": "「共に（Con-）」「縛る（Nect-）」。一続きである。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "mobi_strip_",
+		"word": "Mobius Str",
+		"meaning": "メビウスの帯（おび）",
+		"etymology": [
+			"August Ferdinand Mobius"
+		],
+		"concept": "One-sided surface",
+		"thinking": "「裏」と「表」の境界が消え、一つの貌へと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "klein_bottl",
+		"word": "Klein Bott",
+		"meaning": "クラインの壺（つぼ）",
+		"etymology": [
+			"Felix Klein"
+		],
+		"concept": "Non-orientable closed surface",
+		"thinking": "「内」と「外」が。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "singularit_a",
+		"word": "Singularit",
+		"meaning": "特異点（とくいてん）",
+		"etymology": [
+			"Latin singularis"
+		],
+		"concept": "Point where math breaks down",
+		"thinking": "理の「綻び」。貌が。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "poincare_co",
+		"word": "Poincare C",
+		"meaning": "ポアンカレ予想（よそう）",
+		"etymology": [
+			"Henri Poincare"
+		],
+		"concept": "Classification of 3-spheres",
+		"thinking": "宇宙の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
 	}
 ];
