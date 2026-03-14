@@ -322494,5 +322494,88 @@ const WORDS = [
    "original_statement": "From Latin spectrum 'appearance', later used for the components of light."
   },
   "concept": "Decomposing into light (「。。、。一つ。、。、。、」。の、。、。、巨大な。、。、。「。。、。、。、力。、。、。、」。を。、。、。あえて。、。、。、。、バラバラ。に。、。、。分解。し、。、。、。どのような。、。、。、。、輝き。の、。、。、。集まり。、。であるのか。、。を。、。、、明（。あ）。。、。ら。、。か。、。にする。。、。、。理知。の、。、。。プリズム。、。それは、。、。、。、闇。、。を。、。、光。へと、。、。変え。、。、。。るための。、。、。、峻烈な。、。、。、。。、。解。、。剖。、。学。、)"
+ },
+ {
+  "id": "evanescent-wave",
+  "word": "Evanescent Wave",
+  "meaning": "エバネッセント波、境界に滲み出し、静かに。、。、。消えて。、ゆく。。、。、幽霊。、のような。、。光。、",
+  "era": "Latin evanescere",
+  "etymology": {
+   "components": [
+    "e- (out)",
+    "vanescere (to vanish)"
+   ],
+   "original_statement": "From Latin evanescere 'to vanish / pass away'."
+  },
+  "concept": "The vanishing wave (「。。、。行（ゆ）。、。、。く。。、」。こと。を。、。、。許。、されぬ。、。、境界。、。の、。。、。。際に。、。、。ひっそり。と、。、。、滲（。にじ）。。、。み。。、。出し。。、。、。ただ。。、。、そこに。、。、。、在（。あ）。。、。る。。、。だけの、。、。、光。、。、。それは、。、。、。理知。が、。、。、。禁（。きん）。。、。じ。。、。られた。。、。場所。。へと。、。、。。、手。を、。、。、。伸ば。そう。。、。、。とした。。、。、一。、。瞬、。、。、の、。、未。、練。、)"
+ },
+ {
+  "id": "waveguide",
+  "word": "Waveguide",
+  "meaning": "導波路、光や電波を。、。、。一。、条の。、。道。へと、。、。導く。、。、。理知。の、。脈。、管。、",
+  "era": "English wave + guide",
+  "etymology": {
+   "components": [
+    "wave",
+    "guide"
+   ],
+   "original_statement": "A structure that guides waves, such as electromagnetic waves or sound."
+  },
+  "concept": "The guided wave (「。。、どこ。、。、」。へと、。、。、。散。、散（。ばら。ばら）。。、。に、。、。、消えて。、。しまう。、。、。はず。だった。。、。「。。、。、。、光。、。、。、」。を。、。、。あえて。、。、。、。、。一。、。つの。、。、。管。の中に。、。、。閉じ。込め。、、。、。、。想（。おも）。。、。い。。、。を。。、。込（。こ。）。。、めて。。、。遠く。へと。、。、。運。、。、。ぶ。。、。ための。、。、。、。、一。、。条の。、。。、。、。絆。、)"
+ },
+ {
+  "id": "permittivity",
+  "word": "Permittivity",
+  "meaning": "誘電率、電場に対して物質がどれほど。、。、。「。、。許。し。、。、」。、。を与える。、。かの。、。度合い。、",
+  "era": "Latin permittere",
+  "etymology": {
+   "components": [
+    "per- (through)",
+    "mittere (to send)"
+   ],
+   "original_statement": "From Latin permittere 'to allow / let through'."
+  },
+  "concept": "The measure of allowance (「。。、。、電。、場。、。、」。という。、。、。、。目。に、。、。見えない。、。、。圧力。に、。、。、。どれ。。、。ほど。、。、。柔軟。に、。、。、。、。。自。、自分。、を。、。、。明け。、。渡し。、、。、。。理知。を。、。、。、そこに。、。、。、。「。。、。、通（。とお）。。、。す。。、。、。、」。、。、。ことを。、。、。、許。、。す。。、か。、。、という、。、。理知。の、。、。優。、。しさ。、。、。の、。、。、。深。、さ。、)"
+ },
+ {
+  "id": "dielectric-constant",
+  "word": "Dielectric Constant",
+  "meaning": "誘電定数、絶縁体が蓄える魂。、。、。、。の、。、。。エ。、ネ。、。ル。。、ギ。、。ー。。、。の、。比率。、",
+  "era": "Greek dia- + electric",
+  "etymology": {
+   "components": [
+    "dia (through)",
+    "electric"
+   ],
+   "original_statement": "From dia- 'through / across' + electric."
+  },
+  "concept": "The constant through light (「。。、。、電。、気の。、。、。流れ。、。、」。を。、。、。あえて。、。、。、。拒。絶。、。、しながらも。、。、。、。その。。、中。に。、。、。理知。を、。、。ひっそり。と、。、。、蓄（。たくわ）。。、。えて。。、。おく。。、。、こと。の。、。、できる。、。、。、峻烈な。、。、。、。、。。器。、。、。としての。、。、。静かな。、。、。強。、。、さ。、)"
+ },
+ {
+  "id": "flux-quantization",
+  "word": "Flux Quantization",
+  "meaning": "磁束量子化、磁力の流れさえも。、。、。バラバラ。の。、。、。、「。、。一。、。つ。、。、」。、。、。の。、。。粒。、。、。へと。、。、。、変。えて。、。、。しまう。、。、。量子的。な。、。、掟。、",
+  "era": "Latin fluxus + Greek quantum",
+  "etymology": {
+   "components": [
+    "fluxus (flow)",
+    "quantum (how much)"
+   ],
+   "original_statement": "The phenomenon that the magnetic flux passing through a superconductor is quantized."
+  },
+  "concept": "The quantized flow (「。。、な。、。め。、。、」。らかな。、。、。、。「。。、。、。、。流。、。、。、」。、。、。であ。った。、。、。はず。の、。、。磁力。が、。、。、ある。、。瞬。間、。、。、。不意。に。、。、。、バラ。バラ。、の、。、。、。「。。、。、。一。、。、。粒。、。、。、」。へと。、。、。、姿（。フォルム）。。を。、。、。、。変え。さ。。、せ。、。、。られる。。、。、。、宇宙。の、。、。理知。の、。、。峻烈なる。、。、。、。、。。契。、。、。約。、)"
+ },
+ {
+  "id": "faraday-rotation",
+  "word": "Faraday Rotation",
+  "meaning": "ファラデー回転、磁場。、。、。、。の、。、。。中を、。、。、。、。光。が。、。、。通る。、。、時、。、。、。その。、。、。心。、。が、。、。、。旋（。つむ）。。、。、が。、。、。れる。。、。現象。、",
+  "era": "Name Michael Faraday",
+  "etymology": {
+   "components": [
+    "Michael Faraday (physicist)"
+   ],
+   "original_statement": "The rotation of the plane of polarization of an electromagnetic wave as it passes through a medium in a magnetic field."
+  },
+  "concept": "The spinning light (「。。、。光。、。、」。が、。、。、。、目。に、。、見える。。、。ことなく、。、。、。、。磁。力。、という、。、。、理知。の。、。、。、。網（あみ）。。、を。、。、。くぐ。。、。り。。、。抜（。ぬ）。。、。ける。。、。時。、。、。、。その。、。、。振（。ふ）。。、。る。。、。まい。、。、が、。、。不意に。、。、。、。一。、。回転。、。、。し、。、。、。、世界。。へと、。、。、。告。、。白。、する。。、。、。情。、。、熱。、。の、。、。、旋。、律。、)"
  }
 ];
