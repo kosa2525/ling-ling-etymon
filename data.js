@@ -322665,5 +322665,86 @@ const WORDS = [
    "original_statement": "An abbreviation for Massive Compact Halo Object."
   },
   "concept": "The dark monolith (「。。、。光。、。、」。を。、。、。あえて。、。、。、。、拒。絶。、。、。し、。、。、。重（。お。）。、。も。、。たた。、。ず。、、。、ただ。。、そこに。、。、。在（。あ）。。、。る。。、。強靱。な。、。、。、理知。、。、。それは、。、。、。、銀。河。、の。、。外（。そと）。。において。、。、。、ひっそり。と、。。、宇宙。を。、。、。、。。見。、。守。、。、。、っている。。、。、。寡。、。黙。、。な。、。、。。番。、。、。人。、)"
+ },
+ {
+  "id": "well-ordering",
+  "word": "Well-ordering",
+  "meaning": "良順序、いかなる部分集合も最小の要素を持つ、峻烈な秩序。",
+  "era": "Latin bene + ordo",
+  "etymology": {
+   "components": [
+    "well",
+    "order"
+   ],
+   "original_statement": "In mathematics, a total order on a set S with the property that every non-empty subset of S has a least element."
+  },
+  "concept": "The strict order (「。。、。どれ。、。、」。ほど。、。、。多様。な。、。集まり。、。であっても。、。、必ず。、。、。一。、。、。つの。、。、。、「。。、。、。、先。頭。、。、。、」。を。、。、。、決（。き。）。、。め。。、。られる。。、。、峻烈な。、。、。理知。、。それは、。、。、。、宇宙。が。、。、。、。沈。、黙。、。、を。、。、。守（。まも）。。、。り。。、。抜（。ぬ）。。、。く。。ための、。、。、。不動。の。、。基礎。、)"
+ },
+ {
+  "id": "skolem-paradox",
+  "word": "Skolem Paradox",
+  "meaning": "スコーレムのパラドックス、数えきれない無限が、数えられる世界に収まってしまう不思議。",
+  "era": "Name Thoralf Skolem",
+  "etymology": {
+   "components": [
+    "Thoralf Skolem (logician)"
+   ],
+   "original_statement": "The observation that every countable axiomatization of set theory, if consistent, has a countable model."
+  },
+  "concept": "Infinite in finite (「。。、数。え。、。き。、。、。れぬ。。、。はず。の、。、。、巨大。な、。、。無限。が、。、。、一。、。、枚の。。、。、。書。、物（。ふみ）。。、。の中に。、。、。、ひっそり。と、。、。閉じ。込め。、、。、。。られて。。、。しまう。。、ことの、。、。、理知。の、。。、皮。、肉。、。それは、。、。、。言葉。が。、。、。、宇宙。を。、。、。、捉（。と。）。、。え。、、。、き。、。っ。。、。た。。、つもり。になっている。。、。、滑（なめ）。、稽（。けい）。。、。さ。、)"
+ },
+ {
+  "id": "transfinite",
+  "word": "Transfinite",
+  "meaning": "超限の、無限の。、。さらに。、。、。向こう。側へと、。、。、。足。、を。、。、踏み。。、出す。。、。理知。、",
+  "era": "Latin trans- + finis",
+  "etymology": {
+   "components": [
+    "trans (beyond)",
+    "finis (end / boundary)"
+   ],
+   "original_statement": "From Latin trans- 'across / beyond' + finis 'limit / end'."
+  },
+  "concept": "Beyond the end (「。。、終わり。、。、」。へと、。、。、。辿（。たど）。。、。り。。、。着（。つ。）。。、。いた。。、。、はず。なのに、。、。、そこ。。に。、。、。不意に。、。、。、。「。。、。、次の。、。、。、道。、。、。、」。が。、。、。開（。あ）。。、。いて。。、。い。。た。。、。、こと。の、。、。。、峻烈な。、。、。、驚。、き。、。それは、。、。、。、理知。が、。、。、。果てし。なき。、。、。、。、「。。、。、。、超。、。、。、」。を。、。、目。指（。ざ）。。、。す。。、ための。、。、。、。、。魂。の。、。、。、跳。躍。、)"
+ },
+ {
+  "id": "russell-paradox",
+  "word": "Russell Paradox",
+  "meaning": "ラッセルのパラドックス、自分自身を。、。、。含ま。ぬ。、。、集合が、。、。、自ら。の。、。、。、存在。。を、。、。、。疑（。うたが）。。、。う。。、。理知。の、。迷。宮。、",
+  "era": "Name Bertrand Russell",
+  "etymology": {
+   "components": [
+    "Bertrand Russell (logician / philosopher)"
+   ],
+   "original_statement": "A set-theoretic paradox discovered by Bertrand Russell in 1901."
+  },
+  "concept": "The logical trap (「。。、私は。、。、」。私で。、。、。、ある。、。のか、。、。、。。「。。、。、。、私。、。、。、」。ではない。。、。のか。、。、。という、。、。、峻烈な。、。、。、。「。。、。、。、。自。、。問。、。、。、」。、と。、。、。自。答。、。、。それが、。、。、。、理知。の。、。、。一。、。、。番。、。、奥底。で。、。、。、蛇（。へ。び）。。、。のように。、。、。、自。分。を、。、。、。喰（。く。）。、。ら。。、。おう。。、。、としている。。、。、。、孤独。、)"
+ },
+ {
+  "id": "decidability",
+  "word": "Decidability",
+  "meaning": "決定可能性、ある問いに対して、あらかじめ。、。、。「。、。イエス。、。、」。か。、。、「。、。、ノ。、。、。、」。か。、。を。、。、、導。、。ける。。、。こと。、",
+  "era": "Latin decidere",
+  "etymology": {
+   "components": [
+    "de- (off)",
+    "caedere (to cut)"
+   ],
+   "original_statement": "From Latin dēcīdere, literally 'to cut off'."
+  },
+  "concept": "The cut of truth (「。。、白。か。、。、」。黒。か。、。、。、。、真実。か。、。、。、。偽（。いつわ）。。り。。、か。、。、。その。、。峻烈。な、。、。、。、「。。、。、。裁（。さば）。。、。き。、。、。、」。を。、。、。あらかじめ。、。、。指（。しめ）。。、。し。。、。て。、。、お。。ける。。、。理知。の、。、。。。光。、。、。、。、それは、。、。、。、混沌。を、。、。、一。、点の。、。、。刃（。は）。。、で。、。、。切り。、。裂（。さ。）。、。く。。、。ための。、。、。、。、特。、権。、)"
+ },
+ {
+  "id": "formalism",
+  "word": "Formalism",
+  "meaning": "形式主義、意味を。、。、。排（。はい）。。、。し。。、。記号。の。、。、。「。、。、。、舞（ま）。。、。い。。、。、」。、だけに。、。、理知。を。、。、託（。たく）。。、。す。。、潔。、。、さ。、",
+  "era": "Latin forma",
+  "etymology": {
+   "components": [
+    "forma (form / shape)"
+   ],
+   "original_statement": "The theory that mathematics is not a body of propositions representing an abstract sector of reality, but is much more akin to a game."
+  },
+  "concept": "The pure form (「。。、。何。か。、。、」。を。、。、。語。る。。、。こと。を。、。、。あえて。、。、。、。、。止（。よ）。。、。め。。、。ただ。。、。一。、。つの。、。、。、。「。。、。、。形（。Form）。、。、。、」。として。、。、。記号。を。、。、。。、。並（。なら）。。、。べ。。、。る。。、。、。ことの、。、。、美。しさ。、。、。、それは、。、。、。理知。が、。、。、。、意味。という。、。、。重（。お。）。、。も。、。、に。、。、。から。、。、。、。自ら。を、。、。、「。。、。、解。、放。、。、。、」。、。、。、した。。、。、。瞬。間。、。の、。、。。輝き。、)"
  }
 ];
