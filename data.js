@@ -370358,5 +370358,886 @@ const WORDS = [
 			]
 		},
 		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "epistemology_s",
+		"word": "Epistemology",
+		"meaning": "認識論（にんしきろん）",
+		"etymology": [
+			"Greek episteme (knowledge) + logos"
+		],
+		"concept": "Study of origin of knowledge",
+		"thinking": "「知っていること（Episteme）」の理。私たちは宇宙をどうやって知るのか。五感か、理性か、それとも直観か。知るという行為の足元を、懐疑という名の光で照らし出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "falsifiabilit",
+		"word": "Falsifiable",
+		"meaning": "反証可能性（はんしょうかのうせい）",
+		"etymology": [
+			"Latin falsus (false) + facere"
+		],
+		"concept": "Demarcation of science",
+		"thinking": "間違っていると「証明（Facere）」できる「可能性（Able）」。どんなに正しく見えても、実験によって否定される余地がなければ、それは科学ではない。批判という名の試練を自ら望む、科学の誇り高き貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "paradigm_shift",
+		"word": "Paradigm Sft",
+		"meaning": "パラダイム・シフト",
+		"etymology": [
+			"Greek paradeigma (pattern) + Shift"
+		],
+		"concept": "Fundamental change in base",
+		"thinking": "世界を見る「雛形（Paradigm）」が丸ごと「入れ替わる（Shift）」。地動説から天動説へ、ニュートンからアインシュタインへ。単なる進化ではなく、世界の『見え方』そのものが断絶的に書き換わる革命の瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "incommensura",
+		"word": "Incommensurab",
+		"meaning": "共約不可能（きょうやくふのう）性",
+		"etymology": [
+			"In- + Latin con- + metiri (to measure)"
+		],
+		"concept": "Uncomparable worldviews",
+		"thinking": "「共に（Con-）」「測る（Measure）」ことが「できない（In-）」。異なるパラダイムを信じる者同士は、同じ言葉を使っていても、実は違う宇宙を見ている。翻訳できない絶対的な断絶の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "underdetermin",
+		"word": "Underdeterm",
+		"meaning": "過少決定（かしょうけってい）",
+		"etymology": [
+			"Under + Latin de- + terminus (limit)"
+		],
+		"concept": "Data allows many theories",
+		"thinking": "証拠（データ）だけでは、一つの真理を「決定（Determine）」し切るには「足りない（Under）」。同じ夜空を見ても、無数の星座（理論）を描けてしまう。理論は常に、現実よりも自由で哀しい。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "scientific_re",
+		"word": "Sci Realism",
+		"meaning": "科学的実在論（じつざいろん）",
+		"etymology": [
+			"Latin res (thing/matter)"
+		],
+		"concept": "Science depicts reality",
+		"thinking": "科学が描く「電子」や「クォーク」は、単なる便利な記号ではなく、私たちの目に見えないだけで、本当にこの宇宙に「在る（Res）」のだという、知の誠実な信仰。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "instrumentali",
+		"word": "Instrumental",
+		"meaning": "道具主義（どうぐしゅぎ）",
+		"etymology": [
+			"Latin instruere (to build/prepare)"
+		],
+		"concept": "Science as a tool",
+		"thinking": "理論が「本当か」などどいうことは重要ではない。ただ、現象を予測し、世界を「構築（Instruere）」するための「道具（Instrument）」として役に立つかどうか。理性を『力』としてのみ捉える、乾いた知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "empiricism_sc",
+		"word": "Empiricism",
+		"meaning": "経験主義（けいけんしゅぎ）",
+		"etymology": [
+			"Greek empeiria (experience)"
+		],
+		"concept": "Knowledge from senses",
+		"thinking": "知の源はすべて「経験（Empeiria）」、つまり観察と実験にある。頭の中の理屈よりも、冷厳な事実の積み重ねを信じる、謙虚で粘り強い探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "rationalism_s",
+		"word": "Rationalism",
+		"meaning": "合理主義（ごうりしゅぎ）",
+		"etymology": [
+			"Latin ratio (reason)"
+		],
+		"concept": "Knowledge from pure reason",
+		"thinking": "世界を統べるのは「理性（Ratio）」である。観察という名の曖昧な感覚を越えて、数理的な論理の網だけで真理を掴み取ろうとする、知性の高慢な純粋さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "induction_log",
+		"word": "Induction",
+		"meaning": "帰納（きのう）",
+		"etymology": [
+			"Latin in- + ducere (to lead)"
+		],
+		"concept": "Generalizing from samples",
+		"thinking": "個別の事実から、普遍的な法則へと「導き（Duce）」「入れる（In-）」。何百羽の白いスワンを見ても、次のスワンが白いとは限らない。欠落を抱えながらも未知を予測する、危うき飛躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "deduction_log",
+		"word": "Deduction",
+		"meaning": "演繹（えんえき）",
+		"etymology": [
+			"Latin de- + ducere"
+		],
+		"concept": "Logical necessity",
+		"thinking": "確かな前提から、必然的な答えを「導き（Duce）」「出す（De-）」。前提が正しい限り、結論は絶対に間違わない。一点の曇りもない、水晶のような論理の階段。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "abduction_log",
+		"word": "Abduction",
+		"meaning": "仮説的（かせつてき）推論、アブダクション",
+		"etymology": [
+			"Latin ab- + ducere (to lead away)"
+		],
+		"concept": "Best explanation logic",
+		"thinking": "「脇へ（Ab-）」「導く（Duce）」。目の前の不思議な現象を、最もうまく説明できる「犯人（仮説）」を直感的に見つけ出す。探偵の如き、創造的な理性の跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "holism_quine_",
+		"word": "Confirm Holis",
+		"meaning": "確証（かくしょう）ホーリズム",
+		"etymology": [
+			"Greek holos (whole)"
+		],
+		"concept": "Theories tested as a whole",
+		"thinking": "理論は一羽の鳥ではない。全体が「一塊（Holos）」となって網（Web）を形成している。一つの実験で一つの法則が否定されるのではなく、システム全体のどこを削るかの選択を迫られる、重層的な真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "reductionism_",
+		"word": "Reductionism",
+		"meaning": "還元主義（かんげんしゅぎ）",
+		"etymology": [
+			"Latin re- + ducere (to lead back)"
+		],
+		"concept": "Explaining whole by parts",
+		"thinking": "複雑なものを、より単純な要素へと「連れ（Duce）」「戻す（Re-）」。生命を化学へ、化学を物理へと解体すれば、すべてが分かるという、要素への執念豊かな信頼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "emergence_sci",
+		"word": "Emergence",
+		"meaning": "創発（そうはつ）",
+		"etymology": [
+			"Latin e- + mergere (to dip/plunge)"
+		],
+		"concept": "New traits from complex wholes",
+		"thinking": "「潜っていたもの（Mergere）」が「外へ（E-）」飛び出す。個別の部品をいくら調べても予測できない、全体が集まった時にだけふわりと立ち上がる、新しい次元の秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "verification_a",
+		"word": "Verification",
+		"meaning": "検証（けんしょう）、確証",
+		"etymology": [
+			"Latin verus (true) + facere"
+		],
+		"concept": "Making sure it's true",
+		"thinking": "それが「真実（Verus）」であることを「証明（Facere）」しようとする。しかし、有限の証拠で無限の法則を支え切ることは、永遠の終わらない試練（アポリア）となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "demarcation_p",
+		"word": "Demarcation",
+		"meaning": "境界設定（きょうかいせってい）問題",
+		"etymology": [
+			"Latin de- + marcare (to mark)"
+		],
+		"concept": "Science vs Pseudo-science",
+		"thinking": "どこに科学と非科学の「印（Mark）」を付けるべきか。合理的な探求と、ただのまやかしの「線（境界）」を巡る、永遠に終わらない、そして最も熾烈な知の番。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "observation_ad",
+		"word": "Theory-laden",
+		"meaning": "理論（りろん）負荷性",
+		"etymology": [
+			"Theory + Old English lad_an (load)"
+		],
+		"concept": "Observation shaped by theory",
+		"thinking": "ありのままの「観察」など存在しない。私たちの瞳には、すでにあらかじめ信じている「理論」という名の「荷物（Load）」が積まれている。私たちは理論という名のメガネを通してしか、世界を見ることができない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "pseudo_sci_ad",
+		"word": "Pseudoscience",
+		"meaning": "擬似科学（ぎじかがく）",
+		"etymology": [
+			"Greek pseudos (false) + Science"
+		],
+		"concept": "False science",
+		"thinking": "科学の「貌（Scientia）」をしていながら、その内側は「嘘（Pseudos）」で塗り固められている。反証を拒み、批判を避け、甘い言葉で人々を惑わす、知性の影。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "heuristics_p",
+		"word": "Heuristics",
+		"meaning": "発見的方法（はっけんてきほうほう）",
+		"etymology": [
+			"Greek heuriskein (to find)"
+		],
+		"original_statement": "Mental shortcuts for problem solving.",
+		"concept": "The logic of discovery",
+		"thinking": "完璧な証明ではなく、どうすれば真理を「見つけられる（Heuriskein）」かという『コツ』。泥沼のような探究の中で、正しい方向を指し示す羅針盤の如き知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "normal_science",
+		"word": "Normal Sci",
+		"meaning": "通常科学（つうじょうかがく）",
+		"etymology": [
+			"Latin norma (square/rule)"
+		],
+		"concept": "Puzzle solving within paradigm",
+		"thinking": "「定規（Norma）」に則った、平穏な探求。確立されたパラダイムの中で、パズルを解くように知識を埋めていく、平和な日常としての科学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "anomaly_kuhn",
+		"word": "Anomaly",
+		"meaning": "アノマリー、変則事例（へんそくじれい）",
+		"etymology": [
+			"Greek a- + homalos (even/flat)"
+		],
+		"concept": "Counter-evidence to paradigm",
+		"thinking": "平穏な平地（Homalos）に現れた、説明できない「歪み（A-）」。既存の理論ではどうしても説明できない小さな事実。それが静かに積もり、やがてパラダイムそのものを崩壊させる革命の火種となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "teleology_sci",
+		"word": "Teleology",
+		"meaning": "目的論（もくてきろん）",
+		"etymology": [
+			"Greek telos (end/purpose) + logos"
+		],
+		"concept": "Goal-oriented explanation",
+		"thinking": "物事は「目的（Telos）」に向かって動いているという考え。なぜではなく『何のために』。近代科学が一度は捨て去り、しかし生命や宇宙の究極の問いにおいて、密やかに蘇り続ける誘惑。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "determinism_sc",
+		"word": "Determinism",
+		"meaning": "決定論（けっていろん）",
+		"etymology": [
+			"Latin de- + terminus (limit)"
+		],
+		"concept": "Every event necessitated",
+		"thinking": "すべての未来は、過去の原因によってあらかじめ「限界（Terminus）」を引かれ、「決定」されている。自由意志という名の揺らぎを認めない、冷徹な数理的な宿命論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "probability_sc",
+		"word": "Probabilities",
+		"meaning": "確率（かくりつ）の理（ことわり）",
+		"etymology": [
+			"Latin probabilis (provable/likely)"
+		],
+		"concept": "Science of chance",
+		"thinking": "「正しいと言える、かも（Probable）」しれないことの程度。不確実な世界を、数という名の綱で縛り付け、カオスの中に統計という名の『秩序の島』を浮かべる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "stochastic_p",
+		"word": "Stochastic",
+		"meaning": "確率的（かくりつてき）、推測的",
+		"etymology": [
+			"Greek stokhos (aim/guess)"
+		],
+		"concept": "Random but structured",
+		"thinking": "「的（Stokhos）」を狙いながらも、風に吹かれて揺れる。一つ一つの動きはデタラメ（ランダム）に見えても、膨大な数が重なれば、一つの確かな予言（分布）へと収束していく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "bayesian_inf_a",
+		"word": "Bayesian Inf",
+		"meaning": "ベイズ推論（すいろん）",
+		"etymology": [
+			"Bayes"
+		],
+		"concept": "Updating beliefs with evidence",
+		"thinking": "情報は固定された真理ではない。新しい事実に触れるたびに、昨日の「確信」をアップデートし続ける。終わりのない学びの中で、少しずつ真実に近づいていくための、しなやかな理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "objective_p",
+		"word": "Objectivity",
+		"meaning": "客観性（きゃっかんせい）",
+		"etymology": [
+			"Latin ob- (against) + jacere (to throw)"
+		],
+		"concept": "Detached observation",
+		"thinking": "自分の前に「投げ出された（Obj-ect）」もの。私の想いも、祈りも、恐怖も関係なく、冷徹にそこにあり続ける世界の貌。個人の意志を超えた、普遍の地平。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "subjective_sc",
+		"word": "Subjectivity",
+		"meaning": "主観性（しゅかんせい）",
+		"etymology": [
+			"Latin sub- (under) + jacere"
+		],
+		"concept": "Individual observation",
+		"thinking": "世界から「下に投げ出された（Sub-ject）」私という器を通してしか、世界を見ることはできない。真理は常に、私の瞳の色、私の言語の皺によって、密やかに着色されている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "constructivism",
+		"word": "Constructivis",
+		"meaning": "構成主義（こうせいしゅぎ）",
+		"etymology": [
+			"Latin con- + struere (to build)"
+		],
+		"concept": "Knowledge as social build",
+		"thinking": "真理は「発見される」のではなく、私たちが手を取り合って「共に（Con-）」「築き上げる（Struere）」ものだという考え。世界は、私たちの合意（言葉）というレンガで作られた、壮大な劇場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "pluralism_sci",
+		"word": "Pluralism",
+		"meaning": "多元論（たげんろん）",
+		"etymology": [
+			"Latin plus (more)"
+		],
+		"concept": "Many valid ways of knowing",
+		"thinking": "「ただ一つ（One）」の正解はない。世界を語る言葉は「もっと（Plus）」ある。物理学、心理学、社会学。異なるレンズが映し出すそれぞれの真理が、重なり合って宇宙の豊かさを織り成す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "monism_sci_ad",
+		"word": "Monism",
+		"meaning": "一元論（いちげんろん）",
+		"etymology": [
+			"Greek monos (single)"
+		],
+		"concept": "One substance or principle",
+		"thinking": "すべてのカオスを「ただ一つ（Monos）」の原理に押し込める。精神も物質も、最後は一つの数式、一つの『神』に辿り着くという、究極の統合への情熱。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "dualism_sci_a",
+		"word": "Dualism",
+		"meaning": "二元論（にげんろん）",
+		"etymology": [
+			"Latin duo (two)"
+		],
+		"concept": "Mind vs Body",
+		"thinking": "世界は「二つ（Duo）」の相容れない実体から成る。考える心と、広がる肉体。決して混ざり合わない二つの貌が、いかにしてこの一人の人間の中で出会うのかという、永遠の謎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "materialism_s",
+		"word": "Materialism",
+		"meaning": "唯物論（ゆいぶつろん）",
+		"etymology": [
+			"Latin materia (matter/timber)"
+		],
+		"concept": "Only matter exists",
+		"thinking": "「物質（Materia）」こそが、この宇宙のたった一つの本質。心も、愛も、魂も、すべては脳という名の物質が奏でる複雑なさざなみに過ぎないという、冷徹な一貫性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "idealism_sci",
+		"word": "Idealism",
+		"meaning": "観念論（かんねんろん）",
+		"etymology": [
+			"Greek idea (form/look)"
+		],
+		"concept": "Mind creates world",
+		"thinking": "「形（Idea）」こそが真実であり、物質はその影に過ぎない。世界は私たちの意識が描き出した壮大な夢であり、心の外には何も無いという、孤独で美しい究極の鏡像。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "phenomenologis",
+		"word": "Phenomenol",
+		"meaning": "現象学（げんしょうがく）的考察",
+		"etymology": [
+			"Greek phainomenon (appearance) + logos"
+		],
+		"concept": "As it appears to consciousness",
+		"thinking": "理屈による解釈を一旦捨て、「立ち現れている（Phainomenon）」そのものをありのままに捉える。自分という意識の窓に、世界がどう映り、どう響いているかの、誠実な記述。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "essentialism_",
+		"word": "Essentialism",
+		"meaning": "本質主義（ほんしつしゅぎ）",
+		"etymology": [
+			"Latin essentia (to be)"
+		],
+		"concept": "Fixed core traits",
+		"thinking": "物事には、それがそれであるための、不変の「本質（Essentia）」が宿っている。表面の変化に惑わされず、中心にある『永遠の核』を掴もうとする、古典的で強固な探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "existentialis",
+		"word": "Existential",
+		"meaning": "実存主義（じつぞんしゅぎ）",
+		"etymology": [
+			"Latin ex- + sistere (to stand out)"
+		],
+		"concept": "Existence before essence",
+		"thinking": "あらかじめ決められた本質などない。ただ、世界に「外へと（Ex-）」「立たされている（Sistere）」という事実。自分は何者であるかを、自らの行為で一歩ずつ決めていく、自由という名の刑罰。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "deconstructio",
+		"word": "Deconstruct",
+		"meaning": "脱構築（だつこうちく）",
+		"etymology": [
+			"Latin de- + con- + struere"
+		],
+		"concept": "Breaking down internal logic",
+		"thinking": "完璧に見える理論（構築/Structure）の足元にある、微かな矛盾や自己崩壊の兆しに「触れる（De-）」。壊すのではなく、内側から「解きほぐし」、その脆さと美しさを暴き出す、不敵な知勇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "hermeneutic_s",
+		"word": "Hermeneutic",
+		"meaning": "解釈学（かいしゃくがく）的循環",
+		"etymology": [
+			"Greek Hermes (interpreter)"
+		],
+		"concept": "Part/whole cycle",
+		"thinking": "全体を理解するには部分を知り、部分を知るには全体を見なければならない。理解という名の「循環」から抜け出すことはできないが、回るたびに深みへと潜っていく、知の螺旋階段。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "semiotics_sci",
+		"word": "Semiotics",
+		"meaning": "記号論（きごうろん）",
+		"etymology": [
+			"Greek semeion (sign)"
+		],
+		"concept": "Study of signs",
+		"thinking": "宇宙はすべて「記号（Semeion）」で書かれている。何を指し示しているのか、なぜそんな貌をしているのか。意味が産まれるその瞬間のメカニズムを、冷徹な分析で解き明かす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "pragmatism_sc",
+		"word": "Pragmatism",
+		"meaning": "実用主義（じつようしゅぎ）",
+		"etymology": [
+			"Greek pragma (deed/act)"
+		],
+		"concept": "Truth as what works",
+		"thinking": "真理かどうかよりも、それが実際の「行為（Pragma）」にどのような良い影響をもたらすか。真実とは、私たちの生を豊かにし、より良く歩ませるための、有用な『道具』の名である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "fallibilism_a",
+		"word": "Fallibilism",
+		"meaning": "可謬主義（かびゅうしゅぎ）",
+		"etymology": [
+			"Latin fallere (to deceive)"
+		],
+		"concept": "All knowledge could be wrong",
+		"thinking": "どんな確信も「間違っている（Fallere）」可能性がある。私たちは常に「間違いうる存在」であり、だからこそ他者の言葉に耳を傾け、修正し続けなければならないという、謙虚な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "curiosity_sci",
+		"word": "Pure Inquiry",
+		"meaning": "純粋探究（じゅんすいたんきゅう）",
+		"etymology": [
+			"Latin in- + quaerere (to seek)"
+		],
+		"concept": "Seeking for sake of seeking",
+		"thinking": "役に立つからではない。ただ、知りたいから。「内側から（In-）」「求める（Quaerere）」その衝動こそが、暗闇を照らす知性の最初の火。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真理の輪郭を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"科学哲学と探究の論理の深淵へ。"
+			]
+		},
+		"example": "The philosophy of science examines the foundations of knowledge."
 	}
 ];
