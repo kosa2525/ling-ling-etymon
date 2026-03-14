@@ -329032,5 +329032,243 @@ const WORDS = [
 				"真理の核心へ。"
 			]
 		}
+	},
+	{
+		"id": "redundancy_words",
+		"word": "Redundancy",
+		"meaning": "冗長性、余剰、ゆとり",
+		"era": "Latin re- + unda",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"unda (wave)"
+			],
+			"original_statement": "From Latin redundantia 'overflowing', from re- 'again' + unda 'wave'."
+		},
+		"concept": "Overflowing waves (溢れ出す波、守るためのゆとり)",
+		"thinking": "「再び（Re）」「波立つ（Unda）」。情報の中に、あえて同じ内容を何度も忍び込ませること。それは無駄なのではありません。ノイズや障害で一部が壊れても、全体を復元できるように用意された、宇宙の優しい『ゆとり（遊び）』なのです。",
+		"aftertaste": "少しの冗長（ゆとり）が、システム（人生）を強固に守り抜きます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "bandwidth_words",
+		"word": "Bandwidth",
+		"meaning": "帯域幅、余裕、キャパシティ",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"band (strip / ribbon)",
+				"width (broadness)"
+			],
+			"original_statement": "The width of the frequency band; now commonly used for informational capacity."
+		},
+		"concept": "The width of the ribbon (リボンの幅、通せる情報の豊かさ)",
+		"thinking": "「帯（Band）」の「幅（Width）」。一度にどれだけの魂の声（データ）を運べるか。それは単なる通信速度ではなく、あなたが一度に世界からどれだけの豊かさを、そして誰かの熱量を受け取れるかという、心の開口部（キャパシティ）の広さのことです。",
+		"aftertaste": "心のチャンネルを広げて、もっと多くの『美（情報）』を受け取ってみて。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "latency_words",
+		"word": "Latency",
+		"meaning": "潜伏性、遅延、待ち時間",
+		"era": "Latin latere",
+		"etymology": {
+			"components": [
+				"latere (to lie hidden / concealed)"
+			],
+			"original_statement": "From Latin latentem 'hidden / concealed / secret'."
+		},
+		"concept": "The state of lying hidden (潜み隠れる時間、現れるまでの沈黙)",
+		"thinking": "「隠れる（Late）」。原因が起きてから、結果が目に見える形で現れるまでの『空白の時間』。答えはまだ届かなくても、光は確かにその深淵（遅延）を渡っています。待ち時間は無駄ではなく、真実が熟成するための必要な沈黙です。",
+		"aftertaste": "答えが届くまでの『待ち時間』。それも大切な人生の一幕です。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "fidelity_words",
+		"word": "Fidelity",
+		"meaning": "忠実、誠実、再現度",
+		"era": "Latin fides",
+		"etymology": {
+			"components": [
+				"fides (faith / trust / belief)"
+			],
+			"original_statement": "From Latin fidelitatem 'faithfulness / adherence', from fides 'faith'."
+		},
+		"concept": "The state of faith (信じることの正しさ、ありのままへの誠実)",
+		"thinking": "「信頼（Fides）」。もとの形や響きを、一切損なうことなく、ありのままに伝え切ること。それは単なる技術ではなく、伝達の過程でノイズを排し、真実を護り抜こうとする、情報に対する『誠実さ（信念）』の現れです。",
+		"aftertaste": "何ごとも、ありのままに、誠実に（High Fidelity）。その姿勢が信頼を生みます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "compression_words",
+		"word": "Compression",
+		"meaning": "圧縮、短縮",
+		"era": "Latin com- + premere",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"premere (to press)"
+			],
+			"original_statement": "From Latin compressionem, from comprimere 'to squeeze together'."
+		},
+		"concept": "Squeezing together into oneness (共に押し固める、本質の凝縮)",
+		"thinking": "「共に（Com）」「押し固める（Prem）」。余計な情報を削ぎ落とし、そのエッセンス（本質）だけを極限まで凝縮すること。短くシンプルな言葉ほど、その中には語り尽くせないほど巨大な宇宙の熱量が詰め込まれている。詩は究極の情報の圧縮です。",
+		"aftertaste": "言葉を短くすることで、一言一言の『重み』は増していきます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "cryptography_words",
+		"word": "Cryptography",
+		"meaning": "暗号、秘匿術",
+		"era": "Greek kryptos + graphein",
+		"etymology": {
+			"components": [
+				"kryptos (hidden)",
+				"graphein (to write)"
+			],
+			"original_statement": "From Greek kryptos 'hidden' + graphein 'to write'."
+		},
+		"concept": "The writing of secrets (秘めたる記述、選ばれし者への伝言)",
+		"thinking": "「隠された（Kryptos）」ものを「書く（Graph）」。大切なものを、それを解する心を持つ者にだけ届ける。誰にでも通じる言葉ではなく、二人だけの秘密のコード。それは情報の保護であると同時に、深い親密さを護るための『聖域の鍵』でもあります。",
+		"aftertaste": "自分の中に、誰にも踏み込めない『秘密の部屋（暗号）』を持っていていい。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "decipher_words",
+		"word": "Decipher",
+		"meaning": "解読する、判読する",
+		"era": "Latin de- + Arabic sifr",
+		"etymology": {
+			"components": [
+				"de- (reversing)",
+				"sifr (zero / empty)"
+			],
+			"original_statement": "From de- + cipher (from Arabic sifr 'zero / empty')."
+		},
+		"concept": "Reversing the zero (ゼロを覆すこと、隠された意味の開花)",
+		"thinking": "「ゼロ（Sifr：無、中身のない記号）」の状態を「逆転（De-）」させて、その奥に隠された熱いメッセージを読み取ること。不可解なこの世界の出来事を、一つずつ意味のある言葉へと解きほぐしていく、知的な冒険の始まりです。",
+		"aftertaste": "どんな複雑な出来事（暗号）も、諦めなければ必ず読み解くことができます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "qubit_words",
+		"word": "Qubit",
+		"meaning": "量子ビット、キュービット",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"Quantum",
+				"bit (binary digit)"
+			],
+			"original_statement": "Portmanteau of quantum + bit."
+		},
+		"concept": "The ghost of information (幽霊のような情報、重ね合わせの最小単位)",
+		"thinking": "0でも1でもある、あるいは0でも1でもない、その間に漂う無限の重ね合わせ（ポテンシャル）。一つの答えに固定される前の、自由奔放な情報の種子。固定観念に縛られない、ありとあらゆる自分を同時に生きる、最強の可能性の単位です。",
+		"aftertaste": "白黒つけなくていい。その間の『重ね合わせ』にこそ、真実の輝きがあります。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "teleportation_info",
+		"word": "Quantum Teleportation",
+		"meaning": "量子テレポーテーション",
+		"era": "Greek tele- + Latin portare",
+		"etymology": {
+			"components": [
+				"tele- (far off / at a distance)",
+				"portare (to carry)"
+			],
+			"original_statement": "Transfer of quantum information from one location to another using entanglement."
+		},
+		"concept": "Carrying far off instantly (遠くへ一瞬で運ぶ、場所を超越した共鳴)",
+		"thinking": "「遠くへ（Tele）」、「運ぶ（Port）」。中身を物理的に運ぶのではなく、その『状態（魂の形）』だけを、距離を越えて一瞬で相手へと転写すること。想いが届くのに時間は必要ありません。共鳴していれば、あなたの願いは即座に相手へ『転送』されます。",
+		"aftertaste": "想いは、瞬きよりも早く、大切な人の元へ届く。そう信じて。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "information_entropy",
+		"word": "Shannon Entropy",
+		"meaning": "シャノン・エントロピー、情報の不確かさ",
+		"era": "Named after Claude Shannon",
+		"etymology": {
+			"components": [
+				"Claude Shannon (Father of Information Theory)",
+				"entropy"
+			],
+			"original_statement": "A measure of the average information content or surprise in a message."
+		},
+		"concept": "The measure of surprise (驚きの量、予測不能な情報の豊かさ)",
+		"thinking": "何が起きるかわからない『不確かさ』。次にどんな言葉が来るか予測できない時ほど、そのメッセージには巨大な情報（驚き）が詰まっています。予定調和を壊すサプライズこそが、世界の『エントロピー』を高め、物語を面白く書き換える燃料となります。",
+		"aftertaste": "予測できないこと（驚き）を楽しんで。それが、あなたの人生の情報密度を高めます。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
 	}
 ];
