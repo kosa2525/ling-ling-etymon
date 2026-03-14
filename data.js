@@ -357660,5 +357660,870 @@ const WORDS = [
 			]
 		},
 		"example": "Society is complex."
+	},
+	{
+		"id": "symbolic_logic",
+		"word": "Symbolic Logic",
+		"meaning": "記号（きごう）論理学",
+		"etymology": [
+			"Greek symbolon",
+			"logos"
+		],
+		"concept": "Calculating thought",
+		"thinking": "言葉の曖昧さを排し、思考を純粋な「記号（Symbolon）」へと抽象化する。計算機のように真偽を判定する、理性の究極の形式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "proposition_sys",
+		"word": "Proposition",
+		"meaning": "命題（めいだい）",
+		"etymology": [
+			"Latin pro- + ponere (to place before)"
+		],
+		"concept": "The statement of truth",
+		"thinking": "「前に（Pro-）」「置かれた（Ponere）」もの。真か偽か、そのどちらか一方を峻烈に指し示す、世界の断片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "predicate_logic",
+		"word": "Predicate",
+		"meaning": "述語（じゅつご）論理",
+		"etymology": [
+			"Latin praedicare (to declare)"
+		],
+		"concept": "Naming properties",
+		"thinking": "「宣言する（Praedicare）」こと。対象がどのような性質を持つのかを記述し、存在の理を記号の網で捕らえる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "quantification",
+		"word": "Quantifier",
+		"meaning": "量子（りょうし）、量化子",
+		"etymology": [
+			"Latin quantus (how much)"
+		],
+		"original_statement": "Operators like 'for all' or 'there exists'.",
+		"concept": "Specifying scope",
+		"thinking": "「どれほどの（Quantus）」範囲か。すべてか、あるいはたった一つか。真理の及ぶ境界を定める、論理の門章。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "logical_connect",
+		"word": "Connective",
+		"meaning": "論理結合子（ろんりけつごうし）",
+		"etymology": [
+			"Latin con- + nectere (to bind)"
+		],
+		"concept": "Glue of thought",
+		"thinking": "「共に（Con-）」「結びつける（Nectere）」もの。かつ、あるいは、ならば。単純な命題を織り成し、複雑な宇宙の論理を組み上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "truth_value_adv",
+		"word": "Truth Value",
+		"meaning": "真理値（しんりち）",
+		"etymology": [
+			"Old English treowth",
+			"Latin valere"
+		],
+		"concept": "The polarity of logic",
+		"thinking": "「真」か「偽」か。論理の宇宙において、あらゆる存在が持つ、最も根源的で冷徹な二値の属性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "truth_table_ls",
+		"word": "Truth Table",
+		"meaning": "真理値表（しんりちひょう）",
+		"etymology": [
+			"Truth",
+			"Latin tabula"
+		],
+		"concept": "Exhaustive map of logic",
+		"thinking": "あらゆる可能性の組み合わせを「板（Tabula）」に刻む。論理の迷宮を抜け出すための、完璧な全景図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "tautology_logic",
+		"word": "Tautology",
+		"meaning": "トートロジー、同語反復",
+		"etymology": [
+			"Greek tauto (the same) + logos"
+		],
+		"concept": "Universal truth",
+		"thinking": "「同じ（Tauto）」ことを語る。いかなる世界においても、常に『真』であり続ける、揺るぎないが中身のない真理の鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "contradiction_l",
+		"word": "Contradiction",
+		"meaning": "矛盾（むじゅん）",
+		"etymology": [
+			"Latin contra- + dicere (to speak against)"
+		],
+		"concept": "Collision of truth",
+		"thinking": "「反対に（Contra-）」「言う（Dicere）」。同時に成立し得ない二つの声。論理の宇宙を崩壊させる、不可能なノイズ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "satisfiability",
+		"word": "Satisfiability",
+		"meaning": "充足可能性（じゅうそくかのうせい）",
+		"etymology": [
+			"Latin satis (enough) + facere (to make)"
+		],
+		"concept": "Possibility of truth",
+		"thinking": "命題が真になるような世界の貌が、少なくとも一つ「作れる（Satis-facere）」かどうか。迷宮に出口があるかの問い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "axiom_system",
+		"word": "Axiom",
+		"meaning": "公理（こうり）",
+		"etymology": [
+			"Greek axios (worthy)"
+		],
+		"concept": "Unproven foundation",
+		"thinking": "証明を必要としない、最も「価値ある（Axios）」前提。思考のピラミッドの最下層に横たわる、動かぬ巨石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "inference_rule",
+		"word": "Inference",
+		"meaning": "推論（すいろん）",
+		"etymology": [
+			"Latin in- + ferre (to carry)"
+		],
+		"concept": "Carrying truth forward",
+		"thinking": "既知の真理から未知の結論へ、「運び込む（In-ferre）」。論理の鎖を一つずつ繋ぎ、思考を前進させる営み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "deduction_logic",
+		"word": "Deduction",
+		"meaning": "演繹（えんえき）",
+		"etymology": [
+			"Latin de- (down) + ducere (to lead)"
+		],
+		"concept": "Leading down from rule",
+		"thinking": "普遍的な理から、特殊な結論を「引き出す（De-ducere）」。数学的な、1ミリの狂いも許さぬ必然の下り階段。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "induction_logic",
+		"word": "Induction",
+		"meaning": "帰納（きのう）",
+		"etymology": [
+			"Latin in- + ducere"
+		],
+		"concept": "Leading into general rule",
+		"thinking": "断片的な事実から、普遍的な理を「導き入れる（In-ducere）」。不確実だが、新しい世界を発見するための跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "syllogism_arist",
+		"word": "Syllogism",
+		"meaning": "三段論法（さんだんろんぽう）",
+		"etymology": [
+			"Greek syn- + logos"
+		],
+		"concept": "Together-reasoning",
+		"thinking": "二つの理を「共に（Syn-）」置くことで、第三の理を産む。古典期から続く、論理の最も美しい三位一体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "soundness_logic",
+		"word": "Soundness",
+		"meaning": "健全性（けんぜんせい）",
+		"etymology": [
+			"Old English sund"
+		],
+		"concept": "Truth of the process",
+		"thinking": "論理の運びが「健やか（Sund）」であること。偽りから偽りへではなく、真実からのみ真実を導くという誠実さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "completeness_ls",
+		"word": "Completeness",
+		"meaning": "完全性（かんぜんせい）",
+		"etymology": [
+			"Latin complere (to fill up)"
+		],
+		"concept": "Filling the space of truth",
+		"thinking": "あらゆる真理を、漏らさず「満たす（Com-plere）」ことができるか。証明できることと、真実であることが一致する美しい調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "decidability_ls",
+		"word": "Decidability",
+		"meaning": "決定可能性（けっていかのうせい）",
+		"etymology": [
+			"Latin de- (off) + caedere (to cut)"
+		],
+		"concept": "Resolution of truth",
+		"thinking": "有限の時間で、真偽を「断ち切る（Decide = De-caedere）」ことができるか。答えが出るという保証。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "formal_system",
+		"word": "Formal System",
+		"meaning": "形式体系（けいしきたいけい）",
+		"etymology": [
+			"Latin forma (shape)"
+		],
+		"concept": "Meaningless structure",
+		"thinking": "「形（Forma）」だけを抜き出したゲーム。意味を排し、ただルールに従って記号を操ることで、思考そのものの物理を暴く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "metalogic_ls",
+		"word": "Metalogic",
+		"meaning": "メタ論理学",
+		"etymology": [
+			"Greek meta (beyond)"
+		],
+		"concept": "Beyond the logic",
+		"thinking": "論理を使って、論理「そのもの（Meta-）」について考察する。舞台の上から客席へと降り、物語の構造を変える視座。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "calculus_logical",
+		"word": "Calculus",
+		"meaning": "計算（けいさん）、論理計算",
+		"etymology": [
+			"Latin calculus (pebble)"
+		],
+		"concept": "Pebble-counting thought",
+		"thinking": "かつて「小石（Calculus）」を並べて数えたように、論理もまた正確な手続きとして実行できるという冷徹な確信。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "well_formed_fm",
+		"word": "Well-formed Formula",
+		"meaning": "論理式（ろんりしき）",
+		"etymology": [
+			"Formula (little shape)"
+		],
+		"concept": "Grammatically correct logic",
+		"thinking": "論理の宇宙において、意味を成す最小の「貌（Formula）」。正しい文法で綴られた、思考の断片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "denotation_logic",
+		"word": "Denotation",
+		"meaning": "外延（がいえん）",
+		"etymology": [
+			"Latin de- + notare (to mark)"
+		],
+		"concept": "The set of objects marked",
+		"thinking": "言葉が指し示す現実の「印（Note）」が付けられた対象のすべて。名指しされた者たちの集合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "connotation_ls",
+		"word": "Connotation",
+		"meaning": "内包（ないほう）",
+		"etymology": [
+			"Latin con- + notare"
+		],
+		"concept": "The meaning-marks together",
+		"thinking": "言葉の中に「共に（Con-）」刻まれた「印（Note）」。その名指しが成立するための、本質的な性質や定義の輝き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "model_theory_ls",
+		"word": "Model Theory",
+		"meaning": "モデル理論",
+		"etymology": [
+			"Latin modulus (measure)"
+		],
+		"concept": "Interpretation by measure",
+		"thinking": "抽象的な数式という「雛形（Modulus）」に、具体的な世界を流し込み、そこで何が真理になるかを問う理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "proof_theory_ls",
+		"word": "Proof Theory",
+		"meaning": "証明論（しょうめいろん）",
+		"etymology": [
+			"Latin probare (to test)"
+		],
+		"concept": "The ritual of testing",
+		"thinking": "真理であることをどのように「試す（Probare）」か。その手続きそのものを研究対象とする、厳格な探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "godel_incomplet",
+		"word": "Gödels Theorem",
+		"meaning": "ゲーデルの不完全性定理",
+		"etymology": [
+			"Gödel"
+		],
+		"concept": "The limits of truth",
+		"thinking": "いかなる体系も、それ自体の正しさを自ら証明することはできない。理性の城壁そのものに空いた、宿命的な穴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "tarski_truth",
+		"word": "Tarski Truth",
+		"meaning": "タルスキの真理定義",
+		"etymology": [
+			"Tarski"
+		],
+		"concept": "Recursive truth",
+		"thinking": "「『雪は白い』は、雪が白いとき、かつそのときに限り真である」。言葉と現実の奇妙で完璧な一致を形式化する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "lambda_calculus",
+		"word": "Lambda Calc",
+		"meaning": "ラムダ計算",
+		"etymology": [
+			"Greek lambda"
+		],
+		"concept": "Universal computation",
+		"thinking": "「関数（変換）」こそが世界の根源。たった一つの記号から、あらゆる計算を組み上げる、純粋数学の心臓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "recursive_func",
+		"word": "Recursion",
+		"meaning": "再帰（さいき）",
+		"etymology": [
+			"Latin re- (back) + currere (to run)"
+		],
+		"concept": "Running back into self",
+		"thinking": "自分が自分を呼び出し、「後ろへ（Re-）」「駆ける（Currere）」。鏡合わせの無限の中から、有限の真実を産み落とす奇跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "intuitionism_ls",
+		"word": "Intuitionism",
+		"meaning": "直観主義（ちょっかんしゅぎ）",
+		"etymology": [
+			"Latin intueri (to look at)"
+		],
+		"concept": "Constructive existence",
+		"thinking": "「内側を見る（Intueri）」。証明（構成）できないものは、真理とは認めない。人間の限界を誠実に見据えた、峻厳な論理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "law_excluded_mid",
+		"word": "Excluded Middle",
+		"meaning": "排中律（はいちゅうりつ）",
+		"etymology": [
+			"Exclude + Middle"
+		],
+		"concept": "The binary world",
+		"thinking": "「中間（Middle）」を「除外（Exclude）」する。真か偽か、グレーゾーンを許さない冷酷な世界の掟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "fuzzy_logic_ls",
+		"word": "Fuzzy Logic",
+		"meaning": "ファジィ論理",
+		"etymology": [
+			"Fuzzy (blurred)"
+		],
+		"concept": "Logic of the blurred",
+		"thinking": "「ぼやけた（Fuzzy）」境界。真か偽かの間にある、無数のグラデーションを掬い取る、柔らかな理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "modal_logic_ls",
+		"word": "Modal Logic",
+		"meaning": "様相（ようそう）論理",
+		"etymology": [
+			"Latin modus (mode/way)"
+		],
+		"concept": "The way of being",
+		"thinking": "「あり方（Modus）」。必然か、可能か。現実を超えて「あり得た世界」を論じる、多層的な思考の翼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "possible_worlds",
+		"word": "Possible World",
+		"meaning": "可能世界（かのうせかい）",
+		"etymology": [
+			"Possible + World"
+		],
+		"concept": "Alternate realities",
+		"thinking": "「あり得たかもしれない」無数の別の世界。それらを論理の網で繋ぎ、必然と偶然の境目を測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "deontic_logic",
+		"word": "Deontic Logic",
+		"meaning": "義務（ぎむ）論理",
+		"etymology": [
+			"Greek deon (that which is binding)"
+		],
+		"concept": "Logic of the 'ought'",
+		"thinking": "「拘束されるべき（Deon）」こと。禁止、許可、義務。正しさを超えて、善悪の理を形式化する試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "epistemic_logic",
+		"word": "Epistemic",
+		"meaning": "認識（にんしき）論理",
+		"etymology": [
+			"Greek episteme (knowledge)"
+		],
+		"concept": "Logic of knowing",
+		"thinking": "「知っている（Episteme）」ということ自体を論理の対象とする。誰が何を知っているかという迷宮を解き明かす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "paraconsistent",
+		"word": "Paraconsist",
+		"meaning": "超一貫性（ちょういっかんせい）論理",
+		"etymology": [
+			"Greek para- (beside) + Consistent"
+		],
+		"concept": "Tolerating contradiction",
+		"thinking": "矛盾を「隣（Para-）」に置いたまま、全体を崩壊させずに論理を続ける。カオスを抱擁する強靭な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "higher_order_ls",
+		"word": "Higher-order",
+		"meaning": "高（こう）階述語論理",
+		"etymology": [
+			"Higher + Order"
+		],
+		"concept": "Logic of sets of sets",
+		"thinking": "個体だけでなく、性質そのものを語る。抽象の階段をもう一歩登り、世界の構造をより深く抉り出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "sequent_calculus",
+		"word": "Sequent Calc",
+		"meaning": "シーケント計算",
+		"etymology": [
+			"Latin sequi (to follow)"
+		],
+		"concept": "Flow of deduction",
+		"thinking": "論理がどのように「次へと続く（Sequi）」か。証明の構造を、最も美しく対象化するための形式美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "natural_deductic",
+		"word": "Natural Deduc",
+		"meaning": "自然（しぜん）演繹",
+		"etymology": [
+			"Natural",
+			"Deduction"
+		],
+		"concept": "The innate logic",
+		"thinking": "人間が本来持っている、ごく当たり前の推論の進め方。作為を排し、魂の呼吸と一致させた論理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "boolean_algebra",
+		"word": "Boolean",
+		"meaning": "ブール代数",
+		"etymology": [
+			"Boole"
+		],
+		"concept": "The zero-one universe",
+		"thinking": "0と1。一切の無駄を削ぎ落とした、デジタル世界の心臓となる論理の筋肉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
+	},
+	{
+		"id": "category_theory",
+		"word": "Category Theo",
+		"meaning": "圏論（けんろん）",
+		"etymology": [
+			"Greek kategorein (to accuse/categorize)"
+		],
+		"concept": "The ultimate abstraction",
+		"thinking": "中身ではなく「関係（射）」こそがすべて。数学という広大な海にあるすべての島（構造）を、一つの地図で結ぶ究極のメタ言語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の刃を研ぎ澄まして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"記号論理学の深淵へ。"
+			]
+		},
+		"example": "The proof was logically sound."
 	}
 ];
