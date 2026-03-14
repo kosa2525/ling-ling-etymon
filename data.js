@@ -323644,5 +323644,88 @@ const WORDS = [
    "original_statement": "A distortion of a periodic one-dimensional modern atomic string that creates a gap at the Fermi surface."
   },
   "concept": "The broken line (「。。、。、完璧。、。、」。な、。、。、。、一。、。、。つの。、。、。、。線。が。、。、あえて。、。、。、。美。しき。、。、。、「。。、。、。、。歪（。ゆ。が）。。、。み。。、。、。、」。を。、。、。、。選（。えら）。。、。ぶ。。、。、ことで、。、。、。自らの。、。、。、。魂。を。、。、。、。、。守（。まも）。。、。り。。、。抜（。ぬ）。。、。く。。、。、一。、。つの。、。、。、。理知。、。それは、。、。、。、金属。が、。、。、。、不。意に。、。、。絶。、。縁。、。へと、。、。、堕（お。）。。、。ちる。。、。、時の、。、。。、。峻烈な。、。、。、祈。、。、。り。、)"
+ },
+ {
+  "id": "mathematical-kernel",
+  "word": "Kernel",
+  "meaning": "核、。、。写（。うつ）。。、。した。ときに。、。、。無（。む）。。、。へと。、。帰（。かえ）。。、。る。。、。純粋な。、。、。犠（。ぎ）。。、。牲。、。、。その中。にこそ、。、。、真実。が。、。ひっそり。と、。。、潜む。、",
+  "era": "Old English cyrnel",
+  "etymology": {
+   "components": [
+    "cyrnel (seed / pip)"
+   ],
+   "original_statement": "In algebra, information that is lost when mapped to another structure."
+  },
+  "concept": "The seed in void (「。。、すべて。を。、。、」。捧（ささ）。。、。げて。。、。、。「。。、。、零（。ぜ。ろ）。、。、。、」。へと。、。、還（かえ）。。、。る。。、。ことで、。、。、逆。に。、。、。その。。、。、。理知。の、。奥底に。、。、。ゆ。る。ぎ。。、。ない。。、。一。、。つの。、。、。、。、「。。、。、種。子（たね）。、。、。、」。を。、。、。、見出す。。、。、こと。、。、。、それは、。、。、。、理知。が、。、。、。、沈。、黙。、。、。の中に。、。、。ひっそり。と、。。、。、遺（。のこ）。。、。した。。、。、。魂。、。、。、の、。、。原。、点。、)"
+ },
+ {
+  "id": "cokernel",
+  "word": "Cokernel",
+  "meaning": "余核、。、。写（。うつ）。。、。された。。、。先において。、。、。どうしても。、。、。、辿（たど）。。、。り。。、。着（つ）。。、。け。ぬ。。、。、。、幽（。かす）。。、。かな。。、。、。「。。、。、。余（。あ。ま）。。り。。、。、」。、",
+  "era": "Latin co- + Old English cyrnel",
+  "etymology": {
+   "components": [
+    "co- (complementary)",
+    "kernel"
+   ],
+   "original_statement": "The cokernel of a linear map or a homomorphism is the quotient of the codomain by the image of the map."
+  },
+  "concept": "The unreachable rest (「。。、どれ。ほど。、。、」。理知。を。、。、。、尽（つ。）。。、。く。。、。しても、。、。、決して。、。、。、。、「。。、。、。満（み）。、。ち。、。、。、」。る。。、。ことの、。、。。ない。、。。、。最後。の、。一。、。、。滴。、。、。それ。は、。。、。、理知。が、。、。、。、未知。、。の、。、。。海。へと、。、。、。、最後。。に、。。、遺。、。、した。。、。、。峻烈な。、。、。、。、欠。、。落。、)"
+ },
+ {
+  "id": "exact-sequence",
+  "word": "Exact Sequence",
+  "meaning": "完全系列、。、。前。。、。の者が。、。、無（む）。。へと。、。帰（かえ）。。、。り、。、。、次。。の者が。、。、。そこ。。を。、。、継（つ）。。、。ぐ。。、。、。峻烈な。、。、。、知性の。、。、。、。バ。、。ト。、。ン。、。、。受。け。。、。、渡し。、",
+  "era": "Latin exactus + sequentia",
+  "etymology": {
+   "components": [
+    "exactus (precise)",
+    "sequentia (sequence)"
+   ],
+   "original_statement": "A sequence of objects and morphisms between them such that the image of one morphism equals the kernel of the next."
+  },
+  "concept": "The precise chain (「。。、。私。、。、」。の、。、。。終焉（おわり）。。が、。、。、そのまま。、。、。、「。。、。、あなたの。、。、。、」。始まり。。、。、。へと、。、。、。繋（つな）。。、が。、。、。る。。、。という、。、。、絶対的。。、。、な。、。、。、「。。、。、。密。、。室。、。、。、」。の、。、。理知。、。それは、。、。、。、理知。が。、。、。、一。、。点の。、。、。、。曇（。くも）。。、。り。。、。なく、。、。、。、全。宇宙。を、。、。。、。貫（つらぬ）。。、。こう。。、。とする、。、。、峻烈な。、。、。、。、。意。、志。、)"
+ },
+ {
+  "id": "diagram-chasing",
+  "word": "Diagram Chasing",
+  "meaning": "図式追跡、。、。矢印。の。、。海。を。、。、。、。一。、。つの。。、素。粒子。。になって。、。、。縦（。たて）。。、。横（。よこ）。。、。へと、。、。駆け。、抜け。、。、。る。。、理知。の、。冒。、。険。、",
+  "era": "Greek diagramma + Old English ceace",
+  "etymology": {
+   "components": [
+    "diagramma (marking out)",
+    "chase"
+   ],
+   "original_statement": "A method of mathematical proof in category theory to establish exactly the property of some morphism."
+  },
+  "concept": "The hunt for paths (「。。、。あ。、る。。い。は。、。、」。ここ。から。、。、。「。。、。、。、。それとも。、。、。、」。あちら。ら。、。、。どこ。。を。、。、。通（とど）。。、。ろう。。、。とも、。、。、。最後。には。、。、。必ず。、。、。一。、。点の。、。、。、「。。、。、真。、実。、。、。、」。へと、。、。、辿（たど）。。、。り。。、。着（とど）。。けるか、。、。、を。、。、。理知。の、。。眼。、ざ。し。、で。、。、。追い。、、。かける。。、。一。、。つの。、。、。、。情。、熱。、)"
+ },
+ {
+  "id": "commutative-diagram",
+  "word": "Commutative Diagram",
+  "meaning": "可換図式、。、。どの。、。道を通っても。、。、。、結局。、は。。、同じ。、。結。末。。へと、。、。辿（たど）。。、。り。。、。。着（つく）。。、宇宙の。、。峻烈な。、。約。、束。、",
+  "era": "Latin commutare + Greek diagramma",
+  "etymology": {
+   "components": [
+    "commutare (to change entirely)",
+    "diagramma (marking out)"
+   ],
+   "original_statement": "A diagram such that all directed paths in the diagram with the same start and end points lead to the same result."
+  },
+  "concept": "The destined map (「。。、。右。に。、。、」。曲（まが）。。、。り。。、。、「。。、。、。左。に。、。、。、」。逸（そ。）。。、。れて。。、。も、。、。、。最後。には。、。、。必ず。、。、。、「。。、。、。、一。、。、。、」。、と。、。いう、。、。。同一。の。、。、結論。。へと、。、。、。射（い）。。、。抜（ぬ）。。、。かれる。。、。、という、。、。、理知。の、。、。。峻烈なる。、。、。、誠。実。、。、それは、。、。、。宇宙。が。、。、。嘘。、を、。、。つか。。、。ぬ。。、。ための。、。、。、。。、。契。、。、。約。、)"
+ },
+ {
+  "id": "adjoint-functor",
+  "word": "Adjoint Functor",
+  "meaning": "随伴関手、。、。二つの。、。世界。。、が、。、。、。峻烈な。、。、。。「。。、。、対。、。話。、。、。、」。の、。、。中で。、。、鏡。、のように。、。反射。し、。、。、響（ひび）。。合う。。、。こと。、",
+  "era": "Latin ad- + jungere",
+  "etymology": {
+   "components": [
+    "ad- (to)",
+    "jungere (to join)"
+   ],
+   "original_statement": "Pairs of functors that are in some sense dual to each other."
+  },
+  "concept": "The mirror of categories (「。。、。私。、。、」。が、。、。、一。、。歩。、。、。「。。、。、あ。、な。た。、。、。」。の方。。へと、。、。、歩（あゆ）。。、。み。。、。寄（よ）。。、。れば。。、。、あなた。も。、。、不。意に。、。、私。の。、。、。、理知。、の。、中に。、。。、ひっそり。と、。、。姿（フォルム）。。を、。、。現（あらわ）。。、。す。。、。、。という、。、。、絶対的。。、な。、。、。、互。、。換。、。の、。、。。理知。、。それは、。、。、。、。宇宙。の、。中で。、。、。、響き。、。、。合う。。、。二つの。、。、。、。孤。、。独。、)"
  }
 ];
