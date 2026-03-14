@@ -324564,5 +324564,86 @@ const WORDS = [
    "original_statement": "A field in which every non-constant polynomial has a root."
   },
   "concept": "The closed total (「。。、どこ。を。、。、」。向（む）。。、。いても。、。、。、。あ。、る。。い。は。、。、。「。。、。、。、どの。、。、。、」。問い。。、。、に。、。、。対（たい）。。、。しても、。、。、その。。、。奥底には、。、。、必ず。、。、。、。「。。、。、。一。、。、。、」。つの。、。、。、「。。、。、。答え。、。、。、」。が。、。、。在（。あ）。。、。る。。、。という、。、。理知。の、。、。。峻烈なる。、。。、「。。、。、。、信（。しん）。、。、。、」。、それは、。、。、。、理知。が、。、。、。宇宙。を。、。、。、。一。、点の。、。、。、不。、安。、から。、。、。解。、。、。放。。、。した。。、。、瞬、。。間の、。、。。、平静。、)"
+ },
+ {
+  "id": "ricci-tensor",
+  "word": "Ricci Tensor",
+  "meaning": "リッチテンソル、。、。時。空。の、。、。。歪（。ゆ。）。。、。み。。、。そのもの。。を。、。、。理知。の。、。、一。、。つの。、。、。、「。。、。、。、。点。、。、。、」。へと、。、。結び。、。、。。つけた。。、。宇宙。の、。峻烈なる。、。、。写。、。真。、",
+  "era": "Name Gregorio Ricci-Curbastro",
+  "etymology": {
+   "components": [
+    "Gregorio Ricci-Curbastro (mathematician)"
+   ],
+   "original_statement": "A mathematical object in general relativity that describes the curvature of space-time."
+  },
+  "concept": "The curvature of thought (「。。、どこ。を。、。、」。見。、。渡（。わた）。。、。しても。、。、。、そこに。、。、。在（。あ）。。、。る。。、。理知。の、。、。。「。。、。、。、歪（。ゆ。）。。、。み。。、。、。、」。、。、。それは、。、。、。理知。。が。、。、。自ら。を、。、。、宇宙。の中に。、。、。ひっそり。と、。、。潜（。ひそ）。。、。ませた。。、。、。峻烈なる。、。、。、。印（。し。る。し。）。、それは、。、。、。、理知。が、。、。、。宇宙。の、。、。重（お。）。。、。み。、。。に。、。、。対（たい）。。、。して。。、。遺（。のこ）。。、。した。。、。、。一。、。つの。、。、。、。、。「。。、。、答え。、。、。、」。、)"
+ },
+ {
+  "id": "christoffel-symbols",
+  "word": "Christoffel Symbols",
+  "meaning": "クリストッフェル記号、。、。時空。の、。、。。「。。、。、。、。平。、穏。、。、。、」。を。、。、。測（。はか）。。、。る。。、。ための。、。、。峻烈な。、。、知性の。、。、。、物。、。、差。、。、し。、",
+  "era": "Name Elwin Bruno Christoffel",
+  "etymology": {
+   "components": [
+    "Elwin Bruno Christoffel (mathematician / physicist)"
+   ],
+   "original_statement": "Mathematical expressions used to describe the metric connection in differential geometry and general relativity."
+  },
+  "concept": "The gauge of space (「。。、まっ。、すぐに。、。、」。歩（あゆ）。。、。んで。。、。、。いる。。、つもり。で。、。、。あ。、。、。っても。、。、不。意に。、。、。「。。、。、。、。曲（。ま。）。、。が。、。、。、」。って。、。、。しまう。。、。、という、。、。宇宙。の、。峻烈なる。、。、。計。、。、。算。、。、。それは、。、。、。理知。が、。、。、。一。、点の。、。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。宇宙。の、。、。、。、滑（なめ）。。、。らかな。。、。、「。。、。、。、。糸。、。、。、」。を。、。、。見。、守。、。、。る。。、ための。、。、。、。、。術。、)"
+ },
+ {
+  "id": "geodesic-equation",
+  "word": "Geodesic Equation",
+  "meaning": "測地線方程式、。、。理知。が。、。、。宇宙。を。、。、。、。まっ。、すぐに。、。、。駆け。、抜け。、。、。る。。、。ための。、。、。峻烈なる。、。、。。「。。、。、。、。愛。、。、。、」。の、。軌。、跡。、",
+  "era": "Greek ge + daiesthai + Latin aequatio",
+  "etymology": {
+   "components": [
+    "ge (earth)",
+    "daiesthai (to divide)",
+    "aequus (equal)"
+   ],
+   "original_statement": "The equation of motion for a particle that is moving along a geodesic in a curved manifold."
+  },
+  "concept": "The path of least effort (「。。、どこ。までも。、。、」。歪（ゆ。が）。。、。んだ。。、。世界。の。、。中。を。、。、。、それでも。、。、。理知。が。、。、。「。。、。、。、まっ。、すぐに。、。、。、」。、と。、。いう、。、。。誇（ほ。こ）。。、。り。。、。を。、。、。失（うしな）。。、。わ。。、。ぬ。。、。、ための。、。、。ただ。。、。一。、。つの。、。、。、。「。。、。、。、道。、。、。、」。、。、。それは、。、。、。宇宙。の中に。、。、。。ひっそり。と、。、。、。引（。ひ。）。。、。かれた。。、。、一。、。条の。、。、。、。、。光。、)"
+ },
+ {
+  "id": "friedmann-equation",
+  "word": "Friedmann Equation",
+  "meaning": "フリードマン方程式、。、。宇宙。が。、。、。膨（。ふく）。。、。ら。、。、み。。、。、。あるいは。、。、。縮（。ちぢ）。。、。む。。、。理知。の、。、。。「。。、。、。、。鼓。、。動。、。、。、」。そのもの。。を。、。、記（しる）。。、した。。、。、帳（。と。ば。り）。、",
+  "era": "Name Alexander Friedmann",
+  "etymology": {
+   "components": [
+    "Alexander Friedmann (mathematician / physicist)"
+   ],
+   "original_statement": "Equations that describe how the universe expands or contracts over time in the context of general relativity."
+  },
+  "concept": "The beat of universe (「。。、。膨（。ふく）。。、。、。ら。。、」。む。のか、。、「。。、。、。萎（。しぼ）。。、。、。む。。、。、。、」。のか。、。、。宇宙。その。、。、。もの。の。、。、。「。。、。、。、。命。、。、。、」。が。、。、。いま。、ここで。、。、。不意に。、。、。一。、。つの。、。、。、数。へと、。、。、一。、。、。瞬、。にして。、。、。貫（つらぬ）。。、。かれた。。、。峻烈な。、。、。、。、感。、動。、。、それは、。、。、。理知。が、。、。、宇宙。を。、。、。、。生（い）。。、。き。。、。る。。、。「。。、。、。、。個。、体。、。、。、」。として。、。、見。、守。、。、。る。。、ための。、。、。、。、。峻烈な。、。、。、。、。、。祈。、り。、)"
+ },
+ {
+  "id": "cosmological-constant",
+  "word": "Cosmological Constant",
+  "meaning": "宇宙定数、。、。宇宙。を。、。、。、。、。拡（。ひろ）。。、。げ。、。。よう。。、。とする、。、。、不。意。な。、。理知。の、。、。。反。、。、。撥。、",
+  "era": "Greek kosmos + logos + Latin constans",
+  "etymology": {
+   "components": [
+    "kosmos (world / order)",
+    "constans (standing firm)"
+   ],
+   "original_statement": "The energy density of space, or vacuum energy, that is included in Einstein's field equations of general relativity."
+  },
+  "concept": "The constant of space (「。。、。消（き）。。、。、。え。。、」。て。。、。しまう。。、。ことを。、。、あえて。、。、「。。、。、。、拒。、絶。、。、。、」。し、。、。、。自らを。、。、。どこまでも。、。、。、「。。、。、。、。空。、。空。、。、。、」。へと、。、。、押（。お。）。。、。し。。、出（だ）。。、す。。、ための。、。、。理知。の、。、。峻烈なる。、。、。、。、。意。、志。、。、それは、。、。、。、宇宙。が。、。、。、。虚。、。、空。、の中。にも、。、。、ひっそり。と、。、。、遺（のこ）。。、。した。。、。、。、「。。、。、。熱。、。情。、。、。、」。の、。、。残り。、香。、)"
+ },
+ {
+  "id": "kerr-black-hole",
+  "word": "Kerr Black Hole",
+  "meaning": "カー・ブラックホール、。、。旋（。つむ）。。、。が。。、。れ。。、。ながら。、。、。不意に。、。、。世界。。を。、。、。、飲み。、。、込（。こ。）。。、。む。。、。理知。の、。、。、。渦。、",
+  "era": "Name Roy Kerr",
+  "etymology": {
+   "components": [
+    "Roy Kerr (mathematician)"
+   ],
+   "original_statement": "A type of black hole that possesses angular momentum but no electric charge."
+  },
+  "concept": "The spinning abyss (「。。、巡（。めぐ）。。、。、。り。。、」。ながらも。、。、。、。最後。には。、。、。、すべて。を。、。、。、「。。、。、。無（。む）。。、。、。、」。へと、。、。。辿（たど）。。、。り。。、。着（つく）。。、。、。という、。、。、峻烈な。、。、。、。、渦（。うず）。。、。、それは、。、。、。理知。が、。、。、。宇宙。に。、。、。対。する、。、。、。、誠。、。実。、として。、。、。、。一。、。つの。、。、。、「。。、。、。、回転。、。、。、」。を。、。、。、あえて。、。、。、遺（。のこ）。。、。した。。、。、。時の、。、。。、戦。、。慄。、)"
  }
 ];
