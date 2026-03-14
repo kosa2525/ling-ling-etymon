@@ -381161,5 +381161,826 @@ const WORDS = [
 			]
 		},
 		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "comparative_a",
+		"word": "Comp Lit",
+		"meaning": "比較文学（ひかくぶんがく）",
+		"etymology": [
+			"Latin comparare"
+		],
+		"concept": "Cross-border lit analysis",
+		"thinking": "国境、言語、時代を越えて文学を「並べ（Comparare）」、その奥底に流れる普遍的な「魂の形」を見出す。一つの物語を、人類という名の巨大な叙事詩（アーカイブ）の一部として読み解く試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "semiotics_ad",
+		"word": "Semiotics",
+		"meaning": "記号論（きごうろん）",
+		"etymology": [
+			"Greek semeion (mark/sign)"
+		],
+		"concept": "Study of signs",
+		"thinking": "世界を「記号（Semeion）」の網として捉える。言葉、衣服、仕草。すべては何かを指し示す暗号であり、私たちはその記号の海を泳ぎながら、意味という名の幻を紡ぎ続けている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "structuralis",
+		"word": "Structurali",
+		"meaning": "構造主義（こうぞうしゅぎ） (文学)",
+		"etymology": [
+			"Latin struere (to build)"
+		],
+		"concept": "Systems of meaning",
+		"thinking": "作者の「情熱」ではなく、その背後にある「目に見えないルール（構造/Struere）」を暴き出す。物語はいかにして組み立てられ、いかなる対立（二項対立）によって意味を産み出しているのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "post_structu",
+		"word": "Post-Struct",
+		"meaning": "ポスト構造主義（こうぞうしゅぎ）",
+		"etymology": [
+			"Post- + Structuralism"
+		],
+		"concept": "Instability of meaning",
+		"thinking": "「構造」の絶対性を疑い、中心が「崩れた後（Post-）」の混沌を愛でる。意味は一つに定まらず、絶えずズレ、逃げ去っていく。その終わりのない「戯れ」の中にこそ、真の自由を見出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "deconstructi",
+		"word": "Deconstruct",
+		"meaning": "脱構築（だつこうちゅうく）、デコンストラクション",
+		"etymology": [
+			"Latin de- + construere"
+		],
+		"concept": "Exposing internal binary flaws",
+		"thinking": "組み上げられた（Construct）物語を「解きほぐす（De-）」。一見、論理的な対立（光と影、善と悪）の中に、実は互いが互いを必要としているという『矛盾』を見つけ出し、不動の地位を揺さぶる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "narratology_",
+		"word": "Narratology",
+		"meaning": "物語論（ものがたりろん）、ナラトロジー",
+		"etymology": [
+			"Latin narrare (to tell) + logos"
+		],
+		"concept": "Structure of telling",
+		"thinking": "「語り（Narrare）」の理。誰が、いつ、どこから見ているのか。語り手の視点一つで、現実は全く違う貌を持つ。物語という『虚構の機械』の細部を徹底的に解剖する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "metanarrativ",
+		"word": "Metanarrati",
+		"meaning": "大きな物語（ものがたり）、メタ物語（ものがたり）",
+		"etymology": [
+			"Greek meta- (beyond) + Narrare"
+		],
+		"concept": "Grand overarching story",
+		"thinking": "「進歩」「理性」「解放」。すべてを包み込み、正当化する「上位（Meta-）」の物語。かつては世界を救うと信じられたその巨大な枠組みが、現代という名の砂漠でいかに風化したか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "textuality_a",
+		"word": "Textuality",
+		"meaning": "テクスト性、エクリチュール",
+		"etymology": [
+			"Latin textus (woven)"
+		],
+		"concept": "Quality of being a text",
+		"thinking": "言葉が「織り物（Textus）」として持つ、独自の質感。作者の意図を離れ、文字そのものが持つ、冷徹で自律的な立ち居振る舞い。書かれたという事実（運命）の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "authorial_in",
+		"word": "Auth Intent",
+		"meaning": "作者（さくしゃ）の意図（いと）",
+		"etymology": [
+			"Latin auctor + in- + tendere"
+		],
+		"concept": "What author meant",
+		"thinking": "「作者（Auctor）」がどこを「目指して（In-tend）」書いたのかという幽霊。批評においては、時にその幽霊を殺すことで初めて、テクストの真の命が芽吹く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "death_of_aut",
+		"word": "Death of Aut",
+		"meaning": "作者（さくしゃ）の死（し）",
+		"etymology": [
+			"Death + Author"
+		],
+		"concept": "Reader determines meaning",
+		"thinking": "物語の「起源（作者）」の葬送。作者が死ぬことで、代わりに「読者」という一人の人間が産まれる。意味の決定権は、書いた者から、今そのページを読み進める『あなた』へと手渡される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "reader_respo",
+		"word": "Reader Resp",
+		"meaning": "読者（どくしゃ）反応（はんのう）批評（ひひょう）",
+		"etymology": [
+			"Latin respondere (to answer back)"
+		],
+		"concept": "Text lives in readers mind",
+		"thinking": "テクストという「問いかけ」に、読者が心で「答える（Respond）」。物語とは紙の上の文字ではなく、読者の心の深淵（記憶や偏見）とぶつかった瞬間に産まれる『化学反応』そのものである。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "aesthetic_dis",
+		"word": "Aesthetic Di",
+		"meaning": "美的（びてき）距離（きょり）",
+		"etymology": [
+			"Greek aisthetikos + Latin distans"
+		],
+		"concept": "Emotional detachment in art",
+		"thinking": "物語を「感じ（Aisthes）」ながらも、一歩身を引いて「距離（Distance）」を置く。没入しすぎず、かといって冷笑せず。美という名の深淵を、正気を保って眺めるための知的な節度。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "canon_literat",
+		"word": "Literary Can",
+		"meaning": "正典（せいてん）、カノン",
+		"etymology": [
+			"Greek kanon (measuring reed/rule)"
+		],
+		"concept": "Authoritative list of books",
+		"thinking": "「物差し（Kanon）」となるべき書物。時間を生き残り、人類の共有財産として認められた偉大な連なり。しかしそれは、ある特定の権力が作り上げた『排除のリスク』を孕んだリストでもある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "translatabil",
+		"word": "Translatabi",
+		"meaning": "翻訳（ほんやく）可能性（かのうせい）",
+		"etymology": [
+			"Latin trans- + latus (carried across)"
+		],
+		"concept": "Ability to be translated",
+		"thinking": "一つの魂を、別の肉体（言語）へと「運び（Latus）」「替える（Trans-）」ことができるか。翻訳不可能な『澱』の中にこそ、その言語が持つ究極のアイデンティティが眠っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "poetics_ad_v",
+		"word": "Poetics",
+		"meaning": "詩学（しがく）、ポエティクス",
+		"etymology": [
+			"Greek poietikos (creative/productive)"
+		],
+		"concept": "Theory of literary creation",
+		"thinking": "いかにして物語を「作る（Poiein）」かという技法。言葉をいかに配置し、いかに響かせれば、そこに「奇跡（感動）」が立ち上がるのかという、創造の法則への問い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "mimetic_ad_v",
+		"word": "Mimesis",
+		"meaning": "ミメーシス、模倣（もほう）",
+		"etymology": [
+			"Greek mimesis (imitation)"
+		],
+		"concept": "Art as imitation of reality",
+		"thinking": "世界を「写し取る（Mimesis）」こと。鏡のように現実を映すか、それとも現実の『本質』を抽出して再構成するか。芸術と現実の、果てしなき追いかけっこの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "catharsis_ad",
+		"word": "Catharsis",
+		"meaning": "カタルシス、浄化（じょうか）",
+		"etymology": [
+			"Greek katharsis (purification)"
+		],
+		"concept": "Emotional release through art",
+		"thinking": "物語の「影」と共に涙を流し、心の澱を「洗い流す（Katharsis）」。激しい恐怖や憐憫を潜り抜けた先にある、冬の朝のような凛とした精神の静寂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "allegory_ad_",
+		"word": "Allegory",
+		"meaning": "寓意（ぐうい）、アレゴリー",
+		"etymology": [
+			"Greek allos (other) + agoreuein (to speak in public)"
+		],
+		"concept": "Speaking through images",
+		"thinking": "「別のこと（Allos）」を「語る（Agoreuein）」。目に見える物語の背後に、宗教、政治、哲学という名の巨大な影を忍ばせる。二重の言葉が織りなす、知的な謎解きの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "oxymoron_a_v",
+		"word": "Oxymoron",
+		"meaning": "撞着語法（どうちゃくごほう）、オクシモロン",
+		"etymology": [
+			"Greek oxys (sharp) + moros (dull/stupid)"
+		],
+		"concept": "Contradictory terms together",
+		"thinking": "「鋭い（Oxys）」のに「鈍い（Moros）」。真昼の暗黒、残酷な慈悲。相反する言葉をぶつけ合わせることで、理性では捉えきれない真実の『火花』を散らす、逆説の修辞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "metaphor_ad_",
+		"word": "Metaphor",
+		"meaning": "隠喩（いんゆ）、メタファー",
+		"etymology": [
+			"Greek meta- (across) + pherein (to carry)"
+		],
+		"concept": "Transfer of meaning",
+		"thinking": "ある意味を、別の場所へと「越えて（Meta-）」「運ぶ（Pherein）」。人生は旅である。一瞬の跳躍によって、二つの異なる宇宙を一つに繋ぎ、世界を新しい光（イメージ）で満たす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "metonymy_ad_",
+		"word": "Metonymy",
+		"meaning": "換喩（かんゆ）、メトニミー",
+		"etymology": [
+			"Greek meta- + onoma (name)"
+		],
+		"concept": "Associated name substitution",
+		"thinking": "名前を「入れ替える（Meta-onoma）」。王の代わりに「王冠」を。筆の代わりに「ペン」を。隣り合うもの、関係するものから全体を引き出す、連想のしなやかな知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "synecdoche_a",
+		"word": "Synecdoche",
+		"meaning": "提喩（ていゆ）、シネクドキ",
+		"etymology": [
+			"Greek sun- (together) + ek- + dekhesthai (to receive)"
+		],
+		"concept": "Part for whole or vice versa",
+		"thinking": "「共に受け取る（Sun-ek-dekhesthai）」。一部（帆）で全体（船）を語り、全体（人間）で個人を語る。全体と部分が溶け合い、響き合う、分かたれぬ命の連関。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "polyphony_ad",
+		"word": "Polyphony",
+		"meaning": "ポリフォニー、多声性（たせいせい）",
+		"etymology": [
+			"Greek poly- + phone (voice)"
+		],
+		"concept": "Multiple independent voices",
+		"thinking": "「多くの（Poly）」「声（Phone）」。作者の独白（モノローグ）ではなく、登場人物たちがそれぞれの真理を抱え、対等に響き合う。絶対的な中心のない、対話による民主的な世界の構築。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "carnivalesqu",
+		"word": "Carnivalesqu",
+		"meaning": "カーニバル的（てき）、祝祭的（しゅくさいてき）反転（はんてん）",
+		"etymology": [
+			"Latin carne (flesh) + levare (to lift)"
+		],
+		"concept": "Inversion of social order",
+		"thinking": "日常の重苦しい掟を、祝祭（Carnival）という名の狂気が「持ち上げる（Levare）」。王が奴隷になり、聖が卑になる。一時的な「かき乱し」によって、世界を再び蘇生させる力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "chronotope_a",
+		"word": "Chronotope",
+		"meaning": "クロノトープ、時空（じくう）体",
+		"etymology": [
+			"Greek chronos (time) + topos (place)"
+		],
+		"concept": "Time-space fusion in lit",
+		"thinking": "「時間（Chronos）」と「場所（Topos）」が、物語の中で不離一体となった空間。ある場所には特定の時間が流れ、ある時間には特定の場所が相応しい。物語を形作る、四次元の幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "dialogism_ad",
+		"word": "Dialogism",
+		"meaning": "ダイアロジズム、対話主義（たいわしゅぎ）",
+		"etymology": [
+			"Greek dia- (across/through) + logos"
+		],
+		"concept": "Meaning through dialogue",
+		"thinking": "「言葉（Logos）」が「行き交う（Dia-）」。真理はどこかに固定されているのではなく、誰かとの言葉のキャッチボール（対話）という終わりのないプロセスの中にのみ仮宿する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "parody_ad_v",
+		"word": "Parody",
+		"meaning": "パロディ、模倣（もほう）による批評（ひひょう）",
+		"etymology": [
+			"Greek para- (beside) + oide (song)"
+		],
+		"concept": "Imitation for critique/humor",
+		"thinking": "高潔な「歌（Oide）」の「隣（Para-）」で、わざと形を崩して歌ってみせる。崇高さを笑いに変え、権威を相対化する、いたずら好きの知性の反抗期。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "pastiche_ad_",
+		"word": "Pastiche",
+		"meaning": "パティスリー、模倣（もほう）作品（さくひん）",
+		"etymology": [
+			"Italian pasticcio (pie/mixture)"
+		],
+		"concept": "Mixing styles without mockery",
+		"thinking": "過去の様々なスタイルを「混ぜ合わせた（Pasticcio）」パイ。嘲笑するのではなく、愛着を持ってその貌を借り、新しい響きを産み出す、物語のサンプリング。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "motif_ad_v",
+		"word": "Motif",
+		"meaning": "モチーフ、主題（しゅだい）の欠片（かけら）",
+		"etymology": [
+			"Latin motivus (moving)"
+		],
+		"concept": "Recurring element",
+		"thinking": "物語を「動かす（Moti-）」小さな種火。何度も繰り返されるイメージ、象徴、色彩。それらが通奏低音のように響くことで、物語に一本の筋（統一感）を通す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "archetype_ad",
+		"word": "Archetype",
+		"meaning": "典型（てんけい）、アーキタイプ",
+		"etymology": [
+			"Greek arkhe (original) + typos (type)"
+		],
+		"concept": "Universal pattern or theme",
+		"thinking": "「原初の（Arkhe）」「型（Type）」。英雄、賢者、母。人類が数千年にわたって夢見てきた、魂の共通の遺伝子。私たちは、何度も同じ古い物語（型）を、現代風に着せ替えて語り直している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "pathos_ad_v",
+		"word": "Pathos",
+		"meaning": "パトス、哀愁（あいしゅう）の情動（じょうどう）",
+		"etymology": [
+			"Greek pathos (suffering/feeling)"
+		],
+		"concept": "Quality that evokes pity",
+		"thinking": "「苦しみ（Pathos）」であり「受動性」。逃れられない運命、あるいは拭えぬ哀しみ。読者の心の最も柔らかい場所を、そっと、しかし深く抉るような、理屈を超えた共感の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "modernism_ad",
+		"word": "Modernism",
+		"meaning": "モダニズム、近現代主義（きんげんだいしゅぎ）",
+		"etymology": [
+			"Latin modo (just now)"
+		],
+		"concept": "Break with traditional forms",
+		"thinking": "「たった今（Modo）」という激動の時代。古い伝統を捨て、断片化された内面、崩れた時間、剥き出しの意識を、新しい言葉で捉えようとした、知性の決死の覚悟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "romanticism_",
+		"word": "Romanticism",
+		"meaning": "ロマン主義（しゅぎ）",
+		"etymology": [
+			"Old French romanz (narrative/romance)"
+		],
+		"concept": "Emotion and nature focus",
+		"thinking": "冷徹な理性に対抗し、「感情」と「野生」の崇高さを讃える。夢、憧憬、そして名状しがたい『無限』への渇望を、言葉の奔流へと変えた、魂の反乱の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "surrealism_a",
+		"word": "Surrealism",
+		"meaning": "シュルレアリスム、超現実主義（ちょうげんじゅつしゅぎ）",
+		"etymology": [
+			"French sur- (above) + Realism"
+		],
+		"concept": "Beyond rational reality",
+		"thinking": "「現実（Real）」を「越えた（Sur-）」場所にある真実。夢、無意識、偶然の出会い。理性の検閲をすり抜け、深淵に眠る『別の貌』を白日の下に晒し出す、魔法のような冒険。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "orientalism_",
+		"word": "Orientalism",
+		"meaning": "オリエンタリズム",
+		"etymology": [
+			"Latin oriens (East)"
+		],
+		"concept": "Western view of the East",
+		"thinking": "「東方（Oriens）」への、西洋という名の鏡を通した眼差し。それはありのままの他者ではなく、自分の欲望や恐怖を投影した「都合の良い他者」を作り出す、歪んだ知の支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "post_colonia",
+		"word": "Post-Colonia",
+		"meaning": "ポストコロニアリズム",
+		"etymology": [
+			"Post- + Latin colonia"
+		],
+		"concept": "Aftermath of colonial rule",
+		"thinking": "支配が「終わった後（Post-）」も、魂に深く刻み込まれた依存と否定。奪われた言葉をいかに取り戻し、自らの「貌」をいかに再構築するか。沈黙を破るための、痛切な物語への闘争。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "marginality_",
+		"word": "Marginality",
+		"meaning": "周辺性（しゅうへんせい）、マージナリティ",
+		"etymology": [
+			"Latin margo (border)"
+		],
+		"concept": "Being on the edge of society",
+		"thinking": "世界の「中心」ではなく、「縁（Margo）」に追いやられた存在。境界線の上に立ち、どちらにも属せぬまま、両方の矛盾を鋭く見つめる、孤独で透徹した眼差しの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "epiphany_lit",
+		"word": "Epiphany",
+		"meaning": "エピファニー、直観的（ちょっかんてき）真理（しんり）の顕現（けんげん）",
+		"etymology": [
+			"Greek epi- (upon) + phainein (to show)"
+		],
+		"concept": "Main point discovery",
+		"thinking": "何気ない日常の断片（ゴミや会話）の上に、真理が「突然、現れる（Epi-phany）」。目が見開かれ、世界の貌が一変する、世俗的な聖性の瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "synesthesia_",
+		"word": "Synesthesia",
+		"meaning": "共感覚（きょうかんかく） (文学的)",
+		"etymology": [
+			"Greek sun- (together) + aisthesis (feeling)"
+		],
+		"concept": "Merging senses",
+		"thinking": "音、色、香り。バラバラの感覚が「共に（Sun-）」「感じられる（Aisthesis）」。青い音、黄金の叫び。五感の垣根を越え、魂の全感覚を揺さぶる、言葉の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "sublime_adv_",
+		"word": "The Sublime",
+		"meaning": "崇高（すうこう）",
+		"etymology": [
+			"Latin sub- (up to) + limen (threshold)"
+		],
+		"concept": "Greatness beyond measure",
+		"thinking": "「限界（Limen）」の「すぐ下（Sub-）」まで迫る、目も眩むような巨大さ。美しさを越えて、恐怖すら呼び起こす圧倒的な何か。自分の小ささを思い知り、同時に宇宙と繋がる、魂の戦慄の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "ineffable_ad",
+		"word": "Ineffable",
+		"meaning": "言外（げんがい）の、言葉（ことば）に尽（つ）くしがたい",
+		"etymology": [
+			"Latin in- + ef- (out) + fari (to speak)"
+		],
+		"original_statement": "Too great to be expressed in words.",
+		"concept": "The silence of the ultimate",
+		"thinking": "外へと「語り（Fari）」「出す（Ef-）」ことが「できない（In-）」。あまりに深く、あまりに輝かしく、あるいはあまりに悲しすぎて、いかなる言葉という名の檻にも閉じ込められない、物語の「空白」にこそ宿る究極の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較文学と文芸批評の極致へ。"
+			]
+		},
+		"example": "Literary theory provides a framework for interpreting texts."
 	}
 ];
