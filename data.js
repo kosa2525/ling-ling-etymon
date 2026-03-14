@@ -341453,5 +341453,919 @@ const WORDS = [
 			]
 		},
 		"example": "Equations describe the unfolding of the world."
+	},
+	{
+		"id": "riemann_tensor",
+		"word": "Riemann Tensor",
+		"meaning": "リーマン曲率テンソル",
+		"etymology": {
+			"components": [
+				"Riemann"
+			],
+			"original_statement": "The definitive tensor of curvature."
+		},
+		"concept": "The complete measure of bending",
+		"thinking": "空間が『平らであること』をどれだけ拒絶しているか。そのねじれ、たわみ、歪みのすべてを256個（あるいはそれ以上）の数値で記録した、宇宙の貌の設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "levi_civita",
+		"word": "Levi-Civita",
+		"meaning": "レヴィ・チヴィタ接続",
+		"etymology": {
+			"components": [
+				"Levi-Civita"
+			],
+			"original_statement": "The unique torsion-free metric connection."
+		},
+		"concept": "The natural path of transport",
+		"thinking": "「真っ直ぐ進む」という概念を、曲がった空間で定義するための唯一かつ至高のルール。ねじれ（トーション）を排した、最も誠実な接続。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "metric_signature",
+		"word": "Metric Signature",
+		"meaning": "計量の符号（ふごう）",
+		"etymology": {
+			"components": [
+				"Metric",
+				"Latin signatura"
+			],
+			"original_statement": "The distribution of positive and negative eigenvalues."
+		},
+		"concept": "The fundamental tone of space-time",
+		"thinking": "時間的な次元と空間的な次元を分かつ、宇宙の最も根源的な『旋律』。プラスとマイナスが織りなす存在の響き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "lorentzian_metric",
+		"word": "Lorentzian",
+		"meaning": "ローレンツ計量",
+		"etymology": [
+			"Lorentz"
+		],
+		"original_statement": "Metric with signature (-,+,+,+).",
+		"concept": "The geometry of time",
+		"thinking": "時間の次元を一つ含んだ、相対性理論の舞台。過去と未来の『光円錐』を幾何学的に立ち上げるための礎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "light_cone_geo",
+		"word": "Light Cone",
+		"meaning": "光円錐（こうえんすい）",
+		"etymology": [
+			"Light + Cone"
+		],
+		"original_statement": "Set of null geodesics from a point.",
+		"concept": "The boundary of causality",
+		"thinking": "ある瞬間の出来事が、未来のどこまで影響を及ぼせるか。情報の伝播速度の限界が描き出す、因果関係の『国境』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "christoffel_symbol",
+		"word": "Christoffel",
+		"meaning": "クリストッフェル記号",
+		"etymology": [
+			"Christoffel"
+		],
+		"original_statement": "Connection coefficients in a coordinate system.",
+		"concept": "The coordinate-based distortion",
+		"thinking": "座標の網目が、空間の曲がりによってどのように『歪んでいる』か。その補正値を精密に記述する記号。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "geodesic_deviation",
+		"word": "Deviation",
+		"meaning": "測地線偏差（そくちせんへんさ）",
+		"etymology": [
+			"Latin de- + via"
+		],
+		"original_statement": "The relative acceleration of parallel geodesics.",
+		"concept": "Measuring gravity through tidal force",
+		"thinking": "「道（Via）から逸れる（De-）」こと。並行して進んでいたはずの二本の測地線が、空間の歪みによって近づき、あるいは遠ざかる、潮汐力の数学的記述。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "einstein_tensor",
+		"word": "Einstein Tensor",
+		"meaning": "アインシュタイン・テンソル",
+		"etymology": [
+			"Einstein"
+		],
+		"original_statement": "Tensor G describing energy-curvature relation.",
+		"concept": "The bridge between matter and geometry",
+		"thinking": "物質の存在（エネルギー・運動量）と、空間の歪みを結びつける、宇宙方程式の主旋律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "killing_vector",
+		"word": "Killing Vector",
+		"meaning": "キリング・ベクトル場",
+		"etymology": [
+			"Killing"
+		],
+		"original_statement": "Generator of isometric transformations.",
+		"concept": "Infinitesimal generator of symmetry",
+		"thinking": "その方向に進んでも、空間の貌（計量）が一切変わらない、不変の『対称の道』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "isometry_group",
+		"word": "Isometry",
+		"meaning": "等長写像群（とうちょうしゃぞうぐん）",
+		"etymology": [
+			"Greek isos (equal) + metron (measure)"
+		],
+		"original_statement": "The set of distance-preserving maps.",
+		"concept": "The full symmetry of space",
+		"thinking": "「同じ（Isos）」「測り（Metron）」。空間を動かしても距離が変わらない、その空間が持つすべての完璧な対称性の集合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "conformal_class",
+		"word": "Conformal Class",
+		"meaning": "共形類（きょうけいるい）",
+		"etymology": [
+			"Conformal"
+		],
+		"original_statement": "Set of metrics related by a scalar scale factor.",
+		"concept": "Geometry of relative angles",
+		"thinking": "長さは忘れても、角度の関係性だけは変えないという、幾何学的な『類（グループ）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "weyl_tensor",
+		"word": "Weyl Tensor",
+		"meaning": "ワイル・テンソル",
+		"etymology": [
+			"Weyl"
+		],
+		"original_statement": "Trace-free part of the Riemann tensor.",
+		"concept": "Pure shape distortion",
+		"thinking": "重力による『圧縮』を除いた、純粋な『形の歪み』だけを捉えるテンソル。光を屈折させるレンズのような空間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "penrose_diagram",
+		"word": "Penrose Diagram",
+		"meaning": "ペンローズ図",
+		"etymology": [
+			"Penrose"
+		],
+		"original_statement": "Conformal compactification of space-time.",
+		"concept": "Visualizing infinity",
+		"thinking": "無限の彼方、宇宙の果てまでも一つの紙面に美しく収めた、因果関係のパノラマ地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "schwarzschild_radius",
+		"word": "Schwarzschild",
+		"meaning": "シュワルツシルト半径",
+		"etymology": [
+			"Schwarzschild"
+		],
+		"original_statement": "Radius of an event horizon for non-rotating mass.",
+		"concept": "The point of no return",
+		"thinking": "質量が自らの重力に負け、そこまで縮めば光さえも逃げ出せなくなる、宇宙の『陥没の縁』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "killing_horizon",
+		"word": "Killing Horizon",
+		"meaning": "キリング・ホライゾン",
+		"etymology": [
+			"Killing"
+		],
+		"original_statement": "Surface where a Killing vector field becomes null.",
+		"concept": "The boundary of stillness",
+		"thinking": "対称性を生む流れ（キリング場）が、光速の壁に突き当たり、時が止まったように見える特殊な面。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "surface_gravity",
+		"word": "Surface Gravity",
+		"meaning": "表面重力",
+		"etymology": [
+			"Surface + Gravity"
+		],
+		"original_statement": "Infall acceleration at a horizon.",
+		"concept": "The severity of the limit",
+		"thinking": "地平線の縁において、どれだけ激しく内部へと引き寄せられるか。情報の監獄の『壁の硬さ』に相当する量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "hawking_radi",
+		"word": "Hawking Rad",
+		"meaning": "ホーキング放射",
+		"etymology": [
+			"Hawking"
+		],
+		"original_statement": "Radiation from black holes due to quantum effects.",
+		"concept": "The evaporation of shadows",
+		"thinking": "暗黒の穴から、量子的な揺らぎによって漏れ出す微かな光。いつかは消えゆく宇宙の記憶の雫。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "area_theorem",
+		"word": "Area Theorem",
+		"meaning": "面積定理",
+		"etymology": [
+			"Area"
+		],
+		"original_statement": "The area of an event horizon never decreases.",
+		"concept": "Irreversibility of black holes",
+		"thinking": "出来事を取り込むほど、暗黒の領土（面積）は決して減ることなく広がっていくという、死とエントロピーの鉄則。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "bekenstein_bound",
+		"word": "Bekenstein Bound",
+		"meaning": "ベッケンシュタイン境界",
+		"etymology": [
+			"Bekenstein"
+		],
+		"original_statement": "Upper limit on information content in a region.",
+		"concept": "The storage limit of space",
+		"thinking": "ある容積に詰め込める情報の総量には、限界があるという真理。空間は無限ではなく、情報の器である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "holographic_principle",
+		"word": "Holographic",
+		"meaning": "ホログラフィック原理",
+		"etymology": [
+			"Greek holos + graphein"
+		],
+		"original_statement": "Physics of a volume encoded on its boundary.",
+		"concept": "World as a projection",
+		"thinking": "内部で起きていることのすべては、実は『表面（境界）』にすべて書き込まれているという、次元のイリュージョン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "ads_cft",
+		"word": "AdS/CFT",
+		"meaning": "AdS/CFT対応",
+		"etymology": [
+			"Anti-de Sitter / Conformal Field Theory"
+		],
+		"original_statement": "The Maldacena duality between bulk gravity and boundary field theory.",
+		"concept": "Duality of volume and surface",
+		"thinking": "重力のある宇宙（Bulk）と、その果ての壁にある量子（Boundary）。異なる理が、実は一つの存在の二つの貌に過ぎないという衝撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "anti_de_sitter",
+		"word": "Anti-de Sitter",
+		"meaning": "反ド・ジッター空間",
+		"etymology": [
+			"de Sitter"
+		],
+		"original_statement": "Manifold with negative constant curvature.",
+		"concept": "The inward-curved universe",
+		"thinking": "どこまでも内側へと曲がり、中心へ立ち戻ろうとする性質を持つ、美しき閉じた宇宙のモデル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "de_sitter_space",
+		"word": "de Sitter",
+		"meaning": "ド・ジッター空間",
+		"etymology": [
+			"de Sitter"
+		],
+		"original_statement": "Manifold with positive constant curvature.",
+		"concept": "The outward-expanding universe",
+		"thinking": "どこまでも加速して広がっていく、私たちの宇宙の未来を映し出す、外向きに曲がった空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "cosmological_const",
+		"word": "Cosmo Const",
+		"meaning": "宇宙定数（うちゅうていすう）",
+		"etymology": [
+			"Cosmology + Constant"
+		],
+		"original_statement": "Zero-point energy of space-time vacuum.",
+		"concept": "The energy of nothingness",
+		"thinking": "何もないはずの「真空」そのものが持っている、空間を押し広げ、あるいは引き締めるエネルギーの背景。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "quintessence_cosmo",
+		"word": "Quintessence",
+		"meaning": "クインテッセンス、第五元素",
+		"etymology": [
+			"Latin quinta essentia"
+		],
+		"original_statement": "Dynamic dark energy scalar field.",
+		"concept": "Variable dark energy",
+		"thinking": "「第五の（Quinta）」「本質（Essentia）」。固定された数ではなく、時の流れとともに変化する、宇宙を操る謎のエネルギーの奔流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "friedmann_metric",
+		"word": "Friedmann",
+		"meaning": "フリードマン計量",
+		"etymology": [
+			"Friedmann"
+		],
+		"original_statement": "The standard metric of expanding cosmology.",
+		"concept": "The scale-factor of time",
+		"thinking": "空間そのものを時間とともに『引き伸ばす（あるいは縮める）』ための、宇宙全体のダイナミズムを記述する物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "raychaudhuri_eq",
+		"word": "Raychaudhuri",
+		"meaning": "ライチャデューリ方程式",
+		"etymology": [
+			"Raychaudhuri"
+		],
+		"original_statement": "Equation tracking the convergence of light rays.",
+		"concept": "Focusing of paths under gravity",
+		"thinking": "重力が光の束（測地線）をどのように引き寄せ、一点（特異点）へと集約させるかを司る、幾何学的な予言の書。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "singularity_theorem",
+		"word": "Singularity Theo",
+		"meaning": "特異点定理",
+		"etymology": [
+			"Latin singularis"
+		],
+		"original_statement": "Penrose-Hawking proofs that general relativity leads to singularities.",
+		"concept": "The inevitable end (or beginning)",
+		"thinking": "重力がある限り、時空には必ず理性が崩れ去る『穴（特異点）』が現れるという、相対論の冷徹な結論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "energy_condition_adv",
+		"word": "Energy Condition",
+		"meaning": "エネルギー条件",
+		"etymology": [
+			"Energy"
+		],
+		"original_statement": "Constraints on the positivity of energy.",
+		"concept": "Preserving the source's sense",
+		"thinking": "「負のエネルギー」という矛盾が宇宙を壊さないように、存在の『正さ』を最低限保証するための幾何学的なルール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "null_geodesic",
+		"word": "Null Geodesic",
+		"meaning": "ヌル測地線、光の道",
+		"etymology": [
+			"Null + Geodesic"
+		],
+		"original_statement": "Path of a photon in curved space-time.",
+		"concept": "The path of weightless information",
+		"thinking": "質量ゼロの光が、空間の歪みに沿って進む最短の旅路。時間の進みが『ゼロ（Null）』になる、光だけの世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "affine_parameter",
+		"word": "Affine Param",
+		"meaning": "アフィン・パラメータ",
+		"etymology": [
+			"Latin affinis"
+		],
+		"original_statement": "Parameter along a geodesic that remains linear.",
+		"concept": "The intrinsic clock of the path",
+		"thinking": "測地線に沿って刻まれる、一貫性を持った『歩み』の記録。空間のねじれに惑わされない、誠実な物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "curvature_collineation",
+		"word": "Collineation",
+		"meaning": "曲率コリネーション",
+		"etymology": [
+			"Latin collineare"
+		],
+		"original_statement": "Transformation preserving the Riemann tensor.",
+		"concept": "Stability of the bending profile",
+		"thinking": "「共に（Col）」「並ぶ（Lineare）」。空間の『曲がり方』の輪郭を一切変えないような、整合性の高い特別な変形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "scalar_field_pde",
+		"word": "Scalar Field",
+		"meaning": "スカラー場",
+		"etymology": [
+			"Latin scalaris"
+		],
+		"original_statement": "Distribution of single values in space.",
+		"concept": "The potential background",
+		"thinking": "空間の各点に宿る「重み」や「温度」のような、方向のない、しかし確かな影響力を持った存在の広がり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "einstein_hilbert",
+		"word": "Einstein-Hilbert",
+		"meaning": "アインシュタイン・ヒルベルト作用",
+		"etymology": [
+			"Einstein",
+			"Hilbert"
+		],
+		"original_statement": "Action whose minimization yields Einstein's equations.",
+		"concept": "Principles of least curvature",
+		"thinking": "宇宙はなぜ、今の姿（曲がり方）をしているのか。それはこの『作用』を最小にしたいという、幾何学的な欲望の帰結。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "minimal_coupling",
+		"word": "Minimal Coupling",
+		"meaning": "最小結合（さいしょうけつごう）",
+		"etymology": [
+			"Latin copulare"
+		],
+		"original_statement": "Simplest way to include gravity in field theory.",
+		"concept": "Most natural interaction",
+		"thinking": "物質と重力を、最もムリがなく、最もシンプルな形で『結びつける（Couple）』ための、自然への謙虚な仮定。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "tetrad_formalism",
+		"word": "Tetrad",
+		"meaning": "テトラッド、四面体（幾何）",
+		"etymology": [
+			"Greek tetras (four)"
+		],
+		"original_statement": "Four orthogonal vector fields in space-time.",
+		"concept": "Local frames for spinning reality",
+		"thinking": "「四つの（Tetra）」物差しの束。曲がった宇宙にいても、局所的にはいつも通り（平坦）に振る舞うための、移動する観測者の足場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "spin_connection",
+		"word": "Spin Connection",
+		"meaning": "スピン接続",
+		"etymology": [
+			"Spin + Connection"
+		],
+		"original_statement": "Gauge field for transforming local frames.",
+		"concept": "Rules for rotating observers",
+		"thinking": "移動する観測者が、自分の『向き』を他の地点の『向き』と正しく比べるための、変換の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "fierz_identity",
+		"word": "Fierz Identity",
+		"meaning": "フィールツ恒等式",
+		"etymology": [
+			"Fierz"
+		],
+		"original_statement": "Relating different products of spinors.",
+		"concept": "Algebraic intertwining of spin",
+		"thinking": "スピンを持つ粒子たちが絡み合うとき、その背後に隠された、逃れられない代数的な『一致』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "gravitational_instant",
+		"word": "Grav Instant",
+		"meaning": "重力インスタントン",
+		"etymology": [
+			"Latin instans"
+		],
+		"original_statement": "Self-dual solutions of gravity in Euclidean space.",
+		"concept": "Localized bursts of geometry",
+		"thinking": "虚数の時間の中で、一瞬（Instant）だけ美しく輝き、消えていく、自己完結した重力の渦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "boundary_term",
+		"word": "Boundary Term",
+		"meaning": "境界項（きょうかいこう）",
+		"etymology": [
+			"Boundary"
+		],
+		"original_statement": "Terms needed for consistency at the edge of space.",
+		"concept": "The price of the edge",
+		"thinking": "宇宙に『果て』を定義しようとするとき、全体としての調和を守るために、その『縁』で支払わなければならない数理的な代償。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "conformal_infinity",
+		"word": "Conf Infinity",
+		"meaning": "共形無限遠",
+		"etymology": [
+			"Conformal",
+			"Infinity"
+		],
+		"original_statement": "Boundary of space-time after scaling.",
+		"concept": "The horizon of the all",
+		"thinking": "宇宙の無限の果てを、角度だけを保ちながら縮小して目の前に引き寄せた、知性のフロンティア。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "asymptotic_flatness",
+		"word": "Asymp Flatness",
+		"meaning": "漸近的平坦性",
+		"etymology": [
+			"Asymptotic",
+			"Flat"
+		],
+		"original_statement": "Curvature vanishes as distance goes to infinity.",
+		"concept": "Returning to peace at the edge",
+		"thinking": "どれほど中心が激しく曲がっていても、無限の彼方ではすべてが平穏（平坦）に戻るという、孤独な島の宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "global_hyperbolic",
+		"word": "Global Hyperbolic",
+		"meaning": "大域的に双曲的な",
+		"etymology": [
+			"Global",
+			"Hyperbolic"
+		],
+		"original_statement": "The condition for causal structure to be well-behaved.",
+		"concept": "Predictable destiny",
+		"thinking": "宇宙全体の因果律が壊れておらず、過去の情報さえあれば未来が完全に予見できるという、決定論的な安定性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の貌に見惚れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"幾何学の深淵へ。"
+			]
+		},
+		"example": "Curvature is the manifestation of energy."
 	}
 ];
