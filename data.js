@@ -366136,5 +366136,855 @@ const WORDS = [
 			]
 		},
 		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "cosmic_micro",
+		"word": "Cosmic Backg",
+		"meaning": "宇宙（うちゅう）マイクロ波背景放射（はけいほうしゃ）",
+		"etymology": [
+			"Cosmos",
+			"Micro-",
+			"Background"
+		],
+		"concept": "Afterglow of the Big Bang",
+		"thinking": "宇宙の始まり（ビッグバン）から38万年。光がようやく霧を抜け出し、自由になった瞬間の、最古の残響。すべての空に等しく注がれる、冷え切った創造のぬくもり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "nucleosynthes",
+		"word": "Nucleosynthes",
+		"meaning": "元素合成（げんそごうせい）",
+		"etymology": [
+			"Latin nucleus (kernel) + Greek synthesis"
+		],
+		"concept": "Creation of atoms in stars",
+		"thinking": "「核（Nucleus）」を「繋ぎ合わせる（Synthesis）」こと。星の炉の中で、水素がヘリウムに、そして鉄へ。宇宙の重厚な歴史は、星が死ぬ間際に吐き出した元素によって書かれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "stellar_evolu",
+		"word": "Stellar Evol",
+		"meaning": "星形成（ほしけいせい）・進化",
+		"etymology": [
+			"Latin stella + evolutio"
+		],
+		"concept": "Life cycle of a star",
+		"thinking": "「星（Stella）」の「展開（Evolutio）」。ガスの雲から産まれ、燃え盛り、やがて爆発して塵に帰る。一対の星の生涯こそが、重力と熱の永遠のせめぎ合いのドラマ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "protostar_ad",
+		"word": "Protostar",
+		"meaning": "原始星（げんしせい）",
+		"etymology": [
+			"Greek protos (first) + Star"
+		],
+		"concept": "Newborn star",
+		"thinking": "「最初（Protos）」の、まだ核融合すら始まっていない、熱きガスの塊。暗闇の中に産声を上げようとする、光の萌芽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "main_sequence",
+		"word": "Main Sequence",
+		"meaning": "主系列（しゅけいれつ）",
+		"etymology": [
+			"Main",
+			"Latin sequi (to follow)"
+		],
+		"concept": "Adult life of a star",
+		"thinking": "星の生涯の中で、最も長く、安定した「道（Sequence）」。太陽のように、一定のリズムで核を燃やし続け、周囲に命の光を注ぎ続ける黄金の歳月。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "red_giant_ad",
+		"word": "Red Giant",
+		"meaning": "赤色巨星（せきしょくきょせい）",
+		"etymology": [
+			"Red",
+			"Greek gigas (giant)"
+		],
+		"concept": "Expanding dying star",
+		"thinking": "老いた星が、その最期に「巨大（Gigas）」に膨れ上がり、周囲の惑星さえも飲み込んでいく。赤く輝くその姿は、過ぎ去った栄光への執着か、あるいは最期の情熱の爆発か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "white_dwarf_a",
+		"word": "White Dwarf",
+		"meaning": "白色矮星（はくしょくわいせい）",
+		"etymology": [
+			"White",
+			"Dwarf"
+		],
+		"concept": "Remnant of low-mass star",
+		"thinking": "すべてを燃やし尽くし、「矮小（Dwarf）」に凝縮された星の残骸。熱はなく、ただ電子の反発力だけで支えられた、冷たくて硬いダイヤモンドのような星の墓標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "neutron_star",
+		"word": "Neutron Star",
+		"meaning": "中性子星（ちゅうせいしせい）",
+		"etymology": [
+			"Latin neutralis (neither)"
+		],
+		"concept": "Ultra-dense remnant",
+		"thinking": "原子という構造さえも押し潰され、全体が一つの巨大な「原子核」と化した、究極の密度の星。スプーン一杯にエベレストの重みが詰まった、逃げ場のない重力の監獄。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "pulsar_cosmo",
+		"word": "Pulsar",
+		"meaning": "パルサー",
+		"etymology": [
+			"Pulse + -ar"
+		],
+		"concept": "Beaming cosmic clock",
+		"thinking": "「脈打つ（Pulse）」星。高速で回転しながら、宇宙に強烈な光のビームを放ち続ける。暗闇の中で規則正しく鼓動を刻む、宇宙の孤独なる灯台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "binary_star_s",
+		"word": "Binary Star",
+		"meaning": "連星（れんせい）",
+		"etymology": [
+			"Latin bini (two by two)"
+		],
+		"concept": "Pair of orbiting stars",
+		"thinking": "「二つ（Bini）」で一つの生命。互いの重力に惹かれ、共依存の円を描きながら永遠に踊り続ける、星たちの双子の運命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "accretion_dis",
+		"word": "Accretion",
+		"meaning": "降着（こうちゃく）、集積",
+		"etymology": [
+			"Latin ad- (to) + crescere (to grow)"
+		],
+		"concept": "Gathering matter",
+		"thinking": "重力に引かれ、渦を巻きながら「成長（Crescere）」していく物質の円盤。大きな存在に飲み込まれる直前に放たれる、物質たちの断末魔の輝き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "quasar_cosmo",
+		"word": "Quasar",
+		"meaning": "クエーサー",
+		"etymology": [
+			"Quasi-stellar"
+		],
+		"concept": "Active galactic nucleus",
+		"thinking": "「星のような（Quasi-stellar）」貌をしていながら、銀河数百個分にも匹敵する光を放つ。遥か遠くの原初宇宙で、巨大なブラックホールが荒れ狂っている、光の咆哮。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "galaxy_cluster",
+		"word": "Galaxy Clust",
+		"meaning": "銀河団（ぎんがだん）",
+		"etymology": [
+			"Greek galaxias",
+			"Cluster"
+		],
+		"concept": "Massive group of galaxies",
+		"thinking": "「乳（Gala）」の河のような星々が、千個単位で「固まって（Cluster）」いる、宇宙で最も巨大な構造の一つ。重力の網が、気の遠くなるような空間を一つの物語として繋ぎ止めている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "supercluster",
+		"word": "Supercluster",
+		"meaning": "超銀河団（ちょうぎんがだん）",
+		"etymology": [
+			"Super + Cluster"
+		],
+		"concept": "Map of the grand web",
+		"thinking": "銀河団さえも、さらに大きなスケールで「連なっている（Super-cluster）」。その巨大なフィラメント（筋）が、宇宙という名の壮大な神経網を形作っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "void_cosmo_ad",
+		"word": "Cosmic Void",
+		"meaning": "ボイド、宇宙（うちゅう）の空洞",
+		"etymology": [
+			"Latin vocare (to empty)"
+		],
+		"concept": "Giant empty spaces",
+		"thinking": "「空虚（Void）」。銀河さえもほとんど存在しない、数億光年に及ぶ巨大な闇の泡。宇宙の豊かさは、この圧倒的な無の存在によってこそ際立つ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "redshift_expa",
+		"word": "Redshift",
+		"meaning": "赤方偏移（せきほうへんい）",
+		"etymology": [
+			"Red + Shift"
+		],
+		"concept": "Stretching light by distance",
+		"thinking": "遠ざかる光が、赤く「ズレる（Shift）」。それは宇宙自体が膨らみ、光の波さえも引き伸ばされている証拠。この『赤』が、宇宙の拡大という真実を雄弁に物語る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "hubble_param",
+		"word": "Hubble Param",
+		"meaning": "ハッブル定数（ていすう）",
+		"etymology": [
+			"Hubble"
+		],
+		"concept": "Expansion rate of universe",
+		"thinking": "宇宙は、1メガパーセクにつき秒速何キロで遠ざかっているか。宇宙の膨張の『歩幅』を測る、全宇宙的な規模のリズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "dark_matter_2",
+		"word": "WIMP (Matter)",
+		"meaning": "ウィンプ、未発見粒子",
+		"etymology": [
+			"Weakly Interacting Massive Particle"
+		],
+		"concept": "Candidate for Dark Matter",
+		"thinking": "重さを持ちながら、光（電気）とは一切関わらない、極めて「臆病（Weak）」にしか世界と触れ合わない粒子。その沈黙の粒子たちが、宇宙を陰で支配しているという予感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "baryon_osci",
+		"word": "Baryon Osci",
+		"meaning": "バリオン音響振動（おんきょうしんどう）",
+		"etymology": [
+			"Baryon + Acoustic"
+		],
+		"concept": "Sound waves in early soup",
+		"thinking": "宇宙の始まりの過密なスープの中で響いていた、重厚な「音（Acoustic）」。そのさざなみが、今の銀河の配置という名の『リズム』として宇宙に刻まれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "cosmic_dawn",
+		"word": "Cosmic Dawn",
+		"meaning": "宇宙（うちゅう）の夜明け",
+		"etymology": [
+			"Cosmic + Old English dagung"
+		],
+		"concept": "Birth of the first stars",
+		"thinking": "「夜明け（Dawn）」。何億年も続いた暗黒時代の後に、最初の星が火を灯し、宇宙が初めて『光』を手に入れた、あの祝福された瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "anthropic_pri",
+		"word": "Anthropic Pri",
+		"meaning": "人間原理（にんげんげんり）",
+		"etymology": [
+			"Greek anthropos (man)"
+		],
+		"concept": "Universe must support life",
+		"thinking": "なぜ「人間（Anthropos）」が存在できるほど絶妙なバランスなのか。それは、そうでない宇宙では誰もそれを問うことができないからだという、究極の同語反復。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "copernican_p",
+		"word": "Copernician",
+		"meaning": "コペルニクス的原理",
+		"etymology": [
+			"Copernicus"
+		],
+		"original_statement": "Humans are not privileged observers.",
+		"concept": "We are not the center",
+		"thinking": "私たちは「特別」ではない。宇宙のどこを見ても同じように見え、私たちはそのありふれた片隅で息づいているに過ぎないという、宇宙的な謙虚さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "fermi_paradox",
+		"word": "Fermi Paradox",
+		"meaning": "フェルミのパラドックス",
+		"etymology": [
+			"Fermi",
+			"Paradox"
+		],
+		"concept": "Where is everybody?",
+		"thinking": "これほど広大な宇宙なら、どこかに知的生命体が「いて当たり前」なのに、なぜ一人も見つからないのか。この不気味な沈黙こそが、宇宙最大の「矛盾（Paradox）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "drake_equat_a",
+		"word": "Drake Equat",
+		"meaning": "ドレイクの方程式",
+		"etymology": [
+			"Drake"
+		],
+		"concept": "Estimating alien life",
+		"thinking": "銀河にどれほどの隣人（文明）がいるか。星の数、生命の誕生、文明の寿命。未知の確率を掛け合わせ、宇宙の孤独を数え上げようとする知性の祈り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "habitable_zon",
+		"word": "Habitable Zon",
+		"meaning": "ハビタブル・ゾーン、居住可能域",
+		"etymology": [
+			"Latin habitare + Zone"
+		],
+		"concept": "Goldilocks zone",
+		"thinking": "「住むのに適した（Habitable）」場所。熱すぎず、冷たすぎず。水が液体のまま存在できる、たった一筋の穏やかな領域。宇宙の過酷な闇の中の、奇跡の揺りかご。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "exoplanet_ad",
+		"word": "Exoplanet",
+		"meaning": "系外（けいがい）惑星",
+		"etymology": [
+			"Greek exo- (outside) + Planet"
+		],
+		"concept": "Plants orbiting other stars",
+		"thinking": "太陽系の「外（Exo-）」にある惑星。もう一つの地球、もう一つの夕焼け。遥か遠くの星に惹かれ、回っている未知の、しかし確固たる世界の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "biosignature",
+		"word": "Biosignature",
+		"meaning": "バイオ・シグネチャー、生命徴候",
+		"etymology": [
+			"Greek bios + Latin signare"
+		],
+		"concept": "Evidence of life far away",
+		"thinking": "「生命（Bios）」の「印（Sign）」。大気の中の微かな酸素やメタン。光のスペクトルに刻まれた、遠き惑星で誰かが呼吸しているという、微かな、しかし確かな声。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "panspermia_ad",
+		"word": "Panspermia",
+		"meaning": "パンスペルミア、胚種広域（はいしゅこういき）分布説",
+		"etymology": [
+			"Greek pan (all) + sperma (seed)"
+		],
+		"concept": "Life travels through space",
+		"thinking": "生命の「種（Sperma）」は、宇宙の「すべて（Pan）」の至るところに蒔かれている。彗星に乗って旅をする命たちが、いつか惑星の土に触れて芽吹くという、壮大な生命の旅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "astrobiology",
+		"word": "Astrobiology",
+		"meaning": "アストロバイオロジー、宇宙生物学",
+		"etymology": [
+			"Greek astron (star) + bios"
+		],
+		"concept": "Life in the context of the stars",
+		"thinking": "「星（Astron）」と「生命（Bios）」を一つに。地球という小さな閉ざされた世界を越え、全宇宙的な視点で『命とは何か』を問い直す、新しい知の地平。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "extremophile",
+		"word": "Extremophile",
+		"meaning": "極限環境（きょくげんかんきょう）生物",
+		"etymology": [
+			"Latin extremus + Greek philos (love)"
+		],
+		"concept": "Loving the edge",
+		"thinking": "沸騰するお湯の中、氷の底、あるいは強酸。過酷な状況を「愛する（Philos）」者たち。生命の持つ、驚異的なまでのしぶとさと多様性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "abiogenesis_a",
+		"word": "Abiogenesis",
+		"meaning": "アビオジェネシス、自然発生",
+		"etymology": [
+			"Greek a- + bios + genesis"
+		],
+		"concept": "Origin of life from non-life",
+		"thinking": "「生命（Bios）」なき世界から、いかにして生命が「産まれた（Genesis）」のか。物質がふとした拍子に自分を想（コピー）し始めた、最初の奇跡という名の自己矛盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "rna_world_hyp",
+		"word": "RNA World",
+		"meaning": "RNAワールド",
+		"etymology": [
+			"RNA",
+			"World"
+		],
+		"concept": "Origin of self-replication",
+		"thinking": "DNAより先に、情報を運び、自ら働く「RNA」こそが宇宙の主役だった時代。生命の設計図と工場が一つだった、原初の純粋な情報の波。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "great_filter_a",
+		"word": "Great Filter",
+		"meaning": "グレート・フィルター、大いなる壁",
+		"etymology": [
+			"Great + Filter"
+		],
+		"concept": "Reason for silent universe",
+		"thinking": "生命が知性に、そして文明に至るまでに、必ずぶつかり、滅び去る「壁（Filter）」。私たちはそれをすでに超えたのか、それとも目の前に立ち塞がっているのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "kardashev_sc",
+		"word": "Kardashev",
+		"meaning": "カルダシェフ・スケール",
+		"etymology": [
+			"Kardashev"
+		],
+		"concept": "Ranking of cosmic civilizations",
+		"thinking": "どれほどのエネルギーを操れるか。惑星一つ分か、星系か、銀河全体か。文明の『壮大さ』を、消費する情熱の総量で測る、宇宙的な野心の物指。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "type_ii_civil",
+		"word": "Dyson Sphere",
+		"meaning": "ダイソン球（きゅう）",
+		"etymology": [
+			"Dyson"
+		],
+		"concept": "Enclosing a star for energy",
+		"thinking": "星（太陽）そのものを「球」のように覆い尽くし、そのすべてのエネルギーを自らのものとする。文明が星の運命を完全に掌握した、神の如き意志の建築。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "terraform_ad",
+		"word": "Terraforming",
+		"meaning": "テラフォーミング",
+		"etymology": [
+			"Latin terra + forming"
+		],
+		"concept": "Earth-shaping a planet",
+		"thinking": "死の惑星を「地球（Terra）」のように作り変える。大気を変え、海を作り、命を植える。宇宙を自らの貌（住処）へと変貌させようとする、人間の果てなき傲慢と愛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "boltzmann_brain",
+		"word": "Stat Brain",
+		"meaning": "ボルツマン脳（のう）",
+		"etymology": [
+			"Boltzmann",
+			"Brain"
+		],
+		"concept": "Consciousness from random chaos",
+		"thinking": "何もない宇宙に、偶然の揺らぎだけで「脳（意識）」が一瞬だけ産まれ、すぐに消える。この今感じている世界さえも、そんな儚い揺らぎに過ぎないのではないかという、確率的な戦慄。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "cosmol_const",
+		"word": "Cosmol Const",
+		"meaning": "宇宙定数（うちゅうていすう）、Λ",
+		"etymology": [
+			"Cosmos + Latin constare (to stand firm)"
+		],
+		"concept": "Vacuum energy of space",
+		"thinking": "「宇宙（Cosmos）」が永遠に「あり続ける（Const-）」ための数。アインシュタインが生涯最大の失敗と呼び、後に宇宙膨張の鍵として返り咲いた、真空の持つ不思議な情熱の痕跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "big_crunch_ad",
+		"word": "Big Crunch",
+		"meaning": "ビッグ・クランチ、大収縮",
+		"etymology": [
+			"Big + Crunch (crush)"
+		],
+		"concept": "The end by collapsing",
+		"thinking": "膨張を止めた宇宙が、重力によって再び一点へと「押し潰されていく（Crunch）」最期。すべてが光に、そして一点の無へと溶けていく、創造の逆転。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "big_freeze_ad",
+		"word": "Big Freeze",
+		"meaning": "ビッグ・フリーズ、大凍結",
+		"etymology": [
+			"Big + Freeze"
+		],
+		"concept": "The cold ending of space",
+		"thinking": "永久に広がり続け、すべてのエネルギーが薄まり、薄まり、ついに何者とも関わらなくなる。温度さえも失われた、無限の「静寂（Freeze）」という名の孤独な死。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "heat_death_un",
+		"word": "Heat Death",
+		"meaning": "宇宙（うちゅう）の熱的死（ねつてきし）",
+		"etymology": [
+			"Heat + Death"
+		],
+		"concept": "Maximum entropy state",
+		"thinking": "エントロピーが最大に達し、あらゆる変化が止まった世界。熱はあるが、もはや移動することはない。「熱（Heat）」そのものが機能美を失い、「死（Death）」に至った永遠の静寂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "big_rip_cosmo",
+		"word": "Big Rip",
+		"meaning": "ビッグ・リップ、大引き裂き",
+		"etymology": [
+			"Big + Rip (tear)"
+		],
+		"concept": "Spatial acceleration tearing atoms",
+		"thinking": "膨張の加速が極限に達し、銀河も、星も、原子さえもが「引き裂かれる（Rip）」。時空の織りなす布自体が堪えきれずに破れ、宇宙が完全に解体される、最も激しい最期の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "星々の源流を、宇宙の瞳で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と生命の起源へ。"
+			]
+		},
+		"example": "Cosmology studies the origin of the universe."
 	}
 ];
