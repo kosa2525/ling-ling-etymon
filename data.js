@@ -328555,5 +328555,243 @@ const WORDS = [
 				"万物の理を索めて。"
 			]
 		}
+	},
+	{
+		"id": "seismic_words",
+		"word": "Seismic",
+		"meaning": "地震の、地球を揺るがす",
+		"era": "Greek seismos",
+		"etymology": {
+			"components": [
+				"seiein (to shake / agitate)"
+			],
+			"original_statement": "From Greek seismos 'a shaking, a quake', from seiein 'to shake'."
+		},
+		"concept": "The shaking of foundation (土台の震え、大地の叫び)",
+		"thinking": "「揺らす（Seiein）」。足元の確かな大地が突如として震え出し、世界の均衡が揺らぐこと。それは恐怖であると同時に、溜まりに溜まった巨大なストレス（歪み）を一気に解放し、地球が深呼吸するための過酷なプロセスでもあります。",
+		"aftertaste": "大きな揺れ（変化）は、新しい安定へと向かうための産みの苦しみです。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "mantle_planet",
+		"word": "Mantle",
+		"meaning": "外套、マントル、覆い",
+		"era": "Latin mantellum",
+		"etymology": {
+			"components": [
+				"mantellum (cloak / veil)"
+			],
+			"original_statement": "From Latin mantellum 'cloak / veil / covering'."
+		},
+		"concept": "The warm cloak of stars (星を包む外套、静かなる鼓動)",
+		"thinking": "「外套（Mantellum）」。地殻の下で、熱き岩石がゆっくりと、悠久の時間をかけて流動している巨大な層。私たちは、地球という巨大な生命体が纏った、温かくて重厚な『マント（ cloak）』の上に立って、短い夢を見ています。",
+		"aftertaste": "足元には、宇宙の熱を蓄えた巨大な優しさが横たわっています。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "lithosphere_words",
+		"word": "Lithosphere",
+		"meaning": "岩石圏、リソスフェア",
+		"era": "Greek lithos + sphaera",
+		"etymology": {
+			"components": [
+				"lithos (stone)",
+				"sphaera (sphere)"
+			],
+			"original_statement": "From Greek lithos 'stone' + sphaera 'sphere'."
+		},
+		"concept": "The sphere of stone (石の球体、堅牢なる甲殻)",
+		"thinking": "「石（Lithos）」の「球（Sphaera）」。地球の表面を覆う、冷たくて硬い岩の殻。それは、内側の激しいマグマの熱から守り、生き物たちが平穏に暮らすための『確かな地面』。頑なに自分を守り抜く、硬質なプライドのような場所です。",
+		"aftertaste": "自分を守る『硬い殻』があるからこそ、内側の柔らかい想いを守れます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "asthenosphere_words",
+		"word": "Asthenosphere",
+		"meaning": "岩流圏、アセノスフェア",
+		"era": "Greek asthenes + sphaera",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"sthenos (strength)",
+				"sphaera (sphere)"
+			],
+			"original_statement": "From Greek asthenes 'weak / without strength' + sphaera 'sphere'."
+		},
+		"concept": "The weak sphere (力なき球体、委ねられる流動)",
+		"thinking": "「力（Sthenos）」が「ない（A-）」。硬いリソスフェアの下で、重力と熱に従って柔らかく、ドロドロと流れる層。弱さとは、抵抗をやめて大きな流れに『委ねる』ことができる能力でもあります。その柔らかさが、大陸の移動を支えています。",
+		"aftertaste": "時には『弱さ（柔らかさ）』を認めることが、大きな変化を支える力になります。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "epicenter_words",
+		"word": "Epicenter",
+		"meaning": "震央、中心地",
+		"era": "Greek epi- + kentron",
+		"etymology": {
+			"components": [
+				"epi- (upon)",
+				"kentron (needle / point / center)"
+			],
+			"original_statement": "From Greek epi- 'upon' + kentron 'center'."
+		},
+		"concept": "Point upon the center (中心の上に立ちし場所、衝撃の最前線)",
+		"thinking": "「中心（Kentron）」の「真上（Epi-）」。地下深くで起きた激変が、初めて地上の現実と接触する一点。もっとも激しく揺れ、もっとも早く真実を知る場所。あなたの行動が世界に影響を与える、その『着地点』を指しています。",
+		"aftertaste": "あなたの影響力の中心（震央）は、今どこにありますか？",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "tectonics_words",
+		"word": "Tectonics",
+		"meaning": "構造学、テクトニクス",
+		"era": "Greek tekton",
+		"etymology": {
+			"components": [
+				"tekton (builder / carpenter)"
+			],
+			"original_statement": "From Greek tektonikos 'of building', from tekton 'builder / carpenter'."
+		},
+		"concept": "The builder's craft (構築の術、巨大なる創造)",
+		"thinking": "「大工（Tekton）」。地球そのものが、自らの肉体を削り、繋ぎ合わせ、巨大な山脈や海を『ビルド（構築）』していくプロセス。大陸は漂流し、ぶつかり、新しい景色を産み出し続ける。宇宙で最も壮大な、終わりのない建築工事です。",
+		"aftertaste": "あなたの人生という大地も、日々の経験によって少しずつ『構築（ビルド）』されています。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "geomagnetism_words",
+		"word": "Geomagnetism",
+		"meaning": "地磁気",
+		"era": "Greek geo- + Latin magnes",
+		"etymology": {
+			"components": [
+				"geo (earth)",
+				"magnes (magnet)"
+			],
+			"original_statement": "The magnetic field of the Earth. From Greek ge- 'earth' + magnes 'magnet'."
+		},
+		"concept": "The compass of the world (地球の羅針盤、導く磁気のゆりかご)",
+		"thinking": "「大地（Geo）」の「磁石（Magnes）」。北と南、迷える渡り鳥や旅人に進むべき道を指し示す、宇宙からの優しいガイド。地球という巨大な磁石が、有害な粒子を防ぎ、命あるものを静かな慈愛で包み込んでいます。",
+		"aftertaste": "迷った時は、足元にある『大地の磁気（本能）』の声を聞いてみて。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "subduction_words",
+		"word": "Subduction",
+		"meaning": "沈み込み、サブダクション",
+		"era": "Latin sub- + ducere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin subductio 'leading down / beaching a ship', from sub- 'under' + ducere 'to lead'."
+		},
+		"concept": "Leading under the depths (深淵へと導き入れる、沈みゆく再生)",
+		"thinking": "「下へ（Sub）」、「導き入れる（Duc）」。古くなったプレートが、新しいものにその席を譲り、地下深きマントルへと還っていくこと。それは終わりではなく、熱いマグマとなって再び地上へ戻るための、長い長い『魂の再充電』の始まりです。",
+		"aftertaste": "一旦身を引くこと（沈み込むこと）は、次に高く舞い上がるための準備です。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "convection_mantle",
+		"word": "Mantle Convection",
+		"meaning": "マントル対流",
+		"era": "Latin com- + vehere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"vehere (to carry)"
+			],
+			"original_statement": "The slow creeping motion of Earth's solid silicate mantle caused by convection currents."
+		},
+		"concept": "Carrying heat slowly through ages (時代を越えて運ぶ熱、悠久の循環)",
+		"thinking": "「共に（Con）」「運ぶ（Vehere）」。一年に数センチという、気の遠くなるような遅さで行われる、地球内部の熱の撹拌。焦らず、急がず、それでいて決して止まることなく、数億年をかけて大陸を動かし、星の命を循環させる、根気強き愛の営みです。",
+		"aftertaste": "ゆっくりでも、止まらなければ。あなたは世界（大陸）を動かすことができます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "geoid_words",
+		"word": "Geoid",
+		"meaning": "ジオイド、地球等電位面",
+		"era": "Greek geo- + eidos",
+		"etymology": {
+			"components": [
+				"geo (earth)",
+				"eidos (form / shape)"
+			],
+			"original_statement": "The shape of the ocean surface of the Earth under the influence of gravity and rotation alone."
+		},
+		"concept": "The true shape of Earth (大地の真実の貌、等しき引力の海)",
+		"thinking": "「大地（Geo）」の「貌（Eidos）」。山も谷も無視して、ただ引力だけが教える世界の『本当の下（水平）』を繋いだデコボコの球体。表面的な凹凸に惑わされず、その存在が本来持っている『重力（中心への愛）』の形を浮き彫りにします。",
+		"aftertaste": "見た目の美しさより、あなたの『重力の形（本質）』を信じて。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
 	}
 ];
