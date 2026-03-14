@@ -324645,5 +324645,87 @@ const WORDS = [
    "original_statement": "A type of black hole that possesses angular momentum but no electric charge."
   },
   "concept": "The spinning abyss (「。。、巡（。めぐ）。。、。、。り。。、」。ながらも。、。、。、。最後。には。、。、。、すべて。を。、。、。、「。。、。、。無（。む）。。、。、。、」。へと、。、。。辿（たど）。。、。り。。、。着（つく）。。、。、。という、。、。、峻烈な。、。、。、。、渦（。うず）。。、。、それは、。、。、。理知。が、。、。、。宇宙。に。、。、。対。する、。、。、。、誠。、。実。、として。、。、。、。一。、。つの。、。、。、「。。、。、。、回転。、。、。、」。を。、。、。、あえて。、。、。、遺（。のこ）。。、。した。。、。、。時の、。、。。、戦。、。慄。、)"
+ },
+ {
+  "id": "mahlo-cardinal",
+  "word": "Mahlo Cardinal",
+  "meaning": "マーロ基数、。、。巨大。な、。、。無限。の、。、。。森。。の中に。、。、。ひっそり。と、。。、。在（あ）。。、。る。。、。さらに。。峻烈な。、。、。、。孤。、。独。、",
+  "era": "Name Paul Mahlo",
+  "etymology": {
+   "components": [
+    "Paul Mahlo (mathematician)"
+   ],
+   "original_statement": "In set theory, a type of large cardinal number, stronger than a weakly inaccessible cardinal."
+  },
+  "concept": "The forest of infinity (「。。、どこまでも。、。、」。続く。。、。、。高貴。な、。、。、「。。、。、。、。巨。、大。、。、。、」。な。、。、。数。たちの、。、。奥底に。、。、。ひっそり。と、。、。潜（ひそ）。。、。み。。、。ながら、。、。、それでも。、。、。最後。まで。、。、。自ら。。の。、。、。、。、「。。、。、。、。私。、。、。、」。、と。、。いう、。、。峻烈なる。、。。誇（ほこ）。。、。り。。、。を。、。、見。、守。、。、。る。。、。ことの、。、。峻烈なる。、。、。、。孤。、。高。、)"
+ },
+ {
+  "id": "measurable-cardinal",
+  "word": "Measurable Cardinal",
+  "meaning": "可測基数、。、。無限。の、。、。、。、。「。。、。、。。震。え。、。、。、」。を。、。、。、。一。、。つの。。、。、。「。。、。、。、。想（。おも）。。、。い。。、。、。、」。によって。、。、。、。測（はか）。。、。る。。、。ことが。、。、。許。、された。。、。、峻烈な。、。、。理。知。、",
+  "era": "Latin mensurabilis + cardinalis",
+  "etymology": {
+   "components": [
+    "mensurabilis (measurable)",
+    "cardinalis (pivotal / cardinal)"
+   ],
+   "original_statement": "A type of large cardinal defined by the existence of a non-trivial countably additive measure on its power set."
+  },
+  "concept": "The measure of vastness (「。。、あまり。に、。、。、」。大き。すぎた。。、。、。「。。、。、。、。数。、。、。、」。に。、。、。対（たい）。。、。して。。、。理知。が、。、。、あえて。、。、「。。、。、。、。愛。、。、。、」。と。、。いう、。、。。、。「。。、。、。、。重（おも）。、。み。、。、。、」。、を。、。、。、与（あたた）。。、。えて。。、。、。一。、。つの。。、。、。「。。、。、。、。実（。じ。つ）。、。、。、」。、へと。、。、。導（みちび）。。、。く。。、という、。、。理知。の、。峻烈なる。、。、。、。、試。、み。、)"
+ },
+ {
+  "id": "woodin-cardinal",
+  "word": "Woodin Cardinal",
+  "meaning": "ウッディン基数、。、。決定。。の、。、。海。という。、。、「。。、。、。、。理。知。、。、。、」。の中に。、。、。ひっそり。と、。。、。、宿（やど）。。、。された。。、。、。峻烈なる。、。。、。、基。、。、。準。、",
+  "era": "Name W. Hugh Woodin",
+  "etymology": {
+   "components": [
+    "W. Hugh Woodin (mathematician)"
+   ],
+   "original_statement": "A large cardinal property significant in the study of inner models and the axiom of determinacy."
+  },
+  "concept": "The pivot of choice (「。。、。何。か。、。、」。を。、。、。「。。、。、。、。決。、定。、。、。、」。する。。、。たびに。、。、。不。意に。、。、。、この。、。峻烈な。。、。、「。。、。、。、数。、。、。、」。の、。、。影。が。、。、。真実。。の中。へと、。、。、。射（い）。。、。抜（ぬ）。。、。かれる。。、という、。、。理知。の、。、。峻烈なる。、。。、「。。、。、。、。審。、判。、。、。、」。、。、。それは、。、。、。、。理知。が。、。、。、宇宙。を。、。、。、一。、点の。、。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。、。語（かな）。。、。り。。、。尽（。つ。）。。、。く。。、。ための。、。、。、。、峻烈な。、。、。、。、。、。計。、画。、)"
+ },
+ {
+  "id": "supercompact-cardinal",
+  "word": "Supercompact Cardinal",
+  "meaning": "超コンパクト基数、。、。理知。が。、。、。自ら。を。、。、。無限。の、。、。、。海。さえも。、。、重。、ね、。、。合わせ。。、。、一。、。つの。、。、。、。、「。。、。、。、。点。、。、。、」。へと、。、。、導（。みちび）。。、。く。。、。ための。、。、。、。究極の。、。、知。、。性。、",
+  "era": "Latin super + compactus + cardinalis",
+  "etymology": {
+   "components": [
+    "super (above)",
+    "compactus (joined together)",
+    "cardinalis (cardinal)"
+   ],
+   "original_statement": "Large cardinal properties that describe a high degree of reflection and closure under many mathematical operations."
+  },
+  "concept": "The ultimate reflection (「。。、。どこ。まで。、。、」。理知。を。、。、「。。、。、。、。広（ひろ）。、。げ。、。、。、」。ても。、。、。最後。には。、。、。必ず。、。、。、「。。、。、。、一。、。、。、」。、と。、。いう、。、。。、。同一。。の、。、。、「。。、。、。、。私。、。、。、」。へと、。、。、戻。り。。、。着（つく）。。、。、という、。、。、峻烈な。、。、。、。、。誠実。、。、それは、。、。、。、理知。が、。、。、。、全。宇宙。を、。、。。、。、自らの。、。、。、掌（。て。の。ひら）。。、。の中に、。、。。、。収。、めた。。、。、。時の、。、。。、。平静。、)"
+ },
+ {
+  "id": "stationary-set",
+  "word": "Stationary Set",
+  "meaning": "定常集合、。、。あらゆる。、。、。、。広（ひろ）。。、。がり。。、を。、。見。、。渡（わた）。。、。しても。、。、必ず。、。、。そこに。、。、。ひっそり。と、。。、。、在（あ）。。、。る。。、。消（。き。）。。、。え。。、ぬ。、。、峻烈な。、。、。、。、刻。、印。、",
+  "era": "Latin stationarius",
+  "etymology": {
+   "components": [
+    "stare (to stand)"
+   ],
+   "original_statement": "In set theory, a subset of an uncountable cardinal that intersects every closed unbounded subset."
+  },
+  "concept": "The unavoidable presence (「。。、。どこ。へ。、向（む）。。、。、。こう。。、」。と。、。、。「。。、。、。、逃（。に。）。、。、げ。、。、。、」。よう。。、と。、。しても、。、。、必ず。、。、。、。、そこに。、。、。、ひっそり。と、。、。、。横（よこ）。。、。た。、。わ。、。り。。、。、。我ら。を。、。、。見。、。つ。。、める。。、。という、。、。理知。の、。、。。、。峻烈なる。、。、。、。、。、「。。、。、。、。裁（さ。）。。、。き。、。、。、」。、。、。それは、。、。、。理知。が。、。、。一。、。つの。、。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。、。在（。あ）。。、。り。。、。つづ。ける。。、。ための。、。、。、。、不。、。屈。、。の、。、。。誓（。ちか）。。、い。、)"
+ },
+ {
+  "id": "large-cardinal",
+  "word": "Large Cardinal",
+  "meaning": "巨大基数、。、。我ら。の。、。、。。、。「。。、。、。、言葉。、。、。、」。さえも。、。、。届（。とど）。。、。か。、。ぬ。。、。、理知。の、。、。。最。、。、、。果（はて）。、。、の、。、。一。、。、。、。点。、",
+  "era": "Latin grandis + cardinalis",
+  "etymology": {
+   "components": [
+    "grandis (large)",
+    "cardinalis (cardinal)"
+   ],
+   "original_statement": "A cardinal number with properties that imply it is very large, typically meaning its existence cannot be proved in Zermelo-Fraenkel set theory with the axiom of choice."
+  },
+  "concept": "The beyond of word (「。。、。これ。。、。、。以上。、。、」。は。、。、。決して。、。、。理。知。、に。、。、。よって。、。、。「。。、。、。、。捕（とら）。、。、。、」。える。。、。ことが。、。、。出来。ぬ。。、。、という、。、。理知。の、。、。。最後。の、。、。。、「。。、。、。、。断。、。、、。念。、。、。、」。、。、。それは、。、。、。、。理知。が。、。、。、自ら。の。、。、。。限界。を。、。、あえて。、。、「。。、。、。、神。、。、。、」。と。、。いう、。、。。一。、。つの。。、。、。名。において。、。、。。見。、。守。、。、。る。。、。。ため。の、。、。、峻烈な。、。、。、。、。、。畏。、怖。、)"
  }
 ];
