@@ -328319,5 +328319,241 @@ const WORDS = [
 				"万物の理を索めて。"
 			]
 		}
+	},
+	{
+		"id": "doping_science",
+		"word": "Doping",
+		"meaning": "ドーピング、添加、不純物導入",
+		"era": "Dutch doop",
+		"etymology": {
+			"components": [
+				"doop (sauce / dip)"
+			],
+			"original_statement": "From Dutch doopen 'to dip', originally referring to thick sauce."
+		},
+		"concept": "Dipping into new essence (新しい本質への浸潤、微細なる変革)",
+		"thinking": "「ソースに浸す（Doop）」。純粋すぎる物質に、あえて『不純物』をわずかに追加することで、その性質を劇的に、時には魔法のように書き換えること。完璧な純粋さよりも、異質なものを受け入れる『混じり合い』こそが、新しい可能性（半導体など）を産み出します。",
+		"aftertaste": "少しの経験（不純物）が、あなたの可能性を劇的に広げることがあります。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "phase_words",
+		"word": "Phase",
+		"meaning": "位相、局面、段階、相",
+		"era": "Greek phasis",
+		"etymology": {
+			"components": [
+				"phainein (to show / appear)"
+			],
+			"original_statement": "From Greek phasis 'appearance / phase of a star', from phainein 'to show'."
+		},
+		"concept": "One appearance of being (存在の一つの貌、変容のステージ)",
+		"thinking": "「現れ（Phasis）」。同じ水でも、環境によって氷にも湯気にもなる。一つの実体が、その時々の状況に応じて見せる『一時的な貌』。一時の姿に惑わされず、その背後にある変わらぬ本質を、季節の移ろい（相）として楽しむ視点です。",
+		"aftertaste": "あなたは今、人生のどんな素晴らしい『フェーズ（相）』にいますか？",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "elasticity_words",
+		"word": "Elasticity",
+		"meaning": "弾力性、伸縮自在",
+		"era": "Greek elastikos",
+		"etymology": {
+			"components": [
+				"elaunein (to drive / propel / strike)"
+			],
+			"original_statement": "From Greek elastikos 'impulsive', from elaunein 'to drive / beat out / propel'."
+		},
+		"concept": "Driving back to origin (元へと押しもどす力、しなやかな回復)",
+		"thinking": "「追い立てる（Elaun）」。無理な力を加えられても、それをバネにして元の形へと『自らを押し戻す』情熱。折れることなく、歪みをエネルギーに変えて再び立ち上がる、しなやかで強靭な心の跳躍（リカバリー）を指します。",
+		"aftertaste": "辛いことがあっても、それはあなたが大きく跳ね上がるためのバネになります。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "plasticity_words",
+		"word": "Plasticity",
+		"meaning": "可塑性、柔軟性",
+		"era": "Greek plastikos",
+		"etymology": {
+			"components": [
+				"plassein (to mold / form)"
+			],
+			"original_statement": "From Greek plastikos 'fit for molding', from plassein 'to mold / form'."
+		},
+		"concept": "Fit for molding (形作られる自由、変容を受け入れる器)",
+		"thinking": "「形作る（Plass）」。力を受けた後、元の形に戻るのではなく、新しい形をそのまま自らのアイデンティティとして受け入れる寛容さ。傷さえも自分の歴史（形）として刻み込み、別の自分へと成長していく、粘り強く柔軟な進化の姿です。",
+		"aftertaste": "変わることを恐れないで。その柔軟さが、あなたを新しい世界へと導きます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "fatigue_materials",
+		"word": "Fatigue",
+		"meaning": "疲労、倦怠",
+		"era": "Latin fatigare",
+		"etymology": {
+			"components": [
+				"fatis (yawn / opening)",
+				"agere (to do / drive)"
+			],
+			"original_statement": "From Latin fatigare 'to tire / weary', related to fatis 'gap / yawn'."
+		},
+		"concept": "Driving the gap wider (隙間を広げる微細な摩耗、静かな破綻)",
+		"thinking": "「口を開ける（Fatis）」、「駆り立てる（Agere）」。一度の大きな力ではなく、耐えられるはずの小さな負荷が何度も繰り返されることで、物質の内側に微細な『隙間』が生じ、やがて壊れてしまうこと。頑張りすぎ（繰り返し）による、魂の静かなるSOSです。",
+		"aftertaste": "小さな疲れを溜め込まず、時には自分を『休養（アニール）』させてあげて。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "corrosion_words",
+		"word": "Corrosion",
+		"meaning": "腐食、侵食",
+		"era": "Latin com- + rodere",
+		"etymology": {
+			"components": [
+				"com- (intensive)",
+				"rodere (to gnaw)"
+			],
+			"original_statement": "From Latin corrodere 'to gnaw to pieces', from com- 'intensive' + rodere 'to gnaw'."
+		},
+		"concept": "Gnawing away to pieces (徹底的にかじり取る、環境との過酷な交信)",
+		"thinking": "「徹底的に（Com）」「かじる（Rod）」。雨や風、酸素にその身を晒し、少しずつ周囲の世界に溶け込み、削られていくこと。それは劣化であると同時に、世界と激しく反応し、境界線を融解させていくという、物質の『むき出しの対話』でもあります。",
+		"aftertaste": "削られていくことでしか見えない、内側の真実（輝き）があります。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "superconductivity_words",
+		"word": "Superconductivity",
+		"meaning": "超伝導",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"super- (above / beyond)",
+				"conductivity"
+			],
+			"original_statement": "A state of exactly zero electrical resistance, discovered by Heike Kamerlingh Onnes in 1911."
+		},
+		"concept": "Beyond the hurdle of resistance (抵抗を越えた流転、完璧なる自由)",
+		"thinking": "「超越（Super）」した「導き」。一切の摩擦（抵抗）を捨て去り、エネルギーが永遠に、淀みなく流れ続ける奇跡の状態。極限の静寂（低温）の中で、粒子たちが手を取り合い、一つの巨大な波としてダンスする。それは、エゴを捨てた時に訪れる究極の『調和』の謂いです。",
+		"aftertaste": "無駄な力（抵抗）を抜けば、あなたのエネルギーはどこまでも遠くへ届きます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "composite_words",
+		"word": "Composite",
+		"meaning": "複合の、合成の",
+		"era": "Latin com- + ponere",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"ponere (to put)"
+			],
+			"original_statement": "From Latin compositus, past participle of componere 'to put together / collect / unite'."
+		},
+		"concept": "Put together in oneness (共に置かれた強さ、異質なものの連帯)",
+		"thinking": "「共に（Com）」「置く（Pon）」。異なる強みを持つ素材を組み合わせ、単体では得られなかった新しい次元の強さを産み出すこと。バラバラな個性が、共通の目的の下で一つに結ばれる時、世界で最も強く、最も美しい『連帯』が生まれます。",
+		"aftertaste": "自分とは違う誰かと手を取ることで、あなたはもっと強くなれます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "graphene_words",
+		"word": "Graphene",
+		"meaning": "グラフェン、炭素単原子層",
+		"era": "Greek graphine",
+		"etymology": {
+			"components": [
+				"graphine (writing material)",
+				"-ene (chemical suffix)"
+			],
+			"original_statement": "Named from 'graphite' + '-ene'. Graphine is from Greek graphein 'to write'."
+		},
+		"concept": "The ink of transparency (透明なる言葉の結晶、究極の薄さ)",
+		"thinking": "「書く（Graph）」ための素材から生まれた、原子一つ分だけの厚みを持つ『究極のシート』。薄くて見えないほどなのに、ダイヤモンドより硬く、光よりも速く電気を通す。贅肉をすべて削ぎ落とし、本質（原子）だけで勝負する、ミニマリズムの極致です。",
+		"aftertaste": "余計なものを捨て、シンプルであること。それが最強の強さを生みます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "viscoelasticity_words",
+		"word": "Viscoelasticity",
+		"meaning": "粘弾性",
+		"era": "Latin viscum + Greek elastikos",
+		"etymology": {
+			"components": [
+				"viscum (sticky)",
+				"elastikos (elastic)"
+			],
+			"original_statement": "Combining 'viscous' (Latin viscum 'mistletoe') and 'elastic'."
+		},
+		"concept": "Flow and recovery (流動と復元の共演、優しき強さ)",
+		"thinking": "「粘り気（Viscum）」と「弾力（Elastic）」。ゆっくり流れるようなルーズさと、元の形に戻ろうとする生真面目さを併せ持つこと。硬すぎず、柔らかすぎず。時の流れに応じて、柔軟に形を変えながらも、自分という芯を失わない、しなやかな生の処世術です。",
+		"aftertaste": "流れに合わせつつ、自分の芯は守る。その『粘り』が人を惹きつけます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
 	}
 ];
