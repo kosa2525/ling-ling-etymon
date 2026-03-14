@@ -377192,5 +377192,866 @@ const WORDS = [
 			]
 		},
 		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "sociology_adv",
+		"word": "Sociology",
+		"meaning": "社会学（しゃかいがく）",
+		"etymology": [
+			"Latin socius (companion) + logos"
+		],
+		"concept": "Study of human society",
+		"thinking": "「仲間（Socius）」と共に生きることの理。一人では描けない、集団の力学が生み出す目に見えないうねりと、個人を縛る掟。人間関係の幾何学を解き明かす、知的な冒険。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "social_struc",
+		"word": "Social Struct",
+		"meaning": "社会構造（しゃかいこうぞう）",
+		"etymology": [
+			"Latin socius + struere (to build)"
+		],
+		"concept": "Patterned relationships",
+		"thinking": "社会を「組み上げている（Struere）」見えない骨組み。私たちは自由だと思っているが、実は身分、性別、階級という名の『透明な檻』の中で配置を決められているという、冷徹な真実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "alienation_ad",
+		"word": "Alienation",
+		"meaning": "疎外（そがい）",
+		"etymology": [
+			"Latin alienus (belonging to another)"
+		],
+		"concept": "Feeling estranged",
+		"thinking": "自分が作り出したもの（労働や社会）が、「他人のもの（Alien）」になり、逆に自分を縛り付けるようになること。自分の生命が、自分から奪い去られていく、現代の孤独の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "anomie_durk",
+		"word": "Anomie",
+		"meaning": "アノミー、無規範（むきはん）状態",
+		"etymology": [
+			"Greek a- (without) + nomos (law)"
+		],
+		"concept": "Lack of social norms",
+		"thinking": "「掟（Nomos）」が「ない（A-）」。古い価値観が壊れ、新しい道標も見つからない、宙吊りの不安。自由すぎて、何を目指して生きれば良いか分からないという、魂の漂流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "disenchantme",
+		"word": "Disenchant",
+		"meaning": "脱魔術化（だつまじゅつか）",
+		"etymology": [
+			"Dis- + French enchanter (to enchant)"
+		],
+		"concept": "Rationalization of world",
+		"thinking": "「魔法（Enchant）」が「解ける（Dis-）」。かつては神や奇跡が彩っていた世界を、科学と理性が冷徹に数値化し、神秘を奪い去っていく。輝きを失ったが、予測可能な『灰色の真理』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "bureaucracy_",
+		"word": "Bureaucracy",
+		"meaning": "官僚制（かんりょうせい）",
+		"etymology": [
+			"French bureau (desk/office) + Greek kratein (to rule)"
+		],
+		"concept": "Rule by officials",
+		"thinking": "「机（Bureau）」による「支配（Kratein）」。無名な個人の情熱を、冷徹な法と手続きという名の歯車に押し込め、巨大な秩序を維持する。それは鉄の檻となり、血の通わぬ効率の化身となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "iron_cage_web",
+		"word": "Iron Cage",
+		"meaning": "鉄（てつ）の檻（おり）",
+		"etymology": [
+			"Iron + Cage"
+		],
+		"concept": "Social trap of rationalism",
+		"thinking": "合理性という名の「鉄」で作られた「檻」。効率を求めるあまり、自ら作り出したシステムに心を奪われ、二度と外へ出られなくなった現代人の宿命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "social_capita",
+		"word": "Social Capit",
+		"meaning": "社会関係資本（しゃかいかんけいしほん）",
+		"etymology": [
+			"Latin socius + caput"
+		],
+		"concept": "Value of social networks",
+		"thinking": "「仲間」という名の「資本（Caput）」。信頼、繋がり、そして互恵の約束。金や建物ではない、目に見えない絆の貯金こそが、危機の中で共同体を救い、生を豊かにする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "habitus_bour",
+		"word": "Habitus",
+		"meaning": "ハビトゥス、習慣化（しゅうかんか）された性向",
+		"etymology": [
+			"Latin habitus (condition/appearance)"
+		],
+		"concept": "Ingrained social habits",
+		"thinking": "「持っている（Have）」貌。育った環境から骨の髄まで染み込んだ、言葉遣い、歩き方、そして価値観。それは「自然」に見えて、実は社会に刻印された『身分の烙印』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "cultural_cap",
+		"word": "Cultural Cap",
+		"meaning": "文化資本（ぶんかしほん）",
+		"etymology": [
+			"Latin cultura + caput"
+		],
+		"concept": "Non-monetary social assets",
+		"thinking": "「文化」という名の「富」。教養、マナー、芸術への眼差し。家庭環境から密やかに受け継がれ、格差を再生産し続ける、形を変えた相続財産。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "symbol_violen",
+		"word": "Symbolic Vio",
+		"meaning": "象徴的暴力（しょうちょうてきぼうりょく）",
+		"etymology": [
+			"Greek symbolon + Latin violentia"
+		],
+		"concept": "Implicit social imposition",
+		"thinking": "殴るのではなく、「意味（Symbol）」で傷つける。ある価値観を『当然』のものとして押し付け、持たざる者を自ら「恥ずかしい」と思わせる、静かなる支配の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "hegemony_gra",
+		"word": "Hegemony",
+		"meaning": "ヘゲモニー、覇権（はけん）",
+		"etymology": [
+			"Greek hegemon (leader)"
+		],
+		"concept": "Leadership by consent",
+		"thinking": "力による支配ではない、同意による「指導（Hegemon）」。支配される側が、支配する側の価値観を『これこそが正しい』と自ら信じ込んでしまう、究極の洗脳の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "panopticon_f",
+		"word": "Panopticon",
+		"meaning": "パノプティコン、一望（いちぼう）監視施設",
+		"etymology": [
+			"Greek pan (all) + optikon (seeing)"
+		],
+		"concept": "System of total surveillance",
+		"thinking": "「すべて（Pan）」を「見る（Optikon）」。見られているか分からない不安が、人を自発的に従順な家畜へと変える。檻のない監獄としての現代社会のメタファー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "biopower_fou",
+		"word": "Biopower",
+		"meaning": "生権力（せいけんりょく）",
+		"etymology": [
+			"Greek bios + Power"
+		],
+		"concept": "Control over bodies",
+		"thinking": "「命（Bios）」そのものを管理する「権力」。人口、衛生、寿命。統計という名のメスを使って、人間の肉体を国家や経済の部品として、最も効率的に磨き上げていく支配の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "stigma_goff",
+		"word": "Stigma",
+		"meaning": "スティグマ、汚名（おめい）",
+		"etymology": [
+			"Greek stigma (mark/brand)"
+		],
+		"concept": "Mark of social disgrace",
+		"thinking": "心に刻まれた「焼印（Stigma）」。他者と違うこと（汚れ）を理由に、社会から疎外され、自己を恥じることを強いられる。沈黙の中で焼きつく、不当な印。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "impression_m",
+		"word": "Impression M",
+		"meaning": "印象操作（いんしょうそうさ）",
+		"etymology": [
+			"Latin in- + premere (to press) + Management"
+		],
+		"concept": "Controlled persona",
+		"thinking": "他者の心に「印（Impression）」を「押し（Press）」付ける。私たちは社会という舞台の上で、期待された『役割』を演じ、本当の自分を隠して理想の自分を演出する、孤独な俳優。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "looking_glass",
+		"word": "Looking Glas",
+		"meaning": "鏡（かがみ）に映（うつ）る自己（じこ）",
+		"etymology": [
+			"Looking Glass (mirror)"
+		],
+		"concept": "Self-image from others",
+		"thinking": "他者の瞳という「鏡（Glass）」に映った自分こそが、自分であると信じ込む。他者の期待や軽蔑を繋ぎ合わせて、自らのアイデンティティを形成していく、依存的な魂の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "social_const",
+		"word": "Social Const",
+		"meaning": "社会（しゃかい）的構成主義（こうせいしゅぎ）",
+		"etymology": [
+			"Latin socius + con- + struere"
+		],
+		"concept": "Reality built by society",
+		"thinking": "「真理」などどこにもない。私たちが「共に（Con-）」「築き上げた（Struere）」合意があるだけだ。性別、法、貨幣。すべては物語という名のレンガで作られた、壮大な虚構の劇場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "intersectiona",
+		"word": "Intersect",
+		"meaning": "交差（こうさ）性",
+		"etymology": [
+			"Latin inter- + sectio (to cut)"
+		],
+		"concept": "Overlapping oppressions",
+		"thinking": "差別や不当な重荷が「間（Inter-）」で「切り裂き（Sectio）」、重なり合う場所。黒人であり、女性であり、貧しいこと。単なる足し算ではない、複合的な痛みの焦点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "meritocracy_",
+		"word": "Meritocracy",
+		"meaning": "メリトクラシー、能力主義",
+		"etymology": [
+			"Latin meritum (merit) + Greek kratein (to rule)"
+		],
+		"concept": "Rule by merit",
+		"thinking": "「功績（Merit）」ある者が「支配（Kratein）」する。一見、公平に見えるこの合言葉が、実は生まれながらの格差を『努力不足』として正当化する、最も残酷な支配の盾となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "digital_divid",
+		"word": "Digital Divi",
+		"meaning": "デジタル・ディバイド、情報格差",
+		"etymology": [
+			"Digital + Latin dividere"
+		],
+		"concept": "Internet access gap",
+		"thinking": "情報という名の壁によって「分断（Divide）」された世界。繋がる者には無限の翼を、繋がらざる者には永遠の沈黙を。技術がもたらした、新しい次元の不平等の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "filter_bubble",
+		"word": "Filter Bubbl",
+		"meaning": "フィルター・バブル",
+		"etymology": [
+			"Latin filtrare + Bubble"
+		],
+		"concept": "Algorithm isolation",
+		"thinking": "自分の好みに「濾過（Filter）」されたものだけに囲まれた、居心地の良い「泡（Bubble）」。異論も、汚れも、そして他者の痛みも届かない、独りよがりな楽園の閉塞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "echo_chamber",
+		"word": "Echo Chamber",
+		"meaning": "エコー・チェンバー",
+		"etymology": [
+			"Greek ekho + Latin camera"
+		],
+		"concept": "Room of same opinions",
+		"thinking": "「自分自身の声（Echo）」だけが「響き（Camera）」渡る場所。同じ意見を持つ者同士で叫び合い、確信だけを肥大化させ、他者を拒絶していく、知の閉鎖病棟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "commodificat",
+		"word": "Commodific",
+		"meaning": "商品化（しょうひんか）",
+		"etymology": [
+			"Latin commodus + facere"
+		],
+		"concept": "Turning value into buyable",
+		"thinking": "愛、知識、美しい風景。かつてプライスレスだったものを「売り物（Commodity）」に「変える（Facere）」。すべてを数字で測り、交換可能な『モノ』へと落としめる、資本の暴力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "gentrificati",
+		"word": "Gentrifica",
+		"meaning": "ジェントリフィケーション、都市（とし）の高級化",
+		"etymology": [
+			"Old French gentil (noble) + facere"
+		],
+		"concept": "Upgrading poor areas",
+		"thinking": "街を「高貴（Gentil）」に「変える（Facere）」。汚れた下町が清潔な街に変貌するとき、かつての住人（命）たちは家賃という名の静かな力で追い出されていく、排他的な再生。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "globalizatio",
+		"word": "Globalizatio",
+		"meaning": "グローバル化（か）",
+		"etymology": [
+			"Latin globus (sphere)"
+		],
+		"concept": "Worldwide integration",
+		"thinking": "世界を一つの「球体（Globus）」として繋ぎ合わせる。距離という名の障壁が消え、均質化された市場と文化が広がるが、同時にそれはローカルな魂を食いつぶす巨大な均質化の荒波。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "glocalizatio",
+		"word": "Glocalizatio",
+		"meaning": "グローカリゼーション",
+		"etymology": [
+			"Global + Local"
+		],
+		"concept": "Global in local context",
+		"thinking": "全体的な荒波を、自分の「場所（Local）」に合うように「解釈し直す」。普遍と固有が出会い、矛盾を孕みながらも新しい貌（ハイブリッド）を産み出す、しなやかな適応。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "diaspora_soc",
+		"word": "Diaspora",
+		"meaning": "ディアスポラ、離散（りさん）した民",
+		"etymology": [
+			"Greek dia- (across) + speirein (to scatter)"
+		],
+		"concept": "Dispersed population",
+		"thinking": "「種（Speirein）」を「撒き散らす（Dia-）」。故郷を追われ、世界中に散らばりながらも、自らのルーツ（記憶）を魂の灯火として守り続ける、流転の民の誇りと哀しみ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "multicultur",
+		"word": "Multicultur",
+		"meaning": "多文化主義（たぶんかしゅぎ）",
+		"etymology": [
+			"Latin multus + cultura"
+		],
+		"concept": "Diverse cultures coexisting",
+		"thinking": "「多くの（Multus）」色が、一つの「庭（Cultura）」で咲き誇る。互いの違いを消すのではなく、違いを違いとして認め合い、重畳的な豊かさを愛でるという、調和への祈り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "assimilation",
+		"word": "Assimilation",
+		"meaning": "同化（どうか）",
+		"etymology": [
+			"Latin ad- + similis (like)"
+		],
+		"concept": "Becoming similar to group",
+		"thinking": "他者の貌に「似せて（Similis）」「近づく（Ad-）」。異質な自分を削り、主流へと溶け込む。それは生き残るための知恵でありながら、自らのアイデンティティを捧げる、静かなる自死の代償。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "secularism_a",
+		"word": "Secularism",
+		"meaning": "世俗主義（せぞくしゅぎ）",
+		"etymology": [
+			"Latin saeculum (age/generation/world)"
+		],
+		"concept": "Separation of church/state",
+		"thinking": "神の「永遠」を離れ、この「時代（Saeculum）」という有限の生を第一に置く。宗教という名の重しを外し、理性と利益によって現世を統べようとする、人の自立の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "radicalizati",
+		"word": "Radicalizati",
+		"meaning": "過激化（かげきか）",
+		"etymology": [
+			"Latin radix (root)"
+		],
+		"concept": "Extending to extremes",
+		"thinking": "「根っこ（Radix）」まで遡り、一歩も引かなくなる。妥協を許さず、物事の極限まで突き進む。それは純粋な革命の心でありながら、他者を焼き尽くす狂気へと容易に変わる危うき火。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "subculture_a",
+		"word": "Subculture",
+		"meaning": "サブカルチャー、下位文化（かいぶんか）",
+		"etymology": [
+			"Latin sub- (under) + cultura"
+		],
+		"concept": "Culture within a culture",
+		"thinking": "主流の「下（Sub-）」で、密やかに、あるいは反抗的に育まれた独自の貌。マジョリティに背を向け、自分たちだけの記号（言葉）で結ばれる、秘密の聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "counter_cult",
+		"word": "Counter-Cult",
+		"meaning": "カウンターカルチャー、対抗文化（たいこうぶんか）",
+		"etymology": [
+			"Latin contra- (against) + cultura"
+		],
+		"concept": "Opposing mainstream norm",
+		"thinking": "既存の価値観に「対して（Contra-）」、牙を剥く。NOを突きつけることで、新しい可能性（自由）を切り拓こうとする、若き、あるいは虐げられた者たちの反攻の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "normativity_",
+		"word": "Normativity",
+		"meaning": "規範性（きはんせい）",
+		"etymology": [
+			"Latin norma (square/rule)"
+		],
+		"concept": "The standard of 'normal'",
+		"thinking": "何が「正しい（Norma）」のかという、目に見えない圧力。それは私たちを秩序へと導くが、同時にそこから外れた者を「異常」として排除する、社会の冷徹な審判員。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "agency_soc_a",
+		"word": "Agency (Soc)",
+		"meaning": "主体（しゅたい）性、エージェンシー",
+		"etymology": [
+			"Latin agere (to do)"
+		],
+		"concept": "Ability to act for self",
+		"thinking": "社会の構造に縛られながらも、自らの意志で「なす（Agere）」力。運命の波に漂うだけの木っ端ではなく、自らのオールで漕ぎ出す一瞬の自由の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "structuratio",
+		"word": "Structuratio",
+		"meaning": "構造化（こうぞうか）",
+		"etymology": [
+			"Latin struere"
+		],
+		"concept": "Mutual build of agent/structure",
+		"thinking": "「人が構造を作り、その構造が人を縛り、縛られた人が再び構造を書き換える」。終わりのない再帰のダンス。社会は完成した建物ではなく、常に「構築（Struere）」され続ける生きた変化の過程。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "network_soc",
+		"word": "Network Soc",
+		"meaning": "ネットワーク社会（しゃかい）",
+		"etymology": [
+			"Net + Work"
+		],
+		"concept": "Society based on nodes",
+		"thinking": "「網（Net）」と「編み（Work）」。中心のない、無数の結び目。情報の糸が光より速く世界を駆け巡り、距離も身分も溶かしていく、新しい次元の繋がりの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "postmodernis",
+		"word": "Postmodern",
+		"meaning": "ポストモダニズム",
+		"etymology": [
+			"Latin post- + Modern"
+		],
+		"concept": "Deconstructing grand narratives",
+		"thinking": "大きな物語（進歩や理性）が「終わった後（Post-）」の、断片的な世界。絶対的な真理を疑い、無数の小さな物語を愛でる、アイロニカルで自由な、しかし孤独な知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "solidarity_a",
+		"word": "Solidarity",
+		"meaning": "連帯（れんたい）、ソリダリティ",
+		"etymology": [
+			"Latin solidus (firm)"
+		],
+		"concept": "Unity of feelings/purpose",
+		"thinking": "互いに「固く（Solid）」結びつく。他者の不幸を自分の痛みとし、共に立ち上がる。冷徹なシステムの中で、唯一、体温を保ち続けるための魂の握手。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "reciprocity_s",
+		"word": "Reciprocity",
+		"meaning": "互恵性（ごけいせい）",
+		"etymology": [
+			"Latin re- + pro-"
+		],
+		"concept": "Mutual exchange",
+		"thinking": "「前へ（Pro-）」与え、「後ろへ（Re-）」報いる。計算ずくの売買ではなく、信頼と恩返し。この目に見えない「貸し借り」の連鎖が、砂漠のような社会にオアシス（共同体）を産み出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "civility_soc",
+		"word": "Civility",
+		"meaning": "市民的（しみんてき）節度（せつど）",
+		"etymology": [
+			"Latin civilis (of a citizen)"
+		],
+		"concept": "Polite social behavior",
+		"thinking": "「市民（Civilis）」としての嗜み。嫌いな相手であっても、同じ街を歩く仲間として最低限の敬意と礼儀を保つ。カオスな憎しみの海を渡るための、知的な緩衝材。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "social_move",
+		"word": "Social Move",
+		"meaning": "社会運動（しゃかいうんどう）",
+		"etymology": [
+			"Latin socius + movere"
+		],
+		"original_statement": "Collective action for social change.",
+		"concept": "The awakening of the collective will",
+		"thinking": "押し殺された無数の声が、一つの「意志」となって「動き出す（Move）」。静止した現状という名の重力を振り払い、未来を力づくで引き寄せる、社会という名の巨人の覚醒。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深奥を、理性の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と社会理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the structure of human society."
 	}
 ];
