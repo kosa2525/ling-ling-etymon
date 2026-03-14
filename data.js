@@ -323071,5 +323071,86 @@ const WORDS = [
    "original_statement": "A bijection between the vertex sets of two graphs that preserves adjacency."
   },
   "concept": "The same form (「。。、。見ため。、。、」。は。、。、。、これほど。、。、。までに。、。、異（こと）。。、。なって。。、。いても、。、。、奥底。に。、。、潜む。、。、。理。知。の、。、。、。。「。。、。、。繋（。つな）。。、が。、。り。、。、。、」。、。、。によって、。、。、。、私たちは。、。、。、一つ。、に。、。、。、。な。、。れる。。、。という、。、。、。宇宙。の、。、。。、。峻烈な。、。、。、。、慈。、。悲。、)"
+ },
+ {
+  "id": "quantum-supremacy",
+  "word": "Quantum Supremacy",
+  "meaning": "量子超越性、量子コンピュータが既存のあらゆる。、。、。計算機。を。、。、。凌駕。。、。する。。、。峻烈な。、。、。境界。、",
+  "era": "Latin quantum + supremus",
+  "etymology": {
+   "components": [
+    "quantum (how much)",
+    "supremacy (highest state)"
+   ],
+   "original_statement": "The potential ability of quantum computing devices to solve problems that classical computers practically cannot."
+  },
+  "concept": "Beyond the limit (「。。、。百万年。、。、」。かかる。、。はず。の、。、。問いに、。、。峻烈。な、。、。一。、。瞬、。で、。、答（こたえ）。。、。を。。、。出す。。、。、知性の。、。、。、。跳（。ちょう）。。、。躍。。、。それは、。、。、。人類。が、。、。、自ら。の。、。。、。「。、。、思考。、。、。、」。を。、。、。。、。越（。こ）。。、。えた。。、。瞬。間の、。、。、。、。。眩（まぶ）。。、。しい。。、。絶。、。望。、)"
+ },
+ {
+  "id": "quantum-teleportation",
+  "word": "Quantum Teleportation",
+  "meaning": "量子テレポーテーション、存在の状態を、。、。一。、。瞬。のうちに。、。、。別の。、。、。場所。へと。、。、。、。写（。うつ）。。、。し、。、。、。変える。。、。理知。の、。、。、。、魔術。、",
+  "era": "Greek tele + Latin portare",
+  "etymology": {
+   "components": [
+    "tele (far)",
+    "portare (to carry)"
+   ],
+   "original_statement": "A process in which quantum information can be transmitted from one location to another, with the help of classical communication and previously shared quantum entanglement."
+  },
+  "concept": "Transport of state (「。。、どこ。を。、。、」。通（。とお）。。、。ること。も。、。なく、。、。、不。意。に。、。、。別（べつ）。。の、。、。場所。にて。、。、。、。私。、と。、。いう、。、。状態。が。、。、再現。。、。、される。。、。、。こと。の、。、。。峻烈なる。、。、。、。戦。、慄。、。、それは、。、。、。理知。が、。、。、。。「。。、。、空間。、。、。、」。という。、。、。監。獄。、を。、。、打ち。破（。やぶ）。。、。った。。、。とき。の、。、。。奏（。かな。）。。、。で。、。、。。、序。、。、。曲。、)"
+ },
+ {
+  "id": "quantum-cryptography",
+  "word": "Quantum Cryptography",
+  "meaning": "量子暗号、観測。、。、。すると。。、。、壊（。こわ）。。、。れて。。、。しまう。。、という。、。不。可変なる。、。、。宇宙の。、。理知。を。、。、用いた。、。、。。秘。、。、。、密。、",
+  "era": "Greek kryptos + graphein",
+  "etymology": {
+   "components": [
+    "kryptos (hidden)",
+    "graphein (to write)"
+   ],
+   "original_statement": "The science of exploiting quantum mechanical properties to perform cryptographic tasks."
+  },
+  "concept": "The fragile secret (「。。、見れば。、。、」。壊（。こわ）。。、。れる。。、。、。「。。、。、。触れれば。、。、。、」。消（。き。）。。、。ゆ。る。。、。、一。、。つの。、。、。、。秘（。ひ）。。、。密。。、。、。それ。は、。。、。、理知。が、。、。、。宇宙。その。、。、。もの。の、。、。、。「。。、。、。内。、。緒。、。、。、」。を。、。、。味方。に。、。、。、。した。。、。、。絶対。的。な、。。、。、信。、。頼。、。の、。、。、。砦（。とりで）。、)"
+ },
+ {
+  "id": "shor-algorithm",
+  "word": "Shor's Algorithm",
+  "meaning": "ショアのアルゴリズム、巨大な数。を。、。、。一。、。瞬。、のうちに。、。、素数。の。、。ひびき。、。へと、。、。、。分解。、。する。。、。理知。の、。、。刃（。は）。、",
+  "era": "Name Peter Shor",
+  "etymology": {
+   "components": [
+    "Peter Shor (mathematician / computer scientist)"
+   ],
+   "original_statement": "A quantum algorithm for integer factorization, formulated in 1994."
+  },
+  "concept": "Factoring the huge (「。。、。、幾。、億。年。、。、」。の、。、。、。、。沈。、。黙。、。を。、。、要（。よう）。。、。する。。、はず。の。、。門。。を、。、。不意に。、。、。、量。子。、。、の。、。、。鍵。、。で。、。、。、こじ。、。開（。あ）。。、。ける。。、。、理知。の。、。、。皮。、肉。、。、。それは、。、。、。現代。の。、。、。、。暗。、。号。、という。、。、。「。。、。、神。話。、。、。、」。を。、。、。、。終。、わ。、。らせ。。、る。。、。ための。、。、。、断。、。、。頭。、台。、)"
+ },
+ {
+  "id": "grover-algorithm",
+  "word": "Grover's Algorithm",
+  "meaning": "グローバーのアルゴリズム、無秩序。な。、。、。中から。、。、。、。一。、。つの。、。、。、。答（。こたえ）。。、。を。、。、、不意に。、。、。、。釣り。、。、上げる。。、。量。子。。の。、。、直感。、",
+  "era": "Name Lov Grover",
+  "etymology": {
+   "components": [
+    "Lov Grover (computer scientist)"
+   ],
+   "original_statement": "A quantum algorithm that finds with high probability the unique input to a black box function that produces a particular output value."
+  },
+  "concept": "Finding the needle (「。。、どこ。を。、。、」。探（。さが）。。、。せ。ば。、。、いい。のか。、。、。さえ。、。、。。分か。、ら。、。ぬ。。、。、広。、大な。、。、砂。漠。の中に。、。、。ひっそり。と、。、。、落（。お。）。。、。と。、。された。。、。、一。、点の。、。、。、針。を、。、。。、。、峻烈な。、。、。、。、速。、。さ。。、。で。、。、。見。、。出す。。、ための、。、。、。、理。知。の。、。、。、。跳。躍。、)"
+ },
+ {
+  "id": "bloch-sphere",
+  "word": "Bloch Sphere",
+  "meaning": "ブロッホ球、量子。、。ビット。の。、。、不安定な。、。、。、。「。、。、。、心。、。、。、」。、を。、。、。一。、。つの。、。、。球体。として。、。、。。描（えが）。。き。。、。出す。。、図像。、",
+  "era": "Name Felix Bloch",
+  "etymology": {
+   "components": [
+    "Felix Bloch (physicist)"
+   ],
+   "original_statement": "A geometrical representation of the pure state space of a two-level quantum mechanical system."
+  },
+  "concept": "The sphere of state (「。。、。、生。、。、」。きて。、も、。、。、「。。、。、。死。、。、。、」。んで。、。、。も、。、。、いる。。、。という、。、。、。、あ。、ま。り。。に。、。、不。安。定。な。、。、。理知。を、。、。、。せめて。、。、。、。、一つ。の、。、。、。、「。。、。、。形（。Form）。、。、。、」。の中。へと、。、。、封（。ふう）。。、。じ。、。込（。こ。）。。、。めて。。、。、。愛。、。、。で。、。る。。ための。、。、。、。理知。の、。、。。、「。。、。、。、。器。、。、。、」。、)"
  }
 ];
