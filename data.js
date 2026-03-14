@@ -322908,5 +322908,87 @@ const WORDS = [
    "original_statement": "A subfield of mathematical optimization that studies the problem of minimizing convex functions over convex sets."
   },
   "concept": "The single bowl (「。。、どこ。。、。から。、。、」。落（。お。）。。、。と。、。、。。された。。、。としても、。、。、最後。には。、。、。必ず。、。、。、「。。、。、同一。の、。、。、。底。、。、。、」。へと、。、。、辿。り。。、。着。ける。。、。という、。、。、絶対的。。、。、な。、。、。、「。。、。、安心。感。、。、。、」。、。、。それは、。、。、。、。理。知。、。が。、。、。、約束。。、された。。、。、。、救。、い。、)"
+ },
+ {
+  "id": "sonoluminescence",
+  "word": "Sonoluminescence",
+  "meaning": "ソノルミネッセンス、音によって液体の中に泡が生まれ、光を放つ。、。、。神秘。、の現象。",
+  "era": "Latin sonus + lumen",
+  "etymology": {
+   "components": [
+    "sonus (sound)",
+    "lumen (light)"
+   ],
+   "original_statement": "The emission of short bursts of light from imploding bubbles in a liquid when excited by sound."
+  },
+  "concept": "The light from sound (「。。、音。、。、」。が、。、。液体。の中に。、。、。「。。、。、。青い。、。、。、」。星。を、。、。、。生（。う）。。、。み。。、。出す。。、。、一。、。瞬、。、。それは、。、。、。理知。が、。、。、。沈。、。、。黙。、。、。を。、。、光。へと、。、。変えて。、。、。。しまう。、。ための、。、。、峻烈な。、。、。、魔法。、。、。泡沫（。うた。かた）。。、。、の、。、。。絶。、鳴。、)"
+ },
+ {
+  "id": "doppler-shift",
+  "word": "Doppler Shift",
+  "meaning": "ドップラー偏移、近づく。、。、。あるいは。、。、。遠ざかる。、。、。音や光の、。、心（。しん）。。の方程式。",
+  "era": "Name Christian Doppler",
+  "etymology": {
+   "components": [
+    "Christian Doppler (physicist)"
+   ],
+   "original_statement": "The change in frequency of a wave in relation to an observer who is moving relative to the wave source."
+  },
+  "concept": "The shifting heart (「。。、。、来（。きた）。。、。る。。、」。ものの、。、。、峻烈な。、。、。高。鳴。、り。、。と。、。、「。。、。、。去（。さ）。。、。る。。、。、」。ものの。、。、。、。幽（。かす）。。、。かな。。、。、。嘆（。なげ）。。き。。、。、。それらを。、。、。、。理知。の、。、。。「。。、。、。色。、。、。、」。、と。、。して。、。、感受。。する。。、。ための。、。、。、。、宇宙。の、。、。、。脈。、動。、)"
+ },
+ {
+  "id": "mach-number",
+  "word": "Mach Number",
+  "meaning": "マッハ数、音の。、。、。速。さ。。を、。、。一。、。つの。。、。境界。として。、。、。、世界。。を、。、。。、。測（。はか）。。、。る。。、数階。",
+  "era": "Name Ernst Mach",
+  "etymology": {
+   "components": [
+    "Ernst Mach (physicist / philosopher)"
+   ],
+   "original_statement": "A dimensionless quantity representing the ratio of flow velocity past a boundary to the local speed of sound."
+  },
+  "concept": "The wall of sound (「。。、。音。、。、」。の、。、。。壁（。かべ）。。、を。、。、あえて。、。、。、。切り。、。裂（。さ。）。、。き。。、。衝撃。と。、。、。、。共（。とも）。。に。、。、。、。、新。、。しき。。、。、世界へ。、。、。と、。、。、飛び。出す。、。、。ための。、。、。、。理知。の、。、。、「。。、。、段。、。、階。、。、。、」。、)"
+ },
+ {
+  "id": "anechoic",
+  "word": "Anechoic",
+  "meaning": "無響の、一切の。、。、。重（。か。）。。、。なり。。、。、を。、。、。拒（。こば）。。、。み。。、。、。真実。の。、。、。「。、。声。、。、。、」。だけ。を。、。、。聴（。き）。。、。く。。、。ための、。、。、。静寂。",
+  "era": "Greek a- + echo",
+  "etymology": {
+   "components": [
+    "an- (not)",
+    "echo (reflected sound)"
+   ],
+   "original_statement": "From Greek an- 'not' + echo 'sound'."
+  },
+  "concept": "The silent room (「。。、。私。、。、」。の、。、。。声。が、。、。、どこ。。にも、。、。、跳。、。ね。。、返（。かえ）。。、。る。。、。こと。なく、。、。ただ。。、。一。、。瞬、。、。、の中に。、。、。。吸（。す）。。、。い。。、。込ま。れて。。、。、ゆ。く。。、一。、。つの。、。、。、。理知。、。それは、。、。、。、自分。、。という、。、。、。、殻（。から）。。を。、。、。脱（。ぬ）。。、ぐ。。、ための。、。、。、。峻烈な。、。、。、。、。虚。、。、。空。、)"
+ },
+ {
+  "id": "sonic-boom",
+  "word": "Sonic Boom",
+  "meaning": "ソニックブーム、音の。、。、。壁。、を。、。、。越（。こ）。。、。えた。、。、。瞬。間。、。に、。、。、地上。。へと、。、。、。降（ふ）。。、。り。。、。注（。そそ）。。、ぐ。、。、雷鳴（。い。かず。ち）。、",
+  "era": "English sonic + boom",
+  "etymology": {
+   "components": [
+    "sonic (sound)",
+    "boom"
+   ],
+   "original_statement": "A loud explosive noise caused by the shock wave from an aircraft traveling faster than the speed of sound."
+  },
+  "concept": "The roar of limit (「。。、。限界。、。、」。を。、。、。不意に。、。、。、突き。、破（。やぶ）。。、った。。、。、。理知。の、。、。。歓。、喜。、。、それ。は、。。、。、。轟（。とど。ろ）。。、。き。。、。となって。、。、。、。世界。その。、。、。もの。を、。、。。、。、揺（。ゆ）。。、。さ。。、。ぶ。る。。、。峻烈な。、。、。、。、。洗。、。礼。、)"
+ },
+ {
+  "id": "harmonic-oscillator",
+  "word": "Harmonic Oscillator",
+  "meaning": "調和振動子、あらゆる。、。、。物理現象。の、。、奥（。オク）。。に。、。、潜む。、。、。純粋な。、。、。、「。。、。振（。ふ）。。、。る。。、。え。。、。、」。",
+  "era": "Greek harmonia + Latin oscillare",
+  "etymology": {
+   "components": [
+    "harmonia (fitting together / joint)",
+    "oscillare (to swing)"
+   ],
+   "original_statement": "A system that, when displaced from its equilibrium position, experiences a restoring force proportional to the displacement."
+  },
+  "concept": "The pure swing (「。。、。どこまでも。、。、」。美。しく。、。、。、。「。。、。、。、一。、。、。、」。、。、。に。、。、。還（。かえ）。。、。り。。つづ。ける。。、。ための。、。、。、。理知。の、。、。。舞（。ま）。。、。い。。、それは、。、。、。、宇宙。が。、。、。、奏（。かな。）。。、。で。、。る。。、。、。最低。限（ミニマル）。。、。の、。、。、メ。、ロ。、デ。、ィ。、)"
  }
 ];
