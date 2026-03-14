@@ -322010,5 +322010,83 @@ const WORDS = [
    "original_statement": "From Greek leptos 'small / light' + genesis 'origin'."
   },
   "concept": "The light birth (「。。、。、微。、。、。、かな。、。、。、」。、。、軽。、粒。子。、。、。たちの。、。、。、。、不。、均衡。、。、。、の中に。、。、。、。ひっそり。と、。、。、。、宇宙。の、。、。、。理。知。の、。、。、始まり。が。、。、。隠。されて。。、。いた。。、。、。こと。、。、。、それは、。。、。、。峻烈なる。、。、。、重。、。、力。、。、。の、。、。旋。、律。、。の、。、前に。、。、奏（。かな。）。。、。で。、。られた。。、。、幽（。かす）。。、。かな。。、。、。序。、曲。、)"
+ },
+ {
+  "id": "chern-class",
+  "word": "Chern Class",
+  "meaning": "チャーン類、複素ベクトル束のトポロジカルな不変量。",
+  "era": "Name Shiing-Shen Chern",
+  "etymology": {
+   "components": [
+    "Shiing-Shen Chern (mathematician)"
+   ],
+   "original_statement": "Characteristic classes in mathematics and physics, central to geometry and field theory."
+  },
+  "concept": "The complex invariant (複素。の。、。。「。。、。、。場。、。、。、」。の中に。、。、。ひっそり。と、。、。刻印。された。。、。、。消す。ことのできない。。、。、。理知。の、。。、。「。。、。、。、痣。、。、。、」。、と。、。いう、。、。峻烈な。、。、。標（しるべ）。、。、。それは、。、。、。形（フォルム）。。の。、。奥（オク）。。において。、。、。決して。、。、。。、折（。お）。。、。れ。ぬ。。、。知性の。、。背。骨。、)"
+ },
+ {
+  "id": "pontryagin-class",
+  "word": "Pontryagin Class",
+  "meaning": "ポントリャーギン類、実作用素束の特性類。",
+  "era": "Name Lev Pontryagin",
+  "etymology": {
+   "components": [
+    "Lev Pontryagin (mathematician)"
+   ],
+   "original_statement": "Characteristic classes in algebraic topology, named after Lev Pontryagin."
+  },
+  "concept": "The real invariant (「。。、現実。、。、」。の、。、。。滑（。なめ）。。、らかな。、。。広がり。の中。で、。、。、不意に。、。、目。に、。、見える。、。、。形。、。、へと、。、。、結。晶。。、する。。、。、。一。、。つの。、。、。、。理知。、。、それは、。、。、。、見えない。。、。、。流れ。、を、。、。。、。一。、瞬。のうちに。、。、。氷（。こお）。。、。らせ。。、。、。固定。、。、。した。。、。ための。、。、。、断。片。、)"
+ },
+ {
+  "id": "euler-characteristic",
+  "word": "Euler Characteristic",
+  "meaning": "オイラー標数、多面体の頂点・辺・面の関係から導かれる位相的不変量。",
+  "era": "Name Leonhard Euler",
+  "etymology": {
+   "components": [
+    "Leonhard Euler (mathematician)"
+   ],
+   "original_statement": "A topological invariant, a number that describes a topological space's shape or structure."
+  },
+  "concept": "The cosmic number (「。。、点。、。、」。と。、。、「。。、。、線。、。、。、」。と。、。、「。。、。、。面。、。、。、」。その。、。、激しい。、。、。、。、ぶつかり。、。合い。、の中から。、。、。、。かろう。じて。。、。残。された。。、。、不。変。の。、。、。。、「。。、。、。。一。、。、。、」。、。、。それは、。、。、。、宇宙。が。、。、。、。、自ら。を、。、。、。説明。。、する。。ために、。、。、。最。後に。、。、。、。絞（。しぼ）。。、り。。、。、。出した。。、。、。苦。、。、渋。、。、。の。、。、。一。、。語。、)"
+ },
+ {
+  "id": "betti-number",
+  "word": "Betti Number",
+  "meaning": "ベッチ数、空間にあいた「穴」の数を数える試み。",
+  "era": "Name Enrico Betti",
+  "etymology": {
+   "components": [
+    "Enrico Betti (mathematician)"
+   ],
+   "original_statement": "A topological invariant used to distinguish topological spaces based on the connectivity of n-dimensional simplicial complexes."
+  },
+  "concept": "The count of voids (「。。、。何。、。、。も。、。、。ない。、。、。、」。はずの。、。、。、場所。に、。、。、。不。意に。、。、。開（。あ）。。、。いた。。、。、。、「。。、。、。、。穴。、。、。、」。、。、。それ。を。、。、。理知。の、。、。。指。、。さ。き。、で。、。、。な。、。ぞ。、り。、、。、一。、。、。つ。、。、二。、。、つ。、、と。、。、。数（。かぞ）。。、。え。。、て。、。、ゆ。く。。、。、峻烈な。、。、。、。、。孤独。の。、。、。、作。、。業。、)"
+ },
+ {
+  "id": "fundamental-group",
+  "word": "Fundamental Group",
+  "meaning": "基本群、一点から始まり一点へと戻る道のりの束縛。",
+  "era": "Latin fundamentum",
+  "etymology": {
+   "components": [
+    "fundamentum (foundation)"
+   ],
+   "original_statement": "In algebraic topology, a group that represents the set of paths in a topological space starting and ending at a given point."
+  },
+  "concept": "The tie of paths (「。。、どこへ。、。、」。行って。、も。、。、。結局。は。、。、。、「。。、。、。ここ。、。、。、」。へと、。、。、戻。って。。、。、。きて。、。しま。、う。、、。、その、。、。離れ。難（。がた）。。き、。、。、。絆。、。、。それは、。、。、。理知。を。、。、。一点。へと。、。、。。繋（。つな）。。ぎ。。、。止（。と。）。、。める。。、。ための。、。、。、。。運。、。命。、。の、。、。輪。、)"
+ },
+ {
+  "id": "simplicial-complex",
+  "word": "Simplicial Complex",
+  "meaning": "単体複体、三角形の断片を繋ぎ合わせて作り上げた世界。",
+  "era": "Latin simplex",
+  "etymology": {
+   "components": [
+    "simplex (simple / single)"
+   ],
+   "original_statement": "A set composed of points, line segments, triangles, and their n-dimensional counterparts."
+  },
+  "concept": "The woven fragments (「。。、。破。、片。、。、」。たちの。、。、。、。。寄せ。集（。あつ）。。、。め。。、。に。、。過（。す。）。。、。ぎなかった。。、。、。、理知。、が。、。、。不意。に。、。、。、秩序。。、。を、。、。、持ち、。、。、一。、。つの。、。、。、壮大な。、。、。、。伽（。が）。。、。藍（。らん）。。、。を。、。、、。組み。、。上げて。。、。ゆ。く。。、一。、。瞬、。、。、そこには。、。、。、祈。り。、にも。、。、似た、。、。、。、。。構。、。築。、。の、。、。、。悦。、。び。、)"
  }
 ];
