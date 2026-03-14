@@ -343278,5 +343278,955 @@ const WORDS = [
 			]
 		},
 		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "convex_hull_algo",
+		"word": "Convex Hull",
+		"meaning": "凸包（とつほう）",
+		"etymology": {
+			"components": [
+				"Convex",
+				"Hull"
+			],
+			"original_statement": "The minimal convex set containing a given set of points."
+		},
+		"concept": "The outermost boundary",
+		"thinking": "点たちの集合を、ぴんと張った輪ゴムのように包み込む、最小で、かつ無駄のない形状。すべての内なる存在を守る、最外の城壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "voronoi_diagram_adv",
+		"word": "Voronoi Diagram",
+		"meaning": "ボロノイ図",
+		"etymology": {
+			"components": [
+				"Voronoi"
+			],
+			"original_statement": "Partitioning space by proximity to seeds."
+		},
+		"concept": "Geometry of influence",
+		"thinking": "「誰がどこに一番近いか」。そのシンプルな優先順位によって、空間が鮮やかな境界（セル）で分けられていく、支配権の地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "delaunay_triangulation",
+		"word": "Delaunay",
+		"meaning": "ドロネー三角形分割",
+		"etymology": [
+			"Delaunay"
+		],
+		"original_statement": "Triangulation dual to the Voronoi diagram.",
+		"concept": "Optimal connectivity",
+		"thinking": "潰れた三角形を避け、最も『太く、健全な』対話の糸で点たちを結ぶ分割。ボロノイ図の双対として現れる、ネットワークの理想形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "sweep_line_algo",
+		"word": "Sweep-line",
+		"meaning": "走査線（そうさせん）アルゴリズム",
+		"etymology": [
+			"Sweep + Line"
+		],
+		"original_statement": "Technique of solving geometric problems by moving a line across space.",
+		"concept": "Processing through time",
+		"thinking": "空間全体の情報を一気に処理せず、一本の『時間（線）』が通り過ぎるときの出会い（イベント）だけに集中する、効率的な知略。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "binary_space_part",
+		"word": "BSP",
+		"meaning": "空間二分法（BSP）",
+		"etymology": [
+			"Binary Space Partitioning"
+		],
+		"original_statement": "Recursively dividing space by hyperplanes.",
+		"concept": "Recursive spatial organization",
+		"thinking": "二つに分かち、さらに二つに。無限の広がりを再帰的に切り分け、どんな情報の欠片も瞬時に見つけ出せる、秩序ある階層構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "quadtree_algo",
+		"word": "Quadtree",
+		"meaning": "四分木（しぶんぎ）",
+		"etymology": [
+			"Quad- (four) + Tree"
+		],
+		"original_statement": "Spatial index based on recursive quadrants.",
+		"concept": "Adaptive resolution",
+		"thinking": "「誰もいない場所」はざっくりと、「込み合っている場所」はどこまでも細かく。現実の密度に合わせて解像度を巧みに変える、情報の賢い眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "octree_algo",
+		"word": "Octree",
+		"meaning": "八分木（はちぶんぎ）",
+		"etymology": [
+			"Oct- (eight) + Tree"
+		],
+		"original_statement": "3D version of a quadtree.",
+		"concept": "Volumetric hierarchy",
+		"thinking": "三次元の沈黙を、八つの立方体へと分かち継ぐ。奥行きのある宇宙を、効率よく、かつ誠実にデジタル化するための骨組み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "kd_tree_algo",
+		"word": "k-d Tree",
+		"meaning": "k次元木",
+		"etymology": [
+			"k-dimensional"
+		],
+		"original_statement": "Space-partitioning data structure for multi-dimensional data.",
+		"concept": "Multidimensional sorting",
+		"thinking": "次元という壁を、座標ごとに順繰りに切り替えて分断していく。多次元の迷宮であっても、最短で『隣人』を見つけ出す知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "bounding_volume",
+		"word": "Bounding Volume",
+		"meaning": "包囲（ほうい）ボリューム",
+		"etymology": [
+			"Bound + Volume"
+		],
+		"original_statement": "Simpler shape enclosing a complex geometry.",
+		"concept": "The fast approximation of existence",
+		"thinking": "複雑な真実を、まずはシンプルな箱（あるいは球）として捉える。大雑把であることで、計算の爆発を避けるための謙虚な代理人。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "ray_tracing_algo",
+		"word": "Ray Tracing",
+		"meaning": "レイトレーシング",
+		"etymology": [
+			"Ray + Trace"
+		],
+		"original_statement": "Rendering technique by tracking paths of light.",
+		"concept": "Reconstructing the gaze of light",
+		"thinking": "「光がどう来たか」ではなく、「目がどう見たか」を逆向きに辿る（Trace）。鏡の反射、透明な屈折、そして影。世界の美しさを光線の旅路として描き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "clipping_algo",
+		"word": "Clipping",
+		"meaning": "クリッピング、切り出し",
+		"etymology": [
+			"Clip"
+		],
+		"original_statement": "Removing parts of a graphic outside the viewing region.",
+		"concept": "The limit of vision",
+		"thinking": "「見えないもの」は、最初から存在しないものとして切り捨てる。限られた資源を「見えるもの」だけに集中させる、冷徹で合理的な決断。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "occlusion_culling",
+		"word": "Occlusion",
+		"meaning": "遮蔽（しゃへい）カリング",
+		"etymology": [
+			"Latin occludere (to shut up)"
+		],
+		"original_statement": "Excluding objects hidden by other objects.",
+		"concept": "Invisibility from layering",
+		"thinking": "「閉じられた（Oc-clude）」視界。何かの背後に隠されてしまった真実を、賢く処理の列から外す仕組み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "level_of_detail",
+		"word": "LOD (Detail)",
+		"meaning": "詳細度（LOD）",
+		"etymology": [
+			"Level of Detail"
+		],
+		"original_statement": "Simplifying models based on distance to observer.",
+		"concept": "Graceful simplification",
+		"thinking": "遠くにあるものは、ぼんやりとした輪郭だけでいい。距離に応じて丁寧さを変え、世界の精緻さと軽やかさを両立させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "half_edge_data",
+		"word": "Half-edge",
+		"meaning": "ハーフエッジ",
+		"etymology": [
+			"Half + Edge"
+		],
+		"original_statement": "Data structure representing planar graphs with directed edges.",
+		"concept": "Directed connectivity",
+		"thinking": "一つの縁（エッジ）を、互いに逆を向く二つの『半分』に分ける。そのおかげで、図形の上を時計回りに、あるいは反時計回りに自在に旅をすることができる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "mesh_refinement",
+		"word": "Mesh Refinement",
+		"meaning": "メッシュ洗練（さいれん）",
+		"etymology": [
+			"Mesh + Refine"
+		],
+		"original_statement": "Subdividing mesh elements to increase accuracy.",
+		"concept": "Iterative sharpening of form",
+		"thinking": "粗い網目を、より細かく、より美しく。理の要求する精度に合わせて、図形の粒子を極限まで磨き上げていく工程。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "alpha_shape_algo",
+		"word": "Alpha Shape",
+		"meaning": "アルファ形状",
+		"etymology": [
+			"Alpha"
+		],
+		"original_statement": "Generalization of the convex hull using a ball of radius alpha.",
+		"concept": "The resolution of boundaries",
+		"thinking": "輪ゴム（凸包）ではなく、一定のサイズの匙で空間を掬い取ったような貌。粗すぎず、細かすぎない、データの『真の輪郭』を抽出する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "medial_axis_trans",
+		"word": "Medial Axis",
+		"meaning": "内側軸（ないそくじく）",
+		"etymology": [
+			"Latin medialis"
+		],
+		"original_statement": "The set of points having more than one closest point on the boundary.",
+		"concept": "The geometric skeleton",
+		"thinking": "形そのものではなく、その中心を通る『骨。両側の壁から完璧に等距離にある場所だけを繋いだ、図形の魂の轍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "marching_cubes",
+		"word": "Marching Cubes",
+		"meaning": "マーチングキューブ法",
+		"etymology": [
+			"Marching"
+		],
+		"original_statement": "Extracting a polygonal mesh from a 3D scalar field.",
+		"concept": "Surfacing from the fog",
+		"thinking": "数値の霧（スカラ場）の中から、一定の濃度の『壁』を検出し、ポリゴンという貌を与えて地上（視覚）へと引きずり出すアルゴリズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "collision_detect",
+		"word": "Collision Detect",
+		"meaning": "衝突（しょうとつ）判定",
+		"etymology": [
+			"Latin collidere"
+		],
+		"original_statement": "Determining if two geometric objects intersect.",
+		"concept": "The boundary of non-interference",
+		"thinking": "「ぶつかり合い（Collidere）」。自分以外の存在が、自分の聖域（空間）を侵していないかを一瞬で判断する、計算機の中の触覚。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "simplex_algorithm",
+		"word": "Simplex Algo",
+		"meaning": "単体法（たんたいほう）",
+		"etymology": [
+			"Latin simplex"
+		],
+		"original_statement": "Algorithm for linear programming by moving along vertices.",
+		"concept": "Climbing the mountain of optimization",
+		"thinking": "可能性の多面体の頂点から頂点へ。最も『高い場所（最適値）』を求めて、足元を確かめながら一歩ずつ登っていく、合理の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "dynamic_program",
+		"word": "Dynamic Prog",
+		"meaning": "動的計画法（どうてきけいかくほう）",
+		"etymology": [
+			"Dynamic"
+		],
+		"original_statement": "Solving problems by combining solutions to subproblems.",
+		"concept": "Efficiency through memoization",
+		"thinking": "一度辿り着いた答えを決して忘れず、それらを組み合わせてさらなる難問を解く。過去の蓄積が、未来の計算を光速にする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "stochastic_algo",
+		"word": "Stochastic",
+		"meaning": "確率的（かくりつてき）な",
+		"etymology": [
+			"Greek stokhastikos (aiming/guessing)"
+		],
+		"original_statement": "Algorithms involving randomness.",
+		"concept": "The wisdom of chance",
+		"thinking": "「推測（Guessing）」すること。完璧な正解を求める代わりに、偶然の力を借りることで、現実的な時間内に『十分に良い』答えへと辿り着く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "monte_carlo_algo",
+		"word": "Monte Carlo",
+		"meaning": "モンテカルロ法",
+		"etymology": [
+			"Monte Carlo (casino city)"
+		],
+		"original_statement": "Algorithms using repeated random sampling.",
+		"concept": "The justice of numbers",
+		"thinking": "何百万回、何千万回とサイコロを振る。偶然の積み重ねが、いつしか必然という名の『真の面積』や『真の答え』を浮き彫りにする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "simulated_annealing",
+		"word": "Annealing",
+		"meaning": "焼きなまし法",
+		"etymology": [
+			"Anneal (cooling down)"
+		],
+		"original_statement": "Optimization inspired by cooling metal.",
+		"concept": "Escaping local minima via heat",
+		"thinking": "時には『熱く』なり、ランダムに迷走することを許す。そうすることで、小さな落とし穴（局所解）を飛び越え、真の頂点を目指す、鍛冶屋の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "p_vs_np_complexity",
+		"word": "P vs NP",
+		"meaning": "P対NP問題",
+		"etymology": [
+			"Polynomial vs Non-deterministic Poly"
+		],
+		"original_statement": "The deepest unsolved problem in computer science.",
+		"concept": "The mystery of verification vs discovery",
+		"thinking": "「答えを確かめること」と「答えを見つけ出すこと」は、本質的に別の難しさなのか。人知の限界を問う、デジタル時代の究極の謎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "turing_complete",
+		"word": "Turing Complete",
+		"meaning": "チューリング完全（かんぜん）",
+		"etymology": [
+			"Turing"
+		],
+		"original_statement": "Ability to perform any computation that can be described algorithmically.",
+		"concept": "The potential of all logic",
+		"thinking": "いかなる計算可能な理も、これ一つで実行できるという万能性の証明。論理という宇宙の、一つの頂点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "halting_problem",
+		"word": "Halting Problem",
+		"meaning": "停止（ていし）性問題",
+		"etymology": [
+			"Halt"
+		],
+		"original_statement": "Undecidability of whether a program will ever finish.",
+		"concept": "The uncomputable horizon",
+		"thinking": "「終わるかどうか」さえ、計算機自身には決して分からないことがある。論理の海に深く刻まれた、決定不能という名の傷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "big_o_notation",
+		"word": "Big O",
+		"meaning": "オーダー、ビッグ・オー記法",
+		"etymology": [
+			"Order"
+		],
+		"original_statement": "Upper bound of the growth rate of a function.",
+		"concept": "Complexity ceiling",
+		"thinking": "データの波が押し寄せたとき、その計算の手間がどれほど『爆発』するか。その最悪のシナリオを一行で言い当てる予言の印。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "divide_and_conquer",
+		"word": "Divide-Conquer",
+		"meaning": "分割（ぶんかつ）統治法",
+		"etymology": [
+			"Divide + Conquer"
+		],
+		"original_statement": "Breaking a problem into smaller identical tasks.",
+		"concept": "Fragmentation for victory",
+		"thinking": "大きすぎる敵（問題）を分割し、一つずつ各個撃破する。小さな勝利を積み重ねて、最後に全一を制圧する、不朽の軍略。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "greedy_algorithm",
+		"word": "Greedy Algo",
+		"meaning": "欲張り（よくばり）法",
+		"etymology": [
+			"Greedy"
+		],
+		"original_statement": "Making the locally optimal choice at each step.",
+		"concept": "The shortsighted optimization",
+		"thinking": "「今、この瞬間」に最も得な選択を繰り返す。必ずしも全体で最高とは限らないが、その迷いのなさが、時に驚くべき速さで答えを掴む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "graph_traversal",
+		"word": "Traversal",
+		"meaning": "巡回（じゅんかい）、走査",
+		"etymology": [
+			"Latin trans- + vertere"
+		],
+		"original_statement": "Visiting all nodes in a graph data structure.",
+		"concept": "Exhaustive exploration",
+		"thinking": "「横切る（Trans）」「翻す（Vertere）」。迷宮のすべての部屋、すべての通路を漏らさず歩き尽くし、全貌を把握しようとする意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "dijkstra_algo",
+		"word": "Dijkstra",
+		"meaning": "ダイクストラ法",
+		"etymology": [
+			"Dijkstra"
+		],
+		"original_statement": "Finding the shortest path in a graph.",
+		"concept": "Efficiency in exploration",
+		"thinking": "可能性の地図を、確実な距離から一段ずつ着実に塗り固めていく。最も『近い』ものから順番に、最短の道（旅路）を確定させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "a_star_search",
+		"word": "A*",
+		"meaning": "A*（エースター）検索",
+		"etymology": [
+			"A*"
+		],
+		"original_statement": "Pathfinding using heuristics to guide exploration.",
+		"concept": "Goal-oriented intuition",
+		"thinking": "単なる探索ではない。ゴールへの『予感（ヒューリスティクス）』を道標に、無駄な迷走を切り捨てて一直線に目的地を射抜く知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "amortized_analys",
+		"word": "Amortized",
+		"meaning": "ならし解析",
+		"etymology": [
+			"Latin ad- + mort (to death)"
+		],
+		"original_statement": "Average performance per operation over a sequence.",
+		"concept": "Structural balance over time",
+		"thinking": "たまに起きる激しい痛み（コスト）を、長い時間の平穏で薄めて評価する。人生、あるいは計算の、真の実力を測るための『均し』の手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "cache_coherence",
+		"word": "Cache Coherence",
+		"meaning": "キャッシュ一貫性（いっかんせい）",
+		"etymology": [
+			"French cacher (to hide) + Co- + Latin haerere"
+		],
+		"original_statement": "Consistency of data stored in local caches.",
+		"concept": "The synchronicity of hidden info",
+		"thinking": "隠された場所（Cache）にコピーされた情報たちが、本体（メモリ）と矛盾なく、一糸乱れぬハーモニーで『共に張り付いている（Co-haerere）』こと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "atomic_operation",
+		"word": "Atomic",
+		"meaning": "原子（げんし）的操作、アトミック",
+		"etymology": [
+			"Greek atomon"
+		],
+		"original_statement": "Operation that completes or fails without any intermediate state.",
+		"concept": "Indivisible action",
+		"thinking": "「これ以上分けられない（Atom）」。誰にも邪魔されることなく、一瞬で終わるか、あるいは全く行われないか。中途半端を許さない論理の最小単位。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "concurrency_algo",
+		"word": "Concurrency",
+		"meaning": "並行性（へいこうせい）",
+		"etymology": [
+			"Latin con- + currere"
+		],
+		"original_statement": "Multiple threads of execution overlapping in time.",
+		"concept": "Simultaneous lives",
+		"thinking": "「共に（Con-）」「走る（Currere）」。いくつもの思考（プロセス）が同時に関わり合いながら進む、複雑で躍動的な社会のような計算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "immutable_data",
+		"word": "Immutable",
+		"meaning": "不変（ふへん）のデータ",
+		"etymology": [
+			"In- + Latin mutare"
+		],
+		"original_statement": "Data that cannot be modified after creation.",
+		"concept": "The untouchable truth",
+		"thinking": "「変わることがない（Im-mutable）」。一度生まれたら最後、いかなる力もその貌を書き換えることはできない、デジタル世界の聖典。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "functional_purity",
+		"word": "Functional Purity",
+		"meaning": "関数（かんすう）の純粋性",
+		"etymology": [
+			"Function + Pure"
+		],
+		"original_statement": "Outputs solely determined by inputs with no side effects.",
+		"concept": "Cause and effect isolation",
+		"thinking": "世界に一切の汚れ（副作用）を残さず、ただ入力を出力へと鏡のように反映する。原因と結果の完璧な一対一の対応。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "lazy_evaluation",
+		"word": "Lazy Evaluation",
+		"meaning": "遅延評価（ちえんひょうか）",
+		"etymology": [
+			"Lazy"
+		],
+		"original_statement": "Delaying computation until the result is required.",
+		"concept": "Rational procrastination",
+		"thinking": "「必要になるその時まで、何もしない」。怠惰であることで、無駄な計算（労力）を極限まで削ぎ落とす、最高にクールな合理主義。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "garbage_collect",
+		"word": "Garbage Collect",
+		"meaning": "ガビレッジ・コレクション",
+		"etymology": [
+			"Garbage + Collect"
+		],
+		"original_statement": "Automatic memory management by reclaiming unused objects.",
+		"concept": "Self-cleaning system",
+		"thinking": "誰からも顧みられなくなった情報の死骸（ゴミ）を、システムが自ら弔い、整理する。終わりなき再生のための、静かな掃除の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "hashing_func",
+		"word": "Hashing",
+		"meaning": "ハッシュ化",
+		"etymology": [
+			"French hacher (to chop)"
+		],
+		"original_statement": "Mapping data of arbitrary size to fixed-size values.",
+		"concept": "Unique algebraic signature",
+		"thinking": "どんなに巨大で複雑な情報も、「切り刻んで（Hacher）」、たった一行のユニークな符号（指紋）へと凝縮する、不可逆の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "load_balancing",
+		"word": "Load Balancer",
+		"meaning": "負荷（ふか）分散、ロードバランサ",
+		"etymology": [
+			"Load + Balance"
+		],
+		"original_statement": "Distributing tasks across multiple resources.",
+		"concept": "The justice of distribution",
+		"thinking": "重圧が一箇所に集中しないように、重みを公平に振り分ける。調和のとれた、持続可能な計算社会の管理者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "adversarial_algo",
+		"word": "Adversarial",
+		"meaning": "敵対的（てきたいてき）な",
+		"etymology": [
+			"Latin adversarius"
+		],
+		"original_statement": "Interacting systems with conflicting goals.",
+		"concept": "Strategic conflict",
+		"thinking": "「向かい合う者（Ad-versus）」。互いの裏をかき、切磋琢磨することで、システムの真の強靭さを引き出し、磨き上げるプロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "heuristic_search",
+		"word": "Heuristic",
+		"meaning": "ヒューリスティック、発見的",
+		"etymology": [
+			"Greek heuriskein"
+		],
+		"original_statement": "Strategy to find a good enough solution quickly.",
+		"concept": "The art of finding",
+		"thinking": "「見つけた！（Heuriskein）」。厳密な理論より、経験と直感を重んじる。最短で、かつ十分に美しい答えへと辿り着くための、知のショートカット。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の知性に驚嘆を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算幾何の見地へ。"
+			]
+		},
+		"example": "Computation is the bridge between abstraction and reality."
 	}
 ];
