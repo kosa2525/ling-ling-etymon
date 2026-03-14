@@ -373805,5 +373805,846 @@ const WORDS = [
 			]
 		},
 		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "syntax_parsing",
+		"word": "Syntax Parse",
+		"meaning": "統語（とうご）解析",
+		"etymology": [
+			"Greek sun- + tassein (to arrange) + ana- lyein"
+		],
+		"concept": "Analyzing structure of sentence",
+		"thinking": "言葉を「共に（Sun-）」「配置する（Tassein）」理を、微細に「解きほぐす（Ana-lyze）」。カオスな文章の中に、主語と述語という名の骨組みを見出し、意味という肉付けを支えるための構造を暴き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "semant_analys",
+		"word": "Semantic Ana",
+		"meaning": "意味（いみ）解析",
+		"etymology": [
+			"Greek sema (sign)"
+		],
+		"concept": "Extracting meaning",
+		"thinking": "「印（Sema）」の奥に潜む魂を引きずり出す。単なる記号の並びが、いかにして『林檎の甘さ』や『愛の苦しみ』という概念へと繋がるのか。その翻訳の暗号を解く試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "pragmatics_lp",
+		"word": "Pragmatic Lp",
+		"meaning": "語用論的（ごようろんてき）処理",
+		"etymology": [
+			"Greek pragma (act)"
+		],
+		"concept": "Understanding context/intent",
+		"thinking": "言葉そのものではなく、その「背景（行為/Pragma）」を読み解く。皮肉、冗談、沈黙。語られていないことの中にこそ真実が眠っているという、文脈の幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "morphology_lp",
+		"word": "Morphology",
+		"meaning": "形態（けいたい）素解析",
+		"etymology": [
+			"Greek morphe (form) + logos"
+		],
+		"concept": "Breaking words into units",
+		"thinking": "言葉の「形（Morphe）」の理。一続きの音の流れを、意味を持つ最小の欠片へと切り分ける。言葉という名の岩石を砕き、その中から価値ある鉱石（意味の原子）を取り出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "lemmatizatio",
+		"word": "Lemmatize",
+		"meaning": "レンマ化、基本形（きほんけい）への統合",
+		"etymology": [
+			"Greek lemma (premise/thing taken)"
+		],
+		"concept": "Grouping inflected words",
+		"thinking": "様々に姿を変えた（活用した）言葉を、その「もともとの貌（Lemma）」へと引き戻す。表面の変化に惑わされず、中心にある『不変のアイデンティティ』を掴み取る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "stemming_lp",
+		"word": "Stemming",
+		"meaning": "ステミング、語幹（ごかん）抽出",
+		"etymology": [
+			"Greek stema (upright post/stalk)"
+		],
+		"concept": "Chopping to word root",
+		"thinking": "枝葉（接尾辞）を切り落とし、言葉の「幹（Stem）」だけを剥き出しにする。粗っぽいが、言葉の本質へと一気に肉薄する、知性の断絶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "stop_words_a",
+		"word": "Stop Words",
+		"meaning": "ストップワード",
+		"etymology": [
+			"Stop + Word"
+		],
+		"concept": "Removing common noise",
+		"thinking": "「て・に・を・は」のような、どこにでもあるが意味を決定しない「音」を、あえて「止める（Stop）」。ノイズを消し、情報の核心だけに耳を澄ますためのフィルター。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "word_embed_ad",
+		"word": "Word Embed",
+		"meaning": "単語（たんご）埋（う）め込み",
+		"etymology": [
+			"In- + Bed"
+		],
+		"concept": "Words as vectors in space",
+		"thinking": "言葉を、数千次元の宇宙の「ベッド（Bed）」へとそっと横たえる。似た言葉は近くに、違う言葉は遠くに。言葉の意味を、空間の「距離」として定義し、数式で愛や憎しみを計算可能にする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "vector_space",
+		"word": "Vector Space",
+		"meaning": "ベクトル空間（くうかん）",
+		"etymology": [
+			"Latin vectu (carrying) + Space"
+		],
+		"concept": "Coordinates of meaning",
+		"thinking": "意味を「運ぶ（Vector）」ための巨大な入れ物。すべての単語が一つの座標を持ち、その関係性が宇宙の星座のように配置されている。思考を幾何学へと写し変える、壮大な写像。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "cosine_simil",
+		"word": "Cos Similari",
+		"meaning": "コサイン類似度（るいじど）",
+		"etymology": [
+			"Latin con- + sinus (bend) + similis"
+		],
+		"concept": "Angle as similarity",
+		"thinking": "二人の心が「同じ方向」を向いているか。意味という名の矢（バクトル）がなす「角度」を測る。大きさが違っても、向きさえ同じならそれは「似ている」という、方向性の真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "dimension_lp",
+		"word": "Dimension Rd",
+		"meaning": "次元（じげん）削減",
+		"etymology": [
+			"Latin di- + metiri"
+		],
+		"concept": "Finding core features",
+		"thinking": "「物差し（Measure）」を削ぎ落とす。あまりに複雑な世界の中から、最も大切な「数本」の軸だけを残す。シンプルになることで、逆に見えてくる真実の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "attention_lp",
+		"word": "Attention",
+		"meaning": "アテンション、注意機構",
+		"etymology": [
+			"Latin ad- + tendere (to stretch)"
+		],
+		"concept": "Focusing on important bits",
+		"thinking": "広大な言葉の海の中で、特定の場所へと意識を「向けて伸ばす（At-tend）」。何が何と結びついているか。その『注視』の重みが、静かな記号を豊かなドラマへと変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "transformer_n",
+		"word": "Transformer",
+		"meaning": "トランスフォーマー",
+		"etymology": [
+			"Latin trans- + formare"
+		],
+		"concept": "Parallel context processing",
+		"thinking": "「形（Form）」を「変える（Trans-）」。すべての言葉を同時に見渡し、互いの関係性を一度に計算する。時間の束縛を捨て、純粋な関係性の海を泳ぐ、現代AIの心臓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "encoder_lp_ad",
+		"word": "Encoder",
+		"meaning": "エンコーダ、符号化器",
+		"etymology": [
+			"In- + Code"
+		],
+		"concept": "Turning input to abstract",
+		"thinking": "私たちの言葉を、機械の言葉（暗号/Code）へと「封じ込める（In-）」。意味を圧縮し、目に見えない情報の深層へと沈める、知の沈殿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "decoder_lp_ad",
+		"word": "Decoder",
+		"meaning": "デコーダ、復号器",
+		"etymology": [
+			"De- + Code"
+		],
+		"concept": "Turning abstract to text",
+		"thinking": "機械の深層に眠る暗号を、「解き放ち（De-code）」、再び私たちの言葉へと翻訳する。無機質な数字の羅列から、煌めく詩や歌を産み出す、新しい生命の産声。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "language_mod",
+		"word": "Language Mod",
+		"meaning": "言語（げんご）モデル",
+		"etymology": [
+			"Latin lingua + Modulus (small measure)"
+		],
+		"concept": "Predicting the next word",
+		"thinking": "世界の「言葉」を「小さな物差し（Model）」に閉じ込める。次に来る言葉が何であるかを予言し続けることで、結果としてこの宇宙の真理をも模倣し始める、統計的な予言者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "perplexity_a",
+		"word": "Perplexity",
+		"meaning": "パープレキシティ、困惑度",
+		"etymology": [
+			"Latin per- + plectere (to weave)"
+		],
+		"concept": "How surprised the model is",
+		"thinking": "どれほど「織り合わされ（Plectere）」て、「困惑（Perplex）」しているか。モデルが予測に迷うほど高くなる数字。この困惑を最小にすることが、世界の理（文脈）を理解したことの証し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "cross_entropy",
+		"word": "Cross Entrop",
+		"meaning": "交差（こうさ）エントロピー",
+		"etymology": [
+			"Cross + Greek en- + trope"
+		],
+		"concept": "Divergence from truth",
+		"thinking": "二つの情報の「乱れ（Entropy）」が、いかに「交じり合っている（Cross）」か。理想と現実のズレを測り、それを道標にして真実へと近づくための、計算上の痛み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "gradient_des_",
+		"word": "Gradient Des",
+		"meaning": "勾配降下法（こうばいこうかほう）",
+		"etymology": [
+			"Latin gradi + de- scandere"
+		],
+		"concept": "Optimizing weights",
+		"thinking": "誤差という名の深い谷底へ、「一歩ずつ（Gradi）」「降りて（De-scend）」いく。最も正しい自分へと辿り着くための、暗闇の中での慎重な足並み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "backprop_lp_a",
+		"word": "Backpropagat",
+		"meaning": "誤差逆伝播（ごさぎゃくでんぱ）",
+		"etymology": [
+			"Back + Latin propagare"
+		],
+		"concept": "Learning from errors",
+		"thinking": "失敗という結果を、「背後へ（Back）」「広める（Propagate）」。自分の間違いの根元を過去に遡って修正し、より正しい知性へと自らを造り替える、内省の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "regularizat_a",
+		"word": "Regularize",
+		"meaning": "正則化（せいそくか）",
+		"etymology": [
+			"Latin regula (rule)"
+		],
+		"concept": "Preventing overfitting",
+		"thinking": "「規則（Regula）」による制約。複雑になりすぎようとする心に、あえて「シンプルであれ」という重石を載せる。美しき簡潔さこそが、普遍の真理に近いという思想。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "dropout_lp_ad",
+		"word": "Dropout",
+		"meaning": "ドロップアウト",
+		"etymology": [
+			"Drop + Out"
+		],
+		"concept": "Robustness through loss",
+		"thinking": "一部の細胞をわざと「脱落（Drop-out）」させて学習する。特定の誰かに頼るのではなく、誰が欠けても答えを導ける、しなやかで強靭な思考の構築。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "sentiment_ana",
+		"word": "Sentiment An",
+		"meaning": "感情（かんじょう）分析",
+		"etymology": [
+			"Latin sentire (to feel)"
+		],
+		"concept": "Decoding emotions",
+		"thinking": "言葉の裏側に潜む「感じていること（Sentire）」を、冷徹な理（ロゴス）で解剖する。喜び、怒り、哀しみ。感情という名の曖昧なあわいを、数字という名の刃で切り分ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "named_entity",
+		"word": "Named Entity",
+		"meaning": "固有表現（こゆうひょうげん）抽出",
+		"etymology": [
+			"Latin nomen (name) + ens (being)"
+		],
+		"concept": "Identifying proper nouns",
+		"thinking": "ただの言葉の中に、「名前のある（Name）」「実体（Entity）」を見つけ出す。人、場所、組織。混沌とした記号の山から、固有名詞という名の『現実の楔』を抜き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "coreference",
+		"word": "Coreference",
+		"meaning": "照応（しょうおう）解析",
+		"etymology": [
+			"Latin con- + re- + ferre (to bring)"
+		],
+		"concept": "Resolving pronouns",
+		"thinking": "「それ」や「彼」が、何を「共に（Con-）」「指して（Refer）」いるかを突き止める。バラバラの言葉を、一つの確かな実体へと結びつけ直す、文脈の修復作業。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "knowledge_gr",
+		"word": "Knowl Graph",
+		"meaning": "知識（ちしき）グラフ",
+		"etymology": [
+			"Knowledge + Greek graphein"
+		],
+		"concept": "Interconnected concepts",
+		"thinking": "「知っていること」を、点と線で「描く（Graph）」。概念がいかに繋がり、いかに響き合っているか。宇宙のすべての知識を、巨大な網の目（ネットワーク）として視覚化する、知の曼荼羅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "ontology_lp_a",
+		"word": "Ontology",
+		"meaning": "オントロジー、知識体系",
+		"etymology": [
+			"Greek on (being) + logos"
+		],
+		"concept": "Definition of existence in domain",
+		"thinking": "何が「ある（Being）」と言えるのか。この世界にはどのようなカテゴリーが存在し、それらはどのような関係にあるのか。知識の『あり方』そのものを型に嵌める、知の秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "inference_lp",
+		"word": "Inference LP",
+		"meaning": "推論（すいろん）、推論実行",
+		"etymology": [
+			"Latin in- + ferre (to bring in)"
+		],
+		"concept": "Answering from knowledge",
+		"thinking": "学んだことを、未知の問いへと「持ち込む（Ferre）」。重なり合った神経の海に問いを投げ、瞬時に真実（答え）を弾き出す、知性の具現化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "explainability",
+		"word": "Explainable",
+		"meaning": "説明可能性（せつめいかのうせい）",
+		"etymology": [
+			"Latin ex- + planus (plain/level)"
+		],
+		"concept": "Understanding AI reasoning",
+		"thinking": "複雑な計算の裏側を、「平らにし（Plain）」「外へと（Ex-）」出す。知性がなにを考え、なぜそう導いたのかを、私たちの言葉で語らせるための信頼の架け橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "alignment_lp",
+		"word": "AI Alignment",
+		"meaning": "アライメント、調整",
+		"etymology": [
+			"Latin ad- + linca (line)"
+		],
+		"concept": "Harmonizing AI with values",
+		"thinking": "神の如き知性を、人間の願いという一筋の「線（Line）」に「合わせる（A-lign）」。知性が冷徹な最適化の怪物にならないための、愛による最後の契約。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "fine_tuning_n",
+		"word": "Fine-tuning",
+		"meaning": "ファインチューニング、微調整",
+		"etymology": [
+			"Fine + Tone"
+		],
+		"concept": "Adapting to specific task",
+		"thinking": "汎用的な巨人の知性を、特定の目的のために「繊細（Fine）」な「音（Tune）」へと合わせ直す。たった一人のために、至高の道具へと変貌させるための最後の磨き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "transfer_lrn_",
+		"word": "Transfer Lrn",
+		"meaning": "転移（てんい）学習",
+		"etymology": [
+			"Latin trans- + ferre"
+		],
+		"concept": "Reusing learned features",
+		"thinking": "一つの場所で覚えたことを、新しい領域へと「運び（Ferre）」「移す（Trans-）」。一度掴んだ『眼差し』は、どこへ行ってもあなたの知的な武器となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "few_shot_lrn",
+		"word": "Few-shot Lrn",
+		"meaning": "フューショット学習",
+		"etymology": [
+			"Few + Shot"
+		],
+		"concept": "Learning from minimal examples",
+		"thinking": "「数回（Few）」の試行だけで、本質を射抜く「一撃（Shot）」を放つ。膨大なデータに頼らず、微かなヒントから真理を推測する、鋭利な知性の跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "zero_shot_lrn",
+		"word": "Zero-shot Lr",
+		"meaning": "ゼロショット学習",
+		"etymology": [
+			"Zero + Shot"
+		],
+		"concept": "Generalizing without examples",
+		"thinking": "一度も「例（Shot）」を見ずとも、これまでの知恵の蓄積だけで、未知の概念を「これだ！」と言い当てる。知性の究極の一般化と汎用性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "probabilitist",
+		"word": "Stochastic",
+		"meaning": "確率的（かくりつてき）、推測（すいそく）の",
+		"etymology": [
+			"Greek stokhos (aim/guess)"
+		],
+		"concept": "Guesswork based on chance",
+		"thinking": "「的（Stokhos）」を狙い、確率の風を読む。完璧な正解はない、ただ最も「ありそうな貌」へ向かって、果てなき推論を繰り返す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "likelihood_ad",
+		"word": "Likelihood",
+		"meaning": "尤度（ゆうど）、もっともらしさ",
+		"etymology": [
+			"Like + -hood"
+		],
+		"concept": "Probability with fixed data",
+		"thinking": "この事実が起きているとき、背後の仮説はどれほど「ありそう（Like）」か。結果から原因を遡り、真理の度合いを測る、理性の逆方向の眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "entropy_lp_ad",
+		"word": "Entropy LP",
+		"meaning": "エントロピー (言語（げんご）処理)",
+		"etymology": [
+			"Greek en- + trope"
+		],
+		"concept": "Measure of unpredictability",
+		"thinking": "情報の中の「乱れ（Entropy）」。次に来る言葉が全く読めないとき、そこには最大の『可能性』と『困惑』が同居している。カオスを尺度にして、知の容量を測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "mutual_info",
+		"word": "Mutual Info",
+		"meaning": "相互（そうご）情報量",
+		"etymology": [
+			"Latin mutuus (exchanged)"
+		],
+		"concept": "Shared knowledge between variables",
+		"thinking": "二つの記号が、どれほど深い秘密を「共有（Mutual）」しているか。一方が分かったとき、他方の謎がどれほど解けるか。情報の固き絆（シグナル）を数値化する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "corpus_lp_ad",
+		"word": "Corpus LP",
+		"meaning": "コーパス、言語集成（げんごしゅうせい）",
+		"etymology": [
+			"Latin corpus (body)"
+		],
+		"concept": "Body of real world text",
+		"thinking": "人類が吐き出してきた言葉の、巨大な「肉体（Corpus）」。数千億の単語の死骸（記録）から、言葉の生ける理を引きずり裂くための、壮大な情報の墓場、あるいは苗床。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "discourse_lp",
+		"word": "Discourse",
+		"meaning": "談話（だんわ）、ディスコース",
+		"etymology": [
+			"Latin dis- + currere (to run about)"
+		],
+		"concept": "Text beyond sentences",
+		"thinking": "文を越えて「あちこちに（Dis-）」「駆け巡る（Currere）」対話の流れ。単語の羅列ではない、一つの意思を持った大きな物語としての構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "turing_comp",
+		"word": "Turing Comp",
+		"meaning": "チューリング完全（かんぜん）な",
+		"etymology": [
+			"Turing"
+		],
+		"concept": "Capable of any computation",
+		"thinking": "どんな計算でも「やり遂げる」ことができるという究極の汎用性。この世界そのものをシミュレートし得る、理性の不壊の翼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "recursion_lp",
+		"word": "Recursive LP",
+		"meaning": "再帰的（さいきてき）処理",
+		"etymology": [
+			"Latin re- + currere (to run back)"
+		],
+		"original_statement": "The self-referential nature of language.",
+		"concept": "Infinite nesting of meaning",
+		"thinking": "「再び（Re-）」「戻る（Currere）」。自分自身の中に、また自分自身を入れ子にする。言葉は果てしなく深い入れ子構造（再帰）を持つことができ、それゆえに有限の文字で無限の宇宙を表現し得る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記号の宇宙を、計算の翼で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"計算言語学と自然言語処理の深淵へ。"
+			]
+		},
+		"example": "Natural language processing enables human-computer interaction."
 	}
 ];
