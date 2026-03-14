@@ -321924,5 +321924,91 @@ const WORDS = [
    "original_statement": "The idea that the entire information of a volume is encoded on its boundary."
   },
   "concept": "The whole written (「。。、。、立。体。、。、」。としての。、。、。、この。、。世界。は、。、。、。、実は。、。、。一。、。枚の。、。、。。「。。、。、。影。、。絵。、。、。、」。に。、。、す。、ぎ。、。ない。。、。、。、かもしれない。。、。という、。、。理知。の、。、。峻烈な。、。、。、。皮。、。肉。、。、。それは、。、。、。、。果てし。なき。、。、。宇宙。の、。、。深。淵。、を、。、。、一。、点の。、。、。面に。、。、。封（。ふう）。。、。じ。。込（。こ。）。。、める。。、。、。知性の。、。、簒。、奪。、)"
+ },
+ {
+  "id": "helioseismology",
+  "word": "Helioseismology",
+  "meaning": "日震学、太陽の振動を分析してその内部を探る学問。",
+  "era": "Greek helios + seismos + logia",
+  "etymology": {
+   "components": [
+    "helios (sun)",
+    "seismos (quake)",
+    "logia (study)"
+   ],
+   "original_statement": "From Greek helios 'sun' + seismos 'quake' + -logy."
+  },
+  "concept": "The sun's tremble (「。。、。太陽。、。、」。の、。、。。深。淵。、。で。、。、不意に。、。、生（。う）。。、。まれた。。、。わずかな。、。、。「。。、。、。、。振（。ふ）。。、。る。。、。え。。、。、」。を。、。、。理知。の、。、。。耳。。、。、。を。、。、。澄（。す）。。、。まして。、。、。聞（。き）。。、。く。。、。、。こと。、。、。、それは、。、。、。燃。、え。。、。盛る。。、。、。、火。玉。の、。、。奥（。オク）。。に。、。、。、ひっそり。と、。、。、。、隠された。。、。、真。、実。、を、。、。、。。、。暴。、。、。く。、。、。、ための。、。、。、奏。鳴。、)"
+ },
+ {
+  "id": "asteroseismology",
+  "word": "Asteroseismology",
+  "meaning": "星震学、恒星の振動からその心臓部を覗き見る試み。",
+  "era": "Greek astron + seismos + logia",
+  "etymology": {
+   "components": [
+    "astron (star)",
+    "seismos (quake)",
+    "logia (study)"
+   ],
+   "original_statement": "From Greek astron 'star' + seismos 'quake' + -logy."
+  },
+  "concept": "The stars' tremble (「。。、。、遠。、。、」。い、。、。、。夜。空。、。、。の、。、。星。たちが。、。、。、その。、。、。、。胸。の、。、。奥底。で。、。、。、。吐（。は）。。、。き。。、。出す。。、。、。幽（。かす）。。、。かな。。、。、。鼓。、動力（。ビート）。。、。、。、。それを。、。、、捉。、え。。、。る。。、。ことで、。、。、。星。の。、。、。、生（。い）。。、き。。、。ざ。ま。、。、。、を、。、。。、。解（。と。）。。、。き。。、。明（。あ）。。、。かす。。、。理知。の、。。、望。、。、。遠。、。、。、鏡。、)"
+ },
+ {
+  "id": "recombination",
+  "word": "Recombination",
+  "meaning": "再結合、宇宙の晴れ上がり、光が直進を開始した瞬間。",
+  "era": "Latin re- + combinare",
+  "etymology": {
+   "components": [
+    "re- (again)",
+    "combinare (to combine)"
+   ],
+   "original_statement": "In cosmology, the epoch when charged electrons and protons first became bound to form neutral hydrogen atoms."
+  },
+  "concept": "The clearing light (「。。、。暗黒。、。、」。の、。、。。霧。が、。、。、不意に。、。、。晴。、。れ。、、。、。。理知。を。、。、。持った。、。、。、光。が、。、。、。はじめて。、。、。、宇宙。を。、。、。、。、。駆（。か）。。、。け。。、抜（。ぬ）。。、。ける。。、。ことの、。、。、。許。、。、。された。。、。一。、。瞬、。、。、それは、。、。、。、物。質。、と、。、。。光。が、。、。、永遠。の、。、。。離。、。別。、を、。、。、。、。告。、。げ。、た、。、。瞬。間。、。な。のです。、。)"
+ },
+ {
+  "id": "cosmic-inflation",
+  "word": "Cosmic Inflation",
+  "meaning": "宇宙のインフレーション、爆発的な急成長の予感。",
+  "era": "Latin inflare",
+  "etymology": {
+   "components": [
+    "in- (into)",
+    "flare (to blow)"
+   ],
+   "original_statement": "The hypothesized extremely rapid exponential expansion of the early universe."
+  },
+  "concept": "The blowing expansion (「。。、。、無。、。、」。から。、。、。、。不意に。、。、。、峻烈なる。、。、。、。「。。、。、。、。点。、。、。、」。が、。、。、。宇宙。の。、。、。。全。体。。、。へと。、。、。、一。、。、。、。、瞬。、のうちに。、。、。膨（。ふく）。。、。ら。、。み。。、。上がった。。、。、。、理知。の、。。、暴。、。、。走。、。、。、それは、。、。、。、静寂。を。、。、。切り。、。裂（。さ。）。、。く。。、。、。最初。の、。、。、。、咆（。ほう）。。、。哮（。こう）。。、。であり、。、。、。、可能性。の、。、。。、。炸。、。裂。、)"
+ },
+ {
+  "id": "baryogenesis",
+  "word": "Baryogenesis",
+  "meaning": "バリオン数生成、物質が反物質に打ち勝った太古の勝利。",
+  "era": "Greek barys + genesis",
+  "etymology": {
+   "components": [
+    "barys (heavy)",
+    "genesis (origin)"
+   ],
+   "original_statement": "From Greek barys 'heavy' + genesis 'origin / birth'."
+  },
+  "concept": "The heavy birth (「。。、。、無。、。、」。へと、。、。、消えて。、。、。しまう。、。、。はずだった。、。、。、物。質。、。が、。、。、不意に。、。、。、。反。、物。質。、に。、。、。、打ち。勝ち。。、。、。かろう。じて。。、。、。残。された。。、。、。こと。、。、。、それは、。、。、。我ら。の、。、。、存在。。の、。、。。、。、最。、。、初。、の。、。、。揺。、。ら。、ぎ。、。、であり、。、。、。、祈。り。、。な。のです。、。)"
+ },
+ {
+  "id": "leptogenesis",
+  "word": "Leptogenesis",
+  "meaning": "レプトジェネシス、軽粒子の不均衡から生じた宇宙の偏り。",
+  "era": "Greek leptos + genesis",
+  "etymology": {
+   "components": [
+    "leptos (slender / light)",
+    "genesis (origin)"
+   ],
+   "original_statement": "From Greek leptos 'small / light' + genesis 'origin'."
+  },
+  "concept": "The light birth (「。。、。、微。、。、。、かな。、。、。、」。、。、軽。、粒。子。、。、。たちの。、。、。、。、不。、均衡。、。、。、の中に。、。、。、。ひっそり。と、。、。、。、宇宙。の、。、。、。理。知。の、。、。、始まり。が。、。、。隠。されて。。、。いた。。、。、。こと。、。、。、それは、。。、。、。峻烈なる。、。、。、重。、。、力。、。、。の、。、。旋。、律。、。の、。、前に。、。、奏（。かな。）。。、。で。、。られた。。、。、幽（。かす）。。、。かな。。、。、。序。、曲。、)"
  }
 ];
