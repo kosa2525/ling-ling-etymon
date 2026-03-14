@@ -323396,5 +323396,88 @@ const WORDS = [
    "original_statement": "A theorem that describes the result of performing the same experiment a large number of times."
   },
   "concept": "The grand law (「。。、。一。、度。、。、」。だけ。では。、。、。、。決して。、。、。理。知。、を。、。、。捉（。と。）。。、。える。。、。こと。、。の、。、できない。。、。我ら。に。、。、。、あえて。、。、。、。宇宙。が。、。、。、。、「。。、。、繰り返。、。し。、。、。、」。を。、。、通。、じて。、。、教（。おし）。。、。えて。。、。、くれる。。、。、峻烈な。、。、。、。、慈。、。悲。、)"
+ },
+ {
+  "id": "diamagnetism",
+  "word": "Diamagnetism",
+  "meaning": "反磁性、外部の磁界を。、。、。あえて。、。、。押し。、。返（。かえ）。。、。す。。、。理知。の、。峻烈な。、。、。拒。、。絶。、",
+  "era": "Greek dia- + magnes",
+  "etymology": {
+   "components": [
+    "dia (through / apart)",
+    "magnes (magnet)"
+   ],
+   "original_statement": "The property of magnetic materials that are repelled by a magnetic field."
+  },
+  "concept": "The magnetic refusal (「。。、。外。、。、」。からの。、。、。、不。純。な、。、。、。、「。。、。、力。、。、。、」。など、。、。、。、決して。、。、。、。、一。、。、。滴。、。、。たり。とも。、。、中に入。、。、。れ。ぬ。。、。、。という、。、。、峻烈な。、。、。、。理知。の、。、。、孤。、高。、。、。それは、。、。、。、自ら。の。、。、。、聖域。を、。、。、。守り。、。、。抜（。ぬ）。。、。く。。、ための。、。、。、。峻烈なる。、。、。、。返。、答。、)"
+ },
+ {
+  "id": "paramagnetism",
+  "word": "Paramagnetism",
+  "meaning": "常磁性、外部の磁界を。、。、。ひっそり。と、。、。、。迎え。、。入れる。。、。、。柔（。やわ）。。、。らかな。。、。、理。知。、",
+  "era": "Greek para- + magnes",
+  "etymology": {
+   "components": [
+    "para (beside / alongside)",
+    "magnes (magnet)"
+   ],
+   "original_statement": "A form of magnetism whereby some materials are weakly attracted by an externally applied magnetic field."
+  },
+  "concept": "The magnetic acceptance (「。。、どこ。を。、。、」。指（。さ。）。。、して。。、。いる。。、。、のか。、。、。さえ。、。、。分か。、。ら。、。ぬ。。、。、弱々。、。、。しき。。、。、自。分。。の中に。、。、。不意に。、。、。、一。、。つの。、。、。、。「。。、。、。、方位。、。、。、」。が。、。、。生ま。れる。。、。、こと。の、。、。。喜び。、。、それは、。、。、。、宇宙。からの。、。、。呼び。、。掛け。。、。に対する。、。、。、幽（。かす）。。、。かな。。、。、。愛。、。、の、。、。。、。返。、。信。、)"
+ },
+ {
+  "id": "antiferromagnetism",
+  "word": "Antiferromagnetism",
+  "meaning": "反強磁性、隣り合うスピンが。、。、。互い。に、。、。、あえて。、。、。、逆。、。を。、。、。向き。、。合い。。、。、均衡。を。、。、守。、る。。、理。知。、",
+  "era": "Greek anti- + Latin ferrum + magnes",
+  "etymology": {
+   "components": [
+    "anti (against)",
+    "ferrum (iron)",
+    "magnes (magnet)"
+   ],
+   "original_statement": "A type of magnetism in which the magnetic moments of neighboring atoms align in opposite directions."
+  },
+  "concept": "The counter alliance (「。。、。私。、。、」。と。、。、「。。、。、あ。、な。た。、。、。」。は。、。、。。あえて。、。、。反対。を、。、。、。向き。、。、合う。。、ことで。、。、。、。一。、。つの。、。、。正。、。、義。、を。、。、守（。まも）。。、。り。。、。抜（。ぬ）。。、。く。。、。峻烈な。、。、。、誠実。、。、。それは、。、。、。、。争（。あらそ）。。、。い。。ながら。、。、。、。結（。むす）。。、。ば。、。れた。。、。、。奇。跡。、。の、。、。。、共。、。闘。、)"
+ },
+ {
+  "id": "ferrimagnetism",
+  "word": "Ferrimagnetism",
+  "meaning": "フェリ磁性、不揃いな。、。、。スピン。、。たちが、。、。、差し。引き。の、。、。中で。、。、。、。、一。、。つの。、。、。、。磁力。を。、。、生。、。む。。、理知。の、。妥。、協。、",
+  "era": "Latin ferrum + magnes",
+  "etymology": {
+   "components": [
+    "ferrum (iron)",
+    "magnes (magnet)"
+   ],
+   "original_statement": "A type of permanent magnetism in which the magnetic moments of the atoms on different sublattices are opposed, as in antiferromagnetism, but the opposing moments are unequal."
+  },
+  "concept": "The unequal balance (「。。、。強。、。、。い。、。、。、」。もの。、。と、。、「。。、。、弱。、。い。、。、。、」。もの。、。、。、。それらが、。、。、。、譲（よず）。。、。り。。、合い。。、。、一。、。つの。、。、。、。、「。。、。、。、。磁。、力。、。、。、」。として。、。、世界。。へと、。、。、。働（。はたら）。。、。き。。、。掛（。か。）。。、。ける。。、。ことの、。、。、。美。しさ。、。、。それは、。、。、。、理知。が、。、。、。混沌。の中に。、。、。ひっそり。と、。、。見出した。。、。、。、。、。調。、。和。、。の、。、。、。。一。、形態。、)"
+ },
+ {
+  "id": "magnetic-susceptibility",
+  "word": "Magnetic Susceptibility",
+  "meaning": "磁化率、磁界に対してどれほど。、。、。心。を、。、。、揺（ゆ）。。、。さ。。、ぶ。ら。れる。。、か。、。の。、。度合い。、",
+  "era": "Latin suspectibilitas",
+  "etymology": {
+   "components": [
+    "susceptibilis (capable / ready to receive)"
+   ],
+   "original_statement": "A measure of how much a material will become magnetized in an applied magnetic field."
+  },
+  "concept": "The vulnerability to force (「。。、。、目。に、。、。見えない。、。、。圧力。に、。、。、。どれ。。、。ほど。、。、。素直。に、。、。。自。自分。を。、。、。震。え。。、。さ。、。せ。。、。理知。を。、。、。そこに。、。、。、。「。。、。、。、。宿（。やど）。。、。す。。、。、。、」。、。、。ことが。、。、。、。できる。。、か。、。、という、。、。理知。の、。、。。感受。。性。、。、。の、。、。、。鋭（。する）。。、。さ。、)"
+ },
+ {
+  "id": "curie-temperature",
+  "word": "Curie Temperature",
+  "meaning": "キュリー温度、熱。によって。、。、。理知。の。、。、。。「。、。、方位。、。、。、」。が。、。、。、。一。、。、。瞬、。にして。、。、失わ。れる。。、。臨界。の。、。。点。、",
+  "era": "Name Pierre Curie",
+  "etymology": {
+   "components": [
+    "Pierre Curie (physicist)"
+   ],
+   "original_statement": "The temperature above which certain materials lose their permanent magnetic properties."
+  },
+  "concept": "The heat of loss (「。。、。、想（。おも）。。、。い。。、。、」。が、。、。、あまり。に。、。、。、激しく。、。、。、。高ぶ。り。。、。、すぎた。、。、。、とき。に。、。、。不意に。、。、。、「。。、。、。、。自分。、。、。、」。を。、。、。忘（。わす）。。、。れて。。、。しまう。。、。、。理知。の、。、。。峻烈なる。、。、。、。遺。、忘。、。、それは、。、。、。、。秩序。が。、。、。、。、。純粋。な、。、。、。、。「。。、。、。、熱。、。、。、」。、と。、。いう、。、。、。。嵐。へと、。、。、。、。還（かえ）。。、。る。。ための、。、。。、。、最後。の、。、。、。、。一。、。点。、)"
  }
 ];
