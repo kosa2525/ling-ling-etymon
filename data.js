@@ -334624,5 +334624,944 @@ const WORDS = [
 			]
 		},
 		"example": "Topology is geometry without measurement."
+	},
+	{
+		"id": "fourier_transform",
+		"word": "Fourier Transform",
+		"meaning": "フーリエ変換",
+		"etymology": {
+			"components": [
+				"Fourier"
+			],
+			"original_statement": "Named after Joseph Fourier."
+		},
+		"concept": "Frequency decomposition",
+		"thinking": "複雑な時間のうねりを、純粋な『周波数（音色の集まり）』へと解きほぐす、宇宙の音響的な翻訳術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "harmonic_analysis",
+		"word": "Harmonic Analysis",
+		"meaning": "調和解析（ちょうわかいせき）",
+		"etymology": {
+			"components": [
+				"Greek harmonikos"
+			],
+			"original_statement": "From Greek harmonia 'joint / agreement / concord'."
+		},
+		"concept": "Analysis of vibrations",
+		"thinking": "「調和（Harmonia）」。世界を震える波の重ね合わせとして捉え、その背後に隠された秩序（シンフォニー）を読み解く解析学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "wavelet_transform",
+		"word": "Wavelet",
+		"meaning": "ウェーブレット",
+		"etymology": {
+			"components": [
+				"Wave + -let (little)"
+			],
+			"original_statement": "Little waves used for signal analysis."
+		},
+		"concept": "Localized frequency analysis",
+		"thinking": "「小さな波（Wavelet）」。フーリエ変換の弱点を克服し、時間と周波数の両方を同時に、かつ局所的に捉える、精緻な顕微鏡のような波。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "bounded_operator",
+		"word": "Bounded Operator",
+		"meaning": "有界作用素（ゆうかいさようそ）",
+		"etymology": {
+			"components": [
+				"Bound"
+			],
+			"original_statement": "Operator whose output norm is bounded by input norm."
+		},
+		"concept": "Controlled transformation",
+		"thinking": "入力をどれだけ大きくしても、出力が制御不能なほどには爆発しない、誠実で安定した変化の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "compact_operator",
+		"word": "Compact Operator",
+		"meaning": "コンパクト作用素",
+		"etymology": {
+			"components": [
+				"Latin compactus"
+			],
+			"original_statement": "Operators that map bounded sets to precompact sets."
+		},
+		"concept": "Approaching finite dimensions",
+		"thinking": "無限次元の広がりを、実質的には有限次元のような『扱いやすい（コンパクトな）』範囲に収めてしまう、高度な洗練を持つ作用素。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "spectral_theory",
+		"word": "Spectral Theory",
+		"meaning": "スペクトル理論",
+		"etymology": {
+			"components": [
+				"Latin spectrum (appearance / vision)"
+			],
+			"original_statement": "Generalization of eigenvalues/eigenvectors."
+		},
+		"concept": "Vision of internal structure",
+		"thinking": "作用素の内側に潜む『魂の刻印（固有値）』を、プリズムを通した光（スペクトル）のように分解して視覚化する理論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "self_adjoint",
+		"word": "Self-adjoint",
+		"meaning": "自己共役（じここうやく）",
+		"etymology": [
+			"Self + Adjoint"
+		],
+		"original_statement": "Operator that equals its own adjoint.",
+		"concept": "Mathematical mirror symmetry",
+		"thinking": "観測者としての自分と、実体としての自分が完全に一致している状態。物理学的における『実在（オブザーバブル）』の象徴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "eigenvalue_math",
+		"word": "Eigenvalue",
+		"meaning": "固有値（こゆうち）",
+		"etymology": {
+			"components": [
+				"German eigen (own) + value"
+			],
+			"original_statement": "From German eigen 'own / characteristic'."
+		},
+		"concept": "Characteristic frequency",
+		"thinking": "外部からの作用に対しても、自分自身の『形（方向）』を一切崩さず、ただ拡大・縮小するだけで応える、その人（作用素）特有の性質。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "eigenvector_math",
+		"word": "Eigenvector",
+		"meaning": "固有ベクトル",
+		"etymology": {
+			"components": [
+				"German eigen + vector"
+			],
+			"original_statement": "Vectors that only scale under a linear map."
+		},
+		"concept": "Invariant direction",
+		"thinking": "変化の荒波の中でも、決してその向き（信念）を変えない、不変の方向性を持ったベクトル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "schwartz_space",
+		"word": "Schwartz Space",
+		"meaning": "シュワルツ空間",
+		"etymology": {
+			"components": [
+				"Schwartz"
+			],
+			"original_statement": "The space of rapidly decreasing functions."
+		},
+		"concept": "Infinite smoothness and decay",
+		"thinking": "無限に滑らかで、かつ無限の彼方では急速に息を潜める、最も行儀の良い（解析的に完璧な）関数たちの楽園。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "distribution_theory",
+		"word": "Distribution",
+		"meaning": "超関数（ちょうかんすう）、ディストリビューション",
+		"etymology": {
+			"components": [
+				"Latin dis- + tribuere"
+			],
+			"original_statement": "Generalization of functions via duality."
+		},
+		"concept": "generalized measurement",
+		"thinking": "一点に突き刺さるような鋭い衝撃をも『関数』として受け入れる、解析学の度懐の深い一般化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "delta_function",
+		"word": "Dirac Delta",
+		"meaning": "ディラックのデルタ関数",
+		"etymology": {
+			"components": [
+				"Dirac"
+			],
+			"original_statement": "A distribution that is zero everywhere except at one point."
+		},
+		"concept": "The ultimate pulse",
+		"thinking": "一瞬の閃き、一点への全エネルギー投下。数学的には無理があっても、物理的な『真実』を捉えるための強引で美しい極限。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "convolution_math",
+		"word": "Convolution",
+		"meaning": "畳み込み（たたみこみ）",
+		"etymology": {
+			"components": [
+				"Latin con- + volvere"
+			],
+			"original_statement": "From Latin convolvere 'to roll together'."
+		},
+		"concept": "Rolling together of signals",
+		"thinking": "「共に（Con）」「転がる（Volve）」。二つの波が重なり合い、一方がもう一方の貌（かたち）を優しく書き換えていく、響き合いのプロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "riesz_representation",
+		"word": "Riesz",
+		"meaning": "リースの表現定理",
+		"etymology": {
+			"components": [
+				"Riesz"
+			],
+			"original_statement": "Every continuous linear functional on a Hilbert space is an inner product."
+		},
+		"concept": "Unity of observation and reality",
+		"thinking": "「測ること（観測）」と「そこに在ること（実体）」は、ヒルベルト空間においては完全に等価であるという、解析学の福音。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "orthonormal_basis",
+		"word": "Orthonormal",
+		"meaning": "正規直交（せいきちょっこう）",
+		"etymology": {
+			"components": [
+				"Greek orthos + Latin normalis"
+			],
+			"original_statement": "Basis where all vectors are unit length and orthogonal."
+		},
+		"concept": "The perfect grid of reality",
+		"thinking": "互いに干渉せず（直交）、かつ等しい重み（正規）を持つ。世界を最も美しく、最も効率的に記述するための究極の物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "normed_vector_space",
+		"word": "Normed Space",
+		"meaning": "ノルム空間",
+		"etymology": {
+			"components": [
+				"Latin norma (rule / square)"
+			],
+			"original_statement": "Vector space with a defined length."
+		},
+		"concept": "Space with a rule of length",
+		"thinking": "抽象的なベクトルに『距離（重み）』という具体的な意味を与える、一貫した定規（ノルム）のある世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "completeness_math",
+		"word": "Completeness",
+		"meaning": "完備性（かんびせい）",
+		"etymology": {
+			"components": [
+				"Latin complere"
+			],
+			"original_statement": "Property where every Cauchy sequence converges."
+		},
+		"concept": "No holes in the limit",
+		"thinking": "「満たされている（Complete）」こと。追い求めれば（極限）、必ずそこに答えが待っているという、数学的な安心感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "cauchy_sequence",
+		"word": "Cauchy Sequence",
+		"meaning": "コーシー列",
+		"etymology": {
+			"components": [
+				"Cauchy"
+			],
+			"original_statement": "A sequence where terms become arbitrarily close to each other."
+		},
+		"concept": "Approaching a destiny",
+		"thinking": "旅の先へ行くほど、足跡が一点に凝縮されていく様子。まだ目的地は見えなくても、何かに近づいているという確信の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "operator_norm",
+		"word": "Operator Norm",
+		"meaning": "作用素ノルム",
+		"etymology": {
+			"components": [
+				"Operator",
+				"Norm"
+			],
+			"original_statement": "The maximum stretch an operator can exert."
+		},
+		"concept": "The maximum stretching power",
+		"thinking": "その変化（作用素）が、世界を最大でどれだけ『引き伸ばす』ことができるか。その影響力の限界値。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "resolvent_set",
+		"word": "Resolvent",
+		"meaning": "レゾルベント集合",
+		"etymology": {
+			"components": [
+				"Latin re- + solvere"
+			],
+			"original_statement": "Values where the operator is invertible."
+		},
+		"concept": "The realm of easy inversion",
+		"thinking": "「解き放たれる（Solve）」場所。そこでは作用素の呪縛が解け、自由に行き来（逆写像）ができる安定した領域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "spectrum_point",
+		"word": "Point Spectrum",
+		"meaning": "点スペクトル",
+		"etymology": {
+			"components": [
+				"Point",
+				"Spectrum"
+			],
+			"original_statement": "The set of actual eigenvalues."
+		},
+		"concept": "Discrete notes of being",
+		"thinking": "連続的な広がりの中にある、くっきりとした『固有の音（固有値）』。純粋な一色だけの光。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "continuous_spectrum",
+		"word": "Continuous Spectrum",
+		"meaning": "連続スペクトル",
+		"etymology": {
+			"components": [
+				"Continuous",
+				"Spectrum"
+			],
+			"original_statement": "Spectrum that is not discrete eigenvalues."
+		},
+		"concept": "Merging frequencies",
+		"thinking": "一つ一つの音に分解できない、滑らかに溶け合った虹のような色（可能性）の帯。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "laplacian_operator",
+		"word": "Laplacian",
+		"meaning": "ラプラシアン",
+		"etymology": {
+			"components": [
+				"Laplace"
+			],
+			"original_statement": "Differential operator associated with diffusion/curvature."
+		},
+		"concept": "The measure of average deviation",
+		"thinking": "周囲との『ズレ』を測る演算子。熱の拡散や、空間のたわみを司る、自然界で最も普遍的な調整役。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "fredholm_operator",
+		"word": "Fredholm",
+		"meaning": "フレドホルム作用素",
+		"etymology": {
+			"components": [
+				"Fredholm"
+			],
+			"original_statement": "Operators with finite-dimensional kernel and cokernel."
+		},
+		"concept": "Nearly invertible operator",
+		"thinking": "不完全な部分（核）が有限であるため、少しの修正で『完璧（可逆）』に戻れる、希望に満ちた作用素。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "index_operator",
+		"word": "Index of an Operator",
+		"meaning": "作用素の指数",
+		"etymology": {
+			"components": [
+				"Index"
+			],
+			"original_statement": "Dimension of kernel minus dimension of cokernel."
+		},
+		"concept": "The net balance of freedom",
+		"thinking": "入ってくる情報の自由度と、失われる情報の自由度の『差し引き勘定』。システムの本質的なアンバランスさを測る数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "topological_vector_space",
+		"word": "Topological Vector",
+		"meaning": "位相線形空間",
+		"etymology": {
+			"components": [
+				"Topology + Vector"
+			],
+			"original_statement": "Vector space with compatible topological structure."
+		},
+		"concept": "Space of continuity and linearity",
+		"thinking": "真っ直ぐな計算（線形）と、滑らかな繋がり（位相）が、矛盾なく手を取り合って同居する舞台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "weak_topology",
+		"word": "Weak Topology",
+		"meaning": "弱位相（じゃくいそう）",
+		"etymology": {
+			"components": [
+				"Weak"
+			],
+			"original_statement": "Coarsest topology making functionals continuous."
+		},
+		"concept": "Topology of observations",
+		"thinking": "「見る（測る）」ことができる範囲でのみ定義される、必要最低限の繋がり。実体よりも、その『現れ方』を尊重する位相。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "strong_topology",
+		"word": "Strong Topology",
+		"meaning": "強位相（きょういそう）",
+		"etymology": {
+			"components": [
+				"Strong"
+			],
+			"original_statement": "Topology defined directly by the norm."
+		},
+		"concept": "Topology of direct measurement",
+		"thinking": "ノルム（距離）に基づいて厳格に定義される、一切の妥協を許さない近さの基準。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "fixed_point_theorem",
+		"word": "Fixed Point",
+		"meaning": "不動点定理",
+		"etymology": {
+			"components": [
+				"Fixed",
+				"Point"
+			],
+			"original_statement": "Theorems guaranteeing at least one point remains unchanged."
+		},
+		"concept": "The anchor of stability",
+		"thinking": "激動の変化（写像）の中でも、決して場所を変えない『不動の心（点）』が存在することを保証する理学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "contraction_mapping",
+		"word": "Contraction Mapping",
+		"meaning": "縮小写像（しゅくしょうしゃぞう）",
+		"etymology": {
+			"components": [
+				"Latin con- + trahere"
+			],
+			"original_statement": "Map that brings points closer together."
+		},
+		"concept": "Bringing world to focus",
+		"thinking": "「共に（Con）」「引き寄せる（Trahere）」。繰り返すたびに世界を一点へと収束させ、唯一の答え（不動点）へと導く、集中の魔術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "singular_integral",
+		"word": "Singular Integral",
+		"meaning": "特異積分",
+		"etymology": {
+			"components": [
+				"Singular",
+				"Integral"
+			],
+			"original_statement": "Integrals with singularities in the kernel."
+		},
+		"concept": "Interactions at the edge",
+		"thinking": "ゼロ距離での激しい衝突（特異点）を考慮に入れながらも、全体としての有限な調和を導き出す、解析学の極限の技。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "hardy_space",
+		"word": "Hardy Space",
+		"meaning": "ハーディ空間",
+		"etymology": {
+			"components": [
+				"Hardy"
+			],
+			"original_statement": "Spaces of holomorphic functions on the unit disk."
+		},
+		"concept": "The ecology of holomorphic waves",
+		"thinking": "円盤という閉じた世界の中で、滑らかに、かつ整合的に美しく舞う関数の生態系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "sobolev_space",
+		"word": "Sobolev Space",
+		"meaning": "ソボレフ空間",
+		"etymology": {
+			"components": [
+				"Sobolev"
+			],
+			"original_statement": "Normed spaces of functions with weak derivatives."
+		},
+		"concept": "Space of smooth enough energy",
+		"thinking": "「エネルギー（ノルム）」が有限であることだけを条件に、多少の荒っぽさを許容して関数の正体を暴く、物理的な解析の舞台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "weak_derivative",
+		"word": "Weak Derivative",
+		"meaning": "弱微分（じゃくびぶん）",
+		"etymology": [
+			"Weak + Derivative"
+		],
+		"original_statement": "Generalization of derivative using integration part formulas.",
+		"concept": "Generalized slope through testing",
+		"thinking": "一点での傾きが見えなくても、周囲との『響き合い（積分）』を通してその変化（微分）を読み取る、知的な推論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "fourier_series",
+		"word": "Fourier Series",
+		"meaning": "フーリエ級数",
+		"etymology": {
+			"components": [
+				"Fourier",
+				"Series"
+			],
+			"original_statement": "Representation of periodic functions as sums of sines and cosines."
+		},
+		"concept": "The cyclic symphony",
+		"thinking": "周期的なうねりを、純粋な音色の足し算として再現する、美しき循環の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "plancherel_theorem",
+		"word": "Plancherel",
+		"meaning": "プランシュレルの定理",
+		"etymology": {
+			"components": [
+				"Plancherel"
+			],
+			"original_statement": "Equality of energy in time and frequency domains."
+		},
+		"concept": "Energy conservation of information",
+		"thinking": "元の世界で持っていた『エネルギー』は、たとえ別次元（周波数）へ旅をしても決して失われないという不変の真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "parseval_identity",
+		"word": "Parseval",
+		"meaning": "パーセバルの等式",
+		"etymology": {
+			"components": [
+				"Parseval"
+			],
+			"original_statement": "Sum of squares of Fourier coefficients matches total energy."
+		},
+		"concept": "Totality of the components",
+		"thinking": "バラバラに分解された音色（係数）をすべて集めれば、必ず元の全体の力と一致するという、信頼の等式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "schatten_class",
+		"word": "Schatten Class",
+		"meaning": "シャッテン族",
+		"etymology": {
+			"components": [
+				"Schatten"
+			],
+			"original_statement": "Ideal of compact operators with summable singular values."
+		},
+		"concept": "Operators with summable essence",
+		"thinking": "無限次元の作用素の中でも、その行列としての『重み（特異値）』が有限に収まっている、洗練された一族。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "trace_class",
+		"word": "Trace Class",
+		"meaning": "トレース族",
+		"etymology": [
+			"Trace"
+		],
+		"original_statement": "Operators for which a trace can be defined.",
+		"concept": "The summable identity",
+		"thinking": "無限の対角線をすべて足し合わせることが可能な、自分の『全体像』を一つの数で語りきれる幸せな作用素。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "unbounded_operator",
+		"word": "Unbounded",
+		"meaning": "非有界（ひゆうかい）作用素",
+		"etymology": [
+			"Un- + Bound"
+		],
+		"original_statement": "Operator not continuous on the whole space.",
+		"concept": "The wild transformation",
+		"thinking": "制約（Bound）を突き抜け、どこまでも激しく変化し、暴走する可能性を秘めた、量子力学の真の住人。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "quantum_mechanics_op",
+		"word": "Quantum Operator",
+		"meaning": "量子作用素",
+		"etymology": [
+			"Quantum"
+		],
+		"original_statement": "Operators representing physical observables.",
+		"concept": "The math of observable reality",
+		"thinking": "位置、運動量、エネルギー。物理的なこの世界の『貌』を、作用素という形で表現した数理的な鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "波動の調和に身を委ねて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の深淵へ。"
+			]
+		},
+		"example": "Everything vibrates at its own frequency."
 	}
 ];
