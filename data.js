@@ -327378,5 +327378,243 @@ const WORDS = [
 				"知の極致へ。"
 			]
 		}
+	},
+	{
+		"id": "lorentz_force",
+		"word": "Lorentz Force",
+		"meaning": "ローレンツ力",
+		"era": "Named after Hendrik Lorentz",
+		"etymology": {
+			"components": [
+				"Hendrik Lorentz (Physicist)"
+			],
+			"original_statement": "Named after the Dutch physicist Hendrik Lorentz."
+		},
+		"concept": "The hand of magnetic field (磁場の導く手、光速への追憶)",
+		"thinking": "電場と磁場の中を走る荷電粒子が受ける力。それは、目に見えない磁力線が、奔放な電子の進路を優雅に、あるいは強引に「曲げる」知的な干渉。動き続ける者にだけ与えられる、宇宙からの特別な『重力』のようなものです。",
+		"aftertaste": "動いているからこそ、受ける力（影響）があります。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "induction_words",
+		"word": "Induction",
+		"meaning": "誘導、就任、帰納法",
+		"era": "Latin in- + ducere",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"ducere (to lead)"
+			],
+			"original_statement": "From Latin inductionem 'a leading into', from inducere 'to lead in'."
+		},
+		"concept": "Leading into existence (存在へと導き入れる、共鳴する電流)",
+		"thinking": "「中へ（In）」「導く（Duc）」。直接触れることなく、磁場を動かすだけで、隣にある回路に電流（命）を吹き込むこと。言葉を交わさずとも、その姿勢や熱量が誰かの心に新しい『動き』を引き起こす、静かなる波及の美学です。",
+		"aftertaste": "あなたの振る舞いが、誰かの心に新しい『電流』を誘導します。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "dielectric_words",
+		"word": "Dielectric",
+		"meaning": "誘電体、絶縁体",
+		"era": "Greek dia- + electric",
+		"etymology": {
+			"components": [
+				"dia- (through / across)",
+				"electric"
+			],
+			"original_statement": "Coined by William Whewell from Greek dia- 'through' + electric."
+		},
+		"concept": "Letting electricity through by influence (隔てながら通す、分極の沈黙)",
+		"thinking": "「向こう側へ（Dia）」、「電気」。自分自身は電流を通さない（沈黙する）ことで、電界の力をその身に蓄え、向こう側へと伝える。頑なに拒むのではなく、内側で自らを変容（分極）させることで、力を受け流し、媒介する。静かなる忍耐と仲介の象徴です。",
+		"aftertaste": "自分自身が動かなくても、大切なものを『伝える』術はあります。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "permittivity_words",
+		"word": "Permittivity",
+		"meaning": "誘電率",
+		"era": "Latin per- + mittere",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"mittere (to let go / send)"
+			],
+			"original_statement": "From Latin permittere 'to let go through / permit'."
+		},
+		"concept": "Permission of space (空間の許容度、電気を抱く度量)",
+		"thinking": "「通ることを（Per）」「許す（Mit）」。真空や物質が、どれだけ電場の存在を自分の中に許容するか、という度量。空間は空っぽなのではなく、常に電気という名の情熱を迎え入れるための、固有の『優しさ（透過性）』を備えています。",
+		"aftertaste": "世界にどれだけの『熱（電気）』を許すか。それはあなたの度量次第です。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "permeability_words",
+		"word": "Permeability",
+		"meaning": "透磁率、透過性",
+		"era": "Latin per- + meare",
+		"etymology": {
+			"components": [
+				"per- (through)",
+				"meare (to go / pass)"
+			],
+			"original_statement": "From Latin permeare 'to pass through / penetrate'."
+		},
+		"concept": "The ability to pass through (通り抜ける能力、磁気を導く本能)",
+		"thinking": "「通り抜ける（Meare）」ことの「容易さ」。目に見えない磁力線を、どれだけ抵抗なく自分の身体（物質）に通してあげるか。磁石に惹かれる鉄のように、強い意志に対して自分を素直に開いていく、感応の鋭さを指します。",
+		"aftertaste": "目に見えない『導き』に対して、素直に従う。それが透磁率の高さです。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "capacitance_words",
+		"word": "Capacitance",
+		"meaning": "静電容量、キャパシタンス",
+		"era": "Latin capere",
+		"etymology": {
+			"components": [
+				"capax (holding / containing)"
+			],
+			"original_statement": "From Latin capacitas, from capax 'holding / containing / able to take'."
+		},
+		"concept": "Capacity to hold (蓄える器、沈黙の蓄電)",
+		"thinking": "「掴み取る（Cap）」ことができる量。すぐには使わず、静かに自分の中に電気（エネルギー）を溜め込み、いざという時に一気に解き放つための『器の大きさ』。豊かさとは、すぐに出力することではなく、どれだけ深く『蓄えておけるか』で決まります。",
+		"aftertaste": "大きな『器（キャパシティ）』を持って、いざという時のために熱を蓄えて。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "impedance_words",
+		"word": "Impedance",
+		"meaning": "インピーダンス、妨害、抵抗",
+		"era": "Latin in- + ped-",
+		"etymology": {
+			"components": [
+				"in- (in / upon)",
+				"pes (foot)"
+			],
+			"original_statement": "From Latin impedire 'to shackle the feet', from in- + pes 'foot'."
+		},
+		"concept": "Shackling the feet (足かせとなる抵抗、交流の足止め)",
+		"thinking": "「足（Ped-）」に「罠（In-）」をかけること。スムーズな流れを邪魔し、歩みを遅らせる障害。しかし、その抵抗があるからこそ、エネルギーは熱や光として形を得ることができます。障害は、あなたの熱量を証明するための『必要な負荷』なのです。",
+		"aftertaste": "足取りが重いのは、あなたが何か大きな『力』を運んでいる証です。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "reactance_words",
+		"word": "Reactance",
+		"meaning": "リアクタンス、反応抵抗",
+		"era": "Latin re- + actere",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"agere (to act / do)"
+			],
+			"original_statement": "Derived from 'react' + '-ance', from Latin reactus, past participle of reagere 'to act back'."
+		},
+		"concept": "Acting back against change (変化への反作用、慣性の知性)",
+		"thinking": "「やり返す（React）」。流れが変わろうとする時、それを押し戻そうとする反骨の力。エネルギーを消費するのではなく、ただ『今はまだ行かせない』と抵抗し、一時的に保持する。変化に安易に流されない、物質の持つ頑固で賢明な『反作用』です。",
+		"aftertaste": "変化にすぐ乗らない『溜め』が、力強いリズムを生みます。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "solenoid_words",
+		"word": "Solenoid",
+		"meaning": "ソレノイド、円筒状コイル",
+		"era": "Greek solen + eidos",
+		"etymology": {
+			"components": [
+				"solen (channel / pipe)",
+				"eidos (form / shape)"
+			],
+			"original_statement": "From Greek solen 'pipe / channel' + eidos 'form / shape'."
+		},
+		"concept": "Channel of magnetic form (磁気を導く管、見えない風を通す道)",
+		"thinking": "「管（Solen）」の「かたち（Eidos）」。電線をぐるぐると巻くことで、その内側に一本の真っ直ぐな磁力線の『川』を作り出す装置。カオスな電気の動きを、秩序だった一方向の力に収束させる、整流の美学を具現化したものです。",
+		"aftertaste": "あなたの努力を一つの方向へ重ねることで、強力な『芯（磁場）』が生まれます。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "susceptibility_words",
+		"word": "Susceptibility",
+		"meaning": "磁化率、感受性、影響の受けやすさ",
+		"era": "Latin sub- + capere",
+		"etymology": {
+			"components": [
+				"sub- (under)",
+				"capere (to take)"
+			],
+			"original_statement": "From Latin susceptibilis 'able to take / undergo / sustain', from suscipere 'to take up / support / undertake'."
+		},
+		"concept": "Taking up from under (下から受け止める、環境への敏感な感応)",
+		"thinking": "「下から（Sub-）」「受け取る（Capere）」。外界の磁場に対して、どれだけ素直に、あるいは激しく自らを染める（磁化する）ことができるか。それは弱さではなく、周囲の微かな変化を感じ取る『高貴な感受性』そのものです。",
+		"aftertaste": "敏感であることは、世界と同調（シンクロ）できる才能です。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
 	}
 ];
