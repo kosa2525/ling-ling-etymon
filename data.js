@@ -361008,5 +361008,868 @@ const WORDS = [
 			]
 		},
 		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "meta_ethics_adv",
+		"word": "Meta-ethics",
+		"meaning": "メタ倫理学（りんりがく）",
+		"etymology": [
+			"Greek meta (beyond) + Ethics"
+		],
+		"concept": "Thinking about thinking about ethics",
+		"thinking": "「正しさ」そのものを語るのではなく、「正しい」という言葉がいかなる意味を持ち、客観的な事実なのか、あるいはただの感情の叫びなのかを問う。倫理の舞台を客席から眺める、超越的な視座。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "normative_ethic",
+		"word": "Normative",
+		"meaning": "規範（きはん）的倫理学",
+		"etymology": [
+			"Latin norma (square/rule)"
+		],
+		"concept": "Establishing rules of behavior",
+		"thinking": "私たちはどう生きる「べき」か。具体的な「物差し（Norma）」を作り上げ、善悪の境界線を引こうとする、実践的な心の模索。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "deontology_kant",
+		"word": "Deontology",
+		"meaning": "義務論（ぎむろん）",
+		"etymology": [
+			"Greek deon (duty/binding)"
+		],
+		"concept": "Rightness is in the act itself",
+		"thinking": "結果は関係ない。ただ、それが成されるべき「義務（Deon）」であるからなす。損得を超えた、魂の絶対的な拘束。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "consequentialis",
+		"word": "Consequential",
+		"meaning": "帰結主義（きけつしゅぎ）",
+		"etymology": [
+			"Latin con- + sequi (to follow)"
+		],
+		"concept": "Judging by results",
+		"thinking": "「後に続く（Sequi）」結果こそがすべて。いかに美しい動機があろうとも、不幸を招くならそれは悪であるという、冷徹な現実主義の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "virtue_ethics",
+		"word": "Virtue Ethics",
+		"meaning": "徳（とく）倫理学",
+		"etymology": [
+			"Latin virtus (manliness/power)"
+		],
+		"concept": "Character over rules",
+		"thinking": "何をなすかではなく、どのような「人（Virtus）」であるか。規則に従うロボットではなく、卓越した魂を育むことを目指す、ギリシャ以来の求道の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "eudaimonia_eth",
+		"word": "Eudaimonia",
+		"meaning": "エウダイモニア、至福",
+		"etymology": [
+			"Greek eu (good) + daimon (spirit)"
+		],
+		"concept": "Flourishing of the soul",
+		"thinking": "「良き（Eu）」「精霊（Daimon）」と共にいる状態。単なる快楽ではなく、自らの本性を開花させ、人間として最高に輝いているという、深い充足の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "altruism_ethics",
+		"word": "Altruism",
+		"meaning": "利他主義（りたしゅぎ）",
+		"etymology": [
+			"Latin alter (other)"
+		],
+		"concept": "Living for the other",
+		"thinking": "「他者（Alter）」を自分よりも、あるいは自分と同じように重んじる。自己充足という孤独な円から抜け出し、他人の喜びを自らの力とする、魂の跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "egoism_ethics_p",
+		"word": "Egoism",
+		"meaning": "利己主義（りこしゅぎ）",
+		"etymology": [
+			"Latin ego (I)"
+		],
+		"concept": "The primacy of self",
+		"thinking": "「私（Ego）」の利益こそが、すべての行動の真の、そして唯一の目的である。建前を排し、剥き出しの自己愛を理性の中心に据える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "moral_relativis",
+		"word": "Moral Relativ",
+		"meaning": "道徳（どうとく）相対主義",
+		"etymology": [
+			"Latin relativus (referring back)"
+		],
+		"concept": "Culture-bound truths",
+		"thinking": "「正しい」は場所と時代に「依存して（Relativus）」いる。絶対的な北極星はなく、それぞれの文化がそれぞれの正義を抱いて、それぞれの海を航海しているという諦念と寛容。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "moral_absoluti",
+		"word": "Absolutism",
+		"meaning": "道徳絶対主義",
+		"etymology": [
+			"Latin absolutus (untied/pure)"
+		],
+		"concept": "Universal moral truth",
+		"thinking": "文化や時代から「解き放たれた（Absolutus）」、普遍的で不変な正義がただ一つ存在する。天に遍く光が注ぐように、すべての魂に等しく課せられた不壊の掟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "nihilism_mor_ad",
+		"word": "Moral Nihilism",
+		"meaning": "道徳（どうとく）虚無主義",
+		"etymology": [
+			"Latin nihil (nothing)"
+		],
+		"concept": "Denial of moral truth",
+		"thinking": "「何もない（Nihil）」。善も悪も、私たちが勝手に作り上げた空虚な物語に過ぎない。宇宙の沈黙の中に、価値という名の幻想を打ち砕く、冷徹な目覚め。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "categorical_im",
+		"word": "Categorical",
+		"meaning": "定言命法（ていげんめいほう）",
+		"etymology": [
+			"Greek kategorein"
+		],
+		"concept": "The unconditional command",
+		"thinking": "「〜ならばなせ」という条件ではなく、無条件に「なせ」と命じる内なる理性。自分の行動の原理が、そのまま宇宙の法則（普遍的立法）となることを願えるかどうか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "hypothetical_i",
+		"word": "Hypothetical",
+		"meaning": "仮言命法（かげんめいほう）",
+		"etymology": [
+			"Greek hypo- (under) + thesis (placing)"
+		],
+		"concept": "Conditional duty",
+		"thinking": "ある目的（〜したい）を「前提（Hypo-thesis）」として置いた上での命令。欲求の下に隷属する、手段としての理性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "moral_intuition",
+		"word": "Intuitionism",
+		"meaning": "直観（ちょっかん）主義",
+		"etymology": [
+			"Latin intueri (to look at)"
+		],
+		"concept": "Gleaning truth directly",
+		"thinking": "理屈で計算する前に、ただ「見る（Intueri）」だけで、何が正しいかを悟る。推論の鎖の果てではなく、魂の眼差しが捉える原初的な光。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "cognitivism_eth",
+		"word": "Cognitivism",
+		"meaning": "認知主義（にんちしゅぎ）",
+		"etymology": [
+			"Latin cognoscere (to know)"
+		],
+		"concept": "Morality as knowledge",
+		"thinking": "道徳もまた、物理法則と同じように「知る（Cognoscere）」ことができる客観的な事実であるという確信。心の世界にも、真偽を判定できる確かな理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "non_cognitivis",
+		"word": "Non-cognitiv",
+		"meaning": "非（ひ）認知主義",
+		"etymology": [
+			"Non- + Cognoscere"
+		],
+		"concept": "Morality as expression",
+		"thinking": "道徳は「知る」べき知識ではない。それは願いであり、叫びであり、あるいは命令に過ぎない。心の中に、客観的な正義という『物』を置かない、情熱の哲学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "emotivism_mor",
+		"word": "Emotivism",
+		"meaning": "情動主義（じょうどうしゅぎ）",
+		"etymology": [
+			"Latin ex- + movere (to move out)"
+		],
+		"concept": "Boo/Hooray theory",
+		"thinking": "「正しい」という言葉は、心が「外に動き出した（E-motive）」結果の叫び（「いいね！」「ダメ！」）に過ぎない。道徳を、論理から感情へと引き戻す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "prescriptivism",
+		"word": "Prescriptive",
+		"meaning": "指令主義（しれいしゅぎ）",
+		"etymology": [
+			"Latin prae- (before) + scribere"
+		],
+		"concept": "Language as a command",
+		"thinking": "道徳とは、あらかじめ「前に（Prae-）」「書かれた（Scribe）」レシピのようなもの。それは世界を記述するのではなく、自分と他者へ特定の行動を命ずるシグナル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "supererogation",
+		"word": "Supererogate",
+		"meaning": "超義務（ちょうぎむ）的行為",
+		"etymology": [
+			"Latin super (above) + erogare (to pay out)"
+		],
+		"concept": "Going beyond duty",
+		"thinking": "なすべき「義務」を「超えて（Super）」、さらに多くの善を「支払う（Erogare）」。聖者や英雄による、求められていないのに注がれる余剰の慈悲。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "akrasia_ethics",
+		"word": "Akrasia",
+		"meaning": "アクラシア、意志の弱さ",
+		"etymology": [
+			"Greek a- (without) + kratos (power)"
+		],
+		"concept": "Lack of self-command",
+		"thinking": "何が正しいかを知りながら、なお別の道を選んでしまう。「支配（Kratos）」を「失った（A-）」、人間という存在の愛おしくも悲しき不可能性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "moral_luck_w",
+		"word": "Moral Luck",
+		"meaning": "道徳的（どうとくてき）な運",
+		"etymology": [
+			"Moral",
+			"Luck"
+		],
+		"concept": "Judgment beyond control",
+		"thinking": "どれほど慎重でも、結果として生じた『偶然』によって、その人の道徳的価値が決まってしまうという理不尽。善悪さえも運命の手の中にあるという恐怖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "naturalistic_f",
+		"word": "Natural Fall",
+		"meaning": "自然主義（しぜんしゅぎ）的誤謬",
+		"etymology": [
+			"Natural",
+			"Latin fallere (to deceive)"
+		],
+		"concept": "Is-Ought jump",
+		"thinking": "「〜である（事実）」から、いきなり「〜すべき（価値）」を導き出す際の「欺き（Fallere）」。自然界にあることが、そのまま正しいとは限らないという理性の警告。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "fact_value_dist",
+		"word": "Fact-Value",
+		"meaning": "事実と価値の区別",
+		"etymology": [
+			"Latin facere",
+			"Latin valere"
+		],
+		"concept": "The great divide",
+		"thinking": "起きたこと（事実）と、どう想うべきか（価値）。この二つの宇宙の間には、どんな推論の橋も架けることのできない巨大な深淵が横たわっている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "internalism_eth",
+		"word": "Internalism",
+		"meaning": "道徳的（どうとくてき）内在主義",
+		"etymology": [
+			"Latin internus (within)"
+		],
+		"concept": "Moral truth motivates",
+		"thinking": "「正しい」と理解したなら、その瞬間に「なそう」とする力が「内側（Internus）」から湧き出すはずだ。真実を知ることと、心が動くことが直結している世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "externalism_eth",
+		"word": "Externalism",
+		"meaning": "道徳的外在主義",
+		"etymology": [
+			"Latin externus (without)"
+		],
+		"concept": "Motivation is separate",
+		"thinking": "正しさを知ることと、それをやりたいと思うことは「外（Externus）」にある別のもの。正しいと分かっていても、やる気が起きない。人間のリアルな不全感を肯定する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "particularism_e",
+		"word": "Particularism",
+		"meaning": "個別主義（こべつしゅぎ）",
+		"etymology": [
+			"Latin particula (small part)"
+		],
+		"concept": "No universal rules",
+		"thinking": "あらゆる場合に通用する普遍的な規則などない。その場、その時の「小さな断片（Particle）」という文脈を極限まで見据えて、たった一度の正しさを掴み取る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "pluralism_value",
+		"word": "Value Plural",
+		"meaning": "価値（かち）多元主義",
+		"etymology": [
+			"Latin plus (more)"
+		],
+		"concept": "Incommensurable goods",
+		"thinking": "「自由」と「平等」。どちらも最高に大切だが、どちらかを立てればどちらかが傷つく。一つに収束しない「多く（Plus）」の正しさを、抱えて生きる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "bioethics_meta",
+		"word": "Bioethics",
+		"meaning": "生命倫理（せいめいりんり）",
+		"etymology": [
+			"Greek bios + Ethics"
+		],
+		"concept": "Ethics of life boundaries",
+		"thinking": "「生命（Bios）」そのものへの倫理。延命、遺伝子操作。神の領域に手をかけた人間が、自ら自らを律するために築く、最後の倫理的防波堤。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "deontological",
+		"word": "Deontic",
+		"meaning": "義務に関する",
+		"etymology": [
+			"Greek deon"
+		],
+		"concept": "Binding necessity",
+		"thinking": "いかなる代償を払おうとも、なされるべき「拘束（Deon）」。損得を語る口を封じる、沈黙の峻厳。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "axiology_ethics",
+		"word": "Axiology",
+		"meaning": "価値論（かちろん）",
+		"etymology": [
+			"Greek axios (worthy)"
+		],
+		"concept": "Study of value",
+		"thinking": "何に「価値（Axios）」があるのか。善、美、有用さ。私たちがこの世界を愛し、選ぶための『根拠』そのものを徹底的に解剖する学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "hedonism_meta",
+		"word": "Hedonism",
+		"meaning": "快楽主義（かいらくしゅぎ）",
+		"etymology": [
+			"Greek hedone (pleasure)"
+		],
+		"concept": "Pleasure as the good",
+		"thinking": "「喜び（Hedone）」こそが、この宇宙における唯一の、そして絶対の善である。苦痛を避け、歓喜を求めるという生命の原初的な叫びに忠実に。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "asceticism_meta",
+		"word": "Asceticism",
+		"meaning": "禁欲主義（きんよくしゅぎ）",
+		"etymology": [
+			"Greek askein (to exercise/train)"
+		],
+		"concept": "Training through denial",
+		"thinking": "喜びを遠ざけ、自らを「鍛錬（Askein）」する。欲望という泥沼を抜け出し、魂の純粋な輝きを取り戻そうとする、峻烈な拒絶の美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "contractarian",
+		"word": "Social Contract",
+		"meaning": "社会契約説（しゃかいけいやくせつ）",
+		"etymology": [
+			"Latin con- (together) + trahere"
+		],
+		"concept": "Agreement as source of right",
+		"thinking": "正しさは天から降ってこない。私たちが「共に（Con-）」「引き寄せ合って（Trahere）」合意した契約の中にのみ、正義という名の平穏が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "egalitarian_eth",
+		"word": "Egalitarian",
+		"meaning": "平等（びょうどう）主義倫理",
+		"etymology": [
+			"French egal"
+		],
+		"concept": "Equal worth of persons",
+		"thinking": "すべての魂は、その「重さ（Égal）」において絶対的に等しい。富や才能の差を越えて、剥き出しの存在そのものを等しく祝福しようとする祈り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "humanitarianism",
+		"word": "Humanitarian",
+		"meaning": "人道主義（じんどうしゅぎ）",
+		"etymology": [
+			"Latin humanus"
+		],
+		"concept": "Promoting human welfare",
+		"thinking": "「人間（Humanus）」であるというただ一点において、苦しみにある者を救う。国境も、敵味方も、あらゆる属性を脱ぎ捨てて手を差し伸べる無償の愛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "retributive_jus",
+		"word": "Retributive",
+		"meaning": "応報的正義（おうほうてきせいぎ）",
+		"etymology": [
+			"Latin re- + tribuere (to assign back)"
+		],
+		"concept": "Punishment as payment",
+		"thinking": "犯した罪という負債を、同等の痛みとして「返し（Re-tribute）」、世界のバランスを取り戻す。復讐から憎悪を抜き去り、厳格なる数理へと昇華させた正義。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "distributive_ju",
+		"word": "Distributive",
+		"meaning": "分配的正義（ぶんぱいてきせいぎ）",
+		"etymology": [
+			"Latin di- (apart) + tribuere (to assign)"
+		],
+		"concept": "Fair allocation of goods",
+		"thinking": "誰に何を「分かち与える（Dis-tribute）」か。運不運の差を埋め、誰もが納得できる『分け前』の貌を、理知によって設計する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "restorative_jus",
+		"word": "Restorative",
+		"meaning": "修復的正義（しゅうふくてきせいぎ）",
+		"etymology": [
+			"Latin restaurare (to set up again)"
+		],
+		"concept": "Healing broken relations",
+		"thinking": "罪を罰して終わるのではなく、壊れた信頼を「再び立て直す（Restore）」。傷つけた者と、傷ついた者が再び同じコミュニティで息ができるための和解。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "pacifism_ethics",
+		"word": "Pacifism",
+		"meaning": "平和主義（へいわしゅぎ）",
+		"etymology": [
+			"Latin pax (peace) + facere"
+		],
+		"concept": "Refusal of violence",
+		"thinking": "いかなる理由があろうとも「平和（Pax）」を「作る（Facere）」ことを選び続ける。暴力に暴力で応えるという連鎖を、自らの血を流してでも断ち切ろうとする不屈の意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "providentialism",
+		"word": "Providence",
+		"meaning": "摂理（せつり）主義",
+		"etymology": [
+			"Latin pro- + videre (to see before)"
+		],
+		"concept": "Divine foresight",
+		"thinking": "あらゆる出来事は、あらかじめ神が「先を見越して（Pro-vide）」定めた計画（摂理）の一部。偶然に見える惨劇さえも、遠き至善へと至るための不可欠な布石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "secular_humanis",
+		"word": "Secular Human",
+		"meaning": "世俗的（せぞくてき）ヒューマニズム",
+		"etymology": [
+			"Saecularis + Humanus"
+		],
+		"concept": "Human-centered ethics",
+		"thinking": "神の審判ではなく、今「この世（Saeculum）」に生きる「人間（Human）」の理知と尊厳を中心におく。天を仰がず、足元の現実に責任を持つ決意。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "biocentrism_eth",
+		"word": "Biocentrism",
+		"meaning": "生命中心主義（せいめいちゅうしんしゅぎ）",
+		"etymology": [
+			"Greek bios + kentron"
+		],
+		"concept": "Life as the center",
+		"thinking": "「生命（Bios）」の煌めきそのものが中心。人間であるかどうかを問わず、生きようとするすべての意志を等しく尊び、その生存の権利を守ろうとする拡張された愛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "ecocentrism_eth",
+		"word": "Ecocentrism",
+		"meaning": "生態圏中心（せいたいけんちゅうしん）主義",
+		"etymology": [
+			"Greek oikos (home/eco) + kentron"
+		],
+		"concept": "Ecosystem as the center",
+		"thinking": "個々の命を超えて、それらを育む「家（Oikos）」としての地球全体、生態系そのものを第一の価値とする。循環という名の永遠の貌を護るための倫理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "善悪の彼岸を見据えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学と思想の深みへ。"
+			]
+		},
+		"example": "Ethics explores the nature of right and wrong."
 	}
 ];
