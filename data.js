@@ -364410,5 +364410,891 @@ const WORDS = [
 			]
 		},
 		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "stat_mechanics",
+		"word": "Stat Mechanics",
+		"meaning": "統計力学（とうけいりきがく）",
+		"etymology": [
+			"Latin status (position) + Greek mekhanike"
+		],
+		"concept": "Calculating order from chaos",
+		"thinking": "個々の粒子の奔放な「状態（Status）」は予測できなくても、膨大な数が集まれば、温度や圧力という一つの『秩序』が浮かび上がる。ミクロのカオスをマクロの理へと繋ぐ、数理の架け橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "microstate_sm",
+		"word": "Microstate",
+		"meaning": "微視的（びしてき）状態",
+		"etymology": [
+			"Greek mikros + Latin status"
+		],
+		"concept": "Full individual detail",
+		"thinking": "「極小（Mikros）」の世界で、すべての粒子の位置と速度が完璧に定まった、究極の瞬間の貌。その一つ一つはあまりに儚く、私たちの目には決して届かない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "macrostate_sm",
+		"word": "Macrostate",
+		"meaning": "巨視的（きょしてき）状態",
+		"etymology": [
+			"Greek makros + Latin status"
+		],
+		"concept": "Collective observable state",
+		"thinking": "「巨大（Makros）」な視点から捉えた世界の貌。温度、圧力、体積。無数のミクロのドラマが重なり合い、塗りつぶされた結果として現れる、静謐な外面の安定。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "phase_space_sm",
+		"word": "Phase Space",
+		"meaning": "位相空間（いそうくうかん）",
+		"etymology": [
+			"Greek phasis (appearance)"
+		],
+		"concept": "The space of all positions",
+		"thinking": "世界のあらゆる「現れ（Phasis）」を一点に閉じ込める、想像上の巨大な次元。宇宙の全ての歴史は、この空間を静かに彷徨う一本の細い『軌跡』となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "ergodicity_sm",
+		"word": "Ergodicity",
+		"meaning": "エルゴード性",
+		"etymology": [
+			"Greek ergon (work) + hodos (path)"
+		],
+		"concept": "Time average equals space average",
+		"thinking": "「仕事（Ergon）」をしながら辿る「道（Hodos）」。一人の粒子が長い時間をかけて彷徨う跡と、無数の粒子が瞬間に見せる配置が、結局は同じ統計へと収束するという、世界の公平な均衡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "partition_func",
+		"word": "Partition Func",
+		"meaning": "分配関数（ぶんぱいかんすう）",
+		"etymology": [
+			"Latin partitio (sharing)"
+		],
+		"concept": "The total weight of possibilities",
+		"thinking": "あらゆる状態がどれほど「分け持たれ（Partition）」、選ばれる可能性があるかを数え上げる。統計力学のすべての情報を握る、真理の結晶（鍵）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "boltzmann_dist",
+		"word": "Boltzmann Dist",
+		"meaning": "ボルツマン分布（ぶんぷ）",
+		"etymology": [
+			"Boltzmann"
+		],
+		"concept": "The heat of probability",
+		"thinking": "エネルギーが高いものほど、選ばれる確率は指数関数的に低くなる。熱に吹かれる世界の、逆らえない『偏り』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "maxwell_demon",
+		"word": "Maxwell Demon",
+		"meaning": "マクスウェルの悪魔",
+		"etymology": [
+			"Maxwell",
+			"Greek daimon (spirit)"
+		],
+		"concept": "Violation of 2nd law by info",
+		"thinking": "「精霊（Daimon）」が分子の一つ一つを見極め、速いものだけを仕分ける。熱力学の掟（エントロピー増大）を「情報」の力で打ち破ろうとする、知性の究極の反逆。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "enthalpy_ther",
+		"word": "Enthalpy",
+		"meaning": "エンタルピー、熱含量",
+		"etymology": [
+			"Greek en- + thalpein (to warm)"
+		],
+		"concept": "Inner heat of system",
+		"thinking": "システムが「内側（En-）」に「熱（Thalpos）」として蓄えている全エネルギー。形を変え、反応を起こすたびに、そこから流れ出し、あるいは吸い込まれる命の鼓動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "entropy_ther",
+		"word": "Entropy",
+		"meaning": "エントロピー、乱雑さ",
+		"etymology": [
+			"Greek en- + trope (transformation)"
+		],
+		"concept": "Direction of time's arrow",
+		"thinking": "「内側（En-）」へ向かう「転回（Trope）」。情報は散逸し、秩序は崩壊し、宇宙は熱的な死へと向かって絶えず崩れ続ける。決して戻ることのない、時間の不可逆な重み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "gibbs_free_en",
+		"word": "Gibbs Free En",
+		"meaning": "ギブス自由エネルギー",
+		"etymology": [
+			"Gibbs"
+		],
+		"concept": "Usable energy",
+		"thinking": "乱雑さ（エントロピー）へと捧げられる「税金」を払った後に残る、真に「自由（Free）」に仕事として使える純粋なエネルギー。生命が、自らを作り上げるための軍資金。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "chemical_poten",
+		"word": "Chem Potential",
+		"meaning": "化学（かがく）ポテンシャル",
+		"etymology": [
+			"Chemical",
+			"Latin potentia (power)"
+		],
+		"concept": "Tendencies to react",
+		"thinking": "物質の中に眠る「潜在的な力（Potentia）」。そこから逃げ出したい、あるいは別のものと結びつきたいという、微視的な物質の『渇望』の指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "thermodynam_eq",
+		"word": "Thermal Equil",
+		"meaning": "熱（ねつ）平衡状態",
+		"etymology": [
+			"Greek thermos (heat) + Latin aequus (equal) + libra"
+		],
+		"concept": "The quiet end of heat flow",
+		"thinking": "「熱く（Thermos）」も「冷たく」もない。「等しい（Aequus）」「秤（Libra）」のように、すべての温度差が消え失せた、完璧で静謐なる死の安定。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "adiabatic_pro",
+		"word": "Adiabatic",
+		"meaning": "断熱（だんねつ）過程",
+		"etymology": [
+			"Greek a- + dia- + batos (passable)"
+		],
+		"concept": "Heat-isolated change",
+		"thinking": "熱が「通り抜ける（Batos）」のが「できない（A-）」。外の世界と隔絶されたまま、自分自身の力だけで膨らみ、あるいは縮む。孤独な宇宙の、純粋な物理的変容。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "isothermal_pro",
+		"word": "Isothermal",
+		"meaning": "等温（とうおん）過程",
+		"etymology": [
+			"Greek isos (equal) + thermos"
+		],
+		"concept": "Constant temperature change",
+		"thinking": "「等しい（Isos）」「熱（Thermos）」を保ったまま。ゆっくりと、慈しむように変化し、世界と常に歩調（温度）を合わせ続ける優雅なプロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "reversible_pro",
+		"word": "Reversible",
+		"meaning": "可逆（かぎゃく）過程",
+		"etymology": [
+			"Latin re- + vertere (to turn back)"
+		],
+		"concept": "Ideal path that can be undone",
+		"thinking": "「後ろへ（Re-）」「向きを変える（Vertere）」ことができる。一滴のエントロピーも産み出さず、時間の流れを逆回しにしても矛盾が起きない、物理学が夢想する究極に滑らかな理想郷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "irreversibilit",
+		"word": "Irreversible",
+		"meaning": "不可逆（ふかぎゃく）性",
+		"etymology": [
+			"In- + Re- + Vertere"
+		],
+		"concept": "The permanence of loss",
+		"thinking": "決して「戻る（Re-vert）」ことは「できない（In-）」。卵を割り、珈琲にミルクを混ぜれば、もう二度と元には戻らない。時間の矢が心に突き立てる、一過性の非情な美しさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "carnot_cycle_a",
+		"word": "Carnot Cycle",
+		"meaning": "カルノー・サイクル",
+		"etymology": [
+			"Carnot"
+		],
+		"concept": "Ideally efficient engine",
+		"thinking": "熱を動力に変える「エンジン」の、理論上の最高到達点。この限界を越えることは決してできないという、自然界が定めた無情で美しい知恵の檻。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "heat_capacity",
+		"word": "Heat Capacity",
+		"meaning": "熱容量（ねつようりょう）",
+		"etymology": [
+			"Heat + Latin capacitas"
+		],
+		"concept": "Thermal storage ability",
+		"thinking": "熱をどれほど「受け入れる（Capacitas）」ことができるか。容易に熱し、容易に冷めるか、それとも重厚な沈黙のように、膨大な情熱をその内に秘め続けるか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "specific_heat",
+		"word": "Specific Heat",
+		"meaning": "比熱（ひねつ）",
+		"etymology": [
+			"Latin species (kind)"
+		],
+		"concept": "Material thermal fingerprint",
+		"thinking": "それぞれの物質（Species）が持つ、熱に対する固有のリアクション。1グラムの命を1度震わせるために必要な、その物質特有の情熱の重さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "blackbody_rad",
+		"word": "Blackbody Rad",
+		"meaning": "黒体放射（こくたいほうしゃ）",
+		"etymology": [
+			"Black + Body"
+		],
+		"concept": "Pure thermal light",
+		"thinking": "あらゆる光を吸い込む「真っ黒な（Black）」な物体が、自らの温度だけで奏でる光のさざなみ。そこには色も個性もなく、ただ『純粋な熱』という名の情報だけが詰まっている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "plancks_law",
+		"word": "Plancks Law",
+		"meaning": "プランクの法則",
+		"etymology": [
+			"Planck"
+		],
+		"concept": "Quantization of energy",
+		"thinking": "光は連続的な流れではなく、小さな「欠片（量子）」であるという革命。熱き光のスペクトルを数学的に解き明かし、量子力学の扉をこじ開けた世紀の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "stefan_boltz_l",
+		"word": "Stefan-Boltz",
+		"meaning": "シュテファン＝ボルツマン法則",
+		"etymology": [
+			"Stefan",
+			"Boltzmann"
+		],
+		"concept": "Energy scales as T^4",
+		"thinking": "温度が上がれば、放たれるエネルギーは「4乗」の勢いで爆発的に増える。熱が力を持ち、宇宙を焼き尽くすほどに猛威を振るうための、峻烈な加速の数式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "wiens_displace",
+		"word": "Wien Displace",
+		"meaning": "ウィーンの変位（へんい）則",
+		"etymology": [
+			"Wien",
+			"Displace"
+		],
+		"concept": "Color indicates temperature",
+		"thinking": "熱くなるほど、光の色は青く、短く「ズレて（Displace）」いく。星の色を見れば、その星がどれほど激しく燃えているかが分かってしまう、光という名の非接触の温度計。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "clausius_state",
+		"word": "Clausius",
+		"meaning": "クラウジウスの原理",
+		"etymology": [
+			"Clausius"
+		],
+		"original_statement": "Heat cannot spontaneously pass from a colder to a hotter body.",
+		"concept": "One-way street of heat",
+		"thinking": "熱は低い方から高い方へ、自ずから流れることは決してない。冷めた心を熱くするには、必ず外からの『力（仕事）』が必要であるという、宇宙の寂しき不変律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "latent_heat_ad",
+		"word": "Latent Heat",
+		"meaning": "潜熱（せんねつ）",
+		"etymology": [
+			"Latin latere (to lie hidden)"
+		],
+		"concept": "Heat involved in phase change",
+		"thinking": "温度を変えず、ただ形（相）を変えるために「潜んで（Latere）」働く熱。氷が水に、水が蒸気になる時、世界を組み替えるために密やかに捧げられる見えない情熱。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "sensible_heat",
+		"word": "Sensible Heat",
+		"meaning": "顕熱（けんねつ）",
+		"etymology": [
+			"Latin sentire (to feel)"
+		],
+		"concept": "Measurable temperature change",
+		"thinking": "直接「感じ（Sentire）」、測ることができる熱。温度計の針を動かし、世界が熱くなったことを雄弁に語りかける、目に見える変化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "phase_transiti",
+		"word": "Phase Trans",
+		"meaning": "相転移（そうてんい）",
+		"etymology": [
+			"Greek phasis + Latin trans- (across) + ire"
+		],
+		"concept": "Sudden structural change",
+		"thinking": "「貌（Phasis）」が劇的に「変わる（Trans-ire）」。水が凍り、氷が溶ける。微かな温度の変化が、一瞬にして世界の秩序を根底から書き換えてしまう、連続の中の劇的な断絶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "critical_point",
+		"word": "Critical Point",
+		"meaning": "臨界点（りんかいてん）",
+		"etymology": [
+			"Greek krinein (to judge/decide)"
+		],
+		"concept": "End of phase boundaries",
+		"thinking": "「決断の（Critical）」場所。そこを越えると、液体と気体の境目は消え、もはやどちらとも言えぬカオスな統一状態（超臨界流体）が立ち現れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "supercritical",
+		"word": "Supercritical",
+		"meaning": "超臨界（ちょうりんかい）の",
+		"etymology": [
+			"Super + Critical"
+		],
+		"concept": "Fluid/gas hybrid state",
+		"thinking": "境界を「超えた（Super）」、決断（Critical）の向こう側。気体のように激しく、液体のように重厚。相反する性質が溶け合った、高エネルギーな混沌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "triple_point",
+		"word": "Triple Point",
+		"meaning": "三重点（さんじゅうてん）",
+		"etymology": [
+			"Triple"
+		],
+		"concept": "Solid, liquid, gas coexisting",
+		"thinking": "「三つ」の世界が一度に出会う、奇跡のゆらぎ。氷、水、蒸気が、たった一つの温度と圧力の下で互いに混ざり合い、均衡を保つ、物質の三位一体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "fluctuation_th",
+		"word": "Fluctuation",
+		"meaning": "揺（ゆ）らぎ",
+		"etymology": [
+			"Latin fluctuare (to flow like waves)"
+		],
+		"concept": "Temporary deviation from equilibrium",
+		"thinking": "「波のように流れる（Fluctuate）」。均衡した静寂の底で、粒子たちは常に微かに震えている。その微小な震えが、時に巨大な相転移の火種となる、カオスの種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "brownian_motio",
+		"word": "Brownian Mot",
+		"meaning": "ブラウン運動",
+		"etymology": [
+			"Brown"
+		],
+		"concept": "Evidence of invisible particles",
+		"thinking": "水面に浮かぶ小さな塵が、目に見えない「水分子」の激しい衝突（熱）によって、あてもなく彷徨う。隠されたミクロの世界が、マクロの瞳に初めてその震えを見せた、存在の証明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "viscosity_ther",
+		"word": "Viscosity",
+		"meaning": "粘性（ねんせい）、粘（ねば）り",
+		"etymology": [
+			"Latin viscum (mistletoe/birdlime)"
+		],
+		"concept": "Friction between layers",
+		"thinking": "「鳥もち（Viscum）」のような、情報のやり取りに伴う抵抗。流れに逆らい、変化を押し留めようとする、流体たちの密かな執着。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "thermal_cond",
+		"word": "Thermal Cond",
+		"meaning": "熱伝導率（ねつでんどうりつ）",
+		"etymology": [
+			"Thermos + Latin con- + ducere"
+		],
+		"concept": "Ability to lead heat",
+		"thinking": "熱（情熱）をどれほど効率よく「共に（Con-）」「導く（Ducre）」か。繋がりの強さが、世界の温度を均等にならそうとする、空間の誠実な響き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "convection_ad",
+		"word": "Convection",
+		"meaning": "対流（たいりゅう）",
+		"etymology": [
+			"Latin con- + vehere (to carry)"
+		],
+		"concept": "Heat transport by motion",
+		"thinking": "熱を物質そのものに乗せて「共に（Con-）」「運ぶ（Vehere）」。静かな伝導ではなく、ダイナミックな流れとなって熱を宇宙へ届ける、情熱の運搬。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "radiation_ther",
+		"word": "Rad Heat",
+		"meaning": "輻射熱（ふくしゃねつ）、放射",
+		"etymology": [
+			"Latin radius (spoke/ray)"
+		],
+		"concept": "Heat across the void",
+		"thinking": "何もない真空を、「矢（Radius）」のように真っ直ぐに突き抜ける熱。太陽の温もりが、冷たい宇宙を渡って届くための、電磁波という名の翼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "supercooling_p",
+		"word": "Supercooling",
+		"meaning": "過冷却（かれいきゃく）",
+		"etymology": [
+			"Super + Cool"
+		],
+		"concept": "Liquid below freezing point",
+		"thinking": "氷になるべき温度を「超えて（Super）」冷えても、なお液体のまま耐え忍ぶ。きっかけ（核）さえあれば、一瞬で凍り付く運命を秘めた、危うくも凛とした静寂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "nucleation_ad",
+		"word": "Nucleation",
+		"meaning": "核形成（かくけいせい）",
+		"etymology": [
+			"Latin nucleus (kernel/little nut)"
+		],
+		"concept": "Birth of a new phase",
+		"thinking": "「小さな種（Nucleus）」の誕生。カオスの中にたまたま生まれた一つの秩序が、雪崩のように全体を塗り替え、新しい世界（相）を立ち上げる最初の火種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "catalysis_ther",
+		"word": "Catalysis",
+		"meaning": "触媒（しょくばい）作用",
+		"etymology": [
+			"Greek kata- (down) + lysis (loosening)"
+		],
+		"concept": "Lowering the wall",
+		"thinking": "反応を隔てる壁を「解きほぐす（Kata-lysis）」。自らは変わらぬまま、他者の変化を激しく加速させる。冷めた世界に、密やかに情熱への魔法をかける賢者の介在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "activation_en",
+		"word": "Activation En",
+		"meaning": "活性化（かっせいか）エネルギー",
+		"etymology": [
+			"Latin actus + Greek energeia"
+		],
+		"concept": "The mountain to cross",
+		"thinking": "新しい自分へと「なす（Act）」ために、乗り越えなければならない最初の「山」。この壁を越えた先にしか、真の変化（反応）という名の爆発は待っていない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "thermodynam_3",
+		"word": "3rd Law Thermo",
+		"meaning": "熱力学第（ねつりきがくだい）三法則",
+		"etymology": [
+			"3rd + Law"
+		],
+		"original_statement": "Entropy of a perfect crystal at absolute zero is exactly zero.",
+		"concept": "Absolute zero as perfection",
+		"thinking": "すべてが静止する「絶対零度」において、エントロピーはゼロ（完璧な秩序）になる。しかし、そこには決して辿り着けないという、有限な存在に課せられた憧憬。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "maxwell_distr",
+		"word": "Maxwell Dist",
+		"meaning": "マクスウェル分布",
+		"etymology": [
+			"Maxwell"
+		],
+		"concept": "Distribution of molecular speeds",
+		"thinking": "激しく動き回る分子たちの、速さのばらつきを捉える理。熱気にあふれた世界の中で、誰が速く、誰が遅いか。その統計的な彩りと貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "equipartition",
+		"word": "Equipartition",
+		"meaning": "等配分（とうはいぶん）の理",
+		"etymology": [
+			"Latin aequus + partitio"
+		],
+		"concept": "Equal sharing of energy",
+		"thinking": "エネルギーは、あらゆる自由度（方向）に「等しく（Aequus）」「分け与えられる（Partition）」。宇宙の持つ、究極に公平で、かつ無情な富（エネルギー）の分配の掟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の熱き吐息を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"統計力学の深淵へ。"
+			]
+		},
+		"example": "Entropy always increases in a closed system."
 	}
 ];
