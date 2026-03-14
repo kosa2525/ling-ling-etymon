@@ -401934,5 +401934,745 @@ const WORDS = [
 			]
 		},
 		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "crystallogra",
+		"word": "Crystallogr",
+		"meaning": "結晶学（けっしょうがく）",
+		"etymology": [
+			"Greek krustallos (ice/crystal) + graphein"
+		],
+		"concept": "Science of atomic arrangement",
+		"thinking": "「氷（Crystal）」のように、原子が完璧に整列した秩序を「書く（Graph）」学問。無秩序なカオスから、どのようにして揺るぎなき美しき格子（貌）が産まれるのか。物質の『骨格（理）』を暴き出す、数理の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "condensed_m",
+		"word": "Cond Matter",
+		"meaning": "物性（ぶっせい）物理学（ぶつりがく）、凝縮（ぎょうしゅく）系（けい）物理学（ぶつりがく）",
+		"etymology": [
+			"Latin con- + densus (thick)"
+		],
+		"concept": "Physics of solids and liquids",
+		"thinking": "原子が「密集し（Dense）」「共に（Con-）」在ることで産まれる、マクロな性質のドラマ。一粒では見えなかった『個性（貌）』が、集団（凝縮系）となった瞬間に創発される。超伝導、磁性、そして生命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "reciprocal_",
+		"word": "Recip Space",
+		"meaning": "逆（ぎゃく）格子（こうし）空間（くうかん）",
+		"etymology": [
+			"Latin reciprocus"
+		],
+		"concept": "Space of wave vectors",
+		"thinking": "実世界の「長さ（格子）」をひっくり返した、「波（振動数）」の世界。私たちが目で見ている貌の『裏側の顔』。この鏡の世界に飛び込むことで、結晶の中を駆け巡る電子たちの真実の動き（理）が浮き彫りになる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "brillouin_z",
+		"word": "Brillouin Z",
+		"meaning": "ブリュアン・ゾーン",
+		"etymology": [
+			"Leon Brillouin"
+		],
+		"concept": "Primitive cell in reciprocal space",
+		"thinking": "逆格子空間の中に画定された、情報の「最小の檻」。この境界線（貌）こそが、電子が通れる道と、通れない壁（バンドギャップ）を決定する。半導体の中の、見えない情報の城壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "band_gap_ad",
+		"word": "Band Gap",
+		"meaning": "バンドギャップ、禁制帯（きんせいたい）",
+		"etymology": [
+			"Band + Gap"
+		],
+		"concept": "Energy range no electrons pass",
+		"thinking": "電子が決して立ち入りを許されない「空白（Gap）」。この拒絶があるからこそ、私たちは電気を操り、情報を制御し、シリコンの肉体に知性を宿らせることができる。断絶が生み出す、制御の理（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "superconduc",
+		"word": "Superconduc",
+		"meaning": "超伝導（ちょうでんどう）",
+		"etymology": [
+			"Latin super- + con- + ducere (to lead)"
+		],
+		"concept": "Zero electrical resistance",
+		"thinking": "「極限（Super-）」まで「導く（Ducere）」。電気抵抗がゼロになる奇跡。ある温度を下回った時、電子たちは個を捨て、一つの巨大な「波（貌）」となって、摩擦なき永遠のダンスを踊り始める。量子世界の美しき調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "cooper_pair",
+		"word": "Cooper Pai",
+		"meaning": "クーパー対（つい）",
+		"etymology": [
+			"Leon Cooper"
+		],
+		"concept": "Pair of bound electrons",
+		"thinking": "本来は反発し合うはずの電子たちが、格子のゆりかご（フォノン）を介して惹かれ合い、二人三脚（対）となる。この「愛の結びつき（貌）」こそが、超伝導という名の摩擦なき飛翔を可能にする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "bcs_theory_",
+		"word": "BCS Theory",
+		"meaning": "BCS理論（りろん）",
+		"etymology": [
+			"Bardeen, Cooper, Schrieffer"
+		],
+		"concept": "Explanation of superconductiv",
+		"thinking": "超伝導の深奥を解き明かした、物性物理の至高のパズル。ミクロな愛（クーパー対）がいかにしてマクロな静寂（抵抗ゼロ）を産むのか。数理によって極低温の神秘を捉えた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "meissner_ef",
+		"word": "Meissner Ef",
+		"meaning": "マイスナー効果（こうか）",
+		"etymology": [
+			"Walther Meissner"
+		],
+		"concept": "Expulsion of magnetic field",
+		"thinking": "磁力を「拒絶」し、自らの肉体から追い出す。超伝導体が産み出す、完璧な防御の貌。磁石の上に浮かび上がるその姿は、重力から解き放たれた、数理的な静寂の体現である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "flux_pinnin",
+		"word": "Flux Pin",
+		"meaning": "磁束（じそく）ピン止め効果（こうか）",
+		"etymology": [
+			"Latin fluxus (flow) + Pin"
+		],
+		"concept": "Vortex lines fixed in place",
+		"thinking": "磁力の糸（Flux）を、自分の体の一部として「縫い止める（Pin）」。動きたくても動けない。超伝導体と磁石が、目に見えない鎖で固く結ばれた、運命の拘束（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "fermi_surfa",
+		"word": "Fermi Surf",
+		"meaning": "フェルミ面（めん）",
+		"etymology": [
+			"Enrico Fermi"
+		],
+		"concept": "Boundary of occupied states",
+		"thinking": "電子たちがエネルギーの低い順に席を埋めていった時、最後に形成される「情報の海面（貌）」。この肌の形を知ることは、その物質が金属なのか、絶縁体なのか、そのアイデンティティを暴くことに等しい。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "quasipartic",
+		"word": "Quasiparti",
+		"meaning": "準粒子（じゅんりゅうし）、クアジパーティクル",
+		"etymology": [
+			"Latin quasi (as if) + Particle"
+		],
+		"concept": "Collective excitation as particle",
+		"thinking": "「粒子のような（Quasi-）」振る舞い。実体はない。しかし、無数の原子の集団的な「さざなみ」が、あたかも一つの粒子であるかのように振る舞う。関係性の中から産まれる、幻の命の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "phonon_adv_",
+		"word": "Phonon",
+		"meaning": "フォノン、音子（おんし）",
+		"etymology": [
+			"Greek phone (sound)"
+		],
+		"concept": "Quantum of crystal vibration",
+		"thinking": "結晶格子の「揺れ（Sound）」を、一つの粒子（Phonon）として数理的に掌握する。熱を運び、音を伝え、電子同士を結びつける、情報のさざなみ。物質の中に響く、沈黙のメロディ（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "magnon_adv_",
+		"word": "Magnon",
+		"meaning": "マグノン",
+		"etymology": [
+			"Magnetic + -on"
+		],
+		"concept": "Quantum of magnetic spin wave",
+		"thinking": "電子のスピン（磁性）の「うねり」を、一粒の情報の塊として捉える。磁気情報の奔流を司る、目に見えない波（貌）の粒子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "anyon_adv_v",
+		"word": "Anyon",
+		"meaning": "エニオン",
+		"etymology": [
+			"Any (one) + -on"
+		],
+		"concept": "Particles in 2D space",
+		"thinking": "「どんな（Any）」存在にもなれる。二次元の世界にのみ許された、フェルミオンでもボソンでもない、奇妙な統計性を持つ粒子。トポロジカル量子計算の夢を担う、不敵な可能性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "lattice_def",
+		"word": "Dislocatio",
+		"meaning": "転位（てんい）、ディスロケーション",
+		"etymology": [
+			"Latin dis- + locus (out of place)"
+		],
+		"concept": "Lattice defect/shift",
+		"thinking": "完璧な結晶格子の中に産まれた、一本の「ズレ（Dis-Locus）」。しかし、この『欠陥（貌）』こそが、金属の粘り強さ（加工のしやすさ）を産み出している。正しすぎる秩序よりも、歪みの中にこそ真の力が宿るという。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "doping_semi",
+		"word": "Doping",
+		"meaning": "ドーピング、微量（びりょう）元素（げんそ）添加（てんか）",
+		"etymology": [
+			"Dutch doop (sauce/dip)"
+		],
+		"concept": "Adding impurities to semicon.",
+		"thinking": "完璧な純潔から、あえて「不純物（ドープ）」を混ぜることで、電子の制御能力を爆発的に高める。聖人君子ではなく、僅かな毒（貌）を抱えた者が、情報を操る魔術師となる理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "exciton_adv",
+		"word": "Exciton",
+		"meaning": "エキシトン、励起子（れいきし）",
+		"etymology": [
+			"Latin excitare (to rouse)"
+		],
+		"concept": "Electron + hole bound state",
+		"thinking": "電子（負）と、その抜けた跡（正：正孔）が、互いに惹かれ合い、手を携えて踊る「目覚めた（Excite）」ペアの貌。光を吸い、情報を運び、再び光へと還る、儚きエネルギーの使者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "plasmon_adv",
+		"word": "Plasmon",
+		"meaning": "プラスモン",
+		"etymology": [
+			"Plasma + -on"
+		],
+		"concept": "Oscillation of free electrons",
+		"thinking": "金属の中の自由電子たちが、一斉に、波のように「震える」。光の波と共鳴し、ナノの世界で巨大なエネルギーを凝縮する。光を物質の肌（貌）に繋ぎ止める、電子の集団の鼓動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "spintronics",
+		"word": "Spintronic",
+		"meaning": "スピントロニクス",
+		"etymology": [
+			"Spin + Electronics"
+		],
+		"concept": "Using electron spin for info",
+		"thinking": "「電気（流れ）」だけでなく、電子の「向き（Spin）」という名の貌（アイデンティティ）さえも情報の糧にする。消費電力を削ぎ落とし、究極の記憶を産み出す、現代の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "quantum_dot",
+		"word": "Quantum Do",
+		"meaning": "量子（りょうし）ドット",
+		"etymology": [
+			"Quantum + Dot"
+		],
+		"concept": "Nanoscale semiconductor crystal",
+		"thinking": "数個の原子からなる、究極の「点（Dot）」。小さすぎて、電子は物理的な貌を失い、純粋な『波のエネルギー』へと凝縮される。大きさによって放つ光の色が変わる、人工的な命の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "graphene_ad",
+		"word": "Graphene",
+		"meaning": "グラフェン",
+		"etymology": [
+			"Graphite + -ene"
+		],
+		"concept": "One-atom thick carbon sheet",
+		"thinking": "原子一個分の厚みしかない、究極の「二次元」。炭素の美しき六角形が織りなす、鋼より強く、光より速く電子を運ぶ。この世で最も薄く、最も強靭な、情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "quasicrysta",
+		"word": "Quasicryst",
+		"meaning": "準結晶（じゅんけっしょう）",
+		"etymology": [
+			"Latin quasi (as if) + Crystal"
+		],
+		"concept": "Ordered but not periodic",
+		"thinking": "「秩序はあるが、繰り返し（周期性）がない」。あり得ないはずの五角形の対称性。イスラム建築のモザイクのように、同じ貌を見せながら、二度と同じ場所には戻らない。数理の限界を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "allotrope_a",
+		"word": "Allotrope",
+		"meaning": "同素体（どうそたい）",
+		"etymology": [
+			"Greek allos (other) + tropos (manner)"
+		],
+		"concept": "Different forms of same element",
+		"thinking": "同じ「原子（中身）」を持ちながら、その「形（Tropos）」「結びつき」が「異なる（Allos）」者たち。黒鉛とダイヤモンド。繋ぎ方一つで、闇は至高の輝き（貌）へと変貌する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "morphology_",
+		"word": "Morphology",
+		"meaning": "形態（けいたい）学（がく） (結晶)",
+		"etymology": [
+			"Greek morphe (form) + logos"
+		],
+		"concept": "Study of crystal shape",
+		"thinking": "なぜ雪は六角形に、塩は立方体になるのか。目に見える「形（Morphe）」の理。格子の深奥に潜む情報の幾何学が、マクロな世界へと現れ出た、美しき落款（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "nucleation_",
+		"word": "Nucleation",
+		"meaning": "核（かく）形成（けいせい）",
+		"etymology": [
+			"Latin nucleus (little nut)"
+		],
+		"concept": "Start of crystal growth",
+		"thinking": "無秩序な溶融の中から、たった一つの小さな「種（Nucleus）」が結ばれる。そこから一気に秩序が感染（波及）し、結晶という名の巨大な貌が組み上がっていく。宇宙の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "anisotropy_",
+		"word": "Anisotropy",
+		"meaning": "異方性（いほうせい）",
+		"etymology": [
+			"Greek an- (not) + isos (equal) + tropos"
+		],
+		"concept": "Property variation with direction",
+		"thinking": "「方向」によって、性質が「異なる（An-isos）」。ある方向には光を通し、ある方向には電気を遮る。単一の貌を持たぬ、物質の多面的な意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "piezoelectr",
+		"word": "Piezoelect",
+		"meaning": "圧電（あつでん）効果（こうか）",
+		"etymology": [
+			"Greek piezein (to press) + Electric"
+		],
+		"concept": "Voltage from pressure",
+		"thinking": "「押す（Pieze）」と「電気」が生まれる。肉体的なストレスを、情報の火花へと変換する。物質の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "amorphous_a",
+		"word": "Amorphous",
+		"meaning": "無定形（むていけい）の、アモルファス",
+		"etymology": [
+			"Greek a- (not) + morphe (form)"
+		],
+		"concept": "Lacking structured arrangement",
+		"thinking": "「形（Morphe）」を「持たない（A-）」。ガラスのように、カオスのまま固められた沈黙。固定された秩序に縛られない、自由で不確かな物質の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "interstitia",
+		"word": "Interstitial",
+		"meaning": "格子（こうし）間（かん）の",
+		"etymology": [
+			"Latin inter- + sistere (to stand between)"
+		],
+		"concept": "Located between lattice sites",
+		"thinking": "主役たちの「間（Inter）」にそっと「立つ（Sistere）」。小さな原子が格子の隙間に入り込み、全体の強度や性質をドラマチックに変える。わき役が主役を超越する、情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "valence_ban",
+		"word": "Valence Ban",
+		"meaning": "価電子帯（かでんしたい）",
+		"etymology": [
+			"Latin valentia (strength/power)"
+		],
+		"concept": "Highest energy range of electrons",
+		"thinking": "電子たちが充満し、物質を支えている「力（Valentia）」の領域。ここから高く「跳躍（励起）」できるかどうかが、その物質の宿命（貌）を決める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "hole_physics",
+		"word": "Hole (P)",
+		"meaning": "正孔（せいこう）、ホール",
+		"etymology": [
+			"Hole"
+		],
+		"concept": "Absence of electron as charge",
+		"thinking": "「電子がいない」という欠落そのものを、あたかも「正の粒子」として扱う。虚無が実在を動かす、逆説の理。ないはずのものが、確かに世界を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "monocrystal",
+		"word": "Monocrysta",
+		"meaning": "単結晶（たんけっしょう）",
+		"etymology": [
+			"Greek monos + Crystal"
+		],
+		"concept": "Single continuous crystal",
+		"thinking": "「一つ（Mono）」の、瑕疵なき完璧な秩序。端から端まで寸分違わぬ、理性の化身のような。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "polycrystal",
+		"word": "Polycrysta",
+		"meaning": "多（た）結晶（けっしょう）",
+		"etymology": [
+			"Greek poly- + Crystal"
+		],
+		"concept": "Many small random crystals",
+		"thinking": "「多くの（Poly）」小さな秩序（貌）が激突し、複雑なモザイクを成している。不均一、しかしそれゆえに粘り強く強靭な、現実の物質の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "domain_wall",
+		"word": "Domain Wal",
+		"meaning": "磁区（じく）壁（へき）、ドメイン・ウォール",
+		"etymology": [
+			"Domain + Wall"
+		],
+		"concept": "Interface between alignments",
+		"thinking": "「あちらを向いた秩序」と「こちらを向いた秩序」の激突する「境界線（Wall）」。そこに宿るエネルギー、そこに刻まれた数理的な歪み（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "mechatronic",
+		"word": "Ferroelect",
+		"meaning": "強（きょう）誘電（ゆうでん）性（せい）",
+		"etymology": [
+			"Latin ferrum (iron) + Electric"
+		],
+		"concept": "Spontaneous electric polarity",
+		"thinking": "外部の力なしに、自発的に「向き（極性）」を揃える強情さ。一度決めた貌を、書き換えられても守り続けようとする、情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "crystal_p_c",
+		"word": "Crystal (C)",
+		"meaning": "結晶（けっしょう）の祈（いの）り",
+		"etymology": [
+			"Crystal"
+		],
+		"concept": "The perfection of structure",
+		"thinking": "たった一粒の塵でも、原子の配列（貌）が乱れれば、それはもはや結晶ではない。この潔癖なまでの数理的秩序こそが、物質に「宝石」のような不滅の命を宿らせる。静寂の中に秘められた、原子たちの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結晶の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"凝縮系物理学と結晶学の極致へ。"
+			]
+		},
+		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
 	}
 ];
