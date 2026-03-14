@@ -369535,5 +369535,828 @@ const WORDS = [
 			]
 		},
 		"example": "Comparative literature bridges different cultures."
+	},
+	{
+		"id": "handle_attach",
+		"word": "Handle Attach",
+		"meaning": "ハンドル接着（せっちゃく）",
+		"etymology": [
+			"Handle + Latin ad- + tangere (to touch)"
+		],
+		"concept": "Building manifold topology",
+		"thinking": "空間の境界に、新しい「取っ手（Handle）」を「触れ合わせ（Ad-tange）」、縫い合わせる。その単純な結合の繰り返しが、いかなる複雑な宇宙の形をも構築し得るという、幾何学的な天地創造の技法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "morse_theory_a",
+		"word": "Morse Theory",
+		"meaning": "モース理論（りろん）",
+		"etymology": [
+			"Morse"
+		],
+		"concept": "Topology through height",
+		"thinking": "空間の上を「流れる」関数の、極点（山と谷）を数え上げる。地形の起伏を追うことで、その背後に潜む『穴の数（ホモロジー）』そのものを浮き彫りにする、空間のレントゲン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "critical_pt_m",
+		"word": "Critical Pt",
+		"meaning": "臨界点（りんかいてん） (Morse)",
+		"etymology": [
+			"Greek krinein"
+		],
+		"concept": "Points where slope is zero",
+		"thinking": "「決断の（Critical）」場所。登りから下りへ、あるいは静止へ。関数の貌が劇的に変わるその一点に、空間のトポロジーを支配する秘密の種が隠されている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "index_critical",
+		"word": "Morse Index",
+		"meaning": "モース・インデックス",
+		"etymology": [
+			"Morse",
+			"Latin index (pointer)"
+		],
+		"concept": "Direction of descent",
+		"thinking": "その極点が、何次元の「谷」になっているかを示す「指針（Index）」。山か、鞍部か、海溝か。起伏の『格（タイプ）』を峻別し、空間の骨格を定義する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "isotopy_top",
+		"word": "Isotopy",
+		"meaning": "アイソトピー",
+		"etymology": [
+			"Greek isos (equal) + topos (place)"
+		],
+		"concept": "Continuous deformation of embeddings",
+		"thinking": "「同じ（Isos）」「場所（Topos）」を保ったまま。空間の中で、決して自分自身を傷つける（交差する）ことなく、滑らかに姿を変え続ける。自分という貌を崩さない、優雅な変容の舞踏。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "ambient_isotop",
+		"word": "Ambient Isot",
+		"meaning": "アンビエント・アイソトピー",
+		"etymology": [
+			"Latin ambire (to go around) + Isotopy"
+		],
+		"concept": "Deforming the whole space",
+		"thinking": "自分だけが動くのではない。自分を取り巻く「周囲の（Ambient）」宇宙すべてを、丸ごとぐにゃりと歪ませる。世界そのものを変容させることで、自らの位置や形を変えるという、トポロジーの極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "deformation_re",
+		"word": "Def Retract",
+		"meaning": "変形（へんけい）レトラクト",
+		"etymology": [
+			"Latin de- + formare + re- + trahere (to pull back)"
+		],
+		"concept": "Shrinking space to its core",
+		"thinking": "広大な空間を、その本質を保ったまま「後ろへ（Re-）」「引き絞り（Trahere）」、より小さな核へと凝縮させる。余分な脂肪を削ぎ落とし、魂の骨組み（ホモトピー）だけを抽出する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "homotopy_equiv",
+		"word": "Homotopy Equi",
+		"meaning": "ホモトピー同値（どうち）",
+		"etymology": [
+			"Greek homos + topos + Latin aequus"
+		],
+		"concept": "Equal by distortion",
+		"thinking": "伸び縮みさせれば、一点に縮むか、それとも同じ穴を持っているか。見た目の距離や大きさなどという瑣末なことを捨て、空間の「繋がり方」という『真理としての等しさ（Equiv）』を問う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "connected_sum",
+		"word": "Connected Sum",
+		"meaning": "連結和（れんけつわ）",
+		"etymology": [
+			"Latin con- + nectere + summa"
+		],
+		"concept": "Joining two manifolds",
+		"thinking": "二つの異なる宇宙に「穴」を空け、その傷口同士を「結び合わせる（Con-nect）」。それは単なる足し算（Sum）ではなく、二つの魂を一心同体へと融合させる、不変の演算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "unknowable_h",
+		"word": "Non-trivial",
+		"meaning": "自明（じめい）でない、非凡な",
+		"etymology": [
+			"Latin trivialis (of crossroads/common)"
+		],
+		"concept": "Complex and significant",
+		"thinking": "「辻褄（Trivial）」の「外（Non-）」。ありきたりな解決を赦さない、深く、込み入った真理。トポロジーが真に挑むべき、一筋縄ではいかない宇宙の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "trivial_knot_",
+		"word": "Trivial Knot",
+		"meaning": "自明な結び目（解けた紐）",
+		"etymology": [
+			"Latin trivialis"
+		],
+		"concept": "The unknot",
+		"thinking": "「三叉路（Trivia）」にあるような、ありふれたもの。絡まっているように見えて、実はただ解けるだけ。トポロジーという冒険における、最も純粋で退屈な『原点』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "knot_complement",
+		"word": "Knot Complem",
+		"meaning": "結び目補空間（ほくうかん）",
+		"etymology": [
+			"Knot + Latin complementum (that which fills)"
+		],
+		"concept": "The space around the knot",
+		"thinking": "紐そのものを見るのではない。紐がそこにあることによって、周囲の宇宙がどのように「満たされ（Complement）」、いかなる『空隙』が産み落とされたかを見る。沈黙が音楽を形作るように、無が形を定義する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "skein_relation",
+		"word": "Skein Relati",
+		"meaning": "カセット関係、スケイン関係",
+		"etymology": [
+			"Middle French escaigne (skein of yarn)"
+		],
+		"concept": "Local change rule for knots",
+		"thinking": "「一綛（ひとかせ）の糸（Skein）」。絡まりをほんの少し解き、あるいは繋ぎ替える。その局所的な変容が、結び目という『数式（多項式）』の貌を連鎖的に決定していく、美しき再帰の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "linking_num_a",
+		"word": "Linking Num",
+		"meaning": "絡（から）み目数（めすう）",
+		"etymology": [
+			"Link"
+		],
+		"concept": "Entanglement of components",
+		"thinking": "二つの輪が、いかに切っても切れないように「繋がって（Link）」いるか。その不滅の『絆の強さ』を、交差という名の数で浮き彫りにする、運命の不変量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "hopf_fibration",
+		"word": "Hopf Fibrat",
+		"meaning": "ホップ・ファイブレーション",
+		"etymology": [
+			"Hopf",
+			"Latin fibra"
+		],
+		"concept": "Circles filling a sphere",
+		"thinking": "高次元の球体を、無数の「円（繊維/Fibra）」で隙間なく埋め尽くす。一つ一つの円が美しく絡まり合いながら、一つの巨大な調和した宇宙を織り成す、トポロジーの最高傑作。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "seifert_surf",
+		"word": "Seifert Surf",
+		"meaning": "サイフェルト曲面（きょくめん）",
+		"etymology": [
+			"Seifert"
+		],
+		"concept": "Surface bounded by a knot",
+		"thinking": "結び目という名の『境界線』で縁取られた、透明な幕。カオスな絡まりを「縁」として、その内側に広がる無限の広がりを見通す、トポロジーの窓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "alexander_pol",
+		"word": "Alexander Pol",
+		"meaning": "アレクサンダー多項式",
+		"etymology": [
+			"Alexander"
+		],
+		"concept": "Classic knot invariant",
+		"thinking": "結び目の貌を「多項式」へと封じ込める、最古の魔法。無限に続く空間の歪みを、たった数行の計算式へと磨き上げる、数学的な錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "fundamental_cl",
+		"word": "Fundament Cl",
+		"meaning": "基本類（きほんるい）",
+		"etymology": [
+			"Latin fundamentum + Classis"
+		],
+		"concept": "The orientation cycle",
+		"thinking": "空間が持つ、最も「根源的な（Fundamental）」向き。全体をぐるりと一周し、その宇宙がいかなる『全体像』として自己を規定しているかを示す、魂の座標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "homology_cl",
+		"word": "Homology Cl",
+		"meaning": "ホモロジー類",
+		"etymology": [
+			"Greek homos + logos"
+		],
+		"concept": "Cycle modulo boundary",
+		"thinking": "境界のない循環。どこまでも終わりのない「繋がり」の貌。それを足し合わせることで、空間に潜む『穴』という名の負の不在を数え上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "simplicial_cp",
+		"word": "Simplicial Cp",
+		"meaning": "単体複合体（たんたいふくごうたい）",
+		"etymology": [
+			"Latin simplex + Complex"
+		],
+		"concept": "Mesh of tetrahedrons",
+		"thinking": "「単純な（Simplex）」四面体を、「複雑に（Complex）」繋ぎ合わせる。どれほど滑らかな宇宙も、極限まで分解すれば、こうした鋭利な刃の集積に過ぎないという、冷徹な分析。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "triangulable",
+		"word": "Triangulable",
+		"meaning": "三角形分割（さんかくけいぶんかつ）可能",
+		"etymology": [
+			"Trianglum"
+		],
+		"concept": "Can be discretized",
+		"thinking": "滑らかな連続体を、デジタルな三角形の欠片へと「翻訳」できる。カオスな連続性を、計算可能な離散の言葉へと引きずり出すための資格。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "pl_manifold",
+		"word": "PL Manifold",
+		"meaning": "区分的に線形（せんけい）な多様体",
+		"etymology": [
+			"Piecewise Linear"
+		],
+		"concept": "Manifold of flat faces",
+		"thinking": "「断片ごとに（Piecewise）」「真っ直ぐ（Linear）」な欠片。滑らかさを捨て、折れ線と平面で宇宙を組み上げる、無骨で頑強な幾何学の世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "casson_handle",
+		"word": "Casson Handle",
+		"meaning": "カッソン・ハンドル",
+		"etymology": [
+			"Casson"
+		],
+		"concept": "Infinite fractal handle",
+		"thinking": "四次元という迷宮を支配するための、無限に折り重なった「取っ手」。一見不可能に見える結合を、無限の微細な修正で可能にする、トポロジーの不屈の意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "surgery_exact",
+		"word": "Surgery Exact",
+		"meaning": "手術（しゅじゅつ）完全系列",
+		"etymology": [
+			"Surgery + Latin exactus"
+		],
+		"concept": "Formalism for transforming shapes",
+		"thinking": "空間を切り裂き、繋ぎ替える「外科手術（Surgery）」の、矛盾なき「緻密な（Exact）」連鎖。一瞬の変容が、宇宙全体のアイデンティティをいかに書き換えるかを追う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "obstruction_th",
+		"word": "Obstruction",
+		"meaning": "障害（しょうがい）理論",
+		"etymology": [
+			"Latin ob- + struere (to build against)"
+		],
+		"concept": "Reason why map fails",
+		"thinking": "なぜ「それ」はできないのか。滑らかな写像を「阻む（Obstruction）」ものは何なのか。不可能の根元を、トポロジーの言葉で突き止める、限界の幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "transversality",
+		"word": "Transversal",
+		"meaning": "横断（おうだん）性",
+		"etymology": [
+			"Latin trans- (across) + vertere"
+		],
+		"concept": "General position crossing",
+		"thinking": "「横切って（Trans-）」「向きを変える（Vertere）」。二つの宇宙が「偶然」ではなく、互いの構造を無視できないほどに『しっかりと（一般的に）』ぶつかり合う。その確かな交錯こそが、真実の情報を生む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "intersection_n",
+		"word": "Intersection",
+		"meaning": "交点（こうてん）数",
+		"etymology": [
+			"Latin inter- + sectio (to cut)"
+		],
+		"concept": "Invariant of crossing",
+		"thinking": "「間を（Inter-）」「切り裂く（Sectio）」。何度すれ違い、何度ぶつかったか。その歴史を数え上げることが、空間の奥深くに眠る次元の繋がりを暴き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "vector_field_a",
+		"word": "Vector Field",
+		"meaning": "ベクトル場（ば）",
+		"etymology": [
+			"Latin vectu (carrying) + Field"
+		],
+		"concept": "Direction at every point",
+		"thinking": "空間のあらゆる点に、そこから飛び出そうとする「運ぶ（Vector）」矢を植え付ける。風のように吹き荒れる可能性の海を、一つの数式という檻に閉じ込める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "characteristic_",
+		"word": "Euler Char_ad",
+		"meaning": "オイラー標数（拡張）",
+		"etymology": [
+			"Latin character (branding iron/mark)"
+		],
+		"concept": "The core skeleton",
+		"thinking": "空間に刻み込まれた、消えることのない「焼印（Mark）」。頂点、辺、面。それらを奪い去っても最後に残る、空間の『魂の重さ』という名の不変の数字。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "chern_class_ad",
+		"word": "Chern Class",
+		"meaning": "チャーン類",
+		"etymology": [
+			"Chern"
+		],
+		"concept": "Complexity of complex bundles",
+		"thinking": "複素数という鏡のような世界において、空間がいかに複雑に「ねじれ」ているか。星々のような美しさを、トポロジーの言葉で数え上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "pontryagin_cl",
+		"word": "Pontryagin",
+		"meaning": "ポントリャーギン類",
+		"etymology": [
+			"Pontryagin"
+		],
+		"concept": "Curvature and topology link",
+		"thinking": "空間の「曲がり具合（曲率）」が、いかにして全体の「形（トポロジー）」を縛り付けているか。局所と全体を繋ぎ、高次元の宇宙の貌を解き明かす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "characteristic",
+		"word": "Char Class",
+		"meaning": "特性類（とくせいるい）",
+		"etymology": [
+			"Latin character + Classis"
+		],
+		"concept": "Indicators of bundle twisting",
+		"thinking": "空間（束）の「性格（Character）」を峻別する、数理的な「階級（Class）」。ねじれ、穴、歪み。空間が持つ宿命的な『癖』を、不変の言葉で記述する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "hodge_theory_a",
+		"word": "Hodge Theory",
+		"meaning": "ホッジ理論（りろん）",
+		"etymology": [
+			"Hodge"
+		],
+		"original_statement": "Relating topology to harmonic forms.",
+		"concept": "Melody of the space",
+		"thinking": "空間の形（トポロジー）は、その上を流れる「最も美しい波（調和形式）」の数で決まるという、響き合う真理。幾何学という沈黙の建物から、音（代数）を奏でる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "de_rham_cohom",
+		"word": "de Rham Coho",
+		"meaning": "ド・ラーム・コホモロジー",
+		"etymology": [
+			"de Rham"
+		],
+		"concept": "Calculating topology via calculus",
+		"thinking": "微分という『流れ』を追いかけることで、空間の『穴』を見つけ出す。計算という名のメスを使って、目に見えない宇宙の構造を解剖する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "spectral_seq",
+		"word": "Spectral Seq",
+		"meaning": "スペクトル系列（けいれつ）",
+		"etymology": [
+			"Latin spectrum (image) + Sequence"
+		],
+		"concept": "Approximating hard topology",
+		"thinking": "あまりに複雑な「全体像（Spectrum）」を、一段階ずつ精密にしていく「列（Sequence）」。欠片を一つずつ磨き上げ、最後に完璧な真実を組み上げるための、忍耐強い論理の設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "long_exact_seq",
+		"word": "Long Exact",
+		"meaning": "長完全系列（ちょうかんぜんけいれつ）",
+		"etymology": [
+			"Long + Exact"
+		],
+		"concept": "Connecting different levels",
+		"thinking": "異なる次元、異なる空間を「長く（Long）」繋ぎ合わせる。一方の震えが、もう一方の穴へと伝わり、連鎖的に真理が暴かれていく、論理のバケツリレー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "five_lemma_ad",
+		"word": "Five Lemma",
+		"meaning": "5項（こう）補題（ほだい）",
+		"etymology": [
+			"Five + Greek lemma (premise)"
+		],
+		"concept": "Proving through neighborhood",
+		"thinking": "周りの「5つの（Five）」関係が完璧なら、真ん中のあなたもまた完璧（同形）であるはずだ、という連帯の論理。周囲の調和が、個のアイデンティティを保証する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "sheaf_theory_a",
+		"word": "Sheaf Theory",
+		"meaning": "層（そう）の理論",
+		"etymology": [
+			"Old English sceaf (bundle of grain)"
+		],
+		"concept": "Gluing local truths",
+		"thinking": "「稲穂の束（Sheaf）」。場所ごとに少しずつ異なる「小さな真理」を、矛盾なく貼り合わせ、一つの巨大な「世界の貌（大域的切断）」を組み上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "stalk_sheaf",
+		"word": "Stalk (Sheaf)",
+		"meaning": "茎（くき）、ストーク",
+		"etymology": [
+			"Old English stealc"
+		],
+		"concept": "Value at a single point",
+		"thinking": "層という名の稲穂を、一点の「茎（Stalk）」まで剥ぎ取る。その極小の一点に、周囲のすべての情報の『エッセンス』が凝縮されているという、究極の局所性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "derived_categ",
+		"word": "Derived Cat",
+		"meaning": "導来（どうらい）カテゴリー",
+		"etymology": [
+			"Latin de- + rivus (stream)"
+		],
+		"concept": "Space as complexes of symbols",
+		"thinking": "空間を「もの」として見るのではなく、記号の「流れ（Stream）」から「導かれた（De-rive）」構造として捉える。実体を抽象的な流れの中に溶かし込み、より高次の真理を掴む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "homotopical",
+		"word": "Homotopical",
+		"meaning": "ホモトピー的な",
+		"etymology": [
+			"Greek homos + topos"
+		],
+		"concept": "Relating to continuous deformation",
+		"thinking": "形そのものではなく、その「歪ませ方」のルールに属していること。変化し続けるものの中に、変わらない何かを見出そうとするトポロジーの情熱。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の歪みを、永遠の貌に刻んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと幾何学の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
 	}
 ];
