@@ -350940,5 +350940,1068 @@ const WORDS = [
 			]
 		},
 		"example": "Language is the mirror of the mind."
+	},
+	{
+		"id": "cryptography_adv",
+		"word": "Cryptography",
+		"meaning": "暗号学",
+		"etymology": {
+			"components": [
+				"Greek kryptos",
+				"Graphein"
+			],
+			"original_statement": "Art of secret writing."
+		},
+		"concept": "Sacred protection of meaning",
+		"thinking": "誰もが読める場所で、選ばれた者だけに真実を囁くための、知性と数学の盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "asymmetric_encrypt",
+		"word": "Asymmetric",
+		"meaning": "公開鍵暗号",
+		"etymology": {
+			"components": [
+				"A- (not)",
+				"Symmetric"
+			],
+			"original_statement": "Using different keys for locking/unlocking."
+		},
+		"concept": "The one-way door of privacy",
+		"thinking": "かけるのと開けるのが別々の力。自分だけが真実を握る、信頼の礎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "diffie_hellman_ex",
+		"word": "Diffie-Hellman",
+		"meaning": "DH鍵共有",
+		"etymology": {
+			"components": [
+				"Diffie",
+				"Hellman"
+			],
+			"original_statement": "Secret exchange over open channels."
+		},
+		"concept": "Secret agreement in public",
+		"thinking": "公道ですれ違いざまに目配せだけで合言葉を共有するような、数学的な奇術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "elliptic_curve_cr",
+		"word": "ECC (Crypto)",
+		"meaning": "楕円曲線暗号",
+		"etymology": {
+			"components": [
+				"Elliptic Curve"
+			],
+			"original_statement": "Cryptography on elliptic curves."
+		},
+		"concept": "Higher-dimensional secrecy",
+		"thinking": "曲線の上の点を飛び跳ねる。その旅路の終点を当てる難しさを利用した鎧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "hashing_algorithm",
+		"word": "Hash function",
+		"meaning": "ハッシュ関数",
+		"etymology": {
+			"components": [
+				"French hacher"
+			],
+			"original_statement": "Mapping to a fixed fingerprint."
+		},
+		"concept": "Irreversible essence",
+		"thinking": "情報の貌を完全に粉砕し、唯一の指紋へ凝縮する。二度と戻れない片道切符。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "zero_knowledge",
+		"word": "Zero-knowledge",
+		"meaning": "ゼロ知識証明",
+		"etymology": {
+			"components": [
+				"Zero",
+				"Knowledge"
+			],
+			"original_statement": "Proving without revealing secret."
+		},
+		"concept": "Proving the light without showing the flame",
+		"thinking": "答え（秘密）を明かさず、「知っている」事実だけを伝える、無言の証明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "homomorphic_enc",
+		"word": "Homomorphic",
+		"meaning": "準同型暗号",
+		"etymology": {
+			"components": [
+				"Greek homos",
+				"Morphe"
+			],
+			"original_statement": "Computing on encrypted data."
+		},
+		"concept": "Computing in the dark",
+		"thinking": "中身を見ることなく、包み隠された影に対して計算を行う、未来の福音。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "digital_signature",
+		"word": "Digital Sign",
+		"meaning": "電子署名",
+		"etymology": {
+			"components": [
+				"Latin signare"
+			],
+			"original_statement": "Authentication of message origin."
+		},
+		"concept": "The immutable seal of identity",
+		"thinking": "一滴の改ざんもないことを保証する、デジタルの血判状。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "blockchain_ledger",
+		"word": "Blockchain",
+		"meaning": "ブロックチェーン",
+		"etymology": {
+			"components": [
+				"Block",
+				"Chain"
+			],
+			"original_statement": "Distributed, immutable ledger."
+		},
+		"concept": "The indestructible public memory",
+		"thinking": "過去の全記憶を鎖で繋ぎ、数千の目で監視し合う、不滅の記録。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "smart_contract_cr",
+		"word": "Smart Contract",
+		"meaning": "スマート・コントラクト",
+		"etymology": {
+			"components": [
+				"Smart",
+				"Contractus"
+			],
+			"original_statement": "Self-executing contracts in code."
+		},
+		"concept": "Laws written in stone (of code)",
+		"thinking": "条件を満たした瞬間に自動で約束を果たす、感情を排した冷徹で誠実な法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "brute_force_atk",
+		"word": "Brute Force",
+		"meaning": "総当たり攻撃",
+		"etymology": {
+			"components": [
+				"Brute",
+				"Force"
+			],
+			"original_statement": "Exhaustive search covering all combos."
+		},
+		"concept": "The violence of persistence",
+		"thinking": "知略ではなく、何兆通りをすべて試して強引に扉をこじ開ける執念。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "side_channel_atk",
+		"word": "Side-channel",
+		"meaning": "サイドチャネル攻撃",
+		"etymology": {
+			"components": [
+				"Side",
+				"Channel"
+			],
+			"original_statement": "Attacking via physical implementation leaks."
+		},
+		"concept": "Listening to the wall's echo",
+		"thinking": "計算中の熱や震え、時間の漏れから秘密を察知する、忍び寄る影の偵察。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "quantum_resistan",
+		"word": "Post-quantum",
+		"meaning": "耐量子暗号",
+		"etymology": {
+			"components": [
+				"Post-",
+				"Quantum"
+			],
+			"original_statement": "Quantum-secure cryptography."
+		},
+		"concept": "Preparing for the quantum hurricane",
+		"thinking": "量子コンピュータという『未来の嵐』が来ても崩れない、数学の城塞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "lattice_based_cr",
+		"word": "Lattice-based",
+		"meaning": "格子暗号",
+		"etymology": {
+			"components": [
+				"Lattice"
+			],
+			"original_statement": "Cryptography on lattice theory."
+		},
+		"concept": "Geometry of secrecy",
+		"thinking": "高次元格子で最も近い点を探す絶望的難しさを、情報の鎧へ転換した希望。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "steganography_scr",
+		"word": "Steganography",
+		"meaning": "ステガノグラフィ",
+		"etymology": {
+			"components": [
+				"Greek steganos",
+				"Graphein"
+			],
+			"original_statement": "Hiding secret in ordinary message."
+		},
+		"concept": "Invisible ink within digital sight",
+		"thinking": "ありふれた写真の背後に隠す。「そこにある」ことさえ気づかせない隠蔽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "intrusion_detect",
+		"word": "IDS",
+		"meaning": "侵入検知システム",
+		"etymology": {
+			"components": [
+				"Latin intrudere"
+			],
+			"original_statement": "Monitoring for malicious activity."
+		},
+		"concept": "The sleepless sentinel",
+		"thinking": "押し入る者を静かに見守る眠らない瞳。異常な震えを察知し異変を告げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "social_engine_atk",
+		"word": "Social Engineer",
+		"meaning": "ソーシャルエンジニアリング",
+		"etymology": {
+			"components": [
+				"Social",
+				"Engine"
+			],
+			"original_statement": "Trickery to reveal secrets."
+		},
+		"concept": "Vulnerability of the heart",
+		"thinking": "「人の心」という弱点を突き、自ら扉を開けさせる、最も古い術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "phishing_fraud",
+		"word": "Phishing",
+		"meaning": "フィッシング詐欺",
+		"etymology": {
+			"components": [
+				"Password",
+				"Fishing"
+			],
+			"original_statement": "Fraudulent attempt to gain info."
+		},
+		"concept": "Casting lures in the sea of data",
+		"thinking": "偽の本物を使い、無防備な者の信頼を釣り上げる、悪意の針。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "vulnerability_sc",
+		"word": "Vulnerability",
+		"meaning": "脆弱性",
+		"etymology": {
+			"components": [
+				"Latin vulnus"
+			],
+			"original_statement": "System weakness for exploitation."
+		},
+		"concept": "The unhealed wound of the system",
+		"thinking": "たった一箇所の綻び。守り手が決して目を離してはならない、傷口。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "zero_day_threat",
+		"word": "Zero-day",
+		"meaning": "ゼロデイ攻撃",
+		"etymology": {
+			"components": [
+				"Zero-day"
+			],
+			"original_statement": "Unknown vulnerability exploit."
+		},
+		"concept": "Assault from the unknown",
+		"thinking": "治療法が見つかるよりも早く襲いくる、未知の病。防御が始まる前の空白。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "encryption_at_re",
+		"word": "At-rest Enc",
+		"meaning": "静止データ暗号化",
+		"etymology": {
+			"components": [
+				"Rest"
+			],
+			"original_statement": "Stored data protection."
+		},
+		"concept": "Sleeping secrets",
+		"thinking": "深くに眠っているデータにも施す封印。場所を盗まれても魂は渡さない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "salting_password",
+		"word": "Salting",
+		"meaning": "ソルト付加",
+		"etymology": {
+			"components": [
+				"Salt"
+			],
+			"original_statement": "Random data added to passwords."
+		},
+		"concept": "Unique seasoning for security",
+		"thinking": "一人一人に別の「塩」を振り、響きを全く変える。一括の略奪を阻む隠し味。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "multifactor_auth",
+		"word": "MFA",
+		"meaning": "多要素認証",
+		"etymology": {
+			"components": [
+				"Multi-",
+				"Factor"
+			],
+			"original_statement": "Multiple independent factors."
+		},
+		"concept": "Layered trust",
+		"thinking": "たった一つの偶然や過失を、破局にはさせないための、重ねられた鍵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "key_management",
+		"word": "Key Management",
+		"meaning": "鍵管理",
+		"etymology": {
+			"components": [
+				"Key",
+				"Manage"
+			],
+			"original_statement": "Lifecycle of crypto keys."
+		},
+		"concept": "The weight of the crown",
+		"thinking": "秘密をどう産み、守り、葬るか。強さは鍵を扱う『誠実さ』にかかっている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "forward_secrecy",
+		"word": "Forward Secrecy",
+		"meaning": "前方秘匿性",
+		"etymology": {
+			"components": [
+				"Forward",
+				"Secret"
+			],
+			"original_statement": "Key compromise protection for past."
+		},
+		"concept": "Safety from future exposure",
+		"thinking": "未来に最大の鍵が盗まれても、過去の言葉は解き明かされない時間の守護。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "denial_of_service",
+		"word": "DoS Attack",
+		"meaning": "DoS攻撃",
+		"etymology": {
+			"components": [
+				"Denial",
+				"Service"
+			],
+			"original_statement": "Resource availability attempt."
+		},
+		"concept": "Strangulation by overhead",
+		"thinking": "門の前に群衆を送り込み、本当の訪問者が入れないように窒息させる暴力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "sandboxing_sec",
+		"word": "Sandboxing",
+		"meaning": "サンドボックス化",
+		"etymology": [
+			"Sandbox"
+		],
+		"original_statement": "Separating running programs.",
+		"concept": "The isolated playground",
+		"thinking": "プログラムを「砂場」に閉じ込め、いかなる暴挙も箱の中だけで終わらせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "penetration_test",
+		"word": "Pentest",
+		"meaning": "ペネトレーションテスト",
+		"etymology": {
+			"components": [
+				"Latin penetrare"
+			],
+			"original_statement": "Simulated system attack."
+		},
+		"concept": "The ritual of self-inflicted wounds",
+		"thinking": "自ら自分を襲うことで、敵に教えられる前に傷筋を知る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "honey_pot_trap",
+		"word": "Honeypot",
+		"meaning": "ハニーポット",
+		"etymology": {
+			"components": [
+				"Honey",
+				"Pot"
+			],
+			"original_statement": "Deceptive study attractor."
+		},
+		"concept": "Sweat lure for the malicious",
+		"thinking": "甘い誘惑を装い、悪意ある者を誘き寄せて手口を観察するための罠。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "buffer_overflow",
+		"word": "Buffer Over",
+		"meaning": "バッファオーバーフロー",
+		"etymology": {
+			"components": [
+				"Buffer",
+				"Overflow"
+			],
+			"original_statement": "Writing beyond buffer boundary."
+		},
+		"concept": "Spilling into the forbidden memory",
+		"thinking": "器から水が溢れ、隣の回路を壊す。プログラムの最も恐ろしい暴走。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "malware_analysis",
+		"word": "Malware",
+		"meaning": "マルウェア",
+		"etymology": {
+			"components": [
+				"Latin malus",
+				"Software"
+			],
+			"original_statement": "Intended damaging software."
+		},
+		"concept": "The poison within code",
+		"thinking": "密かに忍び込み、情報を盗み、破壊する。デジタルの闇を這う病の種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "rootkit_stealth",
+		"word": "Rootkit",
+		"meaning": "ルートキット",
+		"etymology": {
+			"components": [
+				"Root",
+				"Kit"
+			],
+			"original_statement": "Privileged access while hiding."
+		},
+		"concept": "The ghost of the master user",
+		"thinking": "最下層に潜伏し、王であることを隠しながら全権を振るう幽霊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "ransomware_ext",
+		"word": "Ransomware",
+		"meaning": "ランサムウェア",
+		"etymology": {
+			"components": [
+				"Ransom",
+				"Software"
+			],
+			"original_statement": "Data blocking for ransom."
+		},
+		"concept": "Kidnapping of information",
+		"thinking": "思い出を檻に閉じ込め、引き換えに身代金を要求する冷酷な海賊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "trojan_horse_atk",
+		"word": "Trojan Horse",
+		"meaning": "トロイの木馬",
+		"etymology": {
+			"components": [
+				"Troy",
+				"Horse"
+			],
+			"original_statement": "Useful-looking malicious program."
+		},
+		"concept": "The deceptive gift",
+		"thinking": "有益な道具を装い、開けられた瞬間に中から牙を剥く古えの策略。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "firewall_defense",
+		"word": "Firewall",
+		"meaning": "ファイアウォール",
+		"etymology": {
+			"components": [
+				"Fire",
+				"Wall"
+			],
+			"original_statement": "Network security monitor."
+		},
+		"concept": "The gatekeeper between worlds",
+		"thinking": "荒野と聖域を分かつ燃え盛る壁。穢れた通信を焼き払い、清きものを招く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "tor_onion_route",
+		"word": "Onion Routing",
+		"meaning": "オニオンルーティング",
+		"etymology": {
+			"components": [
+				"Onion"
+			],
+			"original_statement": "Anonymous layered encryption."
+		},
+		"concept": "The many skins of anonymity",
+		"thinking": "玉ねぎの皮を剥くように、暗号を一枚ずつ剥がして匿名性を守る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "air_gap_isolation",
+		"word": "Air Gap",
+		"meaning": "エアギャップ",
+		"etymology": {
+			"components": [
+				"Air",
+				"Gap"
+			],
+			"original_statement": "Physical isolation from internet."
+		},
+		"concept": "Safety of the island",
+		"thinking": "物理的なケーブルさえ繋がない。嵐から隔絶された究極の要塞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "quantum_key_dist",
+		"word": "QKD",
+		"meaning": "量子鍵配送",
+		"etymology": {
+			"components": [
+				"Quantum",
+				"Key"
+			],
+			"original_statement": "Quantum distribution of keys."
+		},
+		"concept": "Safety guaranteed by the laws of nature",
+		"thinking": "盗聴されると貌が変わる量子の掟。自然法則を護衛につけた鍵の渡し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "hash_cash_spam",
+		"word": "Hashcash",
+		"meaning": "ハッシュキャッシュ",
+		"etymology": {
+			"components": [
+				"Hash",
+				"Cash"
+			],
+			"original_statement": "PoW for limiting spam."
+		},
+		"concept": "Digital stamp of effort",
+		"thinking": "あえて微かな『計算の苦労』を強いる。悪意に数学的対価を支払わせる関所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "replay_attack_sc",
+		"word": "Replay Attack",
+		"meaning": "再送攻撃",
+		"etymology": {
+			"components": [
+				"Re-",
+				"Play"
+			],
+			"original_statement": "Maliciously repeating valid data."
+		},
+		"concept": "Echo of valid truth used for evil",
+		"thinking": "一度正しく行われた通信を録音し、時間の亡霊として模倣する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "man_in_the_middle",
+		"word": "MITM",
+		"meaning": "中間者攻撃",
+		"etymology": {
+			"components": [
+				"Man-in-the-middle"
+			],
+			"original_statement": "Relaying and altering secret comms."
+		},
+		"concept": "The invisible interloper",
+		"thinking": "二人の対話の『間に』潜み、双方の顔を使い分けながら言葉を盗む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "sql_injection_adv",
+		"word": "SQL Injection",
+		"meaning": "SQL注入",
+		"etymology": {
+			"components": [
+				"Latin injicere"
+			],
+			"original_statement": "Inserted malicious SQL entries."
+		},
+		"concept": "Poisoning the database queries",
+		"thinking": "入力欄から禁断の呪文を流し込み、巨大な記憶の書庫を思うがままに操る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "excess_authority",
+		"word": "Priv Escalation",
+		"meaning": "権限昇格",
+		"etymology": {
+			"components": [
+				"Latin privus",
+				"Escalade"
+			],
+			"original_statement": "Gaining elevated access via bug."
+		},
+		"concept": "Stairway to the crown",
+		"thinking": "ただの民が傷口を足がかりに、玉座へと登り詰めるシステムの中のクーデター。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "forensics_digital",
+		"word": "Digital Forensic",
+		"meaning": "デジタルフォレンジック",
+		"etymology": {
+			"components": [
+				"Latin forensis"
+			],
+			"original_statement": "Digital investigation of crimes."
+		},
+		"concept": "The archaeology of cybercrime",
+		"thinking": "消されたはずのファイル、微かな通信の跡から真実を解読する鑑識。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "cryptanalysis_adv",
+		"word": "Cryptanalysis",
+		"meaning": "暗号解読",
+		"etymology": {
+			"components": [
+				"Greek kryptos",
+				"Analysis"
+			],
+			"original_statement": "Deciphering without keys."
+		},
+		"concept": "Unloosing the hidden",
+		"thinking": "鍵なきままに扉を開けようとする、知恵と知恵の究極の決闘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "暗号の森の守護者として。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学の聖域へ。"
+			]
+		},
+		"example": "Cryptography is the art of secret writing."
 	}
 ];
