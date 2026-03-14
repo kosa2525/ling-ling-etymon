@@ -335563,5 +335563,984 @@ const WORDS = [
 			]
 		},
 		"example": "Everything vibrates at its own frequency."
+	},
+	{
+		"id": "holomorphic_function",
+		"word": "Holomorphic",
+		"meaning": "正則な（せいそくな）",
+		"etymology": {
+			"components": [
+				"Greek holos (whole) + morphe (form)"
+			],
+			"original_statement": "From Greek holos 'whole' + morphe 'form'."
+		},
+		"concept": "Perfectly smooth complex function",
+		"thinking": "「全体（Holos）」が「同じかたち（Morphe）」をしている。単なる滑らかさを超えて、無限回の微分が可能であり、一点の情報が全体を支配する、究極に美しい関数の姿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "meromorphic_function",
+		"word": "Meromorphic",
+		"meaning": "有理型（ゆうりがた）な",
+		"etymology": {
+			"components": [
+				"Greek meros (part) + morphe (form)"
+			],
+			"original_statement": "From Greek meros 'part' + morphe 'form'."
+		},
+		"concept": "Holomorphic with isolated poles",
+		"thinking": "「部分的（Meros）」には正則だが、ところどころに『極（無限大への飛躍）』という傷跡を持つ関数。その傷跡こそが、関数の個性を決定づけます。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "riemann_surface",
+		"word": "Riemann Surface",
+		"meaning": "リーマン面",
+		"etymology": {
+			"components": [
+				"Riemann"
+			],
+			"original_statement": "One-dimensional complex manifolds."
+		},
+		"concept": "Space of multi-valued functions",
+		"thinking": "複素関数の『多価性（迷い）』を、重なり合う多層的な広がりとして解決する場所。迷いを空間の奥行きに変える、知高の幾何。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "conformal_map",
+		"word": "Conformal",
+		"meaning": "等角（とうかく）な",
+		"etymology": {
+			"components": [
+				"Latin con- + formare"
+			],
+			"original_statement": "From Latin conformare 'to shape similarly'."
+		},
+		"concept": "Preserving the angle and shape",
+		"thinking": "「共に（Con）」「形（Form）」を保つ。長さは変わっても、二本の線が成す『角度（心の距離）』だけは決して変えない、誠実な変形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "residue_theorem",
+		"word": "Residue Theorem",
+		"meaning": "留数定理（りゅうすうていり）",
+		"etymology": {
+			"components": [
+				"Latin residuum (remainder)"
+			],
+			"original_statement": "From Latin residuum 'left over'."
+		},
+		"concept": "Integration via leftover data",
+		"thinking": "一巡りの旅（積分）をしたあとに残る、一点の隠された『残りカス（Residue）』。その微かな残滓の中に、全体の真理がすべて凝縮されているという数学的魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "cauchy_riemann",
+		"word": "Cauchy-Riemann",
+		"meaning": "コーシー・リーマン方程式",
+		"etymology": {
+			"components": [
+				"Cauchy",
+				"Riemann"
+			],
+			"original_statement": "The differential equations defining holomorphy."
+		},
+		"concept": "The code of complex harmony",
+		"thinking": "実部と虚部がどのように手を取り合い、調和（正則性）を保つべきかを示す、複素世界の憲法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "analytic_continuation",
+		"word": "Analytic Continuation",
+		"meaning": "解析接続",
+		"etymology": {
+			"components": [
+				"Analytic",
+				"Latin continuare"
+			],
+			"original_statement": "Extending the domain of a holomorphic function."
+		},
+		"concept": "Extending the truth beyond bounds",
+		"thinking": "小さな一室（領域）で語られた真実を、整合性を保ったまま宇宙の果てまで広げていく旅。未知の領域を既知の理で満たす作業。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "monodromy_analysis",
+		"word": "Monodromy",
+		"meaning": "モノドロミー、一周のズレ",
+		"etymology": {
+			"components": [
+				"Greek monos + dromos"
+			],
+			"original_statement": "The difference after circling an isolated singularity."
+		},
+		"concept": "The change after a single course",
+		"thinking": "不思議な点（特異点）の周りを一周して戻ってきた時、かつての自分とは違う『自分』に出会うこと。その変化の総量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "elliptic_function",
+		"word": "Elliptic Function",
+		"meaning": "楕円関数",
+		"etymology": {
+			"components": [
+				"Latin ellipsis"
+			],
+			"original_statement": "Doubly periodic meromorphic functions."
+		},
+		"concept": "Twice-periodic complex waves",
+		"thinking": "縦にも横にも（二重に）無限の繰り返しを持つ、複素平面上に敷き詰められた永遠の壁画。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "theta_function",
+		"word": "Theta Function",
+		"meaning": "テータ関数",
+		"etymology": {
+			"components": [
+				"Greek theta"
+			],
+			"original_statement": "Functions used in modular forms and elliptic curves."
+		},
+		"concept": "The modular building block",
+		"thinking": "素数の秘密や結晶の理を支える、数理的な『素粒子』のような基礎関数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "weierstrass_p",
+		"word": "Weierstrass P",
+		"meaning": "ワイエルシュトラスのP関数",
+		"etymology": {
+			"components": [
+				"Weierstrass"
+			],
+			"original_statement": "Standard elliptic function defined by its poles."
+		},
+		"concept": "The prototype of elliptic functions",
+		"thinking": "楕円関数の中で最も基本的な、格子点という『宿命』から生まれた至宝の関数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "uniformization",
+		"word": "Uniformization",
+		"meaning": "一意化（いちいか）",
+		"etymology": {
+			"components": [
+				"Latin uniformis"
+			],
+			"original_statement": "Uniformizing surfaces to the disk, sphere, or plane."
+		},
+		"concept": "Unified perspective of surfaces",
+		"thinking": "複雑な曲面も、高い視点（普遍被覆）から見れば、実は「球」「平面」「円盤」のいずれかに集約されるという、究極の整理学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "teichmuller_space",
+		"word": "Teichmuller Space",
+		"meaning": "タイヒミュラー空間",
+		"etymology": {
+			"components": [
+				"Teichmuller"
+			],
+			"original_statement": "Moduli space of marked Riemann surfaces."
+		},
+		"concept": "The space of marked shapes",
+		"thinking": "複素構造たちのバリエーションを、目印（標識）を付けて整理した、可能性の地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "modular_group",
+		"word": "Modular Group",
+		"meaning": "モジュラー群",
+		"etymology": {
+			"components": [
+				"Latin modulus"
+			],
+			"original_statement": "SL(2, Z) acting on the upper half plane."
+		},
+		"concept": "Discrete symmetry of the upper half plane",
+		"thinking": "複素上半平面を、自分自身の同じ姿へと写し変える、整数のリズムを持った回転の集まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "upper_half_plane",
+		"word": "Upper Half Plane",
+		"meaning": "上半平面（じょうはんへいめん）",
+		"etymology": [
+			"Upper + Half + Plane"
+		],
+		"original_statement": "Complex numbers with positive imaginary part.",
+		"concept": "The garden of modularity",
+		"thinking": "虚数が『プラス』である世界。重力にも似た非ユークリッド幾何学の舞台であり、数論の故郷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "fundamental_domain",
+		"word": "Fundamental Domain",
+		"meaning": "基本領域",
+		"etymology": [
+			"Fundamental + Domain"
+		],
+		"original_statement": "Minimal region from which a tiling is generated.",
+		"concept": "The minimal tile of symmetry",
+		"thinking": "宇宙の広大さを記述するための『最小のタイル』。ここを理解すれば、全宇宙が複製できる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "automorphic_factor",
+		"word": "Automorphic Factor",
+		"meaning": "保型因子",
+		"etymology": [
+			"Auto- + Morphe + Factor"
+		],
+		"original_statement": "The growth factor under group action.",
+		"concept": "The multiplier of transformation",
+		"thinking": "変容（作用）を受けたとき、その価値がどれだけ増大するかを司る数理的な係数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "zeta_function_id",
+		"word": "Zeta Function",
+		"meaning": "ゼータ関数",
+		"etymology": {
+			"components": [
+				"Greek zeta"
+			],
+			"original_statement": "The bridge between analytic and numeric theory."
+		},
+		"concept": "The heart of prime distribution",
+		"thinking": "すべての素数の脈動を一つの級数に詰め込んだ、数学界で最も美しく、最も謎に満ちた心臓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "riemann_zeta",
+		"word": "Riemann Zeta",
+		"meaning": "リーマン・ゼータ関数",
+		"etymology": [
+			"Riemann"
+		],
+		"original_statement": "Function whose zeros provide info on primes.",
+		"concept": "The analytic mirror of integers",
+		"thinking": "整数という離散的な世界を、複素解析という滑らかな光で映し出した鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "dirichlet_series",
+		"word": "Dirichlet Series",
+		"meaning": "ディリクレ級数",
+		"etymology": [
+			"Dirichlet"
+		],
+		"original_statement": "Series generalizing the zeta function.",
+		"concept": "Weighted sum of arithmetic information",
+		"thinking": "数論的な情報を、nのs乗という重みを付けて丁寧に積み上げた級数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "mellin_transform",
+		"word": "Mellin Transform",
+		"meaning": "メリン変換",
+		"etymology": [
+			"Mellin"
+		],
+		"original_statement": "Transform used in the study of L-functions.",
+		"concept": "The zoom lens of functions",
+		"thinking": "関数の『振る舞い（大きさ）』を、積分の力で別の次元の物語へと転生させる手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "casorati_weierstrass",
+		"word": "Casorati",
+		"meaning": "カゾラーティ・ワイエルシュトラスの定理",
+		"etymology": [
+			"Casorati",
+			"Weierstrass"
+		],
+		"original_statement": "Near an essential singularity, a function takes every value infinitely often.",
+		"concept": "Wild density at the edge",
+		"thinking": "「真性特異点」の近くでは、関数はもはやあらゆる値を無限に取ってしまう――。制御不能なカオスさえも理に含める強靭な定理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "essential_singularity",
+		"word": "Essential Singularity",
+		"meaning": "真性特異点",
+		"etymology": [
+			"Essential + Singularity"
+		],
+		"original_statement": "Singularity where the function behaves chaotically.",
+		"concept": "The core of complexity",
+		"thinking": "単なる無限大ではなく、無限の混沌が渦巻く一点。そこには無限の情報が恐ろしい密度で凝縮されています。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "isolated_singularity",
+		"word": "Isolated",
+		"meaning": "孤立特異点",
+		"etymology": [
+			"Latin isolare (to make into an island)"
+		],
+		"original_statement": "Singularity with no other singularities nearby.",
+		"concept": "The lonely island of mystery",
+		"thinking": "「島（Isola）」のように、静かな正則の海に浮かぶ、たった一つの不可解な謎の点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "pole_complex",
+		"word": "Pole",
+		"meaning": "極（きょく）",
+		"etymology": [
+			"Greek polos (axis)"
+		],
+		"original_statement": "Point where a function goes to infinity precisely.",
+		"concept": "Axis of infinity",
+		"thinking": "関数が天高く無限へと突き抜ける、宇宙の『軸（Polos）』のような点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "residue_form",
+		"word": "Residue",
+		"meaning": "留数（りゅうすう）",
+		"etymology": [
+			"Latin residuum"
+		],
+		"original_statement": "Integral coefficient around a pole.",
+		"concept": "The essence of infinity",
+		"thinking": "無限大へと至るプロセスの中で、そっと手元に残された『真実の欠片』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "winding_number",
+		"word": "Winding Number",
+		"meaning": "巻き付き数",
+		"etymology": [
+			"Wind (to turn)"
+		],
+		"original_statement": "Number of cycles a path makes around a point.",
+		"concept": "Total angular change",
+		"thinking": "ある一点の周りを、何回心奪われてぐるぐると回ったか。その愛執の回数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "argument_principle",
+		"word": "Argument Principle",
+		"meaning": "偏角の原理",
+		"etymology": [
+			"Latin argumentum"
+		],
+		"original_statement": "Relating zero-pole counts to contour integrals.",
+		"concept": "Counting through circling",
+		"thinking": "世界を一巡りするだけで、その内側に何人の住人（ゼロ点や極）がいるかを言い当てる、知性の透視術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "maximum_modulus",
+		"word": "Maximum Modulus",
+		"meaning": "最大値の原理",
+		"etymology": [
+			"Latin maximum"
+		],
+		"original_statement": "Holomorphic functions take their max modulus on the boundary.",
+		"concept": "Peace in the center",
+		"thinking": "内側では常に平穏。最高の興奮（最大値）は、必ず外の境界でしか起こらないという、正則性のストイックな規律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "schwarz_lemma",
+		"word": "Schwarz Lemma",
+		"meaning": "シュワルツの補題",
+		"etymology": [
+			"Schwarz"
+		],
+		"original_statement": "Bounds on holomorphic maps between disks.",
+		"concept": "The constraint of geometry",
+		"thinking": "狭い円盤の中に閉じ込められた関数の、自由への限界を定める、美しき足枷の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "riemann_mapping",
+		"word": "Mapping Theorem",
+		"meaning": "リーマンの写像定理",
+		"etymology": [
+			"Riemann"
+		],
+		"original_statement": "Existence of conformal maps between simply connected domains.",
+		"concept": "Every shape is an island",
+		"thinking": "単連結な領域であれば、どんな歪な形であっても、心（円盤）へと滑らかに、等角に移り住むことができるという救済。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "holomorphic_differentials",
+		"word": "Differentials",
+		"meaning": "正則微分（せいそくびぶん）",
+		"etymology": [
+			"Differential"
+		],
+		"original_statement": "1-forms on a Riemann surface that are locally holomorphic.",
+		"concept": "Smoothly varying measures",
+		"thinking": "図形の上を滑らかに移ろう、どこまでも『真っ直ぐな』微小なる測り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "abel_map_id",
+		"word": "Abel Map",
+		"meaning": "アーベル写像",
+		"etymology": [
+			"Abel"
+		],
+		"original_statement": "Map from a Riemann surface to its Jacobian variety.",
+		"concept": "Integrating the path to unity",
+		"thinking": "点を積み重ねる（積分する）ことで、図形を一つの巨大な調和した宇宙（ヤコビアン）へと導く手続き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "divisor_line_bundle",
+		"word": "Line Bundle",
+		"meaning": "直線束（ちょくせんそく）",
+		"etymology": [
+			"Line + Bundle"
+		],
+		"original_statement": "Geometric bundles with one-dimensional fiber.",
+		"concept": "The hair of the manifold",
+		"thinking": "多様体という肌から生えた、一本一本はか細いけれど、全体として図形に豊かな『表情』を与える、可能性の繊維。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "degree_bundle",
+		"word": "Degree of a Bundle",
+		"meaning": "束の次数",
+		"etymology": [
+			"Latin gradus"
+		],
+		"original_statement": "Topological index of a line bundle.",
+		"concept": "Total twist of the fibers",
+		"thinking": "全体として、その髪（繊維）がどれだけ美しく『三つ編み（ねじれ）』されているか、その回数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "holomorphic_section",
+		"word": "Section",
+		"meaning": "切断（せつだん）、セクション",
+		"etymology": [
+			"Latin sectio"
+		],
+		"original_statement": "Assigning a fiber element to each base point.",
+		"concept": "The flow through layers",
+		"thinking": "「切り口（Sectio）」を繋ぎ合わせ、すべての場所に一貫した情報を等し並みに提供すること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "riemann_roch",
+		"word": "Riemann-Roch",
+		"meaning": "リーマン・ロッホの定理",
+		"etymology": [
+			"Riemann",
+			"Roch"
+		],
+		"original_statement": "Theorem relating number of sections to topology.",
+		"concept": "Wealth of possibilities",
+		"thinking": "あなたがどれだけ豊かな表現（セクション）を持てるかは、その図形の穴の数（属）とねじれ（次数）によって決まるという、宿命の計量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "canonical_divisor",
+		"word": "Canonical",
+		"meaning": "標準因子",
+		"etymology": [
+			"Latin canon"
+		],
+		"original_statement": "Divisor associated with holomorphic differentials.",
+		"concept": "The intrinsic yardstick of variety",
+		"thinking": "その図形自身が自らのために用意した、最も『標準的』で『正統（Canon）』な物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "harmonic_function",
+		"word": "Harmonic",
+		"meaning": "調和な（ちょうわな）",
+		"etymology": [
+			"Greek harmonia"
+		],
+		"original_statement": "Function satisfying the Laplace equation.",
+		"concept": "Equally balanced function",
+		"thinking": "常に周りの平均に等しくあり続ける。極端な突出（最大値）を排した、泰然自若たる姿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "subharmonic",
+		"word": "Subharmonic",
+		"meaning": "劣調和な（れつちょうわな）",
+		"etymology": [
+			"Latin sub- (under)"
+		],
+		"original_statement": "Values lower than the local average.",
+		"concept": "Staying below average",
+		"thinking": "常に周りの平均『以下』であり続け、内側へと沈み込み、力を蓄えるような謙虚なる曲線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "superharmonic",
+		"word": "Superharmonic",
+		"meaning": "優調和な（ゆうちょうわな）",
+		"etymology": [
+			"Latin super- (above)"
+		],
+		"original_statement": "Values higher than the local average.",
+		"concept": "Staying above average",
+		"thinking": "常に周りの平均『以上』であり続け、外へと立ち上がり、世界を優しく覆うような高邁なる曲線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "dirichlet_problem",
+		"word": "Dirichlet Problem",
+		"meaning": "ディリクレ問題",
+		"etymology": [
+			"Dirichlet"
+		],
+		"original_statement": "Finding a harmonic function with prescribed boundary values.",
+		"concept": "Finding interior harmony for given edges",
+		"thinking": "外の世界（境界）がどんなに不規則であっても、その内側に完璧な調和（ハーモニー）を導き出すことは可能か、という究極の問い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "complex_potential",
+		"word": "Complex Potential",
+		"meaning": "複素ポテンシャル",
+		"etymology": [
+			"Complex + Potential"
+		],
+		"original_statement": "Holomorphic function representing flow fields.",
+		"concept": "The combined map of flow",
+		"thinking": "目に見える『流れ』と、それを支える見えない『力』を、一組の複素関数に封じ込めた物理学者の視座。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "ideal_boundary",
+		"word": "Ideal Boundary",
+		"meaning": "理想境界",
+		"etymology": [
+			"Latin idealis"
+		],
+		"original_statement": "Points at infinity added to a Riemann surface.",
+		"concept": "The shore of infinity",
+		"thinking": "無限の彼方に、そっと名前を付けてやる。そこまで行けばすべてが完結する、理想の『果て』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "transcendence_complex",
+		"word": "Transcendence",
+		"meaning": "超越（ちょうえつ）",
+		"etymology": [
+			"Latin trans- + scandere"
+		],
+		"original_statement": "Going beyond algebraic structures.",
+		"concept": "Climbing across the bounds",
+		"thinking": "「向こう側へ（Trans）」「登る（Scand）」。有限の方程式では決して捉えられない、無限に続く美しい解析の広がりへ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "複素の海を滑らかに泳いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の真髄へ。"
+			]
+		},
+		"example": "In the complex plane, every point is a gateway to infinity."
 	}
 ];
