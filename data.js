@@ -322746,5 +322746,86 @@ const WORDS = [
    "original_statement": "The theory that mathematics is not a body of propositions representing an abstract sector of reality, but is much more akin to a game."
   },
   "concept": "The pure form (「。。、。何。か。、。、」。を。、。、。語。る。。、。こと。を。、。、。あえて。、。、。、。、。止（。よ）。。、。め。。、。ただ。。、。一。、。つの。、。、。、。「。。、。、。形（。Form）。、。、。、」。として。、。、。記号。を。、。、。。、。並（。なら）。。、。べ。。、。る。。、。、。ことの、。、。、美。しさ。、。、。、それは、。、。、。理知。が、。、。、。、意味。という。、。、。重（。お。）。、。も。、。、に。、。、。から。、。、。、。自ら。を、。、。、「。。、。、解。、放。、。、。、」。、。、。、した。。、。、。瞬。間。、。の、。、。。輝き。、)"
+ },
+ {
+  "id": "polaron",
+  "word": "Polaron",
+  "meaning": "ポラロン、電子が周囲の歪みを。、。、。自己の鎧。としてまとう。。、。一。、。つの。、。理知。の、。。、。姿。、",
+  "era": "Greek polus + -on",
+  "etymology": {
+   "components": [
+    "polar (relating to poles)",
+    "particle suffix -on"
+   ],
+   "original_statement": "A quasiparticle used in condensed matter physics to understand the interactions between electrons and atoms in a solid material."
+  },
+  "concept": "The armored electron (「。。、一人。で。、。、」。歩（。あゆ）。。、。む。、。には。、。、。あまりにも。、。、。峻烈な。、。、。世界。の中で。、。、。不意に。、。、周囲。の、。格子。を、。、。、味方。につけて。、。、。、。一。、。つの。、。、。重量。、を。、。、持って。。、。、。歩（。あゆ）。。、。み。。、。はじめた。。、。、。理知。の、。。、。、。決。意。、)"
+ },
+ {
+  "id": "roton",
+  "word": "Roton",
+  "meaning": "ロトン、超流体の中で。、。、。ひっそり。と、。、。、回転。の、。、。。、。理知。を、。、。。保。、。っている。。、。、。準粒子。、",
+  "era": "Latin rota",
+  "etymology": {
+   "components": [
+    "rota (wheel)",
+    "particle suffix -on"
+   ],
+   "original_statement": "An elementary excitation in superfluid helium-4."
+  },
+  "concept": "The spinning excitation (「。。、流（。なが）。。、。、。れ。。、」。に、。、。、身を。、。、任（。まか）。。、。せ。。、。ながら。、。、。。その。、。中心。。に、。、。、一つの。、。、。回転。、を。、。、。ひっそり。と。、。、抱（。いだ）。。、。いて。。、。い。。た。。、。、。理知。、。、それは、。、。、。、平穏。な。、。、流体。の中。で。、。、。、。、幽（。かす）。。、。かな。。、。、。一。、。、。点。、。、の、。、。、。矜。、。、。持（。き。ん。じ）。、)"
+ },
+ {
+  "id": "skyrmion",
+  "word": "Skyrmion",
+  "meaning": "スキルミオン、磁力の。、。、、。結（。むす）。。、。び。。、。目。、。、が決して。、。、解（。と。）。。、。け。。、。ぬ。。、トポロジカルな。、。、渦。、",
+  "era": "Name Tony Skyrme",
+  "etymology": {
+   "components": [
+    "Tony Skyrme (physicist)"
+   ],
+   "original_statement": "A topologically stable solution of a certain non-linear sigma model."
+  },
+  "concept": "The tied knot (「。。、。解（。と。）。、。、。こう。。、」。と。、。、。。しても、。、。、決して。、。、。、。、解（。と。）。。、。け。。、。、。ない。。、。宇宙。の、。、。、理。知。の。、。、。。、「。。、。、。結（。むす）。。、び。。、目。、。、。、」。、。、。それは、。、。、。、時。空。、。に、。、。不意に。、。、。、投げ。、。出された。。、。、。、。絶。、。、対。、。、。の。、。、。。証（あかし）。、)"
+ },
+ {
+  "id": "sphaleron",
+  "word": "Sphaleron",
+  "meaning": "スファレロン、宇宙の。、。、。バリオン数。を。、。、。静かに。、。、。、。。変（。か。）。。、。えて。。、。、ゆ。く。。、峻烈な。、。、。障壁。、",
+  "era": "Greek sphaleros",
+  "etymology": {
+   "components": [
+    "sphaleros (ready to fall / slippery)"
+   ],
+   "original_statement": "A static solution to the electroweak field equations of the Standard Model."
+  },
+  "concept": "The slippery peak (「。。、。越（。こ）。。、。、。え。。、」。られぬ。。、。はず。の、。、。、峻烈。な、。。山（。やま）。。、。を。、。、。、ひっそり。と。、。、。、す、。り。、。抜（。ぬ）。。、。けて。。、。、。世界。その。、。、。、もの。を、。、。。、。変容。、。、。させて。。、。しまう。。、。理知。の、。、。。。深。、淵。、)"
+ },
+ {
+  "id": "axion",
+  "word": "Axion",
+  "meaning": "アクシオン、宇宙の。、。、。強。、。、磁。場。、。、の中を、。、。、光。り。、。、。輝き。。、。ながら。、。、。駆け。、抜（。ぬ）。。、。ける。。、。幽霊粒子。、",
+  "era": "Brand name Axion",
+  "etymology": {
+   "components": [
+    "Axion (a detergent brand name, chosen by Frank Wilczek)"
+   ],
+   "original_statement": "A hypothetical elementary particle postulated to resolve the strong CP problem in quantum chromodynamics."
+  },
+  "concept": "The cleanser of truth (「。。、不。、。純。、。な。、。、」。理知。を。、。、。、洗（。あら）。。、。い。。、。流（。なが）。。、。し、。、。、。真実。を。、。、。、一つ。、。に。、。、。磨（。みが）。。、。き。。、。上げる。。、。ための。、。、。、。、宇宙。の、。、。。、「。。、。、。、。洗。、剤。、。、。、」。、。、。それは、。、。、。、極限。の、。、。、。、。。「。、。、潔。、。い。、。、。、」。、。、。、粒子。、)"
+ },
+ {
+  "id": "anyon",
+  "word": "Anyon",
+  "meaning": "エニオン、粒子。が。、。、一。、。、周。。、。し。。、。た。時、。、。、不意に。、。、「。。、。、。、。位相。、。、。、」。を。、。、。変（。か。）。。、。えて。。、。しまう。。、。不。思議な。、。、。住。、人。、",
+  "era": "English any + -on",
+  "etymology": {
+   "components": [
+    "any",
+    "particle suffix -on"
+   ],
+   "original_statement": "A type of quasiparticle that occurs only in two-dimensional systems."
+  },
+  "concept": "Any phase (「。。、フェルミオン。、。、」。でも。、。、「。。、。、。ボソン。、。、。、」。でも。、。、。。ない。、。、。、。第。、三。、の。、。、道の。、。、。存在。。、。それは、。、。、。、理知。が、。、。、。一。、。つの。。、円。を。、。、。、。。描（。えが）。。き。。、。終えた。。、とき。の、。。、峻烈な。、。、。、。、「。、。記憶。、。、。、」。、)"
  }
 ];
