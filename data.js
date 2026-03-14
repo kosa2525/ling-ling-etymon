@@ -325584,5 +325584,195 @@ const WORDS = [
 				"万物の理を索めて。"
 			]
 		}
+	},
+	{
+		"id": "absorption_spectral",
+		"word": "Absorption",
+		"meaning": "吸収、吸着",
+		"era": "Latin ab- + sorbere",
+		"etymology": {
+			"components": [
+				"ab- (from / away)",
+				"sorbere (to suck in)"
+			],
+			"original_statement": "From Latin absorbere 'to suck in / swallow'."
+		},
+		"concept": "Swallowing the wavelength (波長を飲み込む、選ばれし受容)",
+		"thinking": "「飲み込む（Sorb）」。光の特定の波長を奪い取り、自らのエネルギーへと変換すること。すべてを受け入れるのではなく、自分に必要な光だけを『選んで吸い込む』ことで、物質はその独自の色彩（あるいは影）を確立します。",
+		"aftertaste": "何を吸収するかが、あなたの放つ影（アイデンティティ）を決めます。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "fluorescence_words",
+		"word": "Fluorescence",
+		"meaning": "蛍光",
+		"era": "Latin fluor",
+		"etymology": {
+			"components": [
+				"fluor (flow / fluorspar)"
+			],
+			"original_statement": "Named after the mineral fluorite (from Latin fluor 'flow'), coined by George Gabriel Stokes in 1852."
+		},
+		"concept": "The flow of inner light (流れるような光の変容、刹那の残響)",
+		"thinking": "「流れる（Fluor）」。光を受け取った瞬間に、自らも別の色で輝き出す不思議な性質。外部からの刺激を、即座に自らの輝きへと変換し、その場を幻想的に彩ること。応答の美学です。",
+		"aftertaste": "誰かの優しさを受け取ったら、即座にあなたらしい光で返して。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "phosphorescence_words",
+		"word": "Phosphorescence",
+		"meaning": "燐光",
+		"era": "Greek phos + phoros",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"phoros (bearing)"
+			],
+			"original_statement": "From Greek phosphorus 'light-bringing', from phos 'light' + phoros 'bearing'."
+		},
+		"concept": "Bearing the light into death (光を運び続ける、沈黙の残照)",
+		"thinking": "「光（Phos）」を「運ぶ（Phor）」。光源が消えた後も、なお一人で静かに輝き続ける強靭な意志。刺激が消えても、その温かさをずっと保持し続け、暗闇の中で誰かを照らし続ける。それは『記憶の輝き』でもあります。",
+		"aftertaste": "大切な言葉は、時間が経っても心の中で輝き続けます。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "diffraction_grating",
+		"word": "Diffraction Grating",
+		"meaning": "回折格子",
+		"era": "Latin diffract- + cratis",
+		"etymology": {
+			"components": [
+				"diffringere (break in pieces)",
+				"cratis (wickerwork / hurdle)"
+			],
+			"original_statement": "A device with an array of slits that diffracts light into a spectrum."
+		},
+		"concept": "Breaking light through the fence (柵を越えて砕かれる光、精緻なる分析)",
+		"thinking": "無数の微細な溝（柵）で、光を「粉々に（Diffract）」して並べ直す装置。一見ただの板に見えても、その精緻な『柵（Grate）』が、光の正体を白日の下に晒します。規律ある構造が、真実を暴き出します。",
+		"aftertaste": "細やかな観察（溝）が、混ざり合った真実を解きほぐします。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "interferometry_words",
+		"word": "Interferometry",
+		"meaning": "干渉法",
+		"era": "Latin inter- + ferre",
+		"etymology": {
+			"components": [
+				"inter- (between)",
+				"ferre (to strike / bring)",
+				"metria (measuring)"
+			],
+			"original_statement": "Measuring through the interference (striking together) of waves."
+		},
+		"concept": "Measuring by striking together (ぶつかり合いを測る、波の対話)",
+		"thinking": "「間に（Inter）」「ぶつかる（Ferre）」。二つの波が重なり合い、強め合ったり消し合ったりするパターンの測定。衝突（干渉）は、単なる混乱ではなく、ナノレベルの精密な情報を引き出すための最も洗練された対話です。",
+		"aftertaste": "ぶつかり合うことを恐れないで。そこから本当の理解（測定）が始まります。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "resolution_spectral",
+		"word": "Resolution",
+		"meaning": "分解能、質、決意",
+		"era": "Latin re- + solvere",
+		"etymology": {
+			"components": [
+				"re- (intensive)",
+				"solvere (to loosen / untie)"
+			],
+			"original_statement": "From Latin resolutionem, from resolvere 'to loosen / untie / solve'."
+		},
+		"concept": "Loosening the blur (ぼやけを解き放つ、鮮明なる決断)",
+		"thinking": "「解き放つ（Solve）」。絡まり合ってぼやけていた二つの点を、それぞれ独立した存在として「鮮やかに切り離す」能力。それは曖昧さを排し、世界をありのままの解像度で捉えようとする知性の『決意』そのものです。",
+		"aftertaste": "ぼんやりした不安も、解像度（分解能）を上げれば具体的な課題に変わります。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "exciton_words",
+		"word": "Exciton",
+		"meaning": "エキシトン、励起子",
+		"era": "Latin ex- + citare",
+		"etymology": {
+			"components": [
+				"excitare (to rouse / summon forth)"
+			],
+			"original_statement": "A bound state of an electron and an electron hole, from 'excite' + '-on'."
+		},
+		"concept": "Roused particle of energy (呼び覚まされた粒子、不在が生む絆)",
+		"thinking": "「呼び起こす（Excite）」。光のエネルギーによって目覚めた電子と、その後に残された「穴（空席）」が引き合う不思議なペア。何かが欠けた時、その『不在』が周囲に強い結びつきを生み出すという、切なくも美しい力学的現象です。",
+		"aftertaste": "足りない部分（穴）があるからこそ、惹かれ合う力が生まれます。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "quenching_words",
+		"word": "Quenching",
+		"meaning": "消光、冷却、抑制",
+		"era": "Old English cwencan",
+		"etymology": {
+			"components": [
+				"cwencan (to extinguish)"
+			],
+			"original_statement": "From Old English cwencan 'to extinguish / quench'."
+		},
+		"concept": "Extinguishing the spark (輝きを消し去る、静かなる収束)",
+		"thinking": "「消す（Quench）」。燃え上がる火を沈め、光を抑制すること。熱狂を冷まし、本来エネルギーになるはずだったものを別の形（熱など）に変えて逃がすこと。それは、過剰な輝きによる破綻を防ぐための『静かなる自制』です。",
+		"aftertaste": "時には自ら輝きを抑えることが、全体の調和を守ります。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
 	}
 ];
