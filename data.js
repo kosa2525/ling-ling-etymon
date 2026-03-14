@@ -388090,5 +388090,706 @@ const WORDS = [
 			]
 		},
 		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "syntax_logic",
+		"word": "Syntax (L)",
+		"meaning": "統語論（とうごろん）、構文（こうぶん）",
+		"etymology": [
+			"Greek sun- + tassein (to arrange)"
+		],
+		"concept": "Rules for symbol arrangement",
+		"thinking": "「共に（Sun-）」「整える（Tassein）」。意味など考えず、ただ記号をいかに並べるかという『形』の掟。記号たちが踊るための、最も厳格で冷徹な舞台装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "semantics_l",
+		"word": "Semantics (L)",
+		"meaning": "意味論（いみろん）",
+		"etymology": [
+			"Greek semantikos (significant)"
+		],
+		"concept": "Study of truth values/meaning",
+		"thinking": "「記号（Sema）」に「命（意味）」を吹き込む。どの記号がどの世界（モデル）の何を指し、いつ『真』となるのか。無機質な数式が、宇宙という名の真理と響き合う瞬間の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "consistency_",
+		"word": "Consistency",
+		"meaning": "整合性（せいごうせい）、無（む）矛盾（むじゅん）性（せい）",
+		"etymology": [
+			"Latin con- (together) + sistere (to stand)"
+		],
+		"concept": "No contradictions possible",
+		"thinking": "「共に（Con-）」「立つ（Sistere）」。一つの嘘も、一つの矛盾も許されない。すべてが美しく響き合い、一つの堅牢な砦を成している状態。論理の世界における、生き残りのための最低条件。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "validity_log",
+		"word": "Validity",
+		"meaning": "妥当（だとう）性（せい）",
+		"etymology": [
+			"Latin valere (to be strong)"
+		],
+		"concept": "True in all possible models",
+		"thinking": "「強い（Valere）」こと。どんな世界に持っていっても、どんな色眼鏡で覗いても、決して揺らぐことのない絶対的な真。宇宙という枠組みそのものを規定する、鋼の真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "axiom_logic_",
+		"word": "Axiom",
+		"meaning": "公理（こうり）",
+		"etymology": [
+			"Greek axios (worthy)"
+		],
+		"concept": "Self-evident starting point",
+		"thinking": "「価値あるもの（Axios）」、あるいは「当然のもの」。証明なしに、最初から正しいと信じ、そこからすべてを産み出すための『原初の種（貌）』。あなたの宇宙は、どの公理から始まるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "theorem_logi",
+		"word": "Theorem",
+		"meaning": "定理（ていり）",
+		"etymology": [
+			"Greek theorema (spectacle/speculation)"
+		],
+		"concept": "Proven statement",
+		"thinking": "公理から紡ぎ出された「見事な光景（Spectacle）」。論理という名の登山を終え、辿り着いた絶景。一度証明されれば、それは宇宙が滅びるまで変わらぬ『理』となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "inference_ad",
+		"word": "Inference",
+		"meaning": "推論（すいろん）",
+		"etymology": [
+			"Latin in- + ferre (to carry)"
+		],
+		"concept": "Deriving conclusions",
+		"thinking": "「中（In-）」へと「運ぶ（Ferre）」。既知の真実から、未知の結論へと、論理の糸を慎重に手渡していく作業。暗闇の中を一歩ずつ進む、理性の歩みそのもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "syllogism_ad",
+		"word": "Syllogism",
+		"meaning": "三段論法（さんだんろんぽう）",
+		"etymology": [
+			"Greek syn- + logos"
+		],
+		"concept": "Reckoning together",
+		"thinking": "「理（Logos）」を「共に（Syn-）」集めて計算する。A=B, B=C、ならばA=C。あまりにシンプルで、あまりに逃れがたい、宿命的な思考の連結。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "paradox_logi",
+		"word": "Paradox",
+		"meaning": "パラドックス、逆説（ぎゃくせつ）",
+		"etymology": [
+			"Greek para- (beyond) + doxa (belief/opinion)"
+		],
+		"concept": "Self-contradictory statement",
+		"thinking": "「通説（Doxa）」を「越えて（Para-）」、あるいは「裏切って」現れる怪。正しく考えたつもりが、いつの間にか自分自身の首を絞める、論理の迷宮の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "antimony_adv",
+		"word": "Antimony",
+		"meaning": "二律（にりつ）背反（はいはん）、アンチノミー",
+		"etymology": [
+			"Greek anti- + nomos"
+		],
+		"concept": "Contradiction between two laws",
+		"thinking": "「掟（Nomos）」に対する「逆（Anti-）」の掟。どちらも正しいように見える二つの真理が、正面から衝突し、世界を裂く。理性が自らの限界を悟る、黄昏の瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "tautology_ad",
+		"word": "Tautology",
+		"meaning": "トートロジー、同語（どうご）反復（はんぷく）",
+		"etymology": [
+			"Greek tauto (same) + logos"
+		],
+		"concept": "Always true statement",
+		"thinking": "「同じ（Tauto）」ことを「言う（Logos）」。『私は私である』。一見無意味な繰り返しだが、それはどんな衝撃でも壊すことのできない、究極の安定の貌でもある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "recursivity_",
+		"word": "Recursivity",
+		"meaning": "再帰（さいき）性（せい）",
+		"etymology": [
+			"Latin re- (back) + currere (to run)"
+		],
+		"concept": "Functions that call themselves",
+		"thinking": "「後ろへ（Re-）」「走る（Currere）」。自分自身を定義の中に含み、永遠にループし続ける力。鏡の反響。単純なルールから無限の複雑さを産み落とす、フラクタルな智慧の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "cardinality_",
+		"word": "Cardinality",
+		"meaning": "濃度（のうど）、基数（きすう）",
+		"etymology": [
+			"Latin cardinalis (pivotal/hinge)"
+		],
+		"concept": "Size of a set",
+		"thinking": "「根源的な（Cardinal）」大きさ。単に1, 2, 3と数えるのではなく、集合の『無限の深み（貌）』を比べる。自然数より実数が多いという『無限の格差』を暴き出す、数の哲学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "continuum_h",
+		"word": "Continuum H",
+		"meaning": "連続体（れんぞくたい）仮説（かせつ）",
+		"etymology": [
+			"Latin continuus"
+		],
+		"concept": "Is there an infinity in between?",
+		"thinking": "整数と実数の無限の「間」に、別な無限は存在するのか。証明も反証もできないという、数学の王宮の真ん中に横たわる、解かぬことが許された（あるいは呪われた）最大の沈黙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "diagonalizat",
+		"word": "Diagonal",
+		"meaning": "対角線（たいかくせん）論法（ろんぽう）",
+		"etymology": [
+			"Greek dia- + gonia (angle)"
+		],
+		"concept": "Proof by constructing extras",
+		"thinking": "「角（Angle）」を「通る（Dia-）」一条の光。数え上げられたリストの中に、決して現れない『新しい貌』を斜めに切り裂いて産み出す。既存の枠組みを根底から突き抜ける、創造的破壊の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "computabilit",
+		"word": "Computabili",
+		"meaning": "計算（けいさん）可能（かのう）性（せい）",
+		"etymology": [
+			"Latin computare (to count together)"
+		],
+		"concept": "Can it be solved by machine?",
+		"thinking": "機械の手続きによって、正解へと「辿り着ける（Compute）」か。人間の直感ではなく、無機質な歯車（アルゴリズム）だけで真理を握りしめることができる範囲。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "undecidable_",
+		"word": "Undecidable",
+		"meaning": "決定（けってい）不能（ふのう）な",
+		"etymology": [
+			"Un- + Decidable"
+		],
+		"concept": "No algorithmic solution exists",
+		"thinking": "計算機が「永遠に止まらない」問い。数学という完全なはずの世界に、決して答えの出ない「闇の領域」が口を開けているという、恐怖と魅惑の境界線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "incompletene",
+		"word": "Incompleten",
+		"meaning": "不完全性（ふかんぜんせい）定理（ていり）",
+		"etymology": [
+			"In- + Completeness"
+		],
+		"concept": "Truths that cannot be proven",
+		"thinking": "「完全」では「ない」。どんなに完璧な公理系を築いても、その中には『正しいが証明できない問い』が必ず残る。理性の光で世界をすべて照らし出すことはできないという、あまりに美しい絶望。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "fixed_point_",
+		"word": "Fixed Point",
+		"meaning": "不動点（ふどうてん）",
+		"etymology": [
+			"Fixed + Latin punctum"
+		],
+		"concept": "Value unchanged by mapping",
+		"thinking": "「固定された（Fixed）」「点」。変化の渦中にありながら、決して貌を変えない、数理の「核」。自分自身を指し示す呪文。世界を逆転させても、そこに居続ける不動の真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "model_theory",
+		"word": "Model Theor",
+		"meaning": "モデル理（り）論（ろん）",
+		"etymology": [
+			"Latin modulus (measure) + Theory"
+		],
+		"concept": "Study relation of lang to world",
+		"thinking": "数式という「設計図（Model）」が、いかなる「現実」を産み出すか。言葉と世界の対応関係を、数学的に精密に記述する。一つの数式が、千の世界（貌）を内包し得るという豊穣。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "ordinal_adv_",
+		"word": "Ordinal",
+		"meaning": "順序（じゅんじょ）数（すう）",
+		"etymology": [
+			"Latin ordo (row/order)"
+		],
+		"concept": "Position in a sequence",
+		"thinking": "「並び（Ordo）」。無限のさらに後ろに、誰が並んでいるのか。果てしのない列そのものに番号を振り、無限の階層を一段ずつ登っていく、めまいを伴う知性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "well_orderin",
+		"word": "Well-Order",
+		"meaning": "良順序（りょうじゅんじょ）",
+		"etymology": [
+			"Well + Latin ordo"
+		],
+		"concept": "Least element in every subset",
+		"thinking": "どんな集まりの中にも、必ず「最初（最小）の貌」が存在する、整然とした世界。混沌を許さず、すべてのものに一貫した序列を与える、冷徹な統制の極。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "set_theoret",
+		"word": "Set Theoret",
+		"meaning": "集合（しゅうごう）論（ろん）的（てき）な",
+		"etymology": [
+			"Set + Greek theorein"
+		],
+		"concept": "Thinking in terms of sets",
+		"thinking": "すべてを「集まり（Set）」として捉える。数も、関数も、点も、宇宙も。あらゆる存在を『境界で囲まれたもの』に解体し、再構成する、現代数学の最も深い基礎（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "isomorph_adv",
+		"word": "Isomorph",
+		"meaning": "同型（どうけい）",
+		"etymology": [
+			"Greek isos (equal) + morphe"
+		],
+		"concept": "Identical structure",
+		"thinking": "「同じ（Isos）」「貌（Morphe）」。構成要素は違えど、その関係性の「構造」が全く同じであること。チェスと戦争。数式と宇宙。異なる世界に潜む共通の『理』を暴き出す、構造主義の極地。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "homomorph_ad",
+		"word": "Homomorph",
+		"meaning": "準同型（じゅんどうけい）",
+		"etymology": [
+			"Greek homos (same) + morphe"
+		],
+		"concept": "Structure-preserving map",
+		"thinking": "「似た（Homos）」「貌（Morphe）」。完全に一致しなくとも、本質的な関係性を保ったまま別な姿へと写し取る。複雑な迷宮を、その性質を壊さずにシンプルな模型へと縮小する、抽象化の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "functor_logi",
+		"word": "Functor",
+		"meaning": "関手（かんしゅ）、ファンクター",
+		"etymology": [
+			"Latin functio"
+		],
+		"concept": "Mapping between categories",
+		"thinking": "世界から世界へ、貌（構造）をまるごと「運ぶ」渡り鳥。数学の異なる分野を繋ぎ、一見バラバラな真理を一つの巨大な『圏（ユニバース）』へと統合する、知の超越。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "quantifier_a",
+		"word": "Quantifier",
+		"meaning": "量化（りょうか）子（し）",
+		"etymology": [
+			"Latin quantus (how much)"
+		],
+		"concept": "All/Some in logic",
+		"thinking": "『すべて（∀）』か、『ある一つ（∃）』か。「どれほど（Quantus）」の範囲にその真理が及ぶのかを厳密に規定する、論理の測量儀。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "predicate_lo",
+		"word": "Predicate",
+		"meaning": "述語（じゅつご）論理（ろんぽう）",
+		"etymology": [
+			"Latin prae- + dicare (to proclaim)"
+		],
+		"concept": "Logic with properties/relations",
+		"thinking": "主語に何を「前もって（Prae）」「告げる（Dice）」か。単なる命題を越えて、対象の性質や関係を数式で剥き出しにする、顕微鏡のような論理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "epistemic_lo",
+		"word": "Epistemic L",
+		"meaning": "認識（にんしき）論理（ろんり）",
+		"etymology": [
+			"Greek episteme (knowledge)"
+		],
+		"concept": "Logic of knowing/believing",
+		"thinking": "「知っている」ことそのものを論理にする。「私が、あなたがそれを知っていることを、知っている」。鏡の中の鏡。意識の重なり合い（貌）を数学的に分解する、認識の幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "lambd_calcul",
+		"word": "Lambda Calc",
+		"meaning": "ラムダ計算（けいさん）",
+		"etymology": [
+			"Greek Letter Lambda"
+		],
+		"concept": "Pure theory of functions",
+		"thinking": "関数という名の『純粋な行為』の理。名を持たぬ変数が、入力を得て出力へと変容する。宇宙のあらゆる計算、あらゆる論理を、一つの文字「λ」の舞踏に還元する、究極のミニマリズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "turing_machi",
+		"word": "Turing Mach",
+		"meaning": "チューリングマシン",
+		"etymology": [
+			"Alan Turing"
+		],
+		"concept": "Abstract model of computation",
+		"thinking": "紙テープとヘッド。あまりに素朴なその「機械」が、人間が行うあらゆる『思考（計算）』をエミュレートできるという驚愕。心の本質を、一本のテープに書き下ろした、知の解剖学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "reductio_ad_",
+		"word": "Reductio",
+		"meaning": "背理法（はいりほう）",
+		"etymology": [
+			"Latin re- + ducere (to lead back)"
+		],
+		"concept": "Reduction to absurdity",
+		"thinking": "「不合理（Absurd）」へと「引き（Ducere）」「戻す（Re-）」。ある仮定が滅茶苦茶な世界を連れてくるなら、その仮定は間違っているはずだ。敵の言葉を、敵の喉元に突きつける、論理の合気道。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "entail_logic",
+		"word": "Entailment",
+		"meaning": "含意（がんい）、論理（ろんり）的（てき）帰結（きけつ）",
+		"etymology": [
+			"Latin in- + tail (cut)"
+		],
+		"concept": "Truth follows from premises",
+		"thinking": "「中に（In-）」「切り刻んで（Tail）」入っている。前提が正しければ、結論はすでに逃れようもなくそこに伴っているという、必然の影。論理の鎖が、宇宙を固定する冷徹な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "material_imp",
+		"word": "Implication",
+		"meaning": "含意（がんい）、ならば",
+		"etymology": [
+			"Latin in- + plicare (to fold)"
+		],
+		"concept": "If P then Q",
+		"thinking": "「中（In-）」へと「折り込む（Plica）」。もし火があれば（前提）、熱がある（結論）。一見遠く離れた二つの事象を、論理の折り畳みによって、分かち難い一対の貌へと変容させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
+	},
+	{
+		"id": "eternity_log",
+		"word": "Logical Atom",
+		"meaning": "論理（ろんり）的（てき）原子（げんし）、永遠（えいえん）の真理（しんり）",
+		"etymology": [
+			"Greek a- + tomos (uncuttable)"
+		],
+		"original_statement": "The irreducible core of reality.",
+		"concept": "The ultimate architecture of thought",
+		"thinking": "「切る（Tomos）」ことが「できない（A-）」、論理の最小単位。世界が崩れ、時間が消え去っても、1+1=2であり、矛盾が偽であるというその一点だけは、宇宙の塵となる最後の一瞬まで、静かに光り続けている不滅の貌である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の深淵を、論理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形式論理と集合論の極致へ。"
+			]
+		},
+		"example": "Formal logic is the foundation of mathematical reasoning."
 	}
 ];
