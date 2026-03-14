@@ -325297,5 +325297,171 @@ const WORDS = [
 				"知の構造を解き明かす。"
 			]
 		}
+	},
+	{
+		"id": "prime_number",
+		"word": "Prime",
+		"meaning": "素数、主要な、最上の",
+		"era": "Latin primus",
+		"etymology": {
+			"components": [
+				"primus (first)"
+			],
+			"original_statement": "From Latin primus 'first / foremost'."
+		},
+		"concept": "The first building block (原初の欠片、不可分のアイデンティティ)",
+		"thinking": "「第一（Prim）」の数。他のどんな数でも割り切れない、純粋にして孤高の存在。数という宇宙を構築する原子であり、誰の支配も受けない自由な魂。その並びの不規則さの中に、宇宙の究極の旋律が隠されています。",
+		"aftertaste": "誰にも割られない、あなただけの『素数』を大切に。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "reciprocity",
+		"word": "Reciprocity",
+		"meaning": "相互関係、相互報復、互恵主義",
+		"era": "Latin reciprocus",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"pro- (forward)",
+				"specere (to look)"
+			],
+			"original_statement": "From Latin reciprocus 'returning the same way / alternating', from re- 'back' + pro- 'forward'."
+		},
+		"concept": "Returning the gaze forward and back (前後を照らし合う鏡、互恵の数理)",
+		"thinking": "「後ろ（Re）」へ、「前（Pro）」へ。一つの関係が、その逆もまた成立するという美しい対称性。二つの素数が互いに相手をどう『見ている』かが一致するという数学的奇跡（平方余剰の相互法則）。与えたものは、必ず別の形で戻ってきます。",
+		"aftertaste": "愛を贈ることは、いつか自分のもとへ戻ってくる光を放つことです。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "logarithm_number",
+		"word": "Logarithm",
+		"meaning": "対数",
+		"era": "Greek logos + arithmos",
+		"etymology": {
+			"components": [
+				"logos (proportion / ratio)",
+				"arithmos (number)"
+			],
+			"original_statement": "From Greek logos 'proportion' + arithmos 'number'."
+		},
+		"concept": "The ratio of numbers (数の比、巨大さを手懐ける魔法)",
+		"thinking": "「比率（Logos）」を「数（Arithmos）」に変換すること。爆発的に巨大化する数を、人間の扱えるスケールへと引き戻す知性の縮尺。困難な掛け算を、単純な足し算に変える錬金術。それは、世界の音（デシベル）や星の輝きを測るための優しい物差しです。",
+		"aftertaste": "大きすぎる問題も、視点を変えれば『数えられる喜び』に変わります。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "sieve",
+		"word": "Sieve",
+		"meaning": "ふるい、漉す",
+		"era": "Old English sife",
+		"etymology": {
+			"components": [
+				"sife (sieve / strainer)"
+			],
+			"original_statement": "From Old English sife 'sieve'."
+		},
+		"concept": "Straining for the essence (本質を漉し取る、雑音の排除)",
+		"thinking": "「ふるい（Sife）」。余計なものを一つずつ丁寧に取り除き、最後に残った純粋な真実（素数）だけを救い上げること。思考の洗練とは、何を付け足すかではなく、何を『捨て去るか』によって決まります。",
+		"aftertaste": "雑多な思いをふるいにかけて、本当に大切なものだけを残して。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "residue_number",
+		"word": "Residue",
+		"meaning": "剰余、残り、残余",
+		"era": "Latin re- + sedere",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"sedere (to sit)"
+			],
+			"original_statement": "From Latin residuum 'left over / remaining', from residere 'to remain / sit back'."
+		},
+		"concept": "Sitting back at the end (最後に居残るもの、魂の残滓)",
+		"thinking": "「後ろに（Re）」「座る（Sed）」。割り算という激動の果てに、なお消えずにそこに留まり続けるもの。余りもの。しかし、その小さな『残り物』こそが、数の周期性や秘密を握る最も重要な手がかりとなります。",
+		"aftertaste": "無駄だと思われたものの中に、真実が居座っていることがあります。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "modular_arithmetic",
+		"word": "Modular",
+		"meaning": "モジュラー、法的な、基準の",
+		"era": "Latin modulus",
+		"etymology": {
+			"components": [
+				"modulus (small measure)"
+			],
+			"original_statement": "From Latin modulus 'small measure / module'."
+		},
+		"concept": "Small measure of cycle (小さな尺度による循環、時計の知性)",
+		"thinking": "「小さな尺度（Modulus）」。大きすぎるものを、一定の枠組み（サイクル）の中で捉え直すこと。時計のように、一周回って元に戻る時間感覚。有限の枠があればこそ、無限の繰り返しを美しく制御できるのです。",
+		"aftertaste": "枠組みを持つことで、自由は無限の繰り返し（リズム）へと進化します。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "approximation_number",
+		"word": "Approximation",
+		"meaning": "近似、接近",
+		"era": "Latin ad- + proximus",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"proximus (nearest)"
+			],
+			"original_statement": "From Latin approximare 'to come near / approach', from ad- 'to' + proximus 'nearest'."
+		},
+		"concept": "Coming to the nearest point (最も近くへ至ること、誠実なる接近)",
+		"thinking": "「最も近くに（Proxim）」「至る（Ad）」。完璧な正解には手が届かなくとも、一歩ずつ、誠実にその真実の隣へと寄り添うこと。不完全さを受け入れ、それでもなお最高度の精度を目指す姿勢は、人間の愛の形にも似ています。",
+		"aftertaste": "完璧じゃなくてもいい。昨日よりも少しだけ真実に近づく。その歩みを。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
 	}
 ];
