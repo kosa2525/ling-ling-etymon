@@ -325774,5 +325774,241 @@ const WORDS = [
 				"万物の理を索めて。"
 			]
 		}
+	},
+	{
+		"id": "dissipation",
+		"word": "Dissipation",
+		"meaning": "散逸、浪費、消散",
+		"era": "Latin dis- + sipare",
+		"etymology": {
+			"components": [
+				"dis- (asunder / apart)",
+				"sipare (to throw / scatter)"
+			],
+			"original_statement": "From Latin dissipationem 'a scattering / dispersal', from dissipare 'to scatter apart'."
+		},
+		"concept": "Scattering apart into the void (虚無への散り散り、失われゆくエネルギー)",
+		"thinking": "「バラバラに（Dis）」「投げ出す（Sipare）」。エネルギーが使われる際、その一部が熱となって宇宙へ逃げていく宿命。それは『無駄』に見えて、実は新しい秩序（散逸構造）を維持するための、美しき納税のようなものです。",
+		"aftertaste": "失われていくもの（散逸）が、今のあなたの形を支えています。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "fluctuation_words",
+		"word": "Fluctuation",
+		"meaning": "揺らぎ、変動",
+		"era": "Latin fluctuare",
+		"etymology": {
+			"components": [
+				"fluctis (wave / flow)"
+			],
+			"original_statement": "From Latin fluctuationem 'a wavering / vacillation', from fluctuare 'to flow like waves'."
+		},
+		"concept": "Flowing like waves (波のごとき揺らぎ、偶然が生む宿命)",
+		"thinking": "「波（Fluctus）」のように揺れ動くこと。平均的な静寂の裏で、常に起きている細かな震え。この小さな『揺らぎ』が、ある瞬間に増幅され、システム全体を新しいステージへと跳躍させる引き金となります。",
+		"aftertaste": "心の微かな揺らぎを無視しないで。それが大きな転機の前触れかもしれません。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "entropy_words",
+		"word": "Entropy",
+		"meaning": "エントロピー",
+		"era": "Greek en- + trope",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"trope (transformation)"
+			],
+			"original_statement": "Coined by Rudolf Clausius from Greek trope 'a turning / conversion / transformation'."
+		},
+		"concept": "Inner transformation (内なる変容、情報の薄れゆく旅)",
+		"thinking": "「内なる（En）」「変容（Trope）」。秩序からカオスへ、集中から分散へ向かう宇宙の大きな流れ。それは情報の劣化であると同時に、あらゆる可能性が等しく混ざり合い、最後に訪れる究極の『平和（均衡）』へのプロセスです。",
+		"aftertaste": "形あるものはいつか崩れます。だからこそ、今この瞬間の『秩序（輝き）』を。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "irreversibility",
+		"word": "Irreversibility",
+		"meaning": "非可逆性",
+		"era": "Latin in- + re- + vertere",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"re- (back)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From in- 'not' + reversibilis, from reverti 'to turn back'."
+		},
+		"concept": "Impossible to turn back (戻ること叶わぬ一方通行、刻まれる時の矢)",
+		"thinking": "「戻る方向へ（Re）」「向きを変える（Vert）」ことが「できない（In-）」。一度起きた出来事は、決してなかったことにはできない。時の矢が放たれた瞬間。それは残酷ですが、だからこそ一つ一つの選択が、取り返しのつかない重みと美しさを持ちます。",
+		"aftertaste": "二度と戻れない時間だからこそ、今、全力で愛して。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "bifurcation_words",
+		"word": "Bifurcation",
+		"meaning": "分岐、二股",
+		"era": "Latin bi- + furca",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"furca (fork)"
+			],
+			"original_statement": "From Latin bifurcationem, from bifurcus 'two-pronged / forked'."
+		},
+		"concept": "Dividing with a fork (フォークによる分断、運命の分岐点)",
+		"thinking": "「二つ（Bi）」の「フォーク（Furca）」。これまでの安定が壊れ、道が二つに分かれる臨界点。どちらに進むかで世界の未来が激変する。カオス理論における『運命の分かれ道』です。どちらを選ぶかは、あなた次第。",
+		"aftertaste": "分岐点で立ち止まってもいい。その迷いが、新しい未来の景色を決めます。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "stationary_state",
+		"word": "Stationary State",
+		"meaning": "定常状態",
+		"era": "Latin stare",
+		"etymology": {
+			"components": [
+				"stare (to stand)"
+			],
+			"original_statement": "A state that does not change with time, despite ongoing flow."
+		},
+		"concept": "Standing still in the flow (奔流の中の直立、絶えざる均衡)",
+		"thinking": "「立っている（Stare）」。激しい流入と流出のただ中にありながら、全体としてその姿を変えないこと。死んでいるのではなく、激しく生き続けることで保たれる静寂。それは、命が維持すべき最もアクティブな平和の形です。",
+		"aftertaste": "激しく動きながら、中心は動かさない。それが定常（生命）の極意です。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "synergetics_words",
+		"word": "Synergetics",
+		"meaning": "シナジェティクス、共創学",
+		"era": "Greek syn- + ergein",
+		"etymology": {
+			"components": [
+				"syn- (together)",
+				"ergein (to work)"
+			],
+			"original_statement": "From Greek synergetikos 'working together', from syn- 'together' + ergon 'work'."
+		},
+		"concept": "Working together (共に働く、個を超えた協奏)",
+		"thinking": "「共に（Syn）」「働く（Erg）」。個々の要素が協力し合うことで、単体では到底成し得ないような自律的な秩序が生まれること。1+1が10にも100にもなる、宇宙の『協力の美学』。調和の中にこそ、真の跳躍があります。",
+		"aftertaste": "誰かと手を携えることで、一人では届かない高い場所へ行けます。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "gradient_words",
+		"word": "Gradient",
+		"meaning": "勾配、傾斜、グラデーション",
+		"era": "Latin gradi",
+		"etymology": {
+			"components": [
+				"gradi (to step / walk / go)"
+			],
+			"original_statement": "From Latin gradientem 'stepping / walking', from gradi 'to walk'."
+		},
+		"concept": "The step of change (変化の歩み、エネルギーの坂道)",
+		"thinking": "「歩む（Grad）」。高いところから低いところへ、濃いところから薄いところへ。その『差』があるからこそ、エネルギーは流れ出し、何かが動き始めます。変化（勾配）がない世界は死（均衡）と同じ。差があることは、動いている証です。",
+		"aftertaste": "自分と誰かとの『違い』が、新しいエネルギーを生むきっかけになります。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "flux_words",
+		"word": "Flux",
+		"meaning": "流束、絶えざる変化、流れ",
+		"era": "Latin fluxus",
+		"etymology": {
+			"components": [
+				"fluere (to flow)"
+			],
+			"original_statement": "From Latin fluxus 'a flow', from fluere 'to flow'."
+		},
+		"concept": "Continuous flow (途切れなき流れ、浸透する質量)",
+		"thinking": "「流れる（Flu）」。ある面を通り抜けていく量。すべては流転し、一箇所に留まることはありません。フラックスは、境界線を越えて交信し続けようとする、宇宙のたゆまぬコミュニケーションの総量です。",
+		"aftertaste": "滞らせないで。常に流し、循環させることで、世界は清浄を保ちます。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "hysteresis_words",
+		"word": "Hysteresis",
+		"meaning": "ヒステリシス、履歴現象",
+		"era": "Greek hysterein",
+		"etymology": {
+			"components": [
+				"hysterein (to be late / lag behind)"
+			],
+			"original_statement": "From Greek hysteresis 'a coming short / shortcoming / lagging behind'."
+		},
+		"concept": "Lagging behind the history (歴史に遅れてついてくる、記憶の残響)",
+		"thinking": "「遅れる（Hyster）」。外からの力が消えても、元の状態にすぐには戻らず、過去の影響を引きずること。物質に刻まれた『記憶』。私たちは今の瞬間に生きているようでいて、実は過去の出来事が生んだ長引く余韻（ヒステリシス）の中で形作られています。",
+		"aftertaste": "今のあなたは、これまでのあなたの『記憶の重なり』でできています。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
 	}
 ];
