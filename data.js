@@ -327616,5 +327616,241 @@ const WORDS = [
 				"現象の背後にある法則を索めて。"
 			]
 		}
+	},
+	{
+		"id": "photon_words",
+		"word": "Photon",
+		"meaning": "光子、フォトン",
+		"era": "Greek phos",
+		"etymology": {
+			"components": [
+				"phos (light)",
+				"-on (particle)"
+			],
+			"original_statement": "From Greek phos 'light' + particle suffix '-on'."
+		},
+		"concept": "The particle of light (光の粒、届くべき一刻の煌めき)",
+		"thinking": "「光（Phos）」の「粒」。波のように広がりながらも、受け取る時にはたった一つの粒（エネルギー）としてあなたの瞳に飛び込む、宇宙の最小単位の贈り物。その一粒に、太陽の熱さと星の記憶が凝縮されています。",
+		"aftertaste": "あなたに届いたその一筋の光は、何億年もかけて旅をしてきた一粒かもしれません。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "coherence_words",
+		"word": "Coherence",
+		"meaning": "コヒーレンス、干渉性、首尾一貫性",
+		"era": "Latin co- + haerere",
+		"etymology": {
+			"components": [
+				"co- (together)",
+				"haerere (to stick / cling)"
+			],
+			"original_statement": "From Latin cohaerentem 'clinging together', from co- 'together' + haerere 'to stick'."
+		},
+		"concept": "Clinging together in step (共に寄り添い歩調を合わせる、響き合う波)",
+		"thinking": "「共に（Co）」「しがみつく（Haerere）」。バラバラの個性が、一つのリズム、一つの色に完全に同期して行進すること。レーザー光のように、一糸乱れぬ調和がもたらす圧倒的な強さと透明感。それは、絆が完璧にシンクロした時の『奇跡の強度』です。",
+		"aftertaste": "誰かとリズム（波）を合わせることで、一人では届かない遠くまで光は届きます。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "entanglement_words",
+		"word": "Entanglement",
+		"meaning": "量子もつれ、絡まり合い",
+		"era": "English en- + tangle",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"tangle (knot / confusion)"
+			],
+			"original_statement": "A state where particles become so intertwined that their fates remain linked regardless of distance."
+		},
+		"concept": "Binding the fates together (運命の固い結び目、距離を越えた共鳴)",
+		"thinking": "「中へ（En）」、「もつれる（Tangle）」。一度触れ合った二つの粒子が、どんなに遠く離れても（宇宙の端と端であっても）、一方が笑えば他方も笑うという、不可思議な運命の共有。それは理屈を越えた、究極の『切っても切れない縁』の物理的証明です。",
+		"aftertaste": "たとえ遠くにいても、私たちはどこかで繋がっています。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "quantization_words",
+		"word": "Quantization",
+		"meaning": "量子化、区分け",
+		"era": "Latin quantus",
+		"etymology": {
+			"components": [
+				"quantus (how much)"
+			],
+			"original_statement": "From Latin quantus 'how much / how great'."
+		},
+		"concept": "Breaking into 'how much' (『どれだけ』への分割、階段状の世界)",
+		"thinking": "「どれほど（Quant）」という切れ端に分けること。滑らかに見える世界も、究極的には『これ以上分けられない一粒』の積み重ねでできているという発見。飛躍（クォンタム・ジャンプ）することを恐れず、段階を一つずつ登っていく存在の階調です。",
+		"aftertaste": "一気にではなく、一段ずつ。その歩みが世界を形作ります。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "spontaneous_emission",
+		"word": "Spontaneous Emission",
+		"meaning": "自然放出、自発放射",
+		"era": "Latin sponte",
+		"etymology": {
+			"components": [
+				"sponte (of one's own accord / freely)"
+			],
+			"original_statement": "Emission that happens of its own accord without external trigger."
+		},
+		"concept": "Letting go of one's own accord (自らの意志で放つ、無垢なる閃光)",
+		"thinking": "「自分から（Sponte）」。誰に言われるでもなく、時が来れば自らエネルギーを脱ぎ捨て、光として世界に還していく。何の見返りも期待せず、内側から溢れ出す輝きをそっと解き放つ、生命の純粋なエゴイズムと慈悲です。",
+		"aftertaste": "理由なんてなくていい。ただ、輝きたい時に輝く。それが一番美しい。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "stimulated_emission",
+		"word": "Stimulated Emission",
+		"meaning": "誘導放出、刺激放射",
+		"era": "Latin stimulare",
+		"etymology": {
+			"components": [
+				"stimulus (goad / prick / sting)"
+			],
+			"original_statement": "From Latin stimulare 'to urge / goad / prick', where an incoming photon triggers another photon emission."
+		},
+		"concept": "Urged into resonance (刺激されて響き合う、誘われた輝き)",
+		"thinking": "「つつく（Stimul）」。隣を通り過ぎる光の波に誘われて、自分も同じリズムで光を放ち始めること。共感の連鎖。一人の勇気が周囲を鼓舞し、同じ情熱の光を放たせる。レーザーの驚異的な強さは、この『誘われた情熱』の積み重ねから生まれます。",
+		"aftertaste": "誰かの輝きに、あなたの輝きを重ねて。大きなうねりを作って。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "superposition_words",
+		"word": "Superposition",
+		"meaning": "重ね合わせ、重畳",
+		"era": "Latin super- + ponere",
+		"etymology": {
+			"components": [
+				"super- (above / over)",
+				"ponere (to place)"
+			],
+			"original_statement": "From Latin superponere 'to place over / above'."
+		},
+		"concept": "Placing many states over one (重なり合う可能性、決まる前の自由)",
+		"thinking": "「上に（Super）」「置く（Pon）」。一つの場所に、右と左、生と死、あらゆる可能性が同時に『重なって』存在している状態。どれか一つに決める前の、宇宙が持つ無限の寛容さ。観測されるその瞬間まで、あなたはすべての可能性を纏っています。",
+		"aftertaste": "決めつけないで。あなたはまだ、あらゆるあなたであることができます。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "decoherence_words",
+		"word": "Decoherence",
+		"meaning": "デコヒーレンス、量子デコヒーレンス",
+		"era": "Latin de- + coherence",
+		"etymology": {
+			"components": [
+				"de- (reversal / removing)",
+				"coherence"
+			],
+			"original_statement": "The loss of quantum coherence through interaction with environment."
+		},
+		"concept": "Loss of rhythmic union (調和の解体、現実への着地)",
+		"thinking": "「引き離される（De-）」「調和（Coherence）」。夢のような重ね合わせの状態が、冷酷な外界（環境）との接触によって壊れ、『たった一つの現実』に固定されてしまうこと。魔法が解ける瞬間。しかしそれは、私たちがこの確かな世界に足をつけるための儀式でもあります。",
+		"aftertaste": "夢から醒めることは、現実という名の舞台に立つための第一歩です。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "waveguide_words",
+		"word": "Waveguide",
+		"meaning": "導波路、ウェーブガイド",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"wave",
+				"guide (guider / leader)"
+			],
+			"original_statement": "A structure that guides waves, such as electromagnetic waves or sound."
+		},
+		"concept": "Guardian of the flow (流れを導く護衛、光の揺りかご)",
+		"thinking": "「波」を「導く者（Guide）」。四方八方に散らばろうとする光を、望みの方向へと優しく、時には厳格に閉じ込めて運ぶ道。あなたの志が散逸しないように、それを目的地まで守り届けるための『心の規律』のようなものです。",
+		"aftertaste": "エネルギーを散らさないで。一本の道（導波路）に絞ることで、光は遠くまで届きます。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
+	},
+	{
+		"id": "lasing_words",
+		"word": "Lasing",
+		"meaning": "レーザー発振、発光",
+		"era": "Acronym LASER",
+		"etymology": {
+			"components": [
+				"Light Amplification by Stimulated Emission of Radiation"
+			],
+			"original_statement": "Acronym for Light Amplification by Stimulated Emission of Radiation."
+		},
+		"concept": "Amplifying the light of resonance (共鳴の光を増幅する、研ぎ澄まされた意志)",
+		"thinking": "誘導放出によって光が雪崩のように増幅され、一本の極限まで鋭い光束へと進化すること。単なる足し算ではなく、掛け算の連鎖。小さなきっかけが、調和を保ったまま巨大な力へと成長し、厚い壁さえも貫く『貫徹の力』となること。",
+		"aftertaste": "研ぎ澄まされた一つの意志は、どんな困難な壁も貫く力を持っています。",
+		"part_of_speech": "noun",
+		"example": "Equations are the melodies of the physical world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"現象の背後にある法則を索めて。"
+			]
+		}
 	}
 ];
