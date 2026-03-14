@@ -362680,5 +362680,834 @@ const WORDS = [
 			]
 		},
 		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "quantum_field",
+		"word": "Quantum Field",
+		"meaning": "量子場（りょうしば）",
+		"etymology": [
+			"Quantum",
+			"Old English feld"
+		],
+		"concept": "Excitement of space",
+		"thinking": "宇宙は「もの」で満たされているのではなく、目に見えない「場（Field）」のさざなみで満たされている。粒子とは、その広大な海の表面に時折現れる、震えの欠片（量子）に過ぎない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "gauge_boson",
+		"word": "Gauge Boson",
+		"meaning": "ゲージ・ボソン、媒介粒子",
+		"etymology": [
+			"Gauge",
+			"Bose"
+		],
+		"concept": "Messenger of forces",
+		"thinking": "力を「媒介」する粒子。光子やグルーオンのように、物質の間を飛び交い、情報を伝えることで世界を繋ぎ止めている、姿なき郵便配達員。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "gluon_strong",
+		"word": "Gluon",
+		"meaning": "グルーオン、膠（にかわ）粒子",
+		"etymology": [
+			"Glue + -on"
+		],
+		"concept": "Force keeping atoms together",
+		"thinking": "「接着剤（Glue）」。あまりに強い力でクォークたちを繋ぎ合わせる、極微の世界の驚異的な粘り。その強い絆が、宇宙の全ての物質の質量と形を支えている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "weak_force_p",
+		"word": "Weak Interact",
+		"meaning": "弱い相互作用（そうごさよう）",
+		"etymology": [
+			"Weak",
+			"Inter- + Action"
+		],
+		"concept": "Force behind decay",
+		"thinking": "「弱い」がゆえに、物質の形を変えてしまう力。放射線を生み、太陽の燃焼を司る、静かなる錬金術師。死（崩壊）と再生の、目に見えない理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "parity_conserv",
+		"word": "Parity",
+		"meaning": "パリティ、鏡像対称性",
+		"etymology": [
+			"Latin paritas (equal)"
+		],
+		"concept": "The logic of mirror",
+		"thinking": "「等しさ（Paritas）」。鏡に映しても世界は同じ法則に従うのか。かつては絶対の真理と思われていた鏡の対称性が、極微の宇宙では密やかに破られているという衝撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "cpp_violation",
+		"word": "CP Violation",
+		"meaning": "CP対称性（たいしょうせい）の破れ",
+		"etymology": [
+			"Charge + Parity + Violation"
+		],
+		"concept": "Origin of matter asymmetry",
+		"thinking": "「電荷（Charge）」と「パリティ（Parity）」の対称性が「破れる（Violation）」。この微かなゆがみこそが、反物質を消し去り、今の物質に満ちた宇宙を産み落とした、創造の原罪。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "lepton_number",
+		"word": "Lepton",
+		"meaning": "レプトン、軽粒子",
+		"etymology": [
+			"Greek leptos (small/slender)"
+		],
+		"concept": "The light particles",
+		"thinking": "「繊細で軽い（Leptos）」粒子。電子やニュートリノのように、強い力に翻弄されず、軽やかに宇宙を舞う、物質のもう一つの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "neutrino_osci",
+		"word": "Neutrino Osci",
+		"meaning": "ニュートリノ振動",
+		"etymology": [
+			"Neutrino (little neutral one) + Oscillation"
+		],
+		"concept": "Identity-shifting particle",
+		"thinking": "「小さな中性のやつ（Neutrino）」が、旅の途中で自分の貌（種類）を変えてしまう。幽霊のようにすべてを通り抜けながら、密やかに変幻自在に踊る粒子の神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "standard_model",
+		"word": "Standard Mod",
+		"meaning": "標準模型（ひょうじゅんもけい）",
+		"etymology": [
+			"Standard + Modulus"
+		],
+		"concept": "The map of particle physics",
+		"thinking": "人類が辿り着いた、現時点で最高に「標準的（Standard）」かつ精密な世界の設計図。あらゆる物質と力がどのように生み出されているかを集大成した、知の金字塔。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "higgs_physics",
+		"word": "Higgs Field",
+		"meaning": "ヒッグス場（ば）",
+		"etymology": [
+			"Higgs"
+		],
+		"concept": "Giving mass to things",
+		"thinking": "宇宙の隅々にまで満ちている、目に見えない「水飴」のような抵抗。そこを通る粒子たちが足を奪われることで、『重さ（質量）』という名の存在の重みが生まれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "spontaneous_sb",
+		"word": "Symmetry Break",
+		"meaning": "自発（じはつ）的対称性の破れ",
+		"etymology": [
+			"Spontaneous + Symmetry + Break"
+		],
+		"concept": "Choosing a direction",
+		"thinking": "完璧に美しい「対称」な状態が、ある瞬間に自ら崩れ、一つの貌（方向）を選び取る。均衡が崩れる瞬間にこそ、複雑で豊かな『この世界』が産み落とされるというドラマ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "electroweak_u",
+		"word": "Electroweak",
+		"meaning": "電弱（でんじゃく）統一理論",
+		"etymology": [
+			"Electric + Weak"
+		],
+		"concept": "Merging light and decay",
+		"thinking": "「光」と「放射崩壊」。全く異なり、遠く離れて見えた二つの力が、宇宙の始まりの高熱の中では一つの同じ貌であったという、驚異的な統合の記憶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "renormalizati",
+		"word": "Renormalize",
+		"meaning": "繰（く）り込み",
+		"etymology": [
+			"Re- + Latin norma"
+		],
+		"concept": "Handling infinities",
+		"thinking": "計算の中に現れる「無限大」という化物を、もう一度「規律（Norma）」の「中へ（Re-）」収める。無限の向こう側にある真理を掴み取るための、数学的な決死の補正術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "path_integral",
+		"word": "Path Integral",
+		"meaning": "経路積分（けいろせきぶん）",
+		"etymology": [
+			"Path + Integral"
+		],
+		"concept": "Summing all possibilities",
+		"thinking": "粒子は一つの道を通るのではない。あり得たすべての「道（Path）」を同時に通り、それらをすべて「足し合わせる（Integral）」。あらゆる可能性が重なり合って現実が生まれるという、幻想的な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "virtual_part",
+		"word": "Virtual Part",
+		"meaning": "仮想粒子（かそうりゅうし）",
+		"etymology": [
+			"Latin virtus (potential)"
+		],
+		"concept": "Particles that don't fully exist",
+		"thinking": "一瞬だけ顔を出し、すぐに消えてしまう「潜在的（Virtus）」な粒子。不確定性という名の借金を踏み倒しながら、力のやり取りを陰で支える、この宇宙の密かな仲介者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "uncertainty_pr",
+		"word": "Heisenberg Un",
+		"meaning": "不確定性原理（ふかくていせいげんり）",
+		"etymology": [
+			"Un- + Certainty"
+		],
+		"concept": "The blurriness of basic life",
+		"thinking": "「確かさ（Certainty）」の「欠如（Un-）」。位置を決めれば速度がぼやけ、速度を測れば居所を失う。微視的な宇宙の根源に刻み込まれた、宿命的な『ぼやけ』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "wave_funct_col",
+		"word": "Wave Collapse",
+		"meaning": "波（なみ）の収束、崩壊",
+		"etymology": [
+			"Wave + Latin con- + labi (to fall together)"
+		],
+		"concept": "Measurement creates reality",
+		"thinking": "無限の可能性という名の「波」が、「見てしまった」瞬間に「崩れ落ち（Col-lapse）」、一つの現実へと結晶化する。意識の介入が世界を確定させる、残酷な目覚め。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "superposition_p",
+		"word": "Superposition",
+		"meaning": "重ね合わせ、重畳",
+		"etymology": [
+			"Latin super (above) + ponere (to place)"
+		],
+		"concept": "Being in two states at once",
+		"thinking": "「上に（Super）」「置く（Place）」。死んでいると同時に、生きている。相容れない二つの運命が、観測されるのを待ちながら一つの魂の中に同居している、幽霊のような存在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "quantum_entang",
+		"word": "Entanglement",
+		"meaning": "量子（りょうし）もつれ",
+		"etymology": [
+			"En- + Tangle"
+		],
+		"concept": "Spooky action at distance",
+		"thinking": "銀河の両端に引き離されても、一方が笑えば、もう一瞬で他方も笑う。光速を超えて「もつれ合い（Tangle）」、宇宙を一つの不可分な生命として結びつける、時空を超えた絆。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "non_locality_q",
+		"word": "Non-locality",
+		"meaning": "非局所性（ひきょくしょせい）",
+		"etymology": [
+			"Non- + Latin locus (place)"
+		],
+		"concept": "The end of separation",
+		"thinking": "「場所（Locus）」に「縛られない（Non-）」。この世界は、バラバラの欠片の集まりではない。すべては瞬時に繋がり合い、全体が一つとして呼応しているという、深遠な一体感の証明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "bell_inequality",
+		"word": "Bells Theorem",
+		"meaning": "ベルの不等式（ふとうしき）",
+		"etymology": [
+			"Bell"
+		],
+		"concept": "Testing local realism",
+		"thinking": "「世界は、見ていなくてもそこにあり、場所ごとに分かれている」という私たちの当たり前の常識（局所実在性）が、数学的に否定し得ることを暴いた、理性の審判。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "pauli_exclusio",
+		"word": "Exclusion Pri",
+		"meaning": "排他律（はいたりつ）",
+		"etymology": [
+			"Latin ex- + claudere (to shut out)"
+		],
+		"concept": "Particles that need personal space",
+		"thinking": "「締め出す（Ex-clude）」。フェルミ粒子たちは、同じ状態（椅子）を共有することを決して許さない。この強烈な『個』の主張こそが、物質が重なり合わずに形を保てる理由となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "fermi_energy",
+		"word": "Fermi Level",
+		"meaning": "フェルミ・レベル",
+		"etymology": [
+			"Fermi"
+		],
+		"concept": "The top level of particle sea",
+		"thinking": "粒子の海において、最も高い場所にある情熱。絶対零度でさえ止まることのない、生命を支える電子たちの最後の輝きの高嶺。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "bose_einstein",
+		"word": "BEC (Condense)",
+		"meaning": "ボース＝アインシュタイン凝縮",
+		"etymology": [
+			"Bose",
+			"Einstein",
+			"Latin con- + densus"
+		],
+		"concept": "Giant collective atom",
+		"thinking": "極低温の世界で、個々の粒子たちが個性を捨て去り、「共に（Con-）」「密（Densus）」になり、一つの巨大な「波」へと溶け合う。孤独が消滅し、全体が一つの意識で震える美しい沈黙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "superconductiv",
+		"word": "Superconduct",
+		"meaning": "超伝導（ちょうでんどう）",
+		"etymology": [
+			"Super + Latin con- + ducere"
+		],
+		"concept": "Resistance-free travel",
+		"thinking": "「共に（Con-）」「導く（Ducre）」。一切の妨げ（抵抗）なく、電気が光のように宇宙を駆け抜ける。エネルギーを一切失うことのない、完璧な対話の回路。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "quantum_tunnel",
+		"word": "Tunneling",
+		"meaning": "量子（りょうし）トンネル効果",
+		"etymology": [
+			"Old French tonel"
+		],
+		"original_statement": "Particle passing through a potential barrier.",
+		"concept": "Bypassing the impossible",
+		"thinking": "越えられないはずの「壁（山）」を、粒子という名の波が、まるですり抜けるように通り過ぎる。不可能な確率の穴へと滑り込み、隣の世界へ辿り着く奇跡の跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "zero_point_en",
+		"word": "Zero-point",
+		"meaning": "零点振動（れいてんしんどう）",
+		"etymology": [
+			"Zero",
+			"Latin punctus"
+		],
+		"concept": "Energy of the vacuum",
+		"thinking": "「ゼロ」のはずの場所。何もない真空でさえ、極微の宇宙では静止することを知らず、常に激しく「震えて」いる。無の中から有が湧き上がる、宇宙の生命の胎動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "hawking_radiat",
+		"word": "Hawking Rad",
+		"meaning": "ホーキング放射（ほうしゃ）",
+		"etymology": [
+			"Hawking"
+		],
+		"concept": "Black hole evaporation",
+		"thinking": "光さえ逃げ出せないブラックホールの淵から、密やかに命（粒子）が漏れ出している。死にゆく巨星が、その暗闇の中から最期に奏でる、微かな情報のさざなみ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "dark_matter_sy",
+		"word": "Dark Matter",
+		"meaning": "暗黒物質（あんこくぶっしつ）",
+		"etymology": [
+			"Dark + Latin materia"
+		],
+		"concept": "The invisible scaffold",
+		"thinking": "「闇（Dark）」に隠された、宇宙の真の支配者。私たちが知っている物質の数倍も多く存在し、その重力で銀河を繋ぎ止めている、私たちの目には決して見えない、宇宙の骨組み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "dark_energy_sy",
+		"word": "Dark Energy",
+		"meaning": "暗黒（あんこく）エネルギー",
+		"etymology": [
+			"Dark + Greek energeia"
+		],
+		"concept": "Anti-gravity acceleration",
+		"thinking": "宇宙を切り裂くように、加速的に押し広げる「負の圧力」。膨張し続ける宇宙の最期を見守る、あまりに空虚で、あまりに強大な、真空自体の情熱。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "grand_unified",
+		"word": "GUT (Physics)",
+		"meaning": "大統一理論（だいとういつりろん）",
+		"etymology": [
+			"Grand + Unified"
+		],
+		"concept": "One force to rule them all",
+		"thinking": "重力を除く、すべての「力」が、宇宙の原初の瞬間には一つの輝ける「神の力」であったという壮大な物語。バラバラになった世界を、再び一つの理へと統合しようとする人類の夢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "string_theory",
+		"word": "String Theory",
+		"meaning": "超弦理論（ちょうげんりろん）",
+		"etymology": [
+			"Old English streng"
+		],
+		"concept": "Universe as music",
+		"thinking": "世界は粒子（点）で作られているのではなく、震える一筋の「弦（String）」で作られている。宇宙のすべての物質と力は、その弦が奏でる異なる『調べ（振動）』に過ぎないという、究極の調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "holographic_pr",
+		"word": "Holography",
+		"meaning": "ホログラフィック原理",
+		"etymology": [
+			"Greek holos (whole) + graphein"
+		],
+		"concept": "Reality as a 2D projection",
+		"thinking": "三次元の現実は、実は宇宙の遠き「境界（二次元）」に刻まれた情報の「投影」に過ぎないという戦慄の予感。世界の「すべて（Holos）」が、皮膜に刻まれた情報として描かれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "multiverse_phy",
+		"word": "Multiverse",
+		"meaning": "マルチバース、多重宇宙",
+		"etymology": [
+			"Latin multi- + universum"
+		],
+		"concept": "Infinite alternate realities",
+		"thinking": "「多く（Multi）」の宇宙。私たちが住むこの世界は、無限に連なる泡の一つに過ぎない。あらゆる「あり得た選択」が、現実としてどこかで呼吸しているという、壮絶なまでの余白。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "spacetime_foa",
+		"word": "Spacetime Foa",
+		"meaning": "時空（じくう）の泡",
+		"etymology": [
+			"Space",
+			"Time",
+			"Foam"
+		],
+		"concept": "Turbulence at the Planck scale",
+		"thinking": "滑らかに見える時間と空間も、極限まで拡大すれば、激しく波立ち、沸き立つ「泡（Foam）」のごときカオスと化す。存在の根底に潜む、泡立つ虚無の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "planck_length",
+		"word": "Planck Length",
+		"meaning": "プランク長さ",
+		"etymology": [
+			"Planck"
+		],
+		"concept": "The smallest grain of reality",
+		"thinking": "宇宙に残された、最後の「一歩」。これ以上分割できない、存在の最小のドット。そこから先は、もはや「長さ」という言葉さえ意味を失う、理性の断崖絶壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "singularity_ad",
+		"word": "Singularity",
+		"meaning": "特異点（とくいてん）",
+		"etymology": [
+			"Latin singularis (alone/unique)"
+		],
+		"concept": "Where laws break down",
+		"thinking": "「たった一つ（Singular）」の、理屈が通用しない場所。密度が無限大、時間が静止する。既存の物理学が死に絶え、新しい宇宙が産まれる、あるいは吸い込まれる、世界の裂け目。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "wormhole_phys",
+		"word": "Wormhole",
+		"meaning": "ワームホール、虫食い穴",
+		"etymology": [
+			"Worm + Hole"
+		],
+		"concept": "Shortcut through spacetime",
+		"thinking": "時空という名のリンゴを貫く、近道の「穴」。数万光年の彼方を一瞬で結ぶ、禁断のショートカット。理性の針が、時空の織りなす布を縫い合わせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "time_dilation",
+		"word": "Time Dilation",
+		"meaning": "時間（じかん）の遅延、膨張",
+		"etymology": [
+			"Time + Latin dilatare (to spread out)"
+		],
+		"concept": "Relativity of the clock",
+		"thinking": "速く動くほど、重力に惹かれるほど、時間は「引き伸ばされる（Dilate）」。絶対の時間などどこにもない。一人一人が、それぞれの速さで、それぞれの人生の刻みを刻んでいる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "cosmic_inflat",
+		"word": "Inflation",
+		"meaning": "インフレーション、急膨張",
+		"etymology": [
+			"Latin in- + flare (to blow)"
+		],
+		"concept": "Exponential expansion of early universe",
+		"thinking": "宇宙の始まりに起きた、たった一瞬の爆発的な「膨らみ（In-flate）」。ミクロの種が、一瞬にして銀河を飲み込む巨大な空間へと拡張された、文字通りの天地開闢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "big_bang_ad",
+		"word": "Big Bang",
+		"meaning": "ビッグバン",
+		"etymology": [
+			"Big Bang (Onomatopoeia)"
+		],
+		"concept": "The birth of everything",
+		"thinking": "すべてが「そこ」から始まった。高熱、高密度、そして無限の情熱。この宇宙のすべての欠片が、かつては一つの同じ『点』の一部であったという、遥かなる同胞の記憶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の宇宙のさざなみを聞いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子力学の深淵へ。"
+			]
+		},
+		"example": "Quantum mechanics defies non-quantum intuition."
 	}
 ];
