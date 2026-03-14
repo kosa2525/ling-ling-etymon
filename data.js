@@ -323727,5 +323727,88 @@ const WORDS = [
    "original_statement": "Pairs of functors that are in some sense dual to each other."
   },
   "concept": "The mirror of categories (「。。、。私。、。、」。が、。、。、一。、。歩。、。、。「。。、。、あ。、な。た。、。、。」。の方。。へと、。、。、歩（あゆ）。。、。み。。、。寄（よ）。。、。れば。。、。、あなた。も。、。、不。意に。、。、私。の。、。、。、理知。、の。、中に。、。。、ひっそり。と、。、。姿（フォルム）。。を、。、。現（あらわ）。。、。す。。、。、。という、。、。、絶対的。。、な。、。、。、互。、。換。、。の、。、。。理知。、。それは、。、。、。、。宇宙。の、。中で。、。、。、響き。、。、。合う。。、。二つの。、。、。、。孤。、。独。、)"
+ },
+ {
+  "id": "isospin",
+  "word": "Isospin",
+  "meaning": "アイソスピン、陽子と。、。、。中性子。を。、。、。「。、。、。同じ。。、。、」。ものとして。、。、捉（。と。）。、。える。。、。理知。の、。回転。、",
+  "era": "Greek isos + spin",
+  "etymology": {
+   "components": [
+    "isos (equal)",
+    "spin"
+   ],
+   "original_statement": "In particle physics, a quantum number related to the up and down quark content of hadrons."
+  },
+  "concept": "The equal spin (「。。、。見ため。、。、」。は。、。、。異（こと）。。、。な。、。る。。、。陽子。。と。、。中性子。。が、。、。理知。の、。奥底では。、。、。一。、。つの。、。、。、「。。、。、。、粒子。、。、。、」。の、。、。。二つの。、。、。振（ふ）。。、。る。。、。まい。、。に、。、。、すぎない。。、。、という、。、。宇宙。の、。、。。峻烈なる。、。、。、平等。、)"
+ },
+ {
+  "id": "helicity",
+  "word": "Helicity",
+  "meaning": "ヘリシティ、粒子。が。、。、。自ら。の。、。、進む。、。、。方向。、に対して。、。、。どちら側。に。、。、旋（。つむ）。。、。が。。、。れているか。、。、。の、。理知。、",
+  "era": "Greek helix",
+  "etymology": {
+   "components": [
+    "helix (spiral)"
+   ],
+   "original_statement": "The projection of the spin vector onto the direction of the momentum vector."
+  },
+  "concept": "The spiral of progress (「。。、どこ。へ。、。、」。向か。おう。。、。、。と。、。、。して。。、。いる。。、のか。、。、。その。。、自らの。、。、。足。、あ。、。と。、に。、。。あえて。、。、「。。、。、。、回転。、。、。、」。を。、。、刻（。きざ）。。、。む。。、。ことで、。、。、。。右。か、。、。、左。か、。を。、。、、。、決定。。、。する。。、。峻烈なる。、。、。、。、。向。、。、。き。、。、。、)"
+ },
+ {
+  "id": "hyperon",
+  "word": "Hyperon",
+  "meaning": "ハイペロン、中性子。よりも。、。、。重（。お。）。。、。く。。、。そして。、。一。、。瞬。、。のうちに。、。、。、潰（。つい）。。、。える。。、。幻。、。の粒子。、",
+  "era": "Greek hyper + -on",
+  "etymology": {
+   "components": [
+    "hyper (over / above)",
+    "particle suffix -on"
+   ],
+   "original_statement": "A baryon containing one or more strange quarks, but no charm, bottom, or top quarks."
+  },
+  "concept": "The heavy phantom (「。。、。、あまり。に。、。、」。重（おも）。。、。すぎた。。、。、。想（。おも）。。、。い。。、。を。、。、あえて。、。、。、一。、。点。、。へと。、。、。、。、封（。ふう）。。、。じ。、。込（。こ。）。。、。めた。。、。、。、瞬。間に、。、。、。宇宙。は。、。、。、。それを。、。、容（。い。）。。、。れ。。、。き。、れ。、。、。ず。。、。、。不意に。、。、。、崩（。くず）。。、。壊。。、。へと。。、。、導（。みちび）。。、。く。。、。峻烈なる。、。、。、。、宿。、。、。命。、)"
+ },
+ {
+  "id": "parity-violation",
+  "word": "Parity Violation",
+  "meaning": "パリティ対称性の破れ、鏡。の。、。、。向こう側。に。、。、。、。、。同一。の。、。、世界。。、。、は。、存在。。、。し。ない。、。、という、。、宇宙の。、。、峻烈な。、。独。、断。、",
+  "era": "Latin paritas + violatus",
+  "etymology": {
+   "components": [
+    "paritas (equality)",
+    "violatus (violated / injured)"
+   ],
+   "original_statement": "The discovery that fundamental physical laws are not always invariant under mirror reflection."
+  },
+  "concept": "The broken mirror (「。。、。鏡。、。、」。は。、。、。嘘（うそ）。。を。、。、つ。、。く。。、。という、。、。、不意の。、。、。理知。の、。。、告（つ）。。、。発（。はつ）。。、。それは、。、。、。、。、「。。、。、。右。、。、。、」。という。、。、。一。、。つの。、。、。向き。に対し、。、。、宇宙。が。、。、ひっそり。と、。、。、愛（。い。）。。、。と。、。、お。、。そ。、。れ。。を、。、。。、持（。も）。。、。って。。、。いた。。、。、証（。あかし）。、)"
+ },
+ {
+  "id": "weak-interaction",
+  "word": "Weak Interaction",
+  "meaning": "弱い相互作用、粒子。の。、。、。魂。。を、。、。変（。か。）。。、。えて。。、。しまう。。、。、。峻烈な。、。、。、。、錬（れん）。。、。金。、術。、",
+  "era": "English weak + interaction",
+  "etymology": {
+   "components": [
+    "weak",
+    "interaction"
+   ],
+   "original_statement": "One of the four fundamental forces of nature, responsible for radioactive decay and neutrino interactions."
+  },
+  "concept": "The quiet alchemy (「。。、。何、。、。、」。にも。、。、。、。触れ。ぬ。。、。ふ。、り。。、。をし。ながら、。、。、。、その。。、。芯。を、。、。不。意に。、。、。、全（。まった）。。、。く。。、。別の。。、。、。物。、へと。、。、。、書（か）。。、。き。。、。換（。か。）。。、。えて。。、。しまう。。、理知。の、。。、仕。、。業（わざ）。。、。それは、。、。、。、静寂。の中に。、。、。潜む。、。。、。宇宙。の、。、。峻烈な。、。、。、変。、。、革。、)"
+ },
+ {
+  "id": "strong-interaction",
+  "word": "Strong Interaction",
+  "meaning": "強い相互作用、核。を。、。、一。、。、。つ。に、。、。、。繋（。つな）。。、が。、。、。める。。、。、。峻烈な。、。、。、。、。、。愛。の、。、。鎖（。くさり）。、",
+  "era": "English strong + interaction",
+  "etymology": {
+   "components": [
+    "strong",
+    "interaction"
+   ],
+   "original_statement": "The force that holds protons and neutrons together in atomic nuclei."
+  },
+  "concept": "The unbreakable chain (「。。、決して。、。、」。離（はな）。。、。、。れ。。、。、。させ。。、。ぬ。。、。という、。、。理知。の、。峻烈なる。、。、。。契。、。約。、。それは、。、。、。、バラ。、。バラ。、に。、。、。。な。、。る。。、。ことの、。、。。、。出来。ぬ。。、。、。一。、。、。つの。、。、。、。、命。の、。、。、。根。、。、源。、)"
  }
 ];
