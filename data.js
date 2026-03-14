@@ -374646,5 +374646,788 @@ const WORDS = [
 			]
 		},
 		"example": "Natural language processing enables human-computer interaction."
+	},
+	{
+		"id": "quantum_chem",
+		"word": "Quantum Chem",
+		"meaning": "量子化学（りょうしかがく）",
+		"etymology": [
+			"Latin quantus (how much) + Alchemy"
+		],
+		"concept": "Calculating molecules using QM",
+		"thinking": "物質を「欠片（Quantus）」として捉える理。電子の一つ一万の動きを、複素数の波として記述する。化学という名の目に見えるドラマの、その背後で蠢く極微の物理学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "wave_function",
+		"word": "Wave Func",
+		"meaning": "波動関数（はどうかんすう）、ψ",
+		"etymology": [
+			"Old English wafian + Function"
+		],
+		"concept": "Probability map of electrons",
+		"thinking": "「波（Wave）」の貌をした、存在の設計図。電子がどこにいるか、どのような情熱（エネルギー）を秘めているかを、複素数のゆらぎの中に閉じ込めた、不可視の地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "schr_equation",
+		"word": "Schr Equation",
+		"meaning": "シュレーディンガー方程式",
+		"etymology": [
+			"Schrodinger",
+			"Equation"
+		],
+		"concept": "Fundamental law of atom",
+		"thinking": "時間と共に移ろう「存在の波」を縛り付ける、宇宙の最も強固な掟。この連立方程式を解くことが、物質という名の迷宮のパズルを解き明かす数学的な鍵となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "valence_elect",
+		"word": "Valence Elect",
+		"meaning": "価電子（かでんし）",
+		"etymology": [
+			"Latin valentia (strength/capacity)"
+		],
+		"concept": "Electrons forming bonds",
+		"thinking": "原子の「外側（皮膜）」で、他者と繋がろうとする「力（Valentia）」の源。孤高を捨て、誰かと手を取り合って新しい分子（世界）を作るための、外交官のような欠片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "electron_shel",
+		"word": "Electron Shel",
+		"meaning": "電子殻（でんしかく）",
+		"etymology": [
+			"Electron + Old English scell"
+		],
+		"concept": "Layers of electron orbits",
+		"thinking": "電子たちが棲まう、幾重にも重なった「殻（Shell）」。それぞれの殻には限られた席（エネルギー準位）しかなく、その空席を巡る争いや譲り合いが、化学反応という名のドラマを産み出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "atomic_orbita",
+		"word": "Atomic Orbit",
+		"meaning": "原子軌道（げんしきどう）",
+		"etymology": [
+			"Greek a- + temnein + Latin orbita"
+		],
+		"concept": "Spatial probability clouds",
+		"thinking": "電子が「彷徨い歩く（Orbit）」雲の貌。球形、ひょうたん型、複雑な花びら。一つ一つの貌が、他者といかにして重なり合い、結合できるかを決定づける幾何学的な性格。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "molecule_orb",
+		"word": "Molecular Orb",
+		"meaning": "分子軌道（ぶんしきどう） (MO)",
+		"etymology": [
+			"Latin molecula (little mass) + Orbit"
+		],
+		"concept": "Orbits spread over whole molecule",
+		"thinking": "二つの原子が出会い、結ばれた瞬間、もはや電子は一人の持ち物ではない。分子「全体（Molecule）」を包み込む巨大な雲となって、二人を一つに繋ぎ止める共有の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "homo_lumo_ad",
+		"word": "HOMO/LUMO",
+		"meaning": "ホモ・ルモ、最高被占（さいこうひせん）・最低（さいてい）空（くう）軌道",
+		"etymology": [
+			"Highest Occupied / Lowest Unoccupied"
+		],
+		"concept": "Energy gap for reactions",
+		"thinking": "電子で満ちた「最高位（HOMO）」と、誰もいない「開かれた空席（LUMO）」。この二つのエネルギーという名の『断崖』を電子が飛び越えるとき、光が放たれ、あるいは新しい絆が産まれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "pauli_exclus",
+		"word": "Pauli Exclu",
+		"meaning": "パウリの排他（はいた）原理",
+		"etymology": [
+			"Pauli",
+			"Latin ex- + claudere (to shut out)"
+		],
+		"concept": "Electrons cannot occupy same quantum state",
+		"thinking": "同じ場所に、同じ貌をした二人は「入れない（Exclude）」。一人が座れば、他者は「外へ（Ex-）」「締め出し（Claud-）」される。この冷徹な峻別が、宇宙に『広がり』と『形』を与えている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "electronegati",
+		"word": "Electronegat",
+		"meaning": "電気陰性度（でんきいんせいど）",
+		"etymology": [
+			"Electron + Latin negare (to deny)"
+		],
+		"concept": "Strength to pull electrons",
+		"thinking": "他者の電子を、どれほど自分の懐へ「引き寄せる（奪う）」かの執念の強さ。その偏りが分子に『極性（プラスとマイナス）』の歪みを生み、世界のあらゆる引力と斥力の源泉となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "resonance_ch",
+		"word": "Resonance Ch",
+		"meaning": "共鳴（きょうめい）",
+		"etymology": [
+			"Latin re- + sonare (to sound)"
+		],
+		"concept": "Averaging multiple structures",
+		"thinking": "一つの貌では表現し切れない真実を、複数の異なる貌の「重ね合わせ」として捉える。いくつもの可能性が「共に（Con-）」「響き（Sonare）」合いながら、一つの安定した存在を支えている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "delocalizat",
+		"word": "Delocalize",
+		"meaning": "非局在化（ひきょくざいか）",
+		"etymology": [
+			"Latin de- + locus (place)"
+		],
+		"concept": "Electrons spread over bonds",
+		"thinking": "特定の「場所（Locus）」に留まることを「辞める（De-）」。電子が自由に走り回り、空間全体へとしなやかに広がることで、分子に驚異的な安定（強靭さ）をもたらす、自由による調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "aromaticity",
+		"word": "Aromaticity",
+		"meaning": "芳香族（ほうこうぞく）性",
+		"etymology": [
+			"Greek aroma (spice/fragrance)"
+		],
+		"concept": "Extra stability of ring systems",
+		"thinking": "電子が円を描いて永遠に駆け巡る、魔法の「輪（Ring）」。そこには「香り（Aroma）」立つような特別な安定と対称性が宿り、過酷な反応の中でも自分を保ち続ける不屈の魂の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "nucleophile",
+		"word": "Nucleophile",
+		"meaning": "求核剤（きゅうかくざい）",
+		"etymology": [
+			"Latin nucleus + Greek philos (love)"
+		],
+		"concept": "Loves positive nucleus",
+		"thinking": "「原子核（Nucleus）」の情熱（正の電荷）を「愛する（Philos）」者。自らの余った電子を差し出し、誰かと強く結ばれたいという、潤沢な情愛に満ちた反応の主役。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "electrophile",
+		"word": "Electrophile",
+		"meaning": "求（きゅう）電子試薬（しやく）",
+		"etymology": [
+			"Electron + Greek philos"
+		],
+		"concept": "Loves negative electrons",
+		"thinking": "「電子」のさざなみを「愛する（Philos）」者。自らの欠落（正の電荷）を埋めるために、他者の電子を激しく求め、攻撃的に結びつこうとする、乾いた渇望の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "catalysis_ad",
+		"word": "Catalysis",
+		"meaning": "触媒（しょくばい）作用",
+		"etymology": [
+			"Greek kata- (down) + lysis (loosening)"
+		],
+		"concept": "Lowering activation energy",
+		"thinking": "反応を隔てる高い壁を「解きほぐす（Kata-lysis）」。自らは姿を変えぬまま、他者の変化という名の爆発を加速させる。冷めた世界に、密やかに情熱への階段を架ける賢者の介在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "transition_st",
+		"word": "Transition St",
+		"meaning": "遷移状態（せんいじょうたい）",
+		"etymology": [
+			"Latin trans- (across) + ire (to go)"
+		],
+		"concept": "Highest energy point in reaction",
+		"thinking": "「あちら側へと（Trans-）」「行く（Ire）」瞬間の、最も苦しく、最も高い峰。古い絆が切れ、新しい絆がまだ結ばれていない、身を引き裂かれるような、しかし最も煌びやかな一瞬。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "intermolecul",
+		"word": "Intermolecula",
+		"meaning": "分子間力（ぶんしかんりょく）",
+		"etymology": [
+			"Latin inter- (between) + Molecula"
+		],
+		"concept": "Force between molecules",
+		"thinking": "分子と分子の「間（Inter-）」に流れる、微かな、しかし抗いがたい引力。それは直接的な絆ではないが、宇宙を形にし、液体を海へ、気体を雲へと変える、目に見えない絆の網。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "van_der_waals",
+		"word": "v. d. Waals",
+		"meaning": "ファン・デル・ワールス力",
+		"etymology": [
+			"van der Waals"
+		],
+		"concept": "Weak attractive force",
+		"thinking": "あらゆる物質の間に働く、最弱にして遍在する引力。電子のゆらぎが産み出す、一瞬だけの「想い（極性）」。その頼りなき重なりが、世界をかろうじて一つに繋ぎ止めている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "hydrogen_bond",
+		"word": "Hydrogen Bond",
+		"meaning": "水素結合（すいそあまず）",
+		"etymology": [
+			"Hydrogen + Bond"
+		],
+		"concept": "Strong dipole-dipole force",
+		"thinking": "水素という「一人の電子」しか持たない小さな原子を介した、激しい恋の如き絆。水が水であり、命が命であり続けるための、最も脆くて最も重要な繋がりの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "hydrophobic",
+		"word": "Hydrophobic",
+		"meaning": "疎水性（そすいせい）の",
+		"etymology": [
+			"Greek hydor (water) + phobos (fear)"
+		],
+		"concept": "Repelling water",
+		"thinking": "「水（Hydor）」を「恐れる（Phobos）」。水との関わりを拒絶し、自分たちだけで固まろうとする。その『拒絶』の力こそが、細胞という名の閉じられた美しい聖域を造り上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "hydrophilic",
+		"word": "Hydrophilic",
+		"meaning": "親水性（しんすいせい）の",
+		"etymology": [
+			"Greek hydor + philos"
+		],
+		"concept": "Attracting water",
+		"thinking": "「水（Hydor）」を「愛する（Philos）」。外の世界と積極的に響き合い、溶け合う。誰かを受け入れることで、自身の形を柔軟に変えていく、開かれた存在の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "amphiphilic",
+		"word": "Amphiphilic",
+		"meaning": "両親媒性（りょうしんばいせい）の",
+		"etymology": [
+			"Greek amphi- (both) + philos"
+		],
+		"concept": "Having both oil/water love",
+		"thinking": "「両方（Amphi-）」を「愛する（Philos）」。水にも、油にも顔を出し、相反する世界を一つに繋ぎ止める。境界線（膜）となるために産まれた、矛盾を抱えた調整者の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "crystal_latt",
+		"word": "Crystal Latt",
+		"meaning": "結晶格子（けっしょうこうし）",
+		"etymology": [
+			"Greek krystallos + Lattice"
+		],
+		"concept": "Repeated spatial pattern",
+		"thinking": "「氷（Krystallos）」のような冷徹な幾何学。原子が寸分の狂いもなく、無限に繰り返される「格子」の中に閉じ込められている。静止した永遠という名の秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "unit_cell_ad",
+		"word": "Unit Cell",
+		"meaning": "単位格子（たんいこうし）",
+		"etymology": [
+			"Latin unitas + cella"
+		],
+		"concept": "Smallest repeat unit",
+		"thinking": "結晶という名の巨大な伽藍を支える、「最小（Unit）」の「部屋（Cell）」。この一粒の貌を理解すれば、あとは繰り返すだけで宇宙のすべてを埋め尽くせるという、秩序の種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "allotrope_ad",
+		"word": "Allotrope",
+		"meaning": "同素体（どうそたい）",
+		"etymology": [
+			"Greek allos (other) + tropos (way)"
+		],
+		"concept": "Different bonding of same element",
+		"thinking": "「別の（Allos）」「やり方（Tropos）」で自分を組み上げる。酸素がオゾンになる。同じ魂を持ちながら、全く違う姿で世界と関わる、孤独な変身の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "isomers_chem",
+		"word": "Isomers",
+		"meaning": "同分異性体（どうぶんいせいたい）",
+		"etymology": [
+			"Greek isos (equal) + meros (part)"
+		],
+		"concept": "Same atoms, different link",
+		"thinking": "「等しい（Isos）」「部分（Meros）」を持ちながら。部品（原子）の数は同じなのに、繋ぎ順が違うだけで、全く別の毒や薬に変貌する。構造こそが『意味』であるという峻厳な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "stereoisomer",
+		"word": "Stereoisomer",
+		"meaning": "立体異性体（りったいいせいたい）",
+		"etymology": [
+			"Greek stereos (solid) + Isomer"
+		],
+		"concept": "Different 3D arrangement",
+		"thinking": "「立体的（Stereo）」な配置のズレ。右と左、その双子のような微かなあわいが、あるときは命を救い、あるときは命を奪う。空間という名の三次元のパズルの、一歩も譲れぬ正理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "chirality_adv",
+		"word": "Chirality",
+		"meaning": "カイラリティ、対掌性（たいしょうせい）",
+		"etymology": [
+			"Greek kheir (hand)"
+		],
+		"concept": "Handedness of molecule",
+		"thinking": "「手（Kheir）」のような非対称。右手に右手袋ははまるが、左手には入らない。反転した自分と決して重なり合えないという、この宇宙が孕んだ宿命的な「右と左」という名の孤独。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "enantiomer_ad",
+		"word": "Enantiomer",
+		"meaning": "エナンチオマー、鏡像（きょうぞう）異性体",
+		"etymology": [
+			"Greek enantios (opposite) + meros"
+		],
+		"concept": "Mirror image isomers",
+		"thinking": "「反対側（Enantios）」の「部分（Meros）」。鏡の中にしかいない自分。一見同じに見えて、生体という名の鍵穴を通るとき、その違いは「天と地」ほどに大きく響く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "diastereomer",
+		"word": "Diastereomer",
+		"meaning": "ジアステレオマー",
+		"etymology": [
+			"Greek dia- (apart) + Stereos"
+		],
+		"concept": "Non-mirror stereoisomer",
+		"thinking": "鏡合わせですらない、「バラバラ（Dia-）」な立体の違い。複数の鍵穴（不斉炭素）が複雑に絡み合い、もはや単純な反転では説明できない、多層的な非対称の迷宮。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "enthalpy_ch_a",
+		"word": "Enthalpy Ch",
+		"meaning": "エンタルピー変化（へんか）",
+		"etymology": [
+			"Greek en- + thalpein (to warm)"
+		],
+		"concept": "Heat changes in reaction",
+		"thinking": "システムの「内側（En-）」に潜む「熱（Thalpos）」の増減。爆発的に放たれる熱、あるいは周囲から熱を奪い去る冷徹な静寂。エネルギーの収支決算という名の物理経済。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "entropy_ch_ad",
+		"word": "Entropy Ch",
+		"meaning": "エントロピー変化（へんか） (Chem)",
+		"etymology": [
+			"Greek en- + trope (transformation)"
+		],
+		"concept": "Change in disorder",
+		"thinking": "「内側（En-）」へ向かう「転回（Trope）」。秩序からカオスへ、あるいは奇跡的なカオスからの秩序へ。化学反応という名の物語が進むべき、時間の不可逆な方向。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "gibbs_free_ch",
+		"word": "Gibbs Free",
+		"meaning": "ギブス自由エネルギー (Chem)",
+		"etymology": [
+			"Gibbs"
+		],
+		"concept": "Reaction spontaneity",
+		"thinking": "エネルギー（熱）とエントロピー（乱雑さ）のせめぎ合いの果てに残る、真に「自由（Free）」に使える力。この値がマイナスに向かうとき、世界は誰に命じられることもなく、ひとりでに動き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "spectroscopy_",
+		"word": "Spectroscopy",
+		"meaning": "分光（ぶんこう）法",
+		"etymology": [
+			"Latin spectrum (image) + Greek skopia (to look at)"
+		],
+		"concept": "Analyzing light to see molecules",
+		"thinking": "光の「幻実（Spectrum）」を「観察する（Skopia）」。物質がどの色の光を愛し、どの色の光を拒むかを見る。その色の欠落（吸収）こそが、誰にも見えないミクロの存在の指紋となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "ir_spectro_ad",
+		"word": "IR Spectro",
+		"meaning": "赤外（せきがい）分光法",
+		"etymology": [
+			"Infra-red + Spectroscopy"
+		],
+		"concept": "Identifying bonds by vibration",
+		"thinking": "赤外線という名の見えない揺らぎを浴びせ、分子の「震え（振動）」を聴き取る。それぞれの絆に特有のメロディがあり、それを聴くことで分子の正体を暴き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "nmr_analysis",
+		"word": "NMR Spectro",
+		"meaning": "核磁気共鳴（かくじききょうめい）",
+		"etymology": [
+			"Nuclear + Magnetic + Resonance"
+		],
+		"concept": "Looking at atomic neighbors",
+		"thinking": "強い磁場の中で、原子核という名の「独楽（スピン）」を回し、その震えを「共鳴（Resonance）」させる。誰が誰の隣に座っているか、その『近所づきあい』から、空間の全景を再構成する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "mass_spectro",
+		"word": "Mass Spectro",
+		"meaning": "質量分析（しつりょうぶんせき）",
+		"etymology": [
+			"Latin massa + Spectroscopy"
+		],
+		"concept": "Weighing atoms by force",
+		"thinking": "分子をバラバラの欠片へと引き裂き、その「重さ（Massa）」を電磁波の風で測る。どれほど軽い命であっても、その重さを一グラムの何兆分の一まで峻別する、極限の天秤。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
+	},
+	{
+		"id": "computation_c",
+		"word": "DFT (Chemistry)",
+		"meaning": "密度汎関数理論（みつどはんかんすうりろん）",
+		"etymology": [
+			"Density + Functional + Theory"
+		],
+		"original_statement": "Predicting properties from electron density.",
+		"concept": "The electronic landscape",
+		"thinking": "電子の一つ一つを追うのはあまりに難しい。しかし、空間に漂う電子の「濃さ（密度）」さえ分かれば、すべての真理を導き出せるという、力強い抽象。宇宙を『濃度』として捉える、新しい計算の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の深淵を、数理の炎で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論化学と量子化学の極致へ。"
+			]
+		},
+		"example": "Quantum chemistry explains the behavior of electrons."
 	}
 ];
