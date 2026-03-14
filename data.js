@@ -363509,5 +363509,906 @@ const WORDS = [
 			]
 		},
 		"example": "Quantum mechanics defies non-quantum intuition."
+	},
+	{
+		"id": "ess_concept",
+		"word": "ESS (Stability)",
+		"meaning": "進化（しんか）的に安定（あんてい）な戦略",
+		"etymology": [
+			"Evolutionary",
+			"Stable",
+			"Strategy"
+		],
+		"concept": "The unbeatable strategy",
+		"thinking": "もし全員がその戦略をとっているなら、いかなる「はみ出し者（突然変異）」も侵入して増えることができない。一度定まったら揺るがない、生命たちが長い年月をかけて辿り着いた究極の『答え』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "hawk_dove_mod",
+		"word": "Hawk-Dove",
+		"meaning": "タカ・ハト・ゲーム",
+		"etymology": [
+			"Hawk",
+			"Dove"
+		],
+		"concept": "Conflict vs Cooperation",
+		"thinking": "「タカ」として奪い合うか、「ハト」として譲り合うか。資源を巡る剥き出しの闘争。どちらが良いかは、相手が、そして群れ全体がどう動いているかに依存するという、相対的な生存の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "replicator_dyn",
+		"word": "Replicator",
+		"meaning": "自己複製子（じこふくせいし）",
+		"etymology": [
+			"Latin replicare (to fold back/repeat)"
+		],
+		"concept": "Information that copies itself",
+		"thinking": "「繰り返し（Re-）」「折り畳む（Plicare）」。自らの情報を模倣し、次世代へと繋いでいくもの。遺伝子、あるいはミーム。彼らはただ、自分が残るために世界を舞台にする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "fitness_landsc",
+		"word": "Fitness Land",
+		"meaning": "適応度（てきおうど）地形",
+		"etymology": [
+			"Fitness",
+			"Landscape"
+		],
+		"concept": "The geometry of survival",
+		"thinking": "高い場所ほど生存に有利な「地形」。生命は試行錯誤（進化）を繰り返し、地上のどん底から、繁栄という名の「峰」へと登り詰めようとする、壮大な幾何学的な挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "local_optima",
+		"word": "Local Optima",
+		"meaning": "局所的最適解（きょくしょてきさいてきかい）",
+		"etymology": [
+			"Latin locus",
+			"Optimus"
+		],
+		"concept": "Stuck on a small peak",
+		"thinking": "目の前の丘を登り切ったが、その向こうにはもっと高い山がある。しかし、一度登ってしまえば、今さら降りて別の山へ向かうことは難しい。生物が陥る、進化の「袋小路」の悲劇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "inclusive_fit",
+		"word": "Inclusive Fit",
+		"meaning": "包括（ほうかつ）適応度",
+		"etymology": [
+			"In- + claudere (to shut in)"
+		],
+		"concept": "Success through relatives",
+		"thinking": "自分だけが生き残るのではない。自分と同じ『種（遺伝子）』を持つ仲間を「中に（In-）」「閉じ込めて（Claudere）」護る。他人の子供を育てる愛の背後に潜む、冷徹な遺伝の計算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "kin_selection",
+		"word": "Kin Selection",
+		"meaning": "血縁淘汰（けつえんとうた）",
+		"etymology": [
+			"Kin (relation) + Selection"
+		],
+		"concept": "Helping one's own blood",
+		"thinking": "「親族（Kin）」を手助けすることが、巡り巡って自分の遺伝子を残すことに繋がる。犠牲的な愛の根源にある、血の繋がりの論理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "hamiltons_rule",
+		"word": "Hamilton Rule",
+		"meaning": "ハミルトンの法則",
+		"etymology": [
+			"Hamilton"
+		],
+		"original_statement": "rB > C (relatedness * benefit > cost).",
+		"concept": "The accounting of altruism",
+		"thinking": "他者のために払う「代償（C）」よりも、血の繋がりによる「利益（rB）」が大きければ、愛は進化する。心を数式で暴く、あまりに美しく、あまりに冷酷な方程式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "reciprocity_ev",
+		"word": "Reciprocity",
+		"meaning": "互恵性（ごけいせい）",
+		"etymology": [
+			"Latin reciprocus (returning)"
+		],
+		"concept": "Mutual benefit over time",
+		"thinking": "「お返し（Reciprocus）」。今は損をしても、いつか相手が返してくれる。その信頼の貯金が、血縁を越えた『協力』という名の奇跡を社会に生み出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "indirect_recip",
+		"word": "Indirect Reci",
+		"meaning": "間接（かんせつ）的互恵性",
+		"etymology": [
+			"Indirect",
+			"Reciprocity"
+		],
+		"concept": "Reputation-based helping",
+		"thinking": "自分が助けた相手からではなく、それを見ていた「別の人」から助けられる。評判という目に見えない通貨が、善意を宇宙全体へと循環させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "tit_for_tat_ev",
+		"word": "Tit-for-Tat",
+		"meaning": "しっぺ返し戦略（進化）",
+		"etymology": [
+			"This for That"
+		],
+		"concept": "Iterative cooperation",
+		"thinking": "「そっちがやるなら、こっちもやる」。裏切りには罰を、協力には喜びを。単純な模倣が、カオスな闘争を平和な均衡へと導く、最も強靭な和解の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "greenbeard_eff",
+		"word": "Greenbeard",
+		"meaning": "緑（みどり）のひげ効果",
+		"etymology": [
+			"Green + Beard"
+		],
+		"concept": "Signal of cooperation",
+		"thinking": "「緑のひげ」という目印を持つ者同士だけを助ける。血縁さえも越えて、ただ『自分と同じ属性』を持つ者を見捨てない。属性という名の、もう一つの血の結束。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "niche_construc",
+		"word": "Niche Const",
+		"meaning": "ニッチ構築（こうちく）",
+		"etymology": [
+			"Old French niche (nest) + Latin struere"
+		],
+		"concept": "Evolving the environment",
+		"thinking": "生命はただ環境に合わせるのではない。自ら「巣（Niche）」を「積み上げ（Struere）」、世界の方を自分に合うように作り変える。生命と環境の、終わりのない共創。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "parental_inv",
+		"word": "Parental Inv",
+		"meaning": "親（おや）の投資（とうし）",
+		"etymology": [
+			"Latin parentis",
+			"Invest (to clothe)"
+		],
+		"concept": "Cost of raising offspring",
+		"thinking": "一人の子供に、どれほどの情熱と命（資源）を「着せかける（Invest）」か。その一滴の雫が、次世代の命運を分ける。一途な献身か、それとも数による散布か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "sex_allocatio",
+		"word": "Sex Allocat",
+		"meaning": "性比配分（せいひはいぶん）",
+		"etymology": [
+			"Sex + Latin ad- + locare"
+		],
+		"concept": "Strategy of male vs female",
+		"thinking": "息子を産むか、娘を産むか。周囲の状況を見て、最も次世代に命を繋ぎやすい方へ「配置（Allocate）」する。生命の最も根源的な戦略的賭け。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "handicap_prin",
+		"word": "Handicap Prin",
+		"meaning": "ハンディキャップ理論",
+		"etymology": [
+			"Handicap"
+		],
+		"concept": "Honesty in advertising",
+		"thinking": "「私はこれほど無駄な装飾（ハンディ）を負っても生き残れるほど強い」。あえて不利な状況を見せつけることで、自分の真の価値（質）を信じさせる、命がけの誇示。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "costly_signal",
+		"word": "Costly Signal",
+		"meaning": "高（たか）いコストの信号",
+		"etymology": [
+			"Costly",
+			"Latin signum"
+		],
+		"concept": "Proof through sacrifice",
+		"thinking": "嘘をつくには「代償（Cost）」が大きすぎる信号だけが、真実として受け取られる。痛みや無駄を伴うことでしか証明できない、本物の誠実さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "runaway_selec",
+		"word": "Runaway Sel",
+		"meaning": "ランナウェイ淘汰（とうた）",
+		"etymology": [
+			"Run away"
+		],
+		"concept": "Extreme evolution",
+		"thinking": "「逃げ出す」ように加速する進化。オスの羽が美しいからメスが選ぶ、選ばれるからさらに美しくなる。制御不能な美の暴走が、時に命を滅ぼすほどの華やかさを生む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "sexual_select",
+		"word": "Sexual Selec",
+		"meaning": "性淘汰（せいとうた）",
+		"etymology": [
+			"Latin sexus (division)"
+		],
+		"concept": "Compete for mates",
+		"thinking": "「分かたれた（Sexus）」相手を求めるための闘争。生き残るためではなく、選ばれるための進化。美しさと力強さが、血という名の奔流となって未来へと注がれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "intrasexual",
+		"word": "Intrasexual",
+		"meaning": "同性間（どうせいかん）淘汰",
+		"etymology": [
+			"Latin intra- (within)"
+		],
+		"concept": "Male vs Male competition",
+		"thinking": "「同じ性（Intra-sex）」の間での、激しいぶつかり合い。誰が最も強いか、誰が最も相応しいか。選ばれるための、終わりなき戦いの舞台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "intersexual_s",
+		"word": "Intersexual",
+		"meaning": "異性間（いせいかん）淘汰",
+		"etymology": [
+			"Latin inter- (between)"
+		],
+		"concept": "Choice between sexes",
+		"thinking": "「性別をまたいだ（Inter-sex）」駆け引き。魅了し、選別する。一方の欲望が、もう一方の貌を劇的に変えていく、愛という名の進化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "honest_signall",
+		"word": "Honest Signal",
+		"meaning": "正直（しょうじき）な信号",
+		"etymology": [
+			"Honor",
+			"Signal"
+		],
+		"concept": "Truthful information exchange",
+		"thinking": "偽ることができない、剥き出しの真実の叫び。その信号を受け取ったとき、疑いは消え、命と命が真に共鳴し始める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "deceptive_sig",
+		"word": "Deceptive Sig",
+		"meaning": "欺瞞（ぎまん）的信号",
+		"etymology": [
+			"Latin de- + capere (to catch)"
+		],
+		"concept": "Lying for survival",
+		"thinking": "「捕らえよう（Capere）」として相手を「欺く（Deceive）」。身を守るための擬態、餌を釣るための偽の光。言葉以前の世界に満ちる、生き残るための嘘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "coevolution_p",
+		"word": "Coevolution",
+		"meaning": "共進化（きょうしんか）",
+		"etymology": [
+			"Latin con- (together) + evolutio"
+		],
+		"concept": "Evolving together",
+		"thinking": "「共に（Con-）」旅をする。花と蝶、捕食者と獲物。一方が変われば他方も変わり、互いの貌を彫琢し合いながら、永遠の螺旋を登り続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "arms_race_ev",
+		"word": "Arms Race",
+		"meaning": "進化（しんか）の軍拡競争",
+		"etymology": [
+			"Arms",
+			"Race"
+		],
+		"concept": "Red Queen hypothesis",
+		"thinking": "「止まっているためには、走り続けなければならない（赤の女王）」。相手が強くなるなら、自分も強くならざるを得ない。平和な停滞は許されず、常に全力で駆け抜けなければ滅びるという、過酷な均衡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "symbiosis_ev",
+		"word": "Symbiosis",
+		"meaning": "共生（きょうせい）",
+		"etymology": [
+			"Greek syn- + bios"
+		],
+		"concept": "Living together for benefit",
+		"thinking": "「共に（Syn-）」「生きる（Bios）」。全く異なる命が、互いの欠けた部分を補い合い、一人では辿り着けなかった高み（幸福）を共有する結託。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "mutualism_ev",
+		"word": "Mutualism",
+		"meaning": "相利共生（そうりきょうせい）",
+		"etymology": [
+			"Latin mutuus (exchanged)"
+		],
+		"concept": "Both benefit",
+		"thinking": "「交換し合う（Mutuus）」喜び。どちらの命も豊かになるための、命がけの協力。それは打算を超えた、宇宙的な調和の断片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "parasitism_ev",
+		"word": "Parasitism",
+		"meaning": "寄生（きせい）",
+		"etymology": [
+			"Greek para- + sitos (food)"
+		],
+		"concept": "Living off another",
+		"thinking": "「そばで（Para-）」「飯（Sitos）」を食う。相手を糧にして、自らだけを繁栄させる。美しくはないが、あまりに効率的で、あまりに切実な生への執着。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "selfish_gene",
+		"word": "Selfish Gene",
+		"meaning": "利己的（りこてき）遺伝子",
+		"etymology": [
+			"Selfish",
+			"Gene"
+		],
+		"concept": "The survival of info",
+		"thinking": "人間は遺伝子の「乗り物」に過ぎないという戦慄の知恵。個体の幸福や死など構わず、ただ情報としての『自分』を未来へコピーし続けようとする、意思なき情報の執念。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "phenotype_ext",
+		"word": "Extended Pheno",
+		"meaning": "延長（えんちょう）された表現型",
+		"etymology": [
+			"Extend + Phenotype"
+		],
+		"concept": "Gene's effect outside body",
+		"thinking": "遺伝子の影響は「肉体」の中だけに留まらない。ビーバーのダム、鳥の巣、あるいは人の文明。世界に刻まれたそのすべての『形』が、遺伝子の支配する舞台装置であるという驚き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "group_select_p",
+		"word": "Group Select",
+		"meaning": "集団淘汰（しゅうだんとうた）",
+		"etymology": [
+			"Group",
+			"Selection"
+		],
+		"concept": "Succes of the whole colony",
+		"thinking": "個人の利益よりも、「群れ（Group）」全体の繁栄が優先される進化。利他的な者が多い集団が、利己的な集団を打ち負かしていく、連帯の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "multilevel_sel",
+		"word": "Multilevel Sel",
+		"meaning": "マルチレベル淘汰",
+		"etymology": [
+			"Multi- + Level"
+		],
+		"concept": "Conflict between levels",
+		"thinking": "「個」としての利益と、「集団」としての利益。複数の「階層（Level）」で同時に働く進化の力が、一人の人間の中に、葛藤という名の豊かさを生み出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "evolutionary_l",
+		"word": "Darwinian Lag",
+		"meaning": "進化的（しんかてき）な遅れ",
+		"etymology": [
+			"Darwin",
+			"Lag"
+		],
+		"concept": "Unfit for modern world",
+		"thinking": "何万年もかけて磨き上げた「本能」が、あまりに速く変わる現代社会に追い付けず、「ズレ（Lag）」てしまう。私たちの悩みや病の多くは、この時差が生んだ悲鳴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "altruistic_p",
+		"word": "Altruistic Pu",
+		"meaning": "利他（りた）的罰",
+		"etymology": [
+			"Altruistic",
+			"Punishment"
+		],
+		"concept": "Punishing cheaters at a cost",
+		"thinking": "自分が損をしてまでも、ルールを破る者を「罰する」。その正義の怒りが、自分勝手な振る舞いを牽制し、社会という名の巨大な共同体を護り抜く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "tragedy_unshel",
+		"word": "Shelter Tragedy",
+		"meaning": "隠れ場の悲劇",
+		"etymology": [
+			"Shelter",
+			"Tragedy"
+		],
+		"concept": "Risk in safety",
+		"thinking": "皆が安全な「隠れ場」を求めすぎた結果、そこが過密になり、結局は全員が危険に晒される。安全への渇望が生み出す、皮肉な自滅の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "signaling_cost",
+		"word": "Signaling Cost",
+		"meaning": "信号（しんごう）コスト",
+		"etymology": [
+			"Signal",
+			"Cost"
+		],
+		"concept": "The price of message",
+		"thinking": "言葉に重みを持たせるための「代償」。そのコストが、偽りなき真実の価値を保証する。代償なき言葉は、風に吹かれて消えるだけの虚無である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "biological_mar",
+		"word": "Biological Mar",
+		"meaning": "生物学（せいぶつがく）的市場",
+		"etymology": [
+			"Biological",
+			"Market"
+		],
+		"concept": "Trading services in nature",
+		"thinking": "自然界にも「市場」はある。毛づくろい（サービス）と食料（資源）の交換。需要と供給のバランスが、命たちの間の不文律の相場を決める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "optimal_forage",
+		"word": "Optimal Forag",
+		"meaning": "最適（さいてき）採餌理論",
+		"etymology": [
+			"Optimum",
+			"Forage"
+		],
+		"concept": "Max energy per time",
+		"thinking": "いかに効率よく「餌（Forage）」を「探す」か。移動の時間と、得られるエネルギーの天秤。生命の毎分毎秒は、生き残るための冷徹なエネルギー計算に晒されている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "search_cost_ev",
+		"word": "Search Cost",
+		"meaning": "探索（たんさく）コスト",
+		"etymology": [
+			"Search + Cost"
+		],
+		"concept": "Price of finding info",
+		"thinking": "探すこと自体に「代償」がかかる。最高の相手を探し続けて餓死するよりも、良きところで妥協する。有限な命が選ぶ、満足という名の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "cultural_evolu",
+		"word": "Cultural Evol",
+		"meaning": "物的・文化（ぶんか）的進化",
+		"etymology": [
+			"Culture",
+			"Evolution"
+		],
+		"concept": "Evolution of ideas",
+		"thinking": "遺伝子を超えて、言葉や技術が「進化」する。優れたミームが生き残り、世界を覆い尽くす。肉体なき命が、人類の脳を住処にして駆け巡る壮大なスペクタクル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "vertical_trans",
+		"word": "Vertical Trans",
+		"meaning": "垂直（すいちょく）伝播",
+		"etymology": [
+			"Latin verticalis (vertex/overhead)"
+		],
+		"concept": "Passing info to offspring",
+		"thinking": "「真上（Vertex）」から下へ。親から子へ、世代を越えて受け継がれる情報の滝。積み上げられた「過去」が、そのまま「未来」へと注がれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "horizontal_tra",
+		"word": "Horizontal Tr",
+		"meaning": "水平（すいへい）伝播",
+		"etymology": [
+			"Latin horizontalis (horizon)"
+		],
+		"concept": "Passing info to peers",
+		"thinking": "「地平線（Horizon）」に沿って。血の繋がりを越え、隣の誰かから、あるいは敵からさえも情報を盗み、学び取る。爆発的な変化を巻き起こす、越境する智慧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "mismatch_theory",
+		"word": "Mismatch Theo",
+		"meaning": "ミスマッチ理論",
+		"etymology": [
+			"Mis- + Match"
+		],
+		"concept": "Incompatibility with current age",
+		"thinking": "「合っていない（Mis-match）」。サバンナで生きるために磨いた私たちの心と体が、アスファルトの上で悲鳴を上げている。古代の魂が、現代という迷宮を彷徨う悲劇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
+	},
+	{
+		"id": "evolutionary_psych",
+		"word": "Evol Psych",
+		"meaning": "進化心理学（しんかしんりがく）",
+		"etymology": [
+			"Evolutionary",
+			"Psychology"
+		],
+		"concept": "Mind shaped for survival",
+		"thinking": "心もまた、生存という名の「淘汰の篩」にかけられてきた。なぜ人を愛し、なぜ蛇を恐れるのか。私たちの複雑な感情のすべては、かつて生き残るために必要だった武器の残響。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の駆け引きを、進化の眼差しで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化ゲーム理論の深淵へ。"
+			]
+		},
+		"example": "Evolutionary stability ensures survival."
 	}
 ];
