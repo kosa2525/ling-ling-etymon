@@ -395073,5 +395073,725 @@ const WORDS = [
 			]
 		},
 		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "game_theory_",
+		"word": "Game Theory",
+		"meaning": "ゲーム理論（りろん）",
+		"etymology": [
+			"Game + Greek theoria"
+		],
+		"concept": "Strategic interaction logic",
+		"thinking": "人生という名の複雑な「遊び」の「理（Theoria）」。自分一人の思惑ではなく、他者の出方を読み、互いの利益が交錯する一点を冷徹に予測する。社会という名の巨大な盤面を記述する、情報の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "rationality_",
+		"word": "Rationality",
+		"meaning": "合理（ごうり）性（せい）",
+		"etymology": [
+			"Latin ratio (reason/count)"
+		],
+		"concept": "Consistency with goals",
+		"thinking": "欲望の「計量（Ratio）」。己の目的を達成するために、最も効率的で矛盾のない手段を選び取ること。感情を捨て、数理に従って『貌』を整える、冷たい知性の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "nash_equilib",
+		"word": "Nash Equil",
+		"meaning": "ナッシュ均衡（きんこう）",
+		"etymology": [
+			"John Nash + Latin aequus + libra"
+		],
+		"concept": "Stable state where no one deviates",
+		"thinking": "「誰もが自分の戦略を変えるメリットがない」状態（貌）。互いに疑心暗鬼になり、あるいは妥協し、辿り着いた『静かなる膠着』。それは理想ではないかもしれないが、現実が最後には必ず吸い寄せられる、冷酷な安定の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "zero_sum_ad",
+		"word": "Zero-Sum",
+		"meaning": "ゼロサム・ゲーム",
+		"etymology": [
+			"Zero + Sum"
+		],
+		"concept": "Fixed pie gain = loss",
+		"thinking": "利益の「合計（Sum）」が「ゼロ」。誰かの喜びが、必ず誰かの悲しみ（損失）の上に成り立つ、過酷な略奪の戦場。妥協を許さぬ、奪い合いの理論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "cooperation_",
+		"word": "Cooperat (G)",
+		"meaning": "協調（きょうちょう） (ゲーム理論)",
+		"etymology": [
+			"Latin con- + operari (to work together)"
+		],
+		"concept": "Working together for gain",
+		"thinking": "「共に（Con-）」「働く（Operate）」。裏切りの方が短期的な得だとしても、繰り返される未来を見越して『信頼』という名の賭けに出ること。進化が産んだ、高度な戦略적慈悲の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "defection_ad",
+		"word": "Defection",
+		"meaning": "裏切り（うらぎり）、離反（りはん）",
+		"etymology": [
+			"Latin de- + facere (to undo/make away)"
+		],
+		"concept": "Breaking cooperation for self-gain",
+		"thinking": "「行い（Face）」から「離れる（De-）」。信じていた絆を断ち切り、自分一人の利益のために相手を奈落へと突き落とす。短期的な成功を約束するが、孤独と復讐の種を撒く、禁断の果実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "evolutionary",
+		"word": "Evo Game T",
+		"meaning": "進化（しんか）ゲーム理論（りろん）",
+		"etymology": [
+			"Evolution + Game Theory"
+		],
+		"concept": "Survival of strategic traits",
+		"thinking": "戦略は「考え」ではなく、「遺伝子」に刻まれる。うまくいく戦略（貌）を持った者だけが生き残り、世界を埋め尽くす。文化や生物の進化を、数理の刃で切り刻む、冷徹な自然学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "ess_biology_",
+		"word": "ESS (Evo)",
+		"meaning": "進化（しんか）的（てき）安定（あんてい）戦略（せんりゃく） (ESS)",
+		"etymology": [
+			"Evolutionarily Stable Strategy"
+		],
+		"concept": "Strategy uninvadable by mutants",
+		"thinking": "どんな「新参者（突然変異）」が現れても、決して権威を奪われない、究極の安定戦略。集団全体の運命を支配する、揺るぎなき『掟』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "mixed_strate",
+		"word": "Mixed Stra",
+		"meaning": "混合（こんごう）戦略（せんりゃく）",
+		"etymology": [
+			"Mixed + Greek strategos"
+		],
+		"concept": "Randomized strategy",
+		"thinking": "「ランダム」を戦略にする。相手に読まれないために、自らサイコロを振り、予測不能な『貌』を演じ続ける。計算された混沌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "perfect_inf_",
+		"word": "Perf Info",
+		"meaning": "完全（かんぜん）情報（じょうほう）",
+		"etymology": [
+			"Perfect + Information"
+		],
+		"concept": "Knowing all prior moves",
+		"thinking": "相手の過去の動き、すべての可能性が白日の下に晒されている状態。チェスのような、隠しごとのない、純粋な知力と知力の激突。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "asymmetric_i",
+		"word": "Info Asym",
+		"meaning": "情報（じょうほう）の非対称（ひたいしょう）性（せい）",
+		"etymology": [
+			"Information + Asymmetric"
+		],
+		"concept": "One party has more info",
+		"thinking": "「知っている者」と「知らない者」の格差。中古車の売り手と買い手、医者と患者。この情報の『歪み（貌）』をいかにして利用し、あるいは解消するかが、経済という名のドラマの核心である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "adverse_sele",
+		"word": "Adv Select",
+		"meaning": "逆（ぎゃく）選択（せんたく）",
+		"etymology": [
+			"Latin adversus (turned against) + Select"
+		],
+		"concept": "Market fails due to poor info",
+		"thinking": "情報が歪んでいるせいで、質の高いものが駆逐され、粗悪なもの（レモン）ばかりが市場に残る「逆（Adverse）」の淘汰。信頼という名の絆が断たれた、壊れた市場の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "signaling_ad",
+		"word": "Signaling",
+		"meaning": "シグナリング",
+		"etymology": [
+			"Latin signum (mark/sign)"
+		],
+		"concept": "Credible info transfer",
+		"thinking": "自分が「本物」であることを証明するために、あえて高いコスト（学歴や派手な求愛）を払って「しるし（Sign）」を見せる。言葉よりも重い、身銭を切った情報の開示（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "screening_ad",
+		"word": "Screening",
+		"meaning": "スクリーニング、選別（せんべつ）",
+		"etymology": [
+			"Old English sciernan (to separate)"
+		],
+		"concept": "Inducing private info reveal",
+		"thinking": "「 sieve（ふるい）」にかける。相手に特定の選択肢を選ばせることで、隠された真実（能力や本性）を無理やり吐き出させる、情報の罠の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "altruism_eco",
+		"word": "Altruism",
+		"meaning": "利他主義（りたしゅぎ） (経済学)",
+		"etymology": [
+			"Latin alter (other)"
+		],
+		"concept": "Desire to help others",
+		"thinking": "「その他者（Alter）」のために、自らの利益を削る。ホモ・エコノミクス（合理的経済人）という冷たい虚構を打ち破る、人間が持つ温かくも不合理な、しかし本質的な連帯の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "prospect_the",
+		"word": "Prospect Th",
+		"meaning": "プロスペクト理論（りろん）",
+		"etymology": [
+			"Latin prospectus (outlook)"
+		],
+		"concept": "Decisions under risk/loss",
+		"thinking": "私たちは「得る喜び」よりも「失う痛み」を二倍も重く感じる。合理的な計算ではなく、感情という名のレンズが生み出す「見通し（Prospect）」に従って未来を選ぶ、歪んだ、しかし愛おしい理性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "loss_aversio",
+		"word": "Loss Avers",
+		"meaning": "損失（そんしつ）回避（かいひ）",
+		"etymology": [
+			"Loss + Latin a- + vertere (to turn away)"
+		],
+		"concept": "Preference for avoiding losses",
+		"thinking": "失うことを「嫌（Avers-）」がるために、チャンスを逃し、あるいは泥沼に嵌まる。変化を恐れる私たちの本能。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "anchoring_ad",
+		"word": "Anchoring",
+		"meaning": "アンカリング",
+		"etymology": [
+			"Anchor (Greek agkura)"
+		],
+		"concept": "Relying on first info",
+		"thinking": "最初に提示された数字が、心の「錨（Anchor）」となって、後の判断を縛り付ける。比較の基準を支配することで、相手の価値観を意のままに操る、情報の呪縛の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "nudge_theory",
+		"word": "Nudge",
+		"meaning": "ナッジ、そっと後押（あとお）しすること",
+		"etymology": [
+			"Middle English nugge (to push gently)"
+		],
+		"concept": "Gently steering choices",
+		"thinking": "命令ではなく、そっと「肘でつつく（Nudge）」ように、相手が自律的に『望ましい選択』をするよう環境を整える。洗練された誘導。支配を感じさせない、柔らかな統治の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "choice_archi",
+		"word": "Choice Arch",
+		"meaning": "選択（せんたく）の設計（せっけい）",
+		"etymology": [
+			"Choice + Greek arkhi- + tekton (builder)"
+		],
+		"concept": "Design of decision context",
+		"thinking": "選択肢をどう並べるか。その「建築（Architecture）」が、人々の人生を決定する。自由意志という幻想の背後で、環境が『貌』を作っているという冷厳な事実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "bounded_rat_",
+		"word": "Bound Ratio",
+		"meaning": "限定（げんてい）合理（ごうり）性（せい） (経済)",
+		"etymology": [
+			"Bound + Ratio"
+		],
+		"concept": "Rationality within cognitive limits",
+		"thinking": "私たちは全知全能ではない。記憶も計算力も「限られて（Bound）」いる。その狭い檻の中で、満足できる答えを必死に探す、美しくも卑小な人間らしい理性の限界（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "satisficing_",
+		"word": "Satisficing",
+		"meaning": "満足化（まんぞくか）、サティスファイシング",
+		"etymology": [
+			"Satisfy + Suffice"
+		],
+		"concept": "Settling for good enough",
+		"thinking": "「最高」を求めるのではなく、自分なりに「十分（Suffice）」で「満足（Satisfy）」できる一点を見つける。無限の計算から、自分を解放するための賢明な妥協の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "status_quo_b",
+		"word": "Status Quo",
+		"meaning": "現状（げんじょう）維持（いじ）バイアス",
+		"etymology": [
+			"Latin status quo (the state in which)"
+		],
+		"concept": "Preference for current state",
+		"thinking": "「今のまま（Status Quo）」が良い。変化にはリスクがある。正しかろうが間違っていようが、慣れ親しんだ地獄を選ぶ、止まった魂の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "endowment_ef",
+		"word": "Endowment",
+		"meaning": "保有（ほゆう）効果（こうか）",
+		"etymology": [
+			"Latin in- + dotare (to gift)"
+		],
+		"concept": "Valuing what one owns higher",
+		"thinking": "自分の手元にある（Giftされた）というだけで、その価値を過大に評価してしまう。自分の一部となったものへの、不合理な執着と愛情の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "sunk_cost_fa",
+		"word": "Sunk Cost",
+		"meaning": "サンクコスト（埋没費用）の誤謬（ごびゅう）",
+		"etymology": [
+			"Sunk + Latin costa (rib/side)"
+		],
+		"concept": "Continuing due to past waste",
+		"thinking": "すでに「沈んで（Sunk）」しまった過去の犠牲（コスト）を惜しむあまり、未来のさらなる破滅を選び取ってしまう。過去に縛られ、未来を見失う、時間の罠に嵌まった貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "game_design_",
+		"word": "Incenti Des",
+		"meaning": "インセンティブ設計（せっけい）、メカニズムデザイン",
+		"etymology": [
+			"Latin in- + canere (to sing/sound)"
+		],
+		"concept": "Setting rules to align goals",
+		"thinking": "人々を動かすための「調べ（Incentive）」を奏でる。個人の欲望を解き放ちながら、それが不思議と全体の幸福へと繋がるように『掟（ゲームのルール）』を建築する。数理によって社会を癒そうとする、理性の設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "free_rider_a",
+		"word": "Free Rider",
+		"meaning": "フリーライダー、タダ乗り",
+		"etymology": [
+			"Free + Rider"
+		],
+		"concept": "Benefiting without paying cost",
+		"thinking": "汗をかかずに、甘い蜜だけを吸う「タダ乗り（Rider）」。この存在が許されれば協力は崩壊する。共同体を影から蝕む、寄生的な賢さの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "reciprocity_",
+		"word": "Reciprocity",
+		"meaning": "互恵（ごけい）性（せい）",
+		"etymology": [
+			"Latin reciprocus (returning/alternating)"
+		],
+		"concept": "Giving back as received",
+		"thinking": "「受けたら返す（Reciprocus）」。恩には恩を、牙には牙を。この単純な交換の連鎖が、野生の弱肉強食を、文明という名の互助会（貌）へと変容させた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "ultimatum_ga",
+		"word": "Ultimatum",
+		"meaning": "最後通牒（さいごつうちょう）ゲーム",
+		"etymology": [
+			"Latin ultimatus (last/final)"
+		],
+		"concept": "Fairness vs pure gain",
+		"thinking": "「不当な分け前なら、ゼロの方がマシだ」。純粋な利益よりも『自尊心』や『公平性』を重んじる、人間という名の誇り高き、しかし不合理なプライドの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "dictator_gam",
+		"word": "Dictator Ga",
+		"meaning": "独裁者（どくさいしゃ）ゲーム",
+		"etymology": [
+			"Latin dictare (to say often/prescribe)"
+		],
+		"concept": "Measure of altruism/fairness",
+		"thinking": "何の罰も制限もない「独裁（Dictator）」の状況で、人はどれほど他者に分け与えるのか。権力が剥き出しになった時、初めて暴かれるその人の『本性の貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "intertempora",
+		"word": "Intertempor",
+		"meaning": "通（つう）時間（じかん）的（てき）選択（せんたく）",
+		"etymology": [
+			"Latin inter- + tempus (time)"
+		],
+		"concept": "Choices between now and later",
+		"thinking": "「今」の自分と「将来」の自分。異なる「時間（Tempus）」の間に「橋を架ける」選択。未来の自分をいかに一人の『他者』として愛し、尊重できるかという、理性の時間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "n_person_gam",
+		"word": "N-person G",
+		"meaning": "多人数（たにんずう）ゲーム",
+		"etymology": [
+			"N persons"
+		],
+		"concept": "Complexity of many players",
+		"thinking": "二人の対立（貌）を超え、無数の人間が絡み合う社会。派閥、裏切り、連帯.誰と組み、誰を捨てるか。カオスのあわいで産まれる、政治という名の高度な遊戯。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "correlated_e",
+		"word": "Correlated",
+		"meaning": "相関（そうかん）均衡（きんこう）",
+		"etymology": [
+			"Latin con- + relatus (brought together)"
+		],
+		"concept": "Equilibrium with external signal",
+		"thinking": "信号機のような、全員が従う「共通の合図」によって産まれる平和。独立した理性たちが、外部の『理』に自発的に服従する、秩序の高度な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "bounded_step",
+		"word": "K-step Think",
+		"meaning": "K段階（だんかい）思考（しこう）",
+		"etymology": [
+			"Step"
+		],
+		"concept": "How many levels of 'I think'",
+		"thinking": "「私は、あなたが、私が、と考えていることを……」。相手の裏の裏を、何段階まで読めるか。底なしの深淵。人間の知能の限界と、深読みしすぎて自滅する『思考の迷宮』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "bayesian_exp",
+		"word": "Bayesian G",
+		"meaning": "ベイズ・ゲーム",
+		"etymology": [
+			"Thomas Bayes"
+		],
+		"concept": "Game with incomplete info",
+		"thinking": "不完全な情報の中で、他者の「タイプ（貌）」を確率的に推測しながら進む。一歩進むごとに世界観を更新し、真実へと近づいていく、彷徨える理性の歩み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "principal_ag",
+		"word": "Prin-Agent",
+		"meaning": "本人（ほんにん）＝代理人（だいりにん）問題（もんだい）",
+		"etymology": [
+			"Latin principalis + agere"
+		],
+		"concept": "Incentive gap between boss/exec",
+		"thinking": "「頼む者（本人）」と「やる者（代理人）」。二人の利益がずれた時、代理人は密かに自分を優先する。情報の非対称性が産む、不信と監視という名の社会の『摩擦』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の数理を、戦略の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ゲーム理論と行動経済学の極致へ。"
+			]
+		},
+		"example": "Game theory analyzes strategic interactions between rational players."
 	}
 ];
