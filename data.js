@@ -355781,5 +355781,963 @@ const WORDS = [
 			]
 		},
 		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "zero_sum_game_adv",
+		"word": "Zero-sum Game",
+		"meaning": "ゼロサム・ゲーム",
+		"etymology": {
+			"components": [
+				"Zero",
+				"Sum"
+			],
+			"original_statement": "Mathematical representation of a situation in which each participant's gain or loss of utility is exactly balanced by the losses or gains of the other participants."
+		},
+		"concept": "Fixed pie conflict",
+		"thinking": "「合計がゼロ」。誰かの喜びが、必ず誰かの悲しみの上に成り立つ、パイの奪い合いの世界。共生も慈悲もない、純粋な利害の衝突。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "non_zero_sum",
+		"word": "Non-zero-sum",
+		"meaning": "非（ひ）ゼロサム",
+		"etymology": {
+			"components": [
+				"In- (not)",
+				"Zero",
+				"Sum"
+			],
+			"original_statement": "Situation where the interacting parties' aggregate gains and losses can be less than or more than zero."
+		},
+		"concept": "Mutual prosperity or ruin",
+		"thinking": "「合計がゼロではない」。協力すれば全員が得をし、裏切り合えば全員が損をする。社会や経済、そして生命が築き上げてきた、共創のロジック。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "dominant_strat",
+		"word": "Dominant Strat",
+		"meaning": "支配的戦略（しはいてきせんりゃく）",
+		"etymology": {
+			"components": [
+				"Latin dominus (master) + Strategy"
+			],
+			"original_statement": "A strategy that is best for a player in a game regardless of what strategies the other players use."
+		},
+		"concept": "The indisputable best move",
+		"thinking": "相手が「主人（Dominus）」としてどう出ようとも、自分にとって常に最善であり続ける揺るぎない選択。迷う余地のない、冷徹なまでの最適解。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "payoff_matrix_gt",
+		"word": "Payoff Matrix",
+		"meaning": "利得行列（りとくぎょうれつ）",
+		"etymology": [
+			"Payoff + Matrix"
+		],
+		"original_statement": "Table that shows the payoffs for each player's strategy.",
+		"concept": "The outcome landscape",
+		"thinking": "「支払われるもの（Pay-off）」の「母体（Matrix）」。あらゆる選択の結末を、一望できる表に閉じ込める。私たちの決断の後に控える、報酬と罰の全てを映し出す鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "minimax_strategy",
+		"word": "Minimax",
+		"meaning": "ミニマックス法",
+		"etymology": [
+			"Minimize",
+			"Maximum"
+		],
+		"original_statement": "Decision rule used in artificial intelligence and game theory for minimizing the maximum possible loss.",
+		"concept": "Defensive optimization",
+		"thinking": "「最悪の事態（Maximum）」を「最小限（Minimize）」に抑える。最善を追うのではなく、絶望を避けることに全神経を注ぐ、不屈の守備的知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "maximin_strategy",
+		"word": "Maximin",
+		"meaning": "マキシミン法",
+		"etymology": [
+			"Maximize",
+			"Minimum"
+		],
+		"original_statement": "Maximizing the minimum payoff.",
+		"concept": "The pessimistic best",
+		"thinking": "「最悪な結果（Minimum）」の中でも、一番マシなものを「最大化（Maximize）」する。どん底からの脱出を誓う、現実主義的な選択の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "mixed_strategy_gt",
+		"word": "Mixed Strategy",
+		"meaning": "混合（こんごう）戦略",
+		"etymology": [
+			"Mixed + Strategy"
+		],
+		"original_statement": "Assignment of a probability to each pure strategy.",
+		"concept": "Strategic unpredictability",
+		"thinking": "「混ぜ合わせる」。一つに決めず、確率という名のサイコロを振ることで、相手に手の内を読ませない。カオスを武器にする、高度な打算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "pure_strategy_gt",
+		"word": "Pure Strategy",
+		"meaning": "純粋（じゅんすい）戦略",
+		"etymology": [
+			"Latin purus"
+		],
+		"original_statement": "Provides a complete definition of how a player will play a game.",
+		"concept": "Unyielding commitment",
+		"thinking": "「汚れなき（Purus）」決断。迷いも確率も排し、ある状況下では必ず『これ』をすると定めた、一途で揺るぎない行動指針。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "pareto_optimally",
+		"word": "Pareto Optimal",
+		"meaning": "パレート最適（さいてき）",
+		"etymology": [
+			"Pareto"
+		],
+		"original_statement": "Situation where no individual can be made better off without making at least one individual worse off.",
+		"concept": "The limit of collective welfare",
+		"thinking": "誰かの幸せを削ることなしには、もはや誰も幸せにできない「究極の分配」。全員が納得せざるを得ない、効率的な妥協の最果て。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "social_dilemma_gt",
+		"word": "Social Dilemma",
+		"meaning": "社会的（しゃかいてき）ジレンマ",
+		"etymology": [
+			"Socius + Dilemma"
+		],
+		"original_statement": "Collective action problem where individuals' rational choices lead to collective irrationality.",
+		"concept": "The conflict of the individual and the whole",
+		"thinking": "「仲間（Socius）」を思う心と、自分の理屈。一人一人の『正しさ』が積み重なり、全体としては『破滅』を招いてしまうという、文明の悲劇的矛盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "tragedy_commons",
+		"word": "Tragedy Commons",
+		"meaning": "共有地（きょうゆうち）の悲劇",
+		"etymology": [
+			"Greek tragoidia (goat song) + Common"
+		],
+		"original_statement": "Economic problem in which every individual has an incentive to consume a resource at the expense of every other individual.",
+		"concept": "The exhaustion of the shared",
+		"thinking": "「みんなの（Common）」ものは、誰のものでもない。だからこそ、皆が奪い合い、結果として豊かな牧草地（共有地）を死に追いやる、理性の皮肉な結末。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "stackelberg_model",
+		"word": "Stackelberg",
+		"meaning": "シュタッケルベルグ・モデル",
+		"etymology": [
+			"Stackelberg"
+		],
+		"original_statement": "Strategic game where a leader moves first and a follower moves second.",
+		"concept": "The advantage of the leader",
+		"thinking": "「先駆者」が先に動くことで、後に続く者の選択を縛り、世界を自分に都合いい貌へと作り変えてしまう、先行者の圧倒的な支配力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "backwards_induct",
+		"word": "Back Induction",
+		"meaning": "後向き推論（うしろむきすいろん）",
+		"etymology": [
+			"Backward",
+			"Latin inducere (to lead in)"
+		],
+		"original_statement": "Iterative process of reasoning backwards in time to determine optimal actions.",
+		"concept": "Planning from the end",
+		"thinking": "「結末（ゴール）」から遡り、そこへ辿り着くための『今』の最善を導き出す。時間を逆行する論理の瞳。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "cournot_equilib",
+		"word": "Cournot",
+		"meaning": "クールノー競争（きょうそう）",
+		"etymology": [
+			"Cournot"
+		],
+		"original_statement": "Economic model used to describe an industry structure in which companies compete on the amount of output.",
+		"concept": "Competition by volume",
+		"thinking": "「量」で殴り合う。相手がどれだけ作るかを見越して、自分の最適な生産量を決め、市場の均衡を探る、冷徹な商人たちの暗闘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "bertrand_equilib",
+		"word": "Bertrand",
+		"meaning": "ベルトラン競争",
+		"etymology": [
+			"Bertrand"
+		],
+		"original_statement": "Competition on price rather than quantity.",
+		"concept": "The price war race to bottom",
+		"thinking": "「価格」で競い合う。一円でも安く。その執念が、最終的には利益が消える剥き出しの限界（価格＝限界費用）へと自分たちを追い詰めていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "mechanism_design",
+		"word": "Mech Design",
+		"meaning": "メカニズム・デザイン",
+		"etymology": [
+			"Greek mekhane + Latin designare"
+		],
+		"original_statement": "Art of designing rules of a game to achieve a specific outcome.",
+		"concept": "Reverse game theory",
+		"thinking": "「欲望（プレイヤーの利益）」を「仕組み（Mekhane）」によって手懐け、誰もが正直に、かつ最善に振る舞わざるを得ないような、完璧な世界のルールを『設計（Design）』する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "revelation_princ",
+		"word": "Revelation Prin",
+		"meaning": "顕示原理（けんじげんり）",
+		"etymology": [
+			"Latin revelatio (revealing)"
+		],
+		"original_statement": "Principle in mechanism design stating that any market outcome can be achieved as long as participants report their preferences truthfully.",
+		"concept": "The honesty of the market",
+		"thinking": "「隠されていたこと（暗黙の望み）」を「明らかに（Reveal）」すること。真実を語ることが自分にとっても得になるような、魔法のような仕組みの可能性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "vickrey_auction",
+		"word": "Vickrey Auction",
+		"meaning": "ヴィックリー・オークション",
+		"etymology": [
+			"Vickrey"
+		],
+		"original_statement": "Sealed-bid auction where the highest bidder wins but pays the second-highest price.",
+		"concept": "Encouraging true value bids",
+		"thinking": "勝つのは最高額を出した者だが、支払うのは「二番目」の額。駆け引きを無意味にし、自分の『本物の評価額』を一文字も偽らずに書かせるための、賢き制度設計。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "cheap_talk_gt",
+		"word": "Cheap Talk",
+		"meaning": "チープトーク",
+		"etymology": [
+			"Cheap",
+			"Talk"
+		],
+		"original_statement": "Communication which does not directly affect the payoffs of the game.",
+		"concept": "Non-binding signals",
+		"thinking": "「安い、裏付けのない言葉」。嘘をついても罰せられない、保証のない約束。しかしその響きの中に、相手の『意図』や『真実』を嗅ぎ取ろうとする、際限のない心理戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "signaling_theory",
+		"word": "Signaling",
+		"meaning": "シグナリング理（り）論",
+		"etymology": [
+			"Latin signum (mark/sign)"
+		],
+		"original_statement": "One party credibly conveys information about itself to another party.",
+		"concept": "Costly honesty",
+		"thinking": "「しるし（Signum）」を送ることで、自分の価値を証明する。あえて高い『コスト（代償）』を支払うことで、嘘ではないこと（本物であること）を相手の脳に刻み込む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "adverse_selection",
+		"word": "Adverse Select",
+		"meaning": "逆淘汰（ぎゃくとうた）、逆選択",
+		"etymology": [
+			"Latin adversus + Selection"
+		],
+		"original_statement": "Process in which undesired results occur when buyers and sellers have asymmetric information.",
+		"concept": "Market collapse due to secrets",
+		"thinking": "「自分に逆らう（Ad-versus）」淘汰。本当の質（情報）を隠す者が集まると、誠実な者は消え、最後には質の悪いものだけが残り、市場が死に絶えるという悪循環。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "moral_hazard_gt",
+		"word": "Moral Hazard",
+		"meaning": "モラル・ハザード、倫理崩壊",
+		"etymology": [
+			"Latin moralis + Arabic az-zahr (die/chance)"
+		],
+		"original_statement": "Lack of incentive to guard against risk where one is protected from its consequences.",
+		"concept": "Irresponsibility through safety",
+		"thinking": "「守られている（保険をかけている）」という安心が、人から「慎重さ（倫理）」を奪い、無謀な賭けへと走らせる、救いなき心の緩み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "perfect_bayesian",
+		"word": "Bayesian Equil",
+		"meaning": "ベイジアン均衡",
+		"etymology": [
+			"Bayes"
+		],
+		"original_statement": "Equilibrium in games of incomplete information using Bayesian updates.",
+		"concept": "Belief-driven balance",
+		"thinking": "中身の見えない箱を前に、自分の「信じる確率（信念）」を頼りに決断し、相手の出方を見てその信念を更新し続ける、霧の中の合理性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "repeated_game_adv",
+		"word": "Repeated Game",
+		"meaning": "反復（はんぷく）ゲーム",
+		"etymology": [
+			"Latin repetere"
+		],
+		"original_statement": "Extensive form game that consists of a number of repetitions of some base game.",
+		"concept": "History as a sanction",
+		"thinking": "「再び（Re-）」「求める（Petere）」。一度きりの裏切りは許されず、明日もまた顔を合わせる。だからこそ、孤独な戦いは、互いを思いやる『協力』へと昇華せざるを得ない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "tit_for_tat_strat",
+		"word": "Tit-for-Tat",
+		"meaning": "しっぺ返し（がえし）戦略",
+		"etymology": [
+			"This for That"
+		],
+		"original_statement": "Strategy in repeated prisoner's dilemma: cooperate first, then do whatever the opponent did in the previous round.",
+		"concept": "Mirroring the neighbor",
+		"thinking": "「目には目を」。最初は信じるが、裏切られたら即座に罰する。そして許されたら再び手を組む。単純でありながら、この宇宙で最も『共生』に近い、強靭な和解の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "grim_trigger_adv",
+		"word": "Grim Trigger",
+		"meaning": "冷酷（れいこく）な引き金戦略",
+		"etymology": [
+			"Grim + Trigger"
+		],
+		"original_statement": "Strategy in which a player cooperates until the opponent defects once, after which the player defects forever.",
+		"concept": "Unforgiving collapse",
+		"thinking": "「冷酷な（Grim）」決断。一度の裏切り（ミス）で、永遠の信頼を断ち、心中へと突き進む。平和を維持するための、最も恐ろしい『核の抑止力』の形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "win_stay_lose_sh",
+		"word": "Win-Stay",
+		"meaning": "勝利維持（しょうりいじ）・敗北変更",
+		"etymology": [
+			"Win + Stay + Lose + Shift"
+		],
+		"original_statement": "Strategy where an agent repeats an action if it was successful and changes it otherwise.",
+		"concept": "Pragmatic learning",
+		"thinking": "上手くいったら続け、失敗したら変える。深遠な理屈を越えた、生の『手応え』だけを道標にする、野性的で力強い生存の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "extensive_form_g",
+		"word": "Extensive Form",
+		"meaning": "展開型（てんかいがた）ゲーム",
+		"etymology": [
+			"Latin ex- + tendere (to stretch out)"
+		],
+		"original_statement": "Representing a game as a tree structure, tracking the order of moves.",
+		"concept": "The unfolding tree of fate",
+		"thinking": "「引き伸ばされ（Ex-tended）」、枝分かれしていく世界。誰が決断し、何が見え、次に何が起きるか。時間の流れを『木』として視覚化し、未来へ至る航路を描く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "information_set_g",
+		"word": "Info Set",
+		"meaning": "情報集合（じょうほうしゅうごう）",
+		"etymology": [
+			"Information + Set"
+		],
+		"original_statement": "Depicts all the possible moves that could have taken place in the game so far.",
+		"concept": "The boundaries of awareness",
+		"thinking": "自分の置かれた状況が、過去のどの枝を辿った結果なのか。「見い出せていない」部分をひとまとめにし、自分の『無知の形』を数学的に定義する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "correlated_equilib",
+		"word": "Correl Equilibrium",
+		"meaning": "相関（そうかん）均衡",
+		"etymology": [
+			"Latin cor- + relatio"
+		],
+		"original_statement": "Solution concept generalizing Nash equilibrium by allowing for a signaling device.",
+		"concept": "Coordination through signals",
+		"thinking": "「共に（Cor-）」「結ばれる（Relatio）」。外部の合図（信号）に二人で従うことで、バラバラに動くよりも高い幸福（均衡）を掴むための、共感と連帯の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "bounded_rational_gt",
+		"word": "Bounded Rational",
+		"meaning": "限定合理性",
+		"etymology": [
+			"Bound + Ratio"
+		],
+		"original_statement": "Rationality that is limited by information and time.",
+		"concept": "Decision making with shortcuts",
+		"thinking": "完璧な美しさではなく、時間という名の檻（Bound）の中で、とりあえずの最善（満足解）を掴み取る。私たちの、不完全ゆえの愛おしき理性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "satisficing_heur",
+		"word": "Satisficing",
+		"meaning": "満足（まんぞく）化",
+		"etymology": [
+			"Satisfy + Suffice"
+		],
+		"original_statement": "Decision-making strategy that aims for a satisfactory or adequate result, rather than the optimal solution.",
+		"concept": "Good enough is the best",
+		"thinking": "「満足（Satisfy）」と「十分（Suffice）」。最高（オプティマル）を求めて無限に彷徨うのを止め、良きところで自分を許すという、賢者のための妥協の芸術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "expected_utility",
+		"word": "Exp Utility",
+		"meaning": "期待効用（きたいこうよう）",
+		"etymology": [
+			"Expect + Latin utilis (useful)"
+		],
+		"original_statement": "Weighted average of all possible outcomes under a given strategy.",
+		"concept": "Quantifying the inner hope",
+		"thinking": "「役立つ（Utilis）」ことの「期待値」。不確実な未来に、どれだけの心の満足（重み）が託されているかを、数理の言葉で冷徹に計算する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "prospect_theory_gt",
+		"word": "Prospect Theory",
+		"meaning": "プロスペクト理論",
+		"etymology": [
+			"Latin pro- + spectare (to look forward)"
+		],
+		"original_statement": "Models how people decide between alternatives that involve risk where the probabilities of outcomes are known.",
+		"concept": "Asymmetry of gain and loss",
+		"thinking": "「見通し（Pro-spect）」。私たちは、得る喜びよりも、失う悲しみを二倍も重く感じてしまう。心のゆがみが、理性を超えて行動を左右する、人間的なるもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "loss_aversion_gt",
+		"word": "Loss Aversion",
+		"meaning": "損失回避（そんしつかいひ）",
+		"etymology": [
+			"Loss + Latin a- (away) + vertere (to turn)"
+		],
+		"original_statement": "Tendency to prefer avoiding losses to acquiring equivalent gains.",
+		"concept": "Turning away from the pit",
+		"thinking": "「失うこと」から「顔を背ける（A-vertere）」。利得への欲望よりも、痛みから逃れたいという恐怖の方が、私たちの魂を強く、そして不自由に従わせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "endowment_effect",
+		"word": "Endowment Eff",
+		"meaning": "保有効果（ほゆうこうか）",
+		"etymology": [
+			"Old French endouer (to give dower)"
+		],
+		"original_statement": "People prescribe more value to things merely because they own them.",
+		"concept": "The premium of ownership",
+		"thinking": "「自分に授けられたもの（En-dow）」を、過剰に尊く思う心。ただ持っているというだけで、それが世界でかけがえのない宝物のように見えてしまう、自己愛の魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "framing_effect_gs",
+		"word": "Framing Effect",
+		"meaning": "フレーミング効果",
+		"etymology": [
+			"Frame"
+		],
+		"original_statement": "People react to a particular choice in different ways depending on how it is presented.",
+		"concept": "Reality through the border",
+		"thinking": "「枠組み（Frame）」一つで、真実は真逆の貌を見せる。コップに半分あるか、半分ないか。見せ方のトリックが、私たちの決断を密やかに、しかし強烈に導く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "anchoring_bias_gt",
+		"word": "Anchoring",
+		"meaning": "アンカリング、係留（けいりゅう）",
+		"etymology": [
+			"Anchor"
+		],
+		"original_statement": "Cognitive bias where an individual relies too heavily on an initial piece of info.",
+		"concept": "The gravitational pull of first info",
+		"thinking": "最初に投げ下ろされた「錨（Anchor）」に、心という船が縛り付けられてしまう。無関係な数字（初期値）が、後のすべての評価を歪めてしまう、逃れられぬ呪縛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "cognitive_heuristics",
+		"word": "Heuristics GS",
+		"meaning": "意思決定（いしけってい）ヒューリスティクス",
+		"etymology": [
+			"Greek heuriskein (to find)"
+		],
+		"original_statement": "Simple, efficient rules which people often use to form judgments and make decisions.",
+		"concept": "The mental speed-links",
+		"thinking": "「見つけた！（Heuriskein）」。厳密な計算を排し、過去の経験と勘だけで答えを掴み取る。生き残るための、瞬きのような思考の近道。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "groupthink_bias",
+		"word": "Groupthink",
+		"meaning": "集団思考（しゅうだんしこう）",
+		"etymology": [
+			"Group + Think"
+		],
+		"original_statement": "Psychological phenomenon that occurs within a group in which the desire for harmony or conformity results in an irrational or dysfunctional decision-making outcome.",
+		"concept": "The erosion of individual reason",
+		"thinking": "「和」を求めるあまり、一人一人の理性が沈黙し、集団全体で愚かな結論へと突き進んでしまう、同調という名の、静かに忍び寄る盲目。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "bounded_selfishness",
+		"word": "Bound Selfish",
+		"meaning": "限定的利己性（げんていてきりこせい）",
+		"etymology": [
+			"Bound + Selfish"
+		],
+		"original_statement": "Assumption that people are not purely self-interested but are also concerned about fairness.",
+		"concept": "The limit of ego",
+		"thinking": "人は自分だけのために生きる「檻（Bound）」から、時として抜け出す。公平さへの渇望が、合理的な利害を凌駕し、美しい利他を立ち上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "preference_revers",
+		"word": "Pref Reversal",
+		"meaning": "選好逆転（せんこうぎゃくてん）",
+		"etymology": [
+			"Latin prae- + ferre (to carry) + Re- + vertere"
+		],
+		"original_statement": "Situation in which preferences between two options are changed by the way the options are presented.",
+		"concept": "The unstable heart",
+		"thinking": "「先に（Prae-）運んでいた（Ferre）」望みが、突然ひっくり返る（Re-verse）。状況の変化に翻弄され、自らの軸さえも見失ってしまう、人の脆き本性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "status_quo_bias_gt",
+		"word": "Status Quo",
+		"meaning": "現状維持（げんじょういじ）バイアス",
+		"etymology": [
+			"Latin status quo (the state in which)"
+		],
+		"original_statement": "Preference for the current state of affairs.",
+		"concept": "Resist to change",
+		"thinking": "最善ではなくても、「今の状態（Status quo）」を壊したくないという、変化への本能的な拒絶。静止という名の、最も強固で不可視の檻。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "sunk_cost_fallacy",
+		"word": "Sunk Cost",
+		"meaning": "埋没費用（まいぼつひよう）、サンクコスト",
+		"etymology": [
+			"Sunk + Cost"
+		],
+		"original_statement": "Cost that has already been incurred and cannot be recovered.",
+		"concept": "Clinging to the lost past",
+		"thinking": "「沈んでしまった（Sunk）」痛み。もう取り戻せない過去の犠牲を惜しむあまり、引き際を逃し、さらなる破滅へと突き進んでしまう、心の泥沼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "altruism_gt",
+		"word": "Altruistic GT",
+		"meaning": "利他性（りたせい）のゲーム理論",
+		"etymology": [
+			"Latin alter (other)"
+		],
+		"original_statement": "Incorporating concern forthers' well-being into game-theoretic models.",
+		"concept": "The joy of the other",
+		"thinking": "「他者（Alter）」の喜びを、自分の報酬として計算する。合理性の究極は、ただの略奪ではなく、愛という名の高次元の均衡へと至る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "選択の理を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意思決定の科学へ。"
+			]
+		},
+		"example": "Rational choice leads to an equilibrium."
 	}
 ];
