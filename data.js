@@ -359411,5 +359411,729 @@ const WORDS = [
 			]
 		},
 		"example": "Language shapes our perception."
+	},
+	{
+		"id": "topology_knot",
+		"word": "Knot Theory",
+		"meaning": "結び目理論（むすびめりろん）",
+		"etymology": [
+			"Old English cnotta"
+		],
+		"concept": "Mathematical entanglement",
+		"thinking": "「結び（Cnotta）」の理。ただ一本の紐が、三次元空間の中でいかに自らを複雑に絡め合わせ、いかにして『解けない形』となるのか。絡まりの中に潜む不変の貌を探る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "trefoil_knot_adv",
+		"word": "Trefoil Knot",
+		"meaning": "三葉結び目（さんようむすびめ）",
+		"etymology": [
+			"Latin trifolium (three-leaved)"
+		],
+		"concept": "Simplest non-trivial knot",
+		"thinking": "「三つの（Tri-）」「葉（Folium）」。最も単純でありながら、決して解くことのできない聖なる絡まり。左右で異なる貌を持つ、鏡の中の双子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "prime_knot_adv",
+		"word": "Prime Knot",
+		"meaning": "素（そ）となる結び目",
+		"etymology": [
+			"Latin primus (first)"
+		],
+		"concept": "Fundamental building block of knots",
+		"thinking": "「最初（Primus）」の結び目。これ以上分解することのできない、結び目の宇宙における『素数』。あらゆる複雑な絡まりは、これらを繋ぎ合わせることで生まれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "crossing_num",
+		"word": "Crossing Num",
+		"meaning": "交差数（こうさすう）",
+		"etymology": [
+			"Cross"
+		],
+		"concept": "Complexity of entanglement",
+		"thinking": "紐が「交差する」回数。その絡まりがどれほど『込み入っている』かの指標。しかし、見た目の交差がいかに多くとも、実は解けてしまうという数学的奇術の罠。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "jones_poly",
+		"word": "Jones Poly",
+		"meaning": "ジョーンズ多項式（たこうしき）",
+		"etymology": [
+			"Jones"
+		],
+		"concept": "Knot invariant",
+		"thinking": "結び目を「数式（多項式）」という名の指紋へと変換する。紐をどう動かしても変わらない、結び目の『真のアイデンティティ』を暴く魔法の道具。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "braid_theory",
+		"word": "Braid Theory",
+		"meaning": "編（あ）み目理論",
+		"etymology": [
+			"Old English bregdan"
+		],
+		"concept": "Linear entanglement",
+		"thinking": "「編む（Bregdan）」こと。時間とともに流れる紐たちが、互いを避けて通り過ぎる跡。それは結び目へと閉じ込められる前の、自由なダンスの記録。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "homology_top",
+		"word": "Homology",
+		"meaning": "ホモロジー",
+		"etymology": [
+			"Greek homos + logos"
+		],
+		"concept": "Logic of similarity in structure",
+		"thinking": "「同じ（Homos）」「理（Logos）」。対象をバラバラの欠片（単体）へと分解し、それらがどう繋がり合い、どこに『穴』があるかという構造を、代数という冷徹な計算へと落とし込む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "cohomology_top",
+		"word": "Cohomology",
+		"meaning": "コホモロジー",
+		"etymology": [
+			"Latin co- + Homology"
+		],
+		"concept": "Dual logic of structure",
+		"thinking": "ホモロジーの「双対（Co-）」。空間の形を見るのではなく、空間の上を流れる『場』や『関数の振る舞い』を通じて、その背後の本質を透かし見る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "euler_char_top",
+		"word": "Euler Char",
+		"meaning": "オイラー標数（ひょうすう）",
+		"etymology": [
+			"Euler"
+		],
+		"concept": "The skeleton of the shape",
+		"thinking": "頂点の数、辺の数、面の数。それらを足し引きして残る「たった一つの数字」。ドーナツか、あるいは球か。姿形がどれほど歪んでも変わらない、空間の『魂の重さ』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "handlebody_top",
+		"word": "Handlebody",
+		"meaning": "ハンドル体（たい）",
+		"etymology": [
+			"Handle + Body"
+		],
+		"concept": "Surfaces with handles",
+		"thinking": "球体に「取っ手（Handle）」を付け足していく。その単純な操作の繰り返しが、いかなる複雑な三次元空間をも組み上げるための『原子』となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "surgery_theory",
+		"word": "Surgery Theo",
+		"meaning": "手術（しゅじゅつ）理論",
+		"etymology": [
+			"Greek kheirourgos (working with hand)"
+		],
+		"concept": "Transforming manifolds",
+		"thinking": "空間を切り裂き、別の断片を縫い合わせる「外科的（Surgery）」な変容。高次元の宇宙の貌を、意のままに作り変えるための強力なメス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "simplicial_com",
+		"word": "Simplicial Com",
+		"meaning": "単体複体（たんたいふくたい）",
+		"etymology": [
+			"Latin simplex (simple/one-fold)"
+		],
+		"concept": "Complex of simple bits",
+		"thinking": "「単純なもの（Simplex）」を「重ね合わせた（Complex）」結晶。三角形や四面体といったプリミティブな形たちが、互いの手を取り合って巨大なトポロジーの伽藍を築く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "embedding_top",
+		"word": "Embedding",
+		"meaning": "埋め込み、エンベディング",
+		"etymology": [
+			"In- + Bed"
+		],
+		"concept": "Placing within larger space",
+		"thinking": "一つの宇宙を、より大きな宇宙の「ベッドの中へ（Em-bed）」そっと横たえる。自分自身の形を一切壊すことなく、高次なる世界の一部となること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "immersion_top",
+		"word": "Immersion",
+		"meaning": "浸漬（しんし）、イマージョン",
+		"etymology": [
+			"Latin in- + mergere (to dip)"
+		],
+		"concept": "Local injection",
+		"thinking": "自分自身と重なり合っても構わない。ただその「局所的」な美しさと滑らかさだけを保ったまま、大いなる世界へと「浸し（Im-merge）」ていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "cobordism_top",
+		"word": "Cobordism",
+		"meaning": "コボルディズム",
+		"etymology": [
+			"Latin co- + border"
+		],
+		"concept": "Border sharing linkage",
+		"thinking": "「境界（Border）」を「共有（Co-）」することで、二つの異なる宇宙を結びつける。ある瞬間から別の瞬間への変容そのものを、一つの幾何学的な実体として捉える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "fundamental_gr",
+		"word": "Fundamental Gr",
+		"meaning": "基本群（きほんぐん）",
+		"etymology": [
+			"Latin fundamentum + Group"
+		],
+		"concept": "The loop-based soul of space",
+		"thinking": "空間の中に描ける「輪っか」たちが、いかに互いに絡み合い、いかにして『穴』の周りで脱出を禁じられているか。ループという名の糸で、世界の魂を測り知る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "universal_cov",
+		"word": "Universal Cov",
+		"meaning": "普遍被覆（ふへんひふく）",
+		"etymology": [
+			"Latin universalis + Cover"
+		],
+		"concept": "The ultimate unrolling",
+		"thinking": "複雑に絡まり、重なり合った空間を、無限に「広げ」「覆い尽くす（Cover）」。どんなループも一点に解けるまで解きほぐした、迷いのない究極の地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "compactness_to",
+		"word": "Compactness",
+		"meaning": "コンパクト性",
+		"etymology": [
+			"Latin con- + pangere (to fasten)"
+		],
+		"concept": "The finite within the closed",
+		"thinking": "「共に（Con-）」「固定された（Pangere）」。無限の彼方へと逃げ出すことなく、閉ざされた小さな宇宙の中にすべてがぎゅっと凝縮されている、有限な美しさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "fiber_bundle_ad",
+		"word": "Fiber Bundle",
+		"meaning": "ファイバー束（そく）",
+		"etymology": [
+			"Latin fibra + Bundle"
+		],
+		"original_statement": "Space that looks locally like a product space.",
+		"concept": "The weave of dimensions",
+		"thinking": "「繊維（Fibra）」を束ねたもの。一つの大地の上に、別の小さな宇宙が『毛羽立つ』ように生えている。地上のすべての点に、固有の内部空間が宿る重層的な世界観。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "orientation_top",
+		"word": "Orientation",
+		"meaning": "向き付け、配向",
+		"etymology": [
+			"Latin oriens (rising sun/East)"
+		],
+		"original_statement": "Assignment of a positive direction for a surface.",
+		"concept": "Logical direction of the world",
+		"thinking": "「日出づる方（Oriens）」を定める。どちらが表で、どちらが裏か。それを決めることで、世界に初めて『意味』と『一貫性』が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "mobius_strip_ad",
+		"word": "Möbius Strip",
+		"meaning": "メビウスの帯",
+		"etymology": [
+			"Möbius"
+		],
+		"concept": "Boundary of single side",
+		"thinking": "表を辿っていたはずが、いつの間にか裏へ。境界を喪失させ、「向き」という概念そのものをあざ笑う、トポロジーの奇術的な一捻り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "klein_bottle_ad",
+		"word": "Klein Bottle",
+		"meaning": "クラインの壺",
+		"etymology": [
+			"Klein"
+		],
+		"concept": "Inner-outer unified surface",
+		"thinking": "「内」と「外」を一つの滑らかな面で繋ぎ合わせてしまう、三次元では不可能な建築。自分自身に自らの首を突っ込むという、宿命的な自己矛盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "manifold_theory",
+		"word": "Manifold",
+		"meaning": "多様体（たようたい）",
+		"etymology": [
+			"Old English manigfeald"
+		],
+		"original_statement": "Topological space that locally resembles Euclidean space.",
+		"concept": "The patchwork universe",
+		"thinking": "「多くの（Many）」「折り重なった（Fold）」もの。全体としては計り知れないほど複雑で歪んでいても、近くで見ればいつもの見慣れた『平らな大地』に見える、欺瞞に満ちた優しき宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "atlas_geometry",
+		"word": "Atlas (Manifold)",
+		"meaning": "アトラス、地図帳",
+		"etymology": [
+			"Greek Atlas (god holding world)"
+		],
+		"concept": "Collection of local maps",
+		"thinking": "巨大な宇宙を一つの地平で描くことはできない。だからこそ、重なり合う小さな「地図」を何枚も集める（Atlas）。その貼り合わせこそが、宇宙の全貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "transition_map",
+		"word": "Transition Map",
+		"meaning": "推移写像（すいいしゃぞう）",
+		"etymology": [
+			"Latin trans- (across) + ire (to go)"
+		],
+		"concept": "Translating between maps",
+		"thinking": "一つの地図から隣の地図へ「渡り（Trans-ire）」歩くための、情報の翻訳。矛盾のない貼り合わせこそが、多様体という名の真実を支える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "metric_space_ad",
+		"word": "Metric Space",
+		"meaning": "距離（きょり）空間",
+		"etymology": [
+			"Greek metron (measure)"
+		],
+		"concept": "Space with measurement",
+		"thinking": "「測る（Metron）」ための物差しが導入された空間。点と点の間に『遠さ』という名の情動が生まれ、初めて『形』が固定される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "normed_space_ad",
+		"word": "Normed Space",
+		"meaning": "ノルム空間",
+		"etymology": [
+			"Latin norma (square/rule)"
+		],
+		"concept": "Space with length",
+		"thinking": "ベクトルに「長さ（Norma）」という名の掟（規律）を与える。原点からの距離が、世界に秩序とスケールをもたらす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "banach_space_ad",
+		"word": "Banach Space",
+		"meaning": "バナッハ空間",
+		"etymology": [
+			"Banach"
+		],
+		"concept": "Complete normed vector space",
+		"thinking": "無限に近づいても、その『果て』がまだ空間の中に留まっている「完全」なる宇宙。欠落のない、美しい論理の高み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "hilbert_space_a",
+		"word": "Hilbert Space",
+		"meaning": "ヒルベルト空間",
+		"etymology": [
+			"Hilbert"
+		],
+		"concept": "Infinite-dimensional geometry",
+		"thinking": "無限の次元を持ちながら、なおも「角度（内積）」や「長さ」という幾何学の響きを保ち続ける、関数たちが奏でる巨大なシンフォニーの舞台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "chaos_attractor",
+		"word": "Attractor",
+		"meaning": "アトラクタ、引き込み",
+		"etymology": [
+			"Latin ad- + trahere (to pull)"
+		],
+		"concept": "The strange magnet of chaos",
+		"thinking": "カオスな動きを「引き寄せる（At-tract）」。どれほど激しく揺れ動こうとも、いつかはそこに舞い戻ってしまう、運命の軌跡の終着点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "fractal_dimen",
+		"word": "Fractal",
+		"meaning": "フラクタル、自己相似",
+		"etymology": [
+			"Latin fractus (broken)"
+		],
+		"concept": "Self-similarity across scales",
+		"thinking": "「砕かれた（Fractus）」断片。しかし、その欠片の一つ一つに、全体と同じ『貌』が宿っている。どこまで拡大しても無限の細部が立ち現れる、自然の持つ無限の魔力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "hausdorff_dim",
+		"word": "Hausdorff Dim",
+		"meaning": "ハウスドルフ次元",
+		"etymology": [
+			"Hausdorff"
+		],
+		"concept": "Non-integer dimensions",
+		"thinking": "0でも1でもない。塵のような、あるいはギザギザな形が、どれほど空間を「埋め尽くそうとしているか」を測る、小数の次元。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "dynamical_syst",
+		"word": "Dynamical Sys",
+		"meaning": "力学系（りきがくけい）",
+		"etymology": [
+			"Greek dynamis"
+		],
+		"concept": "System evolution over time",
+		"thinking": "「力（Dynamis）」の理。時間が経つにつれて、初期の状態がいかなる貌へと変容していくか。その永遠のうねりの法則。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "bifurcation_p",
+		"word": "Bifurcation",
+		"meaning": "分岐（ぶんき）",
+		"etymology": [
+			"Latin bi- (two) + furca (fork)"
+		],
+		"original_statement": "Qualitative change in the behavior of a dynamical system.",
+		"concept": "The splitting of destiny",
+		"thinking": "「二つの（Bi-）」「フォーク（Furca）」の分かれ道。微かな変化が、静かな安定を突如として激しい振動やカオスへと引き裂く、運命の分岐点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "lyapunov_exp",
+		"word": "Lyapunov Exp",
+		"meaning": "リアプノフ指数",
+		"etymology": [
+			"Lyapunov"
+		],
+		"concept": "Sensitivity to initial conditions",
+		"thinking": "バタフライ効果の「鋭さ」。隣り合った二つの運命が、どれほどの勢いで引き離されていくかを測る、カオスの絶望指。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "strange_attract",
+		"word": "Strange Attra",
+		"meaning": "ストレンジ・アトラクタ",
+		"etymology": [
+			"Strange"
+		],
+		"concept": "Fractal chaos in state space",
+		"thinking": "秩序か無秩序か、測り知れない（Strange）貌をした引き込み。二度と同じ道を辿ることはないが、決してその輪郭から逃れることもできない、自由の檻。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極意を捉えて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーの深淵へ。"
+			]
+		},
+		"example": "The knot was topologically interesting."
 	}
 ];
