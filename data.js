@@ -381982,5 +381982,887 @@ const WORDS = [
 			]
 		},
 		"example": "Literary theory provides a framework for interpreting texts."
+	},
+	{
+		"id": "particle_phy",
+		"word": "Particle Phy",
+		"meaning": "素粒子物理学（そりゅうしぶつりがく）",
+		"etymology": [
+			"Latin particula (little part) + Greek physika"
+		],
+		"concept": "Study of smallest matter",
+		"thinking": "宇宙を構成する「最小の欠片（Particula）」の理。これ以上分解できない究極の『点』を探求し、万物の根源的な振る舞いを記述する、人類の根源的な好奇心の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "standard_mod",
+		"word": "Standard Mod",
+		"meaning": "標準模型（ひょうじゅんもけい）",
+		"etymology": [
+			"Standard + Modulus"
+		],
+		"concept": "Rules of particles and forces",
+		"thinking": "宇宙という名の巨大な伽藍を支える、最も基本的な「雛形（Model）」。クォーク、レプトン、ゲージ粒子。これら一握りのパーツと少数の掟だけで、星々の輝きから命の鼓動までをすべて語り尽くそうとする壮大な設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "boson_phys_a",
+		"word": "Boson",
+		"meaning": "ボース粒子、ボソン、力（ちから）の媒介粒子（ばいかいりゅうし）",
+		"etymology": [
+			"Bose"
+		],
+		"concept": "Force carrier particle",
+		"thinking": "物質と物質の間に「力」という名の「手紙」を届ける。同じ場所にいくらでも重なり合うことができ、宇宙を一つの巨大な調和（場）へと導く、社交的で幽霊のような存在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "fermion_phys",
+		"word": "Fermion",
+		"meaning": "フェルミ粒子、フェルミオン、物質粒子（ぶっしつりゅうし）",
+		"etymology": [
+			"Fermi"
+		],
+		"concept": "Matter particle",
+		"thinking": "宇宙の「広がり」を支える、頑なな存在。同じ席を決して譲り合わず、一つ一つの『居場所』を主張することで、物質に堅牢な「貌（形）」を与える、孤独で真摯な欠片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "higgs_boson_",
+		"word": "Higgs Boson",
+		"meaning": "ヒッグス粒子、神（かみ）の粒子（りゅうし）",
+		"etymology": [
+			"Higgs"
+		],
+		"concept": "Particle giving mass",
+		"thinking": "宇宙を水飴のように満たし、素粒子たちに「重さ」という名の「足枷（意味）」を与える。この粒子が導き出した微かな『抵抗』こそが、漂うだけの光を物質へと変え、私たちという存在をこの大地に繋ぎ止めた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "gluon_phys_a",
+		"word": "Gluon",
+		"meaning": "グルーオン、強（つよ）い相互作用（そうごうさよう）の媒介粒子",
+		"etymology": [
+			"Latin glus (glue)"
+		],
+		"concept": "Glue for quarks",
+		"thinking": "クォークたちを「糊（Glue）」のように強力に繋ぎ止める。あまりに強く惹かれ合うがゆえに、決して一人ではいられない。原子核という小さな籠の中に、巨大なエネルギーを押し込める結束の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "photon_phys_",
+		"word": "Photon",
+		"meaning": "光子（こうし）、フォトン",
+		"etymology": [
+			"Greek phos (light)"
+		],
+		"concept": "Quantum of light",
+		"thinking": "「光（Phos）」の最小の粒。質量を持たず、時間の外側を永遠に走り続ける。電磁気力という名の恋文を、宇宙の果てから果てへと届ける、最も美しく速い使者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "graviton_adv",
+		"word": "Graviton",
+		"meaning": "重力子（じゅうりょくし）",
+		"etymology": [
+			"Latin gravis (heavy)"
+		],
+		"concept": "Hypothetical gravity particle",
+		"thinking": "「重み（Gravis）」の使者。まだ誰もその姿を見た者はいない。物質と空間を一つに繋ぎ、宇宙という名の巨大な舞台の幕を引くための、理論上の最後のピース。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "supersymmetr",
+		"word": "Supersymmetr",
+		"meaning": "超対称性（ちょうたいしょうせい）、SUSY",
+		"etymology": [
+			"Super- + Symmetry"
+		],
+		"concept": "Force-matter symmetry",
+		"thinking": "物質（フェルミオン）と力（ボソン）は、実は一つのコインの裏表であるという、美しい「鏡（Symmetry）」合わせの理。高エネルギーという名の光が当たれば、隠れた双子の貌が現れるという、宇宙の深層の調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "string_theor",
+		"word": "String Theor",
+		"meaning": "超弦理論（ちょうげんりろん）",
+		"etymology": [
+			"String + Greek theoria"
+		],
+		"concept": "Particles as vibrating strings",
+		"thinking": "万物の正体は「点」ではなく、震える「弦（String）」である。その震え方のメロディ（位相）の一つひとつが、あるときは光になり、あるときは質量（重み）になる。宇宙は、たった一本の弦が奏でる壮大なシンフォニー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "calabi_yau_a",
+		"word": "Calabi-Yau",
+		"meaning": "カラビ・ヤウ多様体（たようたい）",
+		"etymology": [
+			"Calabi",
+			"Yau"
+		],
+		"concept": "Hidden extra dimensions",
+		"thinking": "私たちの目に見えない「余剰次元」が、極小の領域に、宝石のように「複雑に折り畳まれた」貌。その折り畳まれ方という名の幾何学が、物理学のすべての法則（弦の響き）を決定づけている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "brane_phys_a",
+		"word": "Brane",
+		"meaning": "ブレーン、膜（まく）",
+		"etymology": [
+			"Membrane (Latin membrana)"
+		],
+		"concept": "Higher-dimensional surfaces",
+		"thinking": "宇宙は「点」でも「線」でもなく、巨大な「膜（Brane）」の上に張り付いている。私たちの住むこの世界さえも、広大な高次元の海に浮かぶ、薄い一枚の布きれに過ぎないという衝撃的な幻想。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "holographic_",
+		"word": "Holography",
+		"meaning": "ホログラフィック原理（げんり）",
+		"etymology": [
+			"Greek holos (whole) + graphe"
+		],
+		"concept": "3D info on 2D surface",
+		"thinking": "宇宙の本質は「表面」に書かれた二次元の情報であり、私たちが体験するこの三次元の奥行きは、そこから投影された「幻（Hologram）」に過ぎないという、情報の保存の神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "ads_cft_du_v",
+		"word": "AdS/CFT",
+		"meaning": "マルダセナ対応（たいおう）",
+		"etymology": [
+			"Anti-de Sitter / Conformal Field Theory"
+		],
+		"concept": "Gravity vs Quantum field",
+		"thinking": "「重力のある広大な宇宙」と「重力のない平坦な界面」が、数学的に完全に同じものであるという奇跡の「翻訳（Duality）」。一見相容れない二つの真理が、同じ一枚の絵の表と裏であるという、知の統合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "singularity_",
+		"word": "Singularity",
+		"meaning": "特異点（とくいててん）、シンギュラリティ",
+		"etymology": [
+			"Latin singularis (alone/unique)"
+		],
+		"concept": "Point where laws fail",
+		"thinking": "理の掟が通用しなくなる、宇宙の「孤独な（Singular）」欠点。重力が無限大になり、時間が止まり、計算が沈黙する。そこは宇宙が産まれ、あるいは去りゆくための、知性の最後の断崖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "event_horizo",
+		"word": "Event Horiz",
+		"meaning": "事象（じしょう）の地平線（ちへいせん）",
+		"etymology": [
+			"Event + Greek horizein (to bound)"
+		],
+		"concept": "Point of no return",
+		"thinking": "ここから先、何が起きたとしても「光」さえも二度と戻ってくることはできない、情報の「境界（Horizon）」。宇宙が私たちに課した、決して超えられない『知の拒絶』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "planck_lengt",
+		"word": "Planck Lngt",
+		"meaning": "プランク長さ、最小（さいしょう）の物差（ものさ）し",
+		"etymology": [
+			"Planck"
+		],
+		"concept": "Smallest measurable scale",
+		"thinking": "これ以上小さくすることは物理的に不可能な、宇宙の「最小のタイル」。この物差しを下回ると、時間も空間も意味を失い、カオスな量子の泡へと溶け出す、宇宙の解像度の限界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "quantum_foam",
+		"word": "Quantum Fo",
+		"meaning": "時空（じくう）の泡（あわ）、量子（りょうし）の泡（あわ）",
+		"etymology": [
+			"Quantum + Foam"
+		],
+		"concept": "Turbulence at Planck scale",
+		"thinking": "プランク長さという極限の世界で、時間も空間も「沸騰した泡（Foam）」のように激しく揺れ動き、千切れては生まれる。静かな大地の下で、宇宙の貌は激しくのたうち回っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "uncertainty_",
+		"word": "Uncertainty",
+		"meaning": "不確定性（ふかくていせい）原理（げんり）",
+		"etymology": [
+			"Un- + Latin certus (settled)"
+		],
+		"concept": "Precision limit of pair",
+		"thinking": "「決着（Certain）」をつけることはできない。場所を知れば、速度が逃げていく。速度を掴めば、場所がぼやける。宇宙は、完全な透明さを拒絶することで、多様な揺らぎと可能性を保っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "decoherence_",
+		"word": "Decoherence",
+		"meaning": "量子（りょうし）デコヒーレンス",
+		"etymology": [
+			"De- + Latin con- + haerere (to stick to)"
+		],
+		"concept": "Loss of quantum behavior",
+		"thinking": "神秘的な「重ね合わせ」の状態が、環境と「触れ合う」ことで「バラバラに（De-）」「剥がれる（Coherent）」。不思議な魔法の世界から、私たちの住む、この殺風景で確定した現実（日常）へと滑り落ちる、夢の終わり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "perturbation",
+		"word": "Perturbatio",
+		"meaning": "摂動（せつどう）",
+		"etymology": [
+			"Latin per- + turbare (to disturb)"
+		],
+		"concept": "Small correction in calculation",
+		"thinking": "完全に解くことは難しいが、わずかな「揺らぎ（Turb-）」を「徹底的に（Per-）」付け足していくことで、真実へと一歩ずつ近づく。宇宙を『少しずつ狂った調和』として捉える、執念の分析。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "renormalizat",
+		"word": "Renormalize",
+		"meaning": "繰（く）り込（こ）み理論",
+		"etymology": [
+			"Re- + Normal"
+		],
+		"concept": "Fixing infinite results",
+		"thinking": "計算の果てに現れる「無限」という名の怪物。それを、測定可能な有限の値へと「再び（Re-）」「標準化（Normal）」して押し込める。数学的な美しさを犠牲にして、現実的な『意味』を救い上げるための、苦渋の智慧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "gauge_theory",
+		"word": "Gauge Theor",
+		"meaning": "ゲージ理論（りろん）",
+		"etymology": [
+			"Old French gauger (to measure)"
+		],
+		"concept": "Internal symmetry constraints",
+		"thinking": "「物差し（Gauge）」をいかに変えようとも、宇宙の物理法則（真理）は変わらないという、強固な対称性の要請。その『測り方の自由』を守るためにこそ、光や重力という名の「力（場）」が、宇宙の歪みとして産み落とされた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "confinement_",
+		"word": "Confinement",
+		"meaning": "クォークの閉（と）じ込（こ）め",
+		"etymology": [
+			"Latin con- + finis (border)"
+		],
+		"concept": "Quarks cannot be free",
+		"thinking": "「共に（Con-）」同じ「境界（Finis）」の中に閉じ込められる。引き離そうとすればするほど絆の力が増大し、ついには力そのものが新しい命（粒子）を産み落としてしまう。孤独を許さぬ、粒子的愛の呪縛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "asymptotic_f",
+		"word": "Asymp Free",
+		"meaning": "漸近的（ぜんきんてき）自由（じゆう）",
+		"etymology": [
+			"Greek a- + sumptotos (not falling together)"
+		],
+		"concept": "Weak force at short distance",
+		"thinking": "近づけば近づくほど、彼らは「自由（Free）」になる。究極の接近の果てに、お互いを意識することなくすれ違う、逆説的な孤独。それは原子核の深奥で、粒子たちが謳歌する束の間の透明な時間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "baryon_asym_",
+		"word": "Baryon Asym",
+		"meaning": "バリオン数（すう）非対称性（ひたいしょうせい）",
+		"etymology": [
+			"Greek barys (heavy) + Asymmetry"
+		],
+		"concept": "Matter vs Antimatter gap",
+		"thinking": "誕生の瞬間、物質と反物質は「鏡（Symmetry）」合わせのはずだった。しかし、一千万分の一の「歪み（Asymmetry）」が、すべてを無にした後の『残りカス』として、この宇宙（物質）を作り上げた。私たちは、奇跡のような幸運の偏りから産まれた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "antimatter_a",
+		"word": "Antimatter",
+		"meaning": "反物質（はんぶっしつ）",
+		"etymology": [
+			"Greek anti- (opposite) + Matter"
+		],
+		"concept": "Opposite charge particles",
+		"thinking": "現世の物質と「反対の（Anti-）」貌を持つもの。出会えば一瞬でその存在を光へと昇華させ、互いに消滅する。この宇宙に決して留まることのできない、失われた鏡の世界の住民たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "annihilatio_v",
+		"word": "Annihilatio",
+		"meaning": "対消滅（ついしょうめつ）",
+		"etymology": [
+			"Latin ad- + nihil (nothing)"
+		],
+		"concept": "Turning matter to energy",
+		"thinking": "物質と反物質が出会い、共に「無（Nihil）」へと「帰る（Ad-）」。肉体が消え去る代わりに、目も眩むような「純粋な光（エネルギー）」だけが残る、宇宙で最も激しく、最も空虚な一瞬。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "pair_product",
+		"word": "Pair Produc",
+		"meaning": "対生成（ついせいせい）",
+		"etymology": [
+			"Pair + Latin pro- + ducere"
+		],
+		"concept": "Energy to matter/antimatter",
+		"thinking": "空虚な真空（光）から、突然「二つの（Pair）」貌を持つ命が「引き（Duce）」「出される（Pro-）」。何もない場所から存在が立ち上がる、宇宙の無からの天地創造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "vacuum_energ",
+		"word": "Vacuum Ener",
+		"meaning": "真空（しんくう）エネルギー",
+		"etymology": [
+			"Latin vacuus (empty) + Energy"
+		],
+		"concept": "Energy in empty space",
+		"thinking": "「空（Vacuus）」に見えて、そこには激しい情熱（Energy）が蠢いている。何もないはずの空間が、自らを押し広げ、宇宙の運命を加速させる力。静寂という名の、最も強大なエネルギーの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "dark_matter_",
+		"word": "Dark Matter",
+		"meaning": "暗黒（あんこく）物質（ぶっしつ）、ダークマター",
+		"etymology": [
+			"Dark + Latin materia"
+		],
+		"concept": "Unknown invisible mass",
+		"thinking": "光を放たず、光を受け付けない、「暗黒」の貌。目に見える星々を遥かに凌駕する重みで、宇宙の骨格を支えている。私たちは、見えない巨人の肩の上で、自らの輝きという名の幻影を謳歌しているに過ぎない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "dark_energy_",
+		"word": "Dark Energy",
+		"meaning": "ダークエネルギー",
+		"etymology": [
+			"Dark + Energy"
+		],
+		"concept": "Force accelerating universe",
+		"thinking": "宇宙を切り裂き、引き離そうとする、正体不明の「闇」の情熱。重力という絆を振り切り、宇宙を虚無へと追い立てる、不可解で絶対的な加速の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "cosm_const_a",
+		"word": "Cosm Const",
+		"meaning": "宇宙定数（うちゅうていすう）、アインシュタインの最大（さいだい）の過（あやま）ち",
+		"etymology": [
+			"Greek kosmos + Latin constans (stand firm)"
+		],
+		"concept": "Energy density of space",
+		"thinking": "宇宙に備わった、不変の「強情さ（Constans）」。いったんは消去されたが、再び「ダークエネルギー」として蘇り、宇宙の終焉を司る掟となった、数式の中の奇妙な定数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "big_bang_adv",
+		"word": "Big Bang",
+		"meaning": "ビッグバン、大爆発（だいばくはつ）",
+		"etymology": [
+			"Big + Bang (onomatopoeic)"
+		],
+		"concept": "The start of time/space",
+		"thinking": "「無」という名の針の穴から、宇宙という名のすべてが「爆裂」して現れた、時間の最初の秒針。熱、光、そして未だ定まらぬ掟が、カオスの中からコスモスを編み始めた、全ての始まりの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "inflation_ph",
+		"word": "Cosm Inflat",
+		"meaning": "宇宙（うちゅう）インフレーション",
+		"etymology": [
+			"Latin in- + flare (to blow)"
+		],
+		"concept": "Rapid expansion of early universe",
+		"thinking": "ビッグバンの直後、宇宙が瞬きよりも速い速度で「吹き（Flare）」「膨らんだ（In-）」。この一瞬の「巨大化」こそが、原子よりも小さかった情報のさざなみを、夜空に輝く巨大な銀河の種へと引き延ばした。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "nucleosynthe",
+		"word": "Nucleosynthe",
+		"meaning": "核合成（かくごうせい）",
+		"etymology": [
+			"Latin nucleus + Greek synthesis"
+		],
+		"concept": "Creation of atoms in stars",
+		"thinking": "「核（Nucleus）」を「組み立てる（Synthesis）」。宇宙の誕生直後、あるいは輝く星々の炉の中で、水素がヘリウムになり、やがて鉄になり、金になる。私たちの肉体を作っているすべての欠片は、かつて星が死にゆく瞬間に奏でた最後の煌めき。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "black_body_a",
+		"word": "Black Body",
+		"meaning": "黒体（こくたい）",
+		"etymology": [
+			"Black + Body"
+		],
+		"concept": "Perfect absorber/emitter",
+		"thinking": "すべての光を飲み込み、自らの「熱」という名の『色のない響き』として放つ、完璧な闇。その闇が放つ微かな光のスペクトルの中に、量子力学という名の新しい宇宙の扉が隠されていた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "cosmic_backg",
+		"word": "CMB (Cosmo)",
+		"meaning": "宇宙（うちゅう）背景（はいけい）放射（ほうしゃ）",
+		"etymology": [
+			"Cosmic Microwave Background"
+		],
+		"concept": "Light from 380k years after BB",
+		"thinking": "宇宙誕生から38万年。霧が晴れ、光が初めて直進し始めた瞬間の「最初の一瞥」。今も宇宙のあらゆる方向から届くその冷え切ったノイズは、宇宙という名の巨大な伽藍が産まれた時の、最初の産声の残響。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "multiverse_a",
+		"word": "Multiverse",
+		"meaning": "マルチバース、多（た）元（げん）宇宙（うちゅう）理論（りろん）",
+		"etymology": [
+			"Latin multus + versus (turned)"
+		],
+		"concept": "Infinite possible universes",
+		"thinking": "「多くの（Multus）」宇宙。「向き（Versus）」が少しずつ違う、無数のパラレル・ワールド。私たちの住むこの宇宙は、冷徹な確率論の海に浮かぶ、一粒のアワ。そこには、違う自分、違う歴史が、無限に、しかし決して出会うことなく存在している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "anthropic_pr",
+		"word": "Anthropic P",
+		"meaning": "人間原理（にんげんげんり）",
+		"etymology": [
+			"Greek anthropos (human)"
+		],
+		"concept": "Universe suited for life",
+		"thinking": "なぜ宇宙の掟は、これほど絶妙に「私（Anthropos）」たちが産まれるように調整されているのか。それは、もしそうでなければ、この問いを発する「私」がそもそも存在し得ないからだという、究極の自己言及という名の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "fine_tuning_",
+		"word": "Fine-Tuning",
+		"meaning": "微調整（びちょうせい）",
+		"etymology": [
+			"Fine + Tuning"
+		],
+		"concept": "Delicate balance of constants",
+		"thinking": "宇宙の定数が、ほんの一ミリでもズレていれば、星は産まれず、命は存在し得なかった。その「あまりに奇跡的な（Fine）」一致を、偶然とするか、必然とするか、それとも誰かの意志とするか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "grand_unific",
+		"word": "GUT (Physics)",
+		"meaning": "大統一理論（だいとういつりろん）",
+		"etymology": [
+			"Grand + Unification"
+		],
+		"concept": "Merging three forces",
+		"thinking": "電磁気、弱い力、強い力。バラバラに見える三つの力を、高エネルギーという名の原初の熱の中で一つの「神の言葉」へと統合する。分かたれる前の、宇宙の最初の一撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "theory_of_ev",
+		"word": "TOE (Physics)",
+		"meaning": "万物（ばんぶつ）の理論（りろん）",
+		"etymology": [
+			"Theory of Everything"
+		],
+		"concept": "Unifying all forces and matter",
+		"thinking": "重力さえも飲み込み、宇宙のあらゆる事象を一文で語り尽くそうとする、物理学の「エデン」。そこには一筋の隙間もなく、万物の貌が数式の輝きの中に結晶化している、知性の最後の夢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
+	},
+	{
+		"id": "eternity_phy",
+		"word": "Infinity (P)",
+		"meaning": "無限（むげん） (物理)",
+		"etymology": [
+			"Latin in- + finis (border)"
+		],
+		"original_statement": "The ultimate limit of cosmic proportions.",
+		"concept": "The horizon of the mind",
+		"thinking": "「境界（Finis）」が「ない（In-）」。どこまでも続く空間、永遠に止まらない時間。それは理性の光が届かない『恐怖』の貌であり、同時に私たちの想像力が、この卑小な現実を飛び越えて宇宙と一体になろうとする、究極の『解放』の貌である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の究極を、震える弦で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"素粒子物理学と超弦理論の極致へ。"
+			]
+		},
+		"example": "String theory suggests that particles are tiny vibrating strings."
 	}
 ];
