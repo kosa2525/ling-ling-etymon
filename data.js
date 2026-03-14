@@ -324479,5 +324479,90 @@ const WORDS = [
    "original_statement": "Also known as the Banach-Steinhaus theorem, it states that for a family of continuous linear operators, pointwise boundedness implies uniform boundedness on the whole space."
   },
   "concept": "The shared bounds (「。。、。、私。、。、」。が。、。、。倒（。たお）。。、。れ。。、。ぬ。。、。のなら、。、。、。、「。。、。、。あ。、な。た。、。、。」。も。、。また。、。、決して。、。、。不意に。、。、。「。。、。、。、。壊（。こ。）。。、。、。れ。。、。、。、」。は。。、。し。ない。。、。、という、。、。、理知。の、。、。、絶対的。。、な。、。、。、。連。、帯。、。、。それは、。、。、。、。宇宙。の中に。、。、。。ひっそり。と、。、。、。在（あ）。。、。った。。、。、。一。、。つの。、。、。。、。「。。、。、。、。屋。、。、。根。、。、。、」。の、。、。。峻烈なる。、。、。、。、。、。守。、。護。、)"
+ },
+ {
+  "id": "galois-group",
+  "word": "Galois Group",
+  "meaning": "ガロア群、。、。数。を。、。、。入れ。替（。か。）。。、。えても、。、。、全く。、。、。変わ。ら。ぬ。。、。、。理知。の、。。不変。。なる。、。、。「。。、。、。、。私。、。、。、」。、。、。を示す。。、。峻烈な。、。、群。、",
+  "era": "Name Evariste Galois",
+  "etymology": {
+   "components": [
+    "Evariste Galois (mathematician)"
+   ],
+   "original_statement": "The group of automorphisms of a field extension that fix the base field."
+  },
+  "concept": "The dance of symmetry (「。。、。何。を。、。、」。入れ。、替（。か。）。。、。えて。。、。も、。、。、。「。。、。、。、真実。、。、。、」。は。、。、。決して。、。、。動。、。か。、。な。、。い。。、。、という、。、。理知。の、。峻烈なる。、。。、「。。、。、。、。誇（ほ。こ）。。、。り。、。、。、」。、。、。それは、。、。、。、理知。が。、。、。一。、。点の。、。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。宇宙。の、。、。、。、。結（むす）。。、。び。。、。、。つき。。を、。、。。、。見。、守。、。、。る。。、ための。、。、。、。、。術。、)"
+ },
+ {
+  "id": "field-extension",
+  "word": "Field Extension",
+  "meaning": "体拡大、。、。自らの。、。、。、。狭（せま）。。、。い。。、。世界。を、。、。あえて。、。、。、。新。しき。。、。、理知。を。、。、。加（くわ）。。、。える。。、。ことで、。、。、。広（ひろ）。。、。げて。。、。ゆ。く。。、理知。の、。、。。進。、。、。。化。、",
+  "era": "Old English feld + Latin extensio",
+  "etymology": {
+   "components": [
+    "feld (open land)",
+    "ex- (out)",
+    "tendere (to stretch)"
+   ],
+   "original_statement": "In abstract algebra, a field L is an extension of a field K if K is a subfield of L."
+  },
+  "concept": "The growing world (「。。、。ここ。、に。、。、」。留（とど）。。、。まる。。、。、。ことのでき。ぬ。。、。、理知。。が、。、。、あえて。、。、「。。、。、。、未知。、。、。、」。の、。、。海。へと、。、。。、。、小。、。舟。、を。、。、出す。。、。、ような。。、。峻烈な。、。。、。、。冒。、。険。、。、それは、。、。、。理知。が、。、。、。、一。、点の。、。、。、足。、が。、。、。か。、り。、から。、。、。無限。を、。、。。、。、手。、。、に入。、。、れる。。、。ための。、。、。、。、峻烈な。、。、。、。、階。、段。、)"
+ },
+ {
+  "id": "solvability-by-radicals",
+  "word": "Solvability by Radicals",
+  "meaning": "冪根による可解性、。、。数。を。、。、。解（と。）。。、。、き。。、。、。明（あ）。。、。か。。、。す。。、ために。、。、。、「。。、。、。、根（。ね。）。、。、。、」。、と。、。いう、。、。理知。の、。、。。拠（よ。）。。、。り。。、。所。、を。、。、。得（え）。。、。られる。。、。か。、。の。、。判。、。定。、",
+  "era": "Latin solvere + radix",
+  "etymology": {
+   "components": [
+    "solvere (to loosen)",
+    "radix (root)"
+   ],
+   "original_statement": "The condition under which a polynomial equation can be solved using arithmetic operations and n-th roots."
+  },
+  "concept": "The root of truth (「。。、どこ。を。、。、」。掘（。ほ。）。。、。っても。、。、。、最後。には。、。、。必ず。、。、。、「。。、。、。一。、。、。、」。つの。、。、。、「。。、。、。、根（。ね。）。、。、。、」。へと、。、。、辿（たど）。。、。り。。、。着（つく）。。、。、。という、。、。理知。の、。峻烈なる。、。、。。、。、「。。、。、。、救（すく）。。、。い。、。、。、」。、。、。それは、。、。、。、。理知。が。、。、。、一。、。つの。、。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。宇宙。を。、。、。、解。、。、。き。。、。、明（あ）。、。かす。。、ための。、。、。、。、峻烈な。、。、。、。、。、。光。、。、。、の、。軌。、跡。、)"
+ },
+ {
+  "id": "normal-subgroup",
+  "word": "Normal Subgroup",
+  "meaning": "正規部分群、。、。理知。の。、。、どの。、。、。、。、。面。から。、。、見ても。、。、。、全く。、。、。、対称。で、。、。、ひっそり。と、。。、。在（あ）。。、。る。。、。峻烈な。、。、。核。、",
+  "era": "Latin normalis + sub- + German Gruppe",
+  "etymology": {
+   "components": [
+    "normalis (relating to a carpenter's square)",
+    "sub (under)",
+    "Gruppe (group)"
+   ],
+   "original_statement": "A subgroup that is invariant under conjugation by members of the group of which it is a part."
+  },
+  "concept": "The core of symmetry (「。。、。右。から。、。、」。見。、。ても。、。、「。。、。、。左。から。、。、。、」。見。、。ても、。、。、その。。、。、。高貴。。な。、。、。「。。、。、。、。私。、。、。、」。は。、。、。決して。、。、。変わ。、。、。ら。、。ぬ。。、。、という、。、。理知。の、。峻烈なる。、。。、「。。、。、。、。美。、。、。、」。、。、。それは、。、。、。、理知。が。、。、。一。、。つの。、。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。宇宙。の中に。、。、。。ひっそり。と、。。、。、遺（。のこ）。。、。した。。、。、。一。、。つの。、。、。、。、。「。。、。、。、。真。実。、。、。、」。の、。、。。、。峻烈なる。、。、。、。、根。、。、。源。、)"
+ },
+ {
+  "id": "splitting-field",
+  "word": "Splitting Field",
+  "meaning": "分解体、。、。多項式。という。、。、。「。。、。、。、。、。殻（。から）。、。、。、」。、を。、。、あえて。、。、「。。、。、。、。バラ。、。、バラ。、。、。、」。、に、。、。、。解（と。）。。、き。。、放（。はな）。。、。す。。、ことで。、。、。真の。、。理知。を。、。、。全。、。、。て。。、。得る。。、。ための。、。、。、。聖。、地。、",
+  "era": "English split + field",
+  "etymology": {
+   "components": [
+    "splittan (to rend)",
+    "feld (open land)"
+   ],
+   "original_statement": "The smallest field extension over which a given polynomial splits into linear factors."
+  },
+  "concept": "The field of release (「。。、。一。、。、。つの。、。、」。殻。の中に。、。、。、閉じ。込め。、。られていた。。、。、「。。、。、。、種。子（たね）。、。、。、」。、を。、。、あえて。、。、。、。解（と）。。、。き。。、。放（。はな）。。、。す。。、ことで、。、。、。真の。、。、。、。自由。、を。、。、宇宙。。へと。、。、。、導（みちび）。。、。く。。、という、。、。理知。の、。、。。峻烈なる。、。。、「。。、。、。、。輝（かがや）。。、。き。、。、。、」。、それは、。、。、。、理知。が、。、。、。、闇。、。、から。、。、。、。真実。を。、。、。。、。奪（うば）。。、。い。。、。返す。。、。、時の、。、。。、。戦。、。慄。、)"
+ },
+ {
+  "id": "algebraic-closure",
+  "word": "Algebraic Closure",
+  "meaning": "代数的閉包、。、。あらゆる。、。、。、。、。問い。。、。に対し、。、。必ず。、。、。、。理知。の。、。、。。「。。、。、。答え。、。、。、」。が存在。。、。し。、。、。。完（まった）。。、。く。。、。、欠。、。け。。、。、。、て。、。、。い。、。ない。。、。宇宙。の、。、。峻烈な。、。、。円。、熟。、",
+  "era": "Arabic al-jabr + Latin clausura",
+  "etymology": {
+   "components": [
+    "al-jabr (restoration)",
+    "clausura (a closing)"
+   ],
+   "original_statement": "A field in which every non-constant polynomial has a root."
+  },
+  "concept": "The closed total (「。。、どこ。を。、。、」。向（む）。。、。いても。、。、。、。あ。、る。。い。は。、。、。「。。、。、。、どの。、。、。、」。問い。。、。、に。、。、。対（たい）。。、。しても、。、。、その。。、。奥底には、。、。、必ず。、。、。、。「。。、。、。一。、。、。、」。つの。、。、。、「。。、。、。答え。、。、。、」。が。、。、。在（。あ）。。、。る。。、。という、。、。理知。の、。、。。峻烈なる。、。。、「。。、。、。、信（。しん）。、。、。、」。、それは、。、。、。、理知。が、。、。、。宇宙。を。、。、。、。一。、点の。、。、。、不。、安。、から。、。、。解。、。、。放。。、。した。。、。、瞬、。。間の、。、。。、平静。、)"
  }
 ];
