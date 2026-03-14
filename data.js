@@ -391813,5 +391813,825 @@ const WORDS = [
 			]
 		},
 		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "psychanalysi",
+		"word": "Psychanalys",
+		"meaning": "精神分析（せいしんぶんせき）",
+		"etymology": [
+			"Greek psyche + ana- + lysis (untying)"
+		],
+		"concept": "Analysis of the soul",
+		"thinking": "「魂（Psyche）」を「解（Lysis）」「き放つ（Ana-）」。日常の些細な言い間違い、夢、そして沈黙。心の表面に現れるさざなみから、深淵に沈んだ巨大な記憶の化物を釣り上げる、対話という名の外科手術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "repression_",
+		"word": "Repression",
+		"meaning": "抑圧（よくあつ）",
+		"etymology": [
+			"Latin re- (back) + premere (to press)"
+		],
+		"concept": "Pushing thoughts out of mind",
+		"thinking": "認め難い欲望、あるいは耐え難い痛みを、心の「底へ（Re-）」「押し（Preme）」込める。見なかったことにしても、それは消えはしない。暗闇の中で腐敗し、やがて症状（貌）となって現れるまで。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "libido_adv_",
+		"word": "Libido",
+		"meaning": "リビドー、性的（せいてき）欲動（よくどう）",
+		"etymology": [
+			"Latin libido (pleasure/longing)"
+		],
+		"concept": "Psychic drive of life",
+		"thinking": "「望む（Libido）」力。単なる性欲ではなく、命を突き動かし、文明を打ち立て、美を発見させるための根源的なエネルギーの奔流。破壊（タナトス）と対をなす、生の創造的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "id_ego_super",
+		"word": "Id",
+		"meaning": "イド、エス",
+		"etymology": [
+			"Latin id (it)"
+		],
+		"concept": "Primal instinctive part of mind",
+		"thinking": "「それ（Id）」。理性の光が届かない、混沌とした本能の海。善悪も時間も知らず、ただ『快楽』だけを貪り求める、私たちの内なる原初的な獣の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "ego_psy_adv",
+		"word": "Ego",
+		"meaning": "エゴ、自我（じが）",
+		"etymology": [
+			"Latin ego (I)"
+		],
+		"concept": "The rational self",
+		"thinking": "「私（Ego）」。本能（イド）の熱狂と、道徳（超自我）の冷徹さ。その板挟みになりながら、過酷な現実という名の綱の上でバランスを保とうとする、舵取りの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "superego_ad",
+		"word": "Superego",
+		"meaning": "超自我（ちょうじが）",
+		"etymology": [
+			"Latin super- + Ego"
+		],
+		"concept": "Moral conscience",
+		"thinking": "自我の「上（Super）」から、冷たく監視する『理想の父』。社会の掟、道徳、そして理想。鏡の中の自分を叱咤し、永遠に満足することのない「あるべき姿」を突きつける、高潔で残酷な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "transferenc",
+		"word": "Transferenc",
+		"meaning": "転移（てんい）",
+		"etymology": [
+			"Latin trans- (across) + ferre (to carry)"
+		],
+		"concept": "Carry over of old feelings",
+		"thinking": "かつて親に向けた愛や憎しみを、今目の前にいる「別な誰か」へと「運んで（Ferre）」「超える（Trans-）」。目の前の人を見ているのではなく、過去の亡霊（影）を重ねている。心のレンズが歪む瞬間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "projection_",
+		"word": "Projection",
+		"meaning": "投影（とうえい）",
+		"etymology": [
+			"Latin pro- (forward) + jacere (to throw)"
+		],
+		"concept": "Attributing self traits to others",
+		"thinking": "自分の醜さを認めたくないとき、それを「前（Pro-）」「投げ（Jace）」して、他人の落ち度として糾弾する。他人は自分の心の深淵を映し出す「鏡」に過ぎないという、防衛の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "sublimatio_",
+		"word": "Sublimatio",
+		"meaning": "昇華（しょうか）",
+		"etymology": [
+			"Latin sublimis (uplifted)"
+		],
+		"concept": "Refining base drives into art",
+		"thinking": "「高く（Sublimis）」持ち上げる。生々しい欲望や怒りを、芸術、学問、献身といった、より美しく社会的な価値へと変換する。泥の中から蓮の花を咲かせるような、心の至高の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "displacement",
+		"word": "Displaceme",
+		"meaning": "置（お）き換（か）え (防御)",
+		"etymology": [
+			"Dis- + Place"
+		],
+		"concept": "Shifting emotion to safer target",
+		"thinking": "本当の怒りの対象（上司や親）から、「安全な場所（Dis-place）」へと感情をそらし、八つ当たりする。心の痛みを和らげるための、しかししばしば悲劇を連鎖させる、卑小で哀しき逃避の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "archetype_a",
+		"word": "Archetype",
+		"meaning": "原型（げんけい）、アーキタイプ",
+		"etymology": [
+			"Greek arkhe (first/origin) + typos"
+		],
+		"concept": "Universal symbolic patterns",
+		"thinking": "「始まり（Arkhe）」の「型（Typos）」。母、老賢者、影。個人の経験を越えて、全人類が共有する心の底の『古層』に刻まれた、神話的な役者たち。誰の夢にも現れる、魂の共通言語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "collective_",
+		"word": "Coll Uncons",
+		"meaning": "集合（しゅうごう）的（てき）無意識（むいしき）",
+		"etymology": [
+			"Latin con- + legere (gather)"
+		],
+		"concept": "Shared inherited unconscious",
+		"thinking": "「共に（Con-）」「集められた（Legere）」、人類すべての記憶の海。あなたの孤独な悩みも、実は数千年前の誰かが同じように感じ、神話として語り継いできた物語の一部であるという、魂の連帯（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "introversio",
+		"word": "Introversi",
+		"meaning": "内向（ないこう）",
+		"etymology": [
+			"Latin intro- (within) + vertere (to turn)"
+		],
+		"concept": "Energy turned inward",
+		"thinking": "心の関心を「内側（Intro-）」へと「向ける（Vert-）」。自分自身の思考、感情、そして空想の世界で、静かにエネルギーを充填する。孤独を愛し、深淵を見つめることで輝く、月のような貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "extroversio",
+		"word": "Extroversi",
+		"meaning": "外向（がいこう）",
+		"etymology": [
+			"Latin extra- (outside) + vertere"
+		],
+		"concept": "Energy turned outward",
+		"thinking": "エネルギーが「外（Extra-）」の世界へと「溢れ出す（Vert-）」。他者と交わり、行動し、賞賛を得ることで生命力を得る。広大なる世界へと飛び込む、太陽のような貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "persona_adv",
+		"word": "Persona",
+		"meaning": "ペルソナ、仮面（かめん）",
+		"etymology": [
+			"Latin persona (mask)"
+		],
+		"concept": "Social mask",
+		"thinking": "社会を生き抜くために被る「仮面（Mask）」。役割としての自分。それ自体は必要だが、仮面が皮膚と一体化した時、私たちは本当の自分の貌を失い、役割という名の亡霊となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "animus_adv_",
+		"word": "Animus",
+		"meaning": "アニムス、女性（じょせい）内（ない）の男性（だんせい）性（せい）",
+		"etymology": [
+			"Latin animus (spirit/mind)"
+		],
+		"concept": "Male element in female psyche",
+		"thinking": "女性の魂の奥底に潜む「論理性」や「力」の化身。抑圧された『もう一つの可能性』。それが統合された時、魂は真の自立と創造性を獲得する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "anima_adv_v",
+		"word": "Anima",
+		"meaning": "アニマ、男性（だんせい）内（ない）の女性（じょせい）性（せい）",
+		"etymology": [
+			"Latin anima (breath/soul)"
+		],
+		"concept": "Female element in male psyche",
+		"thinking": "男性の魂を「呼吸（Anima）」させ、潤いを与える女神（あるいは悪女）。理性という名の硬い殻を打ち破り、感情や直感という名の深淵へと誘う、魂の導き手。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "shadow_psy_",
+		"word": "Shadow",
+		"meaning": "シャドウ、影（かげ）",
+		"etymology": [
+			"Old English sceadu"
+		],
+		"concept": "Hidden dark side of personality",
+		"thinking": "あなたが「こうでありたくない」と否定し、切り捨ててきた「影（Shadow）」。しかしそこには、あなたが生きるために必要な原始的なエネルギーが眠っている。影と握手した時、人は初めて「完全」な貌を手に入れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "individuat",
+		"word": "Individuat",
+		"meaning": "個性（こせい）化（か）、自己（じこ）実現（じつげん）",
+		"etymology": [
+			"Latin in- (not) + dividuus (divisible)"
+		],
+		"concept": "Becoming whole self",
+		"thinking": "二度と「分かつ（Divide）」ことのできない「唯一無二（In-）」の存在、すなわち『真の自分』へと向かう旅。バラバラだった心の欠片（ペルソナ、影、アニマ）を一つに統合し、自分という宇宙の王となるプロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "neurosis_ad",
+		"word": "Neurosis",
+		"meaning": "神経症（しんけいしょう）",
+		"etymology": [
+			"Greek neuron (nerve) + -osis (condition)"
+		],
+		"concept": "Emotional illness from conflict",
+		"thinking": "「神経（Neuron）」の「異変（-osis）」。本当の自分と、求められる自分の間の調整に失敗した時に上がる、悲痛な叫び（症状）。それはあなたが『正しく苦しんでいる』ことの証左でもあり、変化への入り口でもある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "psychosis_a",
+		"word": "Psychosis",
+		"meaning": "精神病（せいしんびょう）状态（じょうたい）",
+		"etymology": [
+			"Greek psyche + -osis"
+		],
+		"concept": "Loss of contact with reality",
+		"thinking": "「魂（Psyche）」が「変容（-osis）」しすぎて、共通の現実という絆を失ってしまった状態。自分だけの真実、自分だけの神話の中に閉じ込められる。もはや共通の貌を失った、孤独なる王国の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "catharsis_a",
+		"word": "Catharsis",
+		"meaning": "カタルシス、浄化（じょうか）",
+		"etymology": [
+			"Greek katharsis (purging)"
+		],
+		"concept": "Release of emotional tension",
+		"thinking": "「吐き出し、清める（Katharsis）」。心の奥底に溜まった膿（感情）を、涙や叫びと共に一気に解き放つ。嵐が去った後の後のような、澄み切った虚空と、新しい貌を手に入れるための儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "trauma_adv_",
+		"word": "Trauma",
+		"meaning": "心的（しんてき）外傷（がいしょう）",
+		"etymology": [
+			"Greek trauma (wound)"
+		],
+		"concept": "Deep emotional wound",
+		"thinking": "魂に刻まれた消えぬ「傷（Trauma）」。時間は流れても、その一瞬の記憶だけは「今」として凍結され、今のあなたを脅かし続ける。癒えることのない傷、しかしそれを抱えて生きることの、静かなる闘争の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "resilience_",
+		"word": "Resilience",
+		"meaning": "レジリエンス、回復（かいふく）力（りょく）",
+		"etymology": [
+			"Latin re- + salire (to leap back)"
+		],
+		"concept": "Ability to bounce back",
+		"thinking": "「後ろへ（Re-）」「跳ね（Salire）」戻る力。叩きのめされても、絶望の淵に立たされても、再び自らの中心（貌）を取り戻そうとする、しなやかな魂のバネ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "schema_psy_",
+		"word": "Schema (P)",
+		"meaning": "スキーマ、認知（にんち）的（てき）枠組み（わくぐみ）",
+		"etymology": [
+			"Greek skhema (form/plan)"
+		],
+		"concept": "Pattern of thought or behavior",
+		"thinking": "世界を理解するための「型（Scheme）」。人はありのままの世界を見ているのではない。自分の中にある『偏った型』を通して、世界を自分流に歪めて解釈している。その「型」を書き換えることが、自由への貌となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "behaviorism",
+		"word": "Behavioral",
+		"meaning": "行動主義（こうどうしゅぎ）",
+		"etymology": [
+			"Behavior"
+		],
+		"concept": "Focus on observable actions",
+		"thinking": "目に見えない「心」など考えない。ただ、刺激に対してどのような『行動（Behavior）』をしたか、その客観的な事実だけを追う。人間を一つの精密な反応機械（貌）として捉える、冷徹な理性の極み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "conditioning",
+		"word": "Conditioni",
+		"meaning": "条件（じょうけん）付け（づけ）",
+		"etymology": [
+			"Latin con- + dicere (to say)"
+		],
+		"concept": "Learning through association",
+		"thinking": "特定の「条件（Condition）」を与えられ、行動を「調律（Dice）」される。ベルが鳴れば唾液が出る。私たちはどれほど、自分自身の意志ではなく、環境という名の主人によって『飼い慣らされた貌』で生きているのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "operant_con",
+		"word": "Operant",
+		"meaning": "オペラント条件（じょうけん）付け（づけ）",
+		"etymology": [
+			"Latin operari (to work)"
+		],
+		"concept": "Learning through consequences",
+		"thinking": "自ら「働きかけ（Operate）」、その結果（報酬か罰）によって、自らの次の行動を微調整していく。成功を求め、失敗を避ける。生き残るための、あまりに合理的で切実な、学習という名の適応の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "imprinting_",
+		"word": "Imprinting",
+		"meaning": "刻（きざ）み込み（こみ）、刷（す）り込み（こみ）",
+		"etymology": [
+			"In- + Latin premere (to press)"
+		],
+		"concept": "Rapid early learning",
+		"thinking": "産まれた直後の一瞬に、魂へと「強く（In-）」「押し（Preme）」つけられる、原初の記憶。最初に見たものを親と信じ、生涯変わらぬ愛情（あるいは呪縛）を抱く。不可逆的な命の刻印の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "attachment_a",
+		"word": "Attachment",
+		"meaning": "愛着（あいちゃく）、アタッチメント",
+		"etymology": [
+			"Old French a- + tachier (to fasten)"
+		],
+		"concept": "Emotional bond with caregivers",
+		"thinking": "特定の誰かと自分を、心の鎖で「繋ぎ（Attach）」止める。その安心という名の『基地』があるからこそ、私たちは孤独な宇宙へと探検に出かけられる。絆という名の、命の最も柔らかな錨の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "self_efficac",
+		"word": "Self-Effic",
+		"meaning": "自己（じこ）効力（こうりょく）感（かん）",
+		"etymology": [
+			"Self + Latin efficere (to bring about)"
+		],
+		"concept": "Belief in one's capability",
+		"thinking": "「自分ならできる（効力）」という、根拠なき、あるいは確かな確信。未来を「産み出す（Efficacy）」ことへの信頼。この貌を持っている者は、何度転んでも、立ち上がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "locus_contr",
+		"word": "Locus Con",
+		"meaning": "統制（とうせい）の所在（しょざい）",
+		"etymology": [
+			"Latin locus (place) + Control"
+		],
+		"concept": "Where one perceives control",
+		"thinking": "自分の運命の手綱は「どこ（Locus）」にあるのか。自分の内にある（内的一致）のか、それとも運命や他者のせいにする（外的）のか。人生の主導権をどこに置くかで、世界の貌は劇的に変わる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "learned_hel",
+		"word": "Helplessne",
+		"meaning": "学習（がくしゅう）性（せい）無力（むりょく）感（かん）",
+		"etymology": [
+			"Learn + Helpless"
+		],
+		"concept": "Resigning to painful situations",
+		"thinking": "「何をしても無駄だ」と「学習（Learn）」してしまう恐怖。痛みに慣れ、檻の扉が開いていても外へ出ようとしない。魂を去勢された、静かなる絶望の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "flow_psy_ad",
+		"word": "Flow (P)",
+		"meaning": "フロー (心理学)",
+		"etymology": [
+			"Latin fluere (to flow)"
+		],
+		"concept": "Optimal experience/immersion",
+		"thinking": "自分という殻を脱ぎ捨て、行為そのものと一体化し、時間が「流れる（Flow）」ままに身を任せる。最高のパフォーマンスを発揮し、自らの貌すらも忘れるほど。それは命が最も純粋に燃え盛っている瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "actualizati",
+		"word": "Actualize",
+		"meaning": "自己（じこ）実現（じつげん） (マズロー)",
+		"etymology": [
+			"Latin actus (to do/act)"
+		],
+		"concept": "Reaching full potential",
+		"thinking": "自分が「あるべき姿（貌）」を「現実（Actual）」のものとする。衣食住や賞賛を越えて、自らの内なる可能性の種火を、一点の曇りもなく咲かせ切ること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "congruence_",
+		"word": "Congruence",
+		"meaning": "一致（いっち）、自己（じこ）一致（いっち）",
+		"etymology": [
+			"Latin con- + gruere (to agree/rush to)"
+		],
+		"concept": "Being genuine and integrated",
+		"thinking": "理想の自分と、現実の自分が「共に（Con-）」「一致し、流れる（Grue）」。嘘のない、誠実な生。自分自身の心に背を向けず、そのすべてを受け入れている、飾らぬ魂の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "empathy_adv",
+		"word": "Empathy",
+		"meaning": "共感（きょうかん）",
+		"etymology": [
+			"Greek en- + pathos (feeling)"
+		],
+		"concept": "Feeling into others",
+		"thinking": "他者の「苦しみ（Pathos）」の「中へ（En-）」入っていく。自分の貌を一度預けて、他者の貌で世界を見て、他者の靴で大地を感じる。それは孤独な魂と魂が、唯一響き合える魔法の橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "narcissism_",
+		"word": "Narcissism",
+		"meaning": "自己（じこ）愛（あい）、ナルシシズム",
+		"etymology": [
+			"Narcissus (Greek youth)"
+		],
+		"concept": "Excessive self-focus",
+		"thinking": "泉に映った「自分の貌」を愛し、それ以外の世界を拒絶する。称賛という名の鏡を求め続け、しかしその内側は常に空虚に怯えている、孤独な美しさの呪縛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "dissociatio",
+		"word": "Dissociati",
+		"meaning": "解離（かいり）",
+		"etymology": [
+			"Latin dis- + sociare (to unite)"
+		],
+		"concept": "Separation of mind components",
+		"thinking": "耐え難い現実から身を守るために、心を「バラバラ（Dis-）」に「切り離す（Sociare）」。自分が自分を見ているような、あるいは誰か別な人の人生を見ているような。心が自らを守るための、最後の、そして危うい盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "somatizatio",
+		"word": "Somatizati",
+		"meaning": "身体（しんたい）化（か）",
+		"etymology": [
+			"Greek soma (body)"
+		],
+		"concept": "Mental pain showing in body",
+		"thinking": "心の「言葉にならない叫び」が、頭痛や腹痛といった「体（Soma）」の言葉へと翻訳される。心では耐えられても、身体という名の誠実な貌は、嘘をつくことができない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "defense_mec",
+		"word": "Defense M",
+		"meaning": "防衛（ぼうえい）機（き）制（せい）",
+		"etymology": [
+			"Latin defendere + Greek mechane"
+		],
+		"concept": "Unconscious mental protection",
+		"thinking": "「私」を「守る」ための「仕掛け（Mechanism）」。抑圧、投影、昇華。自我が傷つかないように、自動的に発動する心の免疫システム。私たちは誰もが、この見えない鎧（貌）を纏って戦っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、分析の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心理学と精神分析の極致へ。"
+			]
+		},
+		"example": "Psychoanalysis explores the depths of the unconscious mind."
 	}
 ];
