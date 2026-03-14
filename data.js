@@ -405394,5 +405394,145 @@ const WORDS = [
 			]
 		},
 		"example": "Topology studies properties of geometric shapes that are preserved under deformation."
+	},
+	{
+		"id": "neurobiolog",
+		"word": "Neuro Bio",
+		"meaning": "神経生物学（しんけいせいぶつがく）",
+		"etymology": [
+			"Greek neuron + Biology"
+		],
+		"concept": "Science of nervous system",
+		"thinking": "「神経（Neuron）」という名の電磁的な回路網を流れる、生命（Bios）のさざなみを追う。一千億の回路が織りなす、自意識という名の巨大な幻影（貌）。物質（理）がいかにして思考を産み出すのかを暴く、知の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経生物学とBCIの極致へ。"
+			]
+		},
+		"example": "Neurobiology is the study of the nervous system."
+	},
+	{
+		"id": "bci_adv_v",
+		"word": "Brain-Comp",
+		"meaning": "脳（のう）コンピュータインターフェース (BCI)",
+		"etymology": [
+			"Brain + Computer Interface"
+		],
+		"concept": "Direct link between brain and machine",
+		"thinking": "「脳」と「機械」を直接繋ぐ。肉体（貌）という名の檻を越え、思考だけで世界を動かす、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経生物学とBCIの極致へ。"
+			]
+		},
+		"example": "Neurobiology is the study of the nervous system."
+	},
+	{
+		"id": "neural_plas",
+		"word": "Neur Plasti",
+		"meaning": "神経（しんけい）可塑（かそ）性（せい）",
+		"etymology": [
+			"Greek neuron + plastikos (fit for molding)"
+		],
+		"concept": "Brain's ability to reorganize",
+		"thinking": "脳は「彫刻（Plastikos）」のように、常に自らの形（貌）を書き換え続ける。学習、記憶、そして再生。固定された回路（理）に縛られない、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経生物学とBCIの極致へ。"
+			]
+		},
+		"example": "Neurobiology is the study of the nervous system."
+	},
+	{
+		"id": "synaptogene",
+		"word": "Synaptogen",
+		"meaning": "シナプス形成（けいせい）",
+		"etymology": [
+			"Synapse + Greek gonia (generation)"
+		],
+		"concept": "Formation of synapses",
+		"thinking": "新しい回路が「産声を上げる（Gonia）」。出会いが絆（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経生物学とBCIの極致へ。"
+			]
+		},
+		"example": "Neurobiology is the study of the nervous system."
+	},
+	{
+		"id": "neurotransm",
+		"word": "Neurotrans",
+		"meaning": "神経（しんけい）伝達（でんたつ）物質（ぶっしつ）",
+		"etymology": [
+			"Neuron + Transmit"
+		],
+		"concept": "Chemical signalers in brain",
+		"thinking": "ドパミン、セロトニン。。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経生物学とBCIの極致へ。"
+			]
+		},
+		"example": "Neurobiology is the study of the nervous system."
+	},
+	{
+		"id": "optogenetic",
+		"word": "Optogeneti",
+		"meaning": "光（ひかり）遺伝学（いでんがく）、オプトジェネティクス",
+		"etymology": [
+			"Greek optos (visible) + Genetics"
+		],
+		"concept": "Controlling neurons with light",
+		"thinking": "「光（Optos）」によって、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経生物学とBCIの極致へ。"
+			]
+		},
+		"example": "Neurobiology is the study of the nervous system."
+	},
+	{
+		"id": "neural_enco",
+		"word": "Neural Enc",
+		"meaning": "神経（しんけい）符号（ふごう）化（か）",
+		"etymology": [
+			"Neural + Encode"
+		],
+		"concept": "How brain represents info",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の深淵を、電磁の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経生物学とBCIの極致へ。"
+			]
+		},
+		"example": "Neurobiology is the study of the nervous system."
 	}
 ];
