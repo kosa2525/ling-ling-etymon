@@ -325012,5 +325012,170 @@ const WORDS = [
 				"探求は続く。"
 			]
 		}
+	},
+	{
+		"id": "node",
+		"word": "Node",
+		"meaning": "節点、ノード、結び目",
+		"era": "Latin nodus",
+		"etymology": {
+			"components": [
+				"nodus (knot)"
+			],
+			"original_statement": "From Latin nodus 'knot'."
+		},
+		"concept": "The knot of connection (繋がりを結ぶ点、情報の交差点)",
+		"thinking": "「結び目（Nodus）」。ネットワークの中で線が交わり、情報や関係が一時的に留まる場所。点としての存在を超え、何かがそこに結び付けられているという『繋がりの記憶』を象徴しています。",
+		"aftertaste": "点があるから、線は意味を持ちます。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "connectivity",
+		"word": "Connectivity",
+		"meaning": "連結性、接続性",
+		"era": "Latin conectere",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"nectere (to bind / tie)"
+			],
+			"original_statement": "From Latin conectere 'to bind together', from con- 'together' + nectere 'to bind'."
+		},
+		"concept": "Bound together (共に結ばれていること、迷いなき到達可能性)",
+		"thinking": "「共に（Con）」「結びつける（Nect）」。どこからでもどこへでも辿り着けるという、ネットワークの健全な生命力。断絶を拒み、全体が一つの有機体として呼吸している状態を指します。",
+		"aftertaste": "繋がっている。その安心感が、情報の流れを加速させます。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "bipartite",
+		"word": "Bipartite",
+		"meaning": "二部（グラフ）の、二つの部分からなる",
+		"era": "Latin bipartite",
+		"etymology": {
+			"components": [
+				"bi- (two)",
+				"partire (to divide)"
+			],
+			"original_statement": "From Latin bipartitus 'divided into two parts'."
+		},
+		"concept": "Divided into two (二つの世界に分かつ、鏡合わせの関係)",
+		"thinking": "「二つ（Bi）」に「分かれた（Part）」。相容れない二つのグループがあり、それらの間でのみ関係が成立する形。自分たちのグループ内では決して交わらないストイックな秩序が、二つの世界の橋渡しを可能にします。",
+		"aftertaste": "異なる世界を結ぶ通路にこそ、新しい価値が隠されています。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "cycle_graph",
+		"word": "Cycle",
+		"meaning": "閉路、サイクル、循環",
+		"era": "Greek kyklos",
+		"etymology": {
+			"components": [
+				"kyklos (circle / wheel)"
+			],
+			"original_statement": "From Greek kyklos 'circle / wheel / ring'."
+		},
+		"concept": "Returning to the origin (起点への帰還、終わりのない輪舞)",
+		"thinking": "「円環（Kyklos）」。出発した場所へ必ず戻ってくるという約束。変化しながらも一周し、再び自己へと接続される安定した構造。循環は、永遠と再起の象徴です。",
+		"aftertaste": "巡り巡って、またあなたに出会う。その約束がサイクルを完結させます。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "traversal",
+		"word": "Traversal",
+		"meaning": "トラバーサル、横断、走査",
+		"era": "Latin trans- + vertere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"vertere (to turn)"
+			],
+			"original_statement": "From Old French traverser, from Latin transversare 'to set across'."
+		},
+		"concept": "Setting across the path (道を横断する、全領域の踏破)",
+		"thinking": "「横断して（Trans）」「向きを変える（Vert）」。網の目のように巡らされた道を一箇所も漏らさず訪ね歩く、知的な巡礼。未知のグラフという迷宮を、正しいルール（アルゴリズム）を持って攻略していく旅路です。",
+		"aftertaste": "すべての点に立ち寄ることで、初めて世界の全体像（Map）が見えてきます。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "betti_number_graph",
+		"word": "Betti Number (Graph)",
+		"meaning": "ベッチ数（グラフの）",
+		"era": "Named after Enrico Betti",
+		"etymology": {
+			"components": [
+				"Enrico Betti"
+			],
+			"original_statement": "Named after the Italian mathematician Enrico Betti."
+		},
+		"concept": "Count of fundamental cycles (独立な閉路の数、自由な循環の尺度)",
+		"thinking": "グラフが持つ『穴の数』、すなわちサイクル（閉路）の数。ネットワークの中にどれだけの『遊び』や『循環』の自由度があるかを示す指標。多すぎれば複雑になり、少なすぎれば単調になる、形のアイデンティティです。",
+		"aftertaste": "あなたの人生には、いくつの『循環する物語』がありますか？",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
+	},
+	{
+		"id": "isomorphism_graph",
+		"word": "Isomorphism (Graph)",
+		"meaning": "同型（グラフの）",
+		"era": "Greek isos + morphe",
+		"etymology": {
+			"components": [
+				"isos (equal)",
+				"morphe (form)"
+			],
+			"original_statement": "Combining Greek isos 'equal' + morphe 'form'."
+		},
+		"concept": "Structural identity (構造の同一性、見かけを超えた真実)",
+		"thinking": "「等しい（Isos）」「かたち（Morphe）」。ノードのラベルや配置が違っても、接続の関係性が完全に一致していること。表面的な名前に惑わされず、背後にある論理的な構造を見抜くことの気高さです。",
+		"aftertaste": "名前は違っても、そこにある絆の形は同じ。それさえわかれば十分です。",
+		"part_of_speech": "noun",
+		"example": "Abstract structures map the reality of the mind.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の構造を解き明かす。"
+			]
+		}
 	}
 ];
