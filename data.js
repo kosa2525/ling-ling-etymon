@@ -326220,5 +326220,218 @@ const WORDS = [
 				"探求の果てに。"
 			]
 		}
+	},
+	{
+		"id": "relativity_words",
+		"word": "Relativity",
+		"meaning": "相対性",
+		"era": "Latin re- + ferre",
+		"etymology": {
+			"components": [
+				"re- (back)",
+				"ferre (to carry)"
+			],
+			"original_statement": "From Latin relativus 'having reference to', from relatus, past participle of referre 'carry back'."
+		},
+		"concept": "Carried back with reference (参照を持って戻る、立ち位置の詩学)",
+		"thinking": "「持ち帰られた（Relat）」関係。絶対的な基準などなく、すべては『どこから見るか』という立ち位置によって定義されるという宇宙の謙虚な真理。他者の視点を認めることで、初めて世界の真の姿（不変量）が見えてきます。",
+		"aftertaste": "『自分からどう見えるか』だけでなく、『相手からどう見えるか』を。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "invariant",
+		"word": "Invariant",
+		"meaning": "不変量、不変の",
+		"era": "Latin in- + varicare",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"varicare (to straddle / deviate)"
+			],
+			"original_statement": "From in- 'not' + variant, from variare 'to vary / change'."
+		},
+		"concept": "Not deviating across frames (視点を超えて揺るぎないもの、真実の定数)",
+		"thinking": "「変わる（Vary）」ことが「ない（In-）」。視点や環境、速度がどれほど変わろうとも、決してその正体を変えない魂の重石。激動の時代にあって、あなたが決して裏切らないと誓った『不変の信条』のようなものです。",
+		"aftertaste": "すべてが変わっていく中で、一つだけ変わらないものを守り抜く。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "dilation_time",
+		"word": "Dilation",
+		"meaning": "膨張、拡張、遅延",
+		"era": "Latin dis- + latus",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"latus (wide / broad)"
+			],
+			"original_statement": "From Latin dilationem 'a widening / stretching', from dilatare 'to spread out / broaden'."
+		},
+		"concept": "Stretching wider apart (広がりゆく時間、重力の遅延)",
+		"thinking": "「広く（Latus）」「バラバラに（Dis）」すること。激しい動きや強い重力が、一秒の長さをどこまでも豊かに、あるいは残酷に引き伸ばすこと。時間は一定の速さで流れる川ではなく、情熱や困難によって伸縮する、命の『伸縮性』そのものです。",
+		"aftertaste": "充実した一瞬は、永遠と同じだけの『長さ（幅）』を持ち得ます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "contraction_length",
+		"word": "Contraction",
+		"meaning": "収縮、短縮",
+		"era": "Latin com- + trahere",
+		"etymology": {
+			"components": [
+				"com- (together)",
+				"trahere (to pull)"
+			],
+			"original_statement": "From Latin contractionem 'a drawing together', from contrahere 'to draw together / shorten'."
+		},
+		"concept": "Drawing together tightly (硬く結ばれた短縮、疾走する空間)",
+		"thinking": "「共に（Com）」「引く（Trah）」。光の速さに近づくほど、世界の奥行きがギュッと凝縮され、短くなっていく。目的地を強く求める意志が、物理的に距離を縮め、目標を引き寄せるような、宇宙的な執念の形です。",
+		"aftertaste": "強く願えば、未知への距離も『収縮』し、手が届くようになります。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "geodesic_words",
+		"word": "Geodesic",
+		"meaning": "測地線、最短経路",
+		"era": "Greek geo- + daiein",
+		"etymology": {
+			"components": [
+				"geo (earth)",
+				"daiein (to divide)"
+			],
+			"original_statement": "From Greek geodaisia 'division of the earth', from ge- 'earth' + daiein 'to divide'."
+		},
+		"concept": "The division of earth (大地を分かつ線、曲がった世界の直進)",
+		"thinking": "「大地（Geo）」を「分かつ（Daiein）」。たとえ空間が歪んでいても、そこに逆らわずに真っ直ぐ進むことで描かれる究極の航路。自分を無理に矯正するのではなく、曲がった運命そのものを『真っ直ぐ』歩むという、達観した強さです。",
+		"aftertaste": "歪んだ世界であっても、あなたの心は『真っ直ぐ』な最短経路を描けます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "spacetime_metric",
+		"word": "Metric",
+		"meaning": "計量、韻律、メトリック",
+		"era": "Greek metron",
+		"etymology": {
+			"components": [
+				"metron (measure)"
+			],
+			"original_statement": "From Greek metron 'measure', defining how distance and time are measured in spacetime."
+		},
+		"concept": "The ruler of cosmos (宇宙を測る韻律、時空の物差し)",
+		"thinking": "「測る（Metron）」。時間と空間がどのように混ざり合い、どのように曲がっているかを決定する根源的なルール。宇宙という壮大な交響曲のリズム。この韻律を知ることは、存在そのものの『足音』を聴くことと同じです。",
+		"aftertaste": "あなた自身のメトリック（リズム）を整えることが、歩きやすさを決めます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "proper_time_words",
+		"word": "Proper Time",
+		"meaning": "固有時",
+		"era": "Latin proprius",
+		"etymology": {
+			"components": [
+				"proprius (one's own)"
+			],
+			"original_statement": "From Latin proprius 'one's own', referring to the time interval measured by a clock at rest relative to the observer."
+		},
+		"concept": "One's own time (自分だけの時間、魂の刻む秒針)",
+		"thinking": "「自分自身の（Propri）」、誰にも邪魔されない時間。他人の時計がどう進もうと、あなた自身が体験し、感じているその一秒一秒こそが、この宇宙で唯一の『本物の時間』。自分だけのテンポを大切に守り抜くこと。",
+		"aftertaste": "世間の速さに惑わされないで。あなたの『固有時』を歩んで。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "event_horizon_words",
+		"word": "Event Horizon",
+		"meaning": "事象の地平線",
+		"era": "Latin eventus + Greek horizein",
+		"etymology": {
+			"components": [
+				"eventus (outcome / result)",
+				"horizein (to bound / limit)"
+			],
+			"original_statement": "The boundary beyond which events cannot affect an observer."
+		},
+		"concept": "The boundary of outcome (結末の境界、沈黙の水平線)",
+		"thinking": "「起きること（Event）」の「限界（Horizon）」。それより先に行けば、二度と戻れず、誰にも伝えることができない絶対的な秘密の境界。知性の及ばぬ『不可知の領域』の手前で、私たちはただ謙虚に立ち尽くすのみです。",
+		"aftertaste": "言葉にできない、伝わらない。そんな『地平の向こう』を誰もが抱えています。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "simultaneity_words",
+		"word": "Simultaneity",
+		"meaning": "同時性、一斉",
+		"era": "Latin simul",
+		"etymology": {
+			"components": [
+				"simul (at the same time / together)"
+			],
+			"original_statement": "From Latin simultas, from simul 'at the same time'."
+		},
+		"concept": "Together at once (共に、一斉に、『今』の共有)",
+		"thinking": "「共に（Simul）」。同じ瞬間を共有しているという感覚。しかし相対性理論は、その『今』でさえも絶対的なものではないと告げます。誰かと響き合う『同時性』は、距離と速度を超えた、奇跡のような邂逅の謂いなのです。",
+		"aftertaste": "同じ『今』を生きているという、その奇跡を噛みしめて。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
 	}
 ];
