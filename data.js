@@ -325463,5 +325463,126 @@ const WORDS = [
 				"知の構造を解き明かす。"
 			]
 		}
+	},
+	{
+		"id": "inflation_cosmic",
+		"word": "Inflation",
+		"meaning": "インフレーション、宇宙膨張、膨張",
+		"era": "Latin in- + flare",
+		"etymology": {
+			"components": [
+				"in- (into)",
+				"flare (to blow)"
+			],
+			"original_statement": "From Latin inflationem 'a blowing into', from inflare 'to blow into / puff up'."
+		},
+		"concept": "Blowing into expansion (吹き込まれる膨張、刹那の爆発的成長)",
+		"thinking": "「息を吹き込む（Flare）」。宇宙が誕生した直後の、目にも止まらぬ速さでの大膨張。虚無に命の息吹が吹き込まれ、一瞬のうちに無限の広がりを得ること。可能性は、時に爆発的な勢いで現実を書き換えます。",
+		"aftertaste": "一瞬の閃きが、あなたの世界を劇的に広げることがあります。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "anisotropy_cmb",
+		"word": "Anisotropy (Cosmic)",
+		"meaning": "異方性（宇宙背景放射の）",
+		"era": "Greek an- + isos + tropos",
+		"etymology": {
+			"components": [
+				"an- (not)",
+				"isos (equal)",
+				"tropos (direction)"
+			],
+			"original_statement": "The directional dependence of cosmic microwave background radiation."
+		},
+		"concept": "The ripple of inequality (不均一な揺らぎ、命を育むムラ)",
+		"thinking": "完璧に均等ではないこと。宇宙の始まりのわずかな「ムラ」。もし宇宙が完璧に滑らかだったら、星も銀河も、そして私たちも生まれませんでした。その『不完全な揺らぎ』こそが、生命という名の物語の種子となったのです。",
+		"aftertaste": "不完全で、ムラがあること。それが新しい創造の源になります。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "quintessence_cosmic",
+		"word": "Quintessence",
+		"meaning": "精髄、クインテッセンス、第五元素",
+		"era": "Latin quinta + essentia",
+		"etymology": {
+			"components": [
+				"quinta (fifth)",
+				"essentia (essence)"
+			],
+			"original_statement": "From Medieval Latin quinta essentia 'fifth essence', the fifth element beyond earth, air, fire, and water."
+		},
+		"concept": "The fifth essence (第五の精髄、加速する暗黒の意志)",
+		"thinking": "「第五（Quinta）」の「本質（Essentia）」。四元素の彼方にあり、宇宙を永劫の膨張へと駆り立てる未知のエネルギー。それは世界を形作る根源的な意志の、まだ誰も正体を知らない『究極の答え』の仮の名前です。",
+		"aftertaste": "目に見えるものだけが世界のすべてではありません。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "nucleogenesis",
+		"word": "Nucleogenesis",
+		"meaning": "核発生、元素発生",
+		"era": "Latin nucleus + Greek genesis",
+		"etymology": {
+			"components": [
+				"nucleus (kernel)",
+				"genesis (birth / origin)"
+			],
+			"original_statement": "Combining nucleus + genesis."
+		},
+		"concept": "Birth of the kernel (核心の誕生、存在の始原)",
+		"thinking": "「核心（Nucleus）」の「誕生（Genesis）」。無の中に最初の種子が宿る瞬間。それはビッグバンから数分後の熱き世界で、物質の原型が初めてその権利を確立した、宇宙史における最も神聖な『誕生の儀式』です。",
+		"aftertaste": "何ごとも、最初の核心（一歩）から始まります。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "dark_matter_words",
+		"word": "Dark Matter",
+		"meaning": "暗黒物質、ダークマター",
+		"era": "English dark + Latin materia",
+		"etymology": {
+			"components": [
+				"dark (not light)",
+				"materia (substance / mother)"
+			],
+			"original_statement": "Hypothetical form of matter that does not emit light, but exerts gravitational pull."
+		},
+		"concept": "Invisible support (見えざる支え、沈黙する質量)",
+		"thinking": "「闇（Dark）」の「物質（Materia）」。光を放たず、姿も見せず、それでも銀河を繋ぎ止め、重力で世界を支えている主役。私たちの日常もまた、意識に上らない無数の『見えない支え』によって成立しています。",
+		"aftertaste": "見えないものの重みを知る時、世界はより深甚な広がりを見せます。",
+		"part_of_speech": "noun",
+		"example": "The language of science is the poetry of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
 	}
 ];
