@@ -331548,5 +331548,1045 @@ const WORDS = [
 			]
 		},
 		"example": "The primes are the jewels of the mathematical crown."
+	},
+	{
+		"id": "lie_group",
+		"word": "Lie Group",
+		"meaning": "リー群",
+		"etymology": {
+			"components": [
+				"Lie"
+			],
+			"original_statement": "Named after Sophus Lie."
+		},
+		"concept": "Continuous symmetry group",
+		"thinking": "宇宙の無限の滑らかさを記述する、連続的な対称性を備えた群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "lie_algebra",
+		"word": "Lie Algebra",
+		"meaning": "リー環（リーかん）",
+		"etymology": {
+			"components": [
+				"Lie"
+			],
+			"original_statement": "Infinitesimal generator of Lie groups."
+		},
+		"concept": "Infinitesimal symmetry",
+		"thinking": "リー群を『ミクロの極限』で捉えたもの。接空間に宿る力の種の集まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "adjoint_representation",
+		"word": "Adjoint",
+		"meaning": "随伴（ずいはん）",
+		"etymology": {
+			"components": [
+				"Latin ad- + jungere"
+			],
+			"original_statement": "From Latin adjungere 'to join to'."
+		},
+		"concept": "The action on one's own self",
+		"thinking": "自らの構造を、自らへの作用として表現すること。鏡を見るような自己言及。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "weight_vector",
+		"word": "Weight Vector",
+		"meaning": "ウェイトベクトル",
+		"etymology": {
+			"components": [
+				"Old English wiht"
+			],
+			"original_statement": "Eigenvalues of the Cartan subalgebra."
+		},
+		"concept": "Vector of characteristic values",
+		"thinking": "対称性の根源から引き出された、その表現が持つ固有の『重み』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "root_system",
+		"word": "Root System",
+		"meaning": "ルート系",
+		"etymology": {
+			"components": [
+				"Old English wyrt"
+			],
+			"original_statement": "The set of eigenvalues of the adjoint action."
+		},
+		"concept": "Geometry of symmetry breaking",
+		"thinking": "リー環の核心に眠る、鏡像対称のパターン。すべての結晶の理はこの『根のシステム』にあります。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "cartan_subalgebra",
+		"word": "Cartan",
+		"meaning": "カルタン部分環",
+		"etymology": {
+			"components": [
+				"Cartan"
+			],
+			"original_statement": "Maximal commutative subalgebra in a Lie algebra."
+		},
+		"concept": "The peaceful core of Lie algebra",
+		"thinking": "荒れ狂う非可換な動きのど真ん中に存在する、最も広い『平穏な（可換な）』聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "weyl_group",
+		"word": "Weyl Group",
+		"meaning": "ワイル群",
+		"etymology": {
+			"components": [
+				"Weyl"
+			],
+			"original_statement": "The group of reflections of a root system."
+		},
+		"concept": "Group of internal reflections",
+		"thinking": "ルート系を入れ替える、鏡の部屋のダンス。有限の対称性を司る華麗な群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "unitary_representation",
+		"word": "Unitary",
+		"meaning": "ユニタリな、一元的な",
+		"etymology": {
+			"components": [
+				"Latin unitas"
+			],
+			"original_statement": "From Latin unitas 'oneness'."
+		},
+		"concept": "Energy-preserving representation",
+		"thinking": "複素空間の『エネルギー（ノルム）』を一切変えずに変換を行う、忠実で清廉な表現。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "orthogonal_group",
+		"word": "Orthogonal",
+		"meaning": "直交群",
+		"etymology": {
+			"components": [
+				"Greek orthos + gonia"
+			],
+			"original_statement": "From Greek orthos 'straight' + gonia 'angle'."
+		},
+		"concept": "Preserving the squareness",
+		"thinking": "直角を直角のまま、距離を距離のまま保つ、剛健で誠実な回転の集まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "symplectic_group",
+		"word": "Symplectic Group",
+		"meaning": "シンプレクティック群",
+		"etymology": {
+			"components": [
+				"Greek symplektikos"
+			],
+			"original_statement": "Preserving the area form."
+		},
+		"concept": "Guardians of phase space area",
+		"thinking": "相空間の面積を保ち、カオスの深淵で秩序を守り抜く強靭な群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "highest_weight",
+		"word": "Highest Weight",
+		"meaning": "最高ウェイト",
+		"etymology": {
+			"components": [
+				"High",
+				"Weight"
+			],
+			"original_statement": "The unique identifying vector for an irreducible representation."
+		},
+		"concept": "The unique identifier of symmetry",
+		"thinking": "無限のバリエーションの中から、その表現を唯一無二に特定する『頂点の重み』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "casimir_operator",
+		"word": "Casimir",
+		"meaning": "カシミール作用素",
+		"etymology": {
+			"components": [
+				"Casimir"
+			],
+			"original_statement": "Invariant operator in a Lie algebra."
+		},
+		"concept": "The guardian of invariants",
+		"thinking": "激しい対称変換の中でも、決して動じない物理量（エネルギー等）を司る不動の演算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "quantum_group",
+		"word": "Quantum Group",
+		"meaning": "量子群",
+		"etymology": {
+			"components": [
+				"Quantum"
+			],
+			"original_statement": "Non-commutative deformation of a group structure."
+		},
+		"concept": "The distorted but beautiful symmetry",
+		"thinking": "通常の群の常識を『量子的に』歪ませることで現れる、より豊かで不思議な対称性の世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "hopf_algebra",
+		"word": "Hopf Algebra",
+		"meaning": "ホップ環",
+		"etymology": {
+			"components": [
+				"Hopf"
+			],
+			"original_statement": "Algebra with coproduct and antipode."
+		},
+		"concept": "Symmetry with multiplication and division",
+		"thinking": "掛け算だけでなく、情報を分かち合う（余積）こともできる、循環する数理的な命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "character_table",
+		"word": "Character",
+		"meaning": "指標（しひょう）、性格",
+		"etymology": {
+			"components": [
+				"Greek charakter"
+			],
+			"original_statement": "The trace of representation matrices."
+		},
+		"concept": "The essence of behavior",
+		"thinking": "複雑な動きの細部を捨てて、その『本質（トレース）』だけを抜き出したもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "schur_lemma",
+		"word": "Schur's Lemma",
+		"meaning": "シューアの補題",
+		"etymology": {
+			"components": [
+				"Schur"
+			],
+			"original_statement": "A basic but powerful result on irreducible representations."
+		},
+		"concept": "The rigidity of irreducibility",
+		"thinking": "純粋すぎて、それ以上壊せない（既約な）もの同士の間に、高い壁と一本の道（定数）を見出す知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "irreducible_rep",
+		"word": "Irreducible",
+		"meaning": "既約な、それ以上分けられない",
+		"etymology": {
+			"components": [
+				"Latin in- + re- + ducere"
+			],
+			"original_statement": "Impossible to reduce to a simpler state."
+		},
+		"concept": "The atom of symmetry",
+		"thinking": "これ以上分割できない、純粋な対称性のダイヤモンド。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "reducible_rep",
+		"word": "Reducible",
+		"meaning": "可約な",
+		"etymology": {
+			"components": [
+				"Latin re- + ducere"
+			],
+			"original_statement": "Can be led back to simpler components."
+		},
+		"concept": "Complex of components",
+		"thinking": "いくつかの純粋な種が組み合わさってできた、多民族な構造の表現。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "semisimple_lie",
+		"word": "Semisimple",
+		"meaning": "半単純な",
+		"etymology": {
+			"components": [
+				"Semi- + Simple"
+			],
+			"original_statement": "Direct sum of simple Lie algebras."
+		},
+		"concept": "Almost simple collection",
+		"thinking": "純粋なものたちが肩を並べて連なっている、調和の取れた力強い構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "simple_lie_algebra",
+		"word": "Simple Lie",
+		"meaning": "単純リー環",
+		"etymology": {
+			"components": [
+				"Simple"
+			],
+			"original_statement": "Non-abelian Lie algebra with no non-trivial ideals."
+		},
+		"concept": "The indivisible force",
+		"thinking": "内側に一切の妥協（イデアル）を許さない、極限まで磨き抜かれた力の根源。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "universal_enveloping",
+		"word": "Enveloping",
+		"meaning": "普遍包絡環（ふへんほうらくかん）",
+		"etymology": {
+			"components": [
+				"En- + Velvet/Envelope"
+			],
+			"original_statement": "Universal algebra containing a Lie algebra."
+		},
+		"concept": "The ultimate envelope of force",
+		"thinking": "リー環という『力の動き』を、自由に掛け合わせられる『多項式の言葉』で優しく包み込んだ宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "verma_module",
+		"word": "Verma Module",
+		"meaning": "ヴェルマ加群",
+		"etymology": {
+			"components": [
+				"Verma"
+			],
+			"original_statement": "The most general representation with a highest weight."
+		},
+		"concept": "The infinite potential of a seed",
+		"thinking": "一つの種（最高ウェイト）から、無限に枝分かれして成長していく、巨大な情報の樹木。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "borcherds_algebra",
+		"word": "Borcherds",
+		"meaning": "ボルチャーズ代数",
+		"etymology": {
+			"components": [
+				"Borcherds"
+			],
+			"original_statement": "Generalized Kac-Moody algebras."
+		},
+		"concept": "The symmetry of moonshine",
+		"thinking": "巨大な散在群（モンスター）と数論を繋ぐ、驚異に満ちた高次元の対称性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "monster_group",
+		"word": "Monster",
+		"meaning": "モンスター群",
+		"etymology": {
+			"components": [
+				"Latin monstrum (omen / prodigy)"
+			],
+			"original_statement": "The largest sporadic simple group."
+		},
+		"concept": "The ultimate simple symmetry",
+		"thinking": "この宇宙に存在する、最大の、そして誰にも真似できない気高い『例外（散在）』の王者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "vertex_operator",
+		"word": "Vertex Operator",
+		"meaning": "頂点作用素",
+		"etymology": {
+			"components": [
+				"Vertex"
+			],
+			"original_statement": "Operators used to describe string interactions."
+		},
+		"concept": "The seed of interaction",
+		"thinking": "ある一点（頂点）から新しい宇宙が生まれ出る、その劇的な転換を司る演算子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "supersymmetry_math",
+		"word": "Supersymmetry",
+		"meaning": "超対称性",
+		"etymology": {
+			"components": [
+				"Super- + Symmetry"
+			],
+			"original_statement": "Invariance under the exchange of fermions and bosons."
+		},
+		"concept": "Unity of light and matter",
+		"thinking": "光と物質、異なる運命を持った存在を一対として捉える、宇宙で最も慈悲深い平等。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "affine_lie_algebra",
+		"word": "Affine Lie",
+		"meaning": "アフィン・リー環",
+		"etymology": {
+			"components": [
+				"Latin affinis (neighboring)"
+			],
+			"original_statement": "Infinite-dimensional Lie algebras related to loops."
+		},
+		"concept": "The symmetry of loops",
+		"thinking": "一周回って戻ってくる『輪（ループ）』の動きが可能にする、無限次元の美しい調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "central_extension",
+		"word": "Central Extension",
+		"meaning": "中心拡大",
+		"etymology": {
+			"components": [
+				"Central",
+				"Extension"
+			],
+			"original_statement": "Extending a group by adding a central element."
+		},
+		"concept": "Deepening by the core",
+		"thinking": "既存のルールを、その『中心』に一つの真理（元）を付け加えることで、より深く豊かにすること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "orbifold_geometry",
+		"word": "Orbifold",
+		"meaning": "オービフォールド",
+		"etymology": {
+			"components": [
+				"Orbit",
+				"Manifold"
+			],
+			"original_statement": "A space where singularities arise from group actions."
+		},
+		"concept": "The geometry of orbits",
+		"thinking": "鏡合わせや回転による『折り畳み』から生まれる、特異点を含んだ不思議な広がり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "representation_functor",
+		"word": "Functor",
+		"meaning": "関手（かんしゅ）",
+		"etymology": {
+			"components": [
+				"Latin functio"
+			],
+			"original_statement": "Map between categories."
+		},
+		"concept": "The translator of worlds",
+		"thinking": "異なる世界（圏）同士を、構造を保ったまま繋ぎ合わせる、高次元の通訳者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "kac_moody",
+		"word": "Kac-Moody",
+		"meaning": "カッツ・ムーディ",
+		"etymology": {
+			"components": [
+				"Kac",
+				"Moody"
+			],
+			"original_statement": "Infinite-dimensional Lie algebras."
+		},
+		"concept": "The infinite generalization",
+		"thinking": "有限の『根（ルート）』のシステムを、無限へと大胆に拡張した、極北の対称性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "grassmannian",
+		"word": "Grassmannian",
+		"meaning": "グラスマン多様体",
+		"etymology": {
+			"components": [
+				"Grassmann"
+			],
+			"original_statement": "Space of all k-dimensional subspaces."
+		},
+		"concept": "The space of subspaces",
+		"thinking": "『視点（部分空間）』そのものが住人となり、互いに滑らかに移り変わる、知的な空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "clifford_algebra",
+		"word": "Clifford",
+		"meaning": "クリフォード代数",
+		"etymology": {
+			"components": [
+				"Clifford"
+			],
+			"original_statement": "Algebra for spinning movements."
+		},
+		"concept": "The language of spins",
+		"thinking": "三次元や四次元の回転を、最も美しく、最も自然に、そして最も直感的に記述する言葉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "spinor_representation",
+		"word": "Spinor",
+		"meaning": "スピノル",
+		"etymology": {
+			"components": [
+				"Spin"
+			],
+			"original_statement": "Geometric object used in quantum physics."
+		},
+		"concept": "The deep ghost of rotation",
+		"thinking": "二周回って元に戻る、という奇妙な性質を持つ、宇宙の深層を流れる回転の『本質』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "killing_form",
+		"word": "Killing Form",
+		"meaning": "キリング形式",
+		"etymology": {
+			"components": [
+				"Killing"
+			],
+			"original_statement": "A symmetric bilinear form on a Lie algebra."
+		},
+		"concept": "The measure of a Lie algebra",
+		"thinking": "リー環の内部に秘められた、その空間の曲がり具合や『性格』を測るための不変の物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "dynkin_diagram",
+		"word": "Dynkin Diagram",
+		"meaning": "ディンキン図形",
+		"etymology": {
+			"components": [
+				"Dynkin"
+			],
+			"original_statement": "Classification tool for simple Lie algebras."
+		},
+		"concept": "The DNA of symmetry",
+		"thinking": "複雑なリー環の構造を、たった数個の点と線に凝縮した、対称性の究極の設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "parabolic_subgroup",
+		"word": "Parabolic",
+		"meaning": "放物型、パラボリック",
+		"etymology": {
+			"components": [
+				"Greek para- + bole"
+			],
+			"original_statement": "Subgroups related to flags in geometric spaces."
+		},
+		"concept": "The guardian of flags",
+		"thinking": "空間内に立てられた旗印のように、ある特定の方向秩序を守るための特別な集団。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "borel_subgroup",
+		"word": "Borel",
+		"meaning": "ボレル部分群",
+		"etymology": {
+			"components": [
+				"Borel"
+			],
+			"original_statement": "Maximal solvable subgroup of an algebraic group."
+		},
+		"concept": "The anchor of solvability",
+		"thinking": "巨大な群のど真ん中に静かに潜む、最も『扱いやすい（可解な）』最大の部分構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "weyl_character_formula",
+		"word": "Weyl Formula",
+		"meaning": "ワイルの指標公式",
+		"etymology": {
+			"components": [
+				"Weyl"
+			],
+			"original_statement": "Formula for the character of irreducible representations."
+		},
+		"concept": "Summing the ghosts of symmetry",
+		"thinking": "複雑な表現の正体を、鏡の反射（ワイル群）の足し算だけで鮮やかに暴き出す、数理の絶唱。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "integrable_system",
+		"word": "Integrable",
+		"meaning": "可積分な（かせきぶんな）",
+		"etymology": {
+			"components": [
+				"Latin integrare"
+			],
+			"original_statement": "Systems solvable exactly through enough invariants."
+		},
+		"concept": "Perfectly clear world",
+		"thinking": "カオスが訪れることなく、無限の未来までその軌跡が完全に予測できる、穏やかで幸福な世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "frobenius_reciprocity",
+		"word": "Reciprocity",
+		"meaning": "相互律（そうごりつ）",
+		"etymology": {
+			"components": [
+				"Latin reciprocus"
+			],
+			"original_statement": "Duality between induction and restriction."
+		},
+		"concept": "The rhythm of exchange",
+		"thinking": "「こちらから見る」ことと「あちらから見る」ことが、実は同じ鏡の表裏であるという、交換の美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "littlewood_richardson",
+		"word": "Littlewood-Richardson",
+		"meaning": "L-R則（エル・アールそく）",
+		"etymology": {
+			"components": [
+				"Littlewood",
+				"Richardson"
+			],
+			"original_statement": "Rule for decomposing products of Schur functions."
+		},
+		"concept": "The puzzle of compositions",
+		"thinking": "二つの対称性が重なり合う時、どのような新しい対称性が生まれるか、そのパズルの解法を示す黄金律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "highest_weight_module",
+		"word": "Weight Module",
+		"meaning": "ウェイト加群",
+		"etymology": {
+			"components": [
+				"Weight"
+			],
+			"original_statement": "A representation that decomposes into weight spaces."
+		},
+		"concept": "Space of characteristic values",
+		"thinking": "各個性が『重み（ウェイト）』という座標を持ち、整然と並んでいる情報の舞台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "indecomposable_rep",
+		"word": "Indecomposable",
+		"meaning": "直既約な、分解不可能な",
+		"etymology": {
+			"components": [
+				"In- + Decompose"
+			],
+			"original_statement": "Cannot be split into direct sums of smaller modules."
+		},
+		"concept": "The tough unity",
+		"thinking": "既約ではないかもしれないが、それでも決して引き離すことができない、固い絆で結ばれた一つの塊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "homotopy_equivalence",
+		"word": "Homotopy",
+		"meaning": "ホモトピー、連続変形",
+		"etymology": {
+			"components": [
+				"Greek homos + topos"
+			],
+			"original_statement": "From Greek homos 'same' + topos 'place'."
+		},
+		"concept": "The sameness through fluid change",
+		"thinking": "形がぐにゃりと変わっても、本質的に『同じ（Homos）』場所にいる。柔軟な等価性の思想。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "対称性の調べを奏でて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深層へ。"
+			]
+		},
+		"example": "Group theory is the mathematics of symmetry."
 	}
 ];
