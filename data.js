@@ -323810,5 +323810,89 @@ const WORDS = [
    "original_statement": "The force that holds protons and neutrons together in atomic nuclei."
   },
   "concept": "The unbreakable chain (「。。、決して。、。、」。離（はな）。。、。、。れ。。、。、。させ。。、。ぬ。。、。という、。、。理知。の、。峻烈なる。、。、。。契。、。約。、。それは、。、。、。、バラ。、。バラ。、に。、。、。。な。、。る。。、。ことの、。、。。、。出来。ぬ。。、。、。一。、。、。つの。、。、。、。、命。の、。、。、。根。、。、源。、)"
+ },
+ {
+  "id": "mathematical-approximation",
+  "word": "Approximation",
+  "meaning": "近似、真実。へと。、。、。幽（。かす）。。、。かな。。、。、指（。ゆ。）。。、。先。、で。、。、。触。、。、れ。よう。。、。とする、。、理知。の、。歩み寄り。、",
+  "era": "Latin ad- + proximus",
+  "etymology": {
+   "components": [
+    "ad- (to)",
+    "proximus (nearest)"
+   ],
+   "original_statement": "From Latin approximare 'to come near to'."
+  },
+  "concept": "The nearing truth (「。。、。正貌（せいぼう）。。、。、」。を。、。、。知（し）。。、。る。。、。ことの、。、。。できない。、。。、。我ら。に。、。、。あえて。、。、。、。宇宙。が。、。、。許。した。。、。、峻烈な。、。、。、。、、。「。。、。、似。、。せ。。、。る。。、。、」。、。、。という、。、。、慈。、。、悲。、。、。それは、。、。、。理知。が、。、。、。。「。。、。、。、。お。、。そ。、。ら。、。、。、。く。、。、。、」。、と。、。いう、。、。。祈。、りを。、。、。。捧（。ささ）。。、。げる。。、。、こと。)"
+ },
+ {
+  "id": "discretization",
+  "word": "Discretization",
+  "meaning": "離散化、滑（。なめ）。。らかな。。、。、流れ。を。、。、あえて。、。、。一。、。つずつの。、。、。粒。へと、。、。、断（。た。）。。、。ち。。、。切る。。、。理知。の、。解。、。体。、",
+  "era": "Latin discretus",
+  "etymology": {
+   "components": [
+    "dis- (apart)",
+    "cernere (to separate)"
+   ],
+   "original_statement": "The process of transferring continuous functions, models, variables, and equations into discrete counterparts."
+  },
+  "concept": "Dicing the continuous (「。。、どこまでも。、向（む）。。、。、。こう。。、」。まで。、。、。、「。。、。、。、一。、。、。、」。、。、。、。であった。、。はず。の、。、。「。。、。、。、流れ。、向。、。、。、」。を。、。、。、。峻烈なる。、。、。、。、。、。刃（は）。。、で。、。、バラ。バラ。、。に、。。、。砕（くだ）。。、。く。。、。、ことで、。、。、。理。知。に、。、。、。、「。。、。、。、。数。、。、。、」。え。ら。せる。。、。、ための。、。、。、。知性の。、。、。暴。、。挙。、)"
+ },
+ {
+  "id": "finite-difference",
+  "word": "Finite Difference",
+  "meaning": "有限差分、。、。極限。へと。、。、。至る。。、。前の、。、。、幽（。かす）。。、。かな。。、。、「。。、。、隔（。へだ）。。、。たり。。、。、」。、。、。の中に。、。、ひっそり。と、。、。真実。の。、。理知。を。、。見出す。。、。、試み。、",
+  "era": "Latin finis + differentia",
+  "etymology": {
+   "components": [
+    "finis (limit / boundary)",
+    "differentia (difference)"
+   ],
+   "original_statement": "A mathematical expression of the form f(x+b) - f(x+a)."
+  },
+  "concept": "The stepped change (「。。、。一。、。、。瞬、。、。」。という。、。、。、。、峻烈。な、。、。、。、「。。、。、点。、。、。、」。と。、。、「。。、。、点。、。、。、」。の、。、。、響（ひび）。。、。き。。、。合い、。、。、。それ。。を。、。、。、理。知。が、。、。、つぶ。、さ。。、に。、。。、。見。、。守。、。、。る。。、。ことで、。、。、。微分。という、。、。神の。、。、。、。魔法。を、。、。。、。、我ら。の。、。、。手に。。、。、。奪（うば）。。、。い。。、。返す。。、。、一。、。つの。、。、。、不。、。屈。、。の、。、。策。、)"
+ },
+ {
+  "id": "stochastic-gradient",
+  "word": "Stochastic Gradient",
+  "meaning": "確率的勾配、。、。闇（くらやみ）。。の中、。、。あえて。、。、。デ。、。タ。、ラ。、メ。、。に。、。、足。を。、。、。踏み。出し、。、。、最後。には。、。、。頂（。いただき）。。、。へと。、。、。至（いた）。。、。る。。、理知。の、。、。博。、。、打。、",
+  "era": "Greek stokhos + Latin gradi",
+  "etymology": {
+   "components": [
+    "stokhos (aim / guess)",
+    "gradus (step)"
+   ],
+   "original_statement": "An iterative method for optimizing an objective function with suitable smoothness properties."
+  },
+  "concept": "The random descent (「。。、あちら。を。、。、」。向き。、。、「。。、。、。こちら。を。、。、。、」。向き。、。、。その。。、。、デ。、タ。、ラ。、メ。、。な。、。、。「。。、。、。震。え。、。、。、」。、。、。が。、。、。、最後。には。。、。、。真実。の。、。、。「。。、。、。、。底。、。、。、」。、へと。、。、。、導（みちび）。。、。かれる。。、。、という、。、。、。皮肉。な。、。、。。、までの。、。、。理知。の、。、。、。強。、。、靭。、。さ。、)"
+ },
+ {
+  "id": "overfitting",
+  "word": "Overfitting",
+  "meaning": "過学習、。、。眼（め）。。、。の前。の。、。、理知。に。、。、。囚（とら）。。、。われ。。すぎる。。、。あまり、。、。、真実。の。、。、。。「。。、。、。全。体。、。、。、」。を。、。、。忘（わす）。。、。れて。。、。しまう。。、。、悲しき。、。、。。迷。、走。、",
+  "era": "English over + fitting",
+  "etymology": {
+   "components": [
+    "over",
+    "fit"
+   ],
+   "original_statement": "The production of an analysis that corresponds too closely or exactly to a particular set of data, and may therefore fail to fit additional data."
+  },
+  "concept": "The lost generality (「。。、。あまり。に、。、。、」。、。、。近く。。、を。、。。見。、。つめ。。、すぎた。。、。ために。、。、。、遠く。の、。、。光。を、。、。。失（うしな）。。、。う。。、。、。一。、。つの。、。、。、。。「。。、。、。溺（おぼ）。。、。れ。。、。、。、」。、。、。それは、。、。、。理知。が、。、。、。。「。。、。、。過去。、。、。、」。に、。、。。、囚（とら）。。、。われ。。、。未来。を。、。、。拒（。こば）。。、。んで。。、。しまう。。、。、。峻烈なる。、。、。、。、。、、。「。。、。、。執。、。着。、。、。、」。、)"
+ },
+ {
+  "id": "cross-validation",
+  "word": "Cross-validation",
+  "meaning": "交差検証、。、。自分。を。、。、。何度。も。、。、。裏（。うら）。。、。切り。。、。ながら。、。、。それでも。、。、。揺。、。る。、。が。、。、ぬ。。、。理知。を。、。、。探（さが）。。、。し。。、出。す。。、峻烈な。、。、試。、。練。、",
+  "era": "English cross + Latin validatio",
+  "etymology": {
+   "components": [
+    "cross",
+    "validus (strong)"
+   ],
+   "original_statement": "A resampling method that uses different portions of the data to test and train a model on different iterations."
+  },
+  "concept": "The cycle of doubt (「。。、。、信。、。、。じ。、。、。る。、。、」。ために。、。、あえて。、。、。、。、。疑（。うたが）。。、。い。。、。抜（。ぬ）。。、。く。。、。、こと。の、。、。。理。知。、。、。それは、。、。、。、宇宙。が。、。、。、一。、。つの。、。、。結論。。へと、。、。。、。、辿（たど）。。、。り。。、。着（つく）。。、。ための。、。、。。、たゆ。まなき。、。、。、「。。、。、。自。、己。、。、。、」。への。、。、。、。、。、、。「。。、。、。、審。、判。、。、。、」。、)"
  }
 ];
