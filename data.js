@@ -403834,5 +403834,625 @@ const WORDS = [
 			]
 		},
 		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "monomyth_ad",
+		"word": "Monomyth",
+		"meaning": "単一（たんいつ）神話（しんわ）、貴種（きしゅ）流離（りゅうり）譚（たん）",
+		"etymology": [
+			"Greek monos + Mythos"
+		],
+		"concept": "Common hero's journey",
+		"thinking": "「一つ（Mono）」の普遍的な「神話（Myth）」。ジョセフ・キャンベルが説いた、英雄が旅立ち、試練を越え、帰還するという遍在する物語の理。私たちの人生という断片も。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "cosmogony_a",
+		"word": "Cosmogony",
+		"meaning": "宇宙（うちゅう）創成（そうせい）神話（しんわ）",
+		"etymology": [
+			"Greek kosmos (order/world) + gonia (generation)"
+		],
+		"concept": "Myth of origin of universe",
+		"thinking": "どのようにして、この「秩序（Kosmos）」が「産声を上げた（Gonia）」か。卵から、巨人から、あるいは沈黙の言葉から。混沌を名づけ、世界に貌を与える、原初の情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "chaos_myth_",
+		"word": "Chaoskampf",
+		"meaning": "カオスカンプ、混沌（こんとん）との闘争（とうそう）",
+		"etymology": [
+			"Greek khaos + German Kampf (struggle)"
+		],
+		"concept": "Battle between order and chaos",
+		"thinking": "「混沌（Chaos）」との「戦い（Kampf）」。龍を殺す英雄。秩序という名の光を維持するために、私たちは。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "eschatolog",
+		"word": "Eschatolog",
+		"meaning": "終末（しゅうまつ）論（ろん）神話（しんわ）",
+		"etymology": [
+			"Greek eskhatos (last) + logos"
+		],
+		"concept": "Myths of the end of the world",
+		"thinking": "「最後（Eskhatos）」の「理（Logos）」。世界はどのように終わり、どのように再び産まれるのか。ラグナロク、最後の審判。終わりを。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "culture_her",
+		"word": "Culture Her",
+		"meaning": "文化（ぶんか）英雄（えいゆう）",
+		"etymology": [
+			"Culture + Hero"
+		],
+		"concept": "Mythical figure giving tools/fire",
+		"thinking": "人々に「火」や「農耕」を授け、自然を文化へと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "trickster_a",
+		"word": "Trickster",
+		"meaning": "トリックスター",
+		"etymology": [
+			"Trick + -ster"
+		],
+		"concept": "Character subverting norms",
+		"thinking": "「ずる賢い（Trick）」者。神と人間、善と悪、秩序と混沌の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "theogony_ad",
+		"word": "Theogony",
+		"meaning": "神統記（しんとうき）、神々（かみがみ）の系譜（けいふ）",
+		"etymology": [
+			"Greek theos (god) + gonia"
+		],
+		"concept": "Origin/genealogy of gods",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "demiurge_ad",
+		"word": "Demiurge",
+		"meaning": "デミウルゴス、神（かみ）のごとき造物主（ぞうぶつしゅ）",
+		"etymology": [
+			"Greek demios (public) + ergon (work)"
+		],
+		"concept": "Artisan-like creator god",
+		"thinking": "「民のための（Demi-）」「働き人（Ergon）」。この不完全な物質世界を、設計図通りに組み立てたという。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "anthropomor",
+		"word": "Anthropomo",
+		"meaning": "擬人化（ぎじんか）",
+		"etymology": [
+			"Greek anthropos + morphe"
+		],
+		"concept": "Attributing human form to non-human",
+		"thinking": "「人間（Anthropos）」の「形（Morphe）」を投影する。宇宙の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "totemism_ad",
+		"word": "Totemism",
+		"meaning": "トーテミズム",
+		"etymology": [
+			"Ojibwa ototeman"
+		],
+		"concept": "Spritual link to animals/plants",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "animism_adv",
+		"word": "Animism",
+		"meaning": "アニミズム、汎（はん）霊（れい）説（せつ）",
+		"etymology": [
+			"Latin anima (breath/spirit)"
+		],
+		"concept": "Belief in spirits in everything",
+		"thinking": "「息（Anima）」があるところ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "chtonian_ad",
+		"word": "Chthonic",
+		"meaning": "地（ち）に潜（ひそ）む、冥界（めいかい）の",
+		"etymology": [
+			"Greek khthon (earth)"
+		],
+		"concept": "Of the underworld/earth",
+		"thinking": "「大地（Khthon）」の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "celestial_m",
+		"word": "Celestial",
+		"meaning": "天上（てんじょう）の、天之（あまの）",
+		"etymology": [
+			"Latin caelum (sky)"
+		],
+		"concept": "Of the heavens/sky",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "liminality_",
+		"word": "Liminal (M)",
+		"meaning": "境界（きょうかい）的（てき）存在（そんざい） (神話)",
+		"etymology": [
+			"Latin limen (threshold)"
+		],
+		"concept": "Beings on the edge of worlds",
+		"thinking": "「敷居（Limen）」の上。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "etiology_ad",
+		"word": "Etiology",
+		"meaning": "原因（げんいん）譚（たん）、アイティオロジー",
+		"etymology": [
+			"Greek aitia (cause) + logos"
+		],
+		"concept": "Myth explaining origin of phenomena",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "folklorist_",
+		"word": "Folklorist",
+		"meaning": "民間（みんかん）伝承（でんしょう）学者（がくしゃ）",
+		"etymology": [
+			"Folk + Lore"
+		],
+		"concept": "Scholar of folk traditions",
+		"thinking": "「民（Folk）」の「知恵（Lore）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "oral_tradit",
+		"word": "Oral Trad",
+		"meaning": "口承（こうしょう）伝承（でんしょう）",
+		"etymology": [
+			"Latin os (mouth) + Traditio"
+		],
+		"concept": "Passed down by speech",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "motif_folkl",
+		"word": "Motif (F)",
+		"meaning": "モチーフ (物語要素)",
+		"etymology": [
+			"Motif"
+		],
+		"concept": "Small recurring narrative unit",
+		"thinking": "「魔法の杖」「三つの試練」。。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "type_index_",
+		"word": "ATU Index",
+		"meaning": "ATU番号（ばんごう）、昔話（むかしばなし）型（がた）目録（もくろく）",
+		"etymology": [
+			"Aarne-Thompson-Uther"
+		],
+		"concept": "Classification of folk tales",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "fairy_tale_",
+		"word": "Fairy Tale",
+		"meaning": "おとぎ話（ばなし）、童話（どうわ）",
+		"etymology": [
+			"Fairy (French faerie)"
+		],
+		"concept": "Magical stories for folk",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "urban_legen",
+		"word": "Urban Leg",
+		"meaning": "都市（とし）伝説（でんせつ）",
+		"etymology": [
+			"Urban + Legend"
+		],
+		"concept": "Modern folklore",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "cryptozoology",
+		"word": "Cryptozoo",
+		"meaning": "未確認（みかくにん）動物（どうぶつ）学（がく）、UMA学（がく）",
+		"etymology": [
+			"Greek kruptos (hidden) + Zoo"
+		],
+		"concept": "Study of hidden animals",
+		"thinking": "「隠された（Krupto）」命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "hierophany_",
+		"word": "Hierophany",
+		"meaning": "聖顕（せいけん）、ヒエロファニー",
+		"etymology": [
+			"Greek hieros (holy) + phainein (show)"
+		],
+		"concept": "Manifestation of the sacred",
+		"thinking": "「聖なるもの（Hieros）」が「現れ出る（Phain-）」。。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "shamanism_a",
+		"word": "Shamanism",
+		"meaning": "シャーマニズム",
+		"etymology": [
+			"Evenki saman"
+		],
+		"concept": "Direct contact with spirits",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "apotheosis_",
+		"word": "Apotheosis",
+		"meaning": "神格化（しんかくか）、神（かみ）となること",
+		"etymology": [
+			"Greek apo- + theos"
+		],
+		"concept": "Elevation to divine status",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "theophany_a",
+		"word": "Theophany",
+		"meaning": "神（かみ）の出現（しゅつげん）",
+		"etymology": [
+			"Greek theos + phainein"
+		],
+		"concept": "Actual appearance of a god",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "sacred_time",
+		"word": "Sacred Tim",
+		"meaning": "聖（せい）なる時間（じかん）、神話（しんわ）的（てき）時間（じかん）",
+		"etymology": [
+			"Latin sacer"
+		],
+		"concept": "Eternal present of myths",
+		"thinking": "「時計（理）」とは異なる、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "axis_mundi_",
+		"word": "Axis Mundi",
+		"meaning": "世界（せかい）軸（じく）",
+		"etymology": [
+			"Latin axis + mundi (of the world)"
+		],
+		"concept": "Center connecting worlds",
+		"thinking": "「世界（Mundi）」の「軸（Axis）」。天と地を繋ぐ巨木や塔。宇宙の貌の中心。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "metamorphos",
+		"word": "Metamorpho",
+		"meaning": "変身（へんしん）、メタモルフォーゼ",
+		"etymology": [
+			"Greek meta- (change) + morphe"
+		],
+		"concept": "Change in form",
+		"thinking": "「形（Morphe）」を「変える（Meta-）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "syncretism_",
+		"word": "Syncretism",
+		"meaning": "習合（しゅうごう）、シンクレティズム",
+		"etymology": [
+			"Greek sun- + kretizein"
+		],
+		"concept": "Merging different beliefs",
+		"thinking": "「共に（Sun-）」混ざり合う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "divination_",
+		"word": "Divination",
+		"meaning": "占い（うらない）、神託（しんたく）",
+		"etymology": [
+			"Latin divinare (to be inspired by god)"
+		],
+		"concept": "Gaining info via supernatural",
+		"thinking": "「神（Divine）」の意志に触れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "神話の深淵を、象徴の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"比較神話学と伝承学の極致へ。"
+			]
+		},
+		"example": "Comparative mythology studies the similarities between myths of different cultures."
 	}
 ];
