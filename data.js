@@ -323894,5 +323894,89 @@ const WORDS = [
    "original_statement": "A resampling method that uses different portions of the data to test and train a model on different iterations."
   },
   "concept": "The cycle of doubt (「。。、。、信。、。、。じ。、。、。る。、。、」。ために。、。、あえて。、。、。、。、。疑（。うたが）。。、。い。。、。抜（。ぬ）。。、。く。。、。、こと。の、。、。。理。知。、。、。それは、。、。、。、宇宙。が。、。、。、一。、。つの。、。、。結論。。へと、。、。。、。、辿（たど）。。、。り。。、。着（つく）。。、。ための。、。、。。、たゆ。まなき。、。、。、「。。、。、。自。、己。、。、。、」。への。、。、。、。、。、、。「。。、。、。、審。、判。、。、。、」。、)"
+ },
+ {
+  "id": "ultraproduct",
+  "word": "Ultraproduct",
+  "meaning": "超積、。、。無限。の、。、。。世界。。たちを。、。、。一。、。つの。、。、。濾過。。、。器。、。、。を通して。、。、。、。一。、。、。つ。、。へと。、。結ぶ。、。、峻烈な。、。、。理知。、",
+  "era": "Latin ultra + productum",
+  "etymology": {
+   "components": [
+    "ultra (beyond)",
+    "productum (product)"
+   ],
+   "original_statement": "A construction in mathematical logic, specifically in model theory, that produces a new model as a quotient of the direct product of a family of models."
+  },
+  "concept": "The filtered product (「。。、。百万。、。、」。の、。、。異なる。。、。、。「。。、。、。、私。、。、。、」。たちが。、。、。、。峻烈なる。、。、。、。濾（。ろ）。。、。過。。、。器（。うるとらふぃるたー）。。、。の、。中。を。、。、。、。通（。とお）。。、。り。。、。、。抜（。ぬ）。。、。けた。。、。とき、。、。、不意に。、。、。、。一。、。、。、つの。、。、。理想。。へと、。、。、溶。け。、。、。合う。。、。ことの、。、。、驚。き。、それは、。、。、。理知。が、。、。、。多様。な。、。、暗。、黒。を。、。、。超。、。、。え。、。。、一。、。、。つの。、。、。、真理。へと。、。、収（。おさ）。。、。める。。、。ための。、。、。、。、。魂。の。、。、。。集。、約。、)"
+ },
+ {
+  "id": "compactness-theorem",
+  "word": "Compactness Theorem",
+  "meaning": "コンパクト性定理、。、。断片。、。、。としての。、。、真理。が。、。、。あれば。、。、。最後。には。、。、。、。、全体。としての。、。、真実。。が、。、。、姿（。フォルム）。。を。、。、現（。あら）。。、。わ。。す。。、。こと。、",
+  "era": "Latin compactus + Greek theorema",
+  "etymology": {
+   "components": [
+    "compactus (joined together)",
+    "theorema (proposition to be proved)"
+   ],
+   "original_statement": "An first-order logic result stating that a set of first-order sentences has a model if and only if every finite subset of it has a model."
+  },
+  "concept": "The assembly of truth (「。。、。一。、。、。、」。つの。、。、。、。欠（か。）。。、。け。。、。、。ら。、。に、。、。、潜（ひそ）。。、。む、。、。理知。が、。、。、。正（せい）。。、。し。、。い。。、。のなら、。、。、。、必ず。、。、。、。宇宙。その。、。、。もの。も、。、。、。。そこに。、。、。在（。あ）。。、。る。。、。はず。、。、という、。、。峻烈な。、。、。、確。、。信。、。、それは、。、。、。理知。が。、。、。、一。、。点の。、。、。、。断。、。、。片。、。から。、。、。無限。を、。、。。、。、手。繰（。たぐ）。。、。り。。、。寄（。よ）。。、。せる。。、ための。、。、。、。、。絆。、)"
+ },
+ {
+  "id": "quantifier-elimination",
+  "word": "Quantifier Elimination",
+  "meaning": "限定記号消去、。、。どの。、。、。ような。。、。、。もの。、に対しても。、。、。、という、。、。峻烈な。、。、。包。、。囲。、。網を。、。、あえて。、。、。消（。き。）。。、。し。。、。、。具体的。なる。、。、光。、へと。、。、。変え。さ。。、せて。。、。ゆ。く。。、理知。の、。解。、。放。、",
+  "era": "Latin quantus + eliminare",
+  "etymology": {
+   "components": [
+    "quantus (how much)",
+    "e- (out of)",
+    "limen (threshold)"
+   ],
+   "original_statement": "The process of simplifying a formula to an equivalent one that does not contain quantifiers."
+  },
+  "concept": "The removal of bounds (「。。、どこ。。、。までも。、。、」。続（つづ）。。、。く。。、。、。、「。。、。、。、全（。ぜん）。、。、。、」。という。、。、。、重（お。）。。、。も。、。、に。、。、逃（。に。）。。、。げる。。、。ことなく、。、。、ただ。。、。眼（め）。。、。の前の、。、。、。一。、。点。、。を。、。、見。、つ。。、める。。、。ことで、。、。、。。宇宙。の、。、。、。全貌。を、。、。。、。語（。かな。）。。、。り。。、。尽（。つ。）。。、。く。。、。そう。。、。とする、。、。、。理。知。の。、。、。、。。、潔。、。、。さ。、)"
+ },
+ {
+  "id": "elementary-equivalence",
+  "word": "Elementary Equivalence",
+  "meaning": "初等的同値、。、。見ための。、。、。、世界。。は。、。、。、これほど。、。、。異（こと）。。、。なって。。、。いても、。、。、。言葉。で。、。、。語（。かた）。。、。り。、。、。うる。、。こと。は、。、。、。全く。。、。同一。。、である。。、。、という、。、。理知。の、。、。皮。、。、肉。、",
+  "era": "Latin elementarius + aequivalentia",
+  "etymology": {
+   "components": [
+    "elementarius (beginning / basic)",
+    "a- (to)",
+    "valere (to be strong / worth)"
+   ],
+   "original_statement": "The property of two structures such that they satisfy the same first-order sentences."
+  },
+  "concept": "The shared language (「。。、。あ。、な。た。、。、」。と。、。、「。。、。、私。、。、。、」。は。、。、。全く。、。、別（べつ）。。の、。、。宇宙。。を。、。、。、。生（い）。。、。きて。。、。いる。。、。はず。なのに、。、。、。、語（。かた）。。、。り。。、。合（。あ）。。、。え。。、。ば、。、。、。そこ。。に。、。、。全（まった）。。、。く。。、同じ。。、。理知。の、。、。。「。。、。、。ひびき。、。、。、」。を。、。、。、見。、。出す。。、。、ことの。、。、。、。、峻烈な。、。、。、。戦。、慄。、)"
+ },
+ {
+  "id": "categoricity",
+  "word": "Categoricity",
+  "meaning": "範疇性、。、。理知。が、。、。、。ただ。。、。一。、。つの。、。、。、。世界。。、しか、。、。、射（い）。。、。抜（ぬ）。。、。、か。。、。ぬ。。、。、峻烈。なる。、。、。、。、。決。、。定。、。性。、",
+  "era": "Greek kategoria",
+  "etymology": {
+   "components": [
+    "kategoria (accusation / prediction)"
+   ],
+   "original_statement": "The property of a mathematical theory such that all its models are isomorphic to each other."
+  },
+  "concept": "The absolute determination (「。。、。他。へ。、。、」。行く。。、。、。道。、などは。、。、存在。。、し。ない。。、。、。という、。、。理知。の、。峻烈なる。、。、。。「。。、。、。、。主。、。権。、。、。、」。それは、。、。、。、言葉。が。、。、。、宇宙。を。、。、。、ただ。、。。、。一。、。つの。、。、。、「。。、。、。、。真実。、。、。、」。へと、。、。、。、封（。ふう）。。、。じ。、。込（。こ。）。。、。めた。。、。、。証（。あかし）。、)"
+ },
+ {
+  "id": "godel-numbering",
+  "word": "Gödel Numbering",
+  "meaning": "ゲーデル数、。、。言葉。や。、。、。理知。さえも。、。、。、。一。、。つの。、。、。、。数。、へと、。、。、変え。さ。。、せて。。、。しまう。。、。理知。の、。、。。、魔術。、",
+  "era": "Name Kurt Gödel",
+  "etymology": {
+   "components": [
+    "Kurt Gödel (logician)"
+   ],
+   "original_statement": "A function that assigns to each symbol and well-formed formula of some formal language a unique natural number."
+  },
+  "concept": "The number of soul (「。。、。声。、。、」。も。、。、「。。、。、。想（。おも）。。、。い。、。、。、」。も、。、。、すべて。は、。、。、結局。。、。、一。、。つの。、。、。、。「。。、。、数。、。、。、」。として、。、。、。世界。。の。、。、。、。裏。側。。に、。、。、。ひっそり。と、。、。、書（か）。。、。き。。、。込ま。れて。。、。いる。。、。ことの、。、。、。、。峻烈な。、。、。、怖（こわ）。。、。さ。、。、それは、。、。、。理知。が、。、。、宇宙。その。、。、。もの。の、。、。、。「。。、。、図。、。面。、。、。、」。を。、。、。暴（あば）。。、。いた。。、。、。瞬、。。間。、)"
  }
 ];
