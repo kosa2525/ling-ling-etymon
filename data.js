@@ -324231,5 +324231,88 @@ const WORDS = [
    "original_statement": "A measure used in physics to describe the degree of order in a system undergoing a phase transition."
   },
   "concept": "The mark of order (「。。、。何。も、。、。、」。ない。。、。ところ。から。、。、。不意に。、。、「。。、。、。、。理。、。、。、」。が。、。、。、。浮（う）。。、。き。。、。上がって。。、。、。くる。。、。、一。、。瞬、。の、。、。中。に、。、。。輝（かがや）。。、。く。。、。、。一。、。つの。。、。、数。、。、。それは、。、。、。、理知。が、。、。、。、闇。、。を。、。、愛。する。。、。ために。、。、。ひそかに。、。、。。準備。、。、して。。、。いた。。、。、。峻烈なる。、。、。、。、審。、。判。、)"
+ },
+ {
+  "id": "exterior-derivative",
+  "word": "Exterior Derivative",
+  "meaning": "外微分、。、。一。、。つの。。、。理知。を。、。、。さら。に、。、。高次元。の。、。、真実。へと。、。曝（。さら）。。、。す。。、。ための。、。、知性の。、。、。跳（。ちょう）。。、。躍。、",
+  "era": "Latin exterior + derivare",
+  "etymology": {
+   "components": [
+    "exterior (outer)",
+    "de- (away from)",
+    "rivus (stream)"
+   ],
+   "original_statement": "An operation that extends the concept of the differential of a function to differential forms of higher degree."
+  },
+  "concept": "The upward leap (「。。、。一。、。、。つの。、。、」。、。、。形（ Form）。、。に。、。ひっそり。と、。、。、。留（。とど）。。、。まる。。、。ことを。、。、。理知。が、。、。あえて。、。、「。。、。、。、拒。、絶。、。、。、」。し、。、。、。一つ。、。上の。、。、。理（り）。。へと。、。、手を。、。、伸（の）。。、。ば。、。す。。、。とき、。、。、不意に。、。、。、。。、。「。。、。、。、。境界。、。、。、」。、と。、。いう、。、。、。峻烈な。、。、。。、。、光。が。、。放（。はな）。。、。た。、。れる。。、。、。ことの、。、。、峻烈な。、。、。美。、。、。しさ。、)"
+ },
+ {
+  "id": "wedge-product",
+  "word": "Wedge Product",
+  "meaning": "外積（ウェッジ積）、。、。二つの。、。、。理知。が。、。、。重（かさ）。。、。なり。。、。合い、。、。、。一。、。つの。。、。、。より。、。、。広（ひろ）。。、。な。、。る。。、。、「。。、。、。面。、。、。、」。を。、。、紡（つむ）。。、。ぐ。。、。こと。、",
+  "era": "English wedge + Latin productum",
+  "etymology": {
+   "components": [
+    "wedge (splitting tool)",
+    "productum (product)"
+   ],
+   "original_statement": "An operation on differential forms that is anticommutative and associative, used to build up higher-degree forms."
+  },
+  "concept": "The woven surface (「。。、。私。、向（む）。。、。、。こう。。、」。と。、。、「。。、。、あ。、な。た。、。、。」。が。、。、不意に。、。、。。手を。、。繋（つな）。。ぎ。。、。あ。った。。、。瞬、。。間に。、。、。、。そこに。、。、。ひっそり。と、。、。、。一。、。つの。、。、。、。、「。。、。、。、。形（ Form）。、。、。、」。が。、。、。生ま。れる。。、。、という、。、。、。理知。の、。峻烈なる。、。、。、。、。愛。、。、。それは、。、。、。理知。が。、。、。、一。、点の。、。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。宇宙。の、。、。、。、。広（ひろ）。。、。がり。。、。。を。。、。、受。け。、。容（い）。。、。れる。。、ための。、。、。、。、。術。、)"
+ },
+ {
+  "id": "frobenius-theorem",
+  "word": "Frobenius Theorem",
+  "meaning": "フロベニウスの定理、。、。あらゆる。、。、。、。方向。、。、が。、。、ひっそり。と、。。、。、。同一。の。、。、。、「。。、。、。、。面。、。、。、」。へと。、。、。溶（と。）。。、。け。、こ。む。。、。ための。、。、。峻烈な。、。、。契。、。約。、",
+  "era": "Name Ferdinand Georg Frobenius",
+  "etymology": {
+   "components": [
+    "Ferdinand Georg Frobenius (mathematician)"
+   ],
+   "original_statement": "A theorem in differential topology stating the conditions under which a distribution of subspaces of the tangent bundle of a manifold is integrable."
+  },
+  "concept": "The contract of planes (「。。、あちら。を。、。、」。向き。、。、「。。、。、。こちら。を。、。、。、」。向き。。、。、。その。。、。、。身。、。勝（が）。。、。手。な。、。、。「。。、。、。、願い。、。、。、」。たちが。、。、。、。不意に。、。、。、。一。、。つの。、。、。、。、。、「。。、。、。、真実。、。、。、」。へと、。、。、。、。整。、理。。、。、。された。。、。瞬、。。間。、。、、それは、。、。、。理知。が、。、。、。、宇宙。の中に。、。、。ひっそり。と、。。、。、潜（ひそ）。。、。ませた。。、。、。一。、。つの。、。、。、。、「。。、。、。、秩序。、。、。、」。の、。、。。峻烈なる。、。、。、。、。叫。、。、び。、)"
+ },
+ {
+  "id": "pullback-mapping",
+  "word": "Pullback",
+  "meaning": "引き戻し、。、。遠。き。、。世界。での。、。、。「。。、。、。、想（。おも）。。、。い。。、。、」。を。、。、。、再び。、。、。自らの。、。、。、掌（。て。の。ひら）。。、。へと、。。、。奪（うば）。。、。い。。、。返す。。、。、理知。の、。、。回。、。帰。、",
+  "era": "English pull + back",
+  "etymology": {
+   "components": [
+    "pull",
+    "back"
+   ],
+   "original_statement": "In differential geometry, the pullback is an operation that takes a differential form on one manifold and produces a corresponding form on another manifold via a smooth map."
+  },
+  "concept": "The return of light (「。。、。、遠。く。、。、」。離（はな）。。、。、。れた。。、。、。場所。、で。、。、。奏（かな）。。、。で。、。、。られた。。、。、峻烈な。、。、。、。旋。、律。を、。、。、。、もう一度。、。、。、。、「。。、。、。、私。、。、。、」。のもとに。、。、。、。寄（よ）。。、。り。。、。添（そ）。。、。わせ。、。。、。、る。。、。ための。、。、。、。、。理。知。、。、。それは、。、。、。、宇宙。が。、。、。、失（うしな）。。、。わ。。、。れた。。、。はずの。、。、。、。、。「。。、。、。面。、。影。、。、。、」。を。、。、。、決して。、。、。、忘（わす）。。、。れ。。、。ぬ。。、。ための。、。、。、。、。峻烈な。、。、。、。心。、。根。、)"
+ },
+ {
+  "id": "pushforward-mapping",
+  "word": "Pushforward",
+  "meaning": "押し出し、。、。自らの。、。、。、。内。なる。、。、。理知。を。、。、。、世界。。へと、。、。、。放（はな）。。、。つ。。、。ことで、。、。、。遠。き。、。。、異（。こと）。。、。、な。、。る。。、。地。に。、。、。、理知。を。、。、。。刻（。きざ）。。、。む。。、。こと。、",
+  "era": "English push + forward",
+  "etymology": {
+   "components": [
+    "push",
+    "forward"
+   ],
+   "original_statement": "An operation that maps tangent vectors from one manifold to another manifold using a smooth transformation."
+  },
+  "concept": "The surge of will (「。。、。、ここ。、に。、。、」。在（。あ）。。、。る。。、。、。理知。を。、。、。あえて。、。、「。。、。、。、。外。、。、。、」。へと。、。、。、。解。、放。。、。、する。。、。ことで、。、。、。、。未知。の。、。、。。海。、さえも、。、。、自らの。、。、。、「。。、。、。力。、。、。、」。へと。、。、。変え。さ。。、せて。。、。しまう。。、。、峻烈なる。、。、。、。、。勇。、。気。、。、それは、。、。、。理知。が。、。、。、宇宙。を。、。、。、一。、。歩。、。、。前。。へと、。、。、。、進（すす）。。、。め。。、。る。。、ための。、。、。、。、。激。、。、動。、)"
+ },
+ {
+  "id": "hodge-star",
+  "word": "Hodge Star Operator",
+  "meaning": "ホッジ・スター、。、。理知。の。、。、表。。、と。、。、。、。裏。、を。、。一。、。、。瞬、。にして。、。、穿（。うが）。。、。ち。。、。、反（はん）。。、。転。、。、。させる。。、。理知。の、。、。審。、。判。、",
+  "era": "Name W. V. D. Hodge",
+  "etymology": {
+   "components": [
+    "William Vallance Douglas Hodge (mathematician)"
+   ],
+   "original_statement": "An operator in differential geometry that maps differential forms on an n-dimensional oriented Riemannian manifold to their dual forms of degree n-k."
+  },
+  "concept": "The mirror of forms (「。。、。光。、。、」。が。、。、。あれば。、。、。必ず。、。、。、。そこに。、。、。峻烈。な、。、。、「。。、。、。影。、。、。、」。が。、。、。在（。あ）。。、。る。。、。、という、。、。、理知。の、。峻烈なる。、。、。。「。。、。、。双。、。対。、。、。、」。、。、。それは、。、。、。、。理知。が。、。、。、。自ら。を。、。、。。「。。、。、。、。他。、。、。、」。の、。、。眼（め）。。、。ざ。し。、で。、。、。見。、。つ。。、める。。、。ことで、。、。、宇宙。を。、。、。、。完成。へと、。、。、。導（みちび）。。、。く。。、。、ための。、。、。、。、。、。峻烈なる。、。、。、。、光。、。の、。、。カ。、。ッ。。、。ター。、)"
  }
 ];
