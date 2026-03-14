@@ -352003,5 +352003,960 @@ const WORDS = [
 			]
 		},
 		"example": "Cryptography is the art of secret writing."
+	},
+	{
+		"id": "robotics_auton",
+		"word": "Robotics",
+		"meaning": "ロボティクス、ロボット工学",
+		"etymology": {
+			"components": [
+				"Czech robota (forced labor)"
+			],
+			"original_statement": "Study of robots and their control systems."
+		},
+		"concept": "Mechanical manifestation of will",
+		"thinking": "「使役される者（Robota）」。かつては苦役を強いられる奴隷を指した言葉が、今や鋼の肉体とシリコンの脳を持ち、自律して動く『新しい知性』の器となった。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "actuator_motion",
+		"word": "Actuator",
+		"meaning": "アクチュエータ、駆動装置",
+		"etymology": {
+			"components": [
+				"Latin actus (act/drive)"
+			],
+			"original_statement": "Component of a machine that is responsible for moving."
+		},
+		"concept": "The muscle of the machine",
+		"thinking": "「行わせる（Act-）」もの。電気の信号を物理的な力へと変換し、静止した冷たい鋼に『躍動』を宿らせる、魔法の筋肉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "servomechanism",
+		"word": "Servomechanism",
+		"meaning": "サーボ機構",
+		"etymology": {
+			"components": [
+				"Latin servus (slave) + Mechanism"
+			],
+			"original_statement": "Automatic device that uses error-sensing negative feedback to correct performance."
+		},
+		"concept": "The obedient correction",
+		"thinking": "「命じられた通りに（Servus）」「仕組み（Mechanism）」。自分の今の状態を見つめ、目標とのズレ（誤差）を瞬時に埋める。忠実さと正確さを極めた自律制御の魂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "pid_control_loop",
+		"word": "PID Control",
+		"meaning": "PID制御",
+		"etymology": {
+			"components": [
+				"Proportional",
+				"Integral",
+				"Derivative"
+			],
+			"original_statement": "Feedback control loop using P, I, and D parameters."
+		},
+		"concept": "Harmonizing past, present, and future",
+		"thinking": "今のズレ（P）、積み重なった過去の重み（I）、そして未来の変化の兆し（D）。三つの視点をブレンドすることで、機械を滑らかにいざなう、古典にして究極の操縦律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "feedback_control",
+		"word": "Feedback",
+		"meaning": "フィードバック制御",
+		"etymology": [
+			"Feed + Back"
+		],
+		"original_statement": "Process in which current output is compared to desired output.",
+		"concept": "Self-correcting loop",
+		"thinking": "自分の行動の結果を自らに「食べさせる（Feed-back）」。鏡を見るように自省し、あるべき姿へと自らを律し続ける、動的な秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "closed_loop_sys",
+		"word": "Closed-loop",
+		"meaning": "閉（へい）ループ系",
+		"etymology": [
+			"Closed + Loop"
+		],
+		"original_statement": "System where the output has an effect upon the input signal.",
+		"concept": "Autonomous circle of logic",
+		"thinking": "外からの命令だけでなく、自らの現在の状態をぐるりと一周繋ぎ合わせる（Closed）。その輪の中で、自己完結した調和が生み出される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "open_loop_sys",
+		"word": "Open-loop",
+		"meaning": "開（かい）ループ系",
+		"etymology": [
+			"Open + Loop"
+		],
+		"original_statement": "System where output has no influence on input.",
+		"concept": "The blind command",
+		"thinking": "「放たれたまま」の支配。結果を顧慮せず、ただ命じられた分だけを行い、それ以上の自省をしない。単純でありながらも、時には豪快な一撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "optimal_control",
+		"word": "Optimal Control",
+		"meaning": "最適制御（さいてきせいぎょ）",
+		"etymology": [
+			"Latin optimus (best) + Control"
+		],
+		"original_statement": "Mathematical method for finding a control policy over a period of time such that an objective function is optimized.",
+		"concept": "The most efficient journey",
+		"thinking": "最も「最高（Optimus）」な道のり。燃料を最小に、あるいは時間を最短に。冷徹な数理が導き出す、迷いのない完璧なる軌跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "kalman_filter_rob",
+		"word": "Kalman Filter",
+		"meaning": "カルマンフィルタ",
+		"etymology": [
+			"Kalman"
+		],
+		"original_statement": "Algorithm that provides estimates of unknown variables given a series of measurements over time.",
+		"concept": "Truth from noisy signals",
+		"thinking": "不正確なセンサーの叫び、風のノイズ。それらカオスの中から、真の自分の位置を数学的に『予言』し続ける。不確かさの中で確かなものを掴むための知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "state_space_model",
+		"word": "State-space",
+		"meaning": "状態空間モデル",
+		"etymology": [
+			"State + Space"
+		],
+		"original_statement": "Mathematical model of a physical system as a set of input, output, and state variables.",
+		"concept": "The map of all possible conditions",
+		"thinking": "システムの「今」を、一望できる抽象的な宇宙（空間）へと投影する。そこでの微かな動きのすべてが、現実の世界の激動とリンクしている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "transfer_function",
+		"word": "Transfer Funct",
+		"meaning": "伝達関数（でんたつかんすう）",
+		"etymology": [
+			"Latin trans- + ferre (to carry)"
+		],
+		"original_statement": "Mathematical function relating output to input.",
+		"concept": "The signature of the transformation",
+		"thinking": "入力を出力へと「運び換える（Trans-fer）」時の、システムの『性格』そのもの。ブラックボックスの中で、何がどう変容するのかを語る数式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "odometry_locom",
+		"word": "Odometry",
+		"meaning": "オドメトリ、自律移動計測",
+		"etymology": [
+			"Greek hodos (way/path) + metron (measure)"
+		],
+		"original_statement": "Using data from motion sensors to estimate change in position over time.",
+		"concept": "Measuring the path taken",
+		"thinking": "「道のり（Hodos）」を「測る（Metron）」。車輪の回転数だけを頼りに、暗闇の中で自分がどれだけ進んだかを暗誦する、孤独な旅人の歩数計。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "slam_navigation",
+		"word": "SLAM",
+		"meaning": "自己位置推定と地図作成（SLAM）",
+		"etymology": [
+			"Simultaneous Localization and Mapping"
+		],
+		"original_statement": "Computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it.",
+		"concept": "Mapping while lost",
+		"thinking": "未知の迷宮を彷徨いながら、同時にその地図を書き、自分の居場所を突き止める。霧の中から、世界と自分を同時に立ち上げていく、ロボットの目覚め。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "kinematics_robot",
+		"word": "Kinematics",
+		"meaning": "運動学（うんどうがく）",
+		"etymology": [
+			"Greek kinema (motion)"
+		],
+		"original_statement": "Study of motion without considering forces.",
+		"concept": "The geometry of movement",
+		"thinking": "「動き（Kinema）」そのものを、力や重さを無視して、純粋な幾何学として記述する。腕の角度が、指先の位置をどう決めるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "dynamics_control",
+		"word": "Dynamics",
+		"meaning": "動力学（どうりきがく）",
+		"etymology": [
+			"Greek dynamis (force/power)"
+		],
+		"original_statement": "Study of forces and their effects on motion.",
+		"concept": "The weight of the movement",
+		"thinking": "幾何学に「重さ」と「力（Dynamis）」が加わる。加速する慣性、立ちふさがる摩擦。現実という峻厳な物理法則を操るための智慧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "degree_of_freedom",
+		"word": "DOF",
+		"meaning": "自由度（じゆうど）",
+		"etymology": [
+			"Degree + Freedom"
+		],
+		"original_statement": "The number of independent parameters that define a system's configuration.",
+		"concept": "Dimensions of movement",
+		"thinking": "その機械が、どれだけ奔放に「自由（Freedom）」を謳歌できるか。関節が増えるたびに、宇宙を掴むための次元が一つずつ開かれていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "end_effector_rob",
+		"word": "End Effector",
+		"meaning": "エンドエフェクタ、末端効果器",
+		"etymology": [
+			"End + Effect"
+		],
+		"original_statement": "The device at the end of a robotic arm, designed to interact with the environment.",
+		"concept": "The interface of action",
+		"thinking": "腕の「果て（End）」にあり、現実を「変える（Effect）」もの。手、ドリル、溶接。そこにすべての知性が集約され、世界への介入が行われる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "haptic_interface",
+		"word": "Haptic",
+		"meaning": "触覚表現（しょっかくひょうげん）",
+		"etymology": [
+			"Greek haptesthai (to touch)"
+		],
+		"original_statement": "Technology that can create an experience of touch by applying forces, vibrations, or motions.",
+		"concept": "The bridge of touch",
+		"thinking": "「触れる（Haptesthai）」。冷たい機械を通して、遠く離れた感触、あるいは架空の重みを脳に直接届ける。失われた感覚の再創造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "teleoperation_sys",
+		"word": "Teleoperation",
+		"meaning": "遠隔操作（えんかくそうさ）",
+		"etymology": [
+			"Greek tele (distant) + Operation"
+		],
+		"original_statement": "The operation of a system or machine at a distance.",
+		"concept": "Action at a distance",
+		"thinking": "「遠く（Tele）」から行う。自分の意志を、数千キロ彼方の鋼の肉体へと乗り移らせ、その手足として振る舞わせる、幽体離脱のような制御。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "autonomous_agent",
+		"word": "Autonomous",
+		"meaning": "自律型（じりつがた）エージェント",
+		"etymology": [
+			"Greek autos (self) + nomos (law)"
+		],
+		"original_statement": "An entity that makes decisions independently based on its sensors and internal state.",
+		"concept": "Living by one's own law",
+		"thinking": "「自分（Autos）」の「掟（Nomos）」に従う。外部の操り人形ではなく、自ら考え、選び、歩む。機械に宿った最初の自由。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "latency_control",
+		"word": "Latency",
+		"meaning": "遅延（ちえん）、レイテンシ",
+		"etymology": [
+			"Latin latere (to lie hidden)"
+		],
+		"original_statement": "Delay before a transfer of data begins following an instruction.",
+		"concept": "The hidden pause",
+		"thinking": "「潜んでいる（Latere）」沈黙の時間。命令が届くまでの、あるいは結果を知るまでの、もどかしい空白。それが長いほど、世界は制御不能な霧に包まれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "dead_reckoning_nav",
+		"word": "Dead Reckon",
+		"meaning": "自律航法（じりつこうほう）",
+		"etymology": [
+			"Deduced Reckoning"
+		],
+		"original_statement": "Process of calculating current position by using a previously determined position, and advancing that position based on known speeds over elapsed time.",
+		"concept": "Blind Estimation",
+		"thinking": "「推論（Reckon）」による航海。外部からの光（GPS）を失っても、過去の記録と自分の歩みだけを信じて、闇の中を進み続ける不屈の計算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "jacobian_matrix_rb",
+		"word": "Jacobian",
+		"meaning": "ヤコビアン、ヤコビ行列",
+		"etymology": [
+			"Jacobi"
+		],
+		"original_statement": "Matrix representing the relationship between joint velocities and end-effector velocities.",
+		"concept": "The gear ratio of multi-dimensions",
+		"thinking": "関節の微かな動きを、指先の劇的な変化へと翻訳する数理の地図。複雑に連動する幾何学を、解きほぐし記述するための道具。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "singularity_rob",
+		"word": "Singularity",
+		"meaning": "特異点（とくいてん）",
+		"etymology": [
+			"Latin singularis"
+		],
+		"original_statement": "Configuration where a robot loses one or more degrees of freedom.",
+		"concept": "The geometric knot",
+		"thinking": "「唯一の（Singularis）」場所。腕が奇妙に絡まり、ある方向への動きが永遠に禁じられてしまう。数学的な美しさが、物理的な限界と衝突する歪な点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "collision_avoidance",
+		"word": "Collision Avoid",
+		"meaning": "衝突回避（しょうとつかいひ）",
+		"etymology": [
+			"Latin collidere (to strike together)"
+		],
+		"original_statement": "Process of navigating an agent while preventing it from hitting obstacles.",
+		"concept": "The instinct of preservation",
+		"thinking": "「ぶつかり合う（Collidere）」のを。未知の障害物を予感し、優雅にその脇をすり抜ける。それは無機質な計算から、生存の『本能』へと近づくための第一歩。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "trajectory_plan",
+		"word": "Trajectory",
+		"meaning": "軌道計画（きどうけいかく）",
+		"etymology": [
+			"Latin trans- + jacere (to throw)"
+		],
+		"original_statement": "Planning the movement path for a robot.",
+		"concept": "The premeditated throw",
+		"thinking": "「向こうへ（Trans-）」「投げる（Jacere）」。目的地へと辿り着くための、時間と空間の完璧なスケッチ。動き出す前に、未来のすべてを頭の中に描き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "swarming_robotics",
+		"word": "Swarm Robotics",
+		"meaning": "群（ぐん）ロボット工学",
+		"etymology": [
+			"Swarm"
+		],
+		"original_statement": "Study of multi-robot systems inspired by social insects.",
+		"concept": "The collective intelligence of the tiny",
+		"thinking": "「群れ（Swarm）」。一つ一つは安価で愚かであっても、数千が集まれば、あたかも一つの巨大な意思（生命）のように振る舞い、不可能を可能にする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "soft_robotics_adv",
+		"word": "Soft Robotics",
+		"meaning": "ソフトロボティクス",
+		"etymology": [
+			"Soft"
+		],
+		"original_statement": "Use of compliant materials to build robots that can deform.",
+		"concept": "Compliance is power",
+		"thinking": "鋼を捨て、「柔らかさ」を選ぶ。硬い論理ではなく、しなやかに姿を変えることで、複雑な現実世界（自然）に溶け込もうとする新しい思想。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "biomechanics_rob",
+		"word": "Biomechanics",
+		"meaning": "バイオメカニクス",
+		"etymology": [
+			"Greek bios + mechanics"
+		],
+		"original_statement": "Study of mechanical aspects of biological systems.",
+		"concept": "Life as a machine",
+		"thinking": "生命を究極の「機械（Mechanics）」として捉え直す。骨格のテコ、筋肉のバネ。40億年の進化が磨き上げた、最も洗練された制御の貌（かたち）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "humanoid_design",
+		"word": "Humanoid",
+		"meaning": "ヒューマノイド",
+		"etymology": [
+			"Latin humanus + Greek -eidos (resemblance)"
+		],
+		"original_statement": "A robot having an appearance and characteristics similar to a human.",
+		"concept": "The mirror image in steel",
+		"thinking": "「人間（Humanus）」に「似たもの（-eidos）」。自分たちに似た姿を鋼で作るという、人類の古くからの夢、あるいは鏡像を求める自己愛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "cybernetics_control",
+		"word": "Cybernetics",
+		"meaning": "サイバネティクス、人工頭脳学",
+		"etymology": [
+			"Greek kybernetes (steersman)"
+		],
+		"original_statement": "Science of communication and control in the animal and the machine.",
+		"concept": "The art of steering",
+		"thinking": "生命も機械も、「舵取り（Kybernetes）」の理は一つである。情報の循環が、乱雑な世界に秩序をもたらす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "redundancy_robot",
+		"word": "Redundancy (Rob)",
+		"meaning": "冗長性（じょうちょうせい）",
+		"etymology": [
+			"Latin re- + undare"
+		],
+		"original_statement": "Having more degrees of freedom than necessary for a task.",
+		"concept": "The luxury of choice",
+		"thinking": "「波のように溢れる」こと。予備の道、予備の力。余裕があるからこそ、障害物を避け、エレガントに、かつ確実に目的へと至ることができる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "manipulability_rb",
+		"word": "Manipulability",
+		"meaning": "可操作性（かそうさせい）",
+		"etymology": [
+			"Latin manipulus (handful)"
+		],
+		"original_statement": "Measure of a robot's efficiency in changing posture and position.",
+		"concept": "The ease of the hand",
+		"thinking": "「手（Manus）」で操れる度合い。今の姿勢から、どれだけスムーズに次の貌へと遷移できるか。しなやかな動きの『質の高さ』の指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "workspace_envelop",
+		"word": "Workspace",
+		"meaning": "作業領域（さぎょうりょういき）",
+		"etymology": [
+			"Work + Space"
+		],
+		"original_statement": "The set of points reachable by a robot's end effector.",
+		"concept": "The reach of the will",
+		"thinking": "機械の手が届く、物理的な宇宙の限界。その内側だけが、ロボットに許された、世界に介入できる『自由の檻』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "proprioception_rb",
+		"word": "Proprioception",
+		"meaning": "自己受容感覚（じこじゅようかんかく）",
+		"etymology": [
+			"Latin proprius (one's own) + capere (to take)"
+		],
+		"original_statement": "Sense of the relative position of neighboring parts of the body.",
+		"concept": "The inner awareness of the self",
+		"thinking": "「自分自身（Proprius）」を「受け取る（Capere）」。目で見なくても、自分の手足が今、どこにあるかを知っている。機械が自らの貌を内に抱くための感覚。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "exoskeleton_rob",
+		"word": "Exoskeleton",
+		"meaning": "外骨格（がいこっかく）、パワードスーツ",
+		"etymology": [
+			"Greek exo- (outer) + skeleton"
+		],
+		"original_statement": "Wearable robotic system that enhances the wearer's physical capabilities.",
+		"concept": "The outer armor of power",
+		"thinking": "「外側（Exo-）」の骨組み。肉体の限界を鋼で覆い、拡張する。人間と機械が、肌を介して一つに溶け合うためのフレーム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "anthropomorphism_rb",
+		"word": "Anthropomorph",
+		"meaning": "擬人化（ぎじんか）",
+		"etymology": [
+			"Greek anthropos + morphe"
+		],
+		"original_statement": "Attribution of human traits to robots.",
+		"concept": "Seeing the ghost in the machine",
+		"thinking": "無機質な鋼に、勝手に「人間（Anthropos）」の「形（Morphe）」や心を見出す。私たちの脳に深く刻まれた、孤立を恐れるための共感のフィルター。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "uncanny_valley_rb",
+		"word": "Uncanny Valley",
+		"meaning": "不気味（ぶきみ）の谷",
+		"etymology": [
+			"Uncanny"
+		],
+		"original_statement": "Common unsettling feeling when robots look almost, but not perfectly, human.",
+		"concept": "The chasm of non-humanity",
+		"thinking": "似ていれば似ているほど、わずかな違和感が牙を剥き、強い拒絶を呼び起こす。人間と非人間を峻別する、脳の最終防衛ライン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "cobot_collab",
+		"word": "Cobot",
+		"meaning": "協働（きょうどう）ロボット",
+		"etymology": [
+			"Collaborative + Robot"
+		],
+		"original_statement": "Robot intended to work alongside humans in a shared workspace.",
+		"concept": "The mechanical teammate",
+		"thinking": "「共に（Co-）」働く。隔離された柵（ケージ）を飛び出し、人間の隣で、同じ呼吸と空間を分かち合う、共生の機械。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "robotic_vision_sys",
+		"word": "Machine Vision",
+		"meaning": "マシンビジョン、ロボット視覚",
+		"etymology": [
+			"Latin videre (to see)"
+		],
+		"original_statement": "Imaging-based automatic inspection and analysis for applications such as robot guidance.",
+		"concept": "The analytical eye",
+		"thinking": "「見る（Videre）」こと。しかし、心で感じるのではなく、ピクセルの嵐を数学的に解釈し、意味のある『対象』として構築し直す、冷徹な光学知。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "lidar_sensing",
+		"word": "LiDAR",
+		"meaning": "ライダー、光検出と測距",
+		"etymology": [
+			"Light + Radar"
+		],
+		"original_statement": "Sensing method using pulsed laser light to measure ranges.",
+		"concept": "The geometry of echoes",
+		"thinking": "光のつぶてを放ち、その跳ね返りから世界を彫刻するように立体として描画する。暗闇の中でも真実の貌を見通す、光速の触覚。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "obstacle_avoidan",
+		"word": "Obstacle Avoid",
+		"meaning": "障害物回避（しょうがいぶつかいひ）",
+		"etymology": [
+			"Latin obstare (to stand in the way)"
+		],
+		"original_statement": "Navigational technique for ensuring safety.",
+		"concept": "Navigating the resistance",
+		"thinking": "「立ちふさがる（Ob-stare）」ものを、あらかじめ察知し、自らの道（軌道）を瞬時に書き換える。安全という名の、歩行の礼儀。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "redundant_arm_adv",
+		"word": "Redundant Arm",
+		"meaning": "冗長（じょうちょう）マニピュレータ",
+		"etymology": [
+			"Latin re- + undare"
+		],
+		"original_statement": "Arm with more joints than required to define a position.",
+		"concept": "The elegant reach",
+		"thinking": "不必要なほどに関節を持つ。しかし、その「余り」が、障害物を避けて奥深くに手を伸ばすための、究極の柔軟性を生み出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "control_latency",
+		"word": "Control Latency",
+		"meaning": "制御遅延（せいぎょちえん）",
+		"etymology": [
+			"Latin latere"
+		],
+		"original_statement": "Time lag in control loops.",
+		"concept": "The echo between will and act",
+		"thinking": "自分の意志が、硬い機械の細部へと届くまでの、わずかながらに致命的な時間の隔たり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "autonomous_navig",
+		"word": "Auton Navig",
+		"meaning": "自律航法（じりつこうほう）",
+		"etymology": [
+			"Latin navigare (to drive a ship)"
+		],
+		"original_statement": "Navigation without human intervention.",
+		"concept": "Steering oneself through the world",
+		"thinking": "誰の導きもなく、自らの瞳（センサー）と脳（モデル）だけで、未知の海（世界）を「漕ぎ進む（Navigare）」。自立した旅の証明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "鋼の知性に命を吹き込んで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロボット工学の深淵へ。"
+			]
+		},
+		"example": "The robot moved with mechanical precision."
 	}
 ];
