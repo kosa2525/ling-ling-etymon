@@ -403294,5 +403294,545 @@ const WORDS = [
 			]
 		},
 		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "fluid_mecha",
+		"word": "Fluid Mech",
+		"meaning": "流体力学（りゅうたいりきがく）",
+		"etymology": [
+			"Latin fluere (to flow) + Mechanics"
+		],
+		"concept": "Physics of liquids and gases",
+		"thinking": "「流れる（Fluere）」ものの理。形を持たず、常に変容し続ける水や空気の中に、いかにして不変の方程式（貌）を見出すか。カオスを数理の檻に閉じ込め、翼を空へと導く、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "aerodynamic",
+		"word": "Aerodynamic",
+		"meaning": "空気力学（くうきりきがく）の",
+		"etymology": [
+			"Greek aer + dunamis (power)"
+		],
+		"concept": "Forces of air movement",
+		"thinking": "「空気（Aer）」の「力（Dunamis）」。見えない風を可視化し、その反動を利用して重力に抗う。流線型という名の、機能美の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "turbulent_f",
+		"word": "Turbulence",
+		"meaning": "乱流（らんりゅう）、タービュランス",
+		"etymology": [
+			"Latin turba (crowd/turmoil)"
+		],
+		"concept": "Chaotic, irregular fluid flow",
+		"thinking": "「群衆（Turba）」の乱れ。激しい渦、予期せぬ揺らぎ。制御不能なカオスへと変貌した流れの貌。破壊的でありながら。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "reynolds_nu",
+		"word": "Reynolds No",
+		"meaning": "レイノルズ数（すう）",
+		"etymology": [
+			"Osborne Reynolds"
+		],
+		"concept": "Ratio of inertia to viscosity",
+		"thinking": "「慣性（勢い）」と「粘性（ねばり）」の比率。この数理的な物差しが、世界が平穏（層流）かカオス（乱流）かを決定する情報の分水嶺。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "boundary_la",
+		"word": "Bound Layer",
+		"meaning": "境界（きょうかい）層（そう）",
+		"etymology": [
+			"Boundary + Layer"
+		],
+		"concept": "Fluid layer near surface",
+		"thinking": "物体の「皮膚（境界）」のすぐそばで、粘性が支配するごく薄い情報の。ここで何が起きるかが、翼の運命（抵抗）のすべてを。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "vortex_adv_",
+		"word": "Vortex",
+		"meaning": "渦（うず）、ボルテックス",
+		"etymology": [
+			"Latin vertere (to turn)"
+		],
+		"concept": "Whirling mass of fluid",
+		"thinking": "「回転（Vert-）」するエネルギーの。中心に深淵を抱え、すべてを引きずり込む情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "incompressi",
+		"word": "Incompress",
+		"meaning": "非（ひ）圧縮（あっしゅく）性の",
+		"etymology": [
+			"In- + Compress"
+		],
+		"concept": "Cannot be squeezed in volume",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "compressibl",
+		"word": "Compressib",
+		"meaning": "圧縮（あっしゅく）性の",
+		"etymology": [
+			"Compress"
+		],
+		"concept": "Can be squeezed in volume",
+		"thinking": "音速を超える時、空気はもはや「体積を変えない」という。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "subsonic_ad",
+		"word": "Subsonic",
+		"meaning": "亜（あ）音速（おんそく）の",
+		"etymology": [
+			"Latin sub- (under) + Sonus"
+		],
+		"concept": "Below speed of sound",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "supersonic_",
+		"word": "Supersonic",
+		"meaning": "超（ちょう）音速（おんそく）の",
+		"etymology": [
+			"Latin super- (above) + Sonus"
+		],
+		"concept": "Above speed of sound",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "hypersonic_",
+		"word": "Hypersonic",
+		"meaning": "極（ごく）超（ちょう）音速（おんそく）の",
+		"etymology": [
+			"Greek huper- + Sonus"
+		],
+		"concept": "Above Mach 5",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "shock_wave_",
+		"word": "Shock Wave",
+		"meaning": "衝撃波（しょうげきは）",
+		"etymology": [
+			"Shock + Wave"
+		],
+		"concept": "Sudden pressure discontinuity",
+		"thinking": "逃げ場を失った空気が、一瞬にして凝縮される断絶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "boundary_sep",
+		"word": "Bound Sep",
+		"meaning": "境界（きょうかい）層（そう）剥離（はくり）",
+		"etymology": [
+			"Separation"
+		],
+		"concept": "Flow detaching from surface",
+		"thinking": "翼に寄り添っていた流れが、力尽きて「離れて」しまうこと。それは失速、あるいは制御の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "stall_adv_v",
+		"word": "Stall",
+		"meaning": "失速（しっそく）、ストール",
+		"etymology": [
+			"Old English steall (place/stand)"
+		],
+		"concept": "Abrupt reduction in lift",
+		"thinking": "「留まって（Stall）」しまう。空気を掴む力を失い、翼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "lift_adv_v_",
+		"word": "Lift (Aero)",
+		"meaning": "揚力（ようりょく）",
+		"etymology": [
+			"Old Norse lypta"
+		],
+		"concept": "Force that lifts aircraft",
+		"thinking": "重力を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "drag_force_",
+		"word": "Drag (Aero)",
+		"meaning": "抗力（こうりょく）、ドラッグ",
+		"etymology": [
+			"Old English dragan"
+		],
+		"concept": "Force opposing motion",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "thrust_adv_",
+		"word": "Thrust",
+		"meaning": "推力（すいりょく）、スラスト",
+		"etymology": [
+			"Old Norse thrysta"
+		],
+		"concept": "Forward force",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "propulsion_",
+		"word": "Propulsion",
+		"meaning": "推進（すいしん）",
+		"etymology": [
+			"Latin pro- + pellere (to drive forward)"
+		],
+		"concept": "Action of driving forward",
+		"thinking": "「前（Pro-）」へと「駆り立てる（Pell-）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "venturi_eff",
+		"word": "Venturi Eff",
+		"meaning": "ベンチュリ効果（こうか）",
+		"etymology": [
+			"Giovanni Battista Venturi"
+		],
+		"concept": "Pressure drop in narrow pipe",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "coanda_effe",
+		"word": "Coanda Eff",
+		"meaning": "コアンダ効果（こうか）",
+		"etymology": [
+			"Henri Coanda"
+		],
+		"concept": "Fluid follows curved surface",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "magnus_effe",
+		"word": "Magnus Eff",
+		"meaning": "マグヌス効果（こうか）",
+		"etymology": [
+			"Heinrich Gustav Magnus"
+		],
+		"concept": "Lift on rotating object",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "surface_ten",
+		"word": "Surf Tensi",
+		"meaning": "表面張力（ひょうめんちょうりょく）",
+		"etymology": [
+			"Surface + Tension"
+		],
+		"concept": "Elastic tendency of liquid",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "capillarity",
+		"word": "Capillarity",
+		"meaning": "毛細管（もうさいかん）現象（げんしょう）",
+		"etymology": [
+			"Latin capillus (hair)"
+		],
+		"concept": "Fluid rising in narrow tubes",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "non_newtonia",
+		"word": "Non-Newt",
+		"meaning": "非（ひ）ニュートン流体（りゅうたい）",
+		"etymology": [
+			"Non- + Isaac Newton"
+		],
+		"concept": "Viscosity depends on stress",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "nanofluidic",
+		"word": "Nanofluidi",
+		"meaning": "ナノ流体（りゅうたい）工学（こうがく）",
+		"etymology": [
+			"Greek nanos + Fluidics"
+		],
+		"concept": "Fluids in nanometer scale",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "biofluidics",
+		"word": "Biofluidics",
+		"meaning": "生体（せいたい）流体（りゅうたい）力学（りきがく）",
+		"etymology": [
+			"Greek bios + Fluidics"
+		],
+		"concept": "Behavior of biological fluids",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
+	},
+	{
+		"id": "superfluidi",
+		"word": "Superfluid",
+		"meaning": "超（ちょう）流動（りゅうどう）",
+		"etymology": [
+			"Super- + Fluid"
+		],
+		"concept": "Zero-viscosity state",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の深淵を、翼の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学と空気力学の極致へ。"
+			]
+		},
+		"example": "Fluid mechanics is the study of fluids and the forces on them."
 	}
 ];
