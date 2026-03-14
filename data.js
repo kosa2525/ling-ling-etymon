@@ -352958,5 +352958,960 @@ const WORDS = [
 			]
 		},
 		"example": "The robot moved with mechanical precision."
+	},
+	{
+		"id": "bci_interface_adv",
+		"word": "BCI",
+		"meaning": "ブレイン・コンピュータ・インターフェース",
+		"etymology": {
+			"components": [
+				"Brain",
+				"Computer",
+				"Latin inter- (between) + facies (face)"
+			],
+			"original_statement": "Direct communication pathway between an enhanced or wired brain and an external device."
+		},
+		"concept": "Merging mind and machine",
+		"thinking": "脳と機械の『表面が触れ合う（Inter-facies）』場所。肉体を介さず、思考という純粋な電気信号がそのままデジタル世界を動かし始める、融合の扉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neural_decoding",
+		"word": "Neural Decoding",
+		"meaning": "神経デコーディング、脳信号解読",
+		"etymology": {
+			"components": [
+				"Greek neuron + Latin de- + code"
+			],
+			"original_statement": "Translating neural activity into useful information."
+		},
+		"concept": "Reading the language of the spark",
+		"thinking": "脳内の神経（Neuron）が交わす火花（信号）という名の暗号。その乱雑な震えの中から、人の意図や記憶という『意味』を読み解く、究極の翻訳工作。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neural_encoding_adv",
+		"word": "Neural Encoding",
+		"meaning": "神経エンコーディング",
+		"etymology": {
+			"components": [
+				"En- + code"
+			],
+			"original_statement": "Process of external stimuli being represented by neurons."
+		},
+		"concept": "From sensation to digital code",
+		"thinking": "私たちの「美しい風景」や「心地よい音」という体験が、いかにして神経の冷徹な発火パターンへと『書き換えられて』いるか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "eeg_scalp_signal",
+		"word": "EEG",
+		"meaning": "脳波計測（のうはけいそく）",
+		"etymology": {
+			"components": [
+				"Greek en- (in) + kephale (head) + graphein"
+			],
+			"original_statement": "Measurement of electrical activity in the brain via electrodes on the scalp."
+		},
+		"concept": "Eavesdropping on the mental surface",
+		"thinking": "「頭の中（En-kephale）」で起きていることを「描く（Graphein）」。地表（頭皮）に耳を当てて、地下を流れる巨大な意識の脈動の『さざ波』を聴き取る、非侵襲の偵察。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "fmri_blood_oxy",
+		"word": "fMRI",
+		"meaning": "機能的磁気共鳴画像法",
+		"etymology": [
+			"Functional Magnetic Resonance Imaging"
+		],
+		"original_statement": "Measuring brain activity by detecting changes in blood flow.",
+		"concept": "Visualizing the fire of thought",
+		"thinking": "脳のどこに『エネルギー（血液）』が流れ込んだか。その供給の跡を追うことで、思考が燃え上がった現場を鮮やかな画像として映し出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "spike_sorting_nl",
+		"word": "Spike Sorting",
+		"meaning": "スパイク・ソーティング",
+		"etymology": [
+			"Spike + Sort"
+		],
+		"original_statement": "Classifying signals from electrodes to distinguish individual neurons.",
+		"concept": "Separating the choir of voices",
+		"thinking": "何千もの楽器が同時に鳴っている場所で、一人の奏者（一つの神経細胞）の音色だけを選り分ける。極微の旋律の選別。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "action_potential_br",
+		"word": "Action Potential",
+		"meaning": "活動電位（かつどうでんい）",
+		"etymology": [
+			"Action + Potential"
+		],
+		"original_statement": "Electrical impulse that travels along the membrane of a neuron.",
+		"concept": "The binary fire of mind",
+		"thinking": "溜め込まれた『可能性（Potential）』が限界を超え、一本の鋭い火花となって駆け抜ける。私たちの意識を支える、最小の『Yes』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "synaptic_plasticit",
+		"word": "Synaptic Plastic",
+		"meaning": "シナプス可塑性（かそせい）",
+		"etymology": [
+			"Greek syn- (with/together) + haptein (to touch) + plastikos"
+		],
+		"original_statement": "Ability of synapses to strengthen or weaken over time.",
+		"concept": "The moldable touch of thought",
+		"thinking": "「繋ぎ（Syn-haptein）」の強度。繰り返された道が深く、強固に「形作られる（Plastikos）」。学びと記憶が、脳という彫刻を刻み続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "computational_neur",
+		"word": "Comp Neuro",
+		"meaning": "計算神経科学",
+		"etymology": [
+			"Compute + Neuron"
+		],
+		"original_statement": "Using mathematical models to explain brain function.",
+		"concept": "The mathematics of consciousness",
+		"thinking": "脳という名の『宇宙で最も複雑な物体』を、数式とシミュレーションという理性の言葉で理解しようとする、壮大な挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neural_prosthesis",
+		"word": "Neuroprosthesis",
+		"meaning": "人工知覚（じんこうちかく）デバイス",
+		"etymology": [
+			"Greek neuron + pro- (before/instead) + tithenai (to place)"
+		],
+		"original_statement": "Devices that substitute for sensory or motor systems.",
+		"concept": "Placing mind into replacement",
+		"thinking": "失われた神経の代わりに「置く（Tithenai）」もの。機械の手足が自分の手足となり、人工の瞳が光を伝える。失われた機能を再構築し、肉体と機械の境界を溶かす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "closed_loop_bci",
+		"word": "Closed-loop BCI",
+		"meaning": "閉ループBCI",
+		"etymology": [
+			"Closed-loop"
+		],
+		"original_statement": "BCI system that provides feedback to the user or modulates brain activity in real-time.",
+		"concept": "The resonance of mind and machine",
+		"thinking": "一方的な命令ではなく、機械の反応が再び脳へと戻り（フィードバック）、そこで『調和』が生まれる。脳との密なる対話。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neuromodulation_th",
+		"word": "Neuromodul",
+		"meaning": "ニューロモデュレーション",
+		"etymology": [
+			"Greek neuron + Latin modulus (measure)"
+		],
+		"original_statement": "Alteration of nerve activity through delivery of stimuli.",
+		"concept": "Tuning the neural strings",
+		"thinking": "刺激という名の『物差し（Modulus）』を当てる。神経の極端な昂ぶりを鎮め、あるいは眠れる細胞を揺り起こす。魂の響きを調整する医療。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "deep_brain_stimul",
+		"word": "DBS",
+		"meaning": "脳深部刺激療法（のうしんぶしげきりょうほう）",
+		"etymology": [
+			"Deep + Brain + Stimulate"
+		],
+		"original_statement": "Implanting electrodes that deliver electrical impulses to specific brain parts.",
+		"concept": "The cardiac pacemaker for the brain",
+		"thinking": "脳という深淵の、その核心部へ。止まってしまった、あるいは乱れたリズムを、直接的な電気の拍動で正し、魂の震えを再び呼び戻す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neural_dust_cmos",
+		"word": "Neural Dust",
+		"meaning": "神経の塵（ちり）",
+		"etymology": [
+			"Neural + Dust"
+		],
+		"original_statement": "Extremely small, wireless sensors implanted to monitor nerves.",
+		"concept": "Invisible digital sensors",
+		"thinking": "「塵（Dust）」のように微細で、無線で語りかけてくるセンサー。脳全体に散りばめられ、意識の広大な風景を、影のようにそっと記録する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "optogenetics_adv",
+		"word": "Optogenetics",
+		"meaning": "光遺伝学（ひかりいでんがく）",
+		"etymology": [
+			"Greek optos (vision/light) + Genetics"
+		],
+		"original_statement": "Biological technique to control neurons that have been genetically modified to express light-sensitive ion channels.",
+		"concept": "Manipulating mind with light",
+		"thinking": "「光（Optos）」によって、特定の神経の一本ずつを意のままに発火させる。遺伝子を書き換えることで、脳を光に反応する『楽器』へ変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neuroethology_cog",
+		"word": "Neuroethology",
+		"meaning": "神経行動学",
+		"etymology": [
+			"Neuron + Greek ethos (custom/habit)"
+		],
+		"original_statement": "Evolutionary and comparative approach to the neural basis of natural behavior.",
+		"concept": "The logic of wild mind",
+		"thinking": "「習慣（Ethos）」の神経的な理。なぜ鳥は歌い、なぜ蜂は踊るのか。野生の美しき『ふるまい』の根源を、神経のネットワークから読み解く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "connectomics_adv",
+		"word": "Connectomics",
+		"meaning": "コネクトミクス、脳構造解析",
+		"etymology": [
+			"Connect + -ome"
+		],
+		"original_statement": "Production and study of connectomes: comprehensive maps of connections within an organism's nervous system.",
+		"concept": "The atlas of the mind",
+		"thinking": "「繋がり（Connect）」の「全景（-ome）」。脳内に張り巡らされた数兆通りの道のすべてを書き留める。その『地図』そのものが、自分という存在の正体かもしれない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "single_unit_record",
+		"word": "Single-unit Rc",
+		"meaning": "単一神経細胞記録",
+		"etymology": [
+			"Single + Unit"
+		],
+		"original_statement": "Studying one neuron at a time via fine electrodes.",
+		"concept": "Listening to the individual neuron",
+		"thinking": "何百億という群衆の中から、たった一人の「個」の声（発火）に耳を澄ませる。一つの『細胞』が何を語るかを聞くための、忍耐強い観測。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "population_coding",
+		"word": "Population Code",
+		"meaning": "ポピュレーションコーディング",
+		"etymology": [
+			"Latin populus (people)"
+		],
+		"original_statement": "Representing info by the overall activity of a large group of neurons.",
+		"concept": "The democratic mind",
+		"thinking": "一人の声ではなく、数千の「人々（Populus）」の一斉の響き合いとして意味を成す。個を越えた『集団』の貌に、真の情報が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "retinal_prosthesis",
+		"word": "Retinal Prosth",
+		"meaning": "人工網膜（じんこうもうまく）",
+		"etymology": [
+			"Latin retina + Prosthesis"
+		],
+		"original_statement": "Biomedical implant meant to restore useful vision to people with degenerative eye diseases.",
+		"concept": "Restoring visual fire",
+		"thinking": "光を失った網膜の代わりに、シリコンの瞳を。デジタルの光を神経の言葉へ翻訳し、脳に再び『世界の見え方』を思い出させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "cochlear_implant",
+		"word": "Cochlear",
+		"meaning": "人工内耳（じんこうないじ）",
+		"etymology": [
+			"Greek kokhlias (snail)"
+		],
+		"original_statement": "Surgically implanted electronic device that provides a sense of sound.",
+		"concept": "Snail shell for electric hearing",
+		"thinking": "「カタツムリ（Kokhlias）」の形をした器官。音の震えを、直接神経の火花へと送り届ける。静寂の世界に、再び『響き』の理を繋ぐ道。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "brain_map_atlas",
+		"word": "Brain Mapping",
+		"meaning": "脳マッピング",
+		"etymology": [
+			"Brain + Map"
+		],
+		"original_statement": "Set of techniques to understand brain structure and function mapping.",
+		"concept": "Cartography of thought",
+		"thinking": "脳という広大な大陸。どの大地が記憶を司り、どの大地が祈りを司るのか。未開の地を測量し、意味のあるラベルを貼っていく行進。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neural_oscilla_adv",
+		"word": "Neural Oscill",
+		"meaning": "神経振動（しんけいしんどう）",
+		"etymology": [
+			"Latin oscillare (to swing)"
+		],
+		"original_statement": "Rhythmic electrical activity in the nervous system.",
+		"concept": "The rhythm of thought",
+		"thinking": "「揺れ動く（Oscillare）」。意識を支えるのは、孤独な火花ではなく、それらが一糸乱れぬリズムで波打ち、共振する『うねり』の音楽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "gamma_rhythm_brain",
+		"word": "Gamma Rhythm",
+		"meaning": "ガンマ波",
+		"etymology": [
+			"Greek gamma"
+		],
+		"original_statement": "High-frequency brain rhythm associated with high-level cognitive tasks.",
+		"concept": "The fast beat of integration",
+		"thinking": "断片的な情報を一つに「束ねる」ための、高速なリズム。集中が極限に達した時、脳という宇宙が最も鋭く震える周波。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "alpha_rhythm_brain",
+		"word": "Alpha Rhythm",
+		"meaning": "アルファ波",
+		"etymology": [
+			"Greek alpha"
+		],
+		"original_statement": "Oscillatory brain activity in the 8-12 Hz frequency range.",
+		"concept": "The calm sea of the mind",
+		"thinking": "目を閉じ、静寂の中に身を置くとき、脳をたゆたう平穏な波。外界の瞳を閉じたときに現れる、内なる静止の徴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "brain_plastic_era",
+		"word": "Neuroplasticity",
+		"meaning": "脳の可塑性",
+		"etymology": [
+			"Greek neuron + plastikos"
+		],
+		"original_statement": "Ability of the brain to form and reorganize synaptic connections.",
+		"concept": "The lifelong sculpting of self",
+		"thinking": "脳は完成した機械ではない。死ぬその瞬間まで、新しい経験というノミが、自分という貌を「形作り（Plastikos）」、更新し続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "inhibitory_neur",
+		"word": "Inhibitory",
+		"meaning": "抑制性（よくせいせい）神経細胞",
+		"etymology": [
+			"Latin inhibere (to hold back)"
+		],
+		"original_statement": "Neuron that decreases the probability of an action potential in another.",
+		"concept": "The necessary silence",
+		"thinking": "「抑え込む（Inhibere）」。単に沈黙させるのではなく、興奮という名の嵐をコントロールし、情報の濁りを排して『意味』を形作るための、賢き制止。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "excitatory_neur",
+		"word": "Excitatory",
+		"meaning": "興奮性（こうふんせい）神経細胞",
+		"etymology": [
+			"Latin excitare (to rouse)"
+		],
+		"original_statement": "Neuron that increases the probability of an action potential.",
+		"concept": "The spark of ignition",
+		"thinking": "「呼び起こす（Excitare）」。情報を次へと伝え、意識の火をリレーしていく、能動的で明るい意志の原動力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "mirror_neuron_adv",
+		"word": "Mirror Neuron",
+		"meaning": "ミラーニューロン",
+		"etymology": [
+			"Mirror + Neuron"
+		],
+		"original_statement": "Neuron that fires both when an animal acts and when it observes the same action by another.",
+		"concept": "The empathetic reflection",
+		"thinking": "他者の動きを、自分の脳の中に鏡のように映し出す。自分の痛みと他者の痛みを分かたず感じるための、共感の最も根源的な物理回路。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "grandmother_cell",
+		"word": "Grandmother Cell",
+		"meaning": "おばあちゃん細胞",
+		"etymology": [
+			"Grandmother"
+		],
+		"original_statement": "Hypothetical neuron that responds only to a very specific and complex stimulus.",
+		"concept": "The ultimate specialization",
+		"thinking": "「あのおばあちゃんの顔」だけに反応する、たった一つの、究極に専門化された細胞。情報の多様性が、一点の貌へ集約されるという神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "sparse_coding_br",
+		"word": "Sparse Coding",
+		"meaning": "スパース・コーディング",
+		"etymology": [
+			"Latin sparsus (scattered)"
+		],
+		"original_statement": "Representing information with as few active neurons as possible.",
+		"concept": "Information efficiency in the void",
+		"thinking": "全員が叫ぶのではなく、ほんの少数が「まばらに（Sparsus）」発火することで、極めて効率的に、かつ深く複雑な意味を伝える脳の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neural_manifold",
+		"word": "Neural Manifold",
+		"meaning": "神経多様体（しんけいたようたい）",
+		"etymology": [
+			"Manifold"
+		],
+		"original_statement": "Low-dimensional representation of the state space of a neural population.",
+		"concept": "The smooth surface of thought",
+		"thinking": "複雑怪奇な神経の動きを、滑らかな『多様体』として捉える。暴れまわる情報の嵐は、実はより単純で美しい幾何学の中に閉じ込められている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "brain_initiat_vol",
+		"word": "Volition",
+		"meaning": "意志（いし）、意志決定",
+		"etymology": [
+			"Latin velle (to will)"
+		],
+		"original_statement": "Cognitive process by which an individual decides on and commits to a course of action.",
+		"concept": "The birth of choice",
+		"thinking": "「欲する（Velle）」。単なる反射ではなく、自らの内に『意図』を産み落とし、世界を動かそうとする。脳の奥深く、混沌の中から浮かび上がる自由の芽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "alien_hand_synd",
+		"word": "Alien Hand",
+		"meaning": "他人の手（た人のて）症候群",
+		"etymology": [
+			"Latin alienus (belonging to another)"
+		],
+		"original_statement": "Condition in which a person's hand appears to move independently, as if it has a mind of its own.",
+		"concept": "The fragmented will",
+		"thinking": "自分の手が、まるで「他人の（Alien-us）」であるかのように勝手に動き出す。意志と肉体の絆が解けたとき、身体は冷徹な機械としての本性を現す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "phantom_limb_adv",
+		"word": "Phantom Limb",
+		"meaning": "幻肢（げんし）",
+		"etymology": [
+			"Greek phantasma (spirit/illusion)"
+		],
+		"original_statement": "Sensation that an amputated limb is still attached.",
+		"concept": "The ghost of a sensation",
+		"thinking": "失われたはずの手足が、なおもそこに在り続ける「幻（Phantasma）」。肉体は消えても、脳の中に刻まれた地図（スキーマ）だけは、痛みを伴って生き続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neuroethic_adv",
+		"word": "Neuroethics",
+		"meaning": "神経倫理学（しんけいりんりがく）",
+		"etymology": [
+			"Neuron + Ethics"
+		],
+		"original_statement": "Ethics of neuroscience: the ethical, social, and legal implications of the expansion of neuroscience.",
+		"concept": "Defending the sanctity of mind",
+		"thinking": "脳を自由に操り、書き換えられるようになったとき、そこに『私という存在』の尊厳は残るのか。進歩の刃を、良心の鞘に収めるための対話。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "cognitive_enhanc",
+		"word": "Cog Enhance",
+		"meaning": "認知的拡張（にんちてきかくちょう）",
+		"etymology": [
+			"Cognition + Latin in- + altus (high)"
+		],
+		"original_statement": "Amplification or extension of core capacities of the mind.",
+		"concept": "Ascending beyond the biological",
+		"thinking": "心という山を、より『高く（Altus）』登り詰めるための拡張。機械、薬、あるいはAI。私たちは与えられた知性という殻を打ち破り、未知の高みへ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "transcranial_stm",
+		"word": "TMS",
+		"meaning": "経頭蓋磁気刺激（けいずがいじきしげき）",
+		"etymology": [
+			"Latin trans- + cranium (skull)"
+		],
+		"original_statement": "Method in which a changing magnetic field is used to cause electric current to flow in a small region of the brain.",
+		"concept": "Touching neurons with magnetic invisible fingers",
+		"thinking": "「頭蓋骨（Cranium）を越えて（Trans）」。メスを入れることなく、磁気という見えない指で脳の中枢に直接触れ、心の機微を優しく。あるいは劇的に変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "hebbian_learning",
+		"word": "Hebbian Learn",
+		"meaning": "ヘブ則（そく）、ヘブ学習",
+		"etymology": [
+			"Hebb"
+		],
+		"original_statement": "Theory that an increase in synaptic efficacy arises from a presynaptic cell's repeated and persistent stimulation of a postsynaptic cell.",
+		"concept": "Neurons that fire together, wire together",
+		"thinking": "「共に火花を散らす者たちは、永遠の絆（配線）で結ばれる」。繰り返される共鳴が、孤独な細胞を一つの『知識』として統合していく基本的な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "spatial_resol_br",
+		"word": "Spatial Resol",
+		"meaning": "空間分解能（くうかんぶんかいのう）",
+		"etymology": [
+			"Latin spatium + resolutio"
+		],
+		"original_statement": "Clarity of the image: the smallest objects that can be visualized in a neuroimage.",
+		"concept": "Sharpness of the brain map",
+		"thinking": "「空間（Spatium）」の「解像度」。脳という宇宙を、どこまで細かく、どこまで克明に描き出せるか。ミクロな真実に迫るための視力の良さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "temporal_resol_br",
+		"word": "Temporal Resol",
+		"meaning": "時間分解能（くかんぶんかいのう）",
+		"etymology": [
+			"Latin tempus + resolutio"
+		],
+		"original_statement": "Ability to distinguish two events in time.",
+		"concept": "Precision of the mental clock",
+		"thinking": "「時間（Tempus）」の「解像度」。思考の激変するさまを、一瞬たりとも逃さずに記録できる、刻みの細かさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "evoked_potential",
+		"word": "Evoked Potent",
+		"meaning": "誘発（ゆうはつ）電位",
+		"etymology": [
+			"Latin e- + vocare (to call out)"
+		],
+		"original_statement": "Electrical potential recorded from the nervous system following presentation of a stimulus.",
+		"concept": "The call and response of mind",
+		"thinking": "外からの刺激に対して、脳が「呼び起こされる（Vocare）」。その反応は、私たちが外界をどう受け止めているかの、無意識の署名（サイン）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neurogenesis_br",
+		"word": "Neurogenesis",
+		"meaning": "神経発生（しんけいはっせい）",
+		"etymology": [
+			"Greek neuron + genesis"
+		],
+		"original_statement": "Process by which nervous system cells, the neurons, are produced by neural stem cells.",
+		"concept": "The birth of new thought-bearers",
+		"thinking": "脳の中でも、「新しく生まれる（Genesis）」こと。大人になっても、脳は新しい細胞を産み落とし、自分自身を更新し得ると信じさせてくれる、再生の希望。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "blood_brain_barr",
+		"word": "BBB",
+		"meaning": "血液脳関門（けつえきのうかんもん）",
+		"etymology": [
+			"Blood-brain Barrier"
+		],
+		"original_statement": "Highly selective semipermeable border of endothelial cells.",
+		"concept": "The ultimate border control",
+		"thinking": "血液という雑多な流れから、脳という聖域を護るための峻厳な関所。選ばれたものだけを中に招き入れ、外の混乱から知性を守り抜く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "neuroinformat_adv",
+		"word": "Neuroinformat",
+		"meaning": "神経情報学",
+		"etymology": [
+			"Neuron + Information"
+		],
+		"original_statement": "Integration of data across all levels and scales of neuroscience to understand how the brain works.",
+		"concept": "Synthesizing the mind with data",
+		"thinking": "膨大に降り積もる神経科学のデータ（情報）を、統合的な知見へと昇華させる。バラバラな『脳の欠片』から、一つの『心の理』を構築する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "脳と機械の共鳴を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神経科学の最前線へ。"
+			]
+		},
+		"example": "The interface connected mind to machine."
 	}
 ];
