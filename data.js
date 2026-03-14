@@ -405094,5 +405094,105 @@ const WORDS = [
 			]
 		},
 		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "theoretical",
+		"word": "Theo Ling",
+		"meaning": "理論（りろん）言語学（げんごがく）",
+		"etymology": [
+			"Greek theoria + Latin lingua"
+		],
+		"concept": "Science of language laws",
+		"thinking": "言葉を「道具（意思伝達）」としてではなく、宇宙の「物理法則」のように、数理的な「理（Logos）」によって記述する試み。脳という名のハードウェア上で動く、沈黙のソフトウェア。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言語の深淵を、数理（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論言語学と統語論の極致へ。"
+			]
+		},
+		"example": "Theoretical linguistics explores the underlying structure of human language."
+	},
+	{
+		"id": "universal_g",
+		"word": "Univ Gramm",
+		"meaning": "普遍（ふへん）文法（ぶんぽう）、UG",
+		"etymology": [
+			"Latin universalis + Greek gramma"
+		],
+		"concept": "Innate language rules",
+		"thinking": "「すべて（Universal）」の言語に共通する、生まれながらに備わった情報の設計図。チョムスキーが説いた、人間を人間たらしめている『言語の貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言語の深淵を、数理（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論言語学と統語論の極致へ。"
+			]
+		},
+		"example": "Theoretical linguistics explores the underlying structure of human language."
+	},
+	{
+		"id": "syntax_adv_",
+		"word": "Syntax",
+		"meaning": "統語（とうご）論（ろん）、構文（こうぶん）論（ろん）",
+		"etymology": [
+			"Greek sun- (together) + tassein (to arrange)"
+		],
+		"concept": "Rules for sentence building",
+		"thinking": "「共に（Sun-）」「並べる（Tassein）」。単語という断片を、いかにして意味のある一つの巨大な建築物（貌）へと組み上げるか。その精緻な計算（理）の集積。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言語の深淵を、数理（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論言語学と統語論の極致へ。"
+			]
+		},
+		"example": "Theoretical linguistics explores the underlying structure of human language."
+	},
+	{
+		"id": "phonology_a",
+		"word": "Phonology",
+		"meaning": "音韻（おんいん）論（ろん）",
+		"etymology": [
+			"Greek phone (sound) + logos"
+		],
+		"concept": "Study of sound systems",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言語の深淵を、数理（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論言語学と統語論の極致へ。"
+			]
+		},
+		"example": "Theoretical linguistics explores the underlying structure of human language."
+	},
+	{
+		"id": "semantics_a",
+		"word": "Semantics",
+		"meaning": "意味論（いみろん）",
+		"etymology": [
+			"Greek sema (sign)"
+		],
+		"concept": "Study of meaning",
+		"thinking": "「記号（Sema）」の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言語の深淵を、数理（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論言語学と統語論の極致へ。"
+			]
+		},
+		"example": "Theoretical linguistics explores the underlying structure of human language."
 	}
 ];
