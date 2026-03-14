@@ -376291,5 +376291,906 @@ const WORDS = [
 			]
 		},
 		"example": "Genetic information is stored in DNA."
+	},
+	{
+		"id": "macroeconom_a",
+		"word": "Macroeconom",
+		"meaning": "マクロ経済学（けいざいがく）",
+		"etymology": [
+			"Greek makros (large) + oikonomia"
+		],
+		"concept": "Study of aggregate economy",
+		"thinking": "「巨大な（Makros）」視点からの家政（経済）。国、大陸、あるいは地球全体の富の流れを、巨大な生き物の脈動のように捉え、その健康状態を測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "microeconom_a",
+		"word": "Microeconom",
+		"meaning": "ミクロ経済学（けいざいがく）",
+		"etymology": [
+			"Greek mikros (small) + oikonomia"
+		],
+		"concept": "Study of individual agents",
+		"thinking": "「極小の（Mikros）」視点。一人の人間、一つの企業。その心の奥底に蠢く欲望と、限られた資源を奪い合う選択の理を、精密な時計仕掛けのように解剖する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "fiat_money_ad",
+		"word": "Fiat Money",
+		"meaning": "不換紙幣（ふかんしへい）、法的（ほうてき）強制紙幣",
+		"etymology": [
+			"Latin fiat (let it be done)"
+		],
+		"concept": "Money backed by decree",
+		"thinking": "「なせ（Fiat）」。ただの紙切れを、国家という絶対的な意志（命令）によって『価値あるもの』へと変容させる。信用という名の幻の上に築かれた、現代文明の最も強力な魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "liquidity_ad",
+		"word": "Liquidity",
+		"meaning": "流動性（りゅうどうせい）",
+		"etymology": [
+			"Latin liquidus (fluid)"
+		],
+		"concept": "Ease of asset conversion",
+		"thinking": "「流れる（Liquid）」力。いかなる瞬間も、その価値を別の形（現金）へと素速く変えられる「しなやかさ」。淀んだ富を再び生命の奔流へと引き戻すための、市場の潤滑油。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "insolvency_a",
+		"word": "Insolvency",
+		"meaning": "支払不能（しはらいふのう）、債務超過",
+		"etymology": [
+			"Latin in- + solvere (to loosen/pay)"
+		],
+		"concept": "Inability to pay debts",
+		"thinking": "結びついた「負債」を「解きほぐす（Solve）」ことが「できない（In-）」。もはや誰の期待にも応えられず、社会という網の目から脱落していく、破滅への静かな宣告。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "arbitrage_ad",
+		"word": "Arbitrage",
+		"meaning": "裁定取引（さいていとりひき）、アービトラージ",
+		"etymology": [
+			"Latin arbiter (judge/umpire)"
+		],
+		"concept": "Profit from price difference",
+		"thinking": "「審判（Arbiter）」のように、二つの世界の「価格の歪み」を見抜き、そのわずかな隙間に手を差し挟んで利益を掠め取る。カオスな市場を、誰よりも冷徹な眼差しで測る者の特権。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "derivatives_a",
+		"word": "Derivatives",
+		"meaning": "デリバティブ、金融派生（きんゆうはせい）商品",
+		"etymology": [
+			"Latin de- + rivus (stream)"
+		],
+		"concept": "Assets based on other assets",
+		"thinking": "実体のある富という名の「川（Rivus）」から「引き出された（De-）」、抽象的な情報の波。実態を離れ、数字という名の虚空で膨れ上がる、現代金融の目も眩むような魔塔。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "volatility_ad",
+		"word": "Volatility",
+		"meaning": "変動性（へんどうせい）、ボラティリティ",
+		"etymology": [
+			"Latin volare (to fly)"
+		],
+		"concept": "Extent of price swings",
+		"thinking": "「飛び跳ねる（Volare）」性質。喜びと悲しみの激しい揺れ。安定という名の重力に逆らい、どこまでも高く、あるいはどこまでも深く突き抜ける、市場の予測不能な心臓の鼓動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "commodity_ad",
+		"word": "Commodity",
+		"meaning": "コモディティ、実物（じつぶつ）商品",
+		"etymology": [
+			"Latin commodus (fitting/useful)"
+		],
+		"concept": "Standardized raw material",
+		"thinking": "「便利で（Commodus）」「ふさわしい」もの。金、石油、小麦。誰の持ち物であっても同じ価値を持つ、没主観的な物質の極み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "appreciation_a",
+		"word": "Appreciation",
+		"meaning": "貨幣（かへい）価値（かち）の高揚（こうよう）",
+		"etymology": [
+			"Latin ad- + pretium (price/value)"
+		],
+		"concept": "Increase in value",
+		"thinking": "それに対して「価値（Pretium）」を「与え（Ad-）」、認め、高めること。世界の期待がその一点に集まり、重みを増していく輝かしき瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "depreciation_a",
+		"word": "Depreciation",
+		"meaning": "価値（かち）の減額（げんがく）",
+		"etymology": [
+			"Latin de- + pretium"
+		],
+		"concept": "Decrease in value",
+		"thinking": "「価値（Pretium）」が「下がる（De-）」。期待が剥がれ落ち、摩耗し、あるいは飽きられ、静かに忘れ去られていく寂しき過程。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "speculation_ad",
+		"word": "Speculation",
+		"meaning": "投機（とうき）、スペキュレーション",
+		"etymology": [
+			"Latin specere (to look/observe)"
+		],
+		"concept": "Investment with high risk",
+		"thinking": "「じっと見つめる（Specere）」。未来という名の鏡を覗き込み、一攫千金を夢見て、危うき賭けに出る。それは理知的な予測か、それともただの底なしの欲望か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "bubble_econ_ad",
+		"word": "Asset Bubble",
+		"meaning": "資産（しさん）バブル",
+		"etymology": [
+			"Latin bubulus (of cattle/pustule) - thought to be imitative of popping"
+		],
+		"concept": "Inflated asset prices",
+		"thinking": "実体（牛/Bubulus）よりも中身のない空気が膨れ上がった、壊れやすい膜。誰もがその美しさに酔いしれ、弾けるその瞬間まで、それが「ただの空虚（泡）」であることを認めようとしない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "contagion_ad",
+		"word": "Fin Contagion",
+		"meaning": "金融（きんゆう）感染（かんせん）",
+		"etymology": [
+			"Latin con- + tangere (to touch)"
+		],
+		"concept": "Spread of market crisis",
+		"thinking": "「共に（Con-）」「触れ合う（Tangere）」ことで伝播する、破滅の熱病。一つの場所の傷みが、一瞬にして世界中の毛細血管へと広がり、システム全体を麻痺させる、信頼の崩壊の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "disruption_ad",
+		"word": "Disruption",
+		"meaning": "創造的（そうぞうてき）破壊（はかい）、分断（ぶんだん）",
+		"etymology": [
+			"Latin dis- + rumpere (to break)"
+		],
+		"concept": "Breaking established order",
+		"thinking": "古い秩序を「バラバラに（Dis-）」「引き裂く（Rumpere）」。それは痛みでありながら、新しい生命が殻を破って現れるための、必然的な出産の苦しみ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "innovation_ad",
+		"word": "Innovation",
+		"meaning": "革新（かくしん）",
+		"etymology": [
+			"Latin in- + novus (new)"
+		],
+		"concept": "Introducing new thing",
+		"thinking": "「内側（In-）」から「新しさ（Novus）」を産み出す。単なる改良ではなく、世界の理そのものを書き換えるような、知性の純粋な跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "monopoly_ad_v",
+		"word": "Monopoly",
+		"meaning": "独占（どくせん）",
+		"etymology": [
+			"Greek monos (single) + polein (to sell)"
+		],
+		"concept": "One seller",
+		"thinking": "「たった一人（Monos）」が「売る（Polein）」。競争という名の活力を封じ込め、自分一人のルールで世界を支配する、権力の最果てにある静寂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "oligopoly_ad",
+		"word": "Oligopoly",
+		"meaning": "寡占（かせん）",
+		"etymology": [
+			"Greek oligos (few) + polein"
+		],
+		"concept": "Few sellers",
+		"thinking": "「わずかな数（Oligos）」の者たちだけで、世界の利（Polein）を分け合う。互いの貌を伺い、密やかに足並みを揃え、新しい闖入者を許さない、閉ざされた社交界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "cartel_econ_a",
+		"word": "Cartel",
+		"meaning": "カルテル、共謀（きょうぼう）",
+		"etymology": [
+			"Italian cartello (little paper/placard)"
+		],
+		"concept": "Coordination to fix prices",
+		"thinking": "「小さな紙（Cartello）」に書かれた、裏切りの許されない約束。敵同士であるはずの者たちが、手を組んで消費者を搾取する、欲望の闇の契約。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "substitution_a",
+		"word": "Substitution",
+		"meaning": "代替（だいたい）",
+		"etymology": [
+			"Latin sub- + statuere (to set up)"
+		],
+		"concept": "Replacing one with another",
+		"thinking": "代わりに「下に（Sub-）」「据え置く（Statuere）」。バターがなければマーガリンを。最高を諦め、より手の届きやすい何かで心の穴を埋める、妥協と合理性の天秤。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "complement_ec",
+		"word": "Complements",
+		"meaning": "補完（ほかん）財",
+		"etymology": [
+			"Latin complementum (that which fills)"
+		],
+		"concept": "Goods bought together",
+		"thinking": "一人の欠落を、もう一人が「満たす（Complement）」。ペンとインク、パンとバター。二つが揃って初めて、一つの完璧な意味（価値）が産み出される、運命の伴侶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "utility_ad_v",
+		"word": "Utility",
+		"meaning": "効用（こうよう）、ユーティリティ",
+		"etymology": [
+			"Latin utilis (useful)"
+		],
+		"concept": "Satisfaction from consume",
+		"thinking": "「役に立つ（Utilis）」ことの本質。何かを消費したときに、心の中にふわりと立ち上がる「満足感」という名の満足の度合い。経済学という乾いた数式の中で、唯一、人間の主観（幸福）を救い上げるための器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "diminishing_u",
+		"word": "Diminishing U",
+		"meaning": "限界（げんかい）効用（こうよう）逓減（ていげん）",
+		"etymology": [
+			"Latin di- + minuere (to lessen) + Utility"
+		],
+		"concept": "Added value drops with more",
+		"thinking": "「小さく（Minu-）」していき、「消え去る（Di-）」。最初の一口は神の如き美味であっても、百口目はただの作業になる。飽きという名の、人間の避けがたい幸福の風化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "opportunity_c",
+		"word": "Opp Cost",
+		"meaning": "機会費用（きかいひよう）",
+		"etymology": [
+			"Latin ob- + portus (toward harbor) + Cost"
+		],
+		"concept": "Cost of next best alt",
+		"thinking": "ある「港（Portus）」へ「向かう（Ob-）」ことを選んだがゆえに、諦めなければならなかった他のすべての港の価値。選ばなかった道こそが、今の私の本当の重み（コスト）であるという皮肉な真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "sunk_cost_ad",
+		"word": "Sunk Cost",
+		"meaning": "埋没費用（まいぼつひよう）、サンク・コスト",
+		"etymology": [
+			"Sink + Cost"
+		],
+		"concept": "Money already spent",
+		"thinking": "すでに海に「沈んで（Sink）」しまった富。取り返せないはずなのに、それに縛られ、さらなる泥沼へと足を踏み入れてしまう、人間の執着の哀しき重力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "externality_v",
+		"word": "Externality",
+		"meaning": "外部性（がいぶせい）",
+		"etymology": [
+			"Latin exter (outside)"
+		],
+		"concept": "Impact on un-involved",
+		"thinking": "契約という名の部屋の「外（Exter）」に、勝手に漏れ出した影響。工場の煙、あるいは花屋の香り。誰の責任でもなく、しかし世界の誰かを幸福にし、あるいは病ませる、不条理な繋がりの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "public_goods",
+		"word": "Public Goods",
+		"meaning": "公共財（こうきょうざい）",
+		"etymology": [
+			"Latin publicus (of the people)"
+		],
+		"concept": "Non-excludable non-rivalry",
+		"thinking": "「人々（Publicus）」のもの。誰かを締め出すこともなく、誰かが使っても減ることのない、太陽のような豊穣。しかしそれゆえに、誰も守ろうとせず、誰も対価を払おうとしない孤独な宝。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "asymmetric_in",
+		"word": "Asymmetric In",
+		"meaning": "情報（じょうほう）の非対称性（ひたいしょうせい）",
+		"etymology": [
+			"Greek a- + summetria"
+		],
+		"concept": "One knows more than other",
+		"thinking": "「釣り合って（Sum-metria）」いない「貌（知）」。あなたが知っていることを、私は知らない。その『無知の深淵』を武器にして、誰かが誰かを欺き、奪い去る、不公平な戦場としての世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "adverse_selec",
+		"word": "Adverse Sel",
+		"meaning": "逆選択（ぎゃくせんたく）",
+		"etymology": [
+			"Latin adversus (against) + Select"
+		],
+		"concept": "Only bad options stay",
+		"thinking": "「向かい風（Adversus）」のように。良いものは去り、悪いものばかりが「選ばれて（Select）」残る市場。不信が不信を呼び、最後は誰もいなくなる、情報の呪われた荒野。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "moral_hazard_",
+		"word": "Moral Hazard",
+		"meaning": "モラル・ハザード",
+		"etymology": [
+			"Latin moralis + Arabic az-zahr"
+		],
+		"concept": "Taking risk at someone else expense",
+		"thinking": "「道徳（Moral）」が「運（Hazard）」という名の博打へと堕ちる。保険や守りに甘え、リスクという名の火遊びを他人の金で楽しむ、安全という名の慢心。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "bounded_rat_v",
+		"word": "Bounded Rat",
+		"meaning": "限定合理性（げんていごうりせい）",
+		"etymology": [
+			"Bound + Latin ratio"
+		],
+		"concept": "Limits of decision making",
+		"thinking": "「理性（Ratio）」の「境界（Bound）」。私たちは神のようにすべてを見通すことはできない。疲れ、迷い、限られた時間の中で、必死に『納得』を探す不完全な知性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "anchoring_ec",
+		"word": "Anchoring",
+		"meaning": "アンカリング",
+		"etymology": [
+			"Greek agkyra"
+		],
+		"concept": "First price as anchor",
+		"thinking": "思考が「錨（Anchor）」に繋ぎ止められる。最初に見せられた法外な数字が、後のすべての判断を狂わせ、私たちを不条理な場所へと係留する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "framing_econ",
+		"word": "Framing",
+		"meaning": "フレーミング",
+		"etymology": [
+			"Old English framian"
+		],
+		"concept": "Choice shapes context",
+		"thinking": "「額縁（Frame）」の魔法。利益を強調するか、損失を強調するか。言葉の選び方一つで、同じ結末が天国にも地獄にも見える、知性の脆弱な瞳。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "loss_aversion_e",
+		"word": "Loss Aversio",
+		"meaning": "損失（そんしつ）回避性",
+		"etymology": [
+			"Loss + Latin ab- + vertere"
+		],
+		"concept": "Hating loss more than gain",
+		"thinking": "損から「顔を背ける（Ab-vert）」。失うことの痛みは、得る喜びの二倍も深く、私たちの魂に刻まれている。変化を恐れる、生存の本能の鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "game_theory_ad",
+		"word": "Game Theory",
+		"meaning": "ゲーム理論",
+		"etymology": [
+			"Game + Greek theoria"
+		],
+		"concept": "Strategic decision making",
+		"thinking": "人生という「遊戯（Game）」を、冷徹な「観照（Theoria）」で解き明かす。他者の出方を読み、自らの最善を打つ。欲望と欲望がぶつかり合う舞台（計算）の上で、いかに安定（均衡）を見出すか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "nash_equil_v",
+		"word": "Nash Equilib",
+		"meaning": "ナッシュ均衡（きんこう）",
+		"etymology": [
+			"Nash + Equilibrium"
+		],
+		"concept": "No one wants to change alone",
+		"thinking": "誰もが自分の最善を尽くし、それ以上動きようがなくなった「不毛な」安定。互いに牽制し合い、一歩も動けないデッドロックの中で、私たちは調和という名の檻に閉じ込められる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "prisoner_dil",
+		"word": "Prisoner Dil",
+		"meaning": "囚人（しゅうじん）のジレンマ",
+		"etymology": [
+			"Latin prehensum (seized) + Greek di- (two) + lemma (premise)"
+		],
+		"concept": "Individual logic fails group",
+		"thinking": "「捕らえられた（Prehensum）」者たちの、「二つ（Di-）」の「選択肢（Lemma）」。裏切れば自分が助かる。信じれば二人で助かる。しかし、合理性が信頼を食いつぶし、最悪の結末へと滑り落ちていく、普遍の悲劇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "pareto_opt_v",
+		"word": "Pareto Opt",
+		"meaning": "パレート最適（さいてき）",
+		"etymology": [
+			"Pareto + Optimus"
+		],
+		"concept": "Efficient allocation",
+		"thinking": "誰かの幸福のために、他の誰かが犠牲にならなければならない「極北（Optimus）」。無駄が一切ない、しかし冷酷なまでに『不平等』かもしれない、究極の効率。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "incentive_ec",
+		"word": "Incentive",
+		"meaning": "インセンティブ",
+		"etymology": [
+			"Latin incentivus (inciting)"
+		],
+		"concept": "Drive for behavior",
+		"thinking": "「音を鳴らして（In-centivus）」、心をそそる。ニンジンか、それともムチか。人の行動を操り、秩序へと導くための、欲望の調律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "tragedy_comm",
+		"word": "Tragedy Comm",
+		"meaning": "コモンズの悲劇（ひげき）",
+		"etymology": [
+			"Greek tragoidia (goat song/tragedy) + Communis"
+		],
+		"concept": "Destroying shared resources",
+		"thinking": "「山羊の歌（Tragoidia）」＝滅びの序曲。「みんなのもの（Communis）」を、自らの合理性で使い潰す。最後の一人が最後の一滴を飲んだとき、世界に沈黙（荒廃）が訪れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "behavior_econ",
+		"word": "Behav Econ",
+		"meaning": "行動経済学（こうどうけいざいがく）",
+		"etymology": [
+			"Habere (to have) + Economy"
+		],
+		"concept": "Psychology and economics merge",
+		"thinking": "「持っている（Habere）」習慣（Behavior）。数式の中の『合理的な神』ではなく、不純で、間違いだらけで、しかし愛おしい『人間』の貌を見つめる、新しい富の学問。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "nudge_theory_",
+		"word": "Nudge",
+		"meaning": "ナッジ、そっと押（お）すこと",
+		"etymology": [
+			"Norwegian nugge (to push gently)"
+		],
+		"concept": "Subtle choice architecture",
+		"thinking": "「肘でそっと突く（Nugge）」。命令するのではなく、あえて環境を少し整えるだけで、人を正しい選択へと誘う。自由を奪わぬまま、そっと世界を幸福へと向かわせる、知性の微かな愛撫。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "market_failur",
+		"word": "Market Fail",
+		"meaning": "市場（しじょう）の失敗（しっぱい）",
+		"etymology": [
+			"Latin mercatus + fallere (to deceive/fail)"
+		],
+		"concept": "Inefficient free market",
+		"thinking": "自由な取引という名の魔法が、「失敗（Fallere）」する。欲望が暴走し、あるいは無知が支配し、世界が効率という名の光を失うとき。その空隙を、政府や倫理という名のメスで埋める必要が生じる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "capitalism_ad",
+		"word": "Capitalism",
+		"meaning": "資本主義（しほんしゅぎ）",
+		"etymology": [
+			"Latin caput (head)"
+		],
+		"concept": "Private property and markets",
+		"thinking": "「頭（Caput）」＝家畜の頭数、あるいは富の源泉。自らが生み出した富を、自らのものとして守り、増大させていく。果てなき成長を求める、人間の「渇望」を原動力にした、巨大な文明のエンジン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
+	},
+	{
+		"id": "inequality_e",
+		"word": "Inequality",
+		"meaning": "格差（かくさ）、不平等",
+		"etymology": [
+			"Latin in- + aequus (equal)"
+		],
+		"original_statement": "The widening gap between rich and poor.",
+		"concept": "The tilt of the world",
+		"thinking": "「等しく（Aequus）」は「ない（In-）」。生まれた瞬間に決まってしまうスタートラインの違い。持てる者はより高く、持たざる者はより深く。世界の、決して消えることのない「歪み」の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "欲望の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"経済学と行動ファイナンスの極致へ。"
+			]
+		},
+		"example": "Behavioral finance challenges classical economic theories."
 	}
 ];
