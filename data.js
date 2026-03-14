@@ -323314,5 +323314,87 @@ const WORDS = [
    "original_statement": "The maximum luminosity a body can achieve when there is a balance between the force of radiation acting outward and the gravitational force acting inward."
   },
   "concept": "The light's counter (「。。、。重（。お。）。、。、。も。、。み。、。、」。という。、。、。、。峻烈。な。、。。、。鎖（。くさり）。。を。、。、。、。、。自ら。が。、。、。。放（。はな）。。、つ。。、。、「。。、。、。、。輝き。、。、。、」。によって。、。、。押し。、。、返（。かえ）。。、。す。。、。、理知。の、。、。、。反。、。、抗。、。、。、それは、。、。、。、星。、が、。、。、。一。、。、。点の。、。、。、。、塵（ちり）。。、。へと。、。、。、。、還（かえ）。。、。る。。ための、。、。、。、。最。後に。、。、。放（はな）。。、つ。。、。、。、。。絶。、唱。、)"
+ },
+ {
+  "id": "statistical-covariance",
+  "word": "Covariance",
+  "meaning": "共分散、二つの異なる。、。、。運命。が、。、。どれ。ほど。、。、同じ。。方向に。、。、。な。、。び（。な。び）。。、。いているか。、。、。を。、。、。測（。はか）。。、。る。。、。度合い。、",
+  "era": "Latin co- + varius",
+  "etymology": {
+   "components": [
+    "co- (together)",
+    "varius (various)"
+   ],
+   "original_statement": "A measure of the joint variability of two random variables."
+  },
+  "concept": "The shared variance (「。。、。私。、。、」。が、。、。、。笑（。わら）。。、。えば。。、。、「。。、。、あ。、な。た。、。、。」。も。、。笑（わら）。。、。う。。、。、という、。、。理知。の、。峻烈な。、。、。。「。。、。、。。響（。ひび）。。、。き。。、。、。、」。、。、。それは、。、。、。、孤独。、。の中に。、。、。ひっそり。と、。。、。見出（。みいだ）。。、。される。。、。、。一。、。つの。、。、。、。絆。、)"
+ },
+ {
+  "id": "martingale",
+  "word": "Martingale",
+  "meaning": "マルチンゲール、未来の。、。、。期待値。が、。、。常に。、。、。「。、。今。、。、」。の、。、。、理知。、に。、。、。等（。ひと）。。、。しい。。、。という、。、。峻烈な。、。、公平さ。、",
+  "era": "French martingale",
+  "etymology": {
+   "components": [
+    "martingale (a type of harness used for horses)"
+   ],
+   "original_statement": "In probability theory, a sequence of random variables for which at any time, the expectation of the next value is equal to the present value."
+  },
+  "concept": "The fair gambler (「。。、明日。、。、」。が。、。、。どれ。ほど。、。、。「。。、。、。荒（。あ）。。、。れて。。、。、」。いても、。、。、結局。は。、。、。、「。。、。、。ここ。、。、。、」。へと、。、。、戻。って。。、。、。くる。。、。、。という、。、。、理知。の、。。、。「。。、。、。、。祈。、。、。、」。、と。、。いう、。、。、不動。の。、。、。、信。、。、。頼。、)"
+ },
+ {
+  "id": "wiener-process",
+  "word": "Wiener Process",
+  "meaning": "ウィーナー過程、ブラウン運動。の。、。、。数学。的な。、。、。一。、。条の。、。、。、。震。え。、",
+  "era": "Name Norbert Wiener",
+  "etymology": {
+   "components": [
+    "Norbert Wiener (mathematician)"
+   ],
+   "original_statement": "A continuous-time stochastic process, often called Brownian motion physics."
+  },
+  "concept": "The infinite tremble (「。。、。一。、。、。点。、。、」。に、。、。、。留（。と。）。、。まる。。、。こと。を。、。、。理知。が、。、。、あえて。、。、「。。、。、。、。拒。、絶。、。、。、」。し、。、。、。どこまでも。、。、。、不。安。定。に。、。、。、。振（。ふ）。。、。る。。、。え。。、。つづ。ける。。、。ことの、。、。、。、。美。しさ。、。、。それは、。、。、。、宇宙。が。、。、。、。、今。、この。、。、。瞬間に。、。、。、。、。。生（い）。。、。きて。。、。いる。。、。ことの、。、。、。証（あかし）。、)"
+ },
+ {
+  "id": "stratonovich-integral",
+  "word": "Stratonovich Integral",
+  "meaning": "ストラトノビッチ積分、因果律。の。、。、。中心。。、「。。、。、中。、。間。、。、。、」。を。、。、。、。重（。お。）。。、。ん。、じ。。、。る。。、。ための。、。、。理知。の、。積み。、上げ。、",
+  "era": "Name Ruslan Stratonovich",
+  "etymology": {
+   "components": [
+    "Ruslan Stratonovich (physicist / mathematician)"
+   ],
+   "original_statement": "A type of stochastic integral, commonly used in physics for its properties under time-reversal."
+  },
+  "concept": "The middle choice (「。。、過去。、。、」。でも。、。、「。。、。、。未来。、。、。、」。でも。、。、。。ない。、。、。、。ただ。。、。一。、。つの。、。、。、。「。。、。、中。、間。、。、。、」。こそが。、。、。、真実。を。、。、。、。射（。い）。。、。抜（。ぬ）。。、。く。。、。ための。、。、。、。理。知。、。、。それは、。、。、。、宇宙。に。、。、。、対。、する。。、。、。、。峻烈な。、。、。、。、誠。、。実。、)"
+ },
+ {
+  "id": "central-limit-theorem",
+  "word": "Central Limit Theorem",
+  "meaning": "中心極限定理、あらゆる。、。、。混沌。が。、。、最後。には。、。、。、。美。しき。、。、。、「。。、。、。、。鐘。、。、。、」。の、。、。。形に。、。、収（。おさ）。。、。まる。。、。、という、。、。自然。の。、。法。、則。、",
+  "era": "Latin centralis + limit",
+  "etymology": {
+   "components": [
+    "centralis (center)",
+    "līmes (boundary / limit)"
+   ],
+   "original_statement": "A theorem that establishes that, in many situations, for independent and identically distributed random variables, the properly normalized sum tends toward a normal distribution."
+  },
+  "concept": "The bell of truth (「。。、。数。、。、。、」。え。、。き。、。れぬ。。、。、。「。。、。、。、個。、。、。、」。たちの。、。、。、。、身。、。勝（。が）。。、。手。、。な。、。、。振（。ふ）。。、。る。。、。まい。、。、。さえも。、。、。理知。の、。。眼。、。ざ。し。、で。、。、。見。、。守。、。れば、。、。、最後。には。、。、。、。一。、。、。、つの。、。、。、。「。。、。、。律。、旋。、。、。、」。へと、。、。、。、溶。け。、。合う。。、。ことの、。、。、喜び。、)"
+ },
+ {
+  "id": "law-of-large-numbers",
+  "word": "Law of Large Numbers",
+  "meaning": "大数の法則、幾。、。、。万。回。。、。、の。、。試行。の、。、。果（は。て）。。に、。、。、真実。が、。、。、ひっそり。と、。、。、姿（。フォルム）。。を、。、。。現（。あら）。。、。わ。。す。。、。こと。、",
+  "era": "Latin lex + grandis + numerus",
+  "etymology": {
+   "components": [
+    "lex (law)",
+    "grandis (large / grand)",
+    "numerus (number)"
+   ],
+   "original_statement": "A theorem that describes the result of performing the same experiment a large number of times."
+  },
+  "concept": "The grand law (「。。、。一。、度。、。、」。だけ。では。、。、。、。決して。、。、。理。知。、を。、。、。捉（。と。）。。、。える。。、。こと。、。の、。、できない。。、。我ら。に。、。、。、あえて。、。、。、。宇宙。が。、。、。、。、「。。、。、繰り返。、。し。、。、。、」。を。、。、通。、じて。、。、教（。おし）。。、。えて。。、。、くれる。。、。、峻烈な。、。、。、。、慈。、。悲。、)"
  }
 ];
