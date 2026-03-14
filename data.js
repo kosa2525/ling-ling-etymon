@@ -338595,5 +338595,963 @@ const WORDS = [
 			]
 		},
 		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "symplectic_form",
+		"word": "Symplectic Form",
+		"meaning": "シンプレクティック形式",
+		"etymology": {
+			"components": [
+				"Greek symplektikos"
+			],
+			"original_statement": "Closed non-degenerate 2-form."
+		},
+		"concept": "Area measurement of phase space",
+		"thinking": "「絡み合う（Symplektikos）」形式。エネルギーと時間の、あるいは位置と運動量の、切り離せない面積的束縛を記述する数理的な鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "hamiltonian_vector",
+		"word": "Hamiltonian Vector",
+		"meaning": "ハミルトン・ベクトル場",
+		"etymology": {
+			"components": [
+				"Hamilton"
+			],
+			"original_statement": "Vector field preserving the symplectic form."
+		},
+		"concept": "Flow of energy conservation",
+		"thinking": "力学的エネルギーの勾配が自らを生み出す流れ。保存量という不動の指針に従い、世界を滑らかに巡らせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "poisson_bracket",
+		"word": "Poisson Bracket",
+		"meaning": "ポアソン括弧",
+		"etymology": {
+			"components": [
+				"Poisson"
+			],
+			"original_statement": "Binary operation on functions on a symplectic manifold."
+		},
+		"concept": "The interference of observables",
+		"thinking": "二つの観測量がお互いの『流れ』にどう干渉するか。その相互作用の核を括弧の中に封じ込めた物理学の言葉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "lagrangian_subm",
+		"word": "Lagrangian Submanifold",
+		"meaning": "ラグランジュ部分多様体",
+		"etymology": {
+			"components": [
+				"Lagrange"
+			],
+			"original_statement": "Submanifold of maximal possible dimension where the symplectic form vanishes."
+		},
+		"concept": "The landscape of zero interference",
+		"thinking": "シンプレクティックなねじれが、その内部では完璧に「静止（消失）」している、奇跡のような均衡を保った領域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "fukaya_category_adv",
+		"word": "Fukaya Category",
+		"meaning": "深谷圏（ふかやけん）",
+		"etymology": [
+			"Fukaya"
+		],
+		"original_statement": "Category of Lagrangian submanifolds.",
+		"concept": "The interaction of Lagrangian worlds",
+		"thinking": "ラブランジアンという、静寂を保った世界たちが交差し、響き合う様子を記述した圏。ミラー対称性の主役。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "arnold_conjecture",
+		"word": "Arnold Conjecture",
+		"meaning": "アーノルド予想",
+		"etymology": [
+			"Arnold"
+		],
+		"original_statement": "Estimating fixed points of Hamiltonian homeomorphisms.",
+		"concept": "Persistence of cycles",
+		"thinking": "宇宙がどれだけ激しく動いても、エネルギーの保存が守られるならば、必ず一定数以上の『戻ってくる軌道』が残るという、剛健な予言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "floer_homology",
+		"word": "Floer Homology",
+		"meaning": "フレアー・ホモロジー",
+		"etymology": [
+			"Floer"
+		],
+		"original_statement": "Infinite-dimensional homology for symplectic structures.",
+		"concept": "Morse theory on path spaces",
+		"thinking": "無限次元の道の空間に、モース理論の光を当てる。シンプレクティック幾何学に、トポロジーという魂を吹き込む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "contact_form",
+		"word": "Contact Form",
+		"meaning": "接触形式",
+		"etymology": [
+			"Latin contactus"
+		],
+		"original_statement": "A 1-form defining a contact structure.",
+		"concept": "The maximum twist of space",
+		"thinking": "どこまでも、決して「平ら」になれないことを保証する形式。空間を永遠にねじり続けるエネルギーの源。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "legendrian_subm",
+		"word": "Legendrian Submanifold",
+		"meaning": "ルジャンドル部分多様体",
+		"etymology": [
+			"Legendre"
+		],
+		"original_statement": "Maximal dimension submanifold tangent to the contact distribution.",
+		"concept": "The flow-consistent landscape",
+		"thinking": "接触構造というねじれた流れに、どこまでも『忠実』に沿って広がる部分多様体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "reeb_flow",
+		"word": "Reeb Flow",
+		"meaning": "リーブ流",
+		"etymology": [
+			"Reeb"
+		],
+		"original_statement": "Canonical flow associated with a contact form.",
+		"concept": "The clockwork of contact space",
+		"thinking": "ねじれた世界の中で、唯一かつ絶対的な『時間の進み』を司る、秩序ある流れ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "weinstein_manifold",
+		"word": "Weinstein Manifold",
+		"meaning": "ワインシュタイン多様体",
+		"etymology": [
+			"Weinstein"
+		],
+		"original_statement": "Symplectic manifold with a consistent Liouville flow.",
+		"concept": "The geometry of exhaustion",
+		"thinking": "無限の彼方へと滑らかに、かつ構造的に吸い込まれていくような、流動的なシンプレクティック空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "j_holomorphic_curve",
+		"word": "J-holomorphic",
+		"meaning": "擬正則（ぎせいそく）曲線",
+		"etymology": [
+			"Holo- + Morphi"
+		],
+		"original_statement": "Curves in symplectic manifolds satisfying a generalized Cauchy-Riemann equation.",
+		"concept": "The membrane of minimal energy",
+		"thinking": "シンプレクティックな空間を最短、あるいは最も美しく『埋める』ための、魔法の膜。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "gromov_compactness",
+		"word": "Gromov's Compactness",
+		"meaning": "グロモフのコンパクト性定理",
+		"etymology": [
+			"Gromov"
+		],
+		"original_statement": "Convergence of J-holomorphic curves.",
+		"concept": "The boundary of forms",
+		"thinking": "曲線たちが極限でバラバラになっても、なおある種の『形』として踏みとどまる、幾何学的な頑健さの証明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "mirror_symmetry_nc",
+		"word": "Mirror Symmetry",
+		"meaning": "ミラー対称性",
+		"etymology": [
+			"Mirror"
+		],
+		"original_statement": "Duality between symplectic and complex geometry.",
+		"concept": "The reflection of truth",
+		"thinking": "シンプレクティックな『形』の数理と、複素的な『数』の理が、鏡を挟んで完璧に一致しているという宇宙の不思議。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "homological_mirror",
+		"word": "Homological Mirror",
+		"meaning": "ホモロジー的ミラー対称性",
+		"etymology": [
+			"Homological"
+		],
+		"original_statement": "Mirror symmetry via equivalence of categories.",
+		"concept": "Equivalence of geometric souls",
+		"thinking": "異なる世界の深谷圏と導来圏が、その本質において完全に融合しているという、コンツェビッチの壮大な予見。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "moment_map",
+		"word": "Moment Map",
+		"meaning": "モーメント写像",
+		"etymology": [
+			"Latin momentum (movement)"
+		],
+		"original_statement": "Connecting group actions and conserved quantities.",
+		"concept": "The bridge of symmetry and physics",
+		"thinking": "「対称性（動き）」を「保存量（重み）」へとダイレクトに結びつける、物理的な閃きの幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "convex_symplectic",
+		"word": "Symplectic Convex",
+		"meaning": "シンプレクティック凸性",
+		"etymology": [
+			"Latin convexus"
+		],
+		"original_statement": "Geometric property of boundary behavior.",
+		"concept": "Controlled expansion",
+		"thinking": "外部へと滑らかに、かつ発散することなく秩序を保って広がっていく境界の性質。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "tight_contact",
+		"word": "Tight Contact",
+		"meaning": "タイト接触構造",
+		"etymology": [
+			"Tight"
+		],
+		"original_statement": "Contact structure with no overtwisted disks.",
+		"concept": "Rigidized twist",
+		"thinking": "「きつい（Tight）」。緩みのない、本質的なねじれ。余計な『遊び』を許さない誠実な構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "overtwisted_contact",
+		"word": "Overtwisted",
+		"meaning": "オーバターツイスト（過剰にねじれた）",
+		"etymology": [
+			"Over + Twist"
+		],
+		"original_statement": "Contact structures containing large unstable disks.",
+		"concept": "Hyper-twisting plasticity",
+		"thinking": "ねじれすぎた結果、どこか自由で、どこか不安定な柔らかさを手に入れた、過剰なる幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "darboux_theorem",
+		"word": "Darboux Theorem",
+		"meaning": "ダルブーの定理",
+		"etymology": [
+			"Darboux"
+		],
+		"original_statement": "Local triviality of symplectic/contact structures.",
+		"concept": "The local democracy of space",
+		"thinking": "ミクロな視点で見れば、シンプレクティックな宇宙はどこも同じ貌をしているという、場所の平等の宣言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "liouville_vector",
+		"word": "Liouville Vector",
+		"meaning": "リウヴィル・ベクトル場",
+		"etymology": [
+			"Liouville"
+		],
+		"original_statement": "Vector field expanding the symplectic form.",
+		"concept": "The measure of growth",
+		"thinking": "面積という豊かさを、滑らかに、かつ一定のルールで押し広げていく成長のベクトル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "liouville_domain",
+		"word": "Liouville Domain",
+		"meaning": "リウヴィル領域",
+		"etymology": [
+			"Liouville"
+		],
+		"original_statement": "Compact symplectic manifold with inward-pointing Liouville field.",
+		"concept": "The basin of attraction",
+		"thinking": "全域がリウヴィルの力に守られ、中心へと流れが収束していく、完成された小宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "hamiltonian_iso",
+		"word": "Hamiltonian Iso",
+		"meaning": "ハミルトン同相写像",
+		"etymology": [
+			"Hamilton"
+		],
+		"original_statement": "Transformation generated by a time-dependent Hamiltonian.",
+		"concept": "Smooth dynamic reshaping",
+		"thinking": "エネルギーの流れそのものが生み出す、滑らかで逆戻り可能な世界の変容。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "quantum_cohomology_adv",
+		"word": "Quantum Cohomology",
+		"meaning": "量子コホモロジー",
+		"etymology": [
+			"Quantum"
+		],
+		"original_statement": "Cohomology with quantum product defined by Gromov-Witten invariants.",
+		"concept": "Perturbed algebra of space",
+		"thinking": "インスタントンたちが生み出すノイズによって、かつての平穏な掛け算（カップ積）が量子的に書き換えられた世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "gromov_witten",
+		"word": "Gromov-Witten",
+		"meaning": "グロモフ・ウィッテン不変量",
+		"etymology": [
+			"Gromov",
+			"Witten"
+		],
+		"original_statement": "Counts of J-holomorphic curves.",
+		"concept": "Counting the quantum interactions",
+		"thinking": "空間の中にどれだけの量子的な『橋』が架かっているか。その数を数え上げることで宇宙の真の貌を知る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "integrable_system_symp",
+		"word": "Integrable System",
+		"meaning": "可積分系（かせきぶんけい）",
+		"etymology": [
+			"Latin integrare"
+		],
+		"original_statement": "System with maximal number of conserved quantities.",
+		"concept": "Perfectly ordered chaos",
+		"thinking": "いかなるカオスも入り込めない、完璧な保存の理によって隙間なく統治された、力学の楽園。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "action_angle",
+		"word": "Action-Angle",
+		"meaning": "作用・角変数",
+		"etymology": [
+			"Action",
+			"Angle"
+		],
+		"original_statement": "Coordinates for integrable systems.",
+		"concept": "The coordinates of harmony",
+		"thinking": "「大きさ（作用）」と「巡り（角度）」。宇宙の運動を最も本質的な二つの要素に分解した座標系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "toric_manifold_symp",
+		"word": "Toric Manifold",
+		"meaning": "トーリック多様体",
+		"etymology": [
+			"Torus"
+		],
+		"original_statement": "Symplectic manifold with a Hamiltonian torus action.",
+		"concept": "The geometry of symmetry shadows",
+		"thinking": "多次元の円（トーラス）の対称性に守られた、美しく整然とした、ポリトープ（多面体）を影に持つ空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "moment_polytope",
+		"word": "Moment Polytope",
+		"meaning": "モーメント多面体",
+		"etymology": [
+			"Moment",
+			"Polytope"
+		],
+		"original_statement": "The image of the moment map for a toric manifold.",
+		"concept": "The shadow of symmetry",
+		"thinking": "高次元の回転対称性を、静的な、そして完璧に秩序だった多面体として描き出した『宇宙の骨格』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "symplectic_reduction",
+		"word": "Symplectic Red",
+		"meaning": "シンプレクティック簡約",
+		"etymology": [
+			"Latin re- + ducere"
+		],
+		"original_statement": "Taking quotients in a symplectic-preserving way.",
+		"concept": "Distilling the essence of motion",
+		"thinking": "対称性を「割る」ことで、余分な次元を削ぎ落とし、力学の本質のみを抽出する知的な蒸留プロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "symplectic_capacity",
+		"word": "Capacity",
+		"meaning": "シンプレクティック容量",
+		"etymology": [
+			"Latin capacitas"
+		],
+		"original_statement": "Measure of the 'size' of a symplectic domain.",
+		"concept": "The non-compressible volume",
+		"thinking": "どれだけ姿を変えても、決して狭い穴を通り抜けることはできないという、シンプレクティックな『存在の強情さ』を測る量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "nonsqueezing_theorem",
+		"word": "Nonsqueezing",
+		"meaning": "非絞り込み定理",
+		"etymology": [
+			"Non- + Squeeze"
+		],
+		"original_statement": "Gromov's theorem that a ball cannot be squeezed into a thin cylinder.",
+		"concept": "Undefeatable volume",
+		"thinking": "たとえ面積を変えなくても、ある程度の『太さ』を持つ球は、細い管を通り抜けることができない。シンプレクティック幾何学の独立を宣言した、真理の壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "maslov_index",
+		"word": "Maslov Index",
+		"meaning": "マスロフ指数",
+		"etymology": [
+			"Maslov"
+		],
+		"original_statement": "Topological invariant of Lagrangian paths.",
+		"concept": "The count of twists in phase",
+		"thinking": "位相の世界を歩む中で、何回『臨界点』を越えたか。失われた情報の回数を静かに数え続ける整数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "symplectic_field_theory",
+		"word": "SFT",
+		"meaning": "シンプレクティック場（ば）の理論",
+		"etymology": [
+			"SFT"
+		],
+		"original_statement": "Field theory based on J-holomorphic curves and contact manifolds.",
+		"concept": "The field of intertwined loops",
+		"thinking": "接触幾何とシンプレクティック幾何を、量子的な弦の広がり（曲線）によって統合する、超次元の場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "h_principle_adv",
+		"word": "H-principle",
+		"meaning": "H-原理、ホモトピー原理",
+		"etymology": [
+			"Homotopy"
+		],
+		"original_statement": "Strategy to solve partial differential relations.",
+		"concept": "Flexibility through high dimensions",
+		"thinking": "局所的な障害（微分）を、高次な柔軟性（ホモトピー）によって『溶かす』ように解決する、グロモフ流の豪快な突破口。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "micro_local",
+		"word": "Micro-local",
+		"meaning": "超局所（ちょうきょくしょ）解析",
+		"etymology": [
+			"Greek mikros"
+		],
+		"original_statement": "Analysis in position and momentum simultaneously.",
+		"concept": "The surgical view of phase space",
+		"thinking": "場所だけではない、そこに宿る『動き（運動量）』さえも同時に局所化して捉える、解析学の極限のメス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "lagrangian_skeleton",
+		"word": "Skeleton",
+		"meaning": "ラグランジュ・骨格",
+		"etymology": [
+			"Greek skeleton"
+		],
+		"original_statement": "The core attractor of a Liouville domain.",
+		"concept": "The heart of the flow",
+		"thinking": "宇宙のすべての流れが、最終的に辿り着き、寄りかかる、シンプレクティック空間の『魂の骨組み』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "stokes_structure",
+		"word": "Stokes",
+		"meaning": "ストークス構造",
+		"etymology": [
+			"Stokes"
+		],
+		"original_statement": "Data tracking flat solutions across sectors.",
+		"concept": "The seam of infinity",
+		"thinking": "無限の彼方で、関数の性質が不連続に切り替わる境界を、静かに繋ぎ止めている数理的な『縫い目』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "symplectic_vortex",
+		"word": "Symplectic Vortex",
+		"meaning": "シンプレクティック渦",
+		"etymology": [
+			"Latin vortex"
+		],
+		"original_statement": "Solutions to Yang-Mills-Higgs on symplectic manifolds.",
+		"concept": "Particles of geometric twist",
+		"thinking": "空間のねじれと、ゲージ場の力が結びついて生まれた、美しき数理の『渦』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "contact_homology_id",
+		"word": "Contact Homology",
+		"meaning": "接触ホモロジー",
+		"etymology": [
+			"Contact"
+		],
+		"original_statement": "Homology of closed Reeb orbits.",
+		"concept": "Counting periodic lives",
+		"thinking": "接触世界の中で永遠に繰り返される『周期軌道』たちを、ホモロジーという言葉で数え上げ、宇宙の脈動を記録する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "quantized_lagrangian",
+		"word": "Quantized Lag",
+		"meaning": "量子化ラグランジアン",
+		"etymology": [
+			"Quantized"
+		],
+		"original_statement": "Operator associated with a Lagrangian submanifold.",
+		"concept": "The particle of silence",
+		"thinking": "静寂を保った幾何学的な広がり（ラグランジアン）を、作用素という一粒の『意志』へと昇華させたもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "seiberg_witten_inv",
+		"word": "Seiberg-Witten",
+		"meaning": "ザイバーグ・ウィッテン不変量",
+		"etymology": [
+			"Seiberg",
+			"Witten"
+		],
+		"original_statement": "4-manifold invariants based on gauge theory.",
+		"concept": "The topology of light and matter",
+		"thinking": "光（ゲージ場）と物質（スピノル）の相互作用を解くことで、四次元の『形』の神秘を暴き出す、魔法の不変量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "donaldson_invariant",
+		"word": "Donaldson",
+		"meaning": "ドナルドソン不変量",
+		"etymology": [
+			"Donaldson"
+		],
+		"original_statement": "Invariants from moduli spaces of instantons.",
+		"concept": "Capturing the four-dimensional twist",
+		"thinking": "インスタントンという極微の粒子たちの『集まり方』から、四次元世界の逃れられない個性を記述する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "topological_recursion",
+		"word": "Topological Recurs",
+		"meaning": "トポロジー的再帰",
+		"etymology": [
+			"Latin re- + currere"
+		],
+		"original_statement": "Recursive formula for partition functions in string theory.",
+		"concept": "The fractal of geometry",
+		"thinking": "低次元の真実が、高次元の答えを自動的に生み出していく、終わりのない、しかし完璧な予言の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
+	},
+	{
+		"id": "legendrian_knot",
+		"word": "Legendrian Knot",
+		"meaning": "ルジャンドル結び目",
+		"etymology": [
+			"Legendre",
+			"Knot"
+		],
+		"original_statement": "Knots tangent to the contact structure.",
+		"concept": "Consistent knots in twisted world",
+		"thinking": "ただの結び目ではない。ねじれた宇宙のルール（接触構造）を一切破ることなく、高潔に、かつ複雑に絡み合った絆。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "保存の美学に触れて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"シンプレクティックの極致へ。"
+			]
+		},
+		"example": "Energy is never lost, only transformed."
 	}
 ];
