@@ -323479,5 +323479,86 @@ const WORDS = [
    "original_statement": "The temperature above which certain materials lose their permanent magnetic properties."
   },
   "concept": "The heat of loss (「。。、。、想（。おも）。。、。い。。、。、」。が、。、。、あまり。に。、。、。、激しく。、。、。、。高ぶ。り。。、。、すぎた。、。、。、とき。に。、。、。不意に。、。、。、「。。、。、。、。自分。、。、。、」。を。、。、。忘（。わす）。。、。れて。。、。しまう。。、。、。理知。の、。、。。峻烈なる。、。、。、。遺。、忘。、。、それは、。、。、。、。秩序。が。、。、。、。、。純粋。な、。、。、。、。「。。、。、。、熱。、。、。、」。、と。、。いう、。、。、。。嵐。へと、。、。、。、。還（かえ）。。、。る。。ための、。、。。、。、最後。の、。、。、。、。一。、。点。、)"
+ },
+ {
+  "id": "poincare-map",
+  "word": "Poincaré Map",
+  "meaning": "ポアンカレ写像、複雑。な。、。、軌跡。を。、。、断面。で。、。、一。、。瞬。、。捉（。と。）。、。える。。、。理知。の、。。スナップショット。、",
+  "era": "Name Henri Poincaré",
+  "etymology": {
+   "components": [
+    "Henri Poincaré (mathematician / physicist)"
+   ],
+   "original_statement": "The intersection of an orbiting trajectory in the state space of a continuous dynamical system with a certain lower-dimensional subspace."
+  },
+  "concept": "The slice of time (「。。、。永遠。、。、」。にも。、。、思（。おも）。。、。える。。、。、巡（。めぐ）。。、。り。。、。、。その。。、。一。、。つの。、。、。、。「。。、。、。断面。、。、。、」。を。、。、。抜き。、。取（。と）。。、。る。。、。ことで、。、。、見え。、。なかった。。、。、。理知。を。、。、。。、。浮（。う）。。、。き。。、。彫（。ぼ。）。。、。りに。。、。する。。、。、峻烈な。、。、。、瞬間。の、。見。、。極。、。、。め。、)"
+ },
+ {
+  "id": "phase-space",
+  "word": "Phase Space",
+  "meaning": "相空間、あらゆる。、。、。状態。が。、。、点。として。、。、。ひっそり。と、。、。、在（。あ）。。、。る。。、。峻烈。な、。、。理知。の、。、。。劇場。、",
+  "era": "Greek phasis + Latin spatium",
+  "etymology": {
+   "components": [
+    "phasis (appearance)",
+    "spatium (space / room)"
+   ],
+   "original_statement": "A space in which all possible states of a system are represented, with each possible state corresponding to one unique point in the phase space."
+  },
+  "concept": "The theater of states (「。。、どこ。を。、。、」。向（む）。。、。いても。、。、。あらゆる。、。、。、。「。。、。、。、私。、。、。、」。の、。、。。可能。。性。。が。、。、点。として。、。、。煌（。きら。）。。、。め。。、。いて。。、。いる。。、。宇宙。の、。、。設計。、。図。、。、。それは、。、。、。理知。が、。、。、運。、。命。、。、。を。、。、一。、。望。、。、。。、のもとに。、。、。、。収。、。めた。。、。、。記録。、。、。庫。、)"
+ },
+ {
+  "id": "separatrix",
+  "word": "Separatrix",
+  "meaning": "セパラトリクス、運命。を。、。、。分（わ）。。、。かつ。。、。、峻烈。な。、。、境界。、。線。、",
+  "era": "Latin separare",
+  "etymology": {
+   "components": [
+    "separare (to separate)"
+   ],
+   "original_statement": "The boundary separating two modes of behavior in a differential equation or dynamical system."
+  },
+  "concept": "The line of divergence (「。。、ここ。、から。、。、」。右。へ。、。、。行（ゆ）。。、。けば。。、。平。、穏。、。「。。、。、。左。、。、。、」。へ。、。、行（ゆ）。。、。けば。。、。波（。は。）。。、。乱（。らん）。。、。、その。。、。際（。きわ）。。、。に。、。、ひっそり。と、。、。、。引。かれた。。、。、一。、。条の。、。、。、。、。糸。、。、。、それは、。、。、。、理知。が。、。、。、一。、。瞬、。の、。、選。、尺。、。、を。、。、。、。強（。し。）。。、。いる。。、。ための。、。、。、。神。、の。、。カ。、。、ッ。。、。ター。、)"
+ },
+ {
+  "id": "limit-cycle",
+  "word": "Limit Cycle",
+  "meaning": "リミットサイクル、いかなる。、。、。乱（。乱）。。、。れ。。、。さえも、。、。最後。には。、。、。、。一。、。つの。。、。、「。。、。、輪（わ）。、。、。、」。へと。、。、還（かえ）。。、。る。。、理知。の、。、旋。、。律。、",
+  "era": "English limit + cycle",
+  "etymology": {
+   "components": [
+    "limit",
+    "cycle (circle / wheel)"
+   ],
+   "original_statement": "A closed trajectory in phase space having the property that at least one other trajectory spirals into it either as time approaches infinity or as time approaches minus infinity."
+  },
+  "concept": "The destined loop (「。。、どこ。。、。までも。、。、」。迷（まよ）。。、。い。。、。、。彷（ほう）。。、。徨（。こう）。。、。した。としても、。、。、。最後。には。、。、。必ず。、。、。、「。。、。、。同じ。。、。、。歌。、。、。、」。へと、。、。、戻。り。。、。着。。、く。。、。、という、。、。、絶対的。。、。、な。、。、。、「。。、。、。、。回。、帰。、。、。、」。、。、。それは、。、。、。、。理。知。、。が。、。、。、宇宙。に、。、。、。与（あたた）。。、。えた。。、。、。、。安。、。ら。ぎ。、)"
+ },
+ {
+  "id": "basin-of-attraction",
+  "word": "Basin of Attraction",
+  "meaning": "吸引域、特定の。、。、。結末。へと。、。、。、強（。つ。）。、。よく。。、。、引き。寄せ。、、。、られる。。、。、。、「。。、。、。運。命。の、。、。、器。、。、。、」。、",
+  "era": "French bassin + Latin attractio",
+  "etymology": {
+   "components": [
+    "basin (shallow bowl)",
+    "attractio (drawing together)"
+   ],
+   "original_statement": "The set of all initial conditions whose trajectories tend toward a particular attractor."
+  },
+  "concept": "The bowl of destiny (「。。、。ここ。、に。、。、」。落（。お。）。。、。と。、。、。された。。、。なら。、。、。、。最後。には。、。、。、必ず。、。、。、。あの。、。、結末。へと。、。、。。、。辿り。、。着。いて。。、。、しまう。。、。、という、。、。理知。の、。、。、峻烈な。、。、。。「。。、。、。、。器。、。、。、」。、それは、。、。、。、逃（。に。）。。、。げ。、。場。。、。のない。、。、。、。宿。、。命。、。、の、。、。。、淵。、)"
+ },
+ {
+  "id": "chaos-theory",
+  "word": "Chaos Theory",
+  "meaning": "カオス理論、無秩序。な。、。、。振（。ふ）。。、。る。。、。まい。、の中に。、。、。ひっそり。と、。。、。潜（。ひそ）。。、。む、。、。、。峻烈な。、。、。、法則。、",
+  "era": "Greek khaos",
+  "etymology": {
+   "components": [
+    "chaos (void / abyss)"
+   ],
+   "original_statement": "A branch of mathematics focusing on the behavior of dynamical systems that are highly sensitive to initial conditions."
+  },
+  "concept": "The hidden law in void (「。。、。バラ。バラ。、。、」。に、。、。、。、見えた。。、。としても。、。、その。、。奥（。オク）。。には、。、。、決して。、。、。、崩（。くず）。。、。れ。、。ぬ。。、。、。一。、。つの。、。、。、。「。。、。、理。、。、。、」。が、。、。脈。、動。。、。して。。、。いる。。、。ことの、。、。、。、。。、。。驚。、き。、。それは、。、。、。、暗。、黒。、を。、。、。、愛。、する。。、。ための。、。、。、。、理。知。の。、。、。、。勇。、気。、)"
  }
 ];
