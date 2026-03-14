@@ -353913,5 +353913,962 @@ const WORDS = [
 			]
 		},
 		"example": "The interface connected mind to machine."
+	},
+	{
+		"id": "macroevolution_adv",
+		"word": "Macroevolution",
+		"meaning": "大進化（だいしんか）",
+		"etymology": {
+			"components": [
+				"Greek makros (large)",
+				"Evolution"
+			],
+			"original_statement": "Evolution occurring over geologic time at or above the level of species."
+		},
+		"concept": "The grand history of life",
+		"thinking": "「巨大な（Makros）」視点。単なる一世代の変化ではなく、数千万年をかけて恐竜が鳥へと、魚が陸へと上がるような、生命系統の劇的な飛躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "microevolution_adv",
+		"word": "Microevolution",
+		"meaning": "小進化（しょうしんか）",
+		"etymology": {
+			"components": [
+				"Greek mikros (small)",
+				"Evolution"
+			],
+			"original_statement": "Evolutionary change within a species or small group over a short period."
+		},
+		"concept": "Steady change within the kind",
+		"thinking": "「微小な（Mikros）」さざ波。環境に応じて鳥の嘴が少し鋭くなり、細菌が薬を乗り越える。目には見えぬほど小さな変化が、積み重なって歴史を作る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "genetic_drift_adv",
+		"word": "Genetic Drift",
+		"meaning": "遺伝的浮動（いでんてきふどう）",
+		"etymology": [
+			"Gene",
+			"Drift"
+		],
+		"original_statement": "Change in frequency of an existing gene variant in a population due to random sampling of organisms.",
+		"concept": "The roll of the genetic dice",
+		"thinking": "「漂う（Drift）」運命。有利でも不利でもなく、ただ『偶然』という名のダイスが、ある遺伝子を消し、ある遺伝子を残す。カオスが支配する生命の偶然性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "founder_effect_bio",
+		"word": "Founder Effect",
+		"meaning": "創始者効果（そうししゃこうか）",
+		"etymology": [
+			"Founder"
+		],
+		"original_statement": "Reduced genetic diversity when a population is descended from a small number of colonizing ancestors.",
+		"concept": "The bias of origin",
+		"thinking": "「最初に入植した者（Founder）」の偏り。新天地へ渡ったごく少数の者たちが、その後の巨大な集団の全貌（遺伝子）を決定づけてしまう、歴史の初期値への依存。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "bottleneck_effect",
+		"word": "Bottleneck",
+		"meaning": "ボトルネック効果",
+		"etymology": [
+			"Bottle + Neck"
+		],
+		"original_statement": "Sharp reduction in the size of a population due to environmental events.",
+		"concept": "Surviving the narrow passage",
+		"thinking": "広大な集団が、大災厄という「瓶の首（Bottle-neck）」を通らされる。生き残ったほんの一握りの多様性だけが、未来へと押し出される、生命の峻厳なろ過。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "convergent_evol",
+		"word": "Convergent Evol",
+		"meaning": "収束進化（しゅうそくしんか）",
+		"etymology": [
+			"Latin con- (together) + vergere (to bend/turn)"
+		],
+		"original_statement": "Independent evolution of similar features in species of different periods or lineages.",
+		"concept": "Parallel solutions to world",
+		"thinking": "「共に（Con-）」「向かう（Vergere）」。全く異なる出自の者たちが、同じ過酷な環境（空や海）を生き抜くために、そっくりな『貌（翼や鰭）』を手に入れる。真理への必然的な帰結。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "divergent_evol",
+		"word": "Divergent Evol",
+		"meaning": "発散進化（はっさんしんか）",
+		"etymology": [
+			"Latin di- (apart) + vergere"
+		],
+		"original_statement": "Accumulation of differences between groups which can lead to the formation of new species.",
+		"concept": "The splitting of paths",
+		"thinking": "「離れて（Di-）」「向かう（Vergere）」。かつては一つだった道が、別々の場所へと分岐し、二度と重ならない多様な貌へと分かたれていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "adaptive_radiation",
+		"word": "Adapt Radiation",
+		"meaning": "適応放散（てきおうほうさん）",
+		"etymology": [
+			"Adaptive",
+			"Latin radiare (to beam/shine out)"
+		],
+		"original_statement": "Rapid diversification of a single ancestral line into many forms.",
+		"concept": "Burst of diversification",
+		"thinking": "一つから「光り輝きながら（Radiare）」「広がる」こと。新しい大陸や海へ辿り着いた瞬間、その空白を埋めるように一気に何百もの形へと爆発的に分化する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "horizontal_gene",
+		"word": "HGT",
+		"meaning": "水平伝播（すいへいでんぱ）",
+		"etymology": [
+			"Horizontal",
+			"Gene",
+			"Transfer"
+		],
+		"original_statement": "Movement of genetic material between unicellular and/or multicellular organisms other than via vertical transmission.",
+		"concept": "Cross-species info swap",
+		"thinking": "親から子へ（垂直）ではなく、「他人」からいきなり。細菌たちが秘密の合言葉（遺伝子）を直接手渡し合う、国境を越えた情報の密貿易。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "punctuated_equili",
+		"word": "Punc Equilib",
+		"meaning": "断続平衡説",
+		"etymology": [
+			"Punctuate + Equilibrium"
+		],
+		"original_statement": "Evolution proceeds primarily by the rapid accumulation of changes rather than by continuous gradual changes.",
+		"concept": "Evolution by jumps",
+		"thinking": "長く静かな「安定（Equilibrium）」の後に、突如として「区切り（Punctuate）」を打つような爆発的変化が起きる。生命の歴史は、停滞と飛躍の繰り返し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "phyletic_gradual",
+		"word": "Gradualism",
+		"meaning": "漸進進化説（ぜんしんしんかせつ）",
+		"etymology": [
+			"Latin gradus (step)"
+		],
+		"original_statement": "Evolutionary change occurs slowly through the accumulation of small changes.",
+		"concept": "The steady climb of life",
+		"thinking": "「一歩（Gradus）」ずつ、休むことなく。数百万年の静かな歩みが、塵を積もらせて山を成すように、生命を確実な高みへと押し上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "kin_selection_adv",
+		"word": "Kin Selection",
+		"meaning": "血縁淘汰（けつえんとうた）",
+		"etymology": [
+			"Kin (family) + Selection"
+		],
+		"original_statement": "Evolutionary strategy that favours the reproductive success of an organism's relatives.",
+		"concept": "Safety for the shared gene",
+		"thinking": "「血（Kin）」がつながっていれば。自分を犠牲にしても家族を護ることが、結果として『自分の設計図』を後世へ残すための最も賢い生存戦略となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "inclusive_fitness",
+		"word": "Incl Fitness",
+		"meaning": "包括（ほうかつ）適応度",
+		"etymology": [
+			"In- + claudere (to close) + Fitness"
+		],
+		"original_statement": "Sum of an individual's direct and indirect fitness.",
+		"concept": "Measuring success of the network",
+		"thinking": "自分の子だけでなく、助けた親族の子をも「包み込む（In-claudere）」成功。自分という個体の壁を越え、遺伝子の繋がり全体の栄華を測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "sexual_selection",
+		"word": "Sexual Select",
+		"meaning": "性（せい）淘汰",
+		"etymology": [
+			"Sex",
+			"Selection"
+		],
+		"original_statement": "Natural selection through preference by one sex for certain characteristics in individuals of the other sex.",
+		"concept": "The logic of beauty and desire",
+		"thinking": "生き残るためだけではない、相手の心（好み）を射止めるための進化。孔雀の羽のように、過酷な自然界では『無駄』な美しさが、生の証となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "red_queen_hypo",
+		"word": "Red Queen",
+		"meaning": "赤の女王仮説",
+		"etymology": [
+			"Red Queen"
+		],
+		"original_statement": "Organisms must constantly adapt to survive while pitted against ever-evolving opposing organisms.",
+		"concept": "Running to stand still",
+		"thinking": "「その場に留まるためには、全速力で走り続けなければならない」。敵もまた進化し続けるから。止まることは、すなわち絶滅という死への転落。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "sympatric_spec",
+		"word": "Sympatric",
+		"meaning": "同所的（どうしょてき）種分化",
+		"etymology": [
+			"Greek syn- (together) + patra (homeland)"
+		],
+		"original_statement": "Evolution of a new species from a surviving ancestral species while both continue to inhabit the same geographic region.",
+		"concept": "Diverging in shared space",
+		"thinking": "「同じ（Syn-）」「故郷（Patra）」にいながらにして。物理的な壁はないのに、食性や好みが、一つの集団を二つの異なる運命へと静かに引き裂いていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "allopatric_spec",
+		"word": "Allopatric",
+		"meaning": "異所的（いしょてき）種分化",
+		"etymology": [
+			"Greek allos (other) + patra"
+		],
+		"original_statement": "Speciation that occurs when biological populations of the same species become vicariant, or isolated from each other by a geographic barrier.",
+		"concept": "Diverging through distance",
+		"thinking": "「別の（Allos）」「故郷（Patra）」。海や山に隔てられ、長い孤独の果てに、かつて仲間だった者たちが、二度と交われぬ異教の種へと変わってしまう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "ecological_niche",
+		"word": "Eco Niche",
+		"meaning": "生態的地位（せいたいてきちい）",
+		"etymology": [
+			"Greek oikos (house) + French niche (wall recess)"
+		],
+		"original_statement": "Match of a species to a specific environmental condition.",
+		"concept": "The specific place in nature's home",
+		"thinking": "「家（Oikos）」の中の「小さな窪み（Niche）」。その場所でしか果たせない、自分だけの特別な役割。誰もが自分だけの居場所を見つけている、調和の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "character_displac",
+		"word": "Char Displace",
+		"meaning": "形質置換（けいしつちかん）",
+		"etymology": [
+			"Character",
+			"Displace"
+		],
+		"original_statement": "Divergence in traits between two similar species that coexist in an environment.",
+		"concept": "Exaggerating differences to avoid collision",
+		"thinking": "似た者同士が隣り合うと、あえて似ていない部分（嘴の大きさなど）を極端に尖らせることで、争いを避ける。差異こそが共生の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "guild_ecology",
+		"word": "Ecological Guild",
+		"meaning": "ギルド、同位（どうい）集団",
+		"etymology": [
+			"Old Norse gildi (payment/society)"
+		],
+		"original_statement": "Group of species that exploit the same resources, or who exploit different resources in related ways.",
+		"concept": "Professionals of the same trade",
+		"thinking": "「ギルド（Gildi）」。種は違えど、同じやり方で糧を得る者たち。自然界の中で、同じ『職能』を背負ったライバルであり、同志である集団。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "trophic_cascade",
+		"word": "Trophic Cascade",
+		"meaning": "栄養段階（えいようだんかい）カスケード",
+		"etymology": [
+			"Greek trophe (nourish) + Cascade"
+		],
+		"original_statement": "Powerful indirect interactions that can control entire ecosystems.",
+		"concept": "The waterfall of food web",
+		"thinking": "「養い（Trophe）」の「連鎖的な崩落（Cascade）」。頂点の捕食者の微かな揺らぎが、滝のように下層のすべてへと響き渡り、森の全貌を塗り替える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "keystone_species",
+		"word": "Keystone Spec",
+		"meaning": "キーストーン種",
+		"etymology": [
+			"Keystone"
+		],
+		"original_statement": "Species on which other species in an ecosystem largely depend.",
+		"concept": "The central stone of the arch",
+		"thinking": "それ一頭がいなくなれば、石造りの門（生態系）が跡形もなく崩れ去る。一見目立たずとも、世界のバランスを一身に支える最重要の礎石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "apex_predator_adv",
+		"word": "Apex Predator",
+		"meaning": "最高次捕食者（さいこうじほしょくしゃ）",
+		"etymology": [
+			"Latin apex (top) + Predator"
+		],
+		"original_statement": "Predator that has no natural predators of its own.",
+		"concept": "The king of the food chain",
+		"thinking": "「頂点（Apex）」に君臨する者。誰からも狩られることなく、ただ他者の生を律し、生態系の秩序を守る孤独で絶対的な存在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "carrying_capacity",
+		"word": "Carrying Capa",
+		"meaning": "環境収容力（かんきょうしゅうようりょく）",
+		"etymology": [
+			"Carry + Capacity"
+		],
+		"original_statement": "Maximum population size of a species that the environment can sustain.",
+		"concept": "The limit of the Earth's hug",
+		"thinking": "この土地は、どれだけの「生」を背負いきれるか。資源という名の冷徹な器の限界。それを超えれば、必ずや崩壊と死の調整が訪れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "malthusian_catas",
+		"word": "Malthusian",
+		"meaning": "マルサスの罠（わな）",
+		"etymology": [
+			"Malthus"
+		],
+		"original_statement": "Prediction that population growth will outpace food production.",
+		"concept": "The arithmetic of starvation",
+		"thinking": "人口は幾何級数的に、食料は算術級数的に。命が増えすぎるとき、必ずや飢餓という名の『調整』が牙を剥くという非情な数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "demographic_tran",
+		"word": "Demo Transition",
+		"meaning": "人口転換（じんこうてんかん）",
+		"etymology": [
+			"Greek demos (people) + Transition"
+		],
+		"original_statement": "Shift from high birth/death rates to low birth/death rates.",
+		"concept": "The aging society shift",
+		"thinking": "「人々（Demos）」の「移り変わり」。多産多死の荒波を抜け、静かな少産少死へと至る社会の成熟、あるいは枯死。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "recombinant_dna",
+		"word": "Recombinant DNA",
+		"meaning": "組換えDNA",
+		"etymology": [
+			"Latin re- + combinare"
+		],
+		"original_statement": "DNA molecules formed by laboratory methods of genetic recombination to bring together genetic material from multiple sources.",
+		"concept": "The patchwork blueprint",
+		"thinking": "「再び（Re-）」「繋ぐ（Combinare）」。違う生き物たちの設計図を切り貼りして、自然界には存在しなかった『新しい言葉』を立ち上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "plasmid_vector",
+		"word": "Plasmid",
+		"meaning": "プラスミド",
+		"etymology": [
+			"Cytoplasm + -id"
+		],
+		"original_statement": "Small, circular, double-stranded DNA molecule that is distinct from a cell's chromosomal DNA.",
+		"concept": "The auxiliary genetic disk",
+		"thinking": "主の設計図（染色体）とは別に、細胞の中にふわふわと浮かぶ小さな『記録板』。手軽に他者へと手渡される、情報の運び手。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "polymerase_chain",
+		"word": "PCR",
+		"meaning": "PCR法",
+		"etymology": [
+			"Polymerase Chain Reaction"
+		],
+		"original_statement": "Method used to make many copies of a specific DNA segment.",
+		"concept": "Digital cloning of DNA",
+		"thinking": "たった一片の「文字」から、数兆倍の「書物」へ。熱の上げ下げを繰り返すたびに、情報が倍々に溢れ出し、目に見えない証拠を現実の貌へと変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "genetic_marker",
+		"word": "Genetic Marker",
+		"meaning": "遺伝標識（いでんひょうしき）",
+		"etymology": [
+			"Gene + Marker"
+		],
+		"original_statement": "Gene or DNA sequence with a known location on a chromosome that can be used to identify individuals or species.",
+		"concept": "The milestone in the genome",
+		"thinking": "設計図（ゲノム）という果てしない荒野に置かれた、目印の『石碑』。それを見つけることで、自分が誰で、どこから来たのかを知る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "snps_variation",
+		"word": "SNPs",
+		"meaning": "一塩基多型（いちえんきたけい）",
+		"etymology": [
+			"Single Nucleotide Polymorphism"
+		],
+		"original_statement": "Variation in a single nucleotide that occurs at a specific position in the genome.",
+		"concept": "Personal nuances of life",
+		"thinking": "数億の文字の中の、たった一箇所の『違い』。それが、病への強さ、瞳の色、個としての個性を決定づける、命の繊細なニュアンス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "epistasis_inter",
+		"word": "Epistasis",
+		"meaning": "上位（じょうい）性、エピスタシス",
+		"etymology": [
+			"Greek epi- (upon) + stasis (standing)"
+		],
+		"original_statement": "Interaction between genes where one gene masks or modifies the effect of another.",
+		"concept": "The hierarchy of genes",
+		"thinking": "「上に（Epi-）」「立つ（Stasis）」。ある遺伝子の声が、別の遺伝子の働きを沈黙させ、あるいは増幅する。独立しているようで、実は複雑な力関係で結ばれた文字たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "lethality_genetic",
+		"word": "Lethal Gene",
+		"meaning": "致死（ちし）遺伝子",
+		"etymology": [
+			"Latin letum (death)"
+		],
+		"original_statement": "Gene that when expressed results in the death of the organism.",
+		"concept": "The self-destruct code",
+		"thinking": "「死（Letum）」を内包した設計図。その文字が露わになった瞬間、生命はその続きを綴ることを禁じられ、静かに幕を閉じる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "heritability_adv",
+		"word": "Heritability",
+		"meaning": "遺伝率（いでんりつ）",
+		"etymology": [
+			"Latin hereditas (heirship/inheritance)"
+		],
+		"original_statement": "Measure of how much difference in people's traits can be attributed to their genes.",
+		"concept": "Weight of inheritance",
+		"thinking": "「継承されるべきもの（Hereditas）」。私たちの貌や知能の『違い』は、どれほどが運命（遺伝）によって決まり、どれほどが自由（環境）によるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "imprinting_genet",
+		"word": "Gen Imprinting",
+		"meaning": "遺伝子刷り込み",
+		"etymology": [
+			"Imprint"
+		],
+		"original_statement": "Epigenetic phenomenon that causes genes to be expressed in a parent-of-origin-specific manner.",
+		"concept": "The memory of the parent",
+		"thinking": "「刻印（Imprint）」。同じ文字でも、父からか母からかで、その働きが劇的に変わる。誰から受け継いだかという『愛憎の記憶』が遺伝子に刻まれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "telomerase_immort",
+		"word": "Telomerase",
+		"meaning": "テロメラーゼ",
+		"etymology": [
+			"Telomere + -ase (enzyme)"
+		],
+		"original_statement": "Enzyme that extends telomeres, often associated with cellular immortality.",
+		"concept": "Renewing the wick",
+		"thinking": "削り取られ果てた時間の砂時計（テロメア）を、再び満たし直す魔法。不老不死への夢、あるいは癌という名の永遠の呪い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "heterosis_hybrid",
+		"word": "Heterosis",
+		"meaning": "雑種強勢（ざっしゅきょうせい）",
+		"etymology": [
+			"Greek heteros (other)"
+		],
+		"original_statement": "Increased function of any biological quality in a hybrid offspring.",
+		"concept": "Strength from mixing",
+		"thinking": "「他者（Heteros）」と交じることで、親のどちらをも超える強さを手に入れる。混ざり合うことが、生命をより強靭に、より豊かにする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "inbreeding_depr",
+		"word": "Inbreed Depress",
+		"meaning": "近交弱勢（きんこうじゃくせい）",
+		"etymology": [
+			"In- + Breed"
+		],
+		"original_statement": "Reduced biological fitness in a given population as a result of inbreeding.",
+		"concept": "The decline of the closed clan",
+		"thinking": "「内側（In-）」だけで閉ざされた生の交配。多様性が死に絶え、かつての強さが静かに蝕まれていく、閉じられた世界の末路。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "quantitative_gen",
+		"word": "Quant Genetics",
+		"meaning": "量的遺伝学（りょうてきいでんがく）",
+		"etymology": [
+			"Latin quantus (how much)"
+		],
+		"original_statement": "Study of continuous characters (e.g. height) controlled by many genes.",
+		"concept": "The statistics of the crowd",
+		"thinking": "「どれほどの（Quantus）」量か。背の高さや体重。たった一人のリーダー（遺伝子）ではなく、数千の小さな声（微弱な遺伝子）が合わさって奏でる、連続的な生命の調べ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "orthologous_gene",
+		"word": "Ortholog",
+		"meaning": "オーソログ",
+		"etymology": [
+			"Greek orthos (straight) + logos"
+		],
+		"original_statement": "Genes in different species that evolved from a common ancestral gene by speciation.",
+		"concept": "Echoes across lineages",
+		"thinking": "「正しい（Orthos）」「理（Logos）」。種が分かれても、同じ役割をずっと『まっすぐに』守り続けている、生命の根源的な一貫性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "paralogous_gene",
+		"word": "Paralog",
+		"meaning": "パラログ",
+		"etymology": [
+			"Greek para- (beside) + logos"
+		],
+		"original_statement": "Genes related by duplication within a genome.",
+		"concept": "The creative redundant copy",
+		"thinking": "「隣の（Para-）」「理（Logos）」。ゲノムの中で一つ増えた余分なコピー。その余裕が、いつか全く新しい役割へと進化するための『自由なゆとり』となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "gene_duplication",
+		"word": "Gene Duplicat",
+		"meaning": "遺伝子重複（いでんしちょうふく）",
+		"etymology": [
+			"Latin duplex"
+		],
+		"original_statement": "Any duplication of a region of DNA that contains a gene.",
+		"concept": "The revolutionary redundant",
+		"thinking": "「二重（Duplex）」の設計図。間違い（エラー）で生まれたダブりが、実は生命の進化における最大の『創造の余地』となるという逆説。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "synteny_genome",
+		"word": "Synteny",
+		"meaning": "シンテニー",
+		"etymology": [
+			"Greek syn- + tainia (ribbon)"
+		],
+		"original_statement": "Conservation of blocks of order within two sets of chromosomes that are being compared with each other.",
+		"concept": "Conserved ribbons of information",
+		"thinking": "「共に（Syn-）」ある「リボン（Tainia）」。違う種であっても、遺伝子の並び順という『情報の糸』がそのままの形で残っている。悠久の時を越えたデザインの一致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "proteome_expres",
+		"word": "Proteome",
+		"meaning": "プロテオーム",
+		"etymology": [
+			"Protein + -ome"
+		],
+		"original_statement": "The entire set of proteins that is or can be expressed by a genome, cell, tissue, or organism at a certain time.",
+		"concept": "The actual laborers of life",
+		"thinking": "「すべて（-ome）」の「タンパク質」。設計図（ゲノム）という可能性ではなく、現実に働き、肉体を形作っている『実働部隊』の総体を捉える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "metabolome_dyn",
+		"word": "Metabolome",
+		"meaning": "メタボローム",
+		"etymology": [
+			"Metabolism + -ome"
+		],
+		"original_statement": "Complete set of small-molecule chemicals found within a biological sample.",
+		"concept": "The chemical symphony",
+		"thinking": "生命を巡るすべての「小さな役者（代謝物）」たちの総和。その瞬間の健康、感情、そして命の輝きが、化学物質のさざ波として記録される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の進化の旅路へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命の神秘に迫る。"
+			]
+		},
+		"example": "Evolution is the ultimate designer."
 	}
 ];
