@@ -324145,5 +324145,91 @@ const WORDS = [
    "original_statement": "The topology inherited by a subset of a topological space from the larger space."
   },
   "concept": "The inherited gaze (「。。、どこ。を。、。、」。見。、。渡（。わた）。。、。しても。、。、。、。より。、。大きな。、。、「。。、。、。、。理。知。、。、。、」。が。、。、。不意に。、。、「。。、。、。、、私。、。、。、」。を。、。、見。、。つ。、。めて。。、。いる。。、。ことの、。、。安心。感。、。、。それは、。、。、。理知。が、。、。、。、いかなる。、。、。。断。、。、片。、。、の中にも、。、。、ひっそり。と、。。、。宇宙。の、。、。、。、。面影（。おも。かげ）。。、。を。。、。、。遺（。のこ）。。、。して。。、。いた。。、。、証（。あかし）。、)"
+ },
+ {
+  "id": "canonical-ensemble",
+  "word": "Canonical Ensemble",
+  "meaning": "正準アンサンブル、。、。温度。という、。、。一。、。つの。、。、。峻烈な。、。、。掟。に。、。、、。全。、。て。を。。、。、委（。ゆ。）。。、。ね。。、。いる。。、。理知。の、。舞台。、",
+  "era": "Latin canonicus + French ensemble",
+  "etymology": {
+   "components": [
+    "canonicus (canonical / standard)",
+    "ensemble (together)"
+   ],
+   "original_statement": "The statistical ensemble that represents the possible states of a mechanical system in thermal equilibrium with a heat bath at a fixed temperature."
+  },
+  "concept": "The stage of heat (「。。、どこ。を。、。、」。向（む）。。、。いても。、。、。同じ。。、。、。温度。、に。、。、。満た。され、。、。、その。。、中で。、。、。ひっそり。と、。。、。、。震（。ふ）。。、。る。。、。え。。、。ている。。、。粒子。たちの、。、。、。。「。。、。、。、運命。、。、。、」。、。、。それは、。、。、。理知。が、。、。、。、宇宙。を。、。、。、。峻烈なる。、。、。、。、平。、穏。、。へと、。、。、導（。みちび）。。、。く。。、ための。、。、。、。、。器。、)"
+ },
+ {
+  "id": "grand-canonical",
+  "word": "Grand Canonical Ensemble",
+  "meaning": "大正準アンサンブル、。、。粒子。の。、。、。数。さえも。、。、。不。意に。、。、。消（き）。。、。え。。、。、再び。、。、現（あらわ）。。、。れる。。、。、。自由。な、。、。理。知。の、。舞台。、",
+  "era": "Latin grandis + canonicus",
+  "etymology": {
+   "components": [
+    "grandis (great / grand)",
+    "canonicus (canonical)"
+   ],
+   "original_statement": "The statistical ensemble that is used to represent the possible states of a mechanical system of particles that are in thermodynamic equilibrium (thermal and chemical) with a reservoir."
+  },
+  "concept": "The flowing stage (「。。、私。、。、」。は。、。、。「。。、。、。、私。、。、。、」。ではない。。、。、。もの。へと、。、。、。姿（。フォルム）。を。、。、変え、。、。。、。、。境界。を。。、。、。越（。こ）。。、。えて。。、。、。巡。、。り。。、。合（。あ）。。、。う。。、。、という、。、。、絶対的。。、な。、。、。、。流（。なが）。。、。れ。。、。、それは、。、。、。理知。が、。、。、宇宙。を。、。、。、一。、点の。、。、。、固（。こ。）。。、。執。、。、。から。、。、。解。、。放。。、。、した。。、。、時の、。、。。眩（まぶ）。。、。しい。。、。歓。、。喜。、)"
+ },
+ {
+  "id": "microcanonical",
+  "word": "Microcanonical Ensemble",
+  "meaning": "小正準アンサンブル、。、。エ。、ネ。、ル。。、ギ。、ー。という、。、。、一。、。つの。、。、。、。「。。、。、。、。檻（。おり）。、。、。、」。の中に。、。、。、。、ひっそり。と。、。、。、閉ざ。された。。、。、峻烈な。、。、。孤独。、",
+  "era": "Greek mikros + Latin canonicus",
+  "etymology": {
+   "components": [
+    "mikros (small)",
+    "canonicus (standard)"
+   ],
+   "original_statement": "The statistical ensemble that is used to represent the possible states of a mechanical system whose total energy is exactly specified."
+  },
+  "concept": "The caged infinite (「。。、決して。、。、」。外へ。、。、。、出（。だ）。。、。される。。、。ことの、。、。。ない。、。。、。峻烈なる。、。、。一。、。、。つの。、。、。、。、「。。、。、。、。掟。、。、。、」。、。、。それは、。、。、。、理知。が。、。、。、一。、。つの。、。、。、。、。断。、。、。絶。、。、。として。、。、宇宙。を。、。、。、守（。まも）。。、。り。。、。抜（。ぬ）。。、。く。。、。ための。、。、。、。、不。、。屈。、。の、。、。。砦。、)"
+ },
+ {
+  "id": "partition-function",
+  "word": "Partition Function",
+  "meaning": "分配関数、。、。理知。が。、。、。あらゆる。、。、。、。可能性。に。、。、ど。、。の。、。よ。、う。、に。。、。、。「。。、。、。想（。おも）。。、。い。。、。、」。を。、。、。、振（ふ）。。、。り。。、。分（わ）。。、。けた。。、。か。、。の。、。、記録。、",
+  "era": "Latin partitio + functio",
+  "etymology": {
+   "components": [
+    "partitio (a sharing / division)",
+    "functio (performance / execution)"
+   ],
+   "original_statement": "A function that describes the statistical properties of a system in thermodynamic equilibrium."
+  },
+  "concept": "The measure of sharing (「。。、どこ。を。、。、」。愛（。い。）。。、。で。、。、。「。。、。、。どこ。を。、。、。、」。あえて。、。、。、見。、。捨（す）。。、。てる。、。のか。、。、という、。、。、理知。の、。峻烈な。、。。、。、計。、。算。、。それは、。、。、。、宇宙。の、。、。。「。。、。、。、全貌。、。、。、」。を。、。、。一。、。つの。、。、。、数。の中に。、。、。、封（。ふう）。。、。じ。、。込（。こ。）。。、。めた。。、。、。知。、。性の。、。、。。結晶。、)"
+ },
+ {
+  "id": "critical-exponent",
+  "word": "Critical Exponent",
+  "meaning": "臨界指数、。、。巨。大。な、。、。変（か）。。、。わ。。、。り。。、。目。の。。、。、一。、。瞬、。において。、。、。、。宇宙。が。、。一。、。つの。、。、。、。数。へと。、。、。託（。たく）。。、。した。。、。峻烈な。、。、。、。、遺。、。、言。、",
+  "era": "Latin criticus + exponere",
+  "etymology": {
+   "components": [
+    "criticus (decisive)",
+    "ex- (out)",
+    "ponere (to place)"
+   ],
+   "original_statement": "Numbers that describe the behavior of physical quantities near continuous phase transitions."
+  },
+  "concept": "The exponent of change (「。。、。今。、。、。、」。まさに。。、。、。「。。、。、。、。別。、。、。、」。の。、。、。もの。へと。、。、。変容。しよう。、と。、。、する、。、。一。、。瞬、。の、。、。中。に、。、。ひっそり。と、。。、。刻（きざ）。。、。まれた。。、。、理知。の、。、。。、数。、。それは、。、。、。、全。宇宙。を、。、。。、。、一。、。瞬。、にして。、。、。、貫（つらぬ）。。、。き。。、。渡（わた）。。、。る。。、。ための。、。、。、。峻烈なる。、。、。、。、。雷。、鳴。、)"
+ },
+ {
+  "id": "order-parameter",
+  "word": "Order Parameter",
+  "meaning": "秩序変数、。、。混沌。が。、。、最後。に。、。、。生（う）。。、。み。。、。出した。。、。、。峻烈な。、。、。自。、。己。、。、を。、。、。示（しめ）。。、す。。、。一。、。つの。。、。、印（。し。る。し。）。、",
+  "era": "Latin ordo + parameter",
+  "etymology": {
+   "components": [
+    "ordo (order)",
+    "para (beside)",
+    "metron (measure)"
+   ],
+   "original_statement": "A measure used in physics to describe the degree of order in a system undergoing a phase transition."
+  },
+  "concept": "The mark of order (「。。、。何。も、。、。、」。ない。。、。ところ。から。、。、。不意に。、。、「。。、。、。、。理。、。、。、」。が。、。、。、。浮（う）。。、。き。。、。上がって。。、。、。くる。。、。、一。、。瞬、。の、。、。中。に、。、。。輝（かがや）。。、。く。。、。、。一。、。つの。。、。、数。、。、。それは、。、。、。、理知。が、。、。、。、闇。、。を。、。、愛。する。。、。ために。、。、。ひそかに。、。、。。準備。、。、して。。、。いた。。、。、。峻烈なる。、。、。、。、審。、。判。、)"
  }
 ];
