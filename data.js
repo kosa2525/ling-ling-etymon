@@ -322332,5 +322332,88 @@ const WORDS = [
    "original_statement": "A device made of two superconductors separated by a thin insulating layer."
   },
   "concept": "The quantum whisper (「。。、。行（ゆ）。、。、。く。。、」。手。を、。、。阻（。はば）。。、。む、。、。峻烈な。、。、。、。、「。。、。、壁。、。、。、」。、。、。それ。を。、。、。あえて。、。、。、。、。、。「。、。幽。霊。、。、。、」。として。、。、。、。、。す、。り。、。抜（。ぬ）。。、けて。。、。ゆ。く。。、。、理知。の、。、。、。、不。、。思。、。議。、)"
+ },
+ {
+  "id": "gravitational-lensing",
+  "word": "Gravitational Lensing",
+  "meaning": "重力レンズ、巨大な質量が光を屈曲させ、遠くの宇宙を拡大する現象。",
+  "era": "Latin gravitas + Greek lens",
+  "etymology": {
+   "components": [
+    "gravity (weight / heaviness)",
+    "lens (lentil / lens-shaped)"
+   ],
+   "original_statement": "The bending of light from a distant source by a massive object between the source and the observer."
+  },
+  "concept": "The cosmic lens (「。。、。重（。お。）。、。、。も。、。み。、。、」。が、。、。、。不意に。、。、。光。さえも。、。、屈（。く。）。、。っ。、屈（くっ）。。、。させ。。、。、。遠い。、。、。銀。河。、を。、。、眼。、の。、。前に、。、。、。引き。寄。せ。、。、。る。。、。こと。、。、。それは、。、。、。、見えない。、。、。、巨大。な。、。、。、理知。の、。、。。眼。、。、。鏡。、。な。のです。、。)"
+ },
+ {
+  "id": "frame-dragging",
+  "word": "Frame-dragging",
+  "meaning": "慣性系の引きずり、回転する巨大な質量が周囲の時空そのものを回転させる現象。",
+  "era": "English frame + dragging",
+  "etymology": {
+   "components": [
+    "frame",
+    "dragging"
+   ],
+   "original_statement": "Also known as the Lense-Thirring effect, part of General Relativity."
+  },
+  "concept": "Dragging spacetime (「。。、。宇宙。、。、」。その。、。、もの。が。、。、。。、。回転。、。、する。、。巨大。な、。、。、「。。、。、闇。、。、。、」。の。、。渦。。の中へと。、。、。引き。ず。り。。、。、込ま。れて。。、。、。ゆ。く。。、一。、。瞬、。、。それは、。、。、。理知。が、。、。、。因。、果。、をも、。、。、捻（ねじ）。。、。り。、曲（。ま。）。。、。げる。。、ための、。、。、。、峻烈な。、。、。、。舞（まい）。、)"
+ },
+ {
+  "id": "einstein-rosen-bridge",
+  "word": "Einstein-Rosen Bridge",
+  "meaning": "アインシュタイン＝ローゼン橋、時空の二つの地点を繋ぐトンネル、いわゆるワームホール。",
+  "era": "Names Einstein + Rosen",
+  "etymology": {
+   "components": [
+    "Albert Einstein",
+    "Nathan Rosen"
+   ],
+   "original_statement": "A solution to the field equations of general relativity that connects two separate regions of spacetime."
+  },
+  "concept": "The cosmic shortcut (「。。、。は。、。、。な。、。、。れ。。、」。た。。、。、。二つの。、。、世界。。が、。、。不意に。、。、一。、点の。、。、。針。穴。、のように。、。、。繋（。つな）。。、が。。、。、る。。、。、峻烈な。、。、。、。奇。跡。、。、。それは、。、。、。、理知。が、。、。、。、。絶。、望。、。という。、。、距離。さえ、。、。。、乗り。越えて。。、。、。、。出会（。あ）。。、。う。。ための、。、。、。祈。、。り。、)"
+ },
+ {
+  "id": "white-hole",
+  "word": "White Hole",
+  "meaning": "ホワイトホール、ブラックホールの対極にあり、すべてを吐き出す出口。",
+  "era": "English white + hole",
+  "etymology": {
+   "components": [
+    "white",
+    "hole"
+   ],
+   "original_statement": "A hypothetical region of spacetime and singularity which cannot be entered from the outside, but from which energy-matter and light can escape."
+  },
+  "concept": "The source of light (「。。、すべて。、。、」。を。、。、。飲み。込む。、。、。「。。、。、。闇。、。、。、」。が。、。、。ある。、。ならば。、。、。、。すべて。を、。、。、吐（。は）。。、き。。、出す。。、。、。「。。、。、。、光。、。、。、」。の、。、。、噴。、。、水。、。が。、。あ。、。っても。、。いい。、。はずだ。。、という、。、。理知。の、。、。対称。への。、。、。、峻烈なる。、。、。、確。、。信。、)"
+ },
+ {
+  "id": "photon-sphere",
+  "word": "Photon Sphere",
+  "meaning": "光子球、ブラックホール周囲で光が軌道を描く境界線。",
+  "era": "Greek phos + sphaira",
+  "etymology": {
+   "components": [
+    "phos (light)",
+    "sphaira (sphere)"
+   ],
+   "original_statement": "A spherical region of space where gravity is so strong that photons are forced to travel in orbits."
+  },
+  "concept": "The ring of light (「。。、。光。、。、」。さえも、。、。、その。、。、。、峻烈な。、。、。引。、。力。、。、の、。前に、。、。。、屈（。く。）。。、。して。。、。円。を。、。、。描（。えが）。。、。き。。つづ。ける。。、。ための。、。、。、。、理知。の、。、。。、「。、。環（。わ）。、。、。、」。、それは、。、。、。永遠。に、。、。。逃（。に。）。。、。げ。。られぬ。。、。、光。の、。、。監。、獄。、)"
+ },
+ {
+  "id": "accretion-disk",
+  "word": "Accretion Disk",
+  "meaning": "降着円盤、重力によって引き寄せられた物質が激しく発光しながら渦巻く円盤。",
+  "era": "Latin accretio",
+  "etymology": {
+   "components": [
+    "accretio (an increase / adding to)"
+   ],
+   "original_statement": "A structure formed by diffused material in orbital motion around a massive central body."
+  },
+  "concept": "The glowing whirlpool (「。。、。、死。、。、」。へと、。、。、。向（。む）。。、。かう。。、。、直。前。の、。、。、。峻烈。な。、。。、。最後。の、。、。、。、。「。、。、、輝き。、。、。、」。それは、。、。、。、。呑（。の。）。。、。、ま。、れる。。、。、。寸。前に。、。、。、。、理知。、が、。、。、。放（。はな）。。、。つ。。、。魂。の、。、。、。絶。、。、唱。、)"
  }
 ];
