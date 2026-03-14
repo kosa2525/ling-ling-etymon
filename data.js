@@ -365296,5 +365296,845 @@ const WORDS = [
 			]
 		},
 		"example": "Entropy always increases in a closed system."
+	},
+	{
+		"id": "aesthetics_phil",
+		"word": "Aesthetics",
+		"meaning": "美学（びがく）",
+		"etymology": [
+			"Greek aisthesis (perception)"
+		],
+		"concept": "Philosophy of feeling and beauty",
+		"thinking": "「感じること（Aisthesis）」の理。単なる『綺麗さ』だけでなく、醜さ、崇高、そして震えるような生の手応えを、知性の光で照らし出す探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "sublime_burke",
+		"word": "Sublime",
+		"meaning": "崇高（すうこう）",
+		"etymology": [
+			"Latin sub- (up to) + limen (threshold)"
+		],
+		"concept": "Awe-inspiring greatness",
+		"thinking": "「境界線（Limen）」の「すぐ下（Sub-）」、あるいはそれを越えるもの。美しさを越えて、恐怖や畏怖さえも感じさせる、人間を圧倒する巨大な存在の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "mimesis_plato",
+		"word": "Mimesis",
+		"meaning": "ミメーシス、模倣（もほう）",
+		"etymology": [
+			"Greek mimos (mime/actor)"
+		],
+		"concept": "Representation of reality",
+		"thinking": "「真似る（Mimos）」こと。現実という鏡を、アートという名の別の鏡に映し出す。それは真理の影に過ぎないのか、それとも新しい真実の創造なのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "catharsis_ari",
+		"word": "Catharsis",
+		"meaning": "カタルシス、浄化（じょうか）",
+		"etymology": [
+			"Greek katharsis (purification)"
+		],
+		"concept": "Emotional cleansing",
+		"thinking": "「清める（Katharsis）」こと。物語の悲劇を通じて、心に溜まった澱や感情を吐き出し、魂が瑞々しい輝きを取り戻す聖なる儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "disinterest_k",
+		"word": "Disinterest",
+		"meaning": "無関心（むかんしん）性",
+		"etymology": [
+			"Latin dis- (not) + interesse (to be between)"
+		],
+		"concept": "Non-utilitarian appreciation",
+		"thinking": "自分の役には立たない。何の利益ももたらさない。ただそこにある「美」そのものを、何の欲も絡めずに見守るという、高潔な魂のあり方。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "genius_kant",
+		"word": "Genius (Art)",
+		"meaning": "天才（てんさい）",
+		"etymology": [
+			"Latin genius (spirit)"
+		],
+		"concept": "Natural talent creating rules",
+		"thinking": "自らに宿る「精霊（Genius）」に従い、誰にも真似できない新しい世界の『ルール』を生み出してしまう者。模倣を拒み、無から有を紡ぐ神々の火の使い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "the_uncanny_f",
+		"word": "Uncanny",
+		"meaning": "不気味（ぶきみ）なもの",
+		"etymology": [
+			"German unheimlich (un-homely)"
+		],
+		"concept": "Familiar yet foreign",
+		"thinking": "「見慣れた（Heimlich）」はずなのに、「どこか違う（Un-）」。親しきものの中に潜む、正体不明の違和感。安息の地が揺らぐ時に立ち上がる、静かなる恐怖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "aura_benjamin",
+		"word": "Aura",
+		"meaning": "オーラ、霊気（れいき）",
+		"etymology": [
+			"Greek aura (breath/breeze)"
+		],
+		"concept": "Authenticity of the original",
+		"thinking": "「微かな息吹（Aura）」。たった一つの本物にしか宿らない、時間と場所の刻印。複製技術によって失われていく、唯一無二であることの神聖な輝き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "simulacrum_b",
+		"word": "Simulacrum",
+		"meaning": "シミュラークル、擬似体",
+		"etymology": [
+			"Latin simulare (to imitate)"
+		],
+		"concept": "Copy without an original",
+		"thinking": "「真似たもの（Simul-）」。しかし、もはや真似るべきオリジナルさえ存在しない。偽物が本物を飲み込み、虚構そのものが現実として立ち上がっていく現代の迷宮。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "ready_made_d",
+		"word": "Ready-made",
+		"meaning": "レディ・メイド",
+		"etymology": [
+			"Ready + Made"
+		],
+		"concept": "Found objects as art",
+		"thinking": "「すでに（Ready）」「作られた（Made）」既製品。便器やスコップを、文脈から切り離しアートとして提示する。美は形にあるのではなく、『眼差し』の転換にあるという挑発。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "avant_garde_a",
+		"word": "Avant-garde",
+		"meaning": "アヴァンギャルド、前衛",
+		"etymology": [
+			"French avant (front) + garde (guard)"
+		],
+		"concept": "Experimental pioneers",
+		"thinking": "「先頭（Avant）」に立つ「守備隊（Garde）」。古い美を破壊し、未踏の領域を切り拓く。孤独な戦いの先に、新しい時代の地平を見ようとする果敢な魂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "epiphany_joyce",
+		"word": "Epiphany",
+		"meaning": "エピファニー、顕現（けんげん）",
+		"etymology": [
+			"Greek epi- + phainein (to show)"
+		],
+		"concept": "Sudden revelation through art",
+		"thinking": "「現れる（Phainein）」こと。ありふれた日常の一瞬が、突如として永遠の意味を放ち始める、啓示のような目覚め。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "modernism_art",
+		"word": "Modernism",
+		"meaning": "モダニズム",
+		"etymology": [
+			"Latin modo (just now)"
+		],
+		"concept": "Breaking with tradition",
+		"thinking": "「今（Modo）」という時代。過去の遺産を脱ぎ捨て、新しい素材と理知で、現代というカオスに相応しい貌を探り当てる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "intertextual",
+		"word": "Intertextual",
+		"meaning": "テクスト間（かん）相互作用",
+		"etymology": [
+			"Latin inter- + texere (to weave)"
+		],
+		"concept": "Web of meanings",
+		"thinking": "言葉は「織物（Texere）」の「間（Inter-）」にある。一つの作品は独立しておらず、過去の無数の言葉やイメージと響き合い、鏡合わせのように意味を増幅させていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "gaze_lac_ad",
+		"word": "The Gaze",
+		"meaning": "眼差し（まなざし）、ゲイズ",
+		"etymology": [
+			"Gaze (to look intently)"
+		],
+		"concept": "The object's look back",
+		"thinking": "私たちは世界を見ているのではない、世界から「見られている」。見る主体と見られる客体が逆転する瞬間に訪れる、根源的な不安と欲望の交点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "allegory_art_p",
+		"word": "Allegory",
+		"meaning": "アレゴリー、寓意（ぐうい）",
+		"etymology": [
+			"Greek allos (other) + agoreuein (to speak in public)"
+		],
+		"concept": "Speaking through others",
+		"thinking": "「別のこと（Allos）」を「語る（Agoreuein）」。形のない抽象的な真理を、具象的なイメージの衣装に包んで差し出す、暗号めいた美の言語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "iconography_a",
+		"word": "Iconography",
+		"meaning": "イコノグラフィー、図像学",
+		"etymology": [
+			"Greek eikon (image) + graphein"
+		],
+		"concept": "Dictionary of symbols",
+		"thinking": "「像（Eikon）」を「描く（Graphein）」ことの理。絵画の中に潜むシンボルの意味を解き明かし、静止した画面の背後に眠る物語を蘇らせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "chiaroscuro_a",
+		"word": "Chiaroscuro",
+		"meaning": "キアロスクーロ、明暗法",
+		"etymology": [
+			"Italian chiaro (clear/light) + oscuro (dark)"
+		],
+		"concept": "Contrast of light and dark",
+		"thinking": "「光（Chiaro）」と「影（Oscuro）」。強い対比によってドラマを際立たせ、平坦な画面に生命という名の深い「彫り（奥行き）」を与える光の魔術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "sfumato_da_vin",
+		"word": "Sfumato",
+		"meaning": "スフマート、ぼかし",
+		"etymology": [
+			"Italian fumo (smoke)"
+		],
+		"concept": "Blurred boundaries",
+		"thinking": "「煙（Fumo）」のように。境界線を溶かし込み、輪郭を曖昧にすることで、空気という名の溜息を画面に閉じ込める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "grotesque_art",
+		"word": "Grotesque",
+		"meaning": "グロテスク",
+		"etymology": [
+			"Italian grotta (cave)"
+		],
+		"concept": "Distorted and bizarre",
+		"thinking": "「洞窟（Grotta）」の中で見つかった異形の文様。植物と人間が混ざり、美と醜が溶け合う、世界の境界から溢れ出した不気味で魅力的な生命力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "kitsch_a_adv",
+		"word": "Kitsch",
+		"meaning": "キッチュ、俗悪（ぞくあく）",
+		"etymology": [
+			"German kitschen (to scrape up mud/sketch)"
+		],
+		"concept": "Cheap mass-market taste",
+		"thinking": "「寄せ集め（Kitsch）」。本物の美を模倣し、大衆の欲望に合わせて安っぽく甘く調理されたもの。しかしその虚偽の中にこそ、現代の切実な祈りが宿ることもある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "pastiche_art_a",
+		"word": "Pastiche",
+		"meaning": "パティスリー、パティシュ",
+		"etymology": [
+			"Italian pasticcio (pie/mixture)"
+		],
+		"concept": "Mixed-up imitation",
+		"thinking": "「練り物（Pasticcio）」。他人の文体を真似、古い欠片を貼り合わせる。パロディのような攻撃性を持たず、ただ過去へのノスタルジーを遊び、織り成す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "bricolage_art",
+		"word": "Bricolage",
+		"meaning": "ブリコラージュ、寄せ集め工作",
+		"etymology": [
+			"French bricoler (to fiddle)"
+		],
+		"concept": "Making do with tools on hand",
+		"thinking": "完璧な設計図はない。ただ、そこにある「あり合わせの道具」で、なんとか形にしていく。野生の思考が生み出す、泥臭くも強靭な創造の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "manifesto_art",
+		"word": "Manifesto",
+		"meaning": "宣言（せんげん）、マニフェスト",
+		"etymology": [
+			"Latin manifestus (clear/evident)"
+		],
+		"concept": "Public decralation of intent",
+		"thinking": "「明白にする（Manifest）」。自分が何者であり、世界をどう作り変えたいのか。沈黙を破り、新しい正義（美）を世界に叩きつける激情の言葉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "composition_art",
+		"word": "Composition",
+		"meaning": "構図（こうず）、コンポジション",
+		"etymology": [
+			"Latin con- + ponere"
+		],
+		"concept": "Placing together",
+		"thinking": "「共に（Con-）」「置く（Ponere）」。バラバラの要素がいかにして響き合い、一つの黄金の比率（バランス）という名の秩序を産み落とすか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "palimpsest_art",
+		"word": "Palimpsest",
+		"meaning": "パリンプセスト、重ね書き",
+		"etymology": [
+			"Greek palin (again) + psestos (scraped)"
+		],
+		"concept": "Layered history of text",
+		"thinking": "「再び（Palin）」「削り取る（Psestos）」。古い文字を消した後に、新しい言葉を書き連ねる。しかし、かつての記憶は決して消えず、行間から密やかに立ち現れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "synesthesia_art",
+		"word": "Synesthesia",
+		"meaning": "共感覚（きょうかんかく）",
+		"etymology": [
+			"Greek syn- + aisthesis"
+		],
+		"concept": "Mixed perception",
+		"thinking": "「共に（Syn-）」「感じる（Aisthesis）」。音に色を感じ、色に温度を感じる。感覚の境界が溶け合い、世界が多層的なシンフォニーとして感知される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "ecstatic_art",
+		"word": "Ecstatic",
+		"meaning": "脱我的（だつがてき）な",
+		"etymology": [
+			"Greek ek- + histanai (to stand)"
+		],
+		"concept": "Standing outside one's self",
+		"thinking": "「自分という場所」の「外（Ek-）」に「立つ（Histanai）」。美の衝撃によって、ちっぽけな私という檻を破り、広大な他者や神へと溶け込んでいく恍惚。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "verifice_art",
+		"word": "Verisimilitude",
+		"meaning": "真実味（しんじつみ）",
+		"etymology": [
+			"Latin verus (true) + similis (like)"
+		],
+		"concept": "Appearance of being true",
+		"thinking": "「真実（Verus）」に「似て（Similis）」いること。アートという名の嘘が、現実よりもリアルに響く瞬間の、あの圧倒的な説得力の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "decontextualize",
+		"word": "Decontextual",
+		"meaning": "脱文脈（だつぶんみゃく）化",
+		"etymology": [
+			"Latin de- + con- + texere"
+		],
+		"concept": "Removing from context",
+		"thinking": "「織り合わされた網（Context）」から「引き抜く（De-）」。当たり前だった日常から物を奪い去ることで、その『物』そのものが持つ不気味なほどの輝きを暴く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "performativity",
+		"word": "Performativity",
+		"meaning": "行為遂行性（こういすいこうせい）",
+		"etymology": [
+			"Per- + form"
+		],
+		"concept": "Being created through act",
+		"thinking": "「なす（Act）」ことによって「形が成る（Form）」。美は、あらかじめそこにあるのではなく、演じ、振る舞い、発話するその『瞬間』の中にしか宿らない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "liminality_ad",
+		"word": "Liminality",
+		"meaning": "境界性（きょうかいせい）、リミナリティ",
+		"etymology": [
+			"Latin limen (threshold)"
+		],
+		"concept": "Threshold state of being",
+		"thinking": "「境界（Limen）」の上。どちらでもない。どちらでもある。古い自分が死に、新しい自分がまだ産まれていない、あの震えるような宙吊りの空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "syncretism_art",
+		"word": "Syncretism",
+		"meaning": "習合（しゅうごう）、シンクレティズム",
+		"etymology": [
+			"Greek syn- + kretizein (to unite)"
+		],
+		"concept": "Merging of different beliefs",
+		"thinking": "「共に（Syn-）」「結ばれる（Kretizein）」。異なる神々、異なる文化の美が混ざり合い、全く新しい、しかしどこか懐かしいハイブリッドな貌を産み落とす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "iconoclasm_adv",
+		"word": "Iconoclasm",
+		"meaning": "偶像破壊（ぐうぞうはかい）",
+		"etymology": [
+			"Greek eikon + klaein (to break)"
+		],
+		"concept": "Breaking established images",
+		"thinking": "「像（Eikon）」を「砕く（Klaein）」。絶対の権威と化したイメージを打ち破ることで、その背後にある『真の見えない神』を取り戻そうとする峻烈な反逆。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "the_formalist",
+		"word": "Formalism",
+		"meaning": "形式主義（けいしきしゅぎ）",
+		"etymology": [
+			"Latin forma"
+		],
+		"concept": "Emphasis on structure",
+		"thinking": "意味や物語ではなく、線の美しさ、色の配置、純粋な「形（Forma）」こそが、アートの本質であるという潔き抽象の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "expression_art",
+		"word": "Expressionism",
+		"meaning": "表現主義（ひょうげんしゅぎ）",
+		"etymology": [
+			"Latin ex- + premere (to press)"
+		],
+		"concept": "Distorting reality for emotion",
+		"thinking": "内なる情熱を「外へと（Ex-）」「絞り出す（Press）」。正確な描写ではなく、歪んだ線や激しい色使いによって、魂の叫びを画面に焼き付ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "surrealism_adv",
+		"word": "Surrealism",
+		"meaning": "シュルレアリスム、超現実",
+		"etymology": [
+			"French sur- (above) + Realism"
+		],
+		"concept": "Beyond the rational real",
+		"thinking": "「現実」の「上（Sur-）」にあるもの。夢、無意識、偶然。理性の検閲をすり抜け、内なる海の底から浮かび上がる、奇妙で美しい幻視の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "dadaism_art_p",
+		"word": "Dadaism",
+		"meaning": "ダダイズム",
+		"etymology": [
+			"Dada (babbling/hobby horse)"
+		],
+		"concept": "Anti-art and irrationality",
+		"thinking": "「ダダ」という意味のない囁き。理知や伝統、そして戦争を産み出した文明そのものへの、無邪気で暴力的な拒絶と破壊のダンス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "ontological_p",
+		"word": "Ontology",
+		"meaning": "存在論（そんざいろん）",
+		"etymology": [
+			"Greek on (being) + logos"
+		],
+		"concept": "Study of being",
+		"thinking": "「ある（On）」ことの理。なぜ何も無いのではなく、何かが有るのか。アートが提示する「もう一つの世界」が持つ、独特の存在の重みを問い直す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "epistemic_p",
+		"word": "Episteme",
+		"meaning": "エピステーメー、知の枠組み",
+		"etymology": [
+			"Greek episteme (knowledge)"
+		],
+		"concept": "Underlying structures of knowledge",
+		"thinking": "「知っていること（Episteme）」の底に流れる、時代ごとの不文律のルール。私たちはどのようなメガネ（知の枠組み）をかけて世界を見ているのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "subjectivity_ad",
+		"word": "Subjectivity",
+		"meaning": "主体性（しゅたいせい）、主観",
+		"etymology": [
+			"Latin sub- + jacere (to throw)"
+		],
+		"concept": "Thrown under",
+		"thinking": "世界から「下に（Sub-）」「投げ出された（Jacere）」者としての自分。客観的な真理ではなく、自分という色眼鏡を通した、たった一つの世界の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
+	},
+	{
+		"id": "objectivity_art",
+		"word": "Objectivity",
+		"meaning": "客観性（きゃっかんせい）",
+		"etymology": [
+			"Latin ob- + jacere"
+		],
+		"concept": "Thrown against",
+		"thinking": "自分の前に「投げ出された（Ob-jacere）」物。私の想いとは無関係に、冷徹にそこにあり続ける、世界の揺るぎなき実体の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "美の深淵に、魂を浸して。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美学と思想の極致へ。"
+			]
+		},
+		"example": "Art is the language of human feeling."
 	}
 ];
