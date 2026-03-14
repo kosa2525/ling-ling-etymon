@@ -378053,5 +378053,806 @@ const WORDS = [
 			]
 		},
 		"example": "Sociology examines the structure of human society."
+	},
+	{
+		"id": "taphonomy_ad",
+		"word": "Taphonomy",
+		"meaning": "化石化（かせきか）プロセス研究",
+		"etymology": [
+			"Greek taphos (burial/grave) + nomos"
+		],
+		"concept": "Laws of burial",
+		"thinking": "「墓（Taphos）」の「掟（Nomos）」。死してなお、どのように運ばれ、どのように埋まり、どのように永遠の貌（形）を得たのか。死から化石に至るまでの、失われたドラマ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "paleoecology",
+		"word": "Paleoecolog",
+		"meaning": "古生態学（こせいたいがく）",
+		"etymology": [
+			"Greek palaios + oikos"
+		],
+		"concept": "Ancient environments",
+		"thinking": "「古い（Palaios）」時代の「家（Oikos）」の理。化石という断片から、かつてそこに吹いていた風、揺れていた木々、流れていた血の温度を再構成する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "precambrian_",
+		"word": "Precambrian",
+		"meaning": "先（せん）カンブリア時代",
+		"etymology": [
+			"Pre- + Cambria (Wales)"
+		],
+		"concept": "Early Earth era",
+		"thinking": "カンブリアより「前（Pre-）」。地球の歴史の8割以上を占める、沈黙と静寂の、しかし命がその最初の火を灯そうともがいていた、原初の闇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "phanerozoic_",
+		"word": "Phanerozoic",
+		"meaning": "顕生代（けんせいだい）",
+		"etymology": [
+			"Greek phaneros (evident) + zoe (life)"
+		],
+		"concept": "Era of visible life",
+		"thinking": "「命（Zoe）」が「明らかに（Phaneros）」なった時代。殻を持ち、骨を持ち、石の中に自らの足跡を刻み始めた、目も眩むような躍動の始まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "cambrian_expl",
+		"word": "Cambrian Exp",
+		"meaning": "カンブリア爆発（ばくはつ）",
+		"etymology": [
+			"Cambrian + Explosion"
+		],
+		"concept": "Rapid diversity increase",
+		"thinking": "数億年の沈黙を破り、あらゆる命の貌が一気に「爆発」した。節足、脊椎、軟体。現代に続くすべての物語の『雛形』が産み落とされた、宇宙的な祝祭。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "paleozoic_ad",
+		"word": "Paleozoic",
+		"meaning": "古生代（こせいだい）",
+		"etymology": [
+			"Greek palaios + zoe"
+		],
+		"concept": "Era of early life",
+		"thinking": "「古い（Palaios）」「命（Zoe）」の時代。三葉虫、鎧を纏った魚、そして湿った大地へと這い上がった最初の一歩。命が海から陸へと境界を越えた、開拓のドラマ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "mesozoic_adv",
+		"word": "Mesozoic",
+		"meaning": "中生代（ちゅうせいだい）",
+		"etymology": [
+			"Greek mesos (middle) + zoe"
+		],
+		"concept": "Era of dinosaurs",
+		"thinking": "「真ん中（Mesos）」の「命（Zoe）」の時代。巨大な爬虫類たちが大地の王として君臨し、空を翔け、海を支配した、恐竜たちの黄金時代。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "cenozoic_adv",
+		"word": "Cenozoic",
+		"meaning": "新生代（しんせいだい）",
+		"etymology": [
+			"Greek kainos (new) + zoe"
+		],
+		"concept": "Age of mammals",
+		"thinking": "「新しい（Kainos）」「命（Zoe）」の時代。巨大な王たちが去った後、温かな血を持つ哺乳類たちが、凍てつく冬を乗り越え、ついには「知性」に辿り着いた、私たちの物語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "mass_extinct",
+		"word": "Mass Extinc",
+		"meaning": "大量絶滅（たいりょうぜつめつ）",
+		"etymology": [
+			"Latin massa + exstinguere (to quench/wipe out)"
+		],
+		"concept": "Rapid loss of species",
+		"thinking": "突如として訪れる「火を消す（Extinguish）」ような死の連鎖。隕石、噴火、気候の激変。何千万年もかけて築き上げた繁栄が一瞬で塵に帰る、地球という名の残酷なリセットボタン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "pterosaur_ad",
+		"word": "Pterosaur",
+		"meaning": "翼竜（よくりゅう）",
+		"etymology": [
+			"Greek pteron (wing) + sauros (lizard)"
+		],
+		"concept": "Flying reptile",
+		"thinking": "「翼（Pteron）」を持った「トカゲ（Sauros）」。重力を欺き、空という名の新しいフロンティアをその長い指の皮膜で掴み取った、孤独な先駆者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "theropod_adv",
+		"word": "Theropod",
+		"meaning": "獣脚類（じゅうきゃくるい）",
+		"etymology": [
+			"Greek therion (wild beast) + pous (foot)"
+		],
+		"concept": "Bipedal carnivores",
+		"thinking": "「野獣（Therion）」の「足（Pous）」。二本足で疾走し、鋭い爪で引き裂く。ティラノサウルスから現代の鳥へと続く、冷徹で美しい殺戮と適応の系譜。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "sauropod_adv",
+		"word": "Sauropod",
+		"meaning": "竜脚類（りゅうきゃくるい）",
+		"etymology": [
+			"Greek sauros + pous"
+		],
+		"concept": "Long-necked herbivores",
+		"thinking": "「トカゲ（Sauros）」の「足（Pous）」。大地を揺るがす巨大な肉体と、天空へと伸びる長い首。重力と戦いながら、最も優雅に、最も大きく大地を歩んだ平和な巨人の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "ammonite_adv",
+		"word": "Ammonite",
+		"meaning": "アンモナイト",
+		"etymology": [
+			"Horn of Ammon (Egyptian god)"
+		],
+		"concept": "Spiral shelled cephalopod",
+		"thinking": "螺旋を描く、神アモンの「角（Ammon）」。数学的な美しさを宿したその殻は、太古の海を漂い、絶滅の瞬間までその黄金比という名の歌を奏で続けた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "trilobite_ad",
+		"word": "Trilobite",
+		"meaning": "三葉虫（さんようちゅう）",
+		"etymology": [
+			"Greek tri- (three) + lobos (lobe)"
+		],
+		"concept": "Early arthropod",
+		"thinking": "「三つ（Tri-）」の「部分（Lobe）」に分かれた体。何億年もの間、地球のあらゆる海を覆い尽くした、繁栄の代名詞。絶滅した今も、その石の貌は「進化」という名の歴史を語り続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "burgess_shal",
+		"word": "Burgess Sha",
+		"meaning": "バージェス頁岩（けつがん）",
+		"etymology": [
+			"Burgess (Pass) + Shale"
+		],
+		"concept": "Preserved soft tissues",
+		"thinking": "奇跡的に「柔らかい物語」が石の板に刻まれた場所。骨なき者たちの繊細な貌が、泥の中に永遠に閉じ込められた、古生物学という名の聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "outcrop_geo_",
+		"word": "Outcrop",
+		"meaning": "露頭（ろとう）",
+		"etymology": [
+			"Out + Crop"
+		],
+		"concept": "Exposed rock layers",
+		"thinking": "大地の本質が、表面へと「切り立った（Crop）」「現れ（Out）」。自然が意図せずめくった、歴史のページの端。そこを叩くとき、眠っていた物語が目を覚ます。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "index_fossil",
+		"word": "Index Fossil",
+		"meaning": "示準化石（しじゅんかせき）",
+		"etymology": [
+			"Latin index (pointer)"
+		],
+		"concept": "Defining intervals of time",
+		"thinking": "時間を「指し示す（Index）」指。その石が見つかれば、そこがいかなる時代であるかが、一瞬にして証明される。カオスな大地の断片を、一つの秩序へと繋ぐ黄金の鍵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "facies_fossil",
+		"word": "Facies Foss",
+		"meaning": "示相化石（しそうかせき）",
+		"etymology": [
+			"Latin facies (face/appearance)"
+		],
+		"concept": "Indicator of environment",
+		"thinking": "その場所がいかなる「貌（Facies）」をしていたかを語る石。海だったのか、湖だったのか、それとも灼熱の砂漠だったのか。場所のアイデンティティを、沈黙の内に代弁する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "radiometric_",
+		"word": "Radiometric",
+		"meaning": "放射（ほうしゃ）年代（ねんだい）測定（そくてい）",
+		"etymology": [
+			"Latin radius (ray) + Metria"
+		],
+		"concept": "Dating via isotope decay",
+		"thinking": "原子が放つ「光（Radius）」の衰えを「測る（Metria）」。数万年、数億年という気が遠くなるような時間を、物質の崩壊という名の絶対的な時計で刻む、真理の天秤。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "carbon_dating",
+		"word": "Carbon Datin",
+		"meaning": "炭素年代測定（たんそねんだいそくてい）",
+		"etymology": [
+			"Latin carbo + Date"
+		],
+		"concept": "Dating organic remains",
+		"thinking": "「炭（Carbon）」の残り火を数える。かつて命として輝いていた者が残した最後の証拠から、その魂がいつ土に還ったのかを解き明かす、死者との対話。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "superpositio",
+		"word": "Superpositio",
+		"meaning": "地層累重（ちそうるいじゅう）の法則（ほうそく）",
+		"etymology": [
+			"Latin super- (above) + ponere (to place)"
+		],
+		"concept": "New layers on top",
+		"thinking": "「上（Super-）」に「置く（Pose-）」。新しい物語は、常に古い物語の犠牲（土台）の上に積み重なるという、時間の残酷で誠実なルール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "unconformity",
+		"word": "Unconformity",
+		"meaning": "不整合（ふせいごう）",
+		"etymology": [
+			"Un- + Latin con- + formare"
+		],
+		"concept": "Gap in rock record",
+		"thinking": "「共に（Con-）」「形作る（Form）」ことが「できない（In-）」。歴史が切り裂かれ、ページが丸ごと破り取られた沈黙の溝。そこには、地球が語ることを拒んだ空白のドラマが眠っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "plate_tecton",
+		"word": "Plate Tecto",
+		"meaning": "プレートテクトニクス",
+		"etymology": [
+			"Greek platus (flat) + tekton (builder)"
+		],
+		"concept": "Movement of Earth plates",
+		"thinking": "「平らな（Platus）」大地の欠片が、地球という名の「大工（Tekton）」によって動かされる。巨大な大陸が出会い、引き裂かれ、新しい山脈や海を産み落とす、母なる地球の鼓動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "pangea_super",
+		"word": "Pangea",
+		"meaning": "パンゲア、超大陸（ちょうたいりく）",
+		"etymology": [
+			"Greek pan (all) + ge (earth)"
+		],
+		"concept": "The supercontinent",
+		"thinking": "「すべて（Pan）」が「一つの大地（Ge）」だった時代。一つの巨大な塊が、やがて五大陸へと分かたれ、人々の運命を海によって隔てることになる、その原初的な統合の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "gondwana_ad",
+		"word": "Gondwana",
+		"meaning": "ゴンドワナ大陸",
+		"etymology": [
+			"Region in India"
+		],
+		"concept": "Southern supercontinent",
+		"thinking": "南半球に居座っていた、巨大な魂の源流。南極、アフリカ、インド、オーストラリア。かつては一つの庭だった場所が、数億年の旅を経て、今の世界の貌（バラバラの場所）へと辿り着いた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "paleomagneti",
+		"word": "Paleomagn",
+		"meaning": "古地磁気学（こちじきがく）",
+		"etymology": [
+			"Greek palaios + Magnet"
+		],
+		"concept": "Earth's past magnetic field",
+		"thinking": "石の中に「封印された」かつての磁力の向き。大地がいかに動き、いかに回転してきたかの動かぬ証拠。磁石という名の、地球の太古の羅針盤。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "orogeny_adv_",
+		"word": "Orogeny",
+		"meaning": "造山運動（ぞうざんうんどう）",
+		"etymology": [
+			"Greek oros (mountain) + genesis"
+		],
+		"concept": "Mountain building",
+		"thinking": "「山（Oros）」の「誕生（Genesis）」。大地がぶつかり、天へとせり上がる。その激しい産みの苦しみが、ヒマラヤやアルプスという名の地球の気高い頂を形作る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "amber_fossil",
+		"word": "Amber Fossil",
+		"meaning": "琥珀（こはく）の中の化石",
+		"etymology": [
+			"Arabic anbar"
+		],
+		"concept": "Insects trapped in resin",
+		"thinking": "木の涙（樹脂）という名の「黄金（Amber）」の檻。一瞬で時を止める、究極の真空パック。羽を広げたままの太古の虫が、まるで今さっき生き返りそうに輝く、奇跡の透明な墓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "coprolite_ad",
+		"word": "Coprolite",
+		"meaning": "糞（ふん）化石（かせき）",
+		"etymology": [
+			"Greek kopros (dung) + lithos (stone)"
+		],
+		"concept": "Fossilized dung",
+		"thinking": "「糞（Kopros）」が「石（Lithos）」になったもの。汚らわしいはずのものが、数千万年の時を経て、太古の生き物が何を食べ、何を想って生きていたかを知るための、最も誠実な歴史書の一片となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "gastrolith_a",
+		"word": "Gastrolith",
+		"meaning": "胃石（いせき）",
+		"etymology": [
+			"Greek gaster (stomach) + lithos"
+		],
+		"concept": "Stomach stones for digestion",
+		"thinking": "「胃（Gaster）」のために飲み込まれた「石（Lithos）」。歯を持たぬ巨竜たちの体内で、食べ物を磨り潰し続けた、沈黙の功労者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "trace_fossil",
+		"word": "Trace Fossil",
+		"meaning": "生痕（せいこん）化石（かせき）",
+		"etymology": [
+			"Trace"
+		],
+		"concept": "Evidence of behavior",
+		"thinking": "「跡（Trace）」。足跡、這い跡、穴。本体（貌）は消え去っても、その一瞬の「生きていた証拠（行為）」だけが地面に焼きついた。行動という名の透明な魂の化石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "paleoclimato",
+		"word": "Paleoclima",
+		"meaning": "古気候学（こきこうがく）",
+		"etymology": [
+			"Greek palaios + klima (inclination/climate)"
+		],
+		"concept": "Study of past climate",
+		"thinking": "「古い（Palaios）」時代の「空（Klima）」。かつて氷河に覆われていた赤道、熱帯林だった南極。地球がいかに激しく、いかに気紛れにその「貌（熱）」を変えてきたかを探る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "ice_core_adv",
+		"word": "Ice Core",
+		"meaning": "アイス・コア、氷床（ひょうしょう）コア",
+		"etymology": [
+			"Ice + Old French cor (heart)"
+		],
+		"concept": "Glacial climate record",
+		"thinking": "氷の「心臓（Core）」。何十万年も前に空に浮かんでいた空気が、極寒の地の奥深くに閉じ込められた。その泡を解き放つとき、太古の風の匂いが現代に蘇る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "glaciation_a",
+		"word": "Glaciation",
+		"meaning": "氷河作用（ひょうがさよう）、氷期（ひょうき）",
+		"etymology": [
+			"Latin glacies (ice)"
+		],
+		"concept": "Expansion of ice sheets",
+		"thinking": "「氷（Glacies）」が世界を飲み込む。すべてを白銀の沈黙の中に閉じ込め、大地の形を根こそぎ削り取っていく。過酷な冬が命を試す、地球の冷徹な試練。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "snowball_ear",
+		"word": "Snowball E",
+		"meaning": "スノーボール・アース、全地球（ぜんちきゅう）凍結（とうけつ）",
+		"etymology": [
+			"Snow + Ball"
+		],
+		"concept": "Earth fully iced over",
+		"thinking": "赤道までが「雪の球（Snowball）」になった時代。命の火が完全に消えそうになった絶体絶命の瞬間。しかしその極限の閉塞が、逆に「多細胞」という名の新しい進化の爆発を呼び寄せた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "geologic_t_s",
+		"word": "Geologic Ts",
+		"meaning": "地質（ちしつ）年代（ねんだい）尺度（しゃくど）",
+		"etymology": [
+			"Greek ge (earth) + Scale"
+		],
+		"concept": "Chronology of Earth",
+		"thinking": "地球という名の巨人のための「物差し（Scale）」。人間の百年を一瞬（ミリ）とする、目も眩むような悠久の物差し。その一メモリごとに、一億年の繁栄と滅亡が刻まれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "hominid_pale",
+		"word": "Hominid",
+		"meaning": "ヒト科（か）の動物（どうぶつ）、原人（げんじん）",
+		"etymology": [
+			"Latin homo (man)"
+		],
+		"concept": "Early human ancestors",
+		"thinking": "「人間（Homo）」の原初のカタチ。過酷なサバンナで二本足で立ち、道具を握り、夜空を見上げたその「最初の人」。失われた兄弟たちの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "palaeoanthro",
+		"word": "Palaeoanthr",
+		"meaning": "古人類学（こじんるいがく）",
+		"etymology": [
+			"Greek palaios + anthropos + logos"
+		],
+		"concept": "Study of human ancestors",
+		"thinking": "「古い（Palaios）」「人間（Anthropos）」の理。私たちはどこから来て、なぜ言葉を持ち、なぜ今ここにあるのか。砂漠に埋もれた一片の顎の骨から、全人類の『起源』の謎に挑む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "missing_link",
+		"word": "Missing Link",
+		"meaning": "失（うしな）われた環（わ）",
+		"etymology": [
+			"Missing + Link"
+		],
+		"concept": "Hypothetical transition fossil",
+		"thinking": "「失われた（Missing）」「繋がり（Link）」。猿と人の間、魚と陸上動物の間。進化という名の鎖を完成させるための、喉から手が出るほど欲しい、空白のピース。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
+	},
+	{
+		"id": "living_fossi",
+		"word": "Living Foss",
+		"meaning": "生（い）きた化石（かせき）",
+		"etymology": [
+			"Living + Fossil"
+		],
+		"original_statement": "Species that survived with little change.",
+		"concept": "Survivors of time",
+		"thinking": "何億年も姿を変えず、「今も生きている（Living）」「古い記憶（Fossil）」。周りが激変し、死に絶えていく中で、静かに自分という貌を守り続けた、不屈の、あるいは超然とした生命の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "悠久の時を、化石の記憶で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"古生物学と地球史の深淵へ。"
+			]
+		},
+		"example": "Paleontology studies the history of life on Earth."
 	}
 ];
