@@ -324396,5 +324396,88 @@ const WORDS = [
    "original_statement": "The condition for a cloud of gas to collapse into stars."
   },
   "concept": "The collapse of dreams (「。。、。、あまり。に。、。、」。大き。すぎた。。、。、。「。。、。、。、。想（おも）。、。、。、」。は、。、。、いずれ。、。、。自ら。の。、。、。理知。に。、。、。飲み。込（。こ。）。。、ま。。、。れて。。、。しまう。。、。という、。、。宇宙。の、。峻烈なる。、。、。皮。、。肉。。、それは、。、。、。、。死。。が、。、。、。、不。意に。、。、。「。。、。、。、生。、。、。、」。へと、。、。、反（はん）。。、。転。、。、。する。。、ための、。、。、。峻烈なる。、。、。、。、。儀。、。式。、)"
+ },
+ {
+  "id": "fredholm-alternative",
+  "word": "Fredholm Alternative",
+  "meaning": "フレドホルムの択一、。、。理知。が。、。、。一。、。つの。。、。、解決。を、。、。、持（。も）。。、。つ。。、。か、。、。さもなく。ば。、。、不。意に。、。、。「。。、。、。無（。む）。、。、。、」。の、。、。。深（。ふん）。、。、。え。。、。へと。。、。、。辿（たど）。。、。り。。、。着（つく）。。、。か。、。、。の。、。、いずれ。か。、。であることを。、。、峻烈。に、。、。突き。、つける。、、理知。の、。択一。、",
+  "era": "Name Erik Ivar Fredholm",
+  "etymology": {
+   "components": [
+    "Erik Ivar Fredholm (mathematician)"
+   ],
+   "original_statement": "A result in linear algebra and integral equations stating that either an equation has a unique solution or its homogeneous counterpart has non-trivial solutions."
+  },
+  "concept": "The absolute choice (「。。、。光。、。、」。か、。、「。。、。、。影。、。、。、」。か。、。、。その。。、。中。間。、。は。、。、。決して。、。、。許。、。され。ぬ。。、。、。という、。、。理知。の、。峻烈なる。、。。、「。。、。、。、。裁（。さ。）。。、き。、。、。、」。、。、。それは、。、。、。、宇宙。が。、。、。一。、。つの。、。、。、。、「。。、。、。、正（せい）。、。、。、」。を。、。、。暴（あば）。。、。く。。、。ための。、。、。、。、。峻烈な。、。、。、。、。、。審。、判。、)"
+ },
+ {
+  "id": "spectrum-of-operator",
+  "word": "Spectrum of an Operator",
+  "meaning": "作用素のスペクトル、。、。一。、。つの。、。、。理知。が、。、。、。、。自ら。を。、。、。、。「。。、。、。、。多（。た）。。、。、。、」。なる。、。、。、。色彩。へと。、。、。、。、。分（わ）。。、。かつ。。、。、。魂。。の、。、。、。、。、。残（。ざん）。。、。像。、",
+  "era": "Latin spectrum",
+  "etymology": {
+   "components": [
+    "spectrum (appearance / image)"
+   ],
+   "original_statement": "The set of scalars lambda for which the operator T - lambda I is not invertible."
+  },
+  "concept": "The colors of action (「。。、どこ。を。、。、」。射（。い。）。。、。抜（。ぬ）。。、。こう。。、。とも、。、。、どこ。。、。までも。、。、。、付（つ）。。、。き。。、。纏（。まと）。。、。う。。、。、。理知。の、。、。「。。、。、。、不。、自由。、。、。、」。、。、。それは、。、。、。理知。が、。、。、自ら。の。、。、。奥（オク）。。に。、。、ひっそり。と、。。、。潜（。ひそ）。。、。ませた。。、。、。峻烈なる。、。、。、。、振（ふ）。。、。る。。、。まい。、。の、。、。、系。、谱。、)"
+ },
+ {
+  "id": "riesz-representation",
+  "word": "Riesz Representation",
+  "meaning": "リースフェルミの表現定理、。、。あらゆる。、。、。、。「。。、。、。、想（。おも）。。、。い。。、。、」。が。、。、。、不意に。、。、「。。、。、。、一。、。、。、」。つの。、。、。、。、「。。、。、。、。姿（ Form）。、。、。、」。、と。、。いう、。、。。同一。の。、。、存在。。へと、。、。、。導（みちび）。。、。かれる。。、。ことの、。、。美。、。、学。、",
+  "era": "Name Frigyes Riesz",
+  "etymology": {
+   "components": [
+    "Frigyes Riesz (mathematician)"
+   ],
+   "original_statement": "A theorem relating a Hilbert space to its dual space, stating that every continuous linear functional can be represented as an inner product with a unique element of the space."
+  },
+  "concept": "The mirror of soul (「。。、。あ。、な。た。、。、」。が、。、。、。、何か。を。、。、。、。、「。。、。、。語。、。、。、」。ろ。う。。、。、と。、。、。すれば。、。、。必ず。、。、。そこに。、。、。、ひっそり。と、。、。、。一。、。つの。。、。、。「。。、。、。、。私。、。、。、」。という、。、。鏡。、が。、。、現（あらわ）。。、。れる。。、。、。という、。、。、絶対的。。、な。、。、。、。応。、答。、。、。それは、。、。、。、。、理知。が。、。、。、宇宙。の中に。、。、。。遺。、。、した。。、。、。峻烈な。、。、。、。、誠。、。実。、)"
+ },
+ {
+  "id": "weak-convergence",
+  "word": "Weak Convergence",
+  "meaning": "弱収束、。、。理知。を。、。、。どこまでも。、。、。、ひっそり。と、。、。、見。、。守。、。る。。、。ことで、。、。、最後。には。。、。、。真実。へと。、。、辿（たど）。。、。り。。、。着（つく）。。、。、。峻烈な。、。、。、。、幽（。かす）。。、。かな。。、。、忍。、。耐。、",
+  "era": "English weak + Latin convergere",
+  "etymology": {
+   "components": [
+    "weak",
+    "con- (together)",
+    "vergere (to lean)"
+   ],
+   "original_statement": "A type of convergence in functional analysis where a sequence x_n converges to x if for every continuous linear functional f, f(x_n) converges to f(x)."
+  },
+  "concept": "The subtle nearing (「。。、。一。、。、。、」。点。、へと。、。、まっ。、すぐに。、。、。向か。え。ぬ。。、。、我ら。に。、。、。あえて。、。、「。。、。、。、、。あらゆる。、。、。眼（め）。、。ざ。し。、。、。、」。を。、。、。通。、。して。。、。、。真実。を。、。、。、。。一。、。点。、。へと、。、。、。、「。。、。、。、。浮（う）。。、。き。。、。彫（ぼ）。。、。りに。、。、。、」。する。。、。、という、。、。理知。の、。、。。、。峻烈なる。、。、。、。、。、。忍。、び。、足。、)"
+ },
+ {
+  "id": "open-mapping-theorem",
+  "word": "Open Mapping Theorem",
+  "meaning": "開写像定理、、。理知。が、。、。、「。。、。、。どこまでも。、。、。、」。、と。、。いう、。、。、。峻烈。なる。、。、。広（ひろ）。。、。がり。。を、。、。、その。。、。まま。。、。に。、。、。受。け。、。継（つ）。。、。ぐ。。、。、ことの、。、。、自由。、。、。の。、。保。、。証。、",
+  "era": "English open + Latin mappa",
+  "etymology": {
+   "components": [
+    "open",
+    "mappa (napkin / cloth)"
+   ],
+   "original_statement": "A theorem stating that every surjective continuous linear operator between Banach spaces is an open map."
+  },
+  "concept": "The preservation of room (「。。、。ここ。、から。、。、」。どこまでも。、。、。、。「。。、。、。自由。、。、。、」。で。、。、。あった。。、。理知。を。、。、決して。、。、。、「。。、。、。、狭（せま）。、。、。、」。める。。、。ことなく、。、。、そのまま。。、。、。外。の世界。。へと。、。、。、押し。、。出す。。、。、という、。、。、峻烈な。、。、。、。、。誠実。、。、それは、。、。、。理知。が、。、。、。一。、点の。、。、。、。、。嘘。、。も、。、。、。つか。。、。ぬ。。、。ための。、。、。、。、。、。、。契。、。約。、)"
+ },
+ {
+  "id": "uniform-boundedness",
+  "word": "Uniform Boundedness Principle",
+  "meaning": "一様有界性の原理、。、。個々。の。、。、。理知。が。、。、有限。。である。。、なら、。、。、。、全。体。としての。、。、。理知。もまた。、。、。不。意に。、。、「。。、。、。、。限（。かぎ）。。、。り。、。、。、」。を。、。、。持（も）。。、。つ。。、。という、。、。峻烈な。、。、。、公平さ。、",
+  "era": "Latin uniformis + bound",
+  "etymology": {
+   "components": [
+    "unus (one)",
+    "forma (form)",
+    "bound"
+   ],
+   "original_statement": "Also known as the Banach-Steinhaus theorem, it states that for a family of continuous linear operators, pointwise boundedness implies uniform boundedness on the whole space."
+  },
+  "concept": "The shared bounds (「。。、。、私。、。、」。が。、。、。倒（。たお）。。、。れ。。、。ぬ。。、。のなら、。、。、。、「。。、。、。あ。、な。た。、。、。」。も。、。また。、。、決して。、。、。不意に。、。、。「。。、。、。、。壊（。こ。）。。、。、。れ。。、。、。、」。は。。、。し。ない。。、。、という、。、。、理知。の、。、。、絶対的。。、な。、。、。、。連。、帯。、。、。それは、。、。、。、。宇宙。の中に。、。、。。ひっそり。と、。、。、。在（あ）。。、。った。。、。、。一。、。つの。、。、。。、。「。。、。、。、。屋。、。、。根。、。、。、」。の、。、。。峻烈なる。、。、。、。、。、。守。、。護。、)"
  }
 ];
