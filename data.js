@@ -321578,5 +321578,71 @@ const WORDS = [
    "original_statement": "From Latin locus 'place'."
   },
   "concept": "The place of movement (「。。、。、点。、。、」。が、。、。、。、世界。を、。、。、駆（。か）。。、。け。。、抜（。ぬ）。。、けた。。、。、。、。、消す。、。ことのでき。ない。。、。、魂。、。、。、。の、。、足。、。跡。、。、。それは、。、。、。過去。、。と、。、未来。を、。、。繋（。つな）。。ぐ。。、。、。、一。、。条の。、。、。、光。、。、。の、。、。線。、)"
+ },
+ {
+  "id": "spinor",
+  "word": "Spinor",
+  "meaning": "スピノル、空間の回転の下での振る舞いを記述する幾何学的象徴。",
+  "era": "Latin spina",
+  "etymology": {
+   "components": [
+    "spina (spine / thorn)"
+   ],
+   "original_statement": "Coined by Elie Cartan in 1913, related to the concept of spin in physics."
+  },
+  "concept": "The turning spine (一。回転。、しても。、。元の。、。姿。、に。、。戻。、。らぬ。。、。、峻烈な。、。、。「。。、。、不。安。定。な、。、一。瞬。、。、」。、。、。それは、。、。、宇宙。の、。奥。底に。、。ひっそり。と、。、。潜（。ひそ）。、。む、。、。二重。の、。、。回転。の、。、。。、。理知。、。であり、。、。、。存在。。の、。、。根。、。源的な。、。、。歪（。ゆ。が）。。み。。に、。、。、身。を。、。、任。、。せる。。、一。、。つの。、。、。、。数。、)"
+ },
+ {
+  "id": "exciton",
+  "word": "Exciton",
+  "meaning": "エキシトン、励起子、電子と正孔の儚き絆。",
+  "era": "Latin excitare",
+  "etymology": {
+   "components": [
+    "excitare (to rouse)"
+   ],
+   "original_statement": "From excite + -on (particle suffix)."
+  },
+  "concept": "The roused bond (光。に、。、。灼（。や）。。かれ、。、。、解（。と。）。、。き。。、。放（。はな）。。、。された。。、。、電子。と。、。、。残。された。。、「。。、。、空（。から）。、。、。、」。の。、。穴。、。、。それらが、。、。、。暗闇。の中で。、。、。、ひっそり。と、。、。、手。を、。、。、。繋（。つな）。。ぎ。。、。一。、。瞬、。だけ。、。、。「。。、。、一。、。つの。。、。、」。、光。として。、。、。、。振（。ふ）。。、。る。。舞（。ま）。。、。う、。、。、。儚（はかな）。。き、。、。、。、物。、。語。、)"
+ },
+ {
+  "id": "plasmon",
+  "word": "Plasmon",
+  "meaning": "プラズモン、電子の集団的なさざ波。",
+  "era": "Greek plasma",
+  "etymology": {
+   "components": [
+    "plasma (something formed)"
+   ],
+   "original_statement": "From plasma + -on (particle suffix)."
+  },
+  "concept": "The formed wave (数。え。、きれぬ。、。、。、電子。たちが、。、。声を。、。、揃（。そろ）。。え、。、。、一。、。つの。、。、。、。。「。。、。、大。き。な。、。、。、」。、。、。、波。となって。、。、。、。光。、と。、。戯（たわむ）。。れる。。、。、。こと。、。、。、それは、。、。、。、。個。、を超えた。、。、。、。理知。の、。、。、集。、。団。、的。な。、。、。、感。、動。、)"
+ },
+ {
+  "id": "polariton",
+  "word": "Polariton",
+  "meaning": "ポラリトン、光と物質の結婚、混合の輝き。",
+  "era": "Latin polus + Greek -on",
+  "etymology": {
+   "components": [
+    "polus (pole / axis)",
+    "-on (particle suffix)"
+   ],
+   "original_statement": "Coined from polar(ization) + -on."
+  },
+  "concept": "The merged light (「。。、光。、。、」。の、。、。。速。さ。、。、。と。、。、「。。、。、物。質。、。、。、」。の、。、。。。重。さ。。、が、。、。不意に。、。、。、解（。と。）。、。、け。。、合い。。、。、一。、。つの。、。、。、。輝き。、。へと。、。、。、。変容。、。、する。。、。、。峻烈な。、。、。、。、二。重。、。、。、性。、。、。の、。、。、奇。、。跡。、)"
+ },
+ {
+  "id": "magnon",
+  "word": "Magnon",
+  "meaning": "マグノン、スピンのさざ波、磁気の精霊。",
+  "era": "Latin magnes",
+  "etymology": {
+   "components": [
+    "magnes (magnet)"
+   ],
+   "original_statement": "From magnetic + -on (particle suffix)."
+  },
+  "concept": "The magnetic wave (目。に、。見えない。、。、「。。、。方位。、。、」。たち。が。、。、。、隣。から。、。、。隣。へと。、。、。、。、不。意に。、。、。伝。、え。。、。合う。。、。、。「。。、。、一。、。条の。、。、。、。、。振（。ふ）。。、。る。。、。え。。、。、」。、。、。それ。は、。、。、。冷。たい。、。、。石。の中で。、。、。、燃（。も）。。、。え。。、。つ。づ。ける。。、。、。見えない。、。、。、。、情。、。、熱。、。の、。、。火。、花。、)"
  }
 ];
