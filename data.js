@@ -390972,5 +390972,846 @@ const WORDS = [
 			]
 		},
 		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "genomics_ad3",
+		"word": "Genomics",
+		"meaning": "ゲノム科学（かがく）",
+		"etymology": [
+			"Gene + -ome (all/mass)"
+		],
+		"concept": "Study of entire genome",
+		"thinking": "「遺伝子（Gene）」の「すべて（-ome）」。個別の部品ではなく、生命という名の壮大な楽譜の『全貌』を読み解く。四つの文字で綴られた、三十億の沈黙の叙事詩。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "proteomics_a",
+		"word": "Proteomics",
+		"meaning": "プロテオミクス、タンパク質（しつ）網（もう）解析（かいせき）",
+		"etymology": [
+			"Protein + -ome"
+		],
+		"concept": "Study of all proteins",
+		"thinking": "「タンパク質（Protein）」の「すべて（-ome）」。ゲノムが設計図なら、タンパク質は実際に働く『機械』。細胞という名の工場で、一瞬一瞬入れ替わり立ち替わり働き続ける、命のリアルな貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "metabolomics",
+		"word": "Metabolomic",
+		"meaning": "メタボロミクス、代謝（たいしゃ）物（ぶつ）解析（かいせき）",
+		"etymology": [
+			"Greek metabole (change) + -ome"
+		],
+		"concept": "Study of metabolites",
+		"thinking": "「変化（Metabole）」の「すべて（-ome）」。命が燃え、何かが産まれ、何かが消え去った後の『残滓』。一滴の汗、一滴の血の中に、今のあなたの『生存の貌』がすべて記録されている、究極の収支報告書。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "transcriptom",
+		"word": "Transcripto",
+		"meaning": "トランスクリプトーム",
+		"etymology": [
+			"Latin trans- (across) + scribere + -ome"
+		],
+		"concept": "All mRNA molecules",
+		"thinking": "「書き写された（Scribe）」情報の「すべて（-ome）」。DNAという書庫から、今まさに取り出され、現場へと運ばれている『現場監督（RNA）』たちの全記録。細胞が今、何を熱望し、何を恐れているかを暴き出す情報。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "crispr_cas9_",
+		"word": "CRISPR",
+		"meaning": "クリスパー・キャスナイン",
+		"etymology": [
+			"Clustered Regularly Interspaced Short Palindromic Repeats"
+		],
+		"concept": "Gene editing tool",
+		"thinking": "「規則的に繰り返される情報の欠片」。細菌がウイルスに対抗するために手に入れた『情報の盾』。それを取り出し、人間が意のままに生命の設計図を「書き換える」ための『情報の刃』へと変えてしまった、越境の理性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "gene_drive_a",
+		"word": "Gene Drive",
+		"meaning": "ジーン・ドライブ、遺伝子（いでんがく）ドライブ",
+		"etymology": [
+			"Gene + Drive"
+		],
+		"concept": "Forcing gene through populat",
+		"thinking": "特定の「遺伝子（Gene）」を、世代を超えて「強制的に（Drive）」広める仕組み。進化という名の自然な歩みを無視し、数世代で種全体の貌を書き換えてしまう、神のごとき（あるいは悪魔的な）加速。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "telomere_adv",
+		"word": "Telomere",
+		"meaning": "テロメア、命（いのち）の回数（かいすう）券（けん）",
+		"etymology": [
+			"Greek telos (end) + meros (part)"
+		],
+		"concept": "Terminal cap of chromosome",
+		"thinking": "「終わり（Telos）」の「部分（Meros）」。染色体の末端を守る帽子。細胞が分裂するたびに少しずつ削り取られ、最後には命の幕を引く。時間が身体に直接刻み込んだ、残酷で公正なカウントダウンの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "telomerase_a",
+		"word": "Telomerase",
+		"meaning": "テロメラーゼ、若返（わかがえ）り酵素（こうそ）",
+		"etymology": [
+			"Telomere + -ase (enzyme)"
+		],
+		"concept": "Enzyme that extends telomeres",
+		"thinking": "テロメアを「復活」させる「酵素（-ase）」。永遠の分裂。それは「不死」への鍵であると同時に、制御を失えば「ガン」という名の情報の暴走を招く、諸刃の剣の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "senescence_a",
+		"word": "Senescence",
+		"meaning": "細胞（さいぼう）老化（ろうか）",
+		"etymology": [
+			"Latin senex (old)"
+		],
+		"concept": "Stable cell cycle arrest",
+		"thinking": "細胞が「老いる（Senex）」こと。分裂をやめ、しかし死なず、炎症の毒を吐きながらそこに留まり続ける。かつて若さを支えた命の灯火が、いつの間にか自らを蝕む『負の遺産』へと変わる黄昏の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "oncogene_adv",
+		"word": "Oncogene",
+		"meaning": "癌（がん）遺伝子（いでんし）",
+		"etymology": [
+			"Greek onkos (mass/bulk) + Gene"
+		],
+		"concept": "Gene that causes cancer",
+		"thinking": "「塊（Onkos）」を産み出す「遺伝子」。本来は成長を支えるためのエンジンが故障し、アクセルが踏みっぱなしになった姿。命を育む力が、命を食い潰す怪物へと変貌する、皮肉な情報の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "tumor_suppre",
+		"word": "Tumor Supp",
+		"meaning": "癌（がん）抑制（よくせい）遺伝子（いでんし）",
+		"etymology": [
+			"Latin tumor + sub- + premere (to press)"
+		],
+		"concept": "Protective gene against cancer",
+		"thinking": "暴走する細胞を「下から（Sub-）」「抑え込む（Preme）」。ゲノムの守護者。異常を見つければ即座に修理、あるいは自爆（アポトーシス）を命じる。私たちの命を日々救っている、地味で崇高な監視者の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "microbiome_a",
+		"word": "Microbiome",
+		"meaning": "マイクロバイオーム、腸内（ちょうない）細菌叢（さいきんそう）",
+		"etymology": [
+			"Greek mikros + bios + -ome"
+		],
+		"concept": "All microbes in/on body",
+		"thinking": "「小さき（Mikros）」命たちの「全貌（-ome）」。あなたの体の中に住まう、あなた以外の「他者」たち。彼らの遺伝子はあなたの百倍もあり、あなたの思考、感情、免疫までも、その小さな賢者たちが裏で操っている。私は、私ひとりで出来ているのではない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "symbiosis_ad",
+		"word": "Symbiosis",
+		"meaning": "共生（きょうせい）",
+		"etymology": [
+			"Greek sun- + bios"
+		],
+		"concept": "Living together",
+		"thinking": "「共に（Sun-）」「生きる（Bios）」。敵を喰らうのではなく、自らの一部として受け入れ、新しい貌を産み出す。ミトコンドリアという名の異邦人を細胞の中に飼い慣らしたその日から、私たちの命は圧倒的なエネルギーを手に入れた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "endosymbios",
+		"word": "Endosymbios",
+		"meaning": "細胞内（さいぼうない）共生（きょうせい）",
+		"etymology": [
+			"Greek endo- + Symbiosis"
+		],
+		"concept": "Internal symbiosis",
+		"thinking": "「内側（Endo-）」での共生。かつての敵、あるいは獲物が、細胞の最も重要な臓器（ミトコンドリアや葉緑体）へと変貌した物語。命の飛躍は、常に『他者の抱擁』から始まったという貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "intracytopla",
+		"word": "Cytoplasm",
+		"meaning": "細胞質（さいぼうしつ）",
+		"etymology": [
+			"Greek kytos (hollow vessel) + plasma"
+		],
+		"concept": "The fluid inside cell",
+		"thinking": "「器（Kytos）」の中を満たす「形なき中身（Plasma）」。バラバラの分子たちが激しくぶつかり合い、熱力学の法則に従って命のダンスを踊るための、原初のスープ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "organelle_ad",
+		"word": "Organelle",
+		"meaning": "細胞小器官（さいぼうしょうきかん）",
+		"etymology": [
+			"Latin organella (little instrument)"
+		],
+		"concept": "Little organs of cell",
+		"thinking": "細胞の中にある「小さな（-elle）」「道具（Organ）」。発電所、書庫、ゴミ処理施設。それぞれが独立した意志を持っているかのように働き、一つの細胞という巨人を支える、ミクロの機能美の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "mitochondri",
+		"word": "Mitochon",
+		"meaning": "ミトコンドリア",
+		"etymology": [
+			"Greek mitos (thread) + khondros (grain)"
+		],
+		"concept": "Powerhouse of the cell",
+		"thinking": "「糸（Mito）」のような、「粒（Khondros）」。酸素を燃やし、命の通貨（ATP）を産み出す、太古の異邦人。彼らの持つ独自のDNAは、母から子へと受け継がれ、命の遥かなる母系を静かに語り続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "nucleotide_a",
+		"word": "Nucleotide",
+		"meaning": "ヌクレオチド",
+		"etymology": [
+			"Nucleus + -ide"
+		],
+		"concept": "Building block of DNA",
+		"thinking": "「核（Nucleus）」を構成する最小の「部品」。塩基、糖、リン酸。たった四種類のこの記号が、無限の組み合わせによって、ウイルスから大統領まで、あらゆる命の物語を書き上げた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "codon_adv_v",
+		"word": "Codon",
+		"meaning": "コドン、遺伝（いでん）暗号（あんごう）",
+		"etymology": [
+			"Code + -on"
+		],
+		"concept": "Three-letter genetic word",
+		"thinking": "三つの文字で綴られた「一単語（Code）」。この三文字が、一つのアミノ酸を指定する。宇宙のあらゆる命が、この同じ『暗号表』を使って言葉を綴っているという、生命の深淵なる単一性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "ribosome_ad",
+		"word": "Ribosome",
+		"meaning": "リボソーム、タンパク質（しつ）合成（ごうせい）工場（こうじょう）",
+		"etymology": [
+			"RNA + Greek soma (body)"
+		],
+		"concept": "Protein making machinery",
+		"thinking": "RNAの情報を受け取り、タンパク質という「実体（Soma）」へと組み立てる装置。情報の「影」を、肉体という名の「光」へと変換する、生命における最も偉大で謙虚な翻訳者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "translation_a",
+		"word": "Translat (B)",
+		"meaning": "翻訳（ほんやく） (分子生物学)",
+		"etymology": [
+			"Latin trans- + latus (carried across)"
+		],
+		"concept": "RNA to protein",
+		"thinking": "情報の「こちら側（核）」から、物質の「あちら側（質）」へと、意味を「運び（Latus）」「超える（Trans-）」。一文字一文字、間違いを許さぬ厳格な翻訳。その正確さが、あなたの貌を保っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "transcriptio",
+		"word": "Transcript",
+		"meaning": "転写（てんしゃ）",
+		"etymology": [
+			"Latin trans- + scribere (to write)"
+		],
+		"concept": "DNA to RNA",
+		"thinking": "原本（DNA）を傷つけぬよう、必要な分だけを「書き（Scribe）」「写す（Trans-）」。必要な情報を、必要な時に、必要なだけ。命の『今、この瞬間』を決定する、情報の抽出。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "synthetic_bi",
+		"word": "Synth Bio",
+		"meaning": "合成（ごうせい）生物学（せいぶつがく）",
+		"etymology": [
+			"Greek synthesis + Biology"
+		],
+		"concept": "Designing biological systems",
+		"thinking": "命を「発見」するのではなく、「組み立てる（Synthesis）」。自然界には存在しない回路をゲノムに組み込み、新しい機能、新しい貌をゼロから設計する。生命という名のプログラムの「書き手」になろうとする、傲慢で創造的な理性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "chimerism_ad",
+		"word": "Chimerism",
+		"meaning": "キメラ現象（げんしょう）",
+		"etymology": [
+			"Chimera (Greek beast)"
+		],
+		"concept": "Organism with two DNA sets",
+		"thinking": "一人の人間の中に、二つの異なるDNAが共生する。双子の片割れを取り込んだのか、あるいは人工的な移植か。単一であるはずの「自己」の貌が、情報の深層で二つに割れている、神話的な怪物の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "xenobiology",
+		"word": "Xenobiology",
+		"meaning": "異種（いしゅ）生物学（せいぶつがく）、ゼノバイオロジー",
+		"etymology": [
+			"Greek xenos (stranger/foreign) + Biology"
+		],
+		"concept": "Life with different chemistry",
+		"thinking": "「他者（Xenos）」の生命学。DNAではない文字、炭素ではない骨格。この宇宙のどこかに在り得る、私たちの理屈が全く通じない『未知の命』の貌を想像し、設計する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "bioremediat",
+		"word": "Bioremediat",
+		"meaning": "バイオレメディエーション、生物学（せいぶつがく）的（てき）環境（かんきょう）修復（しゅうふく）",
+		"etymology": [
+			"Greek bios + Latin re- + mederi (to heal)"
+		],
+		"concept": "Cleaning toxins via microbes",
+		"thinking": "命（Bios）の力で、荒れ果てた大地を「再び（Re-）」「癒やす（Mederi）」。毒を喰らい、土を浄化する。私たちの過ちを、沈黙の微生物たちの労働によって贖う、贖罪としての科学の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "stem_cell_ad",
+		"word": "Stem Cell",
+		"meaning": "幹（かん）細胞（さいぼう）",
+		"etymology": [
+			"Stem"
+		],
+		"concept": "Undifferentiated cell",
+		"thinking": "「幹（Stem）」。何にでもなれる、しかし、まだ何者でもない。無限の可能性を秘めた透明な命。運命の分岐点を前にして、どの『貌』を選ぶかを静かに待っている、胎児のような希望の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "pluripotenc",
+		"word": "Pluripotent",
+		"meaning": "多能（たのう）性（せい）",
+		"etymology": [
+			"Latin plus/pluris (more) + potentia (power)"
+		],
+		"concept": "Ability to become many types",
+		"thinking": "「多く（Pluris）」の「力（Potent）」。筋肉、神経、骨。あらゆる貌へと変身できる魔法のパスポート。その力（全能性）を、私たちは大人になる過程で、一つ、また一つと引き換えに捨ててきた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "differentiat",
+		"word": "Differentiat",
+		"meaning": "分化（ぶんか） (生物)",
+		"etymology": [
+			"Latin differre (to set apart)"
+		],
+		"concept": "Becoming a specialized cell",
+		"thinking": "「異なった（Differ）」ものへと「分かれる」。何にでもなれたはずの自分が、たった一つの『役割』の中に収まっていく。それは喪失であり、同時に、一つの職人としての誇り高い貌を手に入れるプロセスでもある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "morphogenes",
+		"word": "Morphogenes",
+		"meaning": "形態（けいたい）形成（けいせい）",
+		"etymology": [
+			"Greek morphe (form) + genesis"
+		],
+		"concept": "Origin of biological shape",
+		"thinking": "「形（Morphe）」が「産まれる（Genesis）」。一粒の卵から、手足、眼、翼が、寸分違わず配置されていく奇跡。誰が、どこで、いつ、その『彫刻の合図』を出しているのかを問う、生命の建築学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "morphogen_ad",
+		"word": "Morphogen",
+		"meaning": "モルフォゲン",
+		"etymology": [
+			"Morphe + -gen"
+		],
+		"concept": "Signal for tissue patterning",
+		"thinking": "「形を産む（Gen）」物質。濃度勾配という名の『見えない境界線』が、細胞たちに「お前は上、お前は下」と役割を命じる。情報の霧の中に浮かび上がる、肉体という名の彫刻の輪郭。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "homeobox_adv",
+		"word": "Homeobox",
+		"meaning": "ホメオボックス、ホメオティック遺伝子（いでんし）",
+		"etymology": [
+			"Greek homoios (similar)"
+		],
+		"concept": "Master genes for body plan",
+		"thinking": "「同じ（Homoios）」構造。ハエの頭に足を生やしてしまうほどの、強力な『マスター・スイッチ』。生物の種を越えて共通して持っている、身体の「大まかな設計図（貌）」を司る、太古の指令書。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "phenotype_ad",
+		"word": "Phenotype",
+		"meaning": "表現型（ひょうげんがた）",
+		"etymology": [
+			"Greek phainein (to show) + typos"
+		],
+		"concept": "Observable characteristics",
+		"thinking": "「現れ（Phainein）」ている「型（Typos）」。遺伝子（設計図）が、環境と格闘した末に勝ち取った、血肉を持った現実の『その姿』。あなたが鏡で見ているのは、ゲノムという名の魂が、現世で纏った服（貌）である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "genotype_adv",
+		"word": "Genotype",
+		"meaning": "遺伝子（いでんし）型（がた）",
+		"etymology": [
+			"Gene + typos"
+		],
+		"concept": "Genetic constitution",
+		"thinking": "「遺伝（Gene）」の「型（Typos）」。目には見えない、可能性のカタログ。表には出なかったとしても、あなたの奥底に脈々と受け継がれている、何万世代という祖先たちの沈黙の記憶の全貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "central_dogm",
+		"word": "Cent Dogma",
+		"meaning": "セントラルドグマ",
+		"etymology": [
+			"Central + Greek dogma (opinion/decree)"
+		],
+		"concept": "DNA -> RNA -> Protein flow",
+		"thinking": "「中心的な（Central）」「教義（Dogma）」。情報の流れは、逆らえない一方通行。ゲノムは不変、タンパク質は流転。生命における『不可逆な真理』を宣言する、情報の最上階の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "reverse_tran",
+		"word": "Rev Transcr",
+		"meaning": "逆転写（ぎゃくてんしゃ）",
+		"etymology": [
+			"Reverse + Transcription"
+		],
+		"concept": "RNA back to DNA",
+		"thinking": "「逆（Reverse）」への挑戦。教義（セントラルドグマ）を覆し、RNAの情報をDNAへと強引に書き戻す。ウイルスという名の『情報のテロリスト』が持ち込んだ、禁断の越境の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "alleles_adv_",
+		"word": "Allele",
+		"meaning": "対立（たいりつ）遺伝子（いでんし）、アレル",
+		"etymology": [
+			"Greek allelon (of one another)"
+		],
+		"concept": "Alternative form of a gene",
+		"thinking": "「お互いの（Allelon）」ための、別な貌。一等賞の影に二等賞があるように、一つの遺伝子の座を争い、あるいは補い合う複数の可能性。そのダイナミックな対立が、多様性という名の恵みを産む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "heterozygous",
+		"word": "Heterozygot",
+		"meaning": "ヘテロ接合（せつごう）",
+		"etymology": [
+			"Greek heteros (other/different) + zygos (yoke)"
+		],
+		"concept": "Having two different alleles",
+		"thinking": "「異なった（Heteros）」もの同士を「繋ぐ（Zygos）」。二種類の、矛盾するかもしれない情報を同時に抱え込む。その不安定な『混ざり合い（貌）』こそが、次の環境の変化に耐え得る、柔らかな強さの源泉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "homozygous_a",
+		"word": "Homozygous",
+		"meaning": "ホモ接合（せつごう）",
+		"etymology": [
+			"Greek homos (same) + zygos"
+		],
+		"concept": "Having identical alleles",
+		"thinking": "「同じ（Homos）」ものを「繋ぐ（Zygos）」。迷いのない、純粋な性質。しかしそれは、環境が激変した瞬間に、盾も矛もなく滅び去る脆さと表裏一体でもある、純粋主義の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "meiosis_adv_",
+		"word": "Meiosis",
+		"meaning": "減数（げんすう）分裂（ぶんれつ）",
+		"etymology": [
+			"Greek meio- (lessen)"
+		],
+		"concept": "Cell division for gametes",
+		"thinking": "「少なく（Meio-）」すること。自分自身を半分に削り、他者の半分と出会うための「余白」を作る。新しい貌を産むために、自らの情報を一度バラバラに解体する、最も創造的でロマンチックな解体作業。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "recombinati",
+		"word": "Gen Recomb",
+		"meaning": "遺伝子（いでんし）組（く）み換（か）え",
+		"etymology": [
+			"Re- + Combination"
+		],
+		"concept": "Shuffling of genetic material",
+		"thinking": "カードを切るように、父と母の情報を「混ぜ」「組み直す（Combine）」。全く同じ兄弟が産まれない理由。宇宙にたった一つの『新しい貌』を産み出すための、確率という名のギャンブル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
+	},
+	{
+		"id": "eternity_gen",
+		"word": "Germline",
+		"meaning": "生殖（せいしょく）系列（けいれつ）、永遠（えいえん）の鎖（くさり）",
+		"etymology": [
+			"Latin germen (seed) + Line"
+		],
+		"original_statement": "The uninterrupted bridge of life.",
+		"concept": "The immortal information stream",
+		"thinking": "「種（Germ）」の「家系（Line）」。私たちの肉体はやがて朽ち果てるが、この『生殖細胞』という名のバトンだけは、数億年前の魚から今日のあなた、そして未来の誰かへと、一度も途切れることなく受け継がれてきた。私たちは、不滅の情報の鎖が、一瞬だけ纏った仮初の貌であるという真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の設計図を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"遺伝学と分子生物学の極致へ。"
+			]
+		},
+		"example": "Genetics explores the codes behind life."
 	}
 ];
