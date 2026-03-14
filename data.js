@@ -324314,5 +324314,87 @@ const WORDS = [
    "original_statement": "An operator in differential geometry that maps differential forms on an n-dimensional oriented Riemannian manifold to their dual forms of degree n-k."
   },
   "concept": "The mirror of forms (「。。、。光。、。、」。が。、。、。あれば。、。、。必ず。、。、。、。そこに。、。、。峻烈。な、。、。、「。。、。、。影。、。、。、」。が。、。、。在（。あ）。。、。る。。、。、という、。、。、理知。の、。峻烈なる。、。、。。「。。、。、。双。、。対。、。、。、」。、。、。それは、。、。、。、。理知。が。、。、。、。自ら。を。、。、。。「。。、。、。、。他。、。、。、」。の、。、。眼（め）。。、。ざ。し。、で。、。、。見。、。つ。。、める。。、。ことで、。、。、宇宙。を。、。、。、。完成。へと、。、。、。導（みちび）。。、。く。。、。、ための。、。、。、。、。、。峻烈なる。、。、。、。、光。、。の、。、。カ。、。ッ。。、。ター。、)"
+ },
+ {
+  "id": "triple-alpha",
+  "word": "Triple-alpha Process",
+  "meaning": "トリプルアルファ反応、。、。三つの。、。、。ヘリウム。が。、。、。不意に。、。、。手を。、。繋（つな）。。ぎ。。、。あ。った。。、。瞬、。。間に。、。、。理知。の、。峻烈なる。、。、輝き。、。、を。、。、生成。。する。。、。こと。、",
+  "era": "Latin triplex + Greek alpha",
+  "etymology": {
+   "components": [
+    "triplex (triple)",
+    "alpha (first letter of Greek alphabet)"
+   ],
+   "original_statement": "A set of nuclear fusion reactions by which three helium nuclei are transformed into carbon."
+  },
+  "concept": "The carbon pulse (「。。、あ。、な。た。、。、」。と。、。、「。。、。、私。、。、。、」。と。、。、そして。、。もう。、。一。、。人の。、。、。「。。、。、。、私。、。、。、」。が。、。、。一。、。瞬、。の、。、。。熱狂。の中に。、。、。溶。け。、。合う。。、。ことで、。、。、宇宙。に。、。、。、。真。しき。。、。、理知。の。、。、。。「。。、。、。骨。、。格（。か。ら。だ。）。、。、。、」。を。、。、。、。与（あたた）。。、。える。。、。一。、。つの。。、。、峻烈な。、。、。、。、生。、。命。、。、。の、。、。、。源。、)"
+ },
+ {
+  "id": "degeneracy-pressure",
+  "word": "Degeneracy Pressure",
+  "meaning": "簡退圧、。、。窮。、。屈。な、。、。、。「。。、。、。、密。、。室。、。、。、」。において。、。、。粒子。たちが、。、。、。あえて。、。、。、。自らを。、。、。押し。、。返（かえ）。。、。す。。、。、。峻烈な。、。、。、。、。拒。、。絶。、",
+  "era": "Latin degeneratus + pressura",
+  "etymology": {
+   "components": [
+    "degeneratus (departed from its race)",
+    "pressura (pressure)"
+   ],
+   "original_statement": "The pressure exerted by a dense gas of fermions that arises from the Pauli exclusion principle."
+  },
+  "concept": "The refusal of touch (「。。、これ。。、。、。以上。、。、」。私。に。、。、。、「。。、。、。、踏（ふ）。。、。み。。、。、。、」。込（。こ。）。。、。ま。。、。な。、。い。。、。で。、。、という、。、。理知。の、。峻烈なる。、。。叫（さけ）。。、。び。。、。それは、。、。、。、あまりに。、。、。激しい。、。、。、重力。という、。、。、掟（。おきて）。。に対し、。、。、。一。、。つの。。、。、。魂。。が。、。、最後。まで。。、。、。自ら。。を。、。、守（まも）。。、。り。。、。抜（ぬ）。。、。う。。、。とする、。、。、。峻烈なる。、。、。、。、。、。矜。、。、持。、)"
+ },
+ {
+  "id": "protostar",
+  "word": "Protostar",
+  "meaning": "原始星、。、。星。としての。、。、。理知。を。、。、。宿（やど）。。、。し、。、。、。ひっそり。と、。。、。、。目覚める。。、。、。瞬、。。間の、。、。、。峻烈な。、。、。、。、。産。、。声。、",
+  "era": "Greek protos + star",
+  "etymology": {
+   "components": [
+    "protos (first)",
+    "steorra (star)"
+   ],
+   "original_statement": "A very young star that is still gathering mass from its parent molecular cloud."
+  },
+  "concept": "The first light (「。。、。暗。、。、。黒。、。、」。の中に。、。、。、一。、。つの。、。、。、。脈。、動。。が。、。、不。意に。、。、。生まれた。。、。瞬、。。間。、。、それは、。、。、。理知。が、。、。、。宇宙。の、。、。、。、冷（。つめ）。。、。た。、。さ。。、を、。、。。、。自ら。の。、。、。「。。、。、。、熱。、。、。、」。によって。、。、。、。、穿（。うが）。。、。とう。。、。とする、。、。、峻烈な。、。、。、。、。情。、。、。、熱。、)"
+ },
+ {
+  "id": "main-sequence",
+  "word": "Main Sequence",
+  "meaning": "主系列、。、。星。が。、。、。もっとも。、。、。理。知。的。に、。、。、。、輝（かがや）。。、。き。。、。、。安定。。、。、して。、。いる。。、。峻烈な。、。、。、中。、心。、。とき、。、",
+  "era": "English main + Latin sequentia",
+  "etymology": {
+   "components": [
+    "mægen (strength / power)",
+    "sequentia (sequence)"
+   ],
+   "original_statement": "The region on the Hertzsprung-Russell diagram where most stars are located, characterized by the fusion of hydrogen into helium."
+  },
+  "concept": "The burning steady (「。。、。いつ。までも。、。、」。こう。して。、。、。「。。、。、。、私。、。、。、」。であり。、。、。つづ。ける。。、。ことの、。、。。峻烈。な、。、。、功。、。績。、。、それは、。、。、。理知。が、。、。、。重力。と。、。、。、。。「。。、。、。、。光。、。、。、」。を。、。、。、見。、。事に。、。、。、。響（ひび）。。、。き。。、。合わせ、。、。、。一。、。つの。、。、。、。、「。。、。、。、。正(せい)。、。、。、」。を。、。、。、保（たも）。。、。って。。、。いる。。、。峻烈な。、。、。、。、。、。、。、。平。、穏。、)"
+ },
+ {
+  "id": "hayashi-track",
+  "word": "Hayashi Track",
+  "meaning": "林トラック、。、。星。が。、。、。自ら。の。、。、。熱。を、。、。、。宇宙。へと、。、。放（はな）。。、。ち。。、。ながら、。、。、ひっそり。と、。。、。、。、沈（しず）。。、。んで。。、。ゆ。く。。、。理知。の、。、。軌。、。跡。、",
+  "era": "Name Chushiro Hayashi",
+  "etymology": {
+   "components": [
+    "Chushiro Hayashi (astrophysicist)"
+   ],
+   "original_statement": "The path followed by newly formed stars on the Hertzsprung-Russell diagram as they approach the main sequence."
+  },
+  "concept": "The descending path (「。。、。、輝（かがや）。。、。、。き。。、」。ながらも。、。、。、。不意に。、。、「。。、。、。、暗。、。、。、」。闇。へと。、。、。、。、辿（たど）。。、。り。。、。着（つく）。。、。ための。、。、。理知。の、。、。、峻烈な。、。、。、階。、一段。、。それは、。、。、。、理知。が。、。、。、宇宙。に。、。、。対。する、。、。、。、誠。、。実。、を。、。、。一。、。つの。、。、。、「。。、。、。、。影。、。、。、」。として。、。、。遺（のこ）。。、。した。。、。、。、証（あかし）。、)"
+ },
+ {
+  "id": "jeans-instability",
+  "word": "Jeans Instability",
+  "meaning": "ジーンズ不安定性、。、。あまりにも。、。、。、。巨。大。な、。、。雲。が、。、。自ら。の。、。、重（。お。）。。、。、。さに。。、。、。耐（た）。。、。え。。、。き。、れ。、。、。ず。。、。一。、。瞬、。にして。、。、潰（つい）。。、。える。。、。理知。の、。、。。、。崩。、壊。、",
+  "era": "Name James Jeans",
+  "etymology": {
+   "components": [
+    "James Hopwood Jeans (astronomer / physicist)"
+   ],
+   "original_statement": "The condition for a cloud of gas to collapse into stars."
+  },
+  "concept": "The collapse of dreams (「。。、。、あまり。に。、。、」。大き。すぎた。。、。、。「。。、。、。、。想（おも）。、。、。、」。は、。、。、いずれ。、。、。自ら。の。、。、。理知。に。、。、。飲み。込（。こ。）。。、ま。。、。れて。。、。しまう。。、。という、。、。宇宙。の、。峻烈なる。、。、。皮。、。肉。。、それは、。、。、。、。死。。が、。、。、。、不。意に。、。、。「。。、。、。、生。、。、。、」。へと、。、。、反（はん）。。、。転。、。、。する。。、ための、。、。、。峻烈なる。、。、。、。、。儀。、。式。、)"
  }
 ];
