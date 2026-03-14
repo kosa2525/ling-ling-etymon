@@ -401254,5 +401254,685 @@ const WORDS = [
 			]
 		},
 		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "medievalist",
+		"word": "Medievalis",
+		"meaning": "中世史家（ちゅうせいしか）",
+		"etymology": [
+			"Latin medius (middle) + aevum (age)"
+		],
+		"concept": "Scholar of middle ages",
+		"thinking": "「真ん中（Medius）」の「時代（Aevum）」に魅了された者。暗黒時代という名の虚像を剥ぎ、その深層に流れる敬虔な祈り、荒々しき法、そして知の煌めき（貌）を掘り起こす、時間の考古学者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "manuscript_",
+		"word": "Manuscript",
+		"meaning": "写本（しゃほん）",
+		"etymology": [
+			"Latin manus (hand) + scribere"
+		],
+		"concept": "Handwritten book/document",
+		"thinking": "「手（Manus）」で「書かれた（Scribe）」もの。印刷機という機械的な複製が産まれる前の、たった一人の人間の息遣いが刻まれた、唯一無二の情報の貌。ペン先の震え、消された跡、余白の落書き。すべてが神聖な情報の粒子である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "scriptoriu",
+		"word": "Scriptoriu",
+		"meaning": "写字室（しゃじしつ）",
+		"etymology": [
+			"Latin scribere (to write) + -orium (place)"
+		],
+		"concept": "Room for writing manuscripts",
+		"thinking": "「書くための（Script）」特別な「場所（-Orium）」。修道院の奥深く、沈黙と羊皮紙の香りに包まれ、神の言葉を一字一句写し取る、敬虔な情報の工房（貌）。そこでは書くことそのものが祈りであった。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "parchment_a",
+		"word": "Parchment",
+		"meaning": "羊皮紙（ようひし）、パーチメント",
+		"etymology": [
+			"Greek Pergamos (place name)"
+		],
+		"concept": "Animal skin for writing",
+		"thinking": "紙ではなく、かつて生きていた「羊の皮膚」。磨き上げられ、インクを吸い込み、千年の風雪に耐える強靭な記憶の器。動物の命が、人間の知恵という名の貌へと昇華された物質。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "vellum_adv_",
+		"word": "Vellum",
+		"meaning": "子牛（こうし）皮（かわ）の羊皮紙（ようひし）、ヴェラム",
+		"etymology": [
+			"Latin vitulus (calf)"
+		],
+		"concept": "High-quality calfskin paper",
+		"thinking": "「子牛（Vitulus）」の皮。最もキメが細かく、最も白く、最も高貴な記憶。王の勅令や、精緻な彩色写本のために捧げられた、究極の記録メディアの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "feudalism_a",
+		"word": "Feudalism",
+		"meaning": "封建制（ほうけんせい）",
+		"etymology": [
+			"Lat feodum (fief/land)"
+		],
+		"concept": "Social system of hierarchy",
+		"thinking": "「土地（Feodum）」を媒介とした、忠誠と保護の交換。王、騎士、農民。抽象的な契約ではなく、血の通った『貌と貌』の向き合いによって成り立つ、峻厳で有機的な社会の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "vassalage_a",
+		"word": "Vassalage",
+		"meaning": "臣従（しんじゅう）関係（かんけい）",
+		"etymology": [
+			"Celtic wasso (young man/servant)"
+		],
+		"concept": "Status of a feudal tenant",
+		"thinking": "「自分という存在（貌）」を他者に預ける、究極の服従。しかしそれは一方的ではなく、相互の責任（契約）に基づいた誇り高き隷属の理であった。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "chivalry_ad",
+		"word": "Chivalry",
+		"meaning": "騎士道（きしどう）、騎士（きし）の気概（きがい）",
+		"etymology": [
+			"French cheval (horse)"
+		],
+		"concept": "Knightly code of conduct",
+		"thinking": "「馬（Cheval）」を駆る者の誇り。ただ強いだけでなく、弱きを助け、神と淑女に忠誠を誓う。暴力（野生）を、理想という名の形式（貌）で手なずけようとした、貴族的な精神の結晶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "courtly_lov",
+		"word": "Courtly Lov",
+		"meaning": "宮廷（きゅうてい）風（ふう）恋愛（れんあい）",
+		"etymology": [
+			"Courtly + Love"
+		],
+		"concept": "Idealized romantic love",
+		"thinking": "「宮廷」という極限の規律の中で産まれた、叶わぬ恋の称揚。手に入れることではなく、遠くから思慕し、自らを高めるための「甘美な苦しみ（貌）」。恋愛を宗教的熱情へと昇華させた中世の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "troubadour_",
+		"word": "Troubadour",
+		"meaning": "吟遊詩人（ぎんゆうしじん）、トゥルバドゥール",
+		"etymology": [
+			"Occitan trobar (to find/invent)"
+		],
+		"concept": "Lyric poets/singers",
+		"thinking": "美しき詩と旋律を「見つけ出す（Trobar）」者。各地を旅し、騎士道や恋愛の物語を情報の風として運ぶ、言葉の旅人。彼らの歌が、人々の心の貌を形作った。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "scholastici",
+		"word": "Scholastic",
+		"meaning": "スコラ学（がく）",
+		"etymology": [
+			"Greek skhole (leisure/school)"
+		],
+		"concept": "System of medieval philosophy",
+		"thinking": "「学校（School）」での議論。信仰と理性を、いかに矛盾なく「統合」するか。アリストテレスの刃を使って、聖書の言葉を精緻に解剖し、神の宇宙の構造（貌）を設計図のように描き出す、知の構築物。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "summa_adv_v",
+		"word": "Summa",
+		"meaning": "大全（たいぜん）、スンマ",
+		"etymology": [
+			"Latin summa (highest/sum)"
+		],
+		"concept": "Complete summary of knowledge",
+		"thinking": "あらゆる知を統合した「最高（Summa）」の体系。神学、哲学、法学。バラバラな情報の断片を、一つの巨大な「大伽藍（貌）」として完成させようとする、中世の百科全書的な野望。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "cathedral_a",
+		"word": "Cathedral",
+		"meaning": "大聖堂（だいせいどう）",
+		"etymology": [
+			"Greek kathedra (seat/chair)"
+		],
+		"concept": "Principal church of a diocese",
+		"thinking": "司教の「座（Kathedra）」がある場所。光と石によって築かれた、地上の天国。その垂直な上昇志向（貌）は、人々を重力から解き放ち、神の理の中へと招き入れる情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "guild_adv_v",
+		"word": "Guild",
+		"meaning": "ギルド、同業者（どうぎょうしゃ）組合（くみあい）",
+		"etymology": [
+			"Old English gield (payment)"
+		],
+		"concept": "Association of artisans",
+		"thinking": "「対価（Gield）」を払い合い、技術と市場を守り抜く強固な結束。石細工、機織り、商人。個人の貌を捨て、職人集団という一つの巨大な「手（貌）」として生きる、中世の互助組織。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "hagiography",
+		"word": "Hagiograph",
+		"meaning": "聖人伝（せいじんでん）",
+		"etymology": [
+			"Greek hagios (holy) + graphein"
+		],
+		"concept": "Biography of saints",
+		"thinking": "「聖なる人（Hagios）」の物語を「書く（Graph）」。歴史的な事実よりも、信仰の模範としての美しき『奇跡の貌』を浮き彫りにする。人々の理想が投影された、聖なる情報の肖像。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "pilgrimage_",
+		"word": "Pilgrim",
+		"meaning": "巡礼（じゅんれい）",
+		"etymology": [
+			"Latin per- (through) + ager (field)"
+		],
+		"concept": "Journey to holy place",
+		"thinking": "見知らぬ「野（Ager）」を「通り抜け（Per-）」、聖地へと向かう。自らの貌（身分や名前）を捨て、ただ一人の罪人として長い旅を続けることで、魂の浄化（再誕）を目指す情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "crusades_ad",
+		"word": "Crusades",
+		"meaning": "十字軍（じゅうじぐん）",
+		"etymology": [
+			"Latin crux (cross)"
+		],
+		"concept": "Holy wars for Jerusalem",
+		"thinking": "「十字架（Crux）」を背負い、聖地奪還という情熱の下に集った、信仰と暴力の巨大なる濁流。異文化との激烈な衝突（貌）が、中世ヨーロッパの閉じた宇宙に、東方の知恵という新しい風を送り込んだ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "heresy_adv_",
+		"word": "Heresy",
+		"meaning": "異端（いたん）",
+		"etymology": [
+			"Greek hairesis (choice)"
+		],
+		"concept": "Belief contrary to dogma",
+		"thinking": "「自ら選ぶ（Hairesis）」こと。教会の正統な貌に従わず、独自の理を信じ抜く、危険で孤独な知の飛躍。それは秩序に対する究極の「裏切り」であると同時に、思考の「自由」の産声でもあった。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "inquisition",
+		"word": "Inquisitio",
+		"meaning": "異端（いたん）審問（しんもん）",
+		"etymology": [
+			"Latin in- + quaerere (to look for)"
+		],
+		"concept": "Investigation of heresy",
+		"thinking": "隠された過ちを「徹底的に（In-）」「探し出す（Query）」。沈黙の深層に潜む異端の貌を、拷問と議論によって暴き出す、情報の暴力的な監査。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "excommunic",
+		"word": "Excommuni",
+		"meaning": "破門（はもん）",
+		"etymology": [
+			"Latin ex- + communis"
+		],
+		"concept": "Expulsion from church",
+		"thinking": "「共有された共同体（Communis）」から「放逐（Ex-）」されること。それは社会的な『死』を意味する。情報のネットワークから完全に遮断され、貌を失う、中世で最も恐ろしい罰。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "pope_adv_v_",
+		"word": "P papacy",
+		"meaning": "教皇（きょうこう）権（けん）",
+		"etymology": [
+			"Greek papas (father)"
+		],
+		"concept": "Office of the Pope",
+		"thinking": "「父（Papas）」としての絶対的な権威。神の代理人として、地上の王たちをも支配しようとする、精神の帝国の最高峰（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "monastici_a",
+		"word": "Monastici",
+		"meaning": "修道院（しゅうどういん）制度（せいど）",
+		"etymology": [
+			"Greek monos (alone)"
+		],
+		"concept": "Way of life in monasteries",
+		"thinking": "俗世を捨て、「独り（Mono）」で、あるいは隠遁した共同体で神に仕える。沈黙、労働、祈り。時間のすべてを秩序という名の貌（規律）の中に封じ込める、魂の実験場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "mendicant_a",
+		"word": "Mendicant",
+		"meaning": "托鉢（たくはつ）修道士（しゅうどうし）の",
+		"etymology": [
+			"Latin mendicus (beggar)"
+		],
+		"concept": "Begging monks/friars",
+		"thinking": "「乞食（Mendicant）」をして生きる。所有を捨て、人々の間を歩き、自らの身を捧げて奉仕する。無一物の中から産まれる、真の自由と誠実の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "mysticism_a",
+		"word": "Mysticism",
+		"meaning": "神秘主義（しんぴしゅぎ）",
+		"etymology": [
+			"Greek mystes (initiate)"
+		],
+		"concept": "Direct union with Divine",
+		"thinking": "言葉や理屈を捨て、神そのものと「合一」する体験。理性の檻を外れ、深淵な沈黙の中で宇宙の真髄（貌）を直接知覚する、言葉にならぬ知の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "bubonic_pla",
+		"word": "Black Deat",
+		"meaning": "黒死病（こくしびょう）、ペスト",
+		"etymology": [
+			"Latin pestis (plague)"
+		],
+		"concept": "Pandemic killing mass millions",
+		"thinking": "「黒（Black）」という死の影。全人口の三分の一を薙ぎ払い、中世の安定した宇宙を根底から揺るがした、自然界の理不尽な略奪。死の平等という名の新しい貌の到来。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "memento_mor",
+		"word": "Memento Mo",
+		"meaning": "メメント・モリ、死（し）を想（おも）え",
+		"etymology": [
+			"Latin memento (remember) + mori"
+		],
+		"concept": "Reminder of mortality",
+		"thinking": "「死（Mori）」を「忘れるな（Remember）」。華やかな生の中に、常に骸骨の貌を見据える。それが、今この瞬間の生を、より深く、より切実に生きるための逆説的な知恵であった。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "danse_macab",
+		"word": "Danse Maca",
+		"meaning": "死（し）の舞踏（ぶとう）",
+		"etymology": [
+			"French danse + Arabic maqbara (graveyard)"
+		],
+		"concept": "Art genre on universality of death",
+		"thinking": "「墓場（Maqbara）」で踊る。王も物乞いも、死の調べの前では平等に手を取り合い、骸骨と共に踊る。あらゆる身分差、あらゆる貌を無に還す、死の普遍的なリズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "gothic_script",
+		"word": "Gothic Sc",
+		"meaning": "ゴシック体（たい）、ブラックレター",
+		"etymology": [
+			"Goth (Germanic tribe)"
+		],
+		"concept": "Medieval script style",
+		"thinking": "鋭く、重なり合い、垂直にそびえ立つ文字の貌。大聖堂の尖塔のように、天を目指そうとする強靭な意志が刻まれた、中世後期の峻厳なる書体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "philology_m",
+		"word": "Med Philo",
+		"meaning": "中世（ちゅうせい）文献学（ぶんけんがく）",
+		"etymology": [
+			"Greek philein (to love) + logos"
+		],
+		"concept": "Love of words/manuscripts",
+		"thinking": "「言葉（Logos）」を「愛する（Philein）」ことで、失われた時代の欠片を繋ぎ合う。一つの誤植、一つの綴りの揺れを追うことで、時を越えた作者の貌に出会う、切実な。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "apocalyptic",
+		"word": "Apocalypt",
+		"meaning": "黙示録（もくしろく）的（てき）な",
+		"etymology": [
+			"Greek apo- (away) + kaluptein (to cover)"
+		],
+		"concept": "Revealing ultimate fate",
+		"thinking": "「覆い（Kaluptein）」を「剥ぎ取る（Apo-）」。世界の終わり、最後の審判、そして新しい天地の到来。すべての隠し事が白日の下に晒される、最後にして究極の真実の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "roman_court",
+		"word": "Curia",
+		"meaning": "教皇（きょうこう）庁（ちょう）、キュリア",
+		"etymology": [
+			"Latin curia (court/assembly)"
+		],
+		"concept": "Administrative body of Holy See",
+		"thinking": "教皇という名の中心を支える「法廷（Curia）」、あるいは知の官僚機構。広大なキリスト教世界という巨大な貌を、法と情報の力でコントロールする中枢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "hagiologist",
+		"word": "Hagiology",
+		"meaning": "聖徒（せいと）研究（けんきゅう）",
+		"etymology": [
+			"Greek hagios + logos"
+		],
+		"concept": "Scientific study of saints",
+		"thinking": "聖なる情報の集積（理）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "canon_law_a",
+		"word": "Canon Law",
+		"meaning": "教会（きょうかい）法（ほう）、カノン法（ほう）",
+		"etymology": [
+			"Greek kanon (measuring rod/rule)"
+		],
+		"concept": "Laws made by the Church",
+		"thinking": "魂の「物差し（Kanon）」。人間の欲望と罪を、神の理に照らして測り、裁き、あるいは許す。見えない精神の世界に骨格（貌）を与える法規の集積。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
+	},
+	{
+		"id": "liturgy_adv",
+		"word": "Liturgy",
+		"meaning": "典礼（てんれい）、リトゥルギア",
+		"etymology": [
+			"Greek leitos (public) + ergon (work)"
+		],
+		"concept": "Form of public worship",
+		"thinking": "「民（Leitos）」のための「働き（Ergon）」。定められた儀式、祈り、歌の連鎖。それは神と人間、過去と未来を、今この瞬間に繋ぎ合わせるための、壮大な『記憶の貌（パフォーマンス）』である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "羊皮紙の闇を、ペン先（理）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中世史と写本学の極致へ。"
+			]
+		},
+		"example": "Medieval manuscripts provide a window into the intellectual life of the Middle Ages."
 	}
 ];
