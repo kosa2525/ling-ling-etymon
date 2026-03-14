@@ -389591,5 +389591,765 @@ const WORDS = [
 			]
 		},
 		"example": "Thermodynamics describes the macro behaviors of heat and energy."
+	},
+	{
+		"id": "topology_ad3",
+		"word": "Topology",
+		"meaning": "位相幾何学（いそうきかがく）",
+		"etymology": [
+			"Greek topos (place) + logos"
+		],
+		"concept": "Science of spatial properties",
+		"thinking": "「場所（Topos）」の「理（Logos）」。距離や形を捨て、ただ『繋がり方』だけを見つめる。穴がいくつあるか、何と繋がっているか。宇宙の本質的な『柔らかさ』を究明する、数理の最も抽象的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "homeomorphi",
+		"word": "Homeomorph",
+		"meaning": "同相（どうそう）",
+		"etymology": [
+			"Greek homoios (same) + morphe (form)"
+		],
+		"concept": "Topologyically identical",
+		"thinking": "「同じ（Homoios）」」「貌（Morphe）」。ドーナツと珈琲カップ。どれほど形を変えようとも、引きちぎらず、穴を開けない限り、それらは『同じ一つの存在』である。表層の異なりを越えた、深層の同一性を暴き出す抽象の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "manifold_ad",
+		"word": "Manifold",
+		"meaning": "多様体（たようたい）",
+		"etymology": [
+			"Old English manigfeald (many folds)"
+		],
+		"concept": "Locally Euclidean space",
+		"thinking": "「多く（Many）」の「折り重なり（Fold）」。近くで見れば平らだが、全体としては複雑に曲がりくねり、繋がっている空間。地球、あるいは宇宙。私たちの矮小な視座では捉えきれない、巨大な世界の『真実の地平』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "homotopy_ad",
+		"word": "Homotopy",
+		"meaning": "ホモトピー",
+		"etymology": [
+			"Greek homos (same) + topos (place)"
+		],
+		"concept": "Continuous deformation of paths",
+		"thinking": "線や面を、連続的に「同じ（Homos）」場所へと変形させていく。ある道筋が、別な道筋へと『移り変われるか』。空間の中に潜む、見えない障害物（穴）を、動的な変化のあわいで探り当てる、情報の触手。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "euler_char",
+		"word": "Euler Char",
+		"meaning": "オイラー標数（ひょうすう）",
+		"etymology": [
+			"Leonhard Euler"
+		],
+		"concept": "Topological invariant",
+		"thinking": "頂点、辺、面。それらを足し引きして導き出される、たった一つの、どんなに変形しても変わらない『魂の数字』。宇宙がどんなに歪もうとも、この数字だけは裏切らない、絶対的な空間の落款。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "knot_theory",
+		"word": "Knot Theory",
+		"meaning": "結（むす）び目（め）理論（りろん）",
+		"etymology": [
+			"Old English cnotta"
+		],
+		"concept": "Mathematical study of knots",
+		"thinking": "一筋の線を、絡め、通し、結ぶ。輪を切らずに、その『絡まり』を解くことはできるか。単純な遊びの中に、宇宙のトポロジーの深淵と、DNAの複雑な絡み合いの理が潜んでいる、結節の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "trefoil_knot",
+		"word": "Trefoil",
+		"meaning": "三葉（さんよう）結（むす）び目（め）",
+		"etymology": [
+			"Latin trifolium (three-leaf)"
+		],
+		"concept": "Simplest non-trivial knot",
+		"thinking": "「三つの（Tri）」「葉（Foil）」。最も単純でありながら、決して解くことのできない、最初の不敵な『絡まり』。対称性と非可逆性のあわいで、結び目という宇宙が始まる、原初の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "jones_polyn",
+		"word": "Jones Poly",
+		"meaning": "ジョーンズ多項式（たこうしき）",
+		"etymology": [
+			"Vaughan Jones + Greek polus (many) + onoma"
+		],
+		"concept": "Knot invariant polynomial",
+		"thinking": "結び目の絡まり方を、一つの複雑な「数式（多項式）」へと翻訳する。どれほど激しく絡み合った紐も、この式を計算すれば、その『正体』を暴くことができる。絡まりの中の、不変の美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "ambient_iso",
+		"word": "Ambient Iso",
+		"meaning": "アンビエント・アイソトピー",
+		"etymology": [
+			"Latin ambire (to go around) + Greek isos + topos"
+		],
+		"concept": "Continuous moving of the space",
+		"thinking": "紐を動かすのではなく、紐が浮いている「空間そのもの（Ambient）」を、ぐにゃりと歪める。周りを巻き込んで変幻自在に移り変わる、空間と対象の、不可分でしなやかな響き合い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "surgery_the",
+		"word": "Surgery (T)",
+		"meaning": "手術（しゅじゅつ）理論（りろん） (トポロジー)",
+		"etymology": [
+			"Greek kheir (hand) + ergon (work)"
+		],
+		"concept": "Modifying manifolds via cuts",
+		"thinking": "空間を「切り（Surgery）」、別な部品を「縫い付ける」。多様体の次元を変え、新しい貌を産み出すための、数理的な外科手術。宇宙を意のままに組み替える、不遜で精密な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "bordism_ad",
+		"word": "Bordism",
+		"meaning": "ボルディズム",
+		"etymology": [
+			"French bord (edge/border)"
+		],
+		"concept": "Equivalence via shared boundary",
+		"thinking": "二つの空間が、共通の「境界（Bord）」を介して一つの次元高い空間で結ばれていること。離れた場所に咲く二つの花が、地下の根っこで繋がっているような、隠された『縁』の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "cobordism_a",
+		"word": "Cobordism",
+		"meaning": "コボルディズム",
+		"etymology": [
+			"Co- + Bordism"
+		],
+		"concept": "Manifolds sharing boundaries",
+		"thinking": "「共に（Co-）」境界（Bord）を分かち合うこと。ある空間が時間の経過とともに別な空間へと変容する、そのプロセスの全貌。存在の『移ろい』そのものを、一つの幾何学的な対象として捉える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "embedding_a",
+		"word": "Embedding",
+		"meaning": "埋（う）め込（こ）み",
+		"etymology": [
+			"En- + Bed"
+		],
+		"concept": "Putting space into another",
+		"thinking": "低い次元の空間を、高い次元の「ベッド（Bed）」の「中（En-）」にそっと横たえる。三次元の結び目を、四次元の海に解き放つ。より広い視野を得た時、かつての不可能性（絡まり）が魔法のように消え去る、超越の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "immersion_a",
+		"word": "Immersion",
+		"meaning": "浸（しん）浸（しん） (トポロジー)",
+		"etymology": [
+			"Latin in- + mergere (to dip)"
+		],
+		"concept": "Self-intersecting map",
+		"thinking": "自分自身と重なることを厭わず、空間の中へと「沈み（Merge）」「込む（In-）」。クラインの壺のように、内と外を失い、自らと交差しながら舞い踊る、空間の奔放な自己表現。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "connectednes",
+		"word": "Connected",
+		"meaning": "連結（れんけつ）性（せい）",
+		"etymology": [
+			"Latin con- + nectere (to bind)"
+		],
+		"concept": "Space in one piece",
+		"thinking": "二つに「分かち（Disconnect）」得ないこと。どこからどこへも、道が途絶えることのない、一貫した世界。たとえ歪んでも、この『絆（Nect-）』だけは決して切れないという、存在の連帯の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "simple_conn",
+		"word": "Simply Conn",
+		"meaning": "単（たん）連結（れんけつ）",
+		"etymology": [
+			"Simple + Connected"
+		],
+		"concept": "Every loop is contractible",
+		"thinking": "「穴」がない、あまりに「純粋（Simple）」な繋がり。どんな輪っかも、一点へとスルリと縮めることができる。迷う余地のない、風通しの良い、無垢な空間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "curvature_t",
+		"word": "Curvature",
+		"meaning": "曲率（きょくりつ）",
+		"etymology": [
+			"Latin curvus (bent)"
+		],
+		"concept": "Degree of bending",
+		"thinking": "「曲がり（Curve）」の度合い。どれほど激しく世界が歪んでいるか。平坦な思考を拒絶し、重力や情報の密度によって歪められた、現実のダイナミックな『貌』を記述する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "genus_topo_",
+		"word": "Genus (T)",
+		"meaning": "種数（しゅすう） (トポロジー)",
+		"etymology": [
+			"Latin genus (kind/type)"
+		],
+		"concept": "Number of holes",
+		"thinking": "空間を「種類（Genus）」分けするための、穴の数。穴のない球、穴が一つのドーナツ。形がどれほど変わろうとも、この『穴の数』が変わらぬ限り、その空間は同じ『族』に属するという、存在の階級。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "poincare_con",
+		"word": "Poincaré Co",
+		"meaning": "ポアンカレ予想（よそう）",
+		"etymology": [
+			"Henri Poincaré"
+		],
+		"concept": "Structure of 3-sphere",
+		"thinking": "「この宇宙の形を、一本の紐で知ることはできるか」。どんな輪っかも一点に縮まる三次元空間は、丸い『球』の貌をしているはずだ。百年もの間、全数学者を翻弄した、宇宙の「丸さ」をめぐる究極の証明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "perelman_ad",
+		"word": "Ricci Flow",
+		"meaning": "リッチ・フロー",
+		"etymology": [
+			"Gregorio Ricci-Curbastro"
+		],
+		"concept": "Smoothing manifold spikes",
+		"thinking": "デコボコした空間の「歪み」を、熱が伝わるようにじわじわと平ら（均一）にしていくプロセス。歪みが解消された果てに、空間の真実の貌が浮き彫りになる。難攻不落のポアンカレ予想を堕とした、情報の平滑化（熱）の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "thurston_ad",
+		"word": "Geometrizat",
+		"meaning": "幾何学（きかがく）化（か）予想（よそう）",
+		"etymology": [
+			"Geometry + Latin -ize"
+		],
+		"concept": "Decomposing 3-manifolds",
+		"thinking": "あらゆる三次元の空間は、たった「八種類の基本的なパーツ（貌）」を組み合わせて作られているはずだ。複雑怪奇な宇宙のパズルを、最小限の『美しい対称性』へと解体する、空間の原子論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "topological",
+		"word": "Top Insulat",
+		"meaning": "トポロジカル絶縁体（ぜつえんたい）",
+		"etymology": [
+			"Topological + Insulate"
+		],
+		"concept": "Bulk = insultor, Surface = cond",
+		"thinking": "中身は「電気を流さない（絶縁）」だが、表面（縁）だけは「完璧に流す（導電）」。トポロジーという不変の掟（穴の数など）に守られた、不純物さえも寄せ付けない究極の純粋な流れ。物質の中に宿る、数学の鋼の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "weyl_semimet",
+		"word": "Weyl Semi",
+		"meaning": "ワイル半金属（はんきんぞく）",
+		"etymology": [
+			"Hermann Weyl"
+		],
+		"concept": "Crystal with massless electrons",
+		"thinking": "「質量」を失った電子が、クリスタルの中を光のように駆け抜ける。結晶構造が産み出す『トポロジーの特異点』から、質量という名の重力が消え去る。物質が「宇宙」へと変容する、ミクロの魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "braid_group",
+		"word": "Braid Group",
+		"meaning": "編（あ）み目（め）群（ぐん）、ブライド群（ぐん）",
+		"etymology": [
+			"Old English bregdan"
+		],
+		"concept": "Math of braiding strands",
+		"thinking": "「編み上げた（Braid）」髪の毛のように、複数の線が互いに絡み合い、位置を入れ替えていく様を「計算」する。単なる結び目よりも動的な、時間の流れを伴う『絡まり』の代数学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "quantum_top",
+		"word": "Qu Topolog",
+		"meaning": "量子（りょうし）トポロジー",
+		"etymology": [
+			"Quantum + Topology"
+		],
+		"concept": "Topology of quantum fields",
+		"thinking": "量子という名の「不確定な震え」の中に、トポロジーという名の「確定した形」を読み解く。粒子が入れ替わるという行為の中に、宇宙を構成する根源的な情報の紐を解く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "athenaeum_t",
+		"word": "Symplectic",
+		"meaning": "シンプレクティック幾何学（きかがく）",
+		"etymology": [
+			"Greek sun- + plekein (to weave)"
+		],
+		"concept": "Geometry of phase space",
+		"thinking": "「共に（Sun-）」「織る（Plekein）」。位置と運動量、二つの異なる情報が、決して解けぬほどに絡まり合い、面積（情報量）を保存しながら変容していく様。古典物理学の魂を、現代数学の貌で再構築する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "contact_str",
+		"word": "Contact Str",
+		"meaning": "接触（せっしょく）構造（こうぞう）",
+		"etymology": [
+			"Latin con- + tangere (to touch)"
+		],
+		"concept": "Odd dimensional geometry",
+		"thinking": "奇数次元の空間に潜む、決して「平ら」にはできない、ねじれた「接触面（貌）」。光の進む道筋や、流体の渦を司る、空間の最も『肌理（きめ）』に近い、ダイナミックな掟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "differential",
+		"word": "Diff Topol",
+		"meaning": "微分（びぶん）トポロジー",
+		"etymology": [
+			"Latin differre + Topology"
+		],
+		"concept": "Topology with calculus",
+		"thinking": "柔らかい空間の上に「滑らかな（微分可能な）」道を描く。カクカクとした折り目を許さず、どこまでも洗練された流線を描き出すための、トポロジーと微積分の結婚。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "smooth_mani",
+		"word": "Smooth Man",
+		"meaning": "滑（なめ）らかな多様体（たようたい）",
+		"etymology": [
+			"Smooth + Manifold"
+		],
+		"concept": "Manifolds with no sharp edges",
+		"thinking": "尖ったところも、裂け目もない、完璧に洗練された『貌（Manifold）』。どこを切り取っても優雅な曲線が続き、ベクトルという名の風が澱みなく吹き抜ける、理性の理想郷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "de_rham_coh",
+		"word": "De Rham Coh",
+		"meaning": "ド・ラーム・コホモロジー",
+		"etymology": [
+			"Georges de Rham"
+		],
+		"concept": "Topology via diff forms",
+		"thinking": "空間の穴（トポロジー）を、その上を流れる「風（微分形式）」の乱れとして計測。形の謎を、計算の言葉へと完全に翻訳する、鮮やかなる情報の越境。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "sheaf_theo_a",
+		"word": "Sheaf",
+		"meaning": "層（そう）、シーフ",
+		"etymology": [
+			"Old English sceaf (bundle)"
+		],
+		"concept": "Managing local data globally",
+		"thinking": "「束（Bundle）」ねられた情報の欠片。各場所では正しい情報を、全体として矛盾なく統合していく。空間にへばりついた情報の『肌理』を管理するための、精緻な論理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "etal_cohomo",
+		"word": "Étale Cohom",
+		"meaning": "エタール・コホモロジー",
+		"etymology": [
+			"French étale (slack/calm water)"
+		],
+		"concept": "Arithmetic topology",
+		"thinking": "「凪（Etale）」のような静寂な水面に映る、数（代数）の深淵。整数という離散的な世界の中に、トポロジーという連続的な貌を無理やり見出す、グロタンディークによる数学界のコペルニクス的転回。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "category_the",
+		"word": "Cat Theory",
+		"meaning": "圏論（けんろん） (トポロジー)",
+		"etymology": [
+			"Greek kategoria"
+		],
+		"concept": "The math of math architecture",
+		"thinking": "個別の空間ではなく、あらゆる数学的な「対象（貌）」と、その間の「関係（矢印）」を抽象化して扱う。究極の一般化。宇宙のあらゆる理を、共通の『構造の言葉』で語ろうとする、野心的な知性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "functorialit",
+		"word": "Functorial",
+		"meaning": "関手的（かんしゅてき）な",
+		"etymology": [
+			"Latin functio"
+		],
+		"concept": "Properties preserved by functors",
+		"thinking": "世界が別の貌へと写り変わる時、その大切な『繋がり』や『掟』がそのまま保たれるという保証。一貫性を保ったまま越境するための、数理のパスポート。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "orbifold_adv",
+		"word": "Orbifold",
+		"meaning": "オービフォールド、軌道（きどう）多様体（たようたい）",
+		"etymology": [
+			"Orbit + Manifold"
+		],
+		"concept": "Manifold with singularities",
+		"thinking": "鏡のような「対称性」によって折り畳まれた空間。特異な一点（貌）を除けば滑らかだが、その一点にこそ宇宙の秘密が凝縮されている、不完全で完璧な幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "mirror_symm",
+		"word": "Mirror Symm",
+		"meaning": "ミラー対称性（たいしょうせい）",
+		"etymology": [
+			"Mirror + Symmetry"
+		],
+		"concept": "Duality of different geometries",
+		"thinking": "全く異なる二つの多様体（貌）が、弦理論という鏡を通すと、同じ一つの物理的真理に行き着くという驚愕。幾何学と代数の、深淵なる『双子』の発見。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "tda_analysis",
+		"word": "TDA",
+		"meaning": "トポロジカル・データ・アナリシス",
+		"etymology": [
+			"Topological Data Analysis"
+		],
+		"concept": "Data shape exploration",
+		"thinking": "膨大なデータの「集まり（雲）」の中に潜む、見えない「穴」や「繋がり」の貌を、トポロジーの刃で切り出す。ノイズを削ぎ落とし、情報の『真の形』を捉えるための、現代の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "persistence_",
+		"word": "Persistence",
+		"meaning": "パーシステンス、持続（じぞく）性（せい） (TDA)",
+		"etymology": [
+			"Latin per- + sistere (to stand)"
+		],
+		"concept": "Stable life of features",
+		"thinking": "データの解像度を変えていった時、どれほど長く「穴（特徴）」が「消えずに（Sistere）」「立ち（Per-）」続けるか。ノイズはすぐに消えるが、真実は最後まで貌を残す。情報の強靭さを測る尺度。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極致を、連結の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"位相幾何学と結び目理論の極致へ。"
+			]
+		},
+		"example": "Topology studies properties of space that are preserved under continuous deformations."
 	}
 ];
