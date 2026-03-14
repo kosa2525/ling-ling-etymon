@@ -387249,5 +387249,846 @@ const WORDS = [
 			]
 		},
 		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "oceanography",
+		"word": "Oceanography",
+		"meaning": "海洋学（かいようがく）",
+		"etymology": [
+			"Greek okeanos + graphein"
+		],
+		"concept": "Science of the oceans",
+		"thinking": "「大洋（Okeanos）」を「記す（Graphe）」。地球の表面の七割を覆う、もう一つの広大で未知なる深淵。塩。潮、深淵な命の揺りかご。そのすべてを情報の地図へと変えていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "bathymetry_a",
+		"word": "Bathymetry",
+		"meaning": "海底（かいてい）地形（ちけい）測量（そくりょう）",
+		"etymology": [
+			"Greek bathys (deep) + metron"
+		],
+		"concept": "Measuring ocean depth",
+		"thinking": "「深い（Bathys）」場所を「測る（Metron）」。目に見えない海の底にある、巨大な山脈、深い裂け目。音のこだまを頼りに、暗闇の中に地球の隠された貌を浮き彫りにする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "benthic_zone",
+		"word": "Benthic",
+		"meaning": "底棲（ていせい）の",
+		"etymology": [
+			"Greek benthos (depths of the sea)"
+		],
+		"concept": "Bottom-dwelling",
+		"thinking": "「海の底（Benthos）」に生きる者たち。太陽の光を一度も浴びることなく、泥の中に潜み、あるいは這い回り、降り積もる『深海の雪（有機物）』を糧にする、孤独で静止した貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "pelagic_zone",
+		"word": "Pelagic",
+		"meaning": "外洋（がいよう）の、遠洋（えんよう）の",
+		"etymology": [
+			"Greek pelagos (open sea)"
+		],
+		"concept": "Living in open water",
+		"thinking": "大陸を離れた「大海原（Pelagos）」に生きること。岸も底も頼りとせず、ただ無限に続く蒼い水の中を、群れを成して、あるいは漂いながら、終わりのない旅を続ける自由の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "abyssal_plan",
+		"word": "Abyssal",
+		"meaning": "深海（しんかい）の、アビサルの",
+		"etymology": [
+			"Greek a- (without) + byssos (bottom)"
+		],
+		"concept": "The very deep sea",
+		"thinking": "「底（Byssos）」が「ない（A-）」ほどの深み。高圧と極寒、そして永遠の静寂。地球上で最も過酷で、最も平和な場所。そこに住まう命は、地上の喧騒とは無縁の、独自の極限の理を生きている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "hadal_zone_a",
+		"word": "Hadal Zone",
+		"meaning": "超（ちょう）深海（しんかい）層（そう）、ヘイダルゾーン",
+		"etymology": [
+			"Hades (Underworld)"
+		],
+		"concept": "Trenches deeper than 6000m",
+		"thinking": "冥界の王「ハデス（Hades）」の名を冠する、六千メートルより深い奈落。地球の皮膚が裂けた暗い溝の中で、最後の命の灯火が揺らめいている、神話的なまでの深淵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "thermocline_",
+		"word": "Thermocline",
+		"meaning": "水温（すいおん）躍層（やくそう）",
+		"etymology": [
+			"Greek thermos (heat) + klinein (to lean)"
+		],
+		"concept": "Ocean temperature boundary",
+		"thinking": "「温度（Thermos）」が急激に「傾き（Cline）」、変わる場所。温かい表面と、凍てつく深海の境界線。目には見えないが、命を阻み、あるいは守る、水の壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "halocline_ad",
+		"word": "Halocline",
+		"meaning": "塩分（えんぶん）躍層（やくそう）",
+		"etymology": [
+			"Greek hals (salt) + klinein"
+		],
+		"concept": "Ocean salinity boundary",
+		"thinking": "「塩（Hals）」の濃さが急変する層。淡い水と重い潮が交じり合わずに重なり、そのあわいで光が歪む。海の「味」の変化が、独自の生態系を産み落とす情報の境界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "thermohaline",
+		"word": "Thermohalin",
+		"meaning": "深層（しんそうでん）海流（かいりゅう）、熱（ねつ）塩（しお）循環（じゅんかん）",
+		"etymology": [
+			"Heat + Salt"
+		],
+		"concept": "Deep global ocean conveyor",
+		"thinking": "「温度（Thermo）」と「塩（Haline）」のわずかな差が、地球全体の海を千年もかけて一周させる巨大なベルトコンベア（貌）。赤道の熱を北極へと運び、地球の『体温』を一定に保つ、大いなる水の呼吸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "upwelling_ad",
+		"word": "Upwelling",
+		"meaning": "湧昇（ゆうしょう）",
+		"etymology": [
+			"Up + Well"
+		],
+		"concept": "Deep water rising to surface",
+		"thinking": "深海の底から、冷たく豊かな栄養素が「井戸（Well）」のように湧き「上がる（Up）」。そこにプランクトンが爆発し、魚が集い、鳥が舞う。死の世界が、一瞬にして生の祝祭へと変わる、逆転の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "downwelling_",
+		"word": "Downwelling",
+		"meaning": "沈降（ちんこう） (海洋)",
+		"etymology": [
+			"Down + Well"
+		],
+		"concept": "Surface water sinking",
+		"thinking": "表面の豊かな酸素を、海の「底（Down）」へと沈める。深海に生きる者たちが溺れずに済むのは、この静かな水の沈み込みが、生命の息吹を奈落へと運んでくれるからという、地球の深き愛情。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "phytoplankto",
+		"word": "Phytoplankt",
+		"meaning": "植物（しょくぶつ）プランクトン",
+		"etymology": [
+			"Greek phyton (plant) + planktos (wandering)"
+		],
+		"concept": "Micro algae in ocean",
+		"thinking": "「漂う（Planktos）」「植物（Phyton）」。この微細な命の欠片たちが、全地球の酸素の半分を産み出し、海という名のピラミッドのすべてを支えている、目に見えぬ巨人の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "zooplankton_",
+		"word": "Zooplankton",
+		"meaning": "動物（どうぶつ）プランクトン",
+		"etymology": [
+			"Greek zoon (animal) + planktos"
+		],
+		"concept": "Small drifting animals",
+		"thinking": "「漂う（Planktos）」「生き物（Zoon）」。植物プランクトンを喰らい、巨大なクジラの糧となる。海という名の巨大なエネルギーの、最初の『変換者』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "bioluminesce",
+		"word": "Biolumines",
+		"meaning": "生物（せいぶつ）発光（はっこう）",
+		"etymology": [
+			"Greek bios + Latin lumen (light)"
+		],
+		"concept": "Light produced by living things",
+		"thinking": "「命（Bios）」が放つ「光（Lumen）」。漆黒の深海で、敵を騙し、仲間を呼び、獲物を誘う。冷たく美しい、化学的な「貌（しるし）」。闇を切り裂く、命の最も孤独な輝き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "chemosynthes",
+		"word": "Chemosynthe",
+		"meaning": "化学（かがく）合成（ごうせい）",
+		"etymology": [
+			"Chemical + Greek synthesis"
+		],
+		"concept": "Energy from chemicals",
+		"thinking": "「光」ではなく、「化学物質（Chemical）」から「命を組み立てる（Synthesis）」。太陽という名の神を必要としない、もう一つの、自給自足の不敵な生命の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "brine_pool_a",
+		"word": "Brine Pool",
+		"meaning": "ブライン・プール、海底（かいてい）塩水（えんすい）湖（こ）",
+		"etymology": [
+			"Old English bryne (salt water) + Pool"
+		],
+		"concept": "Saline lake on seafloor",
+		"thinking": "海の中に横たわる、もう一つの「塩（Brine）」の「湖（Pool）」。あまりの塩分濃度に、他の命を寄せ付けない漆黒の鏡。その境界を越えることは、即ち死を意味する、海の内部の絶海。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "ocean_acidif",
+		"word": "Acidificat",
+		"meaning": "海洋（かいよう）酸性（さんせい）化（か）",
+		"etymology": [
+			"Latin acidus (sour/sharp)"
+		],
+		"concept": "Dropping ocean pH",
+		"thinking": "海が「酸っぱく（Acid）」、鋭くなっていく。私たちが吐き出した炭酸ガスが海を溶かし、サンゴの殻や命の礎を蝕む。地球という名の巨大な肺が、静かに悲鳴を上げている、見えない危機の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "eustatic_sea",
+		"word": "Eustasy",
+		"meaning": "海水（かいすい）準位（じゅんい）変動（へんどう）",
+		"etymology": [
+			"Greek eu- (good) + stasis (standing)"
+		],
+		"concept": "Global sea level change",
+		"thinking": "「正しく（Eu-）」「立つ（Stasis）」。氷河が溶け、大陸が動き、海面という名の世界共通の『水位（貌）』が上下する。一万年の後、今の都会は海の底の静かな墓標になっているかもしれないという、時間の重圧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "ocean_convey",
+		"word": "Ocean Convey",
+		"meaning": "大循環（だいじゅんかん）、コンベア・ベルト",
+		"etymology": [
+			"Latin con- + vehere (to carry together)"
+		],
+		"concept": "Global circulation system",
+		"thinking": "「共に（Con-）」「運ぶ（Vehere）」。水だけでなく、熱、酸素、栄養、そして歴史を全世界の海へと届ける、地球の生命維持装置。一度止まれば、世界は氷河の闇か、灼熱の砂漠へと沈む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "estuary_adv_",
+		"word": "Estuary",
+		"meaning": "河口（かこう）域（いき）、汽水域（きすいいき）",
+		"etymology": [
+			"Latin aestuarium (tidal/boiled)"
+		],
+		"concept": "Where river meets sea",
+		"thinking": "潮の「満ち引き（Aestu-）」によって、淡水と海水が「沸き（混ぜ）」合う場所。二つの世界の境界線。どちらにも住めない者、どちらにも住める者が交錯する、命の最も激しく、最も豊かな交差点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "mangrove_eco",
+		"word": "Mangrove",
+		"meaning": "マングローブ",
+		"etymology": [
+			"Portuguese mangue + English grove"
+		],
+		"concept": "Coastal saline forests",
+		"thinking": "海に足を浸し、潮風を吸って森を作る。塩分を濾過し、根っこで魚たちの赤ん坊を守る、海の守護者。陸と海の絆を、自らの肉体で結びつける、しなやかな共生の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "coral_bleach",
+		"word": "Bleaching",
+		"meaning": "サンゴの白化（はっか）現象（げんしょう）",
+		"etymology": [
+			"Old English blaecan (to whiten)"
+		],
+		"concept": "Loss of symbiotic algae",
+		"thinking": "色が「白く（Bleach）」抜けていく。熱に耐えかねたサンゴが、共生する藻類を追い出してしまう。それは拒絶であり、絶望であり、緩やかな死への宣告。色彩を失った海は、命の物語を語ることをやめてしまう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "plastic_gyre",
+		"word": "Plastic Gyre",
+		"meaning": "プラスチックごみベルト、還流（かんりゅう）",
+		"etymology": [
+			"Greek gyros (ring/circle)"
+		],
+		"concept": "Swirl of plastic in ocean",
+		"thinking": "海流の「輪（Gyre）」の中に、私たちが捨てた欲望の残骸が渦巻いている。数万年も消えない偽物の宝石。地球という名の庭に、私たちが刻んだ、最も醜く、最も消えにくい文明の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "sonar_analys",
+		"word": "Sonar",
+		"meaning": "ソナー、水中（すいちゅう）音波（おんぱ）探知（たんち）",
+		"etymology": [
+			"Sound + Navigation + Ranging"
+		],
+		"concept": "Finding things via sound",
+		"thinking": "暗闇を「音（Sound）」で見る。耳で描き出す、三次元の彫刻。イルカが、そして潜水艦が、見えないはずの深淵を『響き』の地図へと変容させる、情報の共鳴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "submersible_",
+		"word": "Submersible",
+		"meaning": "潜水（せんすい）艇（てい）",
+		"etymology": [
+			"Latin sub- (under) + mergere (to dip)"
+		],
+		"concept": "Small underwater craft",
+		"thinking": "海の「下（Sub-）」へと「沈み（Merge）」、人間を運ぶ小さな鉄の殻。外界の凄まじい水圧を受け止め、たった一つのレンズ越しに、かつて誰も見たことのない神々の庭を覗き見る、好奇心という名の鎧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "maritime_adv",
+		"word": "Maritime",
+		"meaning": "海洋（かいよう）の、海事（かいじ）の",
+		"etymology": [
+			"Latin mare (sea)"
+		],
+		"concept": "Relating to the sea",
+		"thinking": "「海（Mare）」に関わること。航路、掟、歴史。人間が海と交わしてきた、数千年の闘争と共存の全記録。陸に縛られた私たちの、もう一つの『境界なき故郷』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "littoral_zon",
+		"word": "Littoral",
+		"meaning": "沿岸（えんがん）の",
+		"etymology": [
+			"Latin litus (seashore)"
+		],
+		"concept": "Relating to the shore",
+		"thinking": "「岸辺（Litus）」に生きること。潮に洗われ、風に吹かれ、陸の乾きと海の湿り気の間で揺れ動く、命の最もダイナミックな最前線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "nekton_bio_a",
+		"word": "Nekton",
+		"meaning": "ネクトン、自力（じりき）遊泳（ゆうえい）生物（せいぶつ）",
+		"etymology": [
+			"Greek nektos (swimming)"
+		],
+		"concept": "Active swimmers",
+		"thinking": "潮の流れに抗い、自らの意志で「泳ぐ（Nektos）」者たち。魚、クジラ、イカ。漂うだけのプランクトンから解き放たれ、主体的に海を支配しようとする、力強い生の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "octo_intell",
+		"word": "Cephalopod",
+		"meaning": "頭足類（とうそくるい） (知能)",
+		"etymology": [
+			"Greek kephale (head) + pous (foot)"
+		],
+		"concept": "Complex marine intelligence",
+		"thinking": "「頭（Kephale）」から「足（Pous）」が生えた、異質の知性。タコ、イカ。皮膚の色で感情を語り、八本の腕で宇宙を操る。脊椎動物とは全く別の進化を遂げた、海の『もう一種の人間』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "megalodon_ad",
+		"word": "Megalodon",
+		"meaning": "メガロドン",
+		"etymology": [
+			"Greek megas (giant) + odon (tooth)"
+		],
+		"concept": "Giant ancient shark",
+		"thinking": "「巨大な（Megas）」「歯（Odon）」。かつての海の支配者、最恐の牙。たった一つの欠片（歯）から、往時の圧倒的なまでの暴力と生命力を復元する、恐怖と憧憬の象徴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "tritium_trac",
+		"word": "Tritium Tra",
+		"meaning": "トリチウム追跡（ついせき）",
+		"etymology": [
+			"Greek tritos (third)"
+		],
+		"concept": "Using isotopes to map water",
+		"thinking": "放射性の「三重（Tritos）」水素をマーカーにして、海流がどこをどう流れているのかを暴き出す。見えない水の動きを、数理の言葉で捉える、ミクロの情報の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "microplastic",
+		"word": "Microplasti",
+		"meaning": "マイクロプラスチック",
+		"etymology": [
+			"Greek mikros + Plastikos"
+		],
+		"concept": "Tiny plastic fragments",
+		"thinking": "見えないほど「小さく（Mikros）」砕かれた、私たちの文明の恥部。魚に取り込まれ、やがて私たち自身の細胞へと還ってくる。捨てたものは消えないという、宇宙の因果律の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "ocean_warmin",
+		"word": "Ocean Heat",
+		"meaning": "海水（かいすい）温（おん）上昇（じょうしょう）",
+		"etymology": [
+			"Ocean + Heat"
+		],
+		"concept": "Thermal expansion and stress",
+		"thinking": "「熱（Heat）」を蓄えた海。それは単なる温度変化ではない。膨張し、荒れ狂う嵐を産み、静かなる絶滅を加速させる。地球の感情が「怒り」へと転じている、蒼き熱気の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "anoxia_ocean",
+		"word": "Anoxia",
+		"meaning": "貧（びん）酸素（さんそ）状態（じょうたい）",
+		"etymology": [
+			"Greek a- (without) + oxys (sour)"
+		],
+		"concept": "Oxygen-depleted water",
+		"thinking": "「酸素（Oxys）」が「ない（A-）」。海原の窒息。かつての大絶滅をもたらした、音も光もない死の海の再来。息ができないすべての命の、沈黙という名の叫び。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "overfishing_",
+		"word": "Overfishing",
+		"meaning": "過剰（かじょう）漁獲（ぎょかく）",
+		"etymology": [
+			"Over + Fish"
+		],
+		"concept": "Depleting fish stocks",
+		"thinking": "「獲り（Fish）」すぎる（Over）。命という名の資本を削り、再生産の限界を越えて欲望を貪る。明日食べるものがなくなることよりも、今の利益を重んじる、略奪という文化の果て。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "mariculture_",
+		"word": "Mariculture",
+		"meaning": "海洋（かいよう）養殖（ようしょく）",
+		"etymology": [
+			"Latin mare + cultura"
+		],
+		"concept": "Farming in the sea",
+		"thinking": "海を「耕す（Culture）」。略奪から共生へ。海という名の広大な畑で、命を育み、未来へと繋ぐ。それは自然への服従ではなく、調和という名の新しい支配の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "blue_economy",
+		"word": "Blue Econom",
+		"meaning": "ブルーエコノミー",
+		"etymology": [
+			"Blue + Greek oikonomia"
+		],
+		"concept": "Sustainable ocean economy",
+		"thinking": "「蒼き（Blue）」海を壊さず、その豊かさを「分かち合う（Oikonomia）」。経済と環境を敵対させるのではなく、海という巨大なシステムの響きに合わせて、文明の形を整える勇気。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "ocean_sanctu",
+		"word": "Sanctuary",
+		"meaning": "海洋（かいよう）保護（ほご）区（く）",
+		"etymology": [
+			"Latin sanctus (holy)"
+		],
+		"concept": "Protected marine area",
+		"thinking": "「聖なる（Sanctus）」場所。人間の欲望を一切立ち入らせない、命だけの聖域。傷ついた海が自らを癒し、再び生命の祝祭を始めるための、祈りと決意の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "navigational",
+		"word": "Navigation",
+		"meaning": "航海（こうかい）術（じゅつ）",
+		"etymology": [
+			"Latin navis (ship) + agere (to drive)"
+		],
+		"concept": "Art of directing a ship",
+		"thinking": "「船（Navis）」を「操る（Agere）」。星を見、風を読み、孤独な蒼の真ん中で、目的地という名の『希望』へと真っ直ぐに突き進む知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "bathyscaphe_",
+		"word": "Bathyscaphe",
+		"meaning": "バチスカーフ、深海（しんかい）探査（たんさ）船（せん）",
+		"etymology": [
+			"Greek bathys (deep) + skaphe (boat/bowl)"
+		],
+		"concept": "Deep-sea diving vessel",
+		"thinking": "「深い（Bathys）」海の「器（Skaphe）」。鉄の球体。限界水圧に押し潰されそうになりながらも、一筋の光を深淵に投げかける、人間の好奇心の結晶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "isostasy_adv",
+		"word": "Isostasy",
+		"meaning": "アイソスタシー、地殻（ちかく）均衡（きんこう）",
+		"etymology": [
+			"Greek isos (equal) + stasis (standing)"
+		],
+		"concept": "Buoyancy of Earth's crust",
+		"thinking": "「等しく（Isos）」「立つ（Stasis）」。大陸という巨大な氷山が、マントルという名の海に浮いているバランス。山が高ければ根も深く。地球の貌は、この静かなる『重力の対話』で保たれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
+	},
+	{
+		"id": "eternity_oce",
+		"word": "The Abyss",
+		"meaning": "深淵（しんえん）、永遠（えいえん）の海（うみ）",
+		"etymology": [
+			"Greek abyssos (bottomless)"
+		],
+		"original_statement": "The ultimate origin and end of life.",
+		"concept": "The timeless core of the Earth",
+		"thinking": "「底（Byssos）」なき（A-）場所。光も届かず、時間すら止まったかのような永遠の静止。しかしそこは、すべての命が産まれ、最後には還っていく、地球という名の巨大な魂の源泉であるということ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "蒼き深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と海洋生物学の極致へ。"
+			]
+		},
+		"example": "Oceanography explores the mysteries of the deep sea."
 	}
 ];
