@@ -397413,5 +397413,805 @@ const WORDS = [
 			]
 		},
 		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "postcolonial",
+		"word": "Postcolon",
+		"meaning": "ポストコロニアル理論（りろん）",
+		"etymology": [
+			"Latin post- + Colonia (farm/settled land)"
+		],
+		"concept": "Study of colonial legacy",
+		"thinking": "植民地支配の「後（Post）」に来るもの。物理的な支配が終わってもなお、魂の深層、言葉、そして思考の枠組みを縛り続ける「見えない鎖（貌）」を暴き出す批評の刃。剥奪された声を、再び取り戻そうとする血を吐くような抵抗の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "hybridity_ad",
+		"word": "Hybridity",
+		"meaning": "ハイブリディティ、混淆（こんこう）性（せい）",
+		"etymology": [
+			"Latin hybrida (mongrel)"
+		],
+		"concept": "Mixing of cultures",
+		"thinking": "支配者の文化と、被支配者の文化が、暴力的な衝突の果てに「混ざり合い（Hybrida）」、産み落とした第三の新しい『貌』。それは純粋さを汚すものではなく、むしろ支配者の単一的な秩序を内部から解体する、不敵な生存の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "mimicry_adv_",
+		"word": "Mimicry (P)",
+		"meaning": "ミミクリ、模倣（もほう） (ポストコロニアル)",
+		"etymology": [
+			"Greek mimikos"
+		],
+		"concept": "Imitation as subversion",
+		"thinking": "「模倣（Mimic）」。支配者の言葉や振る舞いを真似る。一見、屈服しているように見えるが、その『僅かなズレ』の中に、支配者の滑稽さと虚構を映し出す鏡。従順を装った、命がけのパロディ（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "diaspora_adv",
+		"word": "Diaspora",
+		"meaning": "ディアスポラ、離散（りさん）",
+		"etymology": [
+			"Greek dia- (across) + speirein (to sow)"
+		],
+		"concept": "Dispersal of people from home",
+		"thinking": "故郷から「あちこちへ（Dia-）」「撒き散らされた（Speirein）」種（人々）。帰るべき場所を失い、異郷の地で自分たちの貌（アイデンティティ）を紡ぎ直す、終わりなき彷徨の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "eurocentri_a",
+		"word": "Eurocentri",
+		"meaning": "ヨーロッパ中心（ちゅうしん）主義（しゅぎ）",
+		"etymology": [
+			"Europe + Greek kentron (center)"
+		],
+		"concept": "Focus on European values",
+		"thinking": "「ヨーロッパ」が世界の「中心（Center）」であり、唯一の普遍であるという傲慢な真理。それ以外の歴史、知恵、美を「周辺」へと追いやり、矮小化する、目に見えない情報の暴力装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "hegemony_adv",
+		"word": "Hegemony (P)",
+		"meaning": "ヘゲモニー、文化（ぶんか）的（てき）覇権（はけん）",
+		"etymology": [
+			"Greek hegemonia (leadership)"
+		],
+		"concept": "Dominance through consent",
+		"thinking": "武力ではなく、「常識」や「価値観」を支配することで、被支配者に『自発的に』服従させる技術。支配される者が、支配者の貌（思想）を自らのものとして愛し始めてしまう、洗練された魂の統治の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "intersectio",
+		"word": "Intersectio",
+		"meaning": "交差（こうさ）性（せい）、インターセクショナリティ",
+		"etymology": [
+			"Latin inter- + secare (to cut)"
+		],
+		"concept": "Overlapping social identities",
+		"thinking": "「人種」「階級」「性」。複数の抑圧の軸が「交差（Intersect）」し、重なり合う場所。黒人であり、かつ女性であることの、単なる足し算ではない独自の苦しみと強さ。幾重にも織りなされた、存在の重層的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "essentialism",
+		"word": "Essentialis",
+		"meaning": "本質（ほんしつ）主義（しゅぎ） (批判（ひはん）)",
+		"etymology": [
+			"Latin essentia (essence)"
+		],
+		"concept": "Belief in fixed traits",
+		"thinking": "「〇〇人とはこういうものだ」という、固定された「本質（Essence）」を押し付ける思考。それは人をレッテルの中に閉じ込め、変化と多様性の貌を奪う、思考の檻（貌）である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "strategic_es",
+		"word": "Strat Essen",
+		"meaning": "戦略（せんりゃく）的（てき）本質（ほんしつ）主義（しゅぎ）",
+		"etymology": [
+			"Strategic + Essentialism"
+		],
+		"concept": "Temporary use of group identity",
+		"thinking": "本質主義の危うさを知りつつ、あえて「私たちは〇〇だ」と団結の『貌』を纏う戦略。連帯し、戦い、権力を勝ち取るための、方便としてのアイデンティティの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "othering_adv",
+		"word": "Othering",
+		"meaning": "他者（たしゃ）化（か）",
+		"etymology": [
+			"Other"
+		],
+		"concept": "Treating others as different/alien",
+		"thinking": "自分たちとは異なる「他者（Other）」というラベルを貼り、人間性を剥ぎ取るプロセス。理解を拒み、排除と支配を正当化するための、心の冷徹な境界線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "double_consc",
+		"word": "Double Cons",
+		"meaning": "二重（にじゅう）の意識（いしき） (デュボイス)",
+		"etymology": [
+			"Double + Conscious"
+		],
+		"concept": "Seeing self through others' eyes",
+		"thinking": "「自分自身の貌」と「支配者の目から見た自分」の間に、意識が引き裂かれる苦しみ。常に自分を見張り、自分を軽蔑するように強いられる、抑圧の深層心理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "neocoloniali",
+		"word": "Neocolonial",
+		"meaning": "新（しん）植民地（しょくみんち）主義（しゅぎ）",
+		"etymology": [
+			"Greek neos (new) + Colonialism"
+		],
+		"concept": "Economic/cultural control",
+		"thinking": "軍隊を引いた後も、経済や文化、情報のインフラを通じて実質的な支配を続ける「新しい（Neo）」隷属の貌。グローバル化の美名の下に隠された、目に見えないプランテーション。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "creolizatio",
+		"word": "Creolizati",
+		"meaning": "クレオール化（か）",
+		"etymology": [
+			"Spanish criollo (native)"
+		],
+		"concept": "Emergence of new shared culture",
+		"thinking": "異なる背景を持つ人々が、異郷の地で出会い、摩擦し、新しい、誰のものでもない『共通の貌（言葉）』を産み落とす奇跡。支配を越えて、新しい人間性が芽生える豊饒な大地。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "decolonizat",
+		"word": "Decolonize",
+		"meaning": "脱（だつ）植民地（しょくみんち）化（か）、脱（だつ）植民（しょくみん）地（ち）化（か） (心)",
+		"etymology": [
+			"De- + Colonia"
+		],
+		"concept": "Freeing mind from colonial rules",
+		"thinking": "土地の解放だけでなく、支配者の美学、言語、価値観によって侵食された「自分の心」から、毒を「取り除く（De-）」。自らの声で語り、自らの貌で世界を祝福するための、最も困難で崇高な革命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "epistemic_v",
+		"word": "Epistemic V",
+		"meaning": "知識（ちしき）的（てき）暴力（ぼうりょく）",
+		"etymology": [
+			"Greek episteme (knowledge) + Violence"
+		],
+		"concept": "Discrediting others' knowledge",
+		"thinking": "「知る（Episteme）」ことの暴力。他者の持つ知恵や言葉を「迷信」や「無知」として切り捨て、自らの真理のみを絶対とする略奪。銃よりも深く、魂の根源を破壊する思考の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "abrogation_",
+		"word": "Abrogation",
+		"meaning": "廃止（はいし）、破棄（はき） (言語)",
+		"etymology": [
+			"Latin ab- + rogare (to ask/propose a law)"
+		],
+		"concept": "Rejecting colonial language norm",
+		"thinking": "支配者の正しい文法、正しい発音を「拒絶（Ab-）」し、敢えて壊れた、独自の訛りを持った言葉として使い倒す。言語という名の権威を内部から無効化する、不敵な意思の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "appropriati",
+		"word": "Appropriati",
+		"meaning": "領有（りょうゆう）、転用（てんよう）",
+		"etymology": [
+			"Latin ad- + proprius (one's own)"
+		],
+		"concept": "Taking colonial tools for own use",
+		"thinking": "支配者の道具（言葉、形式）を「自らのもの（Proprius）」へと「奪い去り（Ad-）」、本来の意図とは逆の目的（解放）のために使いこなす。敵の武器で敵を撃つ、情報のゲリラ戦の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "settler_col",
+		"word": "Settler Col",
+		"meaning": "入植（にゅうしょく）者（しゃ）型（がた）植民地（しょくみんち）主義（しゅぎ）",
+		"etymology": [
+			"Settler + Colonialism"
+		],
+		"concept": "Replacing indigenous population",
+		"thinking": "資源を奪うだけでなく、その土地に「住み着き（Settle）」、先住民を絶滅、あるいは隔離して、自らが『正当な主（貌）』になり代わろうとする、底なしの忘却と略奪の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "white_fragil",
+		"word": "Wh Fragilit",
+		"meaning": "白人（はくじん）の脆弱（ぜいじゃく）性（せい）",
+		"etymology": [
+			"White + Latin fragilis (breakably)"
+		],
+		"concept": "Defensiveness about racism",
+		"thinking": "特権を指摘された瞬間に、過剰な拒絶、沈黙、あるいは怒りを見せる、脆くも強固な心の障壁。自らの『貌（善意の虚構）』を守るために、対話を拒む無意識の心理学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "microaggress",
+		"word": "Microaggres",
+		"meaning": "マイクロアグレッション",
+		"etymology": [
+			"Greek mikros + Latin aggressio"
+		],
+		"concept": "Brief everyday indignities",
+		"thinking": "「小さき（Mikros）」攻撃（Aggression）」。悪意なき一言、何気ない視線。それが毎日、毎時間、雨のように降り注ぎ、少しずつ他者の魂を削り取っていく、沈黙の侵食の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "color_blind",
+		"word": "Color-Blind",
+		"meaning": "色彩（しきさい）盲（もう）的（てき）人種（じんしゅ）主義（しゅぎ）",
+		"etymology": [
+			"Color + Blind"
+		],
+		"concept": "Ignoring racism to maintain it",
+		"thinking": "「私は色（人種）なんて見ない」という善意の仮面の裏で、現存する不平等の構造を温存し、被害者の声を「思い込み」として切り捨てる、最も洗練され、最も無自覚な差別の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "systemic_ra",
+		"word": "Systemic Ra",
+		"meaning": "システム的（てき）人種（じんしゅ）主義（しゅぎ）",
+		"etymology": [
+			"Greek sustema (organized whole)"
+		],
+		"concept": "Racism embedded in society",
+		"thinking": "個人の悪意の問題ではない。法、教育、医療といったあらゆる「仕組み（System）」の中に、最初から差別という名の歪みが組み込まれているという冷厳な事実。誰もが悪人でなくても、差別という貌が産まれ続ける情報の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "performativ",
+		"word": "Performativ",
+		"meaning": "遂行（すいこう）性（せい）",
+		"etymology": [
+			"Latin per- + formare (to form/shape)"
+		],
+		"concept": "Speech creating reality",
+		"thinking": "言葉は何かを述べるだけでなく、世界を「形作る（Form）」。ある人を「〇〇」と呼ぶことで、社会的な監獄を作り上げる。言葉という名の行為、その凄まじき力の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "subversion_",
+		"word": "Subversion",
+		"meaning": "転覆（てんぷく）、サヴァージョン",
+		"etymology": [
+			"Latin sub- (under) + vertere (to turn)"
+		],
+		"concept": "Overturning power structures",
+		"thinking": "権力の「下（Sub-）」から、そっと「ひっくり返す（Vert-）」。正面衝突ではなく、意味をずらし、パロディにし、秘密の回路を繋ぎ合わせることで、巨大な秩序を内部から崩壊させる、情報の狡猾な刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "allegory_ad",
+		"word": "Allegory (P)",
+		"meaning": "寓話（ぐうわ） (ポストコロニアル)",
+		"etymology": [
+			"Greek allos (other) + agoreuein (speak in public)"
+		],
+		"concept": "Telling home story via myths",
+		"thinking": "「他者の言葉（Allos）」を借りて、公の場（Agora）で真実を語る。直接言えば殺される真実を、神話や物語の影に隠して届ける。抑圧の下で産み出された、重層的な情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "magic_reali",
+		"word": "Magic Real",
+		"meaning": "魔術（まじゅつ）的（てき）リアリズム",
+		"etymology": [
+			"Magic + Realism"
+		],
+		"concept": "Myth embedded in daily life",
+		"thinking": "残酷な現実の中に、突如として「魔術（神話）」が立ち上がる。合理主義という名の支配者の理屈を、幻想という名の圧倒的な『生のバイタリティ』で食い破る、抵抗の文体（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "contrapunta",
+		"word": "Contrapunt",
+		"meaning": "対位法（たいいほう）的（てき）読解（どっかい）",
+		"etymology": [
+			"Latin contra- + punctum (point counter point)"
+		],
+		"concept": "Reading with both views",
+		"thinking": "メロディと伴奏のように、支配者の視点と被支配者の視点を「同時に（Counter）」鳴り響かせる。美しき古典文学の影に隠された、植民地の血と汗を暴き出す、聴覚的な批評の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "nation_nara",
+		"word": "Nat Narrat",
+		"meaning": "国民（こくみん）という物語（ものがたり）",
+		"etymology": [
+			"Latin natio + Narratio"
+		],
+		"concept": "Building national identity",
+		"thinking": "「国民（Nation）」は自然に存在するのではない。物語（叙事詩、歴史、教科書）によって、私たちが「一つの共有された貌（アイデンティティ）」を持っていると信じ込まされているに過ぎないという虚構の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "third_space",
+		"word": "Third Spac",
+		"meaning": "第三（だいさん）の空間（くうかん） (ホミ・バーバ)",
+		"etymology": [
+			"Third + Space"
+		],
+		"concept": "Linal hybrid area for change",
+		"thinking": "AでもBでもない、その「あわい」に産まれる新しい可能性。二つの文化が衝突し、意味が不確定になる不安定な場所。そこにこそ、新しい人間性が立ち上がる「自由の貌」がある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "contact_zon",
+		"word": "Contact Zon",
+		"meaning": "コンタクト・ゾーン、接触（せっしゅく）領域（りょういき）",
+		"etymology": [
+			"Latin con- + tangere (to touch)"
+		],
+		"concept": "Space of colonial encounter",
+		"thinking": "「共に（Con-）」「触れ合う（Tangere）」場所。それは対等な出会いではなく、非対称な権力が激突し、掠奪、模倣、そして新しい意味が産まれる混沌とした戦場の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "negritude_a",
+		"word": "Negritude",
+		"meaning": "ネグリチュード、黒人（こくじん）性（せい）の自覚（じかく）",
+		"etymology": [
+			"French negritude (blackness)"
+		],
+		"concept": "Affirming Black identity",
+		"thinking": "かつて蔑称であった「黒（Negre）」をあえて誇り高く引き受け、独自の美、哲学、感性を叫び、歌い上げる。支配者の色を脱ぎ捨て、自らの肉体の貌を慈しむための魂の革命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "whiteness_a",
+		"word": "Whiteness",
+		"meaning": "ホワイトネス、白人（はくじん）性（せい）の研究（けんきゅう）",
+		"etymology": [
+			"White"
+		],
+		"concept": "Invisible norm of Whites",
+		"thinking": "「白人」であることを、人種ではなく「透明な標準（貌）」として無意識に享受する特権。その『透明さ』に光を当て、それが歴史的に構成された偏った権力構造であることを暴き出す情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "indigeneity",
+		"word": "Indigeneit",
+		"meaning": "先住民（せんじゅうみん）性（せい）",
+		"etymology": [
+			"Latin indigena (born in a place)"
+		],
+		"concept": "Indigenous identity",
+		"thinking": "その土地に「産まれた（Native）」者としての根源的な繋がり。奪われた大地、奪われた言葉。しかし消えぬ魂の落款。歴史の断層から立ち上がる、最も古く、最も新しい生存の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "internaliza",
+		"word": "Internalize",
+		"meaning": "内面（ないめん）化（か） (抑圧)",
+		"etymology": [
+			"Latin inter- + natus"
+		],
+		"concept": "Absorbing social values/prejudice",
+		"thinking": "支配者の「差別」や「軽蔑」を、いつの間にか「自分自身の声」として「内側（Internal）」に取り込んでしまう不幸。自分を一番の敵として育てる、魂の最も深い植民化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "panopticon_",
+		"word": "Panopticon",
+		"meaning": "パノプティコン、一望（いちぼう）監視（かんし） (権力)",
+		"etymology": [
+			"Greek pan- (all) + optikos (view/eye)"
+		],
+		"concept": "All-seeing surveillance",
+		"thinking": "「すべて（Pan-）」を「見る（Opt-）」。監視されているかどうかわからない。しかし「見られているかもしれない」という恐怖から、人は自ら自分の貌を規律へと矯正し始める。権力が最も洗練された瞬間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "critical_ra",
+		"word": "CRT (Critical Race)",
+		"meaning": "批判（ひはん）的（てき）人種（じんしゅ）理論（りろん） (CRT)",
+		"etymology": [
+			"Critical + Race + Theory"
+		],
+		"concept": "Law and race power analysis",
+		"thinking": "人種差別は「個人の心の汚れ」ではなく、「法律と社会のOS」であるという告発。中立を装う法の貌を剥ぎ、その背後にある権力の差配を暴き出す、最も激烈で誠実な知性の闘争。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "posthumanis",
+		"word": "Posthuman",
+		"meaning": "ポストヒューマニズム",
+		"etymology": [
+			"Latin post- + Humanus"
+		],
+		"concept": "Beyond the human norm",
+		"thinking": "支配者のための「人間（Human）」という定義を捨て去る。機械、動物、微生物との越境。単一の『中心』を持たぬ、分散し、混ざり合う、新しい命の貌へ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "subaltern_ra",
+		"word": "Subal Voice",
+		"meaning": "サバルタンの声（こえ）の響（ひび）き",
+		"etymology": [
+			"Subaltern"
+		],
+		"concept": "The echo of the unrepresented",
+		"thinking": "記録に残らなかった、しかし確かに存在した何兆というため息、祈り、叫び。文献学者の、あるいは詩人の想像力という名の刃によって、その『沈黙の響き（貌）』に一瞬だけ輪郭を与える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "restorative",
+		"word": "Rest Justice",
+		"meaning": "修復（しゅうふく）的（てき）正義（せいぎ）",
+		"etymology": [
+			"Restorative + Justice"
+		],
+		"concept": "Healing over punishment",
+		"thinking": "罰を与えるのではなく、傷ついた関係と魂を「修復（Restore）」することを目指す。過去の傷跡を消すのではなく、それを抱えながら新しい貌へと歩み出すための、和解という名の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "emancipatio",
+		"word": "Emancipate",
+		"meaning": "解放（かいほう）",
+		"etymology": [
+			"Latin e- + manus (hand) + capere (to take)"
+		],
+		"concept": "Setting free from bondage",
+		"thinking": "他者の「手（Manus）」から「奪い（Capere）」「外（Ex-）」へと解き放つこと。所有物、あるいは道具としての貌を捨て、自らの意志で大地を踏む権利を取り戻す。自由という名の原初の貌の獲得。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差別の深淵を、批評の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ポストコロニアル文学と批判的人種理論の極致へ。"
+			]
+		},
+		"example": "Post-colonial literature examines the legacy of colonial rule."
 	}
 ];
