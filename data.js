@@ -396613,5 +396613,805 @@ const WORDS = [
 			]
 		},
 		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "abstract_alg",
+		"word": "Abs Algebra",
+		"meaning": "抽象代数学（ちゅうしょうだいすうがく）",
+		"etymology": [
+			"Latin ab- + trahere (draw away) + Algebra"
+		],
+		"concept": "Study of algebraic structures",
+		"thinking": "具体的な数字を捨て去り、その背後に潜む「形式」や「演算の理」を「引き出す（Abstract）」。数そのものではなく、数が織りなす『構造（貌）』の美しさを抽出する、数理の最も峻厳で自由な飛躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "group_theory",
+		"word": "Group Theo",
+		"meaning": "群論（ぐんろん）",
+		"etymology": [
+			"Group (German Gruppe) + Greek theoria"
+		],
+		"concept": "Study of symmetry and sets",
+		"thinking": "「対称性」の数学。ただの集まりではなく、ある決まったルール（演算）で結ばれた要素たちの『響き合い』。回転、鏡映、そして素粒子のダンス。この世のあらゆる形（貌）を司る、見えない美の骨格。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "symmetry_alg",
+		"word": "Symmetry (A)",
+		"meaning": "対称性（たいしょうせい） (代数)",
+		"etymology": [
+			"Greek sun- (together) + metron"
+		],
+		"concept": "Invariance under transform",
+		"thinking": "「共に（Sun-）」「測る（Metron）」。何かを変化させても、本質的な貌が変わらないという不変の理。宇宙の美しさとは、この対称性の綻びと修復のドラマに他ならない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "permutation_",
+		"word": "Permutation",
+		"meaning": "置換（ちかん）",
+		"etymology": [
+			"Latin per- (through) + mutare (to change)"
+		],
+		"concept": "Reordering of elements",
+		"thinking": "要素たちの並びを「徹底的に（Per-）」「変える（Mutare）」。一から十まで、すべてを入れ替える行為そのものを一つの数と見なし、その連鎖の果てに何が残るかを問う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "monoid_adv_v",
+		"word": "Monoid",
+		"meaning": "モノイド",
+		"etymology": [
+			"Greek monos (single) + -oid (like)"
+		],
+		"concept": "Set with assoc op & identity",
+		"thinking": "「一つ（Mono）」の絆。結合法則という規律を守りつつ、自分を自分自身に留める「鏡（単位元）」を持つ集まり。シンプルゆえに、コンピュータから音楽まで、あらゆる継承の貌に潜んでいる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "semigroup_ad",
+		"word": "Semigroup",
+		"meaning": "半群（はんぐん）",
+		"etymology": [
+			"Latin semi- (half) + Group"
+		],
+		"concept": "Set with associative op",
+		"thinking": "群への一歩手前（半：Semi）。戻るための「鍵（逆元）」も、自分を映す「鏡（単位元）」も持たないかもしれない、ただひたすらに前へと進む（結合する）だけの、不自由な情報の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "abelian_grou",
+		"word": "Abelian Gr",
+		"meaning": "アーベル群（ぐん）、可換群（かかんぐん）",
+		"etymology": [
+			"Niels Henrik Abel"
+		],
+		"concept": "Commutative group",
+		"thinking": "「順序を変えても、結果は同じ」。出会う順序が優劣を決めない、平等で穏やかな響き合い。ニールス・アーベルが、五次方程式という名の迷宮の果てに見出した、数理の最も高潔な秩序（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "isomorphism_",
+		"word": "Isomorphism",
+		"meaning": "同型（どうけい）、イソモルフィズム",
+		"etymology": [
+			"Greek isos (equal) + morphe (form)"
+		],
+		"concept": "Structural identity",
+		"thinking": "「同じ（Isos）」「形（Morphe）」。見かけ（数字や名前）は違っても、その内部で交わされる約束（演算）が全く同じであること。別な世界に、自分と全く同じ魂の貌を持つ者を見出す、数理の越境の極地。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "automorphis",
+		"word": "Automorphi",
+		"meaning": "自己同型（じこどうけい）",
+		"etymology": [
+			"Greek autos (self) + morphe"
+		],
+		"concept": "Isomorphism to itself",
+		"thinking": "「自分（Autos）」という貌を、「自分」の中だけで組み替え、しかし全体の構造を損なわない。自らの内なる鏡の中で踊る、純粋な対称性の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "subgroup_adv",
+		"word": "Subgroup",
+		"meaning": "部分群（ぶぶんぐん）",
+		"etymology": [
+			"Latin sub- (under) + Group"
+		],
+		"concept": "Subset that is also a group",
+		"thinking": "巨大な社会（群）の中に隠された、自立した小さな「王国（Sub-）」。外の世界に従いつつも、自分たちだけで完結した理（演算）を持つ、情報のネスト（埋め込み）構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "normal_subgr",
+		"word": "Normal Sub",
+		"meaning": "正規部分群（せいきぶぶんぐん）",
+		"etymology": [
+			"Latin normalis (made by a square)"
+		],
+		"concept": "Subgroup invariant under conj",
+		"thinking": "どの方向（貌）から見ても、その重要性（中心性）が変わらない、特別な部分群。割り算（商群）を可能にする、構造のヒンジ（蝶番）のような理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "quotient_gro",
+		"word": "Quotient G",
+		"meaning": "商群（しょうぐん）",
+		"etymology": [
+			"Latin quotiens (how many times)"
+		],
+		"concept": "Group of equivalence classes",
+		"thinking": "個別の要素を「無視」し、正規部分群というフィルターを通して見た時の「大まかな貌」。細部を削ぎ落とすことで、より高次の真理（代数構造）を浮き彫りにする、情報の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "coset_adv_v",
+		"word": "Coset",
+		"meaning": "剰余類（じょうよるい）、コセット",
+		"etymology": [
+			"Co- + Set"
+		],
+		"concept": "Shifted subgroup",
+		"thinking": "部分群という影を、ある要素によって「平行移動」させて産まれる、世界の平行な断片たち。一つの群を、重なりのない、美しい層（パーティション）へと切り分ける技術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "idempotent_a",
+		"word": "Idempotent",
+		"meaning": "べき等（とう）な、アイデムポテントな",
+		"etymology": [
+			"Latin idem (same) + potentia (power)"
+		],
+		"concept": "Unchanged by repeated action",
+		"thinking": "何度繰り返しても、その「力（Potent）」は「同じ（Idem）」まま。自分の影を何度踏んでも影のまま。変化の中に留まる、絶対的な不動の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "kernel_alg_a",
+		"word": "Kernel (A)",
+		"meaning": "核（かく）、カーネル (代数)",
+		"etymology": [
+			"Old English cyrnel (little seed)"
+		],
+		"concept": "Elements mapped to identity",
+		"thinking": "「無」へと還される、情報の「種（Seed）」。ある写像によって消し去られる、しかしその『消され方』の中に、元の世界の構造のすべてが凝縮されているという、逆説的な情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "image_alg_ad",
+		"word": "Image (A)",
+		"meaning": "像（ぞう） (代数)",
+		"etymology": [
+			"Latin imago"
+		],
+		"concept": "Set of all output values",
+		"thinking": "写像によって届いた、別な世界での「自分の貌（Imago）」。もとの世界をどう反映し、どう美化したか。その『映り具合』を測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "field_alg_ad",
+		"word": "Field (A)",
+		"meaning": "体（たい）、フィールド (代数)",
+		"etymology": [
+			"German Korper (body) / Field"
+		],
+		"concept": "Set with +, -, *, /",
+		"thinking": "加減乗除のすべてが自由にできる、完璧に完結した「世界（Field）」、あるいは「肉体（Body：独）」。実数、複素数、そして有限な数の宇宙。情報の循環が淀みなく行われる、理性の聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "ring_algebra",
+		"word": "Ring (A)",
+		"meaning": "環（かん）、リング (代数)",
+		"etymology": [
+			"German Ring"
+		],
+		"concept": "Set with +, *, dist law",
+		"thinking": "足し算は自由だが、引き算や割り算には制限があるかもしれない、閉じた「輪（Ring）」。整数という、私たちの最も身近で奥深い宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "ideal_alg_ad",
+		"word": "Ideal (A)",
+		"meaning": "イデアル",
+		"etymology": [
+			"Ideal"
+		],
+		"concept": "Subring closed under mult",
+		"thinking": "外からのどんな「掛け算」も、自分たちの中（暗闇）へと引きずり込んでしまう、貪欲な部分構造。かつてはあり得ない「理想的な数」として夢想された、環の深奥の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "polynomial_r",
+		"word": "Poly Ring",
+		"meaning": "多項式（たこうしき）環（かん）",
+		"etymology": [
+			"Greek poly + Latin nomen"
+		],
+		"concept": "Set of all polynomials",
+		"thinking": "変数を無限に「生み出し（Poly）」、それらを「名前（Noun）」として整理する。可能性のすべてを形式の檻に閉じ込め、演算という名の魔法をかけるための場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "module_alg_a",
+		"word": "Module (A)",
+		"meaning": "加群（かぐん）、モジュール",
+		"etymology": [
+			"Latin modulus (small measure)"
+		],
+		"concept": "Generalization of vector space",
+		"thinking": "環という名の支配者が、集合という名の奴隷に「働きかける」仕組み。ベクトルのように伸び縮みし、しかしただの数よりはずっと複雑な貌を持つ、構造の部品たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "linear_alg_a",
+		"word": "Linear Alg",
+		"meaning": "線形代数学（せんけいだいすうがく）",
+		"etymology": [
+			"Latin linea"
+		],
+		"concept": "Study of vector spaces & maps",
+		"thinking": "「線（Line）」の世界の理。重ね合わせ。行列という名の変換器。高次元の宇宙を、一挙に、美しく、そして正確に捌くための、現代科学の最も強力な情報の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "eigenvalue_a",
+		"word": "Eigenvalue",
+		"meaning": "固有値（こゆうち）",
+		"etymology": [
+			"German eigen (own) + Value"
+		],
+		"concept": "Scalar of linear transform",
+		"thinking": "変換という名の嵐の中で、その向き（貌）を変えず、ただ「大きさ」だけが「自分自身（Eigen）」の一部として伸び縮みする比率。システムの『本性』を暴き出す、数理の最も鋭い視線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "eigenvector_",
+		"word": "Eigenvector",
+		"meaning": "固有（こゆう）ベクトル",
+		"etymology": [
+			"Eigen + Vector"
+		],
+		"concept": "Vector unchanged in direction",
+		"thinking": "激動の変化の中で、決して「己の向き（貌）」を変えない不屈の矢。その不変の軸を中心に、世界は回転し、引き伸ばされる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "determinant_",
+		"word": "Determinan",
+		"meaning": "行列式（ぎょうれつしき）、デタミナント",
+		"etymology": [
+			"Latin de- + terminare (to bound)"
+		],
+		"concept": "Volume scaling of transform",
+		"thinking": "世界の「容積」が、変換によってどれほど押し潰され、あるいは拡大されたかを「決定（Determine）」する値。それがゼロになった時、世界は次元を失い、影へと潰れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "inversion_al",
+		"word": "Inverse (A)",
+		"meaning": "逆元（ぎゃくげん）、インバース",
+		"etymology": [
+			"Latin in- + vertere (to turn)"
+		],
+		"concept": "Undo element",
+		"thinking": "「元（向き）」を「ひっくり返す（Vert-）」。行った道を行き止まりにせず、必ず「無（単位元）」へと還るための、情報の後退路。これを持つからこそ、群は自由な運動を保証される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "generator_al",
+		"word": "Generator",
+		"meaning": "生成（せいせい）元（げん）",
+		"etymology": [
+			"Latin generare (to produce)"
+		],
+		"concept": "Elements that create the group",
+		"thinking": "たった一振りの剣（要素）から、無限の宇宙を「産み出す（Generate）」。何度も自分自身を掛け合わせ、繋ぎ合わせることで、すべての貌を網羅する、原初の種 fire。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "cyclic_group",
+		"word": "Cyclic Gr",
+		"meaning": "巡回群（じゅんかいぐん）",
+		"etymology": [
+			"Greek kuklos (wheel/circle)"
+		],
+		"concept": "Group generated by 1 element",
+		"thinking": "「輪（Circle）」のように巡り、最後には元へと還る、最も純粋で閉じた運命。時計の針、曜日の巡り。有限の平穏を司る、円環の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "lattice_alg_",
+		"word": "Lattice (A)",
+		"meaning": "束（そく）、ラティス",
+		"etymology": [
+			"Old French lattis (lath work)"
+		],
+		"concept": "Partially ordered set",
+		"thinking": "「格子」のような、順序の網。どちらが上で、どちらが下か。すべてのペアに最小の「上（結び）」と最大の「下（交わり）」が存在する、情報の厳格な階層の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "braid_group_",
+		"word": "Braid Group",
+		"meaning": "編（あ）み目（め）群（ぐん）、ブレイド群（ぐん）",
+		"etymology": [
+			"Braid"
+		],
+		"concept": "Mathematical braids",
+		"thinking": "糸を「編み上げる」行為を代数にする。絡まり、交差し、解けない結び目。空間の次元を超えて、紐が織りなす『歴史（貌）』を計算可能にする、トポロジーと代数のあわい。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "lie_group_ad",
+		"word": "Lie Group",
+		"meaning": "リー群（ぐん）",
+		"etymology": [
+			"Sophus Lie"
+		],
+		"concept": "Continuous symmetry group",
+		"thinking": "「連続的な」対称性。カチカチと動くのではなく、滑らかに、水のように変化し続ける対称性の貌。物理法則の根底に流れる、宇宙の滑らかなる意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "lie_algebra_",
+		"word": "Lie Algebra",
+		"meaning": "リー代数（だいすう）",
+		"etymology": [
+			"Lie"
+		],
+		"concept": "Tangents of Lie groups",
+		"thinking": "リー群という滑らかな曲面の、ある一点での「傾き（接空間）」。無限の広がりを、一瞬のベクトルの『動きの性質』へと凝縮する、情報の微分化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "galois_theor",
+		"word": "Galois Th",
+		"meaning": "ガロア理論（りろん）",
+		"etymology": [
+			"Evariste Galois"
+		],
+		"concept": "Link between eq and groups",
+		"thinking": "方程式の解の「入れ替え」が、群という名の幾何学を産み出す。二十歳で散った天才が見出した、数と形の隠された結婚。方程式が解けるか否かは、その背後にある対称性の貌（群）が「解ける」かどうかに懸かっている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "solvable_gro",
+		"word": "Solvable Gr",
+		"meaning": "可解群（かかいぐん）",
+		"etymology": [
+			"Latin solvere (to loosen)"
+		],
+		"concept": "Group for solvable equations",
+		"thinking": "「解くことができる」群。複雑な構造を、一つ一つ「解き（Solve）」「バラしていく」ことができる。この貌を持たなかったために、五次以上の方程式は、人類の代数的手段を拒み続けている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "extension_fi",
+		"word": "Field Exten",
+		"meaning": "体（たい）拡大（かくだい）",
+		"etymology": [
+			"Latin ex- + tendere (to stretch out)"
+		],
+		"concept": "Enlarging a field",
+		"thinking": "今の「世界（Field）」を「広げ（Extend）」、新しい数を招き入れる。有理数から実数へ、実数から複素数へ。未知の数（外部の貌）を取り込むことで、世界はより豊かに、より完全に完結していく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "morphism_adv",
+		"word": "Morphism",
+		"meaning": "射（しゃ）、射影（しゃえい） (圏論)",
+		"etymology": [
+			"Greek morphe (form)"
+		],
+		"concept": "Arrow between objects",
+		"thinking": "ある貌から別の貌へと橋を架ける「矢（Morphe）」。要素を持たない「圏」の世界で、唯一の動き、唯一の言葉となる、抽象の極限のダイナミズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "functor_adv_",
+		"word": "Functor",
+		"meaning": "関手（かんしゅ）、ファンクター",
+		"etymology": [
+			"Latin fungi (to perform/function)"
+		],
+		"concept": "Map between categories",
+		"thinking": "「圏」と「圏」を、その構造ごと丸ごと繋ぎ合わせる「巨大な写像（機能）」。ある数学の世界での出来事を、全く別の数学の世界での出来事へと翻訳する、知の超越的な架け橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "adjoint_func",
+		"word": "Adjoint",
+		"meaning": "随伴（ずいはん） (圏論)",
+		"etymology": [
+			"Latin ad- + jungere (to join to)"
+		],
+		"concept": "Closest relationship between funcs",
+		"thinking": "二つのファンクターが、まるで表と裏、鍵と鍵穴のように「寄り添い（Ad-joint）」合っている関係。数学の深奥に潜む、究極の「双対性」の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "monad_adv_v_",
+		"word": "Monad (M)",
+		"meaning": "モナド (数学)",
+		"etymology": [
+			"Greek monas (unit/one)"
+		],
+		"concept": "Endofunctor with extra laws",
+		"thinking": "「単一のもの（Monas）」。自己言及しつつ、情報を包み込み、引き回すための構造。プログラミングの深淵から、数学の至高まで、情報を「文脈」ごと扱うための、神秘的で実利的な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
+	},
+	{
+		"id": "tensor_produ",
+		"word": "Tensor Prod",
+		"meaning": "テンソル積（せき）",
+		"etymology": [
+			"Latin tendere (to stretch)"
+		],
+		"concept": "New space from two spaces",
+		"thinking": "二つの世界を「引き延ばし（Tend）」、新しい次元へと「掛け合わせる」。単純な足し算では届かない、情報の全方位的な爆発。物理学からAIまで、高次元の貌を産み出すための、代数の秘術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の深淵を、抽象の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"抽象代数学と群論の極致へ。"
+			]
+		},
+		"example": "Abstract algebra studies algebraic structures such as groups, rings, and fields."
 	}
 ];
