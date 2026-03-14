@@ -372965,5 +372965,845 @@ const WORDS = [
 			]
 		},
 		"example": "Game theory analyzes strategic interactions."
+	},
+	{
+		"id": "metacognit_ad",
+		"word": "Metacognitio",
+		"meaning": "メタ認知（にんしき）",
+		"etymology": [
+			"Greek meta- + Latin cognoscere (to know)"
+		],
+		"concept": "Thinking about thinking",
+		"thinking": "「知ること（Cognoscere）」を「背後から見守る（Meta-）」。自分が何を考え、何に迷っているのかを一段高い場所から見下ろす、もう一人の自分。理性が暴走しないための、静かなる監視者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "dual_process",
+		"word": "Dual Process",
+		"meaning": "二重過程（にじゅうかてい）理論",
+		"etymology": [
+			"Latin duo + Process"
+		],
+		"concept": "System 1 vs System 2",
+		"thinking": "心の中の「二つの（Duo）」住人。直感的に素速く動く「熱い自分（システム1）」と、論理的にじっくり考える「冷たい自分（システム2）」。そのせめぎ合いこそが、人間の知性の正体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "heuristic_cog",
+		"word": "Heuristics",
+		"meaning": "ヒューリスティック、近道思考",
+		"etymology": [
+			"Greek heuriskein (to find)"
+		],
+		"concept": "Mental shortcuts",
+		"thinking": "完璧な正解を計算する代わりに、経験から「見つけ出す（Heuriskein）」。不正確かもしれないが、一瞬で生き残るための答えを弾き出す、野生の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "cognitive_bia",
+		"word": "Cognitive Bi",
+		"meaning": "認知（にんしき）バイアス",
+		"etymology": [
+			"Latin cognoscere + Old French biais (slant)"
+		],
+		"concept": "Systematic error in thinking",
+		"thinking": "「知ること」の「歪み（Biais）」。正解が見えているはずなのに、希望や恐怖に足を取られて、どうしても間違った方向へと傾いてしまう心の癖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "confirmation_",
+		"word": "Confirm Bias",
+		"meaning": "確証（かくしょう）バイアス",
+		"etymology": [
+			"Latin con- + firmare (to make firm)"
+		],
+		"concept": "Seeking only supportive info",
+		"thinking": "自分の信じたいことを「さらに強く（Firm）」固める証拠ばかりを集めてしまう。自分に都合の悪い真理から目を逸らす、心の防衛本能。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "availability_h",
+		"word": "Availability",
+		"meaning": "利用可能性（りようかのうせい）ヒューリスティック",
+		"etymology": [
+			"Latin ad- + valere"
+		],
+		"concept": "Estimating by easy recall",
+		"thinking": "「思い出しやすい（強烈な）」ことだけを、世界のすべてだと誤認する。稀な悲劇を確率のすべてと見誤る、記憶の不鮮明な重み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "prospect_theo",
+		"word": "Prospect Th",
+		"meaning": "プロスペクト理論",
+		"etymology": [
+			"Latin pro- + specere"
+		],
+		"concept": "Decision under risk",
+		"thinking": "「未来（Pro-spect）」を見据えたとき、人は得る喜びよりも、失う痛みに「二倍」重きを置く。非合理だが、生存という名の究極の目標に最適化された心の形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "loss_aversion_",
+		"word": "Loss Aversio",
+		"meaning": "損失（そんしつ）回避性",
+		"etymology": [
+			"Loss + Latin ab- (away) + vertere"
+		],
+		"concept": "Pain of loss > joy of gain",
+		"thinking": "損をすることから「顔を背ける（Ab-vert）」。失うことの恐怖が、私たちを現状に縛り付け、冒険を躊躇わせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "framing_cog_a",
+		"word": "Framing Cog",
+		"meaning": "フレーミング、額縁（がくぶち）効果",
+		"etymology": [
+			"Old English framian"
+		],
+		"concept": "Presentation shapes choice",
+		"thinking": "「見せ方（Frame）」を変えるだけで、同じ真実が全く違う貌を見せる。言葉の飾り付けによって、私たちの意志は容易に左右される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "anchoring_cog",
+		"word": "Anchoring",
+		"meaning": "アンカリング、係留（けいりゅう）",
+		"etymology": [
+			"Greek agkyra"
+		],
+		"concept": "Dependence on first info",
+		"thinking": "最初に出された数字という名の「錨（Anchor）」に、残りの思考が繋ぎ止められてしまう。一度下りた錨は、二度と引き上げられない呪いとなる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "hindsight_bia_",
+		"word": "Hindsight",
+		"meaning": "後知恵（あとぢえ）バイアス",
+		"etymology": [
+			"Hind + Sight"
+		],
+		"concept": "Creeping determinism",
+		"thinking": "起きてしまった後で、「分かって（Sight）」いたと錯覚する。偶然のドラマを必然の宿命へと書き換えてしまう、知的な虚栄。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "self_efficacy",
+		"word": "Self-efficacy",
+		"meaning": "自己効力感（じここうりょくかん）",
+		"etymology": [
+			"Self + Latin ex- + facere"
+		],
+		"concept": "Belief in one's ability",
+		"thinking": "自分は「成し遂げる（Ex-facere）」ことができるという、根源的な確信。能力そのものよりも、その確信（火）こそが、不可能を可能へと変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "locus_control",
+		"word": "Locus Ctrl",
+		"meaning": "心理的（しんりてき）な制御（せいぎょ）の所在（しょざい）",
+		"etymology": [
+			"Latin locus (place) + Control"
+		],
+		"concept": "Internal vs external control",
+		"thinking": "自分の運命の手綱は、どこにあるのか。自分の「内」か、それとも運命や他者という「外」か。人生の主導権を置く「場所（Locus）」が、生きる勇気を決定づける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "learned_helpl",
+		"word": "Helplessness",
+		"meaning": "学習性（がくしゅうせい）無力感（むりょくかん）",
+		"etymology": [
+			"Help + Less"
+		],
+		"concept": "Giving up after failure",
+		"thinking": "何をしても「助け（Help）」が「ない（Less）」という絶望を「学習」してしまう。逃げられる檻が開いても、もう一歩も動けなくなってしまう、心の凍結。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "executive_fun",
+		"word": "Executive Fn",
+		"meaning": "実行機能（じっこうきのう）",
+		"etymology": [
+			"Latin ex- + sequi (to follow out)"
+		],
+		"concept": "High-level cognitive control",
+		"thinking": "計画を「最後まで（Ex-）」「遂行する（Sequi）」力。目先の誘惑を断ち切り、遠き目標のために今を制御する、脳の中の総司令官。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "working_memor",
+		"word": "Working Mem",
+		"meaning": "ワーキングメモリ、作業記憶",
+		"etymology": [
+			"Work + Latin memoria"
+		],
+		"concept": "Temporary info storage",
+		"thinking": "思考という名の「作業（Work）」をするための、ほんの小さな机。そこに一瞬だけ広げられた断片たちが、意味のネットワークを紡ぎ出す、知性の最前線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "encoding_cog_a",
+		"word": "Encoding Cog",
+		"meaning": "符号化（ふごうか）、エンコーディング",
+		"etymology": [
+			"In- + Code"
+		],
+		"concept": "Converting sensory to memory",
+		"thinking": "移ろいゆく世界の断片を、記憶という名の不変の「暗号（Code）」へと変え、心の深奥に「閉じ込める（In-）」。一瞬を永遠として定着させる、知の最初の魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "retrieval_cog",
+		"word": "Retrieval",
+		"meaning": "想起（そうき）、検索",
+		"etymology": [
+			"French re- + trouver (to find again)"
+		],
+		"concept": "Accessing stored info",
+		"thinking": "闇の中に埋もれた記憶を「再び（Re-）」「見つけ出す（Trouve）」。忘却の海から、かつての自分を釣り上げるための、微かな感覚の糸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "synaptic_plas",
+		"word": "Plasticity",
+		"meaning": "可塑性（かそせい）、神経可塑性",
+		"etymology": [
+			"Greek plastos (molded)"
+		],
+		"concept": "Brain's ability to change",
+		"thinking": "「形作られる（Plastos）」こと。脳は石ではなく、粘土のように常に作り替えられ、経験を刻み込み、新しい自分へと変容し続ける。しなやかな強さの秘訣。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "neurogenesis_",
+		"word": "Neurogenesis",
+		"meaning": "神経発生（しんけいはっせい）",
+		"etymology": [
+			"Greek neuron + genesis"
+		],
+		"concept": "Birth of new neurons",
+		"thinking": "「神経（Neuron）」の「誕生（Genesis）」。いくつになっても、心には新しい思考の芽が産まれる余地があるという、宇宙的な希望の象徴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "prefrontal_co",
+		"word": "Prefrontal",
+		"meaning": "前頭前皮質（ぜんとうぜんひしつ）",
+		"etymology": [
+			"Latin prae- (before) + frons (forehead)"
+		],
+		"concept": "Seat of reason and planning",
+		"thinking": "「額（Frons）」の「一番前（Prae-）」。人間を人間たらしめる、理知と意志の王宮。カオスな原始的欲求を統べ、文明という名の調和を産み出す、知性の尖兵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "amygdala_cog",
+		"word": "Amygdala",
+		"meaning": "扁桃体（へんとうたい）",
+		"etymology": [
+			"Greek amygdale (almond)"
+		],
+		"concept": "Seat of fear and emotion",
+		"thinking": "「アーモンド（Amygdale）」の形をした、心の警報装置。一瞬で恐怖や怒りを爆発させ、生き残るために理性を焼き切る、原始の情熱の火種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "theory_of_min",
+		"word": "Theory of Min",
+		"meaning": "心の理論（りろん）",
+		"etymology": [
+			"Theory + Mind"
+		],
+		"concept": "Understanding others' minds",
+		"thinking": "他者の中にも、自分と同じように「心」があり、望みがあり、嘘があることを理解する。自分という檻を越えて他者へと共鳴する、社会性の根源的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "empathy_cog_a",
+		"word": "Empathy Cog",
+		"meaning": "共感（きょうかん）、エンパシー",
+		"etymology": [
+			"Greek en- (in) + pathos (feeling)"
+		],
+		"concept": "Feeling into others",
+		"thinking": "他者の「苦しみ（Pathos）」の「中（En-）」へと、自らを投げ込む。境界が溶け合い、誰かの痛みが自分の痛みとなる、愛による次元の超越。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "compassion_a",
+		"word": "Compassion",
+		"meaning": "慈悲（じひ）、コンパッション",
+		"etymology": [
+			"Latin con- + pati (to suffer)"
+		],
+		"concept": "Feeling with others to help",
+		"thinking": "他者の苦しみを「共に（Con-）」「耐える（Pati）」。ただ感じるだけでなく、共に立ち上がり、手を差し伸べる。理性を越えた、魂の連帯の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "altruism_cog",
+		"word": "Altruism",
+		"meaning": "利他（りた）主義",
+		"etymology": [
+			"Latin alter (other)"
+		],
+		"concept": "Selfless concern for others",
+		"thinking": "「他者（Alter）」を第一に。自分の利益を削っても、誰かのために火を灯す。冷徹な進化の競争の中で、なぜこの温かき非合理（美徳）が生き残ったのかという、美しき謎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "reciprocity_a",
+		"word": "Reciprocity",
+		"meaning": "報（むく）い、相互（そうご）性",
+		"etymology": [
+			"Latin re- (back) + pro- (forward)"
+		],
+		"concept": "Exchange for mutual benefit",
+		"thinking": "「前へ（Pro-）」与え、「後ろへ（Re-）」報いる。恩を返し、あるいは仇を討つ。繰り返されるこの交換のリズムが、社会という名の巨大な織物を編み上げている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "social_loafin",
+		"word": "Social Loafin",
+		"meaning": "社会的（しゃかいてき）な手抜（てぬ）き",
+		"etymology": [
+			"Social + Loaf (to idle)"
+		],
+		"concept": "Less effort in a group",
+		"thinking": "集団の中に紛れ、自分の力を「怠け（Loaf）」させる。誰も見ていないという安心が、個の輝きを奪い去る、集団という名の静かな影。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "herd_behavior",
+		"word": "Herd Behavio",
+		"meaning": "群集（ぐんしゅう）行動",
+		"etymology": [
+			"Old English heord (herd/flock)"
+		],
+		"concept": "Following the crowd",
+		"thinking": "「群れ（Herd）」の一員になり、自分の意志を捨てて、他者の流れに身を任せる。孤独な自由よりも、間違った安心（同調）を求めて彷徨う、心の脆弱な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "groupthink_ad",
+		"word": "Groupthink",
+		"meaning": "集団思考（しゅうだんしこう）",
+		"etymology": [
+			"Group + Think"
+		],
+		"concept": "Faulty group decisions",
+		"thinking": "「集団（Group）」で考えるあまり、異論を封じ込め、全員で同じ間違いへと突き進む。静かな調和が、思考の死を招くという、連帯の皮肉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "deindividual",
+		"word": "Deindividual",
+		"meaning": "没個性（ぼつこせい）化",
+		"etymology": [
+			"Latin de- + individuus (indivisible)"
+		],
+		"concept": "Loss of self within group",
+		"thinking": "「分けられない個（Individual）」を「失う（De-）」。仮面を被り、匿名性の闇に溶け込んだとき、人は、自分が誰であったかを忘れ、最も残酷で最も自由な怪物となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "ostracism_cog",
+		"word": "Ostracism",
+		"meaning": "村八分（むらはちぶ）、追放",
+		"etymology": [
+			"Greek ostrakon (potsherd)"
+		],
+		"concept": "Exclusion from society",
+		"thinking": "「土器の欠片（Ostrakon）」に名前を書かれ、共同体から弾き出される。それは肉体の死よりも恐ろしい「魂の孤独な漂流」の宣告。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "attachment_th",
+		"word": "Attachment",
+		"meaning": "愛着（あいちゃく）、アタッチメント",
+		"etymology": [
+			"Old French a- + tachier (to fasten)"
+		],
+		"concept": "Bond between child/parent",
+		"thinking": "「固く結びつく（Fasten）」。幼き命が、安全な港（誰か）に繋がり、そこから世界へと冒険に繰り出すための、不滅の綱。この糸が、一生の心の形を決定づける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "temperament_a",
+		"word": "Temperament",
+		"meaning": "気質（きしつ）",
+		"etymology": [
+			"Latin temperare (to mix/moderate)"
+		],
+		"concept": "Natural character",
+		"thinking": "生まれながらに「混ぜ合わされた（Temper）」心の素地。穏やかか、激しいか。教育によっても変えられない、魂の剥き出しの質感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "personality_ad",
+		"word": "Personality",
+		"meaning": "人格（じんかく）、パーソナリティ",
+		"etymology": [
+			"Latin persona (mask/character)"
+		],
+		"concept": "Unique pattern of self",
+		"thinking": "世界に対して被る「仮面（Persona）」。それは偽りではなく、経験と選択によって磨き上げられた『私』という名のたった一つの芸術品。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "conscientious",
+		"word": "Conscientiou",
+		"meaning": "誠実（せいじつ）性、勤勉（きんべん）性",
+		"etymology": [
+			"Latin con- + scire (to know with)"
+		],
+		"concept": "Disciplined and orderly",
+		"thinking": "「共にある（Con-）」「知（Scire）」に従い、自分に嘘をつかず、秩序正しく歩み続ける力。信頼という名の塔を築き上げるための、重厚な石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "neuroticism_a",
+		"word": "Neuroticism",
+		"meaning": "神経症傾向（しんけいしょうけいこう）",
+		"etymology": [
+			"Greek neuron"
+		],
+		"concept": "Negative emotionality",
+		"thinking": "「神経（Neuron）」が微細な刺激にも震え、不安や悲しみの波を敏感に捉えてしまう。脆さでありながら、同時に世界の微かな震えを察知する鋭利なセンサー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "extraversion_",
+		"word": "Extraversion",
+		"meaning": "外向性（がいこうせい）",
+		"etymology": [
+			"Latin extra- (outside) + vertere (to turn)"
+		],
+		"concept": "Energy from outside",
+		"thinking": "心を「外へと（Extra-）」「向ける（Vertere）」。他者や刺激との触れ合いの中にエネルギーを見出し、世界を自らの色で塗りつぶしていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "introversion_",
+		"word": "Introversion",
+		"meaning": "内向性（ないこうせい）",
+		"etymology": [
+			"Latin intro- (inside) + vertere"
+		],
+		"concept": "Energy from inside",
+		"thinking": "心を「内側へと（Intro-）」「向ける（Vertere）」。喧騒を離れ、沈黙と深い思索の森の中に、真実の充電を見出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "resilience_ad",
+		"word": "Resilience",
+		"meaning": "レジリエンス、回復力（かいふくりつ）",
+		"etymology": [
+			"Latin re- + salire (to jump/leap back)"
+		],
+		"concept": "Bouncing back from adversity",
+		"thinking": "踏みつけられても「再び（Re-）」「跳ね上がる（Salire）」。折れるのではなく、しなり、しなやかに元の自分（あるいは新しい自分）へと戻る、不屈の生命力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "self_actualiz",
+		"word": "Self-actualiz",
+		"meaning": "自己実現（じこじつげん）",
+		"etymology": [
+			"Self + Latin actus (act/done)"
+		],
+		"concept": "Reaching full potential",
+		"thinking": "なり得る最高の自分を「現実（Act）」にする。生存の欲求を越えて、自らが持つ可能性のすべてを、この一瞬に爆発させるという魂の究極の目的。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
+	},
+	{
+		"id": "transcend_cog",
+		"word": "Transcendenz",
+		"meaning": "超越（ちょうえつ）",
+		"etymology": [
+			"Latin trans- (across) + scandere (to climb)"
+		],
+		"concept": "Going beyond the self",
+		"thinking": "ちっぽけな「私」という境界を「登り越える（Trans-scend）」。より大きな真理、あるいは他者という名の宇宙へと自分を差し出す、心の最果て。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深奥を、理知の光で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知心理学と意思決定の極致へ。"
+			]
+		},
+		"example": "Cognitive psychology studies human thought processes."
 	}
 ];
