@@ -329506,5 +329506,999 @@ const WORDS = [
 				"真理の核心へ。"
 			]
 		}
+	},
+	{
+		"id": "scheme_math",
+		"word": "Scheme",
+		"meaning": "スキーム、枠組み、計画",
+		"etymology": {
+			"components": [
+				"Greek schema (form / shape)"
+			],
+			"original_statement": "From Greek skhema 'form / figure / appearance'."
+		},
+		"concept": "Generalized geometric form",
+		"thinking": "図形を抽象的な構造の集まりとして再構築した概念。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "sheaf_math",
+		"word": "Sheaf",
+		"meaning": "層（そう）、束",
+		"etymology": {
+			"components": [
+				"Old English sceaf (bundle)"
+			],
+			"original_statement": "From Old English sceaf 'bundle of grain'."
+		},
+		"concept": "Localized data bundle",
+		"thinking": "空間の各領域に情報を貼り付け、それを整合的に繋ぎ合わせる仕組み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "cohomology_sheaf",
+		"word": "Sheaf Cohomology",
+		"meaning": "層のコホモロジー",
+		"etymology": {
+			"components": [
+				"Sheaf",
+				"co-",
+				"homology"
+			],
+			"original_statement": "Measuring global obstructions."
+		},
+		"concept": "Measuring global obstruction",
+		"thinking": "局所的な情報の不一致を全体として数値化する手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "variety_algebraic",
+		"word": "Algebraic Variety",
+		"meaning": "代数多様体",
+		"etymology": {
+			"components": [
+				"Latin varietas"
+			],
+			"original_statement": "Solution set of polynomials."
+		},
+		"concept": "Solution set of polynomials",
+		"thinking": "方程式の解が描く幾何学的な図形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "divisor_math",
+		"word": "Divisor",
+		"meaning": "因子、除数",
+		"etymology": {
+			"components": [
+				"Latin dividere"
+			],
+			"original_statement": "Subspace of codimension one."
+		},
+		"concept": "Subspace of codimension one",
+		"thinking": "図形を分かつ一次元低い障壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "moduli_space",
+		"word": "Moduli Space",
+		"meaning": "モジュライ空間",
+		"etymology": {
+			"components": [
+				"Latin modulus"
+			],
+			"original_statement": "Space of all possibilities."
+		},
+		"concept": "Space of all possibilities",
+		"thinking": "ある種の図形すべてが集まる仮想的な空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "canonical_class",
+		"word": "Canonical Class",
+		"meaning": "標準類",
+		"etymology": {
+			"components": [
+				"Latin canon"
+			],
+			"original_statement": "The intrinsic rule of form."
+		},
+		"concept": "The intrinsic rule of form",
+		"thinking": "図形が持つ最も基本的な規律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "intersection_theory",
+		"word": "Intersection Theory",
+		"meaning": "交点理論",
+		"etymology": {
+			"components": [
+				"Intersection",
+				"Theory"
+			],
+			"original_statement": "The study of how geometric objects meet."
+		},
+		"concept": "Geometry of meeting",
+		"thinking": "図形同士の交わりを精密に測る学問。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "singular_point_math",
+		"word": "Singular Point",
+		"meaning": "特異点",
+		"etymology": {
+			"components": [
+				"Singular"
+			],
+			"original_statement": "A point where a geometric object is not smooth."
+		},
+		"concept": "Non-smooth nexus",
+		"thinking": "図形の尖りや重なりなど、滑らかでない点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "genus_surface",
+		"word": "Genus",
+		"meaning": "種数、穴の数",
+		"etymology": {
+			"components": [
+				"Latin genus"
+			],
+			"original_statement": "Number of holes."
+		},
+		"concept": "Number of holes",
+		"thinking": "図形の本質的な連結性を表す穴の数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "birational",
+		"word": "Birational",
+		"meaning": "双有理な",
+		"etymology": {
+			"components": [
+				"Bi- + Rational"
+			],
+			"original_statement": "Essential equivalence of varieties."
+		},
+		"concept": "Essential equivalence",
+		"thinking": "細部を除いて大部分が同じであること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "characteristic_p",
+		"word": "Characteristic p",
+		"meaning": "標数p",
+		"etymology": {
+			"components": [
+				"Characteristic"
+			],
+			"original_statement": "A field where p equals zero."
+		},
+		"concept": "Finite cycle realm",
+		"thinking": "有限回の足し算でゼロに戻る特別な宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "resolution_singularities",
+		"word": "Resolution",
+		"meaning": "特異点解消",
+		"etymology": {
+			"components": [
+				"Resolution"
+			],
+			"original_statement": "Smoothing the rough edges."
+		},
+		"concept": "Smoothing the rough edges",
+		"thinking": "図形の尖りを滑らかにするプロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "derived_category",
+		"word": "Derived Category",
+		"meaning": "導来圏",
+		"etymology": {
+			"components": [
+				"Derived",
+				"Category"
+			],
+			"original_statement": "Category of complexes."
+		},
+		"concept": "Abstract structure of complexes",
+		"thinking": "プロセス全体を一つの対象として扱う高度な抽象化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "fibration_math",
+		"word": "Fibration",
+		"meaning": "ファイブレーション",
+		"etymology": {
+			"components": [
+				"Latin fibra"
+			],
+			"original_statement": "Structure of fibers."
+		},
+		"concept": "Structure of fibers",
+		"thinking": "空間を繊維のように分解して束ねる構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "tannakian_category",
+		"word": "Tannakian",
+		"meaning": "タナカ圏",
+		"etymology": {
+			"components": [
+				"Tannaka"
+			],
+			"original_statement": "Group hidden in representations."
+		},
+		"concept": "Group hidden in representations",
+		"thinking": "振る舞いから内なる意志を復元する理論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "motive_math",
+		"word": "Motive",
+		"meaning": "モチーフ",
+		"etymology": {
+			"components": [
+				"Latin motivus"
+			],
+			"original_statement": "The driving vibration of geometry."
+		},
+		"concept": "The driving vibration",
+		"thinking": "数論と幾何学を繋ぐ共通の旋律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "etale_cohomology",
+		"word": "Etale",
+		"meaning": "エタール",
+		"etymology": {
+			"components": [
+				"French etale"
+			],
+			"original_statement": "Calmly spread out."
+		},
+		"concept": "Calmly spread out measuring",
+		"thinking": "代数的な構造を穏やかに計り取る手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "pro_finite_group",
+		"word": "Profinite",
+		"meaning": "前有限",
+		"etymology": {
+			"components": [
+				"Pro- + Finite"
+			],
+			"original_statement": "The limit of finiteness."
+		},
+		"concept": "The limit of finiteness",
+		"thinking": "有限なものの極限として現れる巨大な秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "frobenius_endomorphism",
+		"word": "Frobenius",
+		"meaning": "フロベニウス",
+		"etymology": {
+			"components": [
+				"Frobenius"
+			],
+			"original_statement": "The p-th power symmetry."
+		},
+		"concept": "The p-th power symmetry",
+		"thinking": "標数pの世界を動かす魔法の跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "crystalline_cohomology",
+		"word": "Crystalline",
+		"meaning": "クリスタリン",
+		"etymology": {
+			"components": [
+				"Crystalline"
+			],
+			"original_statement": "The geometry of crystals."
+		},
+		"concept": "The geometry of crystals",
+		"thinking": "代数的な構造を結晶の整合性として捉えること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "l_function_zeta",
+		"word": "L-function",
+		"meaning": "L関数",
+		"etymology": {
+			"components": [
+				"L"
+			],
+			"original_statement": "The symphony of primes."
+		},
+		"concept": "The symphony of primes",
+		"thinking": "数と形の調和を歌う数理的な呼吸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "jacobian_variety",
+		"word": "Jacobian",
+		"meaning": "ヤコビアン",
+		"etymology": {
+			"components": [
+				"Jacobi"
+			],
+			"original_statement": "The linear bundle of curves."
+		},
+		"concept": "The linear bundle of curves",
+		"thinking": "曲線の複雑さを直線的な空間へ翻訳したもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "picard_group",
+		"word": "Picard",
+		"meaning": "ピカール",
+		"etymology": {
+			"components": [
+				"Picard"
+			],
+			"original_statement": "Group of line bundles."
+		},
+		"concept": "Group of line bundles",
+		"thinking": "可能性の糸をどう巻くかのパターンの集まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "perverse_sheaf",
+		"word": "Perverse",
+		"meaning": "偏屈な層",
+		"etymology": {
+			"components": [
+				"Latin perversus"
+			],
+			"original_statement": "Highly symmetric but twisted."
+		},
+		"concept": "The perverse but symmetric",
+		"thinking": "歪んでいるがゆえに真実が露わになる構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "intersection_cohomology",
+		"word": "Intersection Cohomology",
+		"meaning": "交差コホモロジー",
+		"etymology": {
+			"components": [
+				"Intersection"
+			],
+			"original_statement": "Cohomology for singularities."
+		},
+		"concept": "Bridge for singularities",
+		"thinking": "傷跡をも含めて全体の美しさを測る手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "rigidity_geometry",
+		"word": "Rigidity",
+		"meaning": "剛性",
+		"etymology": {
+			"components": [
+				"Latin rigidus"
+			],
+			"original_statement": "The stiffness of truth."
+		},
+		"concept": "The stiffness of truth",
+		"thinking": "一切のあそびを許さない厳格な整合性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "infinity_category",
+		"word": "Infinity Category",
+		"meaning": "無限圏",
+		"etymology": {
+			"components": [
+				"Infinity"
+			],
+			"original_statement": "Higher homotopies."
+		},
+		"concept": "Category of higher homotopies",
+		"thinking": "絶えざる変化そのものを規律とする広大な海。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "stacks_algebraic",
+		"word": "Algebraic Stack",
+		"meaning": "代数スタック",
+		"etymology": {
+			"components": [
+				"Stack"
+			],
+			"original_statement": "Internal symmetries of points."
+		},
+		"concept": "Symmetric haystack of data",
+		"thinking": "点そのものが個性的（対称的）な幾何学的空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "vanishing_cycle",
+		"word": "Vanishing Cycle",
+		"meaning": "消滅サイクル",
+		"etymology": {
+			"components": [
+				"Vanishing"
+			],
+			"original_statement": "Cycles fading into points."
+		},
+		"concept": "Cycle fading into point",
+		"thinking": "変容の瞬間に吸い込まれるように消える輪。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "monodromy_group",
+		"word": "Monodromy",
+		"meaning": "モノドロミー",
+		"etymology": {
+			"components": [
+				"Greek monos + dromos"
+			],
+			"original_statement": "The single course around."
+		},
+		"concept": "The single course around",
+		"thinking": "一巡りの旅を終えて見える本質的なズレ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "complex_structure",
+		"word": "Complex Structure",
+		"meaning": "複素構造",
+		"etymology": {
+			"components": [
+				"Complex"
+			],
+			"original_statement": "Hidden imaginary dimension."
+		},
+		"concept": "Structure of hidden imaginaries",
+		"thinking": "実世界の裏に想像の次元が溶け合う構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "abelian_variety",
+		"word": "Abelian Variety",
+		"meaning": "アーベル多様体",
+		"etymology": {
+			"components": [
+				"Abel"
+			],
+			"original_statement": "The geometric group."
+		},
+		"concept": "The geometric group",
+		"thinking": "滑らかさと計算の調和が共存する聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "elliptic_curve_math",
+		"word": "Elliptic Curve",
+		"meaning": "楕円曲線",
+		"etymology": {
+			"components": [
+				"Latin ellipsis"
+			],
+			"original_statement": "The gem of arithmetic."
+		},
+		"concept": "The gem of arithmetic",
+		"thinking": "不完全さの先に無限の深みを有する曲線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "tate_module",
+		"word": "Tate Module",
+		"meaning": "テイト加群",
+		"etymology": {
+			"components": [
+				"Tate"
+			],
+			"original_statement": "System of torsion points."
+		},
+		"concept": "System of torsion points",
+		"thinking": "微細なねじれから巨大な法を読み解く体系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "weil_conjectures",
+		"word": "Weil Conjectures",
+		"meaning": "ヴェイユ予想",
+		"etymology": {
+			"components": [
+				"Weil"
+			],
+			"original_statement": "Bridge of discrete and continuous."
+		},
+		"concept": "Bridge of discrete and continuous",
+		"thinking": "数えることが形を知ることに繋がるという予見。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "homological_mirror_symmetry",
+		"word": "Mirror Symmetry",
+		"meaning": "ミラー対称性",
+		"etymology": {
+			"components": [
+				"Mirror"
+			],
+			"original_statement": "Correspondence of different worlds."
+		},
+		"concept": "The spectral reflection",
+		"thinking": "鏡を挟んだ異世界が実は一つであるという確信。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "symplectic_geometry",
+		"word": "Symplectic",
+		"meaning": "シンプレクティック",
+		"etymology": {
+			"components": [
+				"Greek symplektikos"
+			],
+			"original_statement": "Intertwined area conservation."
+		},
+		"concept": "Intertwined area conservation",
+		"thinking": "面積を変えずに絡まり合い変容する世界の律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "fukaya_category",
+		"word": "Fukaya",
+		"meaning": "深谷圏",
+		"etymology": {
+			"components": [
+				"Fukaya"
+			],
+			"original_statement": "Category of intersections."
+		},
+		"concept": "Category of intertwined intersections",
+		"thinking": "衝突の激しさから新しい秩序を紡ぐ枠組み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "lagrangian_submanifold",
+		"word": "Lagrangian",
+		"meaning": "ラグランジュ",
+		"etymology": {
+			"components": [
+				"Lagrange"
+			],
+			"original_statement": "The half-dimensional sanctuary."
+		},
+		"concept": "The half-dimensional sanctuary",
+		"thinking": "動的な世界を支える静かなる半分次元。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "toda_lattice",
+		"word": "Toda Lattice",
+		"meaning": "戸田格子",
+		"etymology": {
+			"components": [
+				"Toda"
+			],
+			"original_statement": "The lattice of vibrations."
+		},
+		"concept": "The lattice of vibrations",
+		"thinking": "指数的な響きが連鎖して旅する波動の列。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "quantum_cohomology",
+		"word": "Quantum Cohomology",
+		"meaning": "量子コホモロジー",
+		"etymology": {
+			"components": [
+				"Quantum"
+			],
+			"original_statement": "The foam of probability."
+		},
+		"concept": "The foam of probability",
+		"thinking": "確率の泡を織り込んだ不確かな真理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "tropical_geometry",
+		"word": "Tropical",
+		"meaning": "トロピカル",
+		"etymology": {
+			"components": [
+				"Tropical"
+			],
+			"original_statement": "Skeleton of geometry."
+		},
+		"concept": "Skeleton of geometry",
+		"thinking": "複雑さを削ぎ落とし、骨組みを浮き彫りにする術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "hodge_conjecture",
+		"word": "Hodge Conjecture",
+		"meaning": "ホッジ予想",
+		"etymology": {
+			"components": [
+				"Hodge"
+			],
+			"original_statement": "Bridge between topology and cycles."
+		},
+		"concept": "The bridge between topology and cycles",
+		"thinking": "夢の形を式で完全に捉えきろうとする究極の試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
+	},
+	{
+		"id": "etymon_ling",
+		"word": "Etymon",
+		"meaning": "語源、真実の言葉",
+		"etymology": {
+			"components": [
+				"Greek etymos"
+			],
+			"original_statement": "Original true sense."
+		},
+		"concept": "The original truth",
+		"thinking": "言葉の底に眠る、最初の震えに触れる旅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の深淵へ。"
+			]
+		},
+		"example": "Mathematics is the music of reason."
 	}
 ];
