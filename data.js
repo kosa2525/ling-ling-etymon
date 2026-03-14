@@ -322251,5 +322251,86 @@ const WORDS = [
    "original_statement": "From Latin extremum 'the extreme / highest / last'."
   },
   "concept": "The outermost point (「。。、。、頂（。いただき）。、。、」。であれ。、。、「。。、。、。。泥。、。、。、泥（。ど。ろ）。。、。、」。の、。、。。底。。であれ。、。、。、そこ。。に。、。、。しか。、。、。存在。。、。し得（。え）。。、。ない。。、。、。一。、。つの。、。、。、。峻烈な。、。、。、。理。知。、。それは、。、。、。、。平。、。凡。、。な。、。、現実。を、。、。、。切り。、。裂（。さ。）。、。く。。、。、。、一。、。、。、束の。、。、。、。、。閃。、光。、)"
+ },
+ {
+  "id": "piezoelectricity",
+  "word": "Piezoelectricity",
+  "meaning": "圧電効果、圧力を加えると電気が生まれる石の魔法。",
+  "era": "Greek piezein",
+  "etymology": {
+   "components": [
+    "piezein (to press)",
+    "electricity"
+   ],
+   "original_statement": "From Greek piezein 'to squeeze / press' + electricity."
+  },
+  "concept": "The pressed spark (「。。、。重（。お。）。、。、。も。、。み。、。、」。を。、。、。加（。くわ）。。、。え。。、。られた。、。、。、その。。、一。、。瞬、。、。の、。沈。、。黙。、。、。その中から。、。、。、不意に、。、。、。火。、花。、。、。、。が。、。、。生ま。れる。。、。、。、理知。の、。、。。、「。、。、。呻（。うめ）。。き、。、。、。、」。、と。、。いう、。、。、電。、子。、の、。、躍。、。動。、)"
+ },
+ {
+  "id": "ferroelectricity",
+  "word": "Ferroelectricity",
+  "meaning": "強誘電性、外部の電場に応じて自らの方向を定める石の意志。",
+  "era": "Latin ferrum + electricity",
+  "etymology": {
+   "components": [
+    "ferrum (iron)",
+    "electricity"
+   ],
+   "original_statement": "Analogy with ferromagnetism, though it doesn't necessarily involve iron."
+  },
+  "concept": "The iron-will of light (「。。、どこ。、。、」。を。、。、「。。、。、。前。。、。、。、」。と。、。、。して。、。、。、生きる。、。、。べき。、なのか。、。、という、。、。理知。の、。、。、。、峻烈な。、。、。、。決。断。、。、。それは、。、。、。外部。からの。、。、。誘（。いざな）。。、。い。。、に。、。、。、あえて。、。、。、。、。、。従（。したが）。。、。い。。、。ながら。、。、。自ら。を、。、。。、。一。、。、。、。致（。い。ち）。。、。させる。。、。一。、。つの。、。、。、。魂。、。、。の、。、。姿。、)"
+ },
+ {
+  "id": "magnetostriction",
+  "word": "Magnetostriction",
+  "meaning": "磁歪、磁場によって自らの形を歪ませる、見えない力への応答。",
+  "era": "Latin magnes + stringere",
+  "etymology": {
+   "components": [
+    "magnes (magnet)",
+    "stringere (to draw tight)"
+   ],
+   "original_statement": "The property of magnetic materials that causes them to change their shape during the process of magnetization."
+  },
+  "concept": "The magnetic tightening (「。。、見えない。、。、「。。、。、力。、。、。、」。が、。、。、。世界。を、。、。、包（。つつ）。。、。む、。、。時、。、。理知。、は。、。、不意に。、。、自ら。の。、。。、。「。。、。、。形（。Form）。、。、。、」。を。、。、。あえて。、。、。、。歪（。ゆ。が）。。、。める。。、。、。ことで、。、。、。、。その。、。、。力。へ。。、。と。、。、。幽（。かす）。。、。かな。。、。、。。、。返。、。答。、を。、。している。。、。、のです。、。)"
+ },
+ {
+  "id": "meissner-effect",
+  "word": "Meissner Effect",
+  "meaning": "マイスナー効果、磁力線を自らの中から一切排除する超伝導の拒絶。",
+  "era": "Name Walther Meissner",
+  "etymology": {
+   "components": [
+    "Walther Meissner (physicist)"
+   ],
+   "original_statement": "The expulsion of a magnetic field from a superconductor during its transition to the superconducting state."
+  },
+  "concept": "The absolute exclusion (「。。、。外。、。、」。からの。、。、。、不。純。な、。、。、。、「。。、。、力。、。、。、」。など、。、。、。、決して。、。、。、。、一。、。、。、滴。、。、。たり。とも。、。、中に入。、。、。れ。ぬ。。、。、。という、。、。、峻烈な。、。、。、。理知。の、。、。、孤。、高。、。、。それは、。、。、。、完。、。全。、。なる。、。、。、。「。。、。、。、。無。、。、。、」。、と。、。いう、。、。、。透明。な。、。、。、。、。鎧（よろい）。、)"
+ },
+ {
+  "id": "cooper-pair",
+  "word": "Cooper Pair",
+  "meaning": "クーパー対、低温の極限で二つの電子が結ぶ、奇跡の絆。",
+  "era": "Name Leon Cooper",
+  "etymology": {
+   "components": [
+    "Leon Cooper (physicist)"
+   ],
+   "original_statement": "A pair of electrons bound together at low temperatures in a certain manner first described by American physicist Leon Cooper."
+  },
+  "concept": "The frozen partnership (「。。、。、孤独。、。、」。であった。、。、。はず。の、。、。、。二つの。、。、。電子。たちが。、。、。、。極限。の。、。、。冷（。つめ）。。、。た。。、。さの。、。中で。、。、。不意に。、。、。、手。を。、。、。繋（。つな）。。ぎ。。、。あう。。、。、。一。、。瞬、。、。、それは、。、。、。理知。が、。、。、。、反。、。目。、。、を。、。、。、乗り。越えて。。、。、。、一。、。つの。。、。、。「。。、。、。律。、旋。、。、。、」。、を。、。、奏（。かな。）。。、。で。、。る。。ための。、。、。、聖なる。。、。階。段。、)"
+ },
+ {
+  "id": "josephson-junction",
+  "word": "Josephson Junction",
+  "meaning": "ジョセフソン接合、絶縁体を越えて流れる量子的な囁き。",
+  "era": "Name Brian Josephson",
+  "etymology": {
+   "components": [
+    "Brian Josephson (physicist)"
+   ],
+   "original_statement": "A device made of two superconductors separated by a thin insulating layer."
+  },
+  "concept": "The quantum whisper (「。。、。行（ゆ）。、。、。く。。、」。手。を、。、。阻（。はば）。。、。む、。、。峻烈な。、。、。、。、「。。、。、壁。、。、。、」。、。、。それ。を。、。、。あえて。、。、。、。、。、。「。、。幽。霊。、。、。、」。として。、。、。、。、。す、。り。、。抜（。ぬ）。。、けて。。、。ゆ。く。。、。、理知。の、。、。、。、不。、。思。、。議。、)"
  }
 ];
