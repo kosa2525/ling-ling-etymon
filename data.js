@@ -348126,5 +348126,959 @@ const WORDS = [
 			]
 		},
 		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "shannon_entropy",
+		"word": "Shannon Entropy",
+		"meaning": "シャノン・エントロピー",
+		"etymology": {
+			"components": [
+				"Shannon"
+			],
+			"original_statement": "Measure of uncertainty or information content."
+		},
+		"concept": "The measure of surprise",
+		"thinking": "情報とは何か。それは「意外（Surprise）」の度合いである。どれだけその出来事が予測できなかったか。その驚きの総量を、ビットという数理の言葉で冷徹に測り取る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "mutual_information",
+		"word": "Mutual Info",
+		"meaning": "相互情報量（そうごじょうほうりょう）",
+		"etymology": {
+			"components": [
+				"Latin mutuus (shared)"
+			],
+			"original_statement": "Measure of shared information between two variables."
+		},
+		"concept": "Shared knowledge between variables",
+		"thinking": "「分かち合い（Mutu-us）」。片方を知ることで、もう片方についてどれだけ確信を持てるか。二つの存在が、見えない糸（相関）でどれだけ固く結ばれているかの指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "kullback_leibler",
+		"word": "KL Divergence",
+		"meaning": "KLダイバージェンス",
+		"etymology": {
+			"components": [
+				"Kullback",
+				"Leibler"
+			],
+			"original_statement": "Measure of how one probability distribution differs from a second."
+		},
+		"concept": "Measuring distance between beliefs",
+		"thinking": "二つの確率（世界の見え方）が、どれだけ「ズレ」ているか。ある解釈をベースにした時に、別の真実に辿り着くために支払わなければならない『驚きの代償』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "binary_bit_unit",
+		"word": "Bit",
+		"meaning": "ビット",
+		"etymology": {
+			"components": [
+				"Binary digit"
+			],
+			"original_statement": "The basic unit of information."
+		},
+		"concept": "The atomic yes/no",
+		"thinking": "「ある」か「ない」か。宇宙のすべての複雑さを、最後はこの二つの言葉へと解きほぐす。情報の最小単位であり、理性の最小の筆跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "redundancy_theory",
+		"word": "Redundancy",
+		"meaning": "冗長性（じょうちょうせい）",
+		"etymology": [
+			"Latin re- + undare (to surge like a wave)"
+		],
+		"original_statement": "Extra bits added to ensure reliable transmission.",
+		"concept": "The safety of repetition",
+		"thinking": "「波のように（Undare）溢れる」こと。一見無駄に見える繰り返しの情報が、ノイズという嵐から大切な真実を守り抜き、壊れない絆（通信）を実現する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "channel_capacity",
+		"word": "Channel Capa",
+		"meaning": "通信路容量（つうしんろようりょう）",
+		"etymology": [
+			"Latin canalis + capax (able to take)"
+		],
+		"original_statement": "Highest rate at which information can be reliably transmitted.",
+		"concept": "The speed limit of truth",
+		"thinking": "「器の大きさ（Capax）」。どれほど工夫を凝らしても決して超えられない、情報伝達の限界。宇宙の通信回路に刻まれた、究極の制限速度。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "source_coding",
+		"word": "Source Coding",
+		"meaning": "情報源符号化（じょうほうげんふごうか）",
+		"etymology": [
+			"Source + Code"
+		],
+		"original_statement": "Technique for compressing information to its most efficient representation.",
+		"concept": "Distilling the essence",
+		"thinking": "無駄を極限まで削ぎ落とし、情報の『核』だけを最も短く、最も鋭く記述する。語りすぎず、しかしすべてを伝えるための、沈黙に近い圧縮の美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "hamming_distance",
+		"word": "Hamming Dist",
+		"meaning": "ハミング距離",
+		"etymology": [
+			"Hamming"
+		],
+		"original_statement": "Number of positions at which the corresponding symbols are different.",
+		"concept": "Measuring divergence of code",
+		"thinking": "二つの言葉が、何文字（何ビット）分だけ「違って」いるか。符号の宇宙における、存在と存在の間の隔たりを測る最小のスケール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "error_correct_code",
+		"word": "ECC",
+		"meaning": "誤り訂正（あやまりていせい）符号",
+		"etymology": [
+			"Error + Correct + Code"
+		],
+		"original_statement": "Redundant data that allows original data to be reconstructed even if errors occur.",
+		"concept": "Resilience in the noise",
+		"thinking": "傷ついても、自らの力で元の姿（真実）を甦らせる。ノイズの中で文字が欠落しても、全体からその欠落を予感して補完する、情報の回復知。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "algorithmic_complex",
+		"word": "Kolmogorov Comp",
+		"meaning": "コルモゴロフ複雑性",
+		"etymology": [
+			"Kolmogorov"
+		],
+		"original_statement": "Length of the shortest program that produces a given output.",
+		"concept": "The ultimate description limit",
+		"thinking": "ある情報を生み出すために必要な「最も短いプログラム」の長さ。余分な意味を一切排した、情報の真の重さ（複雑さ）を定義する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "max_entropy_prin",
+		"word": "MaxEnt",
+		"meaning": "最大（さいだい）エントロピー原理",
+		"etymology": [
+			"Maximum + Entropy"
+		],
+		"original_statement": "The most appropriate distribution is the one that is most 'spread out'.",
+		"concept": "The principle of most honest ignorance",
+		"thinking": "「分からない」ことに対して、最も誠実であること。既知の事実以外には何の偏見も持たず、可能性を最も広く、平坦に保つ、知的な平等の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "boltzmann_entropy",
+		"word": "Boltzmann Ent",
+		"meaning": "ボルツマン・エントロピー",
+		"etymology": [
+			"Boltzmann"
+		],
+		"original_statement": "Statistical measure of disorder in thermodynamics.",
+		"concept": "The logarithm of possibilities",
+		"thinking": "マクロな静寂の背後に、どれほどのミクロなカオスが隠されているか。可能性（状態数）の対数をとることで、宇宙の乱雑さという名の残酷な時の流れを捉える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "neg_entropy_life",
+		"word": "Negentropy",
+		"meaning": "ネゲントロピー、負のエントロピー",
+		"etymology": [
+			"Negative + Entropy"
+		],
+		"original_statement": "Information or negative entropy consumed by organisms to maintain order.",
+		"concept": "The order of life",
+		"thinking": "宇宙全体の崩壊（熱的死）に抗い、環境から「秩序（ネゲントロピー）」を摂取することで、自らの貌を守り抜く。生命が奏でる、逆流の旋律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "maxwell_demon_para",
+		"word": "Maxwell Demon",
+		"meaning": "マクスウェルの悪魔",
+		"etymology": [
+			"Maxwell + Greek daimon"
+		],
+		"original_statement": "Thought experiment violating the second law of thermodynamics using information.",
+		"concept": "Information as energy",
+		"thinking": "粒子一つの動きを監視し（情報を得て）、秩序を生み出そうとする「精霊（Daimon）」。情報が物理的なエネルギー（仕事）へと変換されることを予見した、魔法の思考実験。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "szilard_engine",
+		"word": "Szilard Engine",
+		"meaning": "シラードのエンジン",
+		"etymology": [
+			"Szilard"
+		],
+		"original_statement": "Device converting information into work.",
+		"concept": "The labor of the observation",
+		"thinking": "たった一つのビット（情報の有無）から、現実的な『力』を引き出す。知るという行為そのものが、世界を動かす燃料になり得るという科学的な奇蹟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "landauer_limit",
+		"word": "Landauer Limit",
+		"meaning": "ランダウアーの限界",
+		"etymology": [
+			"Landauer"
+		],
+		"original_statement": "Minimum energy requirement to erase one bit of information.",
+		"concept": "The cost of forgetting",
+		"thinking": "何かを「忘れる（消去する）」ためには、必ず宇宙へ熱を放出しなければならない。記憶を消す代償として支払われる、情報の『弔い』のエネルギー。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "fisher_information",
+		"word": "Fisher Info",
+		"meaning": "フィッシャー情報量",
+		"etymology": [
+			"Fisher"
+		],
+		"original_statement": "Measure of the amount of information that an observable carries about an unknown parameter.",
+		"concept": "Curvature of the search space",
+		"thinking": "観測によって、真理（パラメータ）をどれだけ「鋭く」射抜けるか。情報の海にどれほどの『確信』が宿っているかを測る、数理統計学の鋭い矢。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "information_geo_adv",
+		"word": "Info Geometry",
+		"meaning": "情報幾何学（じょうほうきかがく）",
+		"etymology": [
+			"Information + Geometry"
+		],
+		"original_statement": "Study of probability distributions as a Riemannian manifold.",
+		"concept": "Curvature of beliefs",
+		"thinking": "確率の広がりを、曲がった『空間』として捉える。意見のズレは距離となり、学習のプロセスは最短の旅路（測地線）となる。確率の中に潜む幾何学的な美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "quantum_info_theory",
+		"word": "Quantum Info",
+		"meaning": "量子（りょうし）情報理論",
+		"etymology": [
+			"Quantum + Information"
+		],
+		"original_statement": "Study of information processing tasks using quantum mechanics.",
+		"concept": "The entanglement of data",
+		"thinking": "「ある」と「ない」が同時に重なり合う、不思議な量子のビット（Qubit）。絡み合い、遠く離れても瞬時に響き合う、直感を超えた未来の情報の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "qudit_unit",
+		"word": "Qudit",
+		"meaning": "クディット",
+		"etymology": [
+			"Quantum + Digit (d states)"
+		],
+		"original_statement": "Quantum unit with d levels of information.",
+		"concept": "Multi-dimensional quantum choice",
+		"thinking": "二つ（Binary）だけではない、三つ、四つ、d個の状態を同時に持つ量子。情報の次元をさらに多様な色へと広げる、極微の多面体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "von_neumann_ent",
+		"word": "Von Neumann Ent",
+		"meaning": "フォン・ノイマン・エントロピー",
+		"etymology": [
+			"Von Neumann"
+		],
+		"original_statement": "Generalization of Shannon entropy to quantum systems.",
+		"concept": "Uncertainty of quantum density",
+		"thinking": "量子の密度行列がどれだけ『汚れて（混合して）』いるか。純粋な波の重なりから、乱雑な現実へとどれだけ崩れているかを測るもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "quantum_teleport",
+		"word": "Teleportation",
+		"meaning": "量子テレポーテーション",
+		"etymology": [
+			"Greek tele (distant) + Latin portare (to carry)"
+		],
+		"original_statement": "Transfer of quantum states without moving the physical particle.",
+		"concept": "Carrying essence through void",
+		"thinking": "「遠く（Tele）へ運ぶ（Portare）」。物質ではなく、その『状態（魂）』だけを、情報の絡み合い（エンタングルメント）を介して瞬時に彼方へと転写する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "superdense_coding",
+		"word": "Superdense",
+		"meaning": "超高密度（ちょうこうみつ）符号化",
+		"etymology": [
+			"Super- + Dense + Coding"
+		],
+		"original_statement": "Sending two classical bits by transmitting only one qubit.",
+		"concept": "Information efficiency through entanglement",
+		"thinking": "あらかじめ分かち合った『絆（量子）』があれば、一粒の光（クビット）だけで、二倍の言葉（ビット）を届けることができるという、情報の密度の限界突破。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "entropy_of_entangle",
+		"word": "Entangle Entropy",
+		"meaning": "もつれエントロピー",
+		"etymology": [
+			"Entanglement + Entropy"
+		],
+		"original_statement": "Measure of the extent to which parts of a system are quantum-mechanically entangled.",
+		"concept": "The bridge between separated systems",
+		"thinking": "二つの場所がいかに『溶け合っているか』。片方だけを見た時に失われる情報の欠落そのものが、二人の絆の深さを証明する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "holographic_entang",
+		"word": "Holographic Ent",
+		"meaning": "ホログラフィック・エントロピー",
+		"etymology": [
+			"Holographic"
+		],
+		"original_statement": "Relating entanglement entropy to the area of minimal surfaces in AdS.",
+		"concept": "Geometric manifestation of entanglement",
+		"thinking": "絡み合いという情報の深さが、宇宙における『面積』として姿を現す。情報は幾何学であり、幾何学は情報であるという究極の照応。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "monogamy_of_entan",
+		"word": "Monogamy (Entang)",
+		"meaning": "もつれの排他性（はいたせい）",
+		"etymology": [
+			"Greek monos (single) + gamos (marriage)"
+		],
+		"original_statement": "Principle that entanglement cannot be freely shared among three systems.",
+		"concept": "Exclusive quantum bonds",
+		"thinking": "量子の絆は「一対一（Monos-Gamos）」。一人の相手と完璧に結ばれるとき、他の誰ともその特殊な絆を分かち合うことはできない、高潔で一途な掟。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "purification_qu",
+		"word": "Purification",
+		"meaning": "浄化（じょうか）、ピュリフィケーション",
+		"etymology": [
+			"Latin purificare"
+		],
+		"original_statement": "Technique for creating a pure state from a mixed state by enlarging the system.",
+		"concept": "Restoring clarity in higher space",
+		"thinking": "「清める（Purificare）」。目の前の混濁したカオスは、より大きな高次元の宇宙から見れば、実は一つの美しく純粋な波（状態）の一部にすぎない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "error_detect_qu",
+		"word": "Quantum Error",
+		"meaning": "量子（りょうし）誤り訂正",
+		"etymology": [
+			"Quantum + Error"
+		],
+		"original_statement": "Protecting quantum info using redundant qubits.",
+		"concept": "The fragile resilience of qubits",
+		"thinking": "観測した瞬間に壊れてしまう儚い量子を、観測することなく、そっと『周囲の瞳（冗長なクビット）』で守り、修復し続ける至難の業。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "threshold_theorem",
+		"word": "Threshold Theo",
+		"meaning": "しきい値定理",
+		"etymology": [
+			"Threshold"
+		],
+		"original_statement": "Guarantee that large-scale quantum computing is possible if error rates are below a limit.",
+		"concept": "The promise of scalability",
+		"thinking": "「門居（Threshold）」を越えれば。エラーさえ十分に小さければ、いかに巨大な計算であっても、永遠に続けられるという希望の予言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "bit_flip_error",
+		"word": "Bit flip",
+		"meaning": "ビット反転（はんてん）誤差",
+		"etymology": [
+			"Bit + Flip"
+		],
+		"original_statement": "Error where 0 becomes 1 or vice versa.",
+		"concept": "The basic reversal",
+		"thinking": "「Yes」が「No」に化ける。情報の鏡がひっくり返る（Flip）ことで起きる、最もシンプルな、しかし致命的な誤り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "phase_flip_error",
+		"word": "Phase flip",
+		"meaning": "位相（いそう）反転誤差",
+		"etymology": [
+			"Phase + Flip"
+		],
+		"original_statement": "Quantum error where the relative phase changes sign.",
+		"concept": "The reversal of signs in the wave",
+		"thinking": "値はそのままなのに、波の『向き（位相）』だけが内密に反転する。古典的な世界には存在しない、量子特有の密やかな崩壊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "decoherence_qu",
+		"word": "Decoherence",
+		"meaning": "デコヒーレンス、干渉消失（かんしょうしょうしつ）",
+		"etymology": [
+			"Latin dis- + co- + haerere (to stick)"
+		],
+		"original_statement": "Loss of quantum coherence due to interaction with the environment.",
+		"concept": "The fall into classical reality",
+		"thinking": "「共に張り付いている（Co-haerere）」波の調和が、外界のノイズに触れて『散逸（Dis-）』し、魔法のような重なりが消えてしまうこと。夢から覚める一瞬。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "bloch_sphere_rep",
+		"word": "Bloch Sphere",
+		"meaning": "ブロッホ球",
+		"etymology": [
+			"Bloch + Sphere"
+		],
+		"original_statement": "Geometrical representation of the state space of a two-level quantum system.",
+		"concept": "Visualizing the quantum state",
+		"thinking": "量子の可能性を、一つの『球体』の表面の点として描き出す。北極なら0、南極なら1。その間の豊かな表面のすべてが、無限の重ね合わせの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "clifford_group_qu",
+		"word": "Clifford Group",
+		"meaning": "クリフォード群",
+		"etymology": [
+			"Clifford"
+		],
+		"original_statement": "Group of operations that normalize the Pauli group.",
+		"concept": "The core of quantum logic",
+		"thinking": "量子計算の骨組みを成す、基本的で強靭な操作の集合。これだけでは不十分（万能ではない）だが、これなしには何も始まらない基礎の森。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "pauli_matrices_qu",
+		"word": "Pauli Matrices",
+		"meaning": "パウリ行列",
+		"etymology": [
+			"Pauli"
+		],
+		"original_statement": "Matrices describing spin in three spatial directions.",
+		"concept": "Basis of quantum rotation",
+		"thinking": "スピンという名の魔法の回転を、代数の言葉で書き記した三つの道標。あらゆる量子の変化の『源（ジェネレータ）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "universal_qu_gate",
+		"word": "Universal Gate",
+		"meaning": "万能（ばんのう）量子ゲート",
+		"etymology": [
+			"Latin universalis"
+		],
+		"original_statement": "Set of gates that can approximate any unitary transformation.",
+		"concept": "The complete alphabet of quantum logic",
+		"thinking": "これら数個のパーツさえあれば、宇宙のいかなる量子の『変容』も再現できるという、究極の論理のセット。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "bell_state_entan",
+		"word": "Bell State",
+		"meaning": "ベル状態",
+		"etymology": [
+			"Bell"
+		],
+		"original_statement": "Specific maximally entangled quantum states of two qubits.",
+		"concept": "The maximum bond",
+		"thinking": "二つのクビットが、この宇宙で最も「濃く」結ばれている特別な状態。片方の予感（測定）が、瞬時にもう片方の貌を確定させる、双子の真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "no_cloning_theo",
+		"word": "No-cloning",
+		"meaning": "複製不能（ふくせいふのう）定理",
+		"etymology": [
+			"In- + Clone"
+		],
+		"original_statement": "Impossible to create an identical copy of an arbitrary unknown quantum state.",
+		"concept": "The sanctity of the original",
+		"thinking": "「コピーはできない」。美しき量子の状態は、一度きりの存在。同じものをもう一つ作ろうとすれば、元の状態は必ず壊されてしまう。唯一無二の、情報の尊厳。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "fidelity_qu_info",
+		"word": "Fidelity",
+		"meaning": "忠実度（ちゅうじつど）、フィデリティ",
+		"etymology": [
+			"Latin fidelitas (faithfulness)"
+		],
+		"original_statement": "Measure of how similar two quantum states are.",
+		"concept": "Trustworthiness of transmission",
+		"thinking": "「忠誠（Fidelitas）」。元の情報に対して、届いた情報がどれだけ誠実に、一切の汚れなくその貌を保っているかの度合い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "capacity_qu_chan",
+		"word": "Quantum Capacity",
+		"meaning": "量子（りょうし）容量",
+		"etymology": [
+			"Quantum + Capacity"
+		],
+		"original_statement": "Amount of quantum information that can be sent through a noisy channel.",
+		"concept": "The information limit of the wave",
+		"thinking": "ノイズという嵐を越えて、どれだけの「量子の真実」を届けることができるか。波としての力の、究極の収容能力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "entangle_distill",
+		"word": "Distillation",
+		"meaning": "もつれ蒸留（じょうりゅう）",
+		"etymology": [
+			"Latin de- + stillare (to drip)"
+		],
+		"original_statement": "Extracting high-quality entanglement from many noisy copies.",
+		"concept": "Purification of the bond",
+		"thinking": "「滴り（Stillare）」落とす。薄まって汚れた多くの絆（もつれ）を集め、そこから純粋で高濃度な『本物の絆』を滴り出させる、情報の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "teleportation_fid",
+		"word": "Teleport Fid",
+		"meaning": "転送忠実度",
+		"etymology": [
+			"Teleportation + Fidelity"
+		],
+		"original_statement": "Quality of the teleported state compared to the original.",
+		"concept": "Success of the soul-transfer",
+		"thinking": "彼方へと転写された魂が、どれだけ元のままであったか。情報の旅の、完璧さへの賞賛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "logical_qubit_adv",
+		"word": "Logical Qubit",
+		"meaning": "論理（ろんり）クビット",
+		"etymology": [
+			"Logos + Qubit"
+		],
+		"original_statement": "A qubit protected by error correction codes, composed of multiple physical qubits.",
+		"concept": "Conceptual stability",
+		"thinking": "「言葉（Logos）」としての安定。壊れやすい物理的な粒子たちを束ね、あえて集団として扱うことで、決して壊れない一つの不滅の情報を立ち上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "physical_qubit_ph",
+		"word": "Physical Qubit",
+		"meaning": "物理（ぶつり）クビット",
+		"etymology": [
+			"Greek physikos + Qubit"
+		],
+		"original_statement": "The actual hardware device that acts as a qubit.",
+		"concept": "The material vessel for info",
+		"thinking": "「自然（Physikos）」そのままの、剥き出しで儚い存在。ノイズに怯え、消えてゆく定めにありながら、情報を背負って踊る孤独な粒子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "syndrome_measure",
+		"word": "Syndrome Meas",
+		"meaning": "シンドローム測定",
+		"etymology": [
+			"Greek syndrome (concurrence)"
+		],
+		"original_statement": "Measurement performed to detect errors without destroying quantum information.",
+		"concept": "Diagnostic without damage",
+		"thinking": "「兆候（Syndrome）」を読み取る。情報の中身には触れず、ただその『汚れ方』だけを賢く察知し、どこを治療すべきかを言い当てる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の重なりに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"情報理論の深淵へ。"
+			]
+		},
+		"example": "Information is the currency of organization."
 	}
 ];
