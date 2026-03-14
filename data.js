@@ -321696,5 +321696,85 @@ const WORDS = [
    "original_statement": "A two-dimensional diagram capturing the causal relations between different points in spacetime."
   },
   "concept": "Capturing infinity (無限。に、。、。、。広。、。がる。、。、時。空。、。、を。、。、。一。、。つの。、。、。紙。の上に。、。、。、あえて。、。、。、。。、。、「。。、。、。、。一。、点。、。、。、」。、と。、。して。。、。、。描（。えが）。。、。く。。、。、。こと。の。、。、できる。、。、。、理知。の、。。、神。、。の、。、。、視。、点。、)"
+ },
+ {
+  "id": "isentropic",
+  "word": "Isentropic",
+  "meaning": "等エントロピーの、可逆的な断熱状態。",
+  "era": "Greek isos + entropos",
+  "etymology": {
+   "components": [
+    "isos (equal)",
+    "entropos (turning)"
+   ],
+   "original_statement": "From isos 'equal' + entropy."
+  },
+  "concept": "The equal turning (エントロピー。という。、。、「。。、。乱（。みだ）。、。れ。、。、」。を。、。、一。、点の。、。、狂い。も。なく。、。、。定（。さだ）。。、。めた。。、。まま。、。、。流（。なが）。。、。れて。。、。ゆ。く。。、。、峻烈な。、。、。、。静寂。の、。、。。、。理知。、。それは、。、。、。熱。を、。、。失い。。、。、。、。ながらも。、。、魂。を。、。、。美。しく。、。、保。、。つ、。、。一。、。つの。、。、。、。道。、)"
+ },
+ {
+  "id": "fugacity",
+  "word": "Fugacity",
+  "meaning": "フガシティー、逃散性、物質が系から逃れようとする傾向。",
+  "era": "Latin fugere",
+  "etymology": {
+   "components": [
+    "fugere (to flee)"
+   ],
+   "original_statement": "From Latin fugax 'fleeing', from fugere 'to flee'."
+  },
+  "concept": "The tendency to flee (「。。、ここ。、に。、。、」。留（。と。）。、。ま。。、。り。、つ。づ。ける。、。、。こと。を、。、。、窮。、屈。、に。、。感。じ。。、。、。未知の。、。場所。へと。、。、。飛び。、。、出。。、そう。。、。とする、。、。、。、。理知。の、。、。、。、本能。。、。、。それは、。、。、。、。圧。、力。。、と。、。いう、。、。仮。面。を。、。、被（。かぶ）。。、。った、。、。、。、。自。、由。、への。、。。憧。、。、れ。、)"
+ },
+ {
+  "id": "virial-theorem",
+  "word": "Virial Theorem",
+  "meaning": "ビリアル定理、運動エネルギーと位エネルギーの間の峻烈な均衡。",
+  "era": "Latin vis",
+  "etymology": {
+   "components": [
+    "vis (force / energy)"
+   ],
+   "original_statement": "From Latin vis 'force', coined by Rudolf Clausius in 1870."
+  },
+  "concept": "The force balance (「。。、。激しく。。、」。動。く。、。、。運動。と。、。、「。。、。、。、静かに。。、。、。引き。合う。。、。ポ。、。テ。、。ン。、。。、シ。、。ヤ。、。ル。。、」。が、。、。、。一。、。、。つの。、。、。、。、。方程。、。式。、。の、。、中で。、。、。見事に。、。、。「。。、。、。、。和。、。、。、」。、と。、。、。なって。。、。均衡。、。、する。。、。、。理知。の、。、。。、「。、。、。天。、。秤（てんびん）。、。、。、」。、)"
+ },
+ {
+  "id": "helmholtz-free-energy",
+  "word": "Helmholtz Free Energy",
+  "meaning": "ヘルムホルツの自由エネルギー、等温等積過程で外部に取り出し得る仕事の限界。",
+  "era": "Name Hermann von Helmholtz",
+  "etymology": {
+   "components": [
+    "Hermann von Helmholtz (physicist / physician)"
+   ],
+   "original_statement": "The thermodynamic potential that measures the useful work obtainable from a closed thermodynamic system at a constant temperature and volume."
+  },
+  "concept": "The free work (「。。、。形（。Form）。、。、」。の、。、。。中に。、。、。、静（。しず）。。、。やかに。、。、。蓄（。たくわ）。。、え。。られた。、。、。、。「。。、。、可。、。能。、。性。、。、。、」。その。、。、。、一。、。、。部。を。、。、。外部。へと。、。、。放（。はな）。。、ち。。、。、。世界。を。、。、。、動。、。、かす。。ための、。。理知。の、。、。。、。最。、。、後の。。、。、「。、。、、。、。熱。、。、。、」。、)"
+ },
+ {
+  "id": "joule-thomson",
+  "word": "Joule-Thomson Effect",
+  "meaning": "ジュール＝トムソン効果、気体が断熱的に膨張する際に生じる温度変化。",
+  "era": "Names Joule + Thomson",
+  "etymology": {
+   "components": [
+    "James Prescott Joule",
+    "William Thomson (Lord Kelvin)"
+   ],
+   "original_statement": "The temperature change of a real gas or liquid when it is forced through a valve or porous plug while kept insulated."
+  },
+  "concept": "The expansion chill (「。。、。狭い。。、」。場所。を、。、。、。、。抜（。ぬ）。。、。けて。。、。、。不。意。に。、。、広。、大な。、。、。。世界。へと。、。、吸（。す）。。、い。。、出。、された。。、。、。その。、。一。、。瞬、。の、。戸惑い。、が、。、。理知。を。、。、。冷（。つめ）。。、。た。く。。、。、震。え。。、させる。。、。、。、。峻烈な。、。、。、窒。、息。、。と、。、。。、。、解。、放。、)"
+ },
+ {
+  "id": "osmotic-pressure",
+  "word": "Osmotic Pressure",
+  "meaning": "浸透圧、生命を動かす目に見えない圧力の均衡。",
+  "era": "Greek osmos",
+  "etymology": {
+   "components": [
+    "osmos (a push / thrust)"
+   ],
+   "original_statement": "From Greek osmos 'pushing / thrusting'."
+  },
+  "concept": "The silent thrust (「。。、。、水。、。、」。が、。、。、。、薄い。、。、膜（。まく）。。、。を。、。、。。、。す。、り。、。抜（。ぬ）。。、けて。、。、。、濃（。こ）。。、。い。。、。世界。を。、。、。満。た。、。そう。、。とする、。、。、。峻烈。な、。。、。、「。。、。、押。、。す。。、。力。、。、。、」。それ。は、。。、。、生命。の、。、。、根。、。源。、。、的な。、。、。、。、「。。、。、渇。、。、。、き。、。、。、」。の、。、。理。知。、)"
  }
 ];
