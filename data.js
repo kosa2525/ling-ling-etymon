@@ -386569,5 +386569,685 @@ const WORDS = [
 			]
 		},
 		"example": "Paleontology studies the history of life on Earth through fossils."
+	},
+	{
+		"id": "qualia_adv_v",
+		"word": "Qualia",
+		"meaning": "クオリア、主観的（しゅかんてき）質感（しつかん）",
+		"etymology": [
+			"Latin qualis (of what kind)"
+		],
+		"concept": "Qualitative feeing of x",
+		"thinking": "「どんな（Qualis）」感じか。夕焼けの赤、淹れたての珈琲の香り。波長や化学物質という「数」に還元できない、あなたの心の中だけに立ち上がる鮮烈で孤独な『実感』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "phenomenolo",
+		"word": "Phenomenol",
+		"meaning": "現象学（げんしょうがく）",
+		"etymology": [
+			"Greek phainomenon (appearance) + logos"
+		],
+		"concept": "Study of objects as perceived",
+		"thinking": "「現れる（Phaino-）」ものの理。客観的な世界があるのではない。私の意識へと「現れている（現象している）」そのありのままを、すべての先入観（エポケー）を捨てて記述する、誠実な眼差しの極。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "embodiment_a",
+		"word": "Embodiment",
+		"meaning": "身体（しんたい）性（せい）",
+		"etymology": [
+			"En- + Body"
+		],
+		"concept": "C rooted in physical body",
+		"thinking": "心は「脳」の中に閉じ込められた計算機ではない。この温かい、あるいは疲れた「体（Body）」の「中（En-）」に宿り、物理的な肉体の動きや感覚と不可分に溶け合っている。身体こそが、私たちが世界を理解するための究極のフィルターである。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "enactivism_a",
+		"word": "Enactivism",
+		"meaning": "エナクティビズム、生成（せいせい）的（てき）認知（にんち）",
+		"etymology": [
+			"En- + Act"
+		],
+		"concept": "C via action/environment",
+		"thinking": "「行動（Act）」を通じて、世界を「産み出す（En-）」。受動的に世界を見るのではなく、歩き、触れ、働きかけることで、自分と世界の境界線を共同で作り上げていく。認知とは、終わりのない『行為』そのものであるという貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "emergence_m",
+		"word": "Emergence",
+		"meaning": "創発（そうはつ） (心の哲学)",
+		"etymology": [
+			"Latin e- + mergere (to dip/plunge)"
+		],
+		"concept": "Higher properties from lower",
+		"thinking": "バラバラのニューロン（物質）の海から、突如として「意識（主観）」という全く別次元の貌が「浮かび（Merge）」「出る（E-）」。欠片の総和を越えた、宇宙の最も美しい魔法の一撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "physicalism_",
+		"word": "Physicalism",
+		"meaning": "物理主義（ぶつりしゅぎ）",
+		"etymology": [
+			"Greek physis (nature)"
+		],
+		"concept": "All is physical",
+		"thinking": "この宇宙に「心」などという特別な幽霊は存在しない。すべては「物質（Physis）」とその運動に還元できる。愛も、夢も、この一瞬の思考も、すべては粒子のダンスに過ぎないという、冷徹で潔い一元論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "dualism_phil",
+		"word": "Dualism",
+		"meaning": "二元論（にげんろん）",
+		"etymology": [
+			"Latin duo (two)"
+		],
+		"concept": "Mind and body are separate",
+		"thinking": "世界は「二つ（Duo）」に分かれている。形のある「肉体」と、形のない「精神」。二つの異なる宇宙が、頭の中のどこか一点（松果体）で奇跡的に交差し、私という一人の人間を奏でているとする、古き神秘の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "propriocepti",
+		"word": "Propriocep",
+		"meaning": "固有（こゆう）受容（じゅよう）感覚（かんかく）",
+		"etymology": [
+			"Latin proprius (one's own) + capere"
+		],
+		"concept": "Sense of body position",
+		"thinking": "「自分自身の（Proprius）」体を「捉える（Capere）」感覚。目をつぶっていても、自分の腕がどこにあるか分かる。あなたを「肉体という名の家」の中に繋ぎ止めておくための、最も低層で不可欠な、自己の地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "interoceptio",
+		"word": "Interocept",
+		"meaning": "内受容（ないじゅよう）感覚（かんかく）",
+		"etymology": [
+			"Latin inter- + capere (to take)"
+		],
+		"concept": "Sense of internal state",
+		"thinking": "自分自身の「内側（Inter）」から発せられる、鼓動、呼吸、内臓の震えを「捉える（Capere）」。感情とは、この内なる嵐（身体反応）に「意味」という名の服を着せたものであるという、情動の深層。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "agency_neuro",
+		"word": "Agency",
+		"meaning": "エージェンシー、自己（じこ）主体（しゅたい）感（かん）",
+		"etymology": [
+			"Latin agere (to act/do)"
+		],
+		"concept": "Sense of being the doer",
+		"thinking": "この行動（Act）をしているのは「私」であるという、確かな手応え。意志と結果が結びついた瞬間に産まれる。もしこれが失われれば、自分の腕が勝手に動いているような、あるいは宇宙の操り人形になったような、薄気味悪い疎外感が立ち上がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "ownership_v",
+		"word": "Ownership",
+		"meaning": "所有（しょゆう）感（かん） (身体)",
+		"etymology": [
+			"Own"
+		],
+		"concept": "Sense that body is self",
+		"thinking": "この体が「自分自身のもの（Own）」であるという、無意識の確信。たとえ動かなくても、失った腕であっても、そこには自分のアイデンティティの一部が宿っているという、魂の居場所の感覚。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "global_work_",
+		"word": "Workspace",
+		"meaning": "グローバル・ワークスペース理論（りろん）",
+		"etymology": [
+			"Global + Work + Space"
+		],
+		"concept": "C as publicized info in brain",
+		"thinking": "脳という名の巨大な観衆に向かって、特定の情報が「舞台（Workspace）」に上がり、一斉にアナウンス（共有）される。その輝かしい「スポットライト」こそが、私たちの『意識』の正体であるとする、情報の統合モデル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "illusionism_",
+		"word": "Illusionism",
+		"meaning": "錯覚（さっかく）主義（しゅぎ） (心)",
+		"etymology": [
+			"Latin in- + ludere (to play)"
+		],
+		"concept": "C is a helpful users illusion",
+		"thinking": "意識は、進化の過程で脳が自分自身の動きを効率よく管理するために産み出した「壮大な嘘（ユーザーインターフェース）」に過ぎない。現実という名の舞台の裏側では、言葉も主観もない数理が淡々と「遊んで（Lud-）」いる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "free_will_ad",
+		"word": "Free Will",
+		"meaning": "自由（じゆう）意志（いし）",
+		"etymology": [
+			"Free + Old English willa"
+		],
+		"concept": "Ability to choose otherwise",
+		"thinking": "鎖を解き放ち、自らの「望み（Willa）」で未来の貌を一つだけ選び取ること。もしすべてが物理法則の歯車なら、この『私が選んだ』という感覚は美しき誤解なのか、それとも宇宙を書き換える真の飛躍なのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "compatibilis",
+		"word": "Compatibil",
+		"meaning": "両立（りょうりつ）論（ろん）",
+		"etymology": [
+			"Latin con- + pati (to suffer/endure)"
+		],
+		"concept": "Deterministic free will",
+		"thinking": "「運命（決定論）」と「自由」は、「共に（Con-）」「耐え（Pati）」、両立し得る。たとえ脳が法則に従って動いていようとも、自分自身の望みに従って行動できるなら、それは十分に『自由』であるという、妥協なき理性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "libet_experi",
+		"word": "Libet Exp",
+		"meaning": "リベットの実験（じっけん）、0.5秒（びょう）の遅（おく）れ",
+		"etymology": [
+			"Libet"
+		],
+		"concept": "Unconscious start of action",
+		"thinking": "「よし、動かそう」と意識が思う0.5秒前に、脳（無意識）はすでに準備を始めている。意識とは、後からやってきて、自分が始めたかのように「署名」するだけの、最後尾の観客に過ぎないのかという衝撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "metacognitio",
+		"word": "Metacognit",
+		"meaning": "メタ認知（にんち）",
+		"etymology": [
+			"Greek meta- + Latin cognoscere (to know)"
+		],
+		"concept": "Thinking about thinking",
+		"thinking": "自分の考えを、さらに「越えた（Meta-）」場所から「知る（Cognoscere）」。自分が何を分かっていないかを知り、自らの思考の癖を客観的に眺める。自分の中に、もう一人の自分（観測者）を飼う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "blind_sight_a",
+		"word": "Blindsight",
+		"meaning": "盲視（もうし）",
+		"etymology": [
+			"Blind + Sight"
+		],
+		"concept": "Seeing without consciousness",
+		"thinking": "「見えている（Sight）」のに「見えていない（Blind）」と主張する。意識の上では真っ暗なのに、体は飛んでくるボールを正確に避ける。意識を通さない、脳のもう一つの『原始的な知性』が語る、主観の限界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "mirror_neuro",
+		"word": "Mirror Neur",
+		"meaning": "ミラーニューロン",
+		"etymology": [
+			"Mirror + Neuron"
+		],
+		"concept": "Neurons fire when watching",
+		"thinking": "他者の痛み、他者の動きを見たとき、自分自身の脳もそれと全く「同じ（Mirror）」火花を散らす。私はあなたの苦痛を、自分のこととして『体感』する。共感という名の、肉体を越えた魂の共鳴装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "neuroplastic",
+		"word": "Syn Plast",
+		"meaning": "シナプス可塑性（かそせい）",
+		"etymology": [
+			"Synapse + Greek plastikos"
+		],
+		"concept": "Changes in synapse strength",
+		"thinking": "情報の「通り道（結び目）」の強さが、経験によって「変形（Plast-）」していく。一度覚えた愛、一度刻まれた傷。あなたの『心の貌』は、この小さな繋がりたちの、終わりのない彫刻の結果である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "computational",
+		"word": "Comp Brain",
+		"meaning": "計算（けいさん）脳学（のうがく）",
+		"etymology": [
+			"Latin computare (to count)"
+		],
+		"concept": "Brain as info processor",
+		"thinking": "脳を、精緻な「計算機（Computer）」として捉える。神経の火花を、ベイズ推論や積分という名の「数式の言葉」で記述する。心の謎を、冷徹な理性の『アルゴリズム』として白日の下に晒す挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "predictive_p",
+		"word": "Pred Coding",
+		"meaning": "予測（よそく）符号化（ふごうか）、自由（じゆう）エネルギー原理（げんり）",
+		"etymology": [
+			"Latin prae- + dicere (to say before)"
+		],
+		"concept": "Brain as prediction engine",
+		"thinking": "脳は世界をありのままに見ているのではない。常に「一瞬先の未来」を「予測（Predict）」し、現実をその予測に合わせて修正し続けている。私たちは、脳が見せる『最も妥当な幻（予測）』の中を生きている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "markov_blank",
+		"word": "Markov Bla",
+		"meaning": "マルコフ・ブランケット",
+		"etymology": [
+			"Markov + Blanket"
+		],
+		"concept": "Boundary of a system",
+		"thinking": "自分と世界を分かつ、情報の「毛布（Blanket）」。内側のカオスと外側のカオスを隔て、自分を一人の『自律した存在』として保つための最低限の境界線。ここから先が、私の心である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "salience_net",
+		"word": "Salience",
+		"meaning": "顕著（けんちょ）性（せい）ネットワーク",
+		"etymology": [
+			"Latin salire (to leap out)"
+		],
+		"concept": "Finding important info",
+		"thinking": "無限の情報の中から、今、何が重要かを「飛び（Sal-）」「出させる」。危険、獲物、恋人の貌。重要でないものを背景へと追いやり、今この一瞬に『生きる意味』を突きつける、脳の編集者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "executive_fu",
+		"word": "Exec Funct",
+		"meaning": "実行（じっこう）機能（きのう）",
+		"etymology": [
+			"Latin ex- + sequi (to follow/carry out)"
+		],
+		"concept": "Self-regulation and focus",
+		"thinking": "衝動を抑え、目標に向かって意志を「最後まで（Ex-）」「貫く（Sequi）」。心の中の「司令官」。数千年後の自分を想像し、今の快楽を捨てるという、人間だけが手に入れた高潔で残酷な舵取り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "lateralizati",
+		"word": "Lateralizat",
+		"meaning": "側性（そくせい）化（か）、脳（のう）の左右（さゆう）分化（ぶんか）",
+		"etymology": [
+			"Latin latus (side)"
+		],
+		"concept": "Brain hemisphere specialzation",
+		"thinking": "言語の左、空間の右。右と左の「側面（Latus）」に、異なる役割という名の『別の貌』を割り振る。二つの異なる視座が、梁（脳梁）を介して対話することで、立体的な世界観という奇跡が産まれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "split_brain_",
+		"word": "Split-Brain",
+		"meaning": "分離（ぶんり）脳（のう）",
+		"etymology": [
+			"Split + Brain"
+		],
+		"concept": "Divided consciousness",
+		"thinking": "二つの脳を繋ぐ橋が「切断（Split）」されたとき。左の脳と右の脳は、互いのことを知らぬまま、それぞれの意志で動き出す。一人の人間の中に、完全に断絶された「二つの意識」が共生する、恐るべき多重人格の深淵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "confabulatio",
+		"word": "Confabulati",
+		"meaning": "作話（さくわ）、コンファビュレーション",
+		"etymology": [
+			"Latin con- + fabulari (to chat/tell stories)"
+		],
+		"concept": "Creating false explanations",
+		"thinking": "自分がなぜそれをしたのか分からないとき、脳は瞬時に「もっともらしい嘘（Story/Fabula）」を「作り（Con-）」、自らを納得させる。意識とは、支離滅裂な反射（無意識）を、一筋の物語へと仕立て上げる「編集者（嘘つき）」に過ぎないのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "cold_cogniti",
+		"word": "Cold Cognit",
+		"meaning": "冷（つめ）たい認知（にんち）",
+		"etymology": [
+			"Cold + Cognition"
+		],
+		"concept": "Thinking without emotion",
+		"thinking": "感情という名の「情熱（熱）」を排除した、純粋な論理と計算。チェスを指すように、冷徹に、効率的に世界を掌握する、機械的で「冷え切った（Cold）」知性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "hot_cognitio",
+		"word": "Hot Cogniti",
+		"meaning": "熱（あつ）い認知（にんち）",
+		"etymology": [
+			"Hot + Cognition"
+		],
+		"concept": "Thinking with emotion",
+		"thinking": "欲望、恐怖、愛情という名の「火（熱）」によって衝き動かされる思考。一見、不合理に見えて、そこには命を懸けるべき『守りたいもの』という名の、最も人間らしい正解が宿っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "heuristics_a",
+		"word": "Heuristics",
+		"meaning": "ヒューリスティクス、簡便（かんべん）な発見法（はっけんほう）",
+		"etymology": [
+			"Greek heuriskein (to find)"
+		],
+		"concept": "Mental shortcuts",
+		"thinking": "「見つける（Heuris-）」。すべてを計算するのではなく、過去の経験という名の「勘」を頼りに、一瞬で正解へと跳躍する。失敗することもあるが、それが無ければ私たちは思考の迷宮から一歩も外へ出られない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "bias_cogniti",
+		"word": "Cognit Bias",
+		"meaning": "認知（にんち）バイアス",
+		"etymology": [
+			"Latin bi- + as (slanting/oblique)"
+		],
+		"concept": "Systematic thinking errors",
+		"thinking": "脳という名のレンズに最初からついている、逃れられぬ「歪み（Bias）」。見たいものだけを見、信じたいことだけを信じる。この歪みこそが、私たちを時に狂わせ、時に生存という名の極限へと導いてきた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "dissonance_a",
+		"word": "Cognit Diss",
+		"meaning": "認知（にんち）的（てき）不協和（ふきょうわ）",
+		"etymology": [
+			"Latin dis- + sonare (to sound)"
+		],
+		"concept": "Uncomfortable conflicting beliefs",
+		"thinking": "自分の信念と、突きつけられた事実が「バラバラ（Dis-）」に「鳴り響く（Sonare）」。その不快な不協和音を消すために、私たちは真実を書き換え、あるいは自分の魂を曲げてでも、世界を『一貫した貌』へと繋ぎ止めようとする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "flow_state_a",
+		"word": "Flow State",
+		"meaning": "フロー状態（じょうたい）、没我（ぼつが）の境地（きょうち）",
+		"etymology": [
+			"Latin fluere (to flow)"
+		],
+		"concept": "Complete immersion in activity",
+		"thinking": "自分が消え、対象と一つになり、時間が「流れ（Flow）」の中に溶けていく。行為と意識の完璧な一致。自分の貌を忘れ、ただ一つの『生成する力』そのものになる、至高の幸福の瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "心の深淵を、意識の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"心の哲学と認知科学の極致へ。"
+			]
+		},
+		"example": "Philosophy of mind explores the nature of consciousness."
 	}
 ];
