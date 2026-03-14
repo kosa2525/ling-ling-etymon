@@ -395793,5 +395793,825 @@ const WORDS = [
 			]
 		},
 		"example": "Game theory analyzes strategic interactions between rational players."
+	},
+	{
+		"id": "structural_e",
+		"word": "Struct Eng",
+		"meaning": "構造工学（こうぞうこうがく）",
+		"etymology": [
+			"Latin struere (to build) + Ingeniare"
+		],
+		"concept": "Science of load-bearing systems",
+		"thinking": "「建てる（Struere）」ための「工夫（Engine）」。見かけの美しさの裏側で、目に見えない巨大な「重力」や「風」と格闘し、建物が自らの重みで崩れぬよう、力の流れをデザインする。文明の骨格（貌）を司る、理性の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "load_bearing",
+		"word": "Load-Bearin",
+		"meaning": "耐力（たいりょく）の、荷重（かじゅう）を支（ささ）える",
+		"etymology": [
+			"Load + Bearing"
+		],
+		"concept": "Supporting weight of structure",
+		"thinking": "重荷を「耐え（Bear）」、支える。華やかな装飾の影に隠れ、黙々と大地へと力を逃がし続ける、沈黙の英雄たちの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "compression_",
+		"word": "Compression",
+		"meaning": "圧縮（あっしゅく）",
+		"etymology": [
+			"Latin con- + premere (to press together)"
+		],
+		"concept": "Force pushing together",
+		"thinking": "「共に（Con-）」「押し（Preme）」潰す力。石やコンクリートが最も得意とする、重力の真っ向勝負。大地にしっかりと根ざし、押し固められることで生まれる、揺るぎなき強さの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "tension_adv_",
+		"word": "Tension (S)",
+		"meaning": "引張（ひっぱり）",
+		"etymology": [
+			"Latin tendere (to stretch)"
+		],
+		"concept": "Force pulling apart",
+		"thinking": "「引き伸ばされ（Tend）」、耐える力。鋼やロープが最も輝く、空へと繋ぎ止める力。ちぎれる寸前の、極限の緊張感から産まれる、軽やかで強靭な美しき貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "torsion_adv_",
+		"word": "Torsion",
+		"meaning": "捩（ねじ）れ、トルション",
+		"etymology": [
+			"Latin torquere (to twist)"
+		],
+		"concept": "Twisting force",
+		"thinking": "「ねじり（Torque）」の苦しみ。あらゆる方向から襲いかかる予期せぬ揺さぶり。中心軸を保ちつつ、歪みをしなやかに受け流すための、高度な数理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "shear_force_",
+		"word": "Shear Force",
+		"meaning": "剪断力（せんだんりょく）",
+		"etymology": [
+			"Old English scieran (to cut)"
+		],
+		"concept": "Force causing sliding",
+		"thinking": "「切り裂く（Shear）」力。面と面が互いに逆方向へ滑ろうとする、破壊の入り口。この断層のズレをいかに防ぐかが、重力の刃との闘争の核心である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "equilibrium_",
+		"word": "Stat Equil",
+		"meaning": "静的（せいてき）均衡（きんこう） (建築)",
+		"etymology": [
+			"Latin aequus + libra"
+		],
+		"concept": "State where all forces cancel",
+		"thinking": "すべての力が「釣り合い（Eq-）」、一ミリも動かない沈黙。激しい嵐の中でも、建物が平然としていられるのは、内部で無数の力が完璧に相殺し合っている、静かなる勝利の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "resonance_ad",
+		"word": "Resonance",
+		"meaning": "共振（きょうしん） (構造)",
+		"etymology": [
+			"Latin re- + sonare (to sound back)"
+		],
+		"concept": "Matching frequency vibration",
+		"thinking": "外界からの揺れが、建物の「魂の震え（固有周期）」と「再び（Re-）」「響き合って（Sound）」しまう悪夢。わずかな風が、巨大な橋を紙屑のように破壊する、エネルギーの恐ろしき増幅の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "damping_ad_v",
+		"word": "Damping",
+		"meaning": "減衰（げんすい）、ダンピング",
+		"etymology": [
+			"German dampfen (to muffle/smother)"
+		],
+		"concept": "Dissipating vibration energy",
+		"thinking": "揺れを「窒息（Dampen）」させ、エネルギーを熱へと逃がす。荒ぶる振動を、しなやかな装置が受け止め、優しく鎮める。狂気（共振）を理性に引き戻す、静謐な抑制の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "seismic_isol",
+		"word": "Seismic Iso",
+		"meaning": "免震（めんしん）",
+		"etymology": [
+			"Greek seismos (earthquake) + Latin insula (island)"
+		],
+		"concept": "Protecting from quakes",
+		"thinking": "建物を大地から「島（Insula）」のように「切り離す」。地震の「揺れ（Seismos）」を建物に伝えない、究極の回避の戦略（貌）。大地と戦わず、ただ柳のように受け流す、賢明なる生存の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "ductility_ad",
+		"word": "Ductility",
+		"meaning": "延性（えんせい）",
+		"etymology": [
+			"Latin ducere (to lead)"
+		],
+		"concept": "Ability to deform without breaking",
+		"thinking": "「導かれ（Ducere）」、伸びる力。ポキリと折れるのではなく、変形しながらエネルギーを吸収し、粘り強く耐え抜く。完璧な硬さよりも、折れぬ柔らかさを尊ぶ、構造の深奥にある慈悲の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "elasticity_a",
+		"word": "Elasticity",
+		"meaning": "弾性（だんせい）",
+		"etymology": [
+			"Greek elaunein (to drive)"
+		],
+		"concept": "Ability to return to shape",
+		"thinking": "「押し返され」、元の貌へと戻る力。変化を受け入れつつも、決して自分（貌）を失わない、しなやかな復元力の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "plasticity_a",
+		"word": "Plasticity",
+		"meaning": "塑性（そせい）",
+		"etymology": [
+			"Greek plastos (molded)"
+		],
+		"concept": "Permanent deformation",
+		"thinking": "「形作られた（Plastos）」まま、戻らない変異。限界を超えた力が加わったとき、建物は永久にその貌を歪ませる。それは破壊の一歩手前、エネルギーを自らの肉体に刻み込んで凌いだ、痛々しくも誇り高い敗北の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "cantilever_a",
+		"word": "Cantilever",
+		"meaning": "片持（かたも）ち梁（ばり）、カンチレバー",
+		"etymology": [
+			"Quante (beam/angle) + Lever"
+		],
+		"concept": "Projecting beam fixed at one end",
+		"thinking": "片方だけで支え、空へと突き出す。重力に対する最も大胆な「反抗」のデザイン。空中に浮いているかのような錯覚を産む、建築家の野望と数理の均衡（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "truss_struct",
+		"word": "Truss",
+		"meaning": "トラス構造（こうぞう）",
+		"etymology": [
+			"Old French trousse (bundle/case)"
+		],
+		"concept": "Structure of connected triangles",
+		"thinking": "「三角形」という、決して歪まぬ完璧な幾何学を「束ね（Trousse）」、巨大な力を分散する。スカスカの骨組みの中に、鋼のような強さを宿す、効率と美学の融合した貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "arch_struct_",
+		"word": "Arch",
+		"meaning": "アーチ構造（こうぞう）",
+		"etymology": [
+			"Latin arcus (bow)"
+		],
+		"concept": "Curved structure for weight",
+		"thinking": "「弓（Arcus）」のような曲線。引張（テンション）をすべて圧縮へと変換し、石の重さを力強い抱擁に変える、古代ローマからの英知の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "vault_arch_a",
+		"word": "Vault",
+		"meaning": "穹窿（きゅうりゅう）、ヴォールト",
+		"etymology": [
+			"Latin volvere (to roll)"
+		],
+		"concept": "Arched ceiling or roof",
+		"thinking": "アーチを「回転（Volve）」させ、空間全体を包み込む。空を模した天井。重力を魔法のように消し去り、無限の広がりを感じさせる、神聖なる空間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "dome_arch_ad",
+		"word": "Dome",
+		"meaning": "ドーム、丸屋根（まるやね）",
+		"etymology": [
+			"Latin domus (house)"
+		],
+		"concept": "Hemispherical roof",
+		"thinking": "「家（Domus）」の究極の形。一点の柱もなく、空を自らの手の中に収める。完璧な対称性が産む、宇宙の秩序を地上に具現化したかのような、荘厳なる調和の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "flying_buttr",
+		"word": "Fly Buttress",
+		"meaning": "飛（と）び梁（ばり）、フライング・バットレス",
+		"etymology": [
+			"Flying + French bouter (to thrust)"
+		],
+		"concept": "External support for high walls",
+		"thinking": "高い壁を外側から「突き（Bouter）」支える、優雅な「飛翔（Flying）」する骨組み。重力を外へと解き放ち、石の壁を光（窓）へと変える、ゴシック建築の勝利の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "buttress_adv",
+		"word": "Buttress",
+		"meaning": "扶壁（ふへき）、控え（ひかえ）壁（かべ）",
+		"etymology": [
+			"Old French bouter (to push)"
+		],
+		"concept": "Projecting support for wall",
+		"thinking": "内側からの巨大な圧力を、外から「押し（Bouter）」返すための力強い足場。支えることの誇りを体現する、無骨で誠実な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "facade_arch_",
+		"word": "Facade",
+		"meaning": "ファサード、正面（しょうめん）",
+		"etymology": [
+			"Latin facies (face)"
+		],
+		"concept": "Face of a building",
+		"thinking": "建物の「貌（Face）」。都市と対話し、内側の物語を予感させ、あるいは峻絶する。建築家が最も情熱を注ぎ、自らの思想を一本の線、一枚の皮膚に刻み込む、情報の最前線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "fenestratio",
+		"word": "Fenestration",
+		"meaning": "窓（まど）割（わ）り、開口部（かいこうぶ）配置（はいち）",
+		"etymology": [
+			"Latin fenestra (window)"
+		],
+		"concept": "Design of windows/openings",
+		"thinking": "壁という沈黙の中に、「光（Fenestra）」という名の言葉を刻む。内と外を繋ぎ、影と光を織りなす。視覚の音楽を奏でるための、空白のデザイン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "atrium_arch_",
+		"word": "Atrium",
+		"meaning": "アトリウム、吹き抜け",
+		"etymology": [
+			"Latin atrium (central court/hall)"
+		],
+		"concept": "Open central court",
+		"thinking": "建物の中心にある、光が降り注ぐ「中庭」。密閉された人工物の中に、空という名の「野生」を招き入れる、呼吸する空間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "orthogonal_",
+		"word": "Orthogonal",
+		"meaning": "直交（ちょっこう）する、垂直（すいちょく）な",
+		"etymology": [
+			"Greek orthos (straight) + gonia (angle)"
+		],
+		"concept": "Right-angled",
+		"thinking": "「正しい（Orthos）」「角度（Gonia）」。逸脱を許さぬ、完璧な直角。モダニズムが求めた、極限の理性的秩序と効率の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "organic_arch",
+		"word": "Organic Arc",
+		"meaning": "有機（ゆうき）的（てき）建築（けんきゅう）",
+		"etymology": [
+			"Greek organon (tool/instrument)"
+		],
+		"concept": "Architecture inspired by nature",
+		"thinking": "「生命（Organon）」のように、周囲の環境と溶け合い、成長し、変化する建築。直線を捨て、自然界の曲線を取り入れた、柔らかくも強靭な命の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "biophilic_ad",
+		"word": "Biophilic",
+		"meaning": "バイオフィリック・デザイン",
+		"etymology": [
+			"Greek bios + philia (loving)"
+		],
+		"concept": "Love of life in design",
+		"thinking": "命（Bios）を愛する（Philia）。植物、水、光。人工物の中に太古の記憶を埋め込み、私たちの魂が本来求めている「森（安らぎ）」を再構築する、癒しの空間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "tensile_stru",
+		"word": "Tensile Str",
+		"meaning": "膜（まく）構造（こうぞう）、テンシル構造（こうぞう）",
+		"etymology": [
+			"Latin tendere (to stretch)"
+		],
+		"concept": "Structure held by tension",
+		"thinking": "「引き伸ばされた（Tend）」膜によって、広大な空間を覆う。石の重さを捨て、空気の軽さを手に入れた、浮遊するテントのような、自由で儚き知性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "tectonics_ad",
+		"word": "Tectonics",
+		"meaning": "テクトニクス、建築（けんちく）的（てき）構法（こうほう）",
+		"etymology": [
+			"Greek tekton (builder)"
+		],
+		"concept": "Art of construction",
+		"thinking": "「建てる者（Tekton）」の技。ただ積み上げるのではなく、素材の叫びに耳を傾け、接合部（ディテール）の一つ一つに哲学を宿らせる。物質が意味へと昇華する、その接続点（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "modular_adv_",
+		"word": "Modular",
+		"meaning": "モジュラー方式（ほうしき）の",
+		"etymology": [
+			"Latin modulus (small measure)"
+		],
+		"concept": "Based on standardized units",
+		"thinking": "「小さな物差し（Modulus）」という単位（モジュール）の反復。無限の組み合わせ。秩序を維持しつつ、拡張し続ける、増殖する建築の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "brutalism_ad",
+		"word": "Brutalism",
+		"meaning": "ブルータリズム",
+		"etymology": [
+			"French beton brut (raw concrete)"
+		],
+		"concept": "Raw, honest architecture",
+		"thinking": "「剥き出しの（Brut）」コンクリート。装飾を偽りとし、素材の重さ、力強さ、その荒々しい誠実さをそのままさらけ出す。峻厳で、嘘のない、現代社会の骨格のような貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "parametric_",
+		"word": "Parametric",
+		"meaning": "パラメトリック・デザイン",
+		"etymology": [
+			"Greek para- + metron"
+		],
+		"concept": "Design via algorithmic parameters",
+		"thinking": "数式の「媒介変数（Parameter）」を変化させることで、人間には想像もつかない複雑な、しかし数理的に完璧な『流動的な形』を出力する。アルゴリズムが描く、生命のような非線形な建築の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "vernacular_a",
+		"word": "Vernacular",
+		"meaning": "ヴァナキュラー建築（けんきゅう）、郷土（きょうど）建築（けんきゅう）",
+		"etymology": [
+			"Latin vernaculus (native/domestic)"
+		],
+		"concept": "Architecture of common folk",
+		"thinking": "その土地に「根ざした（Native）」、名もなき人々が永い年月をかけて磨き上げた知恵の結晶。地元の素材、気候への適応。飾らぬ、しかし強靭な、大地の貌としての建築。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "monolithic_a",
+		"word": "Monolithic",
+		"meaning": "モノリス的な、一（いち）枚（まい）岩（いわ）のような",
+		"etymology": [
+			"Greek monos (single) + lithos (stone)"
+		],
+		"concept": "Made of single large stone",
+		"thinking": "「一つの（Mono）」「石（Lith）」。継ぎ目のない、巨大な塊。圧倒的な質量と沈黙。時間を超越した、絶対的な存在感を示す情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "phenomenolog",
+		"word": "Arch Pheno",
+		"meaning": "建築（けんちく）現象学（げんしょうがく）",
+		"etymology": [
+			"Greek phainomenon (appearance) + logos"
+		],
+		"concept": "Focus on experience/sensation",
+		"thinking": "図面上の理屈ではなく、実際にその空間に立った時に感じる「肌触り」「香り」「響き（Phainomenon）」。身体を通じて世界を知覚する、その原初的な『体験としての貌』を問う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "liminality_a",
+		"word": "Liminality",
+		"meaning": "境界（きょうかい）性（せい）、リミナリティ",
+		"etymology": [
+			"Latin limen (threshold)"
+		],
+		"concept": "State of being on a threshold",
+		"thinking": "「敷居（Limen）」の上に立つ。内でも外でもない、あるいは現在でも未来でもない、宙吊りの状態。そこではこれまでの役割が消え、新しい貌へと生まれ変わるための「あわい」の時間が流れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "tectonic_sh_",
+		"word": "Arch Tect",
+		"meaning": "建築（けんちく）的（てき）テクトニクス",
+		"etymology": [
+			"Tectonics"
+		],
+		"concept": "Poetics of construction",
+		"thinking": "継ぎ目、納まり、重なりの美。物質が重力に抗い、構造として立ち上がるその瞬間の「詩学（貌）」。細部にこそ神が宿るという、職人的な敬虔さの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "sustainable_",
+		"word": "Sustain Arc",
+		"meaning": "持続（じぞく）可能（かのう）な建築（けんきゅう）",
+		"etymology": [
+			"Latin sub- + tenere (to hold from below)"
+		],
+		"concept": "Eco-friendly architecture",
+		"thinking": "未来という名の建物を「下から（Sub-）」「支え（Ten-）」続ける。使い捨てを拒み、循環し、地球という大きな家に寄生するのではなく、共生する。時間を味方につける、賢明な寿命（貌）のデザイン。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "restoration_",
+		"word": "Restoration",
+		"meaning": "修復（しゅうふく） (建築)",
+		"etymology": [
+			"Latin re- + staurare (to set up again)"
+		],
+		"concept": "Returning to original state",
+		"thinking": "擦り切れた過去の記憶を「再び（Re-）」「立て直す（Staur-）」。ただ新しくするのではなく、かつての精神（貌）を蘇らせ、千年の時間という重みを次世代へと手渡す。文化の延命の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "urban_fabric",
+		"word": "Urban Fab",
+		"meaning": "都市（とし）の織物（おりもの）",
+		"etymology": [
+			"Latin urbs + fabrica (workshop/fabric)"
+		],
+		"concept": "Interwoven city patterns",
+		"thinking": "建物と道、広場と人が複雑に「織り合わされた（Fabric）」巨大なじゅうたん。個別の建物は糸に過ぎず、都市全体が一枚の巨大な『貌』として呼吸している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "genius_loci_",
+		"word": "Genius Loci",
+		"meaning": "土地（とち）の精霊（せいれい）、地（ち）の霊（れい）",
+		"etymology": [
+			"Latin genius (spirit) + loci (of the place)"
+		],
+		"concept": "Spirit/atmosphere of a place",
+		"thinking": "その「場所（Loci）」だけが持つ、固有の「気配（Genius）」。目には見えないが、建築家がその霊感（貌）を正しく読み取った時、建物はその土地の必然的な一部として産声を上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
+	},
+	{
+		"id": "structural_p",
+		"word": "Patho (S)",
+		"meaning": "構造（こうぞう）病理（びょうり）学（がく）",
+		"etymology": [
+			"Greek pathos (suffering) + logos"
+		],
+		"concept": "Study of structure failure",
+		"thinking": "建物の「苦しみ（Pathos）」を読み解く。ひび割れ、腐食、沈下。沈黙の建物が発するSOSを聴き取り、崩壊を食い止める。老いと死を見つめる、建築の医学的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重力の深淵を、建築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"構造工学と建築学の極致へ。"
+			]
+		},
+		"example": "Structural engineering ensures that buildings can withstand various loads."
 	}
 ];
