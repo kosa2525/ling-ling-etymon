@@ -326010,5 +326010,215 @@ const WORDS = [
 				"万物の理を索めて。"
 			]
 		}
+	},
+	{
+		"id": "norm_words",
+		"word": "Norm",
+		"meaning": "規範、基準、ノルム(数学)",
+		"era": "Latin norma",
+		"etymology": {
+			"components": [
+				"norma (carpenter's square / rule)"
+			],
+			"original_statement": "From Latin norma 'carpenter's square / rule'."
+		},
+		"concept": "The measure of length (正しき物差し、存在の重み)",
+		"thinking": "「大工の曲尺（Norma）」。無限次元の広大な空間の中で、迷わずに『長さ（価値）』を測るための基準。それは単なる数値ではなく、対象がどれだけの『実体（重み）』を持って存在しているかを示す指標です。",
+		"aftertaste": "自分なりの確固たる『基準（ノルム）』を持つことで、揺るぎない自分になれます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "inner_product",
+		"word": "Inner Product",
+		"meaning": "内積",
+		"era": "English inner + Latin productum",
+		"etymology": {
+			"components": [
+				"inner (within)",
+				"pro- (forward)",
+				"ducere (to lead)"
+			],
+			"original_statement": "The product of two vectors' magnitude and the cosine of the angle between them."
+		},
+		"concept": "Leading within the overlap (内なる重なり、二つの魂の響き合い)",
+		"thinking": "「内に（Inner）」「導き出された（Product）」もの。二つの異なる存在が、どれだけ同じ方向を向き、どれだけ深く共鳴しているかを測る知覚。直交（内積ゼロ）すれば無関心、並行すれば最大の理解。心の角度を数理で解き明かします。",
+		"aftertaste": "誰かとの心の『角度』を意識するだけで、対話はもっと深まります。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "hilbert_space",
+		"word": "Hilbert Space",
+		"meaning": "ヒルベルト空間",
+		"era": "Named after David Hilbert",
+		"etymology": {
+			"components": [
+				"David Hilbert (Mathematician)"
+			],
+			"original_statement": "Named after David Hilbert, who generalized Euclidean space to infinite dimensions."
+		},
+		"concept": "Geometric infinity (無限次元の調和、幾何学的な聖域)",
+		"thinking": "数学者ヒルベルトの名。無限の自由度（次元）を持ちながら、内積（角度や距離）という美しい規律が完璧に守られた究極の広がり。どんなに複雑な関数も、この空間の住人として優雅に分類されます。",
+		"aftertaste": "無限の広がりの中にも、必ず美しい秩序（ルール）が存在します。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "banach_space",
+		"word": "Banach Space",
+		"meaning": "バナッハ空間",
+		"era": "Named after Stefan Banach",
+		"etymology": {
+			"components": [
+				"Stefan Banach (Mathematician)"
+			],
+			"original_statement": "Named after Stefan Banach, who established the theory of complete normed vector spaces."
+		},
+		"concept": "Complete measure (完備なる尺度、穴のない思考)",
+		"thinking": "数学者バナッハの名。極限まで追求しても、決して外へはみ出したり、途切れたりしない『完備性』を備えた空間。信頼に足る、穴のない論理の大地。一歩一歩の思考が、必ずどこかの目的地（極限）に辿り着くという約束の場所です。",
+		"aftertaste": "誠実な思考の積み重ねは、必ず『答え』へと収束します。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "functional_words",
+		"word": "Functional",
+		"meaning": "関数的な、実用的な、汎関数",
+		"era": "Latin functio",
+		"etymology": {
+			"components": [
+				"fungi (to perform)"
+			],
+			"original_statement": "From Latin functio 'performance', from fungi 'to perform'."
+		},
+		"concept": "Evaluating the performance (働きを評価する、全体への配慮)",
+		"thinking": "「成し遂げる（Fung）」。個別の点ではなく、関数全体という『一つの物語』を受け取って、一つの価値を導き出す特別な仕事。マクロな視点で全体を俯瞰し、その本質を一言（数）で表現する高度な知性の働きです。",
+		"aftertaste": "細部にこだわると同時に、全体を一つの作品（関数）として見る視点を。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "operator_spectrum",
+		"word": "Spectrum (Operator)",
+		"meaning": "スペクトル（作用素の）",
+		"era": "Latin spectrum",
+		"etymology": {
+			"components": [
+				"specere (to see)"
+			],
+			"original_statement": "The set of scalars for which the operator behaves singularly."
+		},
+		"concept": "Visible characteristic values (見えざる波長、固有の響き)",
+		"thinking": "作用素が持つ『魂の指紋』。その作用を特徴づける特別な数値たちの集合。プリズムを通した光のように、その存在の深層にある多様な性質を白日の下に晒します。固有の響きを知ることは、その存在の本質を理解することです。",
+		"aftertaste": "あなただけの固有の響き（スペクトル）が、世界に彩りを与えます。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "kernel_math",
+		"word": "Kernel",
+		"meaning": "核、中心、核芯",
+		"era": "Old English cyrnel",
+		"etymology": {
+			"components": [
+				"cyrnel (small grain / seed)"
+			],
+			"original_statement": "From Old English cyrnel, diminutive of corn 'grain / seed'."
+		},
+		"concept": "The seed of silence (沈黙の種子、無へと帰る場所)",
+		"thinking": "「小さな種（Cyrnel）」。その作用を及ぼした結果、ゼロ（無）へと消え去ってしまう要素たちの聖域。表面上は消えてしまったように見えても、そこにはその作用の特質を決定づける最も重要な『核心』が隠されています。",
+		"aftertaste": "無（ゼロ）に還る場所にこそ、もっとも純粋な種子が眠っています。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "dual_space",
+		"word": "Dual Space",
+		"meaning": "双対空間",
+		"era": "Latin duo",
+		"etymology": {
+			"components": [
+				"duo (two)"
+			],
+			"original_statement": "From Latin dualis, from duo 'two'."
+		},
+		"concept": "The mirror image of thought (思考の裏返し、観測者の空間)",
+		"thinking": "「二つ（Duo）」。実体のある空間と、それを『観測する（測る）』空間という、切っても切れない対（ペア）。対象と観測者は鏡合わせ。測る側を知ることで、初めて測られる側の正体が明らかになります。",
+		"aftertaste": "あなたは世界を見ているようでいて、実は世界に映る自分を見ています。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
+	},
+	{
+		"id": "eigenvalue_words",
+		"word": "Eigenvalue",
+		"meaning": "固有値",
+		"era": "German eigen + English value",
+		"etymology": {
+			"components": [
+				"eigen (own / proper)",
+				"valere (be strong / worth)"
+			],
+			"original_statement": "Half-translated from German Eigenwert, from eigen 'own' + Wert 'value'."
+		},
+		"concept": "Own intrinsic value (自らに固有の価値、不変の倍率)",
+		"thinking": "「自分自身の（Eigen）」「価値（Value）」。周囲の環境が激変しても、自分という存在の本質を歪めず、ただその強さ（倍率）だけを増減させる特別な値。どんな圧力を受けても変わらない、あなた自身の『誇り』の数値です。",
+		"aftertaste": "揺れ動く世界の中で、自分だけの『固有の値』を信じ抜いて。",
+		"part_of_speech": "noun",
+		"example": "Science clarifies the invisible structures of the world.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求の果てに。"
+			]
+		}
 	}
 ];
