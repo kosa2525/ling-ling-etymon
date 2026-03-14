@@ -322415,5 +322415,84 @@ const WORDS = [
    "original_statement": "A structure formed by diffused material in orbital motion around a massive central body."
   },
   "concept": "The glowing whirlpool (「。。、。、死。、。、」。へと、。、。、。向（。む）。。、。かう。。、。、直。前。の、。、。、。峻烈。な。、。。、。最後。の、。、。、。、。「。、。、、輝き。、。、。、」。それは、。、。、。、。呑（。の。）。。、。、ま。、れる。。、。、。寸。前に。、。、。、。、理知。、が、。、。、。放（。はな）。。、。つ。。、。魂。の、。、。、。絶。、。、唱。、)"
+ },
+ {
+  "id": "sobolev-space",
+  "word": "Sobolev Space",
+  "meaning": "ソボレフ空間、微分の「質（。しつ）。。、」。さえも。、。、。ノルム。として。、。、。捉（。と。）。、。らえる。。、。、峻烈な。、。、。関数。、。空間。、",
+  "era": "Name Sergei Sobolev",
+  "etymology": {
+   "components": [
+    "Sergei Sobolev (mathematician)"
+   ],
+   "original_statement": "Vector spaces of functions equipped with a norm that combines L^p-norms of the function itself and its derivatives."
+  },
+  "concept": "The layered depth (「。。、。見ため。、。、」。の、。、。。滑（なめ）。。らかな。、。、。姿。、だけではなく。、。、。その。。、奥底に。、。、。潜（ひそ）。。、。む、。、。激しい。、、。、。。「。。、。、変化。の、。勢。い。、。、。、」。さえも。、。、。、理知。の、。、。。眼。、ざ。し。、で。、。、。測（。はか）。。、。り。。、。尽（。つ。）。、。くす、。、。、。ための。、。、。、。、壮大な。。、。、器。、)"
+ },
+ {
+  "id": "hilbert-space",
+  "word": "Hilbert Space",
+  "meaning": "ヒルベルト空間、無限の次元を持つ、完備なる。、。、宇宙。、",
+  "era": "Name David Hilbert",
+  "etymology": {
+   "components": [
+    "David Hilbert (mathematician)"
+   ],
+   "original_statement": "A generalization of Euclidean space that extends the methods of vector algebra and calculus from two-dimensional and three-dimensional spaces to spaces with any finite or infinite number of dimensions."
+  },
+  "concept": "Infinite dimension (「。。、どこまでも。、。、」。広。、。がり。、。、つづ。ける。。、。、。「。。、。、。方向。、。、。、」。たちが。、。、。、不意に。、。、。調（。ととの）。。、。い。。、。一。、。つの。、。、。、。美。しき。、。、。。理知。の、。、。。伽（。が）。。、。藍（。らん）。。、。を。、。、。築。、。、。き。。、。上げる。。、。、一。、。瞬、。、。、そこには。、。、。、。神。、。の。、。。、。計算。。、。書。。が。、。。、広がって。、。、。います。、。)"
+ },
+ {
+  "id": "dirichlet-condition",
+  "word": "Dirichlet Condition",
+  "meaning": "ディリクレ境界条件、世界の「端（はじ）」での値を。、。、。一つに。、。、定め。。、。る。。、。理知。の、。、。。法。、。、則。、",
+  "era": "Name Peter Gustav Lejeune Dirichlet",
+  "etymology": {
+   "components": [
+    "Peter Gustav Lejeune Dirichlet (mathematician)"
+   ],
+   "original_statement": "A type of boundary condition named after Peter Gustav Lejeune Dirichlet, specifying the values that a solution needs to take along the boundary of the domain."
+  },
+  "concept": "The boundary value (「。。、ここ。、から。、。、」。先（。さき）。。、。、。。、は。、。、。、。決して。、。、。、。越（。こ）。。、。え。。、。られぬ。。、。、。峻烈な。、。、。、。、。「。。、。、。、。掟。、。、。、」。、。、。それ。を。、。、。、理知。が、。、。、。、。。世界の。、。、。。、。端（。はし）。。、。っこ、。に。、。、刻（きざ）。。、。む。。、。ことで、。、。、。、。内側。の。、。、。、。安。、。定。、。、。を。、。、守。り。、。、。抜（。ぬ）。。、。く。。、一。、。つの。、。、。、。祈。り。、)"
+ },
+ {
+  "id": "neumann-condition",
+  "word": "Neumann Condition",
+  "meaning": "ノイマン境界条件、世界の「端」から何が流れ。、。、。込み。、。、。何が。、。、。逃（。に。）。。、。げる。。、か。、。を。、。、、。司（。つかさ）。。、。どる。。、。、理。知。、",
+  "era": "Name Carl Neumann",
+  "etymology": {
+   "components": [
+    "Carl Neumann (mathematician)"
+   ],
+   "original_statement": "A type of boundary condition named after Carl Neumann, specifying the values that the derivative of a solution is to take on the boundary of the domain."
+  },
+  "concept": "The flow at boundary (「。。、。、境界。、。、」。を。、。、。、通（。とお）。。、。じて。。、。、。外と。、。、中が。、。、。、。どの。ように。、。、。、。触れ。。、。合い、。、。、。、。語。、り。。、。合う。。、べきか。、。、。という、。、。、。理。知。、。の。、。峻烈。な。、。、。、。、「。。、。、。、。対。話。、。、。、」。、。、。それは、。、。、。、変化。の。、。、。、。勢い。、を、。。。、。一。、。点。、。へと。、。、。、封（。ふう）。。、。じ。、。込（。こ。）。。、める。。、。、。知性の。、。、一。、。、。、。瞥。、)"
+ },
+ {
+  "id": "orthogonality",
+  "word": "Orthogonality",
+  "meaning": "直交性、互いに干渉せず、清々しく。、。、独立した。、。、。二つの。、。、意志。、",
+  "era": "Greek orthos + gonia",
+  "etymology": {
+   "components": [
+    "orthos (straight / right)",
+    "gonia (angle)"
+   ],
+   "original_statement": "From Greek orthos 'straight / right' + gonia 'angle'."
+  },
+  "concept": "The right angle (「。。、。私。、。、」。と。、。、「。。、。、あ。、な。た。、。、。」。が、。、。、。お互い。に、。、。、。何。も、。、。、。、無（む）。。、。駄。に、。、。、影響。。、し。。合（。あ）。。、。わ。。ず、。、。、。ただ。、。、。、。、静かに。、。、。、。、独。、。自。、。の。、。、。、方。、向。、へと。、。、。、進。、。み。。、つ。づ。ける。。、。ことの、。、。、。、。できる。。、。、。峻烈な。、。、。、。、。清。、。廉。、。、。な。、。、。。関係。、)"
+ },
+ {
+  "id": "spectral-theory",
+  "word": "Spectral Theory",
+  "meaning": "スペクトル理論、行列や作用素を、その根源的な。、。、「光」へと分解する試み。",
+  "era": "Latin spectrum",
+  "etymology": {
+   "components": [
+    "spectrum (image / appearance)"
+   ],
+   "original_statement": "From Latin spectrum 'appearance', later used for the components of light."
+  },
+  "concept": "Decomposing into light (「。。、。一つ。、。、。、」。の、。、。、巨大な。、。、。「。。、。、。、力。、。、。、」。を。、。、。あえて。、。、。、。、バラバラ。に。、。、。分解。し、。、。、。どのような。、。、。、。、輝き。の、。、。、。集まり。、。であるのか。、。を。、。、、明（。あ）。。、。ら。、。か。、。にする。。、。、。理知。の、。、。。プリズム。、。それは、。、。、。、闇。、。を。、。、光。へと、。、。変え。、。、。。るための。、。、。、峻烈な。、。、。、。。、。解。、。剖。、。学。、)"
  }
 ];
