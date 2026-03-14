@@ -321776,5 +321776,70 @@ const WORDS = [
    "original_statement": "From Greek osmos 'pushing / thrusting'."
   },
   "concept": "The silent thrust (「。。、。、水。、。、」。が、。、。、。、薄い。、。、膜（。まく）。。、。を。、。、。。、。す。、り。、。抜（。ぬ）。。、けて。、。、。、濃（。こ）。。、。い。。、。世界。を。、。、。満。た。、。そう。、。とする、。、。、。峻烈。な、。。、。、「。。、。、押。、。す。。、。力。、。、。、」。それ。は、。。、。、生命。の、。、。、根。、。源。、。、的な。、。、。、。、「。。、。、渇。、。、。、き。、。、。、」。の、。、。理。知。、)"
+ },
+ {
+  "id": "minkowski-space",
+  "word": "Minkowski Space",
+  "meaning": "ミンコフスキー空間、時間と空間が交錯する四次元の舞台。",
+  "era": "Name Hermann Minkowski",
+  "etymology": {
+   "components": [
+    "Hermann Minkowski (mathematician)"
+   ],
+   "original_statement": "A four-dimensional space combining the three dimensions of space and one of time."
+  },
+  "concept": "The woven space-time (「。。、。距離。、。、」。の、。、。。意味。が、。、。、光。り。、。輝く。。、。一。、。瞬、。の。、。中で。、。、。歪（ゆが）。。、。み。。、。変容。、。、する。。、。峻烈な。、。、。舞台。、。、それは、。、。、。過去。、。未来。、。、。そして。、。現在。が、。、。一。、。つの。、。、。幾何。、学。、。の、。網。の、。目。、。として。、。、。美。しく。、。、。、編（。あ。）。。、。まれた。。、。場所。、)"
+ },
+ {
+  "id": "noetherian",
+  "word": "Noetherian",
+  "meaning": "ネーターの、有限生成の性質を持つ代数系。",
+  "era": "Name Emmy Noether",
+  "etymology": {
+   "components": [
+    "Emmy Noether (mathematician)"
+   ],
+   "original_statement": "Named after Emmy Noether, central to abstract algebra and theoretical physics."
+  },
+  "concept": "The finite chain (どれ。ほど。、。、深い。、。、。構造。へと。、。、。降り。て。、。いっても。、。、。、いつ。しか。、。、。「。。、。、終。、。わ。、。り。。、。、」。、と、。出会い。、。、。すべて。が。、。、一。、。つの。、。、。理知。の、。、。。、「。。、。、。源。、。、。、」。、。、。へと。、。、。収。斂（。しゅう。れん）。。、。、する。。、。、。峻烈な。、。、。、。、。統。、。、。制。、。、。、)"
+ },
+ {
+  "id": "galois-theory",
+  "word": "Galois Theory",
+  "meaning": "ガロア理論、方程式の解の対称性を群で記述する美学。",
+  "era": "Name Évariste Galois",
+  "etymology": {
+   "components": [
+    "Évariste Galois (mathematician)"
+   ],
+   "original_statement": "A connection between field theory and group theory."
+  },
+  "concept": "Sybmmetric truth (「。。、解（。こたえ）。。、」。の、。、。。背後。に、。、。ひっそり。と、。、。、潜。、む。、。、「。。、。対称。、性。、。、」。という。、。、。、理知。の、。、。舞（ま）。。、。い。。、。それは、。、。、。激しく。、。、。燃（。も）。。、。え。。、。上がり。。、そして。、。、。一。、瞬、。の、。、。光。、。となって、。、。、。、。果。、。て。、た、。、。天才。の、。、。。、。遺。、言。、)"
+ },
+ {
+  "id": "banach-space",
+  "word": "Banach Space",
+  "meaning": "バナッハ空間、完備なノルム線型空間。",
+  "era": "Name Stefan Banach",
+  "etymology": {
+   "components": [
+    "Stefan Banach (mathematician)"
+   ],
+   "original_statement": "A complete normed vector space."
+  },
+  "concept": "Completed space (「。。、。、距離。、。、」。が、。、。、。、定（。さだ）。。、。め。。、。られ、。、。、。どのような。、。、。数列。も。、。、。、。決して。、。、。途。、。中で。、。、。、。。途（。と。）。、。ぎ。。れる。。、。こと。なく。、。、。一。、。つの。、。、。、。真理。へと。、。、。、。辿り。、着。ける。。、。ための。、。、。、。理知。の、。、。。、。器。、)"
+ },
+ {
+  "id": "hausdorff-space",
+  "word": "Hausdorff Space",
+  "meaning": "ハウスドルフ空間、二点を分離できる位相空間。",
+  "era": "Name Felix Hausdorff",
+  "etymology": {
+   "components": [
+    "Felix Hausdorff (mathematician)"
+   ],
+   "original_statement": "A topological space in which any two distinct points have disjoint neighborhoods."
+  },
+  "concept": "The separation (「。。、。私。、。、」。と。、。、「。。、。、あ。、な。た。、。、。」。が、。、。、決して。、。、。交（。ま。）。、。、じ。、。わら。。、ぬ。。、。ように、。、。、。、。一。、。つの。、。、。、。。「。。、。、。壁。、。、。、」。を。、。、。隔（。へだ）。。、。て。。、。て。、。、。、それぞれの。、。、。、自。、。由。、を。、。、守。り。、。、抜（。ぬ）。。、。く。。、。、。理。知。の、。、。。、。法。、。、則。、)"
  }
 ];
