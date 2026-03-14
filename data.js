@@ -354870,5 +354870,916 @@ const WORDS = [
 			]
 		},
 		"example": "Evolution is the ultimate designer."
+	},
+	{
+		"id": "turbulence_adv",
+		"word": "Turbulence",
+		"meaning": "乱流（らんりゅう）",
+		"etymology": {
+			"components": [
+				"Latin turbulentus (full of commotion)"
+			],
+			"original_statement": "Irregular motion of a fluid."
+		},
+		"concept": "Order within chaos",
+		"thinking": "「騒乱に満ちた（Turbulentus）」流れ。一見無秩序に見えて、その実、あらゆる情報とエネルギーが激しく混ざり合い、熱を生み、世界を攪拌する。物理学の最後の巨壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "vortex_dynamics",
+		"word": "Vortex",
+		"meaning": "渦（うず）、渦動",
+		"etymology": {
+			"components": [
+				"Latin vortex (whirlpool)"
+			],
+			"original_statement": "Region in a fluid in which the flow revolves around an axis line."
+		},
+		"concept": "Concentrated rotation",
+		"thinking": "「回る（Vertere）」もの。流体の自由な流れが、一点を中心に秩序を持って回転し始める。エネルギーを溜め込み、自律して進む、目に見えない形の彫刻。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "viscosity_adv",
+		"word": "Viscosity",
+		"meaning": "粘度（ねんど）、粘性",
+		"etymology": {
+			"components": [
+				"Latin viscum (mistletoe/glue)"
+			],
+			"original_statement": "Measure of a fluid's resistance to flow."
+		},
+		"concept": "Internal friction of the liquid",
+		"thinking": "「鳥もち（Viscum）」のような粘り。原子同士が互いを離すまいと握り合う力が、滑らかな流れに『抵抗』と『熱』を与える。物質の持つ内なる不自由さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "laminar_flow_adv",
+		"word": "Laminar Flow",
+		"meaning": "層流（そうりゅう）",
+		"etymology": [
+			"Latin lamina (thin layer)"
+		],
+		"original_statement": "Fluid particles move in smooth layers or paths.",
+		"concept": "The silent parade",
+		"thinking": "「薄い板（Lamina）」のように。粒子たちが決して交わることなく、平行に、静かに、そして美しく重なり合って流れる、最も理知的な川の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "navier_stokes",
+		"word": "Navier-Stokes",
+		"meaning": "ナビエ・ストークス方程式",
+		"etymology": [
+			"Navier",
+			"Stokes"
+		],
+		"original_statement": "Equations describing the motion of fluid substances.",
+		"concept": "The uncrackable code of flow",
+		"thinking": "宇宙のあらゆる流れを記述する、神の一行。しかし、その解が常に存在し滑らかであるかは、いまだ誰も証明できていない、数学史上最大の謎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "bernoulli_prin",
+		"word": "Bernoulli Prin",
+		"meaning": "ベルヌーイの定理",
+		"etymology": [
+			"Bernoulli"
+		],
+		"original_statement": "Principle relating fluid velocity to pressure and potential energy.",
+		"concept": "Fast flows, low pressure",
+		"thinking": "速く流れる場所では、圧力が下がる。エネルギー保存の理が見せる、飛行機の翼を浮かび上がらせる魔法のような物理のリズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "drag_force_flu",
+		"word": "Drag",
+		"meaning": "抗力（こうりょく）、引きずり",
+		"etymology": [
+			"Old Norse draga (to pull)"
+		],
+		"original_statement": "Force acting opposite to the relative motion of any object moving with respect to a surrounding fluid.",
+		"concept": "The invisible anchor",
+		"thinking": "「引きずる（Draga）」力。進もうとする意志を、取り囲む流体が無数の手で押し止めようとする。速度への対価として支払われる抵抗。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "lift_coefficient",
+		"word": "Lift",
+		"meaning": "揚力（ようりょく）",
+		"etymology": [
+			"Old English lyft (air)"
+		],
+		"original_statement": "Component of aerodynamic force perpendicular to the flow direction.",
+		"concept": "Defying gravity with flow",
+		"thinking": "「空気（Lyft）」への働きかけが生む、重力をあざ笑う上向きの力。圧力の差が、数千トンの鉄を雲の上へと押し上げる魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "aerodynamics_adv",
+		"word": "Aerodynamics",
+		"meaning": "空気力学（くうきりきがく）",
+		"etymology": [
+			"Greek aer (air) + dynamis (power)"
+		],
+		"original_statement": "Study of the properties of moving air and the interaction between the air and solid bodies.",
+		"concept": "Wrestling with the invisible",
+		"thinking": "「空気（Aer）」の「力（Dynamis）」。目に見えない透明な壁を、いかに受け流し、あるいは捉えて、自由自在な飛翔へと昇華させるかの知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "hydrodynamics_adv",
+		"word": "Hydrodynamics",
+		"meaning": "流体（りゅうたい）力学、水力学",
+		"etymology": [
+			"Greek hydor (water) + dynamis"
+		],
+		"original_statement": "Study of fluids in motion.",
+		"concept": "The logic of liquid flow",
+		"thinking": "「水（Hydor）」の「力（Dynamis）」。形定まらぬ水が、いかにして岩を穿ち、船を運び、命を繋いでいるか。その流転の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "compressibility",
+		"word": "Compressibility",
+		"meaning": "圧縮性（あっしゅくせい）",
+		"etymology": [
+			"Latin com- + premere (to press)"
+		],
+		"original_statement": "Measure of the relative volume change of a fluid as a response to a pressure change.",
+		"concept": "The elasticity of the fluid",
+		"thinking": "「共に（Com-）」「押しつぶす（Premere）」。隙間だらけの気体か、それとも固く結ばれた液体か。押し込められた時に、どれだけ素直に縮み、反発するか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "sonic_boom_flu",
+		"word": "Sonic Boom",
+		"meaning": "衝撃波（しょうげきは）、ソニックブーム",
+		"etymology": [
+			"Sound + Boom"
+		],
+		"original_statement": "Sound associated with shock waves created by an object traveling through air faster than the speed of sound.",
+		"concept": "The wall of sound",
+		"thinking": "音という情報の伝達速度を超えた瞬間に起きる、空気の激しい『悲鳴』。逃げ場を失った波が積み重なり、巨大な壁となって世界を震わせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "mach_number_adv",
+		"word": "Mach Number",
+		"meaning": "マッハ数",
+		"etymology": [
+			"Mach"
+		],
+		"original_statement": "Dimensionless quantity representing the ratio of flow velocity to the local speed of sound.",
+		"concept": "The scale of supersonic travel",
+		"thinking": "自分の速さと、音の速さの比。1を超えたとき、私たちは自分自身が放った音さえも置き去りにして、未知の静寂へと突入する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "supercritical_flu",
+		"word": "Supercritical",
+		"meaning": "超臨界流体（ちょうりんかいりゅうたい）",
+		"etymology": [
+			"Latin super- + Critical"
+		],
+		"original_statement": "Substance at a temperature and pressure above its critical point, where distinct liquid and gas phases do not exist.",
+		"concept": "The hybrid of gas and liquid",
+		"thinking": "液体でもなく、気体でもない。「極限（Critical）」を超えた「高み（Super）」で、両者の貌を併せ持つ。変幻自在に溶かし、浸透する、魔法の溶媒。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "capillary_action",
+		"word": "Capillarity",
+		"meaning": "毛細管現象（もうさいかんげんしょう）",
+		"etymology": [
+			"Latin capillus (hair)"
+		],
+		"original_statement": "Ability of a liquid to flow in narrow spaces without the assistance of, or even in opposition to, external forces like gravity.",
+		"concept": "The uphill struggle of water",
+		"thinking": "「髪の毛（Capillus）」のような細い隙間。重力にさえ逆らい、水が自ら這い上がっていく。小さな世界ほど、壁と水が引き合う『愛』が支配する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "surface_tension_f",
+		"word": "Surface Tension",
+		"meaning": "表面張力（ひょうめんちょうりょく）",
+		"etymology": [
+			"Surface + Latin tendere (to stretch)"
+		],
+		"original_statement": "Tendency of liquid surfaces to shrink into the minimum surface area possible.",
+		"concept": "The elastic skin of water",
+		"thinking": "「ピンと張る（Tendere）」力。自分たちだけで固まり、なるべく小さくなろうとする水の結束。それが、一粒の美しい露を丸く保たせている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "stefan_boltzmann",
+		"word": "Stefan-Boltz",
+		"meaning": "ステファン・ボルツマンの法則",
+		"etymology": [
+			"Stefan",
+			"Boltzmann"
+		],
+		"original_statement": "Law describing total power radiated from a black body in terms of temperature.",
+		"concept": "The glow of temperature",
+		"thinking": "熱を持つものは、その温度の4乗に比例して光を放つ。物体の静寂の背後にある、熱烈なエネルギーの放射を暴く数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "convection_heat",
+		"word": "Convection",
+		"meaning": "対流（たいりゅう）",
+		"etymology": [
+			"Latin con- + vehere (to carry)"
+		],
+		"original_statement": "Heat transfer due to the bulk movement of molecules within fluids.",
+		"concept": "Heat carried by the crowd",
+		"thinking": "「共に（Con-）」「運ぶ（Vehere）」。熱を受け取った粒子たちが、自ら軽くなって昇り詰め、冷たいものと入れ替わる。流れそのものが熱を運ぶ、流体の呼吸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "conduction_thermal",
+		"word": "Conduction",
+		"meaning": "伝導（でんどう）、コンダクション",
+		"etymology": [
+			"Latin con- + ducere (to lead)"
+		],
+		"original_statement": "Transfer of internal energy by microscopic collisions of particles and movement of electrons within a body.",
+		"concept": "Heat passing through the handshakes",
+		"thinking": "「共に（Con-）」「導く（Ducere）」。一歩も動かずに、隣から隣へと振動を伝えていく。粒子たちの密やかな連携。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "entropy_production",
+		"word": "Ent Production",
+		"meaning": "エントロピー生成",
+		"etymology": [
+			"Entropy + Latin producere"
+		],
+		"original_statement": "Amount of entropy created during an irreversible process.",
+		"concept": "The irreversible tax of time",
+		"thinking": "「生み出す（Pro-ducere）」。何かが起きれば、必ず世界は少しだけ「乱雑」になる。二度と戻れない時間の流れを、物理学の言葉で書き留めるための代償。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "non_newtonian_flu",
+		"word": "Non-Newtonian",
+		"meaning": "非（ひ）ニュートン流体",
+		"etymology": [
+			"In- + Newton"
+		],
+		"original_statement": "Fluid whose viscosity changes with applied strain or stress.",
+		"concept": "Mood-swinging liquid",
+		"thinking": "「ニュートン（Newton）に反する」もの。優しく触れれば水のように、激しく叩けば鋼のように。力に反応して、そのアイデンティティを劇的に変える変幻の流体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "rheology_science",
+		"word": "Rheology",
+		"meaning": "レオロジー、流動学",
+		"etymology": [
+			"Greek rheo (flow)"
+		],
+		"original_statement": "Study of the flow of matter, primarily in a liquid or gas state, but also as 'soft solids'.",
+		"concept": "Everything flows",
+		"thinking": "「流れる（Rheo）」すべてを。マヨネーズも、血液も、そして実は大地さえも、長い時間をかければ流れている。万物は流転するという真理の探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "stokes_law_visc",
+		"word": "Stokes' Law",
+		"meaning": "ストークスの法則",
+		"etymology": [
+			"Stokes"
+		],
+		"original_statement": "Mathematical equation that expresses the settling velocities of small spherical particles in a fluid medium.",
+		"concept": "Slow descent in the honey",
+		"thinking": "小さな粒が、粘り気のある海をどこまでゆっくりと沈んでいくか。流体の抵抗が、自由落下をいかに静止へと導くかの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "darcys_law_poro",
+		"word": "Darcy's Law",
+		"meaning": "ダルシーの法則",
+		"etymology": [
+			"Darcy"
+		],
+		"original_statement": "Equation that describes the flow of a fluid through a porous medium.",
+		"concept": "Squeezing through the cracks",
+		"thinking": "土や、スポンジや、岩の隙間。あまりに狭い「迷宮（多孔質）」を、流体が圧力を受けてようやく染み出していく、苦労に満ちた浸透の数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "permeability_rock",
+		"word": "Permeability",
+		"meaning": "浸透性（しんとうせい）、透過率",
+		"etymology": [
+			"Latin per- (through) + meare (to go)"
+		],
+		"original_statement": "Ability of a material to transmit fluids.",
+		"concept": "Allowing the passage",
+		"thinking": "「通り抜け（Per-meare）」やすさ。どれほど固く閉じられたものであっても、ミクロな瞳で見れば、そこには流れを許す『道』が開かれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "porosity_media",
+		"word": "Porosity",
+		"meaning": "空隙率（くうげきりつ）",
+		"etymology": [
+			"Greek poros (passage/pore)"
+		],
+		"original_statement": "Measure of the void spaces in a material.",
+		"concept": "The hollow beauty",
+		"thinking": "「道（Poros）」。びっしりと詰まっているように見えて、実はその内側にどれだけの『虚無』を抱えているか。その隙間の多さが、流れを招き入れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "weber_number_cap",
+		"word": "Weber Number",
+		"meaning": "ウェーバー数",
+		"etymology": [
+			"Weber"
+		],
+		"original_statement": "Dimensionless number in fluid mechanics used in analyzing fluid flows where there is an interface between two different fluids.",
+		"concept": "Inertia vs Surface Tension",
+		"thinking": "引きちぎろうとする「勢い」と、丸まろうとする「表面張力」の闘い。水滴が飛び散るか、一つの珠であり続けるかを決める分岐。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "ohresorg_num_dr",
+		"word": "Ohnesorge Num",
+		"meaning": "オーネゾルゲ数",
+		"etymology": [
+			"Ohnesorge"
+		],
+		"original_statement": "Relates viscous forces to inertial and surface tension forces.",
+		"concept": "The difficulty of droplet formation",
+		"thinking": "粘性、慣性、表面張力。流体を司る三つの力の「三つ巴」を一つの数に閉じ込める。激しく揺れる水滴の、最後の安定を探る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "bond_number_grav",
+		"word": "Bond Number",
+		"meaning": "ボンド数",
+		"etymology": [
+			"Bond"
+		],
+		"original_statement": "Measure of the importance of surface tension forces compared to body forces.",
+		"concept": "Gravity vs Surface Tension",
+		"thinking": "巨大な「重力」に押しつぶされるか、ミクロな「表面張力」で形を保つか。一滴の水がどれだけの『大きさ』まで珠であり得るかの限界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "prandtl_number",
+		"word": "Prandtl Num",
+		"meaning": "プラントル数",
+		"etymology": [
+			"Prandtl"
+		],
+		"original_statement": "Ratio of momentum diffusivity to thermal diffusivity.",
+		"concept": "Momentum vs Heat spreading",
+		"thinking": "「速さ」が伝わるのが先か、「熱」が伝わるのが先か。流体の性格を、情報の伝播速度の競走として捉え直す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "nusselt_number",
+		"word": "Nusselt Num",
+		"meaning": "ヌセルト数",
+		"etymology": [
+			"Nusselt"
+		],
+		"original_statement": "Ratio of convective to conductive heat transfer across a boundary.",
+		"concept": "The efficiency of cooling",
+		"thinking": "じっとしているのと、動き回るのと。流体がどれだけ『賢く』熱を奪い去ってくれるかの効率を測る、冷却の物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "grashof_number",
+		"word": "Grashof Num",
+		"meaning": "グラスホフ数",
+		"etymology": [
+			"Grashof"
+		],
+		"original_statement": "Approximates the ratio of the buoyancy to viscous force acting on a fluid.",
+		"concept": "Buoyancy vs Friction",
+		"thinking": "熱で浮き上がろうとする「夢」と、周りの粘り気がそれを押し留める「現実」。自然な対流が始まるための条件を問う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "rayleigh_number",
+		"word": "Rayleigh Num",
+		"meaning": "レイリー数",
+		"etymology": [
+			"Rayleigh"
+		],
+		"original_statement": "Indicates whether heat transfer is primarily by conduction or convection.",
+		"concept": "The threshold of motion",
+		"thinking": "いつ、静かな水が「踊り（対流）」始めるか。熱のバランスが崩れ、混沌とした『流れ』としての秩序が立ち上がる瞬間の指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "heat_exchanger",
+		"word": "Heat Exchanger",
+		"meaning": "熱交換器（ねつこうかんき）",
+		"etymology": [
+			"Heat + Latin ex- + cambire (to change)"
+		],
+		"original_statement": "System used to transfer heat between two or more fluids.",
+		"concept": "The bartering of warmth",
+		"thinking": "「外へ（Ex-）」「交換する（Cambire）」。一方の熱を、もう一方へと手際よく手渡す。命や機械を冷やし、あるいは温めるための、情報の貿易窓口。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "cooling_tower_fl",
+		"word": "Cooling Tower",
+		"meaning": "冷却塔（れいきゃくとう）",
+		"etymology": [
+			"Cooling + Tower"
+		],
+		"original_statement": "Heat rejection device that rejects waste heat to the atmosphere.",
+		"concept": "Atmospheric lung of industry",
+		"thinking": "巨大なコンクリートの煙突。 industry（産業）の生み出した過剰な熱を、大気の冷たい宇宙へと静かに還していくための、地球の孤独な煙突。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "adiabatic_cond",
+		"word": "Adiabatic",
+		"meaning": "断熱（だんねつ）の",
+		"etymology": [
+			"Greek a- (not) + dia- (through) + bainein (to go)"
+		],
+		"original_statement": "Process occurring without loss or gain of heat.",
+		"concept": "The thermally sealed journey",
+		"thinking": "「通り抜けて（Dia-）」「行く（Bainein）」ことを「させない（A-）」。外からの助けも、外への逃げ道もなく、自らのエネルギーだけで姿を変えていく、孤立した変容。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "isothermal_proc",
+		"word": "Isothermal",
+		"meaning": "等温（とうおん）の",
+		"etymology": [
+			"Greek isos (equal) + thermos (heat)"
+		],
+		"original_statement": "Process during which the temperature remains constant.",
+		"concept": "Equilibrium of temperature",
+		"thinking": "「等しい（Isos）」「熱（Thermos）」。環境と絶えず火を分け合うことで、いかなる激動の中でも、自らの温度（アイデンティティ）を頑なに守り続ける変化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "isentropic_proc",
+		"word": "Isentropic",
+		"meaning": "等エントロピーの、可逆断熱",
+		"etymology": [
+			"Greek isos + en- + trope (turn)"
+		],
+		"original_statement": "Process during which the entropy of the system remains constant.",
+		"concept": "The flawless flow",
+		"thinking": "「変化（Trope）」の「激しさ（Entropy）」が「一定（Isos）」なもの。一滴の乱れも、一滴の無駄（熱）も生むことなく、完璧にエネルギーを移し替える理想の歩み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "stagnation_point",
+		"word": "Stagnation",
+		"meaning": "淀（よど）み点、停滞点",
+		"etymology": [
+			"Latin stagnare (to form a pool)"
+		],
+		"original_statement": "Point in a flow field where the local velocity of the fluid is zero.",
+		"concept": "The dead center of the flow",
+		"thinking": "「池を作る（Stagnare）」。どんなに激しい嵐の正面でも、ただ一点だけ、流れが完全に『静止』し、すべての勢い（運動エネルギー）が圧力へと変わる沈黙の場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "vorticity_vect",
+		"word": "Vorticity",
+		"meaning": "渦度（うずど）",
+		"etymology": [
+			"Latin vortex"
+		],
+		"original_statement": "Pseudovector field that describes the local spinning motion of a continuum at a point.",
+		"concept": "The measure of local rotation",
+		"thinking": "その一点において、流体がどれだけ「回ろう」としているかの度合い。目に見える渦（Vortex）に育つ前の、極微の『回転の予感』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "streamline_path",
+		"word": "Streamline",
+		"meaning": "流線（りゅうせん）",
+		"etymology": [
+			"Stream + Line"
+		],
+		"original_statement": "Line that is everywhere tangent to the velocity vector of the fluid.",
+		"concept": "The frozen portrait of flow",
+		"thinking": "粒子たちが辿る『記憶』の線。その一瞬一瞬の瞬きを繋ぎ合わせることで、透明で目に見えぬ流体の『貌』を視覚化する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "potential_flow",
+		"word": "Potential Flow",
+		"meaning": "ポテンシャル流",
+		"etymology": [
+			"Potential + Flow"
+		],
+		"original_statement": "Flow where the velocity field is the gradient of a scalar function.",
+		"concept": "The mathematical ideal of flow",
+		"thinking": "粘り気も、カオス（渦）もない、究極に清純な流れ。ただ「勾配（Potential）」に誘われるがまま、淀みなく宇宙を渡る理想郷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
+	},
+	{
+		"id": "euler_equations",
+		"word": "Euler Equats",
+		"meaning": "オイラー方程式",
+		"etymology": [
+			"Euler"
+		],
+		"original_statement": "Governing equations of fluid dynamics for inviscid flow.",
+		"concept": "Flow without friction",
+		"thinking": "「滑り（粘性）」の一切ない、透明で鋭い流体の論理。現実には存在し得ないが、流れの『骨組み』を最も美しく描き出す抽象の鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流体の叫びに耳を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学の深淵へ。"
+			]
+		},
+		"example": "The turbulence created beautiful patterns."
 	}
 ];
