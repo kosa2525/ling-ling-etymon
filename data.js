@@ -371239,5 +371239,866 @@ const WORDS = [
 			]
 		},
 		"example": "The philosophy of science examines the foundations of knowledge."
+	},
+	{
+		"id": "bathymetry_ad",
+		"word": "Bathymetry",
+		"meaning": "深海測量（しんかいそくりょう）",
+		"etymology": [
+			"Greek bathys (deep) + metria (measure)"
+		],
+		"concept": "Mapping ocean floor",
+		"thinking": "「深さ（Bathys）」を「測る（Metria）」こと。光の届かない漆黒の底にある、巨大な山脈や深い溝。見えない世界の『起伏』を暴き、大地の真実の貌を描き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "benthic_zone_",
+		"word": "Benthic Zone",
+		"meaning": "底生（ていせい）域",
+		"etymology": [
+			"Greek benthos (depth of sea)"
+		],
+		"concept": "The ocean floor environment",
+		"thinking": "海の「最深部（Benthos）」。すべてが降り積もる、沈黙の土壌。そこは終わりではなく、死骸を糧にする無数の命たちが蠢く、宇宙で最も静かで力強い理の場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "pelagic_zone_",
+		"word": "Pelagic Zone",
+		"meaning": "外洋（がいよう）域",
+		"etymology": [
+			"Greek pelagos (open sea)"
+		],
+		"concept": "The open water column",
+		"thinking": "「広大な海（Pelagos）」。底も岸も見えない、青き虚空。漂い、泳ぎ続ける者たちにとっての、境界なき自由と孤独の空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "abyssal_plain",
+		"word": "Abyssal Plain",
+		"meaning": "深海平原（しんかいへいげん）",
+		"etymology": [
+			"Greek abyssos (bottomless)"
+		],
+		"concept": "Flat vast ocean floor",
+		"thinking": "「底なしの（Abyss）」場所にある、見渡す限りの「平原」。何万年もの間、マリンスノーが降り積もってできた、地球上で最も滑らかで最も孤独な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "hadal_zone_ad",
+		"word": "Hadal Zone",
+		"meaning": "超深海層（ちょうしんかいそう）",
+		"etymology": [
+			"Greek Hades (god of underworld)"
+		],
+		"concept": "The deepest trenches",
+		"thinking": "「冥界（Hades）」の領域。水深6000メートルを越える、光も酸素も絶たれた極限の深淵。神にさえ忘れられたようなその暗闇に、独自の生命が息づいているという神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "thermocline_a",
+		"word": "Thermocline",
+		"meaning": "水温躍層（すいおんやくそう）",
+		"etymology": [
+			"Greek thermos + klinein (to lean/slope)"
+		],
+		"concept": "Steep temp transition",
+		"thinking": "「熱（Thermos）」が「傾く（Klinein）」層。表面の温かさと、深海の氷のような冷たさが、激しく入れ替わる境界。海を上下に分断する、目に見えない温度の壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "halocline_adv",
+		"word": "Halocline",
+		"meaning": "塩分躍層（えんぶんやくそう）",
+		"etymology": [
+			"Greek hals (salt) + klinein"
+		],
+		"concept": "Steep salinity transition",
+		"thinking": "「塩（Hals）」の濃さが「傾く（Klinein）」境界。水の中でさえ、重みの違う水同士が混ざり合うのを拒み、層を成して重なり合っている、海の見えない彫刻。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "hydrothermal_",
+		"word": "Black Smoker",
+		"meaning": "ブラック・スモーカー、熱水（ねつすい）噴出孔",
+		"etymology": [
+			"Black + Smoke"
+		],
+		"concept": "Enriching floor with minerals",
+		"thinking": "地球の裂け目から噴き出す、真っ黒な「煙（Smoke）」。それは命を焼き尽くす毒でありながら、同時に深海の生態系を支える母なる乳。破壊と創造の原初的な交点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "chemosynthesi",
+		"word": "Chemosynthes",
+		"meaning": "化学合成（かがくごうせい）",
+		"etymology": [
+			"Chemical + Greek synthesis"
+		],
+		"concept": "Life from chemicals not light",
+		"thinking": "太陽の光ではなく、地球の熱と「化学（Chemical）」の力で命を「組み立てる（Synthesis）」。光なき世界の住民たちが編み出した、もう一つの命の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "zooplankton_a",
+		"word": "Zooplankton",
+		"meaning": "動物（どうぶつ）プランクトン",
+		"etymology": [
+			"Greek zoon (animal) + planktos"
+		],
+		"concept": "Wandering sea animals",
+		"thinking": "「さまよう（Planktos）」「生き物（Zoon）」。潮に流されるだけの儚い存在でありながら、海の巨大な食物連鎖を底辺で支える、無数の生の実感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "bioluminescen",
+		"word": "Bioluminesce",
+		"meaning": "生物発光（せいぶつはっこう）",
+		"etymology": [
+			"Greek bios + Latin lumen (light)"
+		],
+		"concept": "Life generating light",
+		"thinking": "「命（Bios）」が自ら「光（Lumen）」を放つ。暗黒の海を彩る、青や緑の冷たい火花。それは誘惑か、警告か、それともただの孤独な叫びなのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "photophore_ad",
+		"word": "Photophore",
+		"meaning": "発光器（はっこうき）",
+		"etymology": [
+			"Greek phos (light) + phoros (bearing)"
+		],
+		"concept": "Organ of light",
+		"thinking": "「光（Phos）」を「運ぶ（Phoros）」器。体の一部を光り輝かせ、闇の中で敵を欺き、あるいは仲間を呼ぶ。深海という名の無限の夜に灯る、命の松明。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "ocean_conveyo",
+		"word": "Conveyor Blt",
+		"meaning": "海洋（かいよう）大循環（だいじゅんかん）",
+		"etymology": [
+			"Latin con- + vehere (to carry)"
+		],
+		"concept": "The global water cycle",
+		"thinking": "数千年の時をかけて世界中の海を巡る、壮大な「運び（Conveyor）」の帯。水の重さと温度が織りなす、地球規模の巨大な呼吸。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "upwelling_adv",
+		"word": "Upwelling",
+		"meaning": "湧昇流（ゆうしょうりゅう）",
+		"etymology": [
+			"Up + Well"
+		],
+		"concept": "Nutrients coming to surface",
+		"thinking": "深海の底に眠っていた冷たく豊かな水が、表面へと「湧き上がる（Up-well）」。死骸の栄養を光の届く場所へと運び、海を一気に命の饗宴へと変える、再生の奔流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "downwelling_a",
+		"word": "Downwelling",
+		"meaning": "沈降流（ちんこうりゅう）",
+		"etymology": [
+			"Down + Well"
+		],
+		"concept": "Surface water sinking",
+		"thinking": "表面で冷やされ、重くなった水が、酸素を抱えて深海へと「沈み込んで（Down-well）」いく。暗闇の底で震える命たちに、生命の源を届けるための、静かなる慈悲の滴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "coriolis_effe",
+		"word": "Coriolis Eff",
+		"meaning": "コリオリの力",
+		"etymology": [
+			"Coriolis"
+		],
+		"concept": "Curving path on rotating Earth",
+		"thinking": "回転する地球の上で、真っ直ぐ進もうとするものが「曲がってしまう」という見えない力。宇宙の回転が、海の潮流を、風を、そして世界の進むべき方向を密やかに縛っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "gyre_ocean_ad",
+		"word": "Ocean Gyre",
+		"meaning": "環流（かんりゅう）",
+		"etymology": [
+			"Greek gyros (circle)"
+		],
+		"concept": "Giant circular currents",
+		"thinking": "大陸と風、そして地球の自転が生み出す、巨大な水の「円（Gyre）」。太平洋、大西洋にどっしりと居座るこの渦が、熱を運び、地球の気候という名の天秤を調整している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "estuary_ad_v",
+		"word": "Estuary",
+		"meaning": "河口域（かこういき）、汽水域",
+		"etymology": [
+			"Latin aestus (tide)"
+		],
+		"concept": "Where river meets sea",
+		"thinking": "「潮（Aestus）」の満ち引き。川の真水と海の塩水が、激しく、しかし豊かに混ざり合う場所。異なる二つの世界が、矛盾を抱えながらも最も多様な命を育む、汽水の揺りかご。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "brackish_wate",
+		"word": "Brackish",
+		"meaning": "汽水（きすい）の、塩分（えんぶん）を含んだ",
+		"etymology": [
+			"Middle Dutch brac (salty)"
+		],
+		"concept": "Mid-salinity water",
+		"thinking": "「塩辛い（Brac）」。真実（真水）と虚偽（塩水）の中間。どちらでもあって、どちらでもない。その不安定な均衡の中にこそ、特別なしぶとさを持つ命が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "mangrove_ad_v",
+		"word": "Mangrove",
+		"meaning": "マングローブ",
+		"etymology": [
+			"Portuguese mangue + English grove"
+		],
+		"concept": "Coastal forest",
+		"thinking": "塩水に浸かりながら、泥の中に力強く根を張る「森（Grove）」。海と陸の境界を守り、幼き命たちを包み込む。過酷な場所を、あえて聖域へと変える生命の意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "intertidal_z",
+		"word": "Intertidal",
+		"meaning": "潮間帯（ちょうかんたい）",
+		"etymology": [
+			"Latin inter- + Tide"
+		],
+		"concept": "Between high and low tide",
+		"thinking": "「潮（Tide）」の「間（Inter-）」。一日に二度、ある時は海の底に、ある時は陸の風に晒される。劇的な環境変化をあえて楽しみ、しがみついて生きる者たちの、逞しき戦場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "coral_bleachi",
+		"word": "Bleaching",
+		"meaning": "サンゴの白化（はっか）現象",
+		"etymology": [
+			"Old English blaecan (to whiten)"
+		],
+		"concept": "Loss of symbiotic algae",
+		"thinking": "「白く（Bleach）」なる。共生していた藻類を失い、サンゴがその骨格だけを晒す。それは海の熱病の徴であり、鮮やかな命の彩りが失われていく、沈黙の悲鳴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "zooxanthellae",
+		"word": "Zooxanthella",
+		"meaning": "褐虫藻（かっちゅうそう）",
+		"etymology": [
+			"Greek zoon + xanthos (yellow)"
+		],
+		"concept": "Symbiotic algae in coral",
+		"thinking": "サンゴの体に宿る「黄色い（Xanthos）」「生き物（Zoon）」。光からエネルギーを産み、サンゴに分け与える。二つの異なる種が、一つになって海を彩るという、究極の共生の美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "ocean_acidifi",
+		"word": "Acidificatio",
+		"meaning": "海洋（かいよう）酸性化（さんせいか）",
+		"etymology": [
+			"Latin acidus (sour) + facere"
+		],
+		"concept": "CO2 making ocean sour",
+		"thinking": "海が「酸っぱく（Acidus）」なる。二酸化炭素を飲み込みすぎた海が、貝やサンゴの『殻』を静かに溶かしていく。宇宙の調和が崩れ、命の基盤が溶け出す、透明な危機。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "marine_snow_a",
+		"word": "Marine Snow",
+		"meaning": "マリンスノー、海（うみ）の雪",
+		"etymology": [
+			"Marine + Snow"
+		],
+		"concept": "Falling organic debris",
+		"thinking": "光の届く表層から、深海へと降り積もる「雪（Snow）」。それは死んだ命の欠片であり、深海に住む者たちにとっては天から授かる唯一の糧。死が宇宙の底へと、新しい命を届けるための白い葬列。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "detritivore_o",
+		"word": "Detritivore",
+		"meaning": "デトリタス食者",
+		"etymology": [
+			"Latin detritus (worn away) + vorare (to devour)"
+		],
+		"concept": "Eating the remains",
+		"thinking": "「崩れ去ったもの（Detritus）」を「貪り食う（Vorare）」。すべてのゴミを、すべての死を、再び命のエネルギーへと繋ぎ直す、世界の最後にして最初の掃除人。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "scavenger_m_a",
+		"word": "Scavenger",
+		"meaning": "スカベンジャー、死肉（しにく）食者",
+		"etymology": [
+			"Old French escauwer (to inspect)"
+		],
+		"concept": "Finding dead carcasses",
+		"thinking": "死を「検分（Scauwer）」し、片付ける者。鯨の死骸が深海に沈む「ホエール・フォール（鯨落）」において、一滴の無駄もなく命を分け合う。死という巨大な恩恵を寿ぐ、影の主役。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "bioturbatio_a",
+		"word": "Bioturbation",
+		"meaning": "生物（せいぶつ）攪拌（かくはん）",
+		"etymology": [
+			"Greek bios + Latin turbare (to disturb)"
+		],
+		"concept": "Animals mixing sediments",
+		"thinking": "「命（Bios）」が土を「かき乱す（Turb-）」。海底の底を掘り、泥を混ぜ合わせる。その小さな動きが、地球の組成を組み換え、深海の土壌に酸素という名の息吹を吹き込む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "microplastics",
+		"word": "Microplastic",
+		"meaning": "マイクロプラスチック",
+		"etymology": [
+			"Greek mikros + Plastos (molded)"
+		],
+		"concept": "Tiny plastic pollution",
+		"thinking": "「極小の（Mikros）」「形作られたもの（Plastos）」。私たちが捨てた欲望の欠片が、永遠に分解されぬまま海の細胞の中に忍び込む。現代が海に刻み込んだ、消えない不純物の痛み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "bioaccumulat",
+		"word": "Bioaccumulat",
+		"meaning": "生物（せいぶつ）蓄積（ちくせき）",
+		"etymology": [
+			"Greek bios + Latin ad- + cumulare (to heap up)"
+		],
+		"concept": "Toxins building in body",
+		"thinking": "「命（Bios）」の中に毒が「積み重なって（Cumulate）」いく。食物連鎖を登るたびに、その濃度は研ぎ澄まされ、逃れられない運命として生命を内側から蝕む、時間の重み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "overfishing_a",
+		"word": "Overfishing",
+		"meaning": "乱獲（らんかく）",
+		"etymology": [
+			"Over + Fish"
+		],
+		"concept": "Taking more than produced",
+		"thinking": "海が与えてくれる分を「超えて（Over）」、奪い取る。沈黙する海の豊穣さを、無尽蔵なものだと信じ込んだ、知性の傲慢な収穫。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "dead_zone_adv",
+		"word": "Anoxic Zone",
+		"meaning": "貧（ひん）酸素水塊（すいかい）",
+		"etymology": [
+			"Greek a- + oxys (acid/oxygen)"
+		],
+		"concept": "Zone with no oxygen",
+		"thinking": "「酸素（Oxys）」の「ない（A-）」場所。豊かすぎた栄養が、逆に命を窒息させる。命の火を絶やし、無機質な水だけが滞留する、海の窒息の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "salinity_adv",
+		"word": "Salinity",
+		"meaning": "塩分（えんぶん）濃度",
+		"etymology": [
+			"Latin sal (salt)"
+		],
+		"concept": "Dissolved salt content",
+		"thinking": "「塩（Sal）」の理。それは生命がかつて海で生まれた時の記憶の欠片。濃すぎれば命を撥ね付け、薄すぎれば命を壊す。厳格なまでの均衡を保つ、世界の味付け。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "conductivity",
+		"word": "Conductivity",
+		"meaning": "電気伝導度（でんきでんどうど）",
+		"etymology": [
+			"Latin con- + ducere (to lead)"
+		],
+		"concept": "Measuring solutes by electricity",
+		"thinking": "「共に（Con-）」「導く（Duce）」。電気の通りやすさを測ることで、水の中にどれほどの『不純物（豊かさ）』が含まれているかを知る、秘密のバロメーター。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "pressure_bath",
+		"word": "Hydrostat Pr",
+		"meaning": "静水圧（せいすいあつ）",
+		"etymology": [
+			"Greek hydor + statos"
+		],
+		"concept": "Weight of water column",
+		"thinking": "「水（Hydor）」が「留まっている（Statos）」ことによる重み。深海では指先一つに象一頭分の重さがかかる。その圧倒的な圧力が、深海生物の貌（形）を、極限までしなやかで強靭なものへと鍛え上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "giantism_bath",
+		"word": "Deep-sea G",
+		"meaning": "深海（しんかい）巨大化（きょだいか）現象",
+		"etymology": [
+			"Greek gigas (giant)"
+		],
+		"concept": "Animals getting larger in deep",
+		"thinking": "深海という過酷な極限において、命はあえて「巨大（Gigas）」な貌を選ぶ。寒さと孤独を生き抜くために、自らを大きくし、永い時を生きようとする、神秘的な適応。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "euphotic_zone",
+		"word": "Euphotic Zon",
+		"meaning": "有光層（ゆうこうそう）",
+		"etymology": [
+			"Greek eu- (good/well) + phos (light)"
+		],
+		"concept": "Layer where photosynthesis happens",
+		"thinking": "「良い（Eu-）」「光（Phos）」が届く、幸せな場所。全海洋生物のエネルギーの起源が産まれる、世界の輝かしき表層。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "disphotic_zon",
+		"word": "Twilight Zon",
+		"meaning": "薄光層（はくこうそう）、トワイライト・ゾーン",
+		"etymology": [
+			"Greek dys- (bad/scant) + phos"
+		],
+		"concept": "Faint light layer",
+		"thinking": "「微かな（Dys-）」「光（Phos）」。昼でも星空のように薄暗い、静寂の領域。光が最後の力を振り絞り、闇へと溶けていく、終わりのない夕暮れの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "aphotic_zone",
+		"word": "Dark Zone",
+		"meaning": "無光層（むこうそう）",
+		"etymology": [
+			"Greek a- + phos"
+		],
+		"concept": "The total darkness",
+		"thinking": "「光（Phos）」の「ない（A-）」、永遠の夜の王国。そこにあるのは視覚ではなく、熱、化学、そして振動。別次元のルールで回る、宇宙に最も近い場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "pelagic_sedim",
+		"word": "Ooze (Ocean)",
+		"meaning": "軟泥（なんでい）、ウーズ",
+		"etymology": [
+			"Old English wase (mud/slime)"
+		],
+		"concept": "Deep-sea sediment",
+		"thinking": "「泥（Wase）」。プランクトンの殻が何億年もかけて降り積もった、地球の記憶の重なり。一ミリの厚さの中に、千年の時が眠っている、深淵の歴史書。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "diatom_silica",
+		"word": "Diatom",
+		"meaning": "珪藻（けいそう）",
+		"etymology": [
+			"Greek dia- (through) + temnein (to cut)"
+		],
+		"concept": "Glass-shelled algae",
+		"thinking": "「切り分けられた（Temnein）」者。宝石のようなガラス（シリカ）の殻を持ち、その精緻な幾何学模様は、まるで海が描いたミクロの曼荼羅の如き美しさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "radiolaria_ad",
+		"word": "Radiolaria",
+		"meaning": "放散虫（ほうさんちゅう）",
+		"etymology": [
+			"Latin radius (ray/spoke)"
+		],
+		"concept": "Intricate silica skeletons",
+		"thinking": "「矢（Radius）」をあらゆる方向に注ぎ出したような、星形の骨格。海の中に漂う透明な彫刻。死してなおその形を崩さず、海底に美しき「泥」として輝き続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
+	},
+	{
+		"id": "whale_fall_a",
+		"word": "Whale Fall",
+		"meaning": "鯨落（げいらく）",
+		"etymology": [
+			"Whale + Fall"
+		],
+		"original_statement": "The feast for deep-sea creatures from a fallen whale.",
+		"concept": "The cosmic banquet of a giant",
+		"thinking": "巨いなる「鯨」が「落ちる（Fall）」。ただ一つの命の終わりが、数十年間に渡って深海の砂漠に奇跡の豊穣をもたらす。死がこれほどまでに雄弁に命を寿ぐ、残酷で美しい理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "青き深淵の、鼓動を聴いて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋学と深海生物の深淵へ。"
+			]
+		},
+		"example": "Oceanography explores the depths of the sea."
 	}
 ];
