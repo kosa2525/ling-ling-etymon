@@ -324776,5 +324776,53 @@ const WORDS = [
 		},
 		"part_of_speech": "noun",
 		"example": "Algebraic topology bridges geometry and algebra."
+	},
+	{
+		"id": "incompressible",
+		"word": "Incompressible",
+		"meaning": "非圧縮性の、押しつぶせない",
+		"era": "Latin in- + compressible",
+		"etymology": {
+			"components": [
+				"in- (not)",
+				"com- (together)",
+				"premere (to press)"
+			],
+			"original_statement": "From in- 'not' + compressible, from Latin comprimere 'to press together'."
+		},
+		"concept": "Unyielding volume (押しつぶせぬ尊厳、不変の体積)",
+		"thinking": "どれほど外から「力を込めて（Prem）」、「共にまとめよう（Com）」としても、決して「小さくならない（In-）」。圧力を受け流し、自らの占有する空間を死守する強さ。それは、周囲の期待や強制に屈しない、魂の不変的な質量を指しています。",
+		"aftertaste": "何が起きても、あなたの本質的な『嵩』は決して減りません。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
+	},
+	{
+		"id": "reynolds_number",
+		"word": "Reynolds Number",
+		"meaning": "レイノルズ数",
+		"era": "Named after Osborne Reynolds",
+		"etymology": {
+			"components": [
+				"Osborne Reynolds (Physicist)"
+			],
+			"original_statement": "Named after the physicist Osborne Reynolds, who popularized its use in 1883."
+		},
+		"concept": "The threshold of chaos (混沌への境界、秩序の臨界点)",
+		"thinking": "慣性の力と粘性の力の比。この数が一定を超えた時、滑らかな流れは突如として乱れ（カオス）へと転じます。日常が平穏から動乱へと変わる、その「ギリギリの沸点」を示す魔法の数字です。",
+		"aftertaste": "境界線を見極めることで、カオスを制御する知恵が得られます。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
 	}
 ];
