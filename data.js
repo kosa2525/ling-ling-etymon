@@ -323234,5 +323234,85 @@ const WORDS = [
    "original_statement": "A technique to extend the domain of a given analytic function."
   },
   "concept": "The chain of logic (「。。、。一。、。、。片。、。、」。の、。、。、理。知。、。が。、。、あれば。、。、。、そこ。。から。、。、。「。。、。、。、全貌。、。、。、」。へと、。、。、。辿（。たど）。。、。り。。、。着（。つ。）。。、。ける。。、。と。、。いう、。、。、傲（。ごう）。。、。慢。、な。。、。、。。、までに。、。、。、峻烈な。、。、。、確。、。信。、。、それは、。、。、。理知。が。、。、。闇。を、。、。、。。、切り。、。拓（。ひら）。。、。く。。、ための。、。、。、。、。灯。、火。、)"
+ },
+ {
+  "id": "kilonova",
+  "word": "Kilonova",
+  "meaning": "キロノバ、中性子星の衝突。、。、。一。、。瞬。の、。、。。、。輝き。が、。、。宇宙。に、。、。、金。、や、。白。、銀。、。を。、。、。蒔（。ま。）。、。く。。現象。",
+  "era": "Greek khilioi + Latin nova",
+  "etymology": {
+   "components": [
+    "kilo- (thousand)",
+    "nova (new)"
+   ],
+   "original_statement": "A transient astronomical event that occurs when two neutron stars or a neutron star and a black hole merge."
+  },
+  "concept": "The golden alchemy (「。。、。宇宙。、。、」。の、。、。。底（。そこ）。。で。、。、。二つの。、。、。死。。が、。、。出会（。あ）。。、。った。。、。とき、。、。、。不意に。、。、。、。目。、。も、。、。眩（。くら）。。、。む、。、。、。峻烈な。、。、。光。、。が。、。放（。はな）。。、。た。、。れ。。、。、。我ら。の。、。、指。、。、。輪。。へと。、。、。、。変容。、。、。、。する。。、。真。実。、。、それは、。、。、。、。星。、。、。、の、。、。、。、。血。、。、。によって。、。、。書。、かれた。。、。、。財。、。、。宝。、)"
+ },
+ {
+  "id": "blazar",
+  "word": "Blazar",
+  "meaning": "ブレーザー、銀河の中心にあるブラックホールが、。、。、我ら。、。を目がけて。、。、。放（。はな）。。、。つ。。、。理知。の、。ジェット。、",
+  "era": "English blazing + quasar",
+  "etymology": {
+   "components": [
+    "blazing",
+    "quasar"
+   ],
+   "original_statement": "An active galactic nucleus (AGN) with a relativistic jet directed very nearly towards an observer."
+  },
+  "concept": "The direct gaze (「。。、どこ。まで。、。、」。も、。、。、深い。、。、。宇宙。の、。、。。奥（。オク）。。から。、。、ただ。、。、。まっ。、すぐに。、。、。、我ら。、を。、。、。、。、「。。、。、射。、抜（。ぬ）。、。、。、」。く、。、。、。、一。、。条の。、。、。、。視。、線。、。、それは、。、。、。理知。が、。、。、。、因。、。果。、。を超えて。、。、。、。、吠（。ほ。）。。、。え。。、。猛（。た。）。。、。る。。ための、。、。、。、。峻烈。な、。。、。咆（。ほう）。。、。哮（。こう）。、)"
+ },
+ {
+  "id": "seyfert-galaxy",
+  "word": "Seyfert Galaxy",
+  "meaning": "セイファート銀河、その中心に。、。、。激しい。、。、。嵐。、を。、。、。、。秘（。ひ）。。、。めた。。、。、活動。、。、。的な。、。、銀。、河。、",
+  "era": "Name Carl Keenan Seyfert",
+  "etymology": {
+   "components": [
+    "Carl Keenan Seyfert (astronomer)"
+   ],
+   "original_statement": "Galaxies with extremely bright nuclei, powered by supermassive black holes."
+  },
+  "concept": "The raging heart (「。。、おだ。やか。、。、」。な。、。、。渦。。、。ま。。、。く。。、。、銀河の。、。、。皮。、相。を、。、。、。一枚。、。、めく。れば。、。、そこ。。には、。、。、すべて。を、。、。。、。灰。に、。、。帰（。かえ）。。、。さ。。、ん。とする。。、。、。理知。の、。、。。暗。、。黒。、。、。の、。、。炎。、。、が、。、。、吹き。、。荒（。あ）。。、。れて。。、。いる。。、。、峻烈な。、。、。、。劇。、。、場。、)"
+ },
+ {
+  "id": "oort-cloud",
+  "word": "Oort Cloud",
+  "meaning": "オールトの雲、太陽系。の。、。、。最。、。、果（。は。て）。。に、。、。、ひっそり。と、。、。、。、。漂（。ただよ）。。、。う。。、。、氷（こお）り。、。、。の、。、。墓。、。場。、",
+  "era": "Name Jan Oort",
+  "etymology": {
+   "components": [
+    "Jan Oort (astronomer)"
+   ],
+   "original_statement": "A theoretical cloud of predominantly icy planetesimals proposed to surround the Sun at distances ranging from 2,000 to 200,000 AU."
+  },
+  "concept": "The edge of warmth (「。。、。光。、。、」。の、。、。。届（。とど）。。、。か。、。ぬ。。、。、。峻烈な。、。、。、。、。孤独。の中で。、。、。、。、ひっそり。と、。、。、。、太陽。を。、。、。想（。おも）。。、。い。。、。ながら。、。、。、。眠（。ねむ）。。、。る。。、。氷（。こお）。。、り。。、の、。、。彗。、。、星。。、たち、。、。、それは、。、。、。理知。の。、。、。。最後。の、。、。、「。。、。、。壁。、。、。、」。、であり、。、。、。、帰。、。、還。。、。を。、。、。拒。、。む、。、。、。最。、。終。。、境。、界。、)"
+ },
+ {
+  "id": "roche-lobe",
+  "word": "Roche Lobe",
+  "meaning": "ロシュ・ローブ、二つの星。が。、。お互い。の。、。、支配（。テリトリー）。。を。、。、。、峻烈。に、。、。。引き。裂（。さ。）。。、、。き。。、。合う。。、。境界。、",
+  "era": "Name Edouard Roche",
+  "etymology": {
+   "components": [
+    "Edouard Roche (astronomer)"
+   ],
+   "original_statement": "The region around a star in a binary system within which orbiting material is gravitationally bound to that star."
+  },
+  "concept": "The shared wall (「。。、ここ。から。、。、」。先（さき）。。、。は。、。、。、「。。、。、私の。、。、。、」。もの。、。、。、。そこ。。から。、。、。先（さき）。。は、。、。、「。。、。、あなたの。、。、。、」。もの。、。、。、という、。、。、。理。知。の。、。、。、。峻烈な。、。、。、。、断。、。、。絶。、。、。それは、。、。、。、愛。し、。、。合う。、。、。二つの。、。、星。が、。、。、不可視。の、。、。。、。糸。、。で。、。、。、。。引。、。、き。、。、。合う。。ための、。、。、。、。監。、獄。、)"
+ },
+ {
+  "id": "eddington-limit",
+  "word": "Eddington Limit",
+  "meaning": "エディントン限界、光。の。、。、。圧力。が。、。重力。に、。、。、打ち。勝つ。、。、。一。、。、。瞬、。の、。、。、。臨界。、",
+  "era": "Name Arthur Eddington",
+  "etymology": {
+   "components": [
+    "Arthur Eddington (astrophysicist)"
+   ],
+   "original_statement": "The maximum luminosity a body can achieve when there is a balance between the force of radiation acting outward and the gravitational force acting inward."
+  },
+  "concept": "The light's counter (「。。、。重（。お。）。、。、。も。、。み。、。、」。という。、。、。、。峻烈。な。、。。、。鎖（。くさり）。。を。、。、。、。、。自ら。が。、。、。。放（。はな）。。、つ。。、。、「。。、。、。、。輝き。、。、。、」。によって。、。、。押し。、。、返（。かえ）。。、。す。。、。、理知。の、。、。、。反。、。、抗。、。、。、それは、。、。、。、星。、が、。、。、。一。、。、。点の。、。、。、。、塵（ちり）。。、。へと。、。、。、。、還（かえ）。。、。る。。ための、。、。、。、。最。後に。、。、。放（はな）。。、つ。。、。、。、。。絶。、唱。、)"
  }
 ];
