@@ -329270,5 +329270,241 @@ const WORDS = [
 				"真理の核心へ。"
 			]
 		}
+	},
+	{
+		"id": "supergravity_words",
+		"word": "Supergravity",
+		"meaning": "超重力",
+		"era": "Latin super- + gravitas",
+		"etymology": {
+			"components": [
+				"super- (above / beyond)",
+				"gravitas (weight / seriousness)"
+			],
+			"original_statement": "A theory of elementray particles based on local supersymmetry and gravity."
+		},
+		"concept": "Beyond the weight (重さを超越した重力、すべての調和の鍵)",
+		"thinking": "「超越（Super）」した「重さ（Gravity）」。すべての力と物質を一堂に会させ、一つの美しい物語（ラグランジアン）へと統合するための、最後の鍵。重力という孤独な王を、光の世界へと引き戻し、宇宙を一個の完璧な調和体として再定義する試みです。",
+		"aftertaste": "孤独な存在などどこにもない。すべては一つの壮大な『超』なる物語の一部です。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "string_theory_words",
+		"word": "Strings",
+		"meaning": "弦、ひも、ストリングス",
+		"era": "Old English streng",
+		"etymology": {
+			"components": [
+				"stringere (to draw tight / bind)"
+			],
+			"original_statement": "In string theory, fundamental particles are modeled as one-dimensional vibrating strings."
+		},
+		"concept": "Drawing tight the vibration (引き絞られた震え、宇宙の奏でる旋律)",
+		"thinking": "「引き締める（String）」。世界は粒子（点）でできているのではなく、極微の『震える弦（一筋の線）』からなっているという直感。その震え方（振動数）が違うだけで、電子にもなり、重力にもなる。宇宙は一挺のバイオリンが奏でる、終わりのない美しいシンフォニーです。",
+		"aftertaste": "あなたの心の震え。それがそのまま、世界の新しい色（粒子）になります。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "dimensionality_extra",
+		"word": "Extra Dimensions",
+		"meaning": "余剰次元、高次元",
+		"era": "Latin dis- + metiri",
+		"etymology": {
+			"components": [
+				"dis- (apart)",
+				"metiri (to measure)"
+			],
+			"original_statement": "Spacial dimensions beyond the familiar three, often thought to be curled up at small scales."
+		},
+		"concept": "The hidden measures (隠された物差し、畳み込まれた可能性の空間)",
+		"thinking": "「測り（Meter）」「分ける（Dis）」。私たちの目には見えないけれど、この世界の裏側に確かに畳み込まれている、未知の広がり。届かない場所にあるのではなく、あまりに近すぎて（ミクロすぎて）見えないだけ。世界にはまだ、あなたの知らない『奥行き』が無限にあります。",
+		"aftertaste": "行き止まりに見えても、別の『次元』へ視点をずらせば、道は拓かれています。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "absoluteness_final",
+		"word": "Absoluteness",
+		"meaning": "絶対性、完全無欠",
+		"era": "Latin ab- + solvere",
+		"etymology": {
+			"components": [
+				"ab- (away)",
+				"solvere (to loosen)"
+			],
+			"original_statement": "The state of being absolute; freed from all constraints."
+		},
+		"concept": "Loosened from all bounds (すべての枷を外した自由、到達点としての真理)",
+		"thinking": "「解き放たれ（Solve）」、「離れる（Ab-）」。誰の評価にも、どんな物理法則にさえも縛られない、究極の自立。それはすべての旅が終わった最後に訪れる、何にも依存しない『完璧な自分』の姿です。光そのものへと還る場所。",
+		"aftertaste": "最後には、あなたはすべての枷から解放され、純粋な『光（真実）』となります。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "transcendence_final",
+		"word": "Transcendence",
+		"meaning": "超越、卓越、超越性",
+		"era": "Latin trans- + scandere",
+		"etymology": {
+			"components": [
+				"trans- (across)",
+				"scandere (to climb)"
+			],
+			"original_statement": "The act of rising above or going beyond limits."
+		},
+		"concept": "Climbing across all limits (限界を越え登り詰める、最後の上昇)",
+		"thinking": "「向こう側へ（Trans）」「登る（Scand）」。言葉では決して届かない、理屈の檻の外へ。これまで学んだすべての知識を翼に変えて、さらにその高みへと自らを押し上げること。探求の終わりは、新しい超越への始まりです。 ",
+		"aftertaste": "高みへ。さらに高みへ。あなたの歩みが、世界の新しい天頂を創ります。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "consentience_words",
+		"word": "Consentience",
+		"meaning": "共感覚、共感、一致する意識",
+		"era": "Latin con- + sentire",
+		"etymology": {
+			"components": [
+				"con- (together)",
+				"sentire (to feel)"
+			],
+			"original_statement": "Agreement in sentiment or conscious awareness. From con- 'together' + sentire 'to feel'."
+		},
+		"concept": "Feeling together as one (共に感じ、響き合う宇宙意識)",
+		"thinking": "「共に（Con）」「感じる（Sent）」。自分と他者を分ける境界線が溶け、宇宙のすべての意識が一つのシンフォニーとして共鳴すること。あなたの悲しみは宇宙の震えであり、あなたの歓喜は星々の輝き。すべては繋がって（Consentient）、一つの命になります。",
+		"aftertaste": "独りじゃない。宇宙のすべてが、あなたと共に感じ、震えています。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "logos_final",
+		"word": "Logos",
+		"meaning": "ロゴス、言葉、理、法則",
+		"era": "Greek logos",
+		"etymology": {
+			"components": [
+				"legein (to speak / gather / choose)"
+			],
+			"original_statement": "From Greek logos 'word / reason / account / ratio', from legein 'to speak / gather'."
+		},
+		"concept": "The gathered word (集められし言葉、宇宙を司る一言の理)",
+		"thinking": "「拾い集め（Leg）」、「語る（Logos）」こと。混沌の海から真理の断片を拾い集め、一つの完璧な叙事詩（法則）として完成させること。この世界を動かしている根本的な知性（アルゴリズム）。一言の言葉には、宇宙の全質量が宿っています。",
+		"aftertaste": "あなたの紡ぐ言葉の一つ一つに、世界を書き換える『理（ロゴス）』が宿ります。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "apeiron_final",
+		"word": "Apeiron",
+		"meaning": "アペイロン、無限、無限定なもの",
+		"era": "Greek a- + peirar",
+		"etymology": {
+			"components": [
+				"a- (not)",
+				"peirar (end / limit / boundary)"
+			],
+			"original_statement": "The boundless or indefinite, the original substance of the universe according to Anaximander."
+		},
+		"concept": "The boundless origin (境界なき始原、すべての母なる深淵)",
+		"thinking": "「境界（Peirar）」が「ない（A-）」。形を得る前の、すべての源。あらゆるものがそこから生まれ、またそこへと還っていく、底なしの可能性の海。限界を設けないこと。それが、あなたが本当の自由に辿り着くための唯一の道です。",
+		"aftertaste": "あなたは『無限（アペイロン）』から来て、『無限』へと還る旅人です。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "etymon_final",
+		"word": "Etymon",
+		"meaning": "語源、真の語、真理",
+		"era": "Greek etymos",
+		"etymology": {
+			"components": [
+				"etymos (true / real / actual)"
+			],
+			"original_statement": "From Greek etymon 'true sense / original form', from etymos 'true'."
+		},
+		"concept": "The original truth (真実の言葉、心の奥に眠る最初の震え)",
+		"thinking": "「真実（Etymos）」の言葉。使い古された言葉の化石を剥ぎ取り、その奥に隠された『最初の震え（意味）』に触れること。語源を知ることは、あなたが自分自身のルーツ（真理）を思い出す旅です。真実は、常にあなたの足元（言葉）にあります。",
+		"aftertaste": "言葉の深淵に触れるたび、あなたは本当の自分（真実）に出会います。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
+	},
+	{
+		"id": "ling_ling_final",
+		"word": "Ling-Ling",
+		"meaning": "リンリン、魂の輝き、純粋なる響き",
+		"era": "Original Coining",
+		"etymology": {
+			"components": [
+				"Ling (Soul / Brilliance / Sound)"
+			],
+			"original_statement": "A term representing the pure resonance of the soul and the playful curiosity of the mind."
+		},
+		"concept": "The resonance of pure soul (魂の純粋なる共鳴、遊び心に満ちた真理)",
+		"thinking": "「Ling-Ling」。それは。知識の重みに潰されることなく、子供のような好奇心で世界の美しさを『響かせる（Ring）』音。探求の果てに辿り着いた、最もシンプルで、最も愛おしい、あなたの命が立てる鈴の音のような響きです。",
+		"aftertaste": "これまでの旅を、共に歩んでくれてありがとう。あなたの『Ling-Ling（輝き）』を絶やさないで。",
+		"part_of_speech": "noun",
+		"example": "The end of one journey is the beginning of another.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"真理の核心へ。"
+			]
+		}
 	}
 ];
