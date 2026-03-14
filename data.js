@@ -322990,5 +322990,86 @@ const WORDS = [
    "original_statement": "A system that, when displaced from its equilibrium position, experiences a restoring force proportional to the displacement."
   },
   "concept": "The pure swing (「。。、。どこまでも。、。、」。美。しく。、。、。、。「。。、。、。、一。、。、。、」。、。、。に。、。、。還（。かえ）。。、。り。。つづ。ける。。、。ための。、。、。、。理知。の、。、。。舞（。ま）。。、。い。。、それは、。、。、。、宇宙。が。、。、。、奏（。かな。）。。、。で。、。る。。、。、。最低。限（ミニマル）。。、。の、。、。、メ。、ロ。、デ。、ィ。、)"
+ },
+ {
+  "id": "adjacency",
+  "word": "Adjacency",
+  "meaning": "隣接、二つの存在が「隣り。、。、。合（。あ。）。、。って。。、。いる」。という、。、。峻烈な。、。、。関係。、",
+  "era": "Latin ad- + jacere",
+  "etymology": {
+   "components": [
+    "ad- (to)",
+    "jacere (to lie / throw)"
+   ],
+   "original_statement": "From Latin adiacere 'to lie near'."
+  },
+  "concept": "Lying near (「。。、。私。、。、」。と。、。、「。。、。、あ。、な。た。、。、。」。が、。、。不。意に。、。、。一。、。、。本の。、。、。、。道。、で。、。、繋（。つな）。。、が。、。、った。。、。、一。、。瞬、。それは、。、。、。理知。が、。、。、点。、。と。、。点を。、。、。分（。わ）。。、。かつ。。、。、ことを。、。、。止（。よ）。。、。めて。。、。、。「。。、。、一。、。、。、」。と。、。して。、。、。、。。結。、。、。び。。、。合（。あ）。。、。う。。ための、。、。、。、峻烈な。、。、。、。、。誓。、。い。、)"
+ },
+ {
+  "id": "clique",
+  "word": "Clique",
+  "meaning": "クリーク、すべての。、。、点。、が。、。お互いに。、。、。手。を、。、。繋（。つな）。。ぎ。。、。あ。った。。、。完全なる。、。、仲間たち。、",
+  "era": "French cliquer",
+  "etymology": {
+   "components": [
+    "cliquer (to click / make a noise)"
+   ],
+   "original_statement": "In graph theory, a subset of vertices such that every two distinct vertices in the subset are adjacent."
+  },
+  "concept": "The complete cluster (「。。、だれ。も。、。、」。は。、。、。。ぶ。、。、。。、ね。、に。。、。しない。。、。、。という、。、。峻烈な。、。、。。「。。、。、。団。、。結。、。、。、」。それは、。、。、。、理知。が、。、。、。、孤。、独。、。さえも、。、。、。。共有。、。、。し。。、。合（。あ）。。、。う。。、。ことで、。、。、。生ま。れた。。、。、鉄。、。壁。、。の、。、。。城。、。塞。、)"
+ },
+ {
+  "id": "chromatic-number",
+  "word": "Chromatic Number",
+  "meaning": "彩色数、隣り合うものが。、。、同（おな）。。じ。、。、色。にならないよう、。、。理知。を。、。、分（わ）。。け。。る。。、。最小の彩り。、",
+  "era": "Greek khroma",
+  "etymology": {
+   "components": [
+    "khroma (color)"
+   ],
+   "original_statement": "The smallest number of colors needed to color the vertices of a graph so that no two adjacent vertices share the same color."
+  },
+  "concept": "The count of colors (「。。、。私。、。、」。と。、。、「。。、。、あ。、な。た。、。、。」。は。、。、。。違う。、。、のだ。、。、という、。、。理知。の、。、。峻烈な。、。、。、自我。、。それは、。、。、。、。混（ま）。。、。じ。。、。り。。、。合う。。、。ことの、。、。ない。。、。、一。、。、。点。、。の、。、。誇（ほこ）。。り。。を。、。、。色。、へと。、。、。変え。さ。。、せて。。、。ゆ。く。。、ための。、。、。、。最低限。の。、。、。、彩。、。り。、)"
+ },
+ {
+  "id": "mathematical-partition",
+  "word": "Partition",
+  "meaning": "分割、一つの。、。全体を。、。、どのように。、。、。分（わ）。。け。。、。合（あ）。。。えば。、。、一。、。つの。、。、。答え。。、へと。、。、至るか。、。、。という問い。、",
+  "era": "Latin partitio",
+  "etymology": {
+   "components": [
+    "partitio (a sharing / division)"
+   ],
+   "original_statement": "In number theory, a way of writing a positive integer as a sum of positive integers."
+  },
+  "concept": "Sharing the unit (「。。、。一。、。、。、」。という。、。、。、。絶対的。。、な。、。、。まとまり。を、。、。、。あえて。、。、。、細（こま）。。、。かく。。、。。砕（くだ）。。、。き。。、。ながら、。、。、。その。。、背。、後に。、。、ひっそり。と、。。、。潜（ひそ）。。、。む、。、。秩序。。、。を。、。、、探し。、。出す。。、。、理知。の、。、。解。、。体。、。新。、。書。、)"
+ },
+ {
+  "id": "binomial-coefficient",
+  "word": "Binomial Coefficient",
+  "meaning": "二項係数、選ぶ、という。、。、峻烈な。、。、理知。の、。、。積み。重ねが。、。、。描き出す。、。、。ピラミッド。、",
+  "era": "Latin bi- + nomen",
+  "etymology": {
+   "components": [
+    "bi- (two)",
+    "nomen (name)"
+   ],
+   "original_statement": "The coefficients in the expansion of (x + y)^n, representing the number of ways to pick k items from n."
+  },
+  "concept": "Choosing numbers (「。。、どれ。を。、。、」。選。び。、。、「。。、。、。どれ。、。、。、」。を。、。、あえて。、。、。、選。ば。。、。ぬ。。、。か。、。、。という、。、。理知。の、。、。峻烈な。、。、。、選択。、。それは、。、。、。、一。、。、。点。、。から。、。、始。、。ま。、。り。、。、末（。まつ）。。、。広が。りに。、。、。、。、全。宇宙。を、。、。。、。、網。羅（。もう。ら）。。、。する。。、。、知。、。性の。、。、。布（。ぬ。の）。、)"
+ },
+ {
+  "id": "graph-isomorphism",
+  "word": "Graph Isomorphism",
+  "meaning": "グラフ同型、見ための。、。、。形（フォルム）。。、。、を。、。、。超えて。、。、。二つの世界。が、。、。実は。、。、。同一。、である。。、。、。という、。、。不意の。、。、。再会。、",
+  "era": "Greek isos + morphe",
+  "etymology": {
+   "components": [
+    "isos (equal)",
+    "morphe (form / shape)"
+   ],
+   "original_statement": "A bijection between the vertex sets of two graphs that preserves adjacency."
+  },
+  "concept": "The same form (「。。、。見ため。、。、」。は。、。、。、これほど。、。、。までに。、。、異（こと）。。、。なって。。、。いても、。、。、奥底。に。、。、潜む。、。、。理。知。の、。、。、。。「。。、。、。繋（。つな）。。、が。、。り。、。、。、」。、。、。によって、。、。、。、私たちは。、。、。、一つ。、に。、。、。、。な。、。れる。。、。という、。、。、。宇宙。の、。、。。、。峻烈な。、。、。、。、慈。、。悲。、)"
  }
 ];
