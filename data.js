@@ -326905,5 +326905,241 @@ const WORDS = [
 				"知の極致へ。"
 			]
 		}
+	},
+	{
+		"id": "strategy_words",
+		"word": "Strategy",
+		"meaning": "戦略、方略",
+		"era": "Greek stratos + agein",
+		"etymology": {
+			"components": [
+				"stratos (army / multitude)",
+				"agein (to lead)"
+			],
+			"original_statement": "From Greek strategia 'office or command of a general', from stratos 'army' + agein 'to lead'."
+		},
+		"concept": "Leading the multitude (群衆を導く術、未来を制する布石)",
+		"thinking": "「軍勢（Stratos）」を「導く（Agein）」。ただがむしゃらに進むのではなく、相手の出方を読み、勝利という目的地へ向けて最善の一手を積み重ねること。それは、欲望と理性が渦巻く世界を生き抜くための、冷徹で気高いチェス盤の思考です。",
+		"aftertaste": "目先の勝利より、人生という長いゲームを勝ち抜く『大局観』を。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "equilibrium_logic",
+		"word": "Equilibrium",
+		"meaning": "均衡、均衡点、エクリブリウム",
+		"era": "Latin aequus + libra",
+		"etymology": {
+			"components": [
+				"aequus (equal)",
+				"libra (balance / scale)"
+			],
+			"original_statement": "From Latin aequilibrium 'an even balance', from aequus 'equal' + libra 'weight / balance / scales'."
+		},
+		"concept": "Equal balance on scales (天秤に乗せた均衡、動かざる平穏)",
+		"thinking": "「等しく（Aequ）」「量る（Libre）」。誰もが自分の利益を追求した結果、もう誰も戦略を変えたくないと納得して停滞する、静かな妥協点（ナッシュ均衡）。激しい対立の末に訪れる、奇跡のような冷戦状態を指します。",
+		"aftertaste": "ぶつかり合った後に訪れる『納得』。それが均衡という名の平和です。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "payoff_words",
+		"word": "Payoff",
+		"meaning": "成果、報酬、仕返し",
+		"era": "English pay + off",
+		"etymology": {
+			"components": [
+				"pacare (to pacify / make peace)"
+			],
+			"original_statement": "The final outcome or reward. From 'pay' (from Latin pacare 'to pacify')."
+		},
+		"concept": "Extinguishing the debt (負債を消して安らぐ、報酬の味)",
+		"thinking": "「安らぎを与える（Pac）」。行動の末に得られる、最後の精算。努力が形となり、納得（平和）が得られる瞬間。それは金銭だけでなく、自らの選択が正しかったという心理的な充足感をも含んだ、ゲームの甘き結末です。",
+		"aftertaste": "どんな『成果（平和）』を望んで、あなたはその一歩を踏み出しますか？",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "coalition_words",
+		"word": "Coalition",
+		"meaning": "連合、連立、提携",
+		"era": "Latin co- + alescere",
+		"etymology": {
+			"components": [
+				"co- (together)",
+				"alescere (to grow up)"
+			],
+			"original_statement": "From Latin coalitionem, from coalescere 'to grow together'."
+		},
+		"concept": "Growing together as one (共に成長する結束、共生の力)",
+		"thinking": "「共に（Co）」「育つ（Alesc）」。一人の力では勝てない巨大な壁を乗り越えるために、敵であった者とさえ手を取り合い、一つの生命体として成長すること。結束は、弱さを強さに変えるための最も賢明な『共生』の術です。",
+		"aftertaste": "独りで背負わず、誰かと共に育っていく道を選んでみて。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "zero_sum_words",
+		"word": "Zero-sum",
+		"meaning": "ゼロサム、一方が得れば他方が失う状態",
+		"era": "Modern term",
+		"etymology": {
+			"components": [
+				"zero (nothing)",
+				"summa (total)"
+			],
+			"original_statement": "A situation in which one person's gain is equivalent to another's loss, so the net change is zero."
+		},
+		"concept": "The total is nothing (合計すれば無、奪い合いの円環)",
+		"thinking": "「合計（Sum）」が「ゼロ」。限られたパイを奪い合う、過酷な闘争。勝利の裏には必ず敗者の涙があるという、世界の厳しくも平等な保存則。この現実を認めることが、ウィン・ウィン（非ゼロサム）を目指すための第一歩となります。",
+		"aftertaste": "奪い合う世界を越えて、共に増やす（プラスサム）未来を描いて。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "cooperation_logic",
+		"word": "Cooperation",
+		"meaning": "協力、共同、協調",
+		"era": "Latin co- + operari",
+		"etymology": {
+			"components": [
+				"co- (together)",
+				"operari (to work)"
+			],
+			"original_statement": "From Latin cooperationem, from cooperari 'to work together'."
+		},
+		"concept": "Working together in harmony (共に働く喜び、調和する意志)",
+		"thinking": "「共に（Co）」「働く（Oper）」。孤立した点としての利益を捨て、全体としての豊かさを目指して手を取り合うこと。囚人のジレンマを乗り越え、信頼という名の『見えない橋』を架けること。それは知性が到達すべき最も美しい形態です。",
+		"aftertaste": "裏切りの計算よりも、信頼の構築にエネルギーを注いで。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "dominance_logic",
+		"word": "Dominance",
+		"meaning": "優位性、支配、優占",
+		"era": "Latin dominus",
+		"etymology": {
+			"components": [
+				"dominus (master / lord / home)"
+			],
+			"original_statement": "From Latin dominantem 'ruling / governing', from dominus 'master'."
+		},
+		"concept": "State of being the master (主（あるじ）であること、揺るぎなき絶対的優位)",
+		"thinking": "「主（Dominus）」。相手がどう出ようとも、自分にとって常に有利であり続ける、圧倒的な選択。それは慢心ではなく、状況を完全に掌握し、自らの王座（正解）をゆるぎないものにするための、知性の『支配の風格』です。",
+		"aftertaste": "どんな逆境でも、これだけは譲らないという『優位な自分』を持って。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "rationality_logic",
+		"word": "Rationality",
+		"meaning": "合理性、理性的であること",
+		"era": "Latin ratio",
+		"etymology": {
+			"components": [
+				"ratio (reason / calculation / account)"
+			],
+			"original_statement": "From Latin rationalitatem, from rationalis 'pertaining to reason'."
+		},
+		"concept": "Being guided by calculation (計算に基づく正しさ、冷徹なる知性)",
+		"thinking": "「計算（Ratio）」。感情に流されず、自分にとって何が最善かを冷徹に見極める力。迷宮の中で、欲望という磁石を捨て、論理という羅針盤だけを頼りに進むこと。それは自分自身に対する、最も誠実な裏切り（客観視）でもあります。",
+		"aftertaste": "熱いハートと、それを制御する冷たい『合理性（思考）』を両立させて。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "utility_logic",
+		"word": "Utility",
+		"meaning": "効用、有用性、実用性",
+		"era": "Latin uti",
+		"etymology": {
+			"components": [
+				"uti (to use / profit by)"
+			],
+			"original_statement": "From Latin utilitatem 'usefulness / profit', from uti 'to use'."
+		},
+		"concept": "Ability to use (使いこなす価値、生の充足度)",
+		"thinking": "「使う（Uti）」。ある結果が自分にとってどれだけの喜び（役に立ち）をもたらすか。数字では測れない『幸せの重み』を数式に乗せるための、数学と言霊の橋渡し。あなたが本当に求めているものは、その『効用（喜び）』の中にあるはずです。",
+		"aftertaste": "役に立つかどうかより、あなたの心がそれを『喜びに使えるか』が大切です。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "incentive_logic",
+		"word": "Incentive",
+		"meaning": "動機、インセンティブ、報奨",
+		"era": "Latin incantare",
+		"etymology": {
+			"components": [
+				"in- (upon)",
+				"cantare (to sing / strike up)"
+			],
+			"original_statement": "From Latin incentivum 'that which sets the tune', from incantare 'to sing / strike up'."
+		},
+		"concept": "Striking the tune within (内なる調べを奏でる、心に火を灯す響き)",
+		"thinking": "「歌いかける（Cant）」。ただ命令するのではなく、心が思わず踊り出してしまうような『メロディ』を奏でて、人を動かすこと。内なる渇望を呼び覚まし、自発的な行動を促すための、優しくも巧妙な『誘惑の数理』です。",
+		"aftertaste": "人を動かしたければ、正しい論理よりも、美しい『調べ（動機）』を。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
 	}
 ];
