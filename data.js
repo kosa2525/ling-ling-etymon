@@ -349080,5 +349080,935 @@ const WORDS = [
 			]
 		},
 		"example": "Information is the currency of organization."
+	},
+	{
+		"id": "genome_sequencing",
+		"word": "Genome",
+		"meaning": "ゲノム、全遺伝情報",
+		"etymology": {
+			"components": [
+				"Gene + -ome (all/complete)"
+			],
+			"original_statement": "The complete set of genetic material in an organism."
+		},
+		"concept": "The complete manual of life",
+		"thinking": "「遺伝のかけら（Gene）」とその「すべて（-ome）」。生命を形作るための設計図、その膨大な文字情報のすべてを収めた聖典。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "nucleotide_base",
+		"word": "Nucleotide",
+		"meaning": "ヌクレオチド",
+		"etymology": {
+			"components": [
+				"Nucleus + -ide"
+			],
+			"original_statement": "Basic building block of nucleic acids."
+		},
+		"concept": "The alphabet of the DNA",
+		"thinking": "A, T, C, G。たった四つの『文字』。その連なりが、深海から極地、そして私たちの心までも形作っている、物質という名の知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "double_helix_struc",
+		"word": "Double Helix",
+		"meaning": "二重螺旋（にじゅうらせん）",
+		"etymology": {
+			"components": [
+				"Double + Greek helix (spiral)"
+			],
+			"original_statement": "The structural shape of DNA."
+		},
+		"concept": "The eternal spiral ladder",
+		"thinking": "二つの鎖が互いに求め合い、螺旋を描いて寄り添う。情報の保存と複製という二つの使命を背負った、美しき数理的な橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "codon_translation",
+		"word": "Codon",
+		"meaning": "コドン",
+		"etymology": [
+			"Code + -on"
+		],
+		"original_statement": "Sequence of three nucleotides that forms a unit of genetic code.",
+		"concept": "The word of the cell",
+		"thinking": "三つの文字を組み合わせて、一つの『アミノ酸（意味）』へと変換する。生命の暗号表における、一単語分の重み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "gene_expression_adv",
+		"word": "Gene Expression",
+		"meaning": "遺伝子発現（いでんしはつげん）",
+		"etymology": [
+			"Gene + Latin expressio"
+		],
+		"original_statement": "Process by which information from a gene is used in the synthesis of a functional gene product.",
+		"concept": "Turning code into action",
+		"thinking": "「外へ押し出す（Ex-press）」。ただの記録（紙）でしかなかった情報が、肉体となり、酵素となり、現実の世界を動かし始める劇的な転換。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "transcription_bio",
+		"word": "Transcription",
+		"meaning": "転写（てんしゃ）",
+		"etymology": [
+			"Latin trans- (across) + scribere (to write)"
+		],
+		"original_statement": "Copying a segment of DNA into RNA.",
+		"concept": "Copying the master blueprint",
+		"thinking": "「向こう側へ（Trans）書き出す（Scribere）」。大切な原本（DNA）は聖域に守ったまま、必要な情報の断片だけを手早く写し取り、前線へと送る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "translation_bio",
+		"word": "Translation",
+		"meaning": "翻訳（ほんやく）",
+		"etymology": [
+			"Latin trans- + latus (carried across)"
+		],
+		"original_statement": "Synthesis of a protein from mRNA.",
+		"concept": "Language conversion of life",
+		"thinking": "「別の場所へ運ぶ（Trans-late）」。核酸の言葉から、アミノ酸の言葉へ。文字の羅列が、立体的な『形』へと生まれ変わる、細胞の中の大いなる翻訳工作。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "proteomics_adv",
+		"word": "Proteomics",
+		"meaning": "プロテオミクス",
+		"etymology": [
+			"Protein + -ome"
+		],
+		"original_statement": "Large-scale study of proteins.",
+		"concept": "The study of life's machinery",
+		"thinking": "設計図（ゲノム）ではなく、実際に働いている工場の機械（タンパク質）たちの総体を調べる。生命という現象の、動的な真実を追う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "enzyme_catalysis",
+		"word": "Enzyme",
+		"meaning": "酵素（こうそ）",
+		"etymology": [
+			"Greek en- (in) + zyme (leaven/yeast)"
+		],
+		"original_statement": "Biological catalysts that speed up chemical reactions.",
+		"concept": "The magical facilitator",
+		"thinking": "「酵母の中に（En-zyme）」。自らは変わることなく、周りを劇的に変化させる。何千年もかかるはずの理を、瞬きの一瞬に終わらせる生命の加速器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "substrate_bio",
+		"word": "Substrate",
+		"meaning": "基質（きしつ）",
+		"etymology": [
+			"Latin sub- (under) + sternere (to spread)"
+		],
+		"original_statement": "Substance on which an enzyme acts.",
+		"concept": "The material for the act",
+		"thinking": "「下に（Sub）敷かれた（Stratum）」もの。酵素という職人が手を加えるための、加工されるのを待つ原石のような存在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "metabolism_cycle",
+		"word": "Metabolism",
+		"meaning": "代謝（たいしゃ）、メタボリズム",
+		"etymology": [
+			"Greek metabole (change)"
+		],
+		"original_statement": "Chemical processes that occur within a living organism in order to maintain life.",
+		"concept": "The constant stream of change",
+		"thinking": "「変化（Metabole）」。食べ、壊し、作り替える。止まることなく流れ続けることで、崩壊を食い止める、生命の動的な火。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "anabolism_build",
+		"word": "Anabolism",
+		"meaning": "同化（どうか）、アナボリズム",
+		"etymology": [
+			"Greek ana- (up) + ballein (to throw)"
+		],
+		"original_statement": "Set of metabolic pathways that construct molecules from smaller units.",
+		"concept": "The constructive throw",
+		"thinking": "「上へ（Ana）投げる（Ballein）」。小さな欠片を組み上げ、より大きく、より複雑な、高いエネルギーを秘めた高みへと昇華させる創造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "catabolism_break",
+		"word": "Catabolism",
+		"meaning": "異化（いか）、カタボリズム",
+		"etymology": [
+			"Greek kata- (down) + ballein"
+		],
+		"original_statement": "Set of metabolic pathways that breaks down molecules into smaller units.",
+		"concept": "The deconstructive throw",
+		"thinking": "「下へ（Kata）投げる（Ballein）」。巨大な塊を砕き、解放されたエネルギーを自らの糧とする。生を支えるための、理にかなった解体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "mitosis_div",
+		"word": "Mitosis",
+		"meaning": "有糸分裂（ゆうしぶんれつ）",
+		"etymology": [
+			"Greek mitos (thread)"
+		],
+		"original_statement": "Type of cell division giving rise to two identical daughter cells.",
+		"concept": "The replication of the thread",
+		"thinking": "「糸（Mitos）」の舞い。絡み合っていたDNAが美しい筋となって分かたれ、古い自分が二つの等しい『新しい自分』へと継承される。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "meiosis_germ",
+		"word": "Meiosis",
+		"meaning": "減数分裂（げんすうぶんれつ）",
+		"etymology": [
+			"Greek meiosis (lessening)"
+		],
+		"original_statement": "Specialized cell division that reduces the chromosome number by half.",
+		"concept": "Preparation for union",
+		"thinking": "「減らす（Meiosis）」こと。あえて半分になることで、いつか出会う『他者』と融合し、新しい可能性を紡ぎ出すための、謙虚な準備。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "chromosome_tel",
+		"word": "Chromosome",
+		"meaning": "染色体（せんしょくたい）",
+		"etymology": [
+			"Greek chroma (color) + soma (body)"
+		],
+		"original_statement": "Thread-like structure of nucleic acids and protein found in the nucleus.",
+		"concept": "The colored vessel of history",
+		"thinking": "「染まる（Chroma）」「体（Soma）」。顕微鏡の下で鮮やかに姿を現す。世代を超えて受け継がれる、あまりに重い歴史を背負った情報の束。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "telomere_aging",
+		"word": "Telomere",
+		"meaning": "テロメア",
+		"etymology": [
+			"Greek telos (end) + meros (part)"
+		],
+		"original_statement": "Compound structure at the end of a chromosome.",
+		"concept": "The burning wick of time",
+		"thinking": "「終わりの（Telos）」「部分（Meros）」。分裂を繰り返すたびに少しずつ削り取られていく。生命の、あるいは細胞の、残された時間の長さを刻む砂時計。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "apoptosis_death",
+		"word": "Apoptosis",
+		"meaning": "アポトーシス、細胞の自死",
+		"etymology": [
+			"Greek apo- (away) + ptosis (falling)"
+		],
+		"original_statement": "Programmed cell death.",
+		"concept": "Falling away for the whole",
+		"thinking": "「落ちる（Ptosis）」「離れる（Apo）」。枯れ葉が木から静かに散るように。全体の調和を守るために、自ら姿を消すという、高潔な計画的自死。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "stem_cell_pluri",
+		"word": "Stem Cell",
+		"meaning": "幹細胞（かんさいぼう）",
+		"etymology": [
+			"Stem (support/base)"
+		],
+		"original_statement": "Unspecialized cells that can give rise to any type of specialized cells.",
+		"concept": "The potential of all forms",
+		"thinking": "まだ何物でもないが、いかなるものにもなれる「幹（Stem）」。無限の可能性を秘めた、全ての始まりの源基。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "differentiation_bio",
+		"word": "Differentiation",
+		"meaning": "分化（ぶんか）",
+		"etymology": [
+			"Latin differentia"
+		],
+		"original_statement": "Process by which a cell becomes specialized to perform a specific function.",
+		"concept": "Finding one's vocation",
+		"thinking": "「違い（Differentia）」を生み出すこと。万能の夢を捨て、一つの『役割』を全うするために、その形も貌も変えていく、成熟への一歩。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "homeostasis_sys",
+		"word": "Homeostasis",
+		"meaning": "ホメオスタシス、恒常性",
+		"etymology": [
+			"Greek homoios (similar) + stasis (standing still)"
+		],
+		"original_statement": "Maintaining a stable internal environment despite external changes.",
+		"concept": "The dynamic stillness",
+		"thinking": "「同じ（Homoios）」ように「立ち続ける（Stasis）」。外の嵐がどれほど激しくても、自分の中の海だけは平穏に保ち続ける、生命の強靭な自律。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "epigenetics_adv",
+		"word": "Epigenetics",
+		"meaning": "エピジェネティクス",
+		"etymology": [
+			"Greek epi- (over/above) + Genetics"
+		],
+		"original_statement": "Study of changes in organisms caused by modification of gene expression rather than genetic code.",
+		"concept": "The interpretation of the text",
+		"thinking": "「遺伝の上（Epi-）」にあるもの。文字（コード）は変わらなくても、その『読み方』が変わるだけで、運命は激変する。経験がDNAに刻む、後天的な記憶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "methylation_bio",
+		"word": "Methylation",
+		"meaning": "メチル化",
+		"etymology": [
+			"Methyl (wood spirit)"
+		],
+		"original_statement": "Addition of a methyl group to DNA to affect gene expression.",
+		"concept": "The chemical mute button",
+		"thinking": "DNAの文字に小さな蓋を被せることで、その遺伝子を「黙らせる（不活性化する）」。情報の輝きを制御する、繊細な化学のスイッチ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "crispr_cas9_gen",
+		"word": "CRISPR-Cas9",
+		"meaning": "クリスパー・キャスナイン",
+		"etymology": [
+			"Clustered Regularly Interspaced Short Palindromic Repeats"
+		],
+		"original_statement": "Tool for editing genomes precisely.",
+		"concept": "The genetic scissors",
+		"thinking": "生命の設計図をピンポイントで切り貼りする。細菌がウイルスから身を守るために編み出した、極微の『外科手術』の知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "genotype_phenotype",
+		"word": "Genotype",
+		"meaning": "遺伝子型（いでんしがた）",
+		"etymology": [
+			"Greek genos (race/birth) + typos (image)"
+		],
+		"original_statement": "The genetic constitution of an individual organism.",
+		"concept": "The hidden code",
+		"thinking": "目には見えない、内に秘められた『種の型（Genotype）』。可能性としての自分。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "phenotype_obs",
+		"word": "Phenotype",
+		"meaning": "表現型（ひょうげんがた）",
+		"etymology": [
+			"Greek phainein (to show) + typos"
+		],
+		"original_statement": "Observable characteristics of an individual.",
+		"concept": "The manifest reality",
+		"thinking": "「現れる（Phainein）」「型（Typo）」。隠された設計図が、環境と出会い、その貌を現した『今』の姿。現実に刻まれた命の筆跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "mutation_random",
+		"word": "Mutation",
+		"meaning": "突然変異（とつぜんへんい）",
+		"etymology": [
+			"Latin mutare (to change)"
+		],
+		"original_statement": "A permanent change in the DNA sequence.",
+		"concept": "The glitch of creativity",
+		"thinking": "「変化（Mutare）」。完璧なはずの複製の途中で起きる『書き間違い』。その多くは悲劇だが、ごく稀に、それが新しい宇宙を拓く進化の火種となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "selection_pressure",
+		"word": "Selection Press",
+		"meaning": "選択圧（せんたくあつ）",
+		"etymology": [
+			"Latin selectio + Pressure"
+		],
+		"original_statement": "Factor that causes a change in the frequency of alleles.",
+		"concept": "The filter of existence",
+		"thinking": "過酷な現実が、誰を許し、誰を零すか。環境という名の審判が、命に突きつける逃れられない沈黙の重圧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "adaptation_evol",
+		"word": "Adaptation",
+		"meaning": "適応（てきおう）",
+		"etymology": [
+			"Latin ad- (to) + aptare (to fit)"
+		],
+		"original_statement": "Process by which as species becomes better suited to its environment.",
+		"concept": "Fitting into the niche",
+		"thinking": "「あてはめる（Aptare）」こと。自分を、あるいは世界を、お互いに心地よい形へと擦り合わせていく、生命の賢い妥協と調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "speculation_bio",
+		"word": "Speciation",
+		"meaning": "種分化（しゅぶんか）",
+		"etymology": [
+			"Latin species (kind/appearance)"
+		],
+		"original_statement": "Formation of new and distinct species in the course of evolution.",
+		"concept": "The branching of life",
+		"thinking": "かつて一つだったものが、別々の貌（Species）を持ち、二度と交わらなくなるその瞬間。生命の樹が、新しい枝を伸ばす決断。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "phylogeny_tree",
+		"word": "Phylogeny",
+		"meaning": "系統発生（けいとうはっせい）",
+		"etymology": [
+			"Greek phylon (tribe) + -geneia (origin)"
+		],
+		"original_statement": "Evolutionary history of a group of organisms.",
+		"concept": "The family tree of all life",
+		"thinking": "「種族（Phylon）」の「あゆみ（Origin）」。私たちはどこから来たのか。すべての命がたった一滴の源へと集約されていく、壮大な記憶の河。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "mutualism_bio",
+		"word": "Mutualism",
+		"meaning": "相利共生（そうりきょうせい）",
+		"etymology": [
+			"Latin mutuus"
+		],
+		"original_statement": "Relationship where both species benefit.",
+		"concept": "The win-win of life",
+		"thinking": "「分かち合い（Mutuus）」。あなたの喜びが私の糧になり、私の存在があなたの支えになる、エゴのない調和の極致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "commensalism_bio",
+		"word": "Commensalism",
+		"meaning": "片利共生（へんりきょうせい）",
+		"etymology": [
+			"Latin com- (together) + mensa (table)"
+		],
+		"original_statement": "Relationship where one species benefits while the other is unaffected.",
+		"concept": "Sharing the table",
+		"thinking": "「同じ食卓（Mensa）を囲む（Com-）」が、一方は恩恵を授かり、もう一方は気に留めない。付かず離れずの、穏やかなる相席。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "parasitism_bio",
+		"word": "Parasitism",
+		"meaning": "寄生（きせい）",
+		"etymology": [
+			"Greek para- (beside) + sitos (food)"
+		],
+		"original_statement": "Relationship where one organism benefits at the expense of the other.",
+		"concept": "The uninvited guest",
+		"thinking": "「隣で（Para）」「飯を食う（Sitos）」。一方の命を削って、自らの肥やしとする。自然界の、どこまでも貪欲で、しかし切実な生存の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "biome_ecology",
+		"word": "Biome",
+		"meaning": "バイオーム、生物群系",
+		"etymology": [
+			"Greek bios + -ome"
+		],
+		"original_statement": "Large naturally occurring community of flora and fauna occupying a major habitat.",
+		"concept": "The landscape of living community",
+		"thinking": "生命の「すべて（-ome）」。砂漠、森林、草原。気候と命が織りなす、個を越えた一つの巨大な生命圏のパノラマ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "biosphere_gaia",
+		"word": "Biosphere",
+		"meaning": "生物圏（せいぶつけん）",
+		"etymology": [
+			"Greek bios + sphaira (ball)"
+		],
+		"original_statement": "The regions of the surface, atmosphere, and hydrosphere inhabited by living organisms.",
+		"concept": "The thin skin of life on Earth",
+		"thinking": "地球という球体（Sphaira）を包み込む、あまりに薄く、あまりに尊い、命のヴェール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "anthroposcene_era",
+		"word": "Anthropocene",
+		"meaning": "人新世（じんしんせい）",
+		"etymology": [
+			"Greek anthropos (human) + kainos (new)"
+		],
+		"original_statement": "Current geological age viewed as period during which human activity has been dominant influence.",
+		"concept": "The age of the human footprint",
+		"thinking": "私たちの行動そのものが、地球の『地層』を塗り替え始めた新しい時代。人間（Anthropos）がついに地上の支配者となった、光と影の時代。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "hox_gene_body",
+		"word": "Hox Gene",
+		"meaning": "ホメオボックス型遺伝子",
+		"etymology": [
+			"Homeobox"
+		],
+		"original_statement": "Group of related genes that control the body plan of an embryo.",
+		"concept": "The master builder of forms",
+		"thinking": "頭をどこに作り、足をどこに作ればいいか。身体の『配置』を司る、全ての多細胞生物に共通する古き建設指揮命令。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "allometry_bio",
+		"word": "Allometry",
+		"meaning": "アロメトリー、相対成長",
+		"etymology": [
+			"Greek allos (other) + metron (measure)"
+		],
+		"original_statement": "Study of relationship of body size to shape, anatomy, physiology.",
+		"concept": "The shifting measures",
+		"thinking": "「別の（Allos）」「測り（Metron）」。体が大きくなれば、心臓も、代謝も、寿命も、単純な比例を越えて変わっていく。スケールに潜む不思議な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "clonality_bio",
+		"word": "Clonality",
+		"meaning": "クローン性",
+		"etymology": [
+			"Greek klon (twig)"
+		],
+		"original_statement": "State of being genetically identical descendants of a single ancestor.",
+		"concept": "The copy of a branch",
+		"thinking": "「小枝（Klon）」。一本の枝を地面に刺せば、親と同じ命がまた芽吹く。個人のアイデンティティを根底から揺さぶる、無性なる永遠。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "biodivers_index",
+		"word": "Biodiversity",
+		"meaning": "生物多様性（せいぶつたようせい）",
+		"etymology": [
+			"Greek bios + Latin diversus"
+		],
+		"original_statement": "Variety and variability of life on Earth.",
+		"concept": "The library of life's attempts",
+		"thinking": "「様々に向かう（Di-versus）」生命。一つとして同じものはなく、その『揺らぎ』こそが、予期せぬ破滅から世界を守る真のレジリエンス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "pathogen_bio",
+		"word": "Pathogen",
+		"meaning": "病原体（びょうげんたい）",
+		"etymology": [
+			"Greek pathos (suffering) + -genes (produced)"
+		],
+		"original_statement": "Bacterium, virus, or other microorganism that can cause disease.",
+		"concept": "Generator of suffering",
+		"thinking": "「苦しみ（Pathos）」を「生む（Gen）」者。彼らもまた生きようとしているに過ぎないが、その生が私たちの生を侵食するという悲劇の存在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "antigen_immunity",
+		"word": "Antigen",
+		"meaning": "抗原（こうげん）",
+		"etymology": [
+			"Anti- + Greek genes"
+		],
+		"original_statement": "Toxin or other foreign substance which induces an immune response.",
+		"concept": "The signature of the intruder",
+		"thinking": "体内に侵入した「よそ者」の証。それを見つけた瞬間、体内（免疫）は自らを守るための「対抗（Anti-）」運動を開始する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
+	},
+	{
+		"id": "immunosuppress",
+		"word": "Immunosuppress",
+		"meaning": "免疫抑制（めんえきよくせい）",
+		"etymology": [
+			"Latin immunis + suppressio"
+		],
+		"original_statement": "Suppression of the immune system and its ability to fight infection.",
+		"concept": "The ceasefire of self-defense",
+		"thinking": "「奉仕を免除された（Im-munis）」守護者たちを、「抑え込む（Sup-press）」。新たな生（移植）を受け入れるために、あえて盾を下ろすという勇気ある無防備。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の暗号を解き明かして。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生命科学の聖域へ。"
+			]
+		},
+		"example": "DNA is the software of life."
 	}
 ];
