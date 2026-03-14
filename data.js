@@ -392633,5 +392633,845 @@ const WORDS = [
 			]
 		},
 		"example": "Psychoanalysis explores the depths of the unconscious mind."
+	},
+	{
+		"id": "encrypt_ad_",
+		"word": "Encryption",
+		"meaning": "暗号化（あんごうか）",
+		"etymology": [
+			"En- + Kryptos"
+		],
+		"concept": "Transforming data to code",
+		"thinking": "情報を「隠された状態（Kryptos）」へと「閉じ込める（En-）」。無意味なノイズの海へと、意味という名の宝石を投げ込む。鍵を持たぬ者には、ただの混沌にしか見えないという、情報の『仮面』を被せる儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "decrypt_ad_",
+		"word": "Decryption",
+		"meaning": "復号（ふくごう）",
+		"etymology": [
+			"De- + Kryptos"
+		],
+		"concept": "Code back to data",
+		"thinking": "「隠された（Kryptos）」貌を、「取り出す（De-）」。鍵という名の『真実の目』によって、混沌の中から再び意味の光を呼び戻す、再生の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "cipher_adv_",
+		"word": "Cipher",
+		"meaning": "サイファー、暗号（あんごう）アルゴリズム",
+		"etymology": [
+			"Arabic sifr (zero/empty)"
+		],
+		"concept": "Method for secret writing",
+		"thinking": "かつて「ゼロ（Sifr）」と呼ばれた謎の器。意味を空にし、数理の掟に従って組み替えるための『情報の変換器』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "steganograp",
+		"word": "Steganogra",
+		"meaning": "ステガノグラフィー、秘（ひ）匿（とく）通信（つうしん）",
+		"etymology": [
+			"Greek steganos (covered/roofed) + graphein"
+		],
+		"concept": "Hiding info within info",
+		"thinking": "「屋根で覆われた（Steganos）」記述。情報を暗号化するのではなく、情報の存在そのものを「風景」の中に溶け込ませて隠す。木の葉を森に、嘘を真実に。巧妙なる隠蔽の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "plaintext_a",
+		"word": "Plaintext",
+		"meaning": "平文（ひらぶん）",
+		"etymology": [
+			"Plain + Text"
+		],
+		"concept": "Unencrypted information",
+		"thinking": "ありのまま、剥き出しの言葉。無防備で、誰にでも読み取られてしまう情報の。飾らぬ貌が持つ危うさと、その純粋さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "ciphertext_",
+		"word": "Ciphertext",
+		"meaning": "暗号文（あんごうぶん）",
+		"etymology": [
+			"Cipher + Text"
+		],
+		"concept": "Encrypted information",
+		"thinking": "鎧を纏った言葉。数理のトゲによって守られ、外界を拒絶する、閉じられた情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "asymmetric_",
+		"word": "Asymmetric",
+		"meaning": "非（ひ）対称（たいしょう）暗号（あんごう） (公（こう）開（かい）鍵（かぎ）)",
+		"etymology": [
+			"A- (not) + Symmetric"
+		],
+		"concept": "Separate keys for en/decrypt",
+		"thinking": "「対称的（Symmetric）」では「ない（A-）」。かける鍵と開ける鍵が異なる、一見不可能な魔法。誰もが鍵をかけられるが、開けられるのはただ一人。情報の非対称性から産まれる、現代の信頼（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "symmetric_e",
+		"word": "Symmetric",
+		"meaning": "共通（きょうつう）鍵（かぎ）暗号（あんごう）",
+		"etymology": [
+			"Greek sun- + metron (measured together)"
+		],
+		"concept": "Same key for en/decrypt",
+		"thinking": "「共に（Sun-）」「測る（Metron）」。同じ一つの鍵を、信頼という名の強い絆で分かち合う。速く、力強い。しかし、その鍵をいかにして手渡すかという、究極のジレンマの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "pki_infrastructure",
+		"word": "PKI (Info)",
+		"meaning": "公開（こうかい）鍵（かぎ）基盤（きばん） (PKI)",
+		"etymology": [
+			"Public Key Infrastructure"
+		],
+		"concept": "System for managing keys",
+		"thinking": "インターネットという名の無法地帯に、信頼の「礎（Infrastructure）」を築く。見知らぬ誰かを、誰かが証明する。情報の繋がりそのものを『法と数理』で固定する、巨大な信用の伽藍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "dig_signatu",
+		"word": "Dig Signat",
+		"meaning": "電子（でんし）署名（しょめい）",
+		"etymology": [
+			"Latin signare (to mark/sign)"
+		],
+		"concept": "Verifying origin of data",
+		"thinking": "ビットの海に「しるし（Sign）」を刻む。それは、あなたが書いたということ、そして一文字も改ざんされていないことの、数理的な証明（貌）。逃げも隠れもしない、情報の宣誓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "hash_functi",
+		"word": "Hash (Inf)",
+		"meaning": "ハッシュ関数（かんすう）",
+		"etymology": [
+			"French hacher (to chop)"
+		],
+		"concept": "Fixing data to fixed size",
+		"thinking": "巨大なデータをバラバラに「切り刻み（Hach-）」、たった一つの、短く不可逆な『情報の指紋』へと凝縮する。どんな大きな嘘も、この小さな指紋によってその正体を暴き出される、情報の鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "collision_i",
+		"word": "Collision",
+		"meaning": "衝突（しょうとつ） (暗号)",
+		"etymology": [
+			"Latin con- + laedere (to strike)"
+		],
+		"concept": "Different inputs same hash",
+		"thinking": "異なる二つの情報が、「共に（Con-）」「ぶつかり（Strike）」、同じ一つのハッシュ（貌）を持ってしまう奇跡、あるいは悪夢。情報の一意性が崩れ、真実と嘘の境界が曖昧になる瞬間の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "brute_force",
+		"word": "Brute Forc",
+		"meaning": "総（そう）当たり攻撃（こうげき）",
+		"etymology": [
+			"Brute (animal-like) + Force"
+		],
+		"concept": "Trying all possibilities",
+		"thinking": "知性なき「野獣（Brute）」のような「暴力（Force）」。数理の壁を打ち破るために、ありとあらゆる可能性を端から試していく。時間はかかるが、いつかは必ず扉を開ける、愚直で恐ろしき執念の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "entropy_sec",
+		"word": "Entropy (S)",
+		"meaning": "暗号（あんごう）的（てき）エントロピー",
+		"etymology": [
+			"Entropy"
+		],
+		"concept": "Unpredictability of keys",
+		"thinking": "「鍵」の予測できなさ、混沌の度合い。そこに『意味』や『癖』が潜んでいれば、暗号は崩壊する。完全な乱数、すなわち完全な『貌のなさ』を求める、情報の究極の無秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "randomness_",
+		"word": "Randomness",
+		"meaning": "乱数（らんすう）性（せい）",
+		"etymology": [
+			"Old French randon (force/speed)"
+		],
+		"concept": "Lack of pattern",
+		"thinking": "規則性からの「逃走」。どんなに超人的な計算機でも予測できない、宇宙の深淵に潜む本物の『偶然』。暗号の強固さは、この清々しいまでの出鱈目さ（貌）に依存している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "key_exchang",
+		"word": "Key Exchan",
+		"meaning": "鍵（かぎ）交換（こうかん）アルゴリズム",
+		"etymology": [
+			"Key + Exchange (Latin ex- + cambiare)"
+		],
+		"concept": "Securely sharing secret keys",
+		"thinking": "「盗聴されている場所」で、いかにして秘密の握手を交わすか。ディフィーとヘルマンが見出した、数理の舞台裏を通じた情報の受け渡し。敵の目の前で、敵に知られず『貌』を共有する狡猾さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "zero_knowle",
+		"word": "Zero Knowl",
+		"meaning": "ゼロ知識（ちしき）証明（しょうめい）",
+		"etymology": [
+			"Zero + Knowledge"
+		],
+		"concept": "Proving truth without info",
+		"thinking": "「私はパスワードを知っている」という事実を、パスワードを教えることなく「証明」する。情報の「中身（意味）」を一切明かさず、その『正しさ』だけを相手の魂に刻み込む、情報の魔法の極地。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "side_channe",
+		"word": "Side Chann",
+		"meaning": "サイドチャネル攻撃（こうげき）",
+		"etymology": [
+			"Side + Channel"
+		],
+		"concept": "Attack via physical leakage",
+		"thinking": "暗号の正面突破ではなく、「脇道（Side）」から攻める。計算の途中で漏れる熱、電力の変化、あるいは音。数理の完璧な理論を、肉体という名の物理的な脆弱性の側から抉り出す、卑劣で鋭い視線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "social_engi",
+		"word": "Social Eng",
+		"meaning": "ソーシャル・エンジニアリング",
+		"etymology": [
+			"Social + Latin ingeniare"
+		],
+		"concept": "Hacking people not machines",
+		"thinking": "暗号（数式）ではなく、人間を「操り（Enginaire）」、秘密を喋らせる。信頼、恐怖、虚栄心をハックする。最強の暗号を打ち負かすのは、いつも私たちの『心』という名の脆弱な貌である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "phishing_ad",
+		"word": "Phishing",
+		"meaning": "フィッシング詐欺（さぎ）",
+		"etymology": [
+			"Fishing + Sophisticated"
+		],
+		"concept": "Luring for information",
+		"thinking": "巧妙なる（Sophisticated）「釣り（Fishing）」。偽物の貌（サイト）を用意し、自ら秘密を差し出させる。騙される側が「自ら」罠にかかるという、情報の心理学的陥穽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "vulnerabili",
+		"word": "Vulnerabil",
+		"meaning": "脆弱（ぜいじゃく）性（せい）",
+		"etymology": [
+			"Latin vulnerare (to wound)"
+		],
+		"concept": "Weakness in security",
+		"thinking": "「傷つける（Vulnerare）」ことが可能な、システムの中の綻び。どんなに堅牢な壁も、たった一箇所、一文字の間違いがあればそこから崩壊する。私たちが完璧になれないという、存在の脆さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "exploit_adv",
+		"word": "Exploit",
+		"meaning": "エクスプロイト、脆弱性（ぜいじゃくせい）利用（りよう）",
+		"etymology": [
+			"French esploit (achievement/output)"
+		],
+		"concept": "Taking advantage of weakness",
+		"thinking": "綻びを「成果（Exploit）」へと変える手法。システムの意図せぬ「癖」を逆手に取り、支配権という名の果実を奪い取る、情報の刃の鋭さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "authenticat",
+		"word": "Authentica",
+		"meaning": "認証（にんしょう）",
+		"etymology": [
+			"Greek authentikos (authoritative/original)"
+		],
+		"concept": "Verifying identity",
+		"thinking": "あなたが「本物（Author）」であることを証明する。知識、所有、そして身体（バイオメトリクス）。情報の宇宙において、自身の『アイデンティティ（貌）』を確定させるための、最初の関門。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "authorizati",
+		"word": "Authorizat",
+		"meaning": "認可（にんか）、権限（けんげん）付与（ふよ）",
+		"etymology": [
+			"Latin auctor (originator/leader)"
+		],
+		"concept": "Permission to do something",
+		"thinking": "誰であるか（認証）の後に、何ができるか（認可）を「リーダー（Auctor）」が許可する。情報の聖域への立ち入りを許す、力の分かち合い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "blockchain_",
+		"word": "Blockchain",
+		"meaning": "ブロックチェーン、分散（ぶんさん）台帳（だいちょう）",
+		"etymology": [
+			"Block + Chain"
+		],
+		"concept": "Distributed secure ledger",
+		"thinking": "情報を「塊（Block）」にし、改ざん不能な「鎖（Chain）」で繋ぎ合わせる。中央の王がいなくとも、全員の監視という名の情報の『重力』によって真実が保たれる、透明で強靭な信頼の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "consensus_a",
+		"word": "Consensus",
+		"meaning": "コンセンサス、合意（ごうい）形成（けいせい） (分散系)",
+		"etymology": [
+			"Latin con- + sentire (to feel together)"
+		],
+		"concept": "Agreement among nodes",
+		"thinking": "「共に（Con-）」「感じる（Sentire）」。見知らぬ他者たちが、利害を超えて一つの真実（台帳）に合致する。数理が産み出す民主主義、あるいは絶対的な規律の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "quant_crypt",
+		"word": "Qu Cryptog",
+		"meaning": "量子（りょうし）暗号（あんごう）",
+		"etymology": [
+			"Quantum + Cryptography"
+		],
+		"concept": "Cryptography via quantum laws",
+		"thinking": "数理の難しさではなく、物理法則そのもの（量子の不確定性）を盾にする。見れば壊れる、測れば変わる。どんな計算機でも、宇宙という名の『観測の掟』を越えることはできないという、究極の秘匿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "quant_comp_",
+		"word": "Qu Computin",
+		"meaning": "量子（りょうし）コンピューティング",
+		"etymology": [
+			"Quantum + Computing"
+		],
+		"concept": "Computation via qubits",
+		"thinking": "0と1を同時に生きる「重ね合わせ」。宇宙のすべての可能性を同時に「計算」する、情報の神殺し。現在のあらゆる暗号を、ただの塵へと変えてしまう、破滅と創造の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "post_quantu",
+		"word": "Post-Quant",
+		"meaning": "ポスト量子（りょうし）暗号（あんごう）",
+		"etymology": [
+			"Latin post- + Quantum"
+		],
+		"concept": "Crypto secure against QCs",
+		"thinking": "量子計算機の「後（Post-）」に来る、さらなる数理の盾。格子、多項式、符号。神のごとき計算力さえも退ける、人間が最後に築き上げる抽象の要塞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "firewall_ad",
+		"word": "Firewall",
+		"meaning": "ファイアウォール",
+		"etymology": [
+			"Fire + Wall"
+		],
+		"concept": "Network border security",
+		"thinking": "内なる世界と、外なる火（脅威）を隔てる「壁」。情報の流れを門番が厳しく監視し、不浄なパケットを拒絶する。境界線を守り抜く、静かなる守護者の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "malware_adv",
+		"word": "Malware",
+		"meaning": "マルウェア、悪意（あくい）あるソフト",
+		"etymology": [
+			"Latin malus (bad) + Software"
+		],
+		"concept": "Malicious software",
+		"thinking": "「悪しき（Malus）」意図を宿した情報の変異体。ウイルス、ワーム、トロイの木馬。命のプログラム（OS）を侵食し、自らを複製し、影から情報を盗み出す、情報の寄生獣の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "ransomware_",
+		"word": "Ransomware",
+		"meaning": "ランサムウェア",
+		"etymology": [
+			"Old French rancon (redemption) + Software"
+		],
+		"concept": "Data held for ransom",
+		"thinking": "大切な情報を暗号化して「人質（Ransom）」に取り、身代金を要求する。情報を『隠す』という暗号の本質が、最も卑俗な『脅迫』へと転じられた、情報の暴力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "sandboxing_",
+		"word": "Sandboxing",
+		"meaning": "サンドボックス、隔離（かくり）実行（じっこう）",
+		"etymology": [
+			"Sand + Box"
+		],
+		"concept": "Restricted execution environ",
+		"thinking": "未知の脅威を、安全な「砂場（Sandbox）」の中に閉じ込めて遊ばせる。外界への扉は閉ざされ、どんな暴挙もその箱の中だけで終わる。観察し、暴き出すための、情報の実験場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "honey_pot_a",
+		"word": "Honeypot",
+		"meaning": "ハニーポット、囮（おとり）サーバー",
+		"etymology": [
+			"Honey + Pot"
+		],
+		"concept": "Trap for attackers",
+		"thinking": "「蜜（Honey）」を塗った「瓶（Pot）」。攻撃者を誘い出し、その手口をじっくりと観察するための美しい罠。暗闇のハンターが、逆に追跡される側になるという、情報の反転の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "man_in_midd",
+		"word": "MitM Attack",
+		"meaning": "中間者（ちゅうかんしゃ）攻撃（こうげき） (MitM)",
+		"etymology": [
+			"Man in the Middle"
+		],
+		"concept": "Eavesdropping between points",
+		"thinking": "「二人（貌）」の密談の「真ん中」に潜り込み、密かに言葉を書き換え、あるいは盗み聞く第三者。情報の『線』を密かに自分のポケットへと繋ぎ直す、不可視の裏切り者の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "replay_atta",
+		"word": "Replay Att",
+		"meaning": "リプレイ攻撃（こうげき）",
+		"etymology": [
+			"Re- + Play"
+		],
+		"concept": "Repeating a valid packet",
+		"thinking": "過去の「正しい合言葉（貌）」を録音し、もう一度「再生（Replay）」することで、扉をこじ開ける。意味は分からずとも、その「形」だけを真似ることで現実を騙す、情報の剽窃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "nonce_adv_v",
+		"word": "Nonce",
+		"meaning": "ナンス、使い捨て（つかいすて）の番号（ばんごう）",
+		"etymology": [
+			"For the nonce (for the once/then)"
+		],
+		"concept": "Number used only once",
+		"thinking": "「ただ一度（Nonce）」だけの、一瞬の貌。二度と同じものは現れない、時間の落款。リプレイ（模倣）を許さぬ、情報の鮮度と実存を保証する、使い捨ての誠実さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "obfuscatio",
+		"word": "Obfuscate",
+		"meaning": "難（なん）読（どく）化（か）、オブファスケイション",
+		"etymology": [
+			"Latin ob- + fuscus (dark/dusky)"
+		],
+		"concept": "Making code hard to read",
+		"thinking": "意味を「暗く（Fuscus）」曇らせ、覆い隠す。コードの動きはそのままだが、人間の目には迷宮のように見えるように組み替える。情報の『貌』を歪め、秘密が暴かれる時間を稼ぐ、知恵の霧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "integrity_i",
+		"word": "Integrity",
+		"meaning": "真正（しんせい）性（せい）、整合性（せいごうせい）",
+		"etymology": [
+			"Latin integer (untouched/whole)"
+		],
+		"concept": "Information is accurate",
+		"thinking": "誰の「手も触れられていない（Integer）」、完結した正しさ。情報が、発信された瞬間のまま、一ビットの汚れもなく届けられるという、情報の『魂の潔白性』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "cia_triad_a",
+		"word": "CIA Triad",
+		"meaning": "情報（じょうほう）セキュリティの三要素（さんようそ）",
+		"etymology": [
+			"Confidentiality, Integrity, Availability"
+		],
+		"concept": "The core of info security",
+		"thinking": "「機密（秘密）」「完全（正確）」「可用（いつでも使える）」。この三つの貌が三角形のように響き合い、初めて情報は意味のある『財産』となる。一つでも欠ければ、情報は武器か、あるいはゴミへと変わる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "forensics_i",
+		"word": "Dig Forens",
+		"meaning": "デジタル・フォレンジック、電子（でんし）鑑識（かんしき）",
+		"etymology": [
+			"Latin forensis (public/forum)"
+		],
+		"concept": "Investigating digital crime",
+		"thinking": "「広場（Forum）」で真実を白日の下に晒すための、情報の捜査学。消されたファイル、上書きされた記憶。情報の破片から犯人の『貌（足跡）』を復元する、現代の探偵の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
+	},
+	{
+		"id": "zero_day_at",
+		"word": "Zero-Day",
+		"meaning": "ゼロデイ攻撃（こうげき）",
+		"etymology": [
+			"Zero + Day"
+		],
+		"concept": "Attack on day of discovery",
+		"thinking": "対策が産まれる「ゼロ日目」の、無防備な隙を突く電撃戦。情報の闇から突然現れる、逃げ場のない最初の一撃。守り手にとっての悪夢、攻め手にとっての究極の好機という非対称な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の深淵を、暗号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号学と情報セキュリティの極致へ。"
+			]
+		},
+		"example": "Cryptography ensures the privacy and integrity of information."
 	}
 ];
