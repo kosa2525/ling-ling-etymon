@@ -327141,5 +327141,242 @@ const WORDS = [
 				"知の極致へ。"
 			]
 		}
+	},
+	{
+		"id": "chaos_theory_words",
+		"word": "Chaos",
+		"meaning": "カオス、混沌",
+		"era": "Greek khaos",
+		"etymology": {
+			"components": [
+				"khaos (gaping void / abyss)"
+			],
+			"original_statement": "From Greek khaos 'gaping void / abyss / gasping-space'."
+		},
+		"concept": "The gaping abyss (口を開けた深淵、底知れぬ可能性の闇)",
+		"thinking": "「ぽっかり開いた空隙（Khaos）」。秩序が崩壊した後の無秩序に見えて、実は極めて精緻なルールに基づいた『予測不能な調和』。底が知れないからこそ、そこはあらゆる新しい命が生まれ出るための、豊かすぎる胎内でもあります。",
+		"aftertaste": "混乱の中にこそ、まだ誰も見たことがない宝物が眠っています。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "attractor_chaos",
+		"word": "Attractor",
+		"meaning": "アトラクター、引き寄せるもの",
+		"era": "Latin ad- + trahere",
+		"etymology": {
+			"components": [
+				"ad- (to)",
+				"trahere (to pull)"
+			],
+			"original_statement": "From Latin attractum, from attrahere 'to pull to'."
+		},
+		"concept": "That which pulls towards (引き寄せゆく目的地、運命の重力)",
+		"thinking": "「引き寄せる（Trah）」もの。どんなに激しく揺れ動く人生も、最後にはそこに収束していくという、魂の目的地。奇妙な形（ストレンジ・アトラクター）をしていても、そこにはあなたが惹かれてやまない、究極の安定（美）が存在します。",
+		"aftertaste": "あなたが無意識に惹きつけられる場所。そこがあなたの『中心』です。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "butterfly_effect",
+		"word": "Butterfly Effect",
+		"meaning": "バタフライ効果",
+		"era": "Named by Edward Lorenz",
+		"etymology": {
+			"components": [
+				"butterfly",
+				"effect"
+			],
+			"original_statement": "Analogy that a flap of a butterfly's wings in Brazil could set off a tornado in Texas."
+		},
+		"concept": "The power of small flutter (小さな羽ばたきの力、連鎖する劇変)",
+		"thinking": "一匹の蝶の羽ばたきが、地球の裏側で嵐を引き起こす。どんなに些細な一歩も、時間が経てば世界の運命を書き換える巨大なうねりになるという希望と畏怖。あなたの今日の一言が、誰かの人生の『嵐（変革）』になるかもしれません。",
+		"aftertaste": "自分の『小さな一歩』の影響力を、低く評価しないで。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "fractal_geometry",
+		"word": "Fractal",
+		"meaning": "フラクタル、自己相似形",
+		"era": "Latin frangere",
+		"etymology": {
+			"components": [
+				"fractus (broken / fragmented)"
+			],
+			"original_statement": "Coined by Benoit Mandelbrot from Latin fractus 'broken / uneven'."
+		},
+		"concept": "Broken but self-similar (砕かれてもなお似ている、無限の再帰美)",
+		"thinking": "「砕かれた（Fract）」もの。どれだけ拡大しても、そこには全体と同じ複雑な『貌』が現れる。部分は全体を映し、全体は部分を宿す。宇宙の隅々にまで行き渡る、神様のコピペ（自己相似）の美学です。",
+		"aftertaste": "あなたという存在の一片には、宇宙のすべての知恵が刻まれています。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "entropy_chaos",
+		"word": "Entropy (Chaos)",
+		"meaning": "エントロピー、情報の散逸、無秩序",
+		"era": "Greek en- + trope",
+		"etymology": {
+			"components": [
+				"en- (in)",
+				"trope (transformation)"
+			],
+			"original_statement": "In chaos theory, a measure of the rate of information loss in a system."
+		},
+		"concept": "Inner loss of information (内なる情報の薄れ、予測の限界)",
+		"thinking": "「変容（Trope）」の果てに。知れば知るほど、未来が霧の中に消えていく、情報の『薄まり』。それは絶望ではなく、世界が常に新しく書き換えられ、過去の呪縛から解放されていくための『忘却の優しさ』でもあります。",
+		"aftertaste": "忘れること、薄れること。それは新しい自分に生まれ変わるための準備です。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "sensitive_dependence",
+		"word": "Sensitive Dependence",
+		"meaning": "初期値鋭敏性",
+		"era": "Latin sentire",
+		"etymology": {
+			"components": [
+				"sentiri (to feel / perceive)",
+				"de- + pendere (to hang down from)"
+			],
+			"original_statement": "The 'sensitive' (from Latin sentiri) dependence on initial conditions."
+		},
+		"concept": "Hanging from the subtle feeling (繊細な感覚にぶら下がる、最初の重み)",
+		"thinking": "「感じる（Sent）」力。「ぶら下がる（Depend）」宿命。事の始まりの、ほんの微かな違いが、結末を決定づけてしまう鋭敏さ。最初の一歩にどれだけの『心（情熱）』を込めるかが、すべてを決めます。丁寧に、最初を大切に。",
+		"aftertaste": "始まりの一瞬。その『微かな光』を、大切に抱きしめて。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "iteration_math",
+		"word": "Iteration",
+		"meaning": "反復、繰り返し、イテレーション",
+		"era": "Latin iterum",
+		"etymology": {
+			"components": [
+				"iterum (again)"
+			],
+			"original_statement": "From Latin itero 'to repeat / do again', from iterum 'again'."
+		},
+		"concept": "Doing it again (再びの積み重ね、深まりゆくループ)",
+		"thinking": "「再び（Iterum）」。同じことを繰り返しているようでいて、そのたびに結果をフィードバックし、より深い場所へと潜っていくこと。単純な反復こそが、カオスという芳醇な森を生み出す魔法の工程です。",
+		"aftertaste": "『また明日も』。その繰り返しの先に、想像もしなかった景色が待っています。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "phase_space_words",
+		"word": "Phase Space",
+		"meaning": "位相空間、状態空間",
+		"era": "Greek phasis + Latin spatium",
+		"etymology": {
+			"components": [
+				"phasis (appearance)",
+				"spatium (space)"
+			],
+			"original_statement": "Representation of all possible states of a system. From Greek phasis 'appearance'."
+		},
+		"concept": "The space of all appearances (あらゆる貌が住まう場所、可能性の地図)",
+		"thinking": "「現れ（Phasis）」の広がり。今この瞬間、あなたが取り得るすべての状態（未来）が、点の集合として住んでいる想像の地図。現実だけでなく、『あり得たかもしれない自分』をも含めた、あなたの全存在のアーカイブです。",
+		"aftertaste": "地図を広げて。あなたは今、どんな自分という『点』に立っていますか？",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "periodicity_chaos",
+		"word": "Periodicity",
+		"meaning": "周期性",
+		"era": "Greek peri- + hodos",
+		"etymology": {
+			"components": [
+				"peri (around)",
+				"hodos (way / path)"
+			],
+			"original_statement": "From Greek periodos 'cycle / circuit', from peri- 'around' + hodos 'way'."
+		},
+		"concept": "The path around (周り巡る道、確かなる再会)",
+		"thinking": "「周りを（Peri）」「行く道（Hodos）」。忘れた頃にやってくる、心の季節。カオスの中にも、時折ふっと姿を見せる『いつもの自分』という安らぎ。巡りゆく道は、あなたが決して迷子ではないことを教えてくれます。",
+		"aftertaste": "巡ってくるリズムを信じて。冬が来ても、必ず春の道に戻れます。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
+	},
+	{
+		"id": "resonance_chaos",
+		"word": "Resonance",
+		"meaning": "共鳴、響き、レゾナンス",
+		"era": "Latin re- + sonare",
+		"etymology": {
+			"components": [
+				"re- (back / again)",
+				"sonare (to sound)"
+			],
+			"original_statement": "From Latin resonantia 'echo', from resonare 'sound back'."
+		},
+		"concept": "Sounding back together (共に響き返却する、調和の連鎖)",
+		"thinking": "「再び（Re）」「鳴り響く（Sonare）」。微かな羽ばたきが、相手の心と同じ周波数で震えた時、そのエネルギーは何倍にも増幅される。それは、バラバラなカオスを、一つの壮大な交響曲へと変貌させる『魂の共鳴』です。",
+		"aftertaste": "誰かの心と響き合った時、あなたは宇宙そのものと繋がっています。",
+		"part_of_speech": "noun",
+		"example": "Abstract patterns reveal the hidden architecture of reality.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知の極致へ。"
+			]
+		}
 	}
 ];
