@@ -324060,5 +324060,90 @@ const WORDS = [
    "original_statement": "The process in which a background electromagnetic field produces virtual electron-positron pairs that change the distribution of charges and currents."
   },
   "concept": "The awake in void (「。。、。空（。から）。。、。、。っぽ。。、」。であ。った。。、はず。の。、。、。闇。が。、。、。不意に。、。、「。。、。、。、。光。、。、。、」。の、。、。。、。、。粒。。を。。、。、。生（う）。。、。み。。、。出し。。、。、。自ら。を、。。、。、。、着（き）。。、。飾（。かざ）。。、。る。。、。、。ことの、。、。、。理知。の、。。、あで。、。やか。。、な。。、。滑（なめ）。、。稽（けい）。。、。さ。、。、それは、。、。、。、宇宙。が。、。、。、沈。、。黙。、。、を。、。、。あえて。、。、。、拒（。こば）。。、。んだ。。、。、一。、。瞬、。の、。、。情。、。、熱。、)"
+ },
+ {
+  "id": "cauchy-sequence",
+  "word": "Cauchy Sequence",
+  "meaning": "コーシー列、。、。どこまでも。、。、。寄り。添い。。、。最後。には。、。、。一。、。つの。。、。真実。へと。、。辿り。、。着。こう。。、。とする、。、。、。理知。の、。。、。歩み。、",
+  "era": "Name Augustin-Louis Cauchy",
+  "etymology": {
+   "components": [
+    "Augustin-Louis Cauchy (mathematician)"
+   ],
+   "original_statement": "An sequence of elements such that for any arbitrarily small positive distance, all but a finite number of elements in the sequence are less than that distance from each other."
+  },
+  "concept": "The nearing spirit (「。。、。互い。に、。、。、」。これほど。、。、。近く。。、に。、。、寄り。添（。そ。）。。、。え。。、。ば、。、。、。そこ。。に。、。、。必ず。、。、。。「。。、。、。、。一つ。、。、。、」。の、。、。。結論。。が。、。、。在（。あ）。。、。る。。、。はず。、。、という、。、。理知。の、。峻烈なる。、。、。、信。、。、。頼。、。それは、。、。、。、完成。を。、。、目指（。め。ざ）。。、。す。。、ための。、。、。、。、。峻烈な。、。、。、。、。、。誠。、実。、)"
+ },
+ {
+  "id": "connectedness",
+  "word": "Connectedness",
+  "meaning": "連結性、。、。分（。わ。）。。、。かつ。。、。ことの、。、。。、。できない。。、。、峻烈な。、。、。絆。、。、。一。、。つの。、。、。魂。、。としての。、。、。理。知。、",
+  "era": "Latin connectere",
+  "etymology": {
+   "components": [
+    "con- (together)",
+    "nectere (to bind)"
+   ],
+   "original_statement": "A topological space is connected if it cannot be represented as the union of two or more disjoint non-empty open subsets."
+  },
+  "concept": "The unbreakable unit (「。。、どこ。を。、。、」。切り。、。裂（。さ。）。。、。こう。。、。とも、。、。、決して。、。、。、。、二つ。に。、。、。、。、分（。わ。）。。、。か。、。れ。。、。ぬ。。、。という、。、。理知。の、。峻烈なる。、。、。。「。。、。、。、。一。、。、。、」。、。、。それは、。、。、。、。宇宙。の中に。、。、。不意に。、。、。、。横（よこ）。。、。た。、。わる。。、。、。、。絶。、。、対。、。、。の、。、。、結。、。、。び。。、。、。つき。、)"
+ },
+ {
+  "id": "compactification",
+  "word": "Compactification",
+  "meaning": "コンパクト化、。、。果（は。て）。。、。のない。。、。、世界。。を。、。あえて。、。、「。、。一。、。点の。、。、。。、。、最後。、。、。、」。を。、。、。加（くわ）。。、。える。。、ことで。、。、。閉じ。込（こ。）。。、める。。、。理知。の、。、。。優。、。しさ。、",
+  "era": "Latin compactus + -fication",
+  "etymology": {
+   "components": [
+    "compactus (joined together)",
+    "facere (to make)"
+   ],
+   "original_statement": "The process of embedding a topological space onto a compact space as a dense subset."
+  },
+  "concept": "The closed infinite (「。。、どこまでも。、。、」。続く。。、。、。広（。ひろ）。。、。が。、。、。り。。、。を。、。、。せめて。、。、。一。、。つの。、。、。、。、「。。、。、。箱。、。、。、」。の中。へと、。、。、。収。、。める。。、。ための。、。、。、。峻烈な。、。、。。、。、祈。、。、り。、。それは、。、。、。無限。の、。、。、。怖（こわ）。。、。さ。、。を。、。、。、愛（。い。）。。、。と。、。、。いう、。、。、。。形（Form）。へと、。、。、。、。変える。。、。ための。、。、。、。、術。、)"
+ },
+ {
+  "id": "uniform-continuity",
+  "word": "Uniform Continuity",
+  "meaning": "一様連続性、。、。場所。に。、。よらず。、。、常に。、。、同一。の、。、。、峻烈。な。、。、。優（。やさ）。。、。しさ。。、を。、。、携（たずさ）。。、。えて。。、。いる。。、。こと。、",
+  "era": "Latin uniformis + continuus",
+  "etymology": {
+   "components": [
+    "unus (one)",
+    "forma (form)",
+    "continuare (to join together)"
+   ],
+   "original_statement": "A function is uniformly continuous if the distance between the outputs can be made as small as desired for any two points in the domain that are closer than a certain distance delta, where delta depends only on epsilon and not on the points in the domain."
+  },
+  "concept": "The constant kindness (「。。、。あ。、る。。い。は。、。、」。ここ。でも。、。、「。。、。、。あ。ちら。、でも。、。、。、」。どこまでも。。、。平等。に。、。、。、。、「。。、。、寄り。、。添（そ）。、。う。。、。、。、」。理知。の。、。、。、。、。。誠実。、。、それは、。、。、。一。、。点の。、。、。、。乱（。みだ）。。、。れ。。、。なく、。、。、。理知。が、。、。、。。「。。、。、。全。体。、。、。、」。を。、。、。愛。している。。、。ことの、。、。。、。証（あかし）。、)"
+ },
+ {
+  "id": "metric-completion",
+  "word": "Metric Completion",
+  "meaning": "距離の完備化、。、。欠（か。）。。、。けて。。、。いた。。、。、峻烈な。、。、。真実。の。、。、。穴。、を。、。、埋（う。）。。、。める。。、ことで。、。、。真の。、。「。。、。、。、実（。じ。つ）。、。、。、」。へと、。、。辿（たど）。。、。り。。、。着（つく）。。、。ための。、。、。階。、。段。、",
+  "era": "Latin metricus + completus",
+  "etymology": {
+   "components": [
+    "metron (measure)",
+    "complere (to fill up)"
+   ],
+   "original_statement": "The process of adding a sufficient number of points to a metric space until every Cauchy sequence converges."
+  },
+  "concept": "Filling the void (「。。、。欠（。か。）。。、。、。け。。、」。ていた。。、。理知。。を。、。、。あえて。、。、「。。、。、。、すべて。、。、。、」。、と。、。いう、。、。、。峻烈な。、。、。、。完。、成。、へと。、。。導（みちび）。。、。く。。、。、こと。、。、。それは、。、。、。、。存在。、。の、。、。。背。、後に。、。、ひっそり。と、。、。、。在（あ）。。、。った。。、。、。理想。、を、。、。。、。、我ら。の。、。、。、。掌（。て。の。ひら）。。、。へと、。。、。奪（うば）。。、。い。。、。返す。。、。、峻烈な。、。、。、。、。、。計。、画。、)"
+ },
+ {
+  "id": "subspace-topology",
+  "word": "Subspace Topology",
+  "meaning": "部分空間の位相、。、。より。、。、大きな。、。世界。から、。、。ひっそり。と、。、。、。受。け。、。継（つ）。。、。いだ。。、。峻烈な。、。、。、。「。。、。、。、見。、。守。、。、。、」。りの。、。形。、",
+  "era": "Latin sub- + spatium + Greek topos + logos",
+  "etymology": {
+   "components": [
+    "sub (under)",
+    "spatium (space)",
+    "topos (place)"
+   ],
+   "original_statement": "The topology inherited by a subset of a topological space from the larger space."
+  },
+  "concept": "The inherited gaze (「。。、どこ。を。、。、」。見。、。渡（。わた）。。、。しても。、。、。、。より。、。大きな。、。、「。。、。、。、。理。知。、。、。、」。が。、。、。不意に。、。、「。。、。、。、、私。、。、。、」。を。、。、見。、。つ。、。めて。。、。いる。。、。ことの、。、。安心。感。、。、。それは、。、。、。理知。が、。、。、。、いかなる。、。、。。断。、。、片。、。、の中にも、。、。、ひっそり。と、。。、。宇宙。の、。、。、。、。面影（。おも。かげ）。。、。を。。、。、。遺（。のこ）。。、。して。。、。いた。。、。、証（。あかし）。、)"
  }
 ];
