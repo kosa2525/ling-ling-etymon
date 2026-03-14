@@ -324964,5 +324964,53 @@ const WORDS = [
 				"探求は続く。"
 			]
 		}
+	},
+	{
+		"id": "allotrope",
+		"word": "Allotrope",
+		"meaning": "同素体",
+		"era": "Greek allos + tropos",
+		"etymology": {
+			"components": [
+				"allos (other)",
+				"tropos (way)"
+			],
+			"original_statement": "From Greek allotropos 'in another manner', from allos 'other' + tropos 'way'."
+		},
+		"concept": "Other forms of same self (別の姿をした自己、変幻自在な本質)",
+		"thinking": "「別の（Allos）」「あり方（Tropos）」。炭素がダイヤモンドにも黒鉛にもなるように、同じ成分でありながら、結びつき方一つでまったく異なる価値と輝きを放つこと。私たちは状況に応じて、自分の中に眠る『別の同素体』を呼び覚ますことができます。",
+		"aftertaste": "あなたは、どんな姿にもなれる。その構成（むすびつき）は、あなたの自由です。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
+	},
+	{
+		"id": "unit_cell",
+		"word": "Unit Cell",
+		"meaning": "単位格子、単位胞",
+		"era": "English unit + cell",
+		"etymology": {
+			"components": [
+				"unitas (oneness / unity)",
+				"cella (small room)"
+			],
+			"original_statement": "Combining unit (from Latin unitas) + cell (from Latin cella)."
+		},
+		"concept": "The primitive room (原初の部屋、世界を畳み込んだ種子)",
+		"thinking": "結晶を構成する、最小の「一（Unit）」なる「部屋（Cell）」。この小さな部屋の形を調べれば、たとえそれが巨大な山であっても、そのすべての性質を知ることができます。全体は個の中に宿り、個は全体を映し出す鏡です。",
+		"aftertaste": "あなたの心の小さな一部。そこには、あなたの全宇宙が凝縮されています。",
+		"part_of_speech": "noun",
+		"example": "Academic vocabulary opens new dimensions of understanding.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"探求は続く。"
+			]
+		}
 	}
 ];
