@@ -405534,5 +405534,65 @@ const WORDS = [
 			]
 		},
 		"example": "Neurobiology is the study of the nervous system."
+	},
+	{
+		"id": "humanism_ad",
+		"word": "Humanism",
+		"meaning": "人文主義（じんぶんしゅぎ）、ヒューマニズム",
+		"etymology": [
+			"Latin humanus"
+		],
+		"concept": "Philosophy valuing human agency",
+		"thinking": "「人間（Humanus）」の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "時代の深淵を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ルネサンス哲学と人文主義の極致へ。"
+			]
+		},
+		"example": "Renaissance humanism emphasized the value and agency of human beings."
+	},
+	{
+		"id": "hermeticism",
+		"word": "Hermeticism",
+		"meaning": "ヘルメス主義（しゅぎ）",
+		"etymology": [
+			"Hermes Trismegistus"
+		],
+		"concept": "Esoteric spiritual system",
+		"thinking": "「隠された」知。。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "時代の深淵を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ルネサンス哲学と人文主義の極致へ。"
+			]
+		},
+		"example": "Renaissance humanism emphasized the value and agency of human beings."
+	},
+	{
+		"id": "neoplatonis",
+		"word": "Neo-Platon",
+		"meaning": "新（しん）プラトン主義（しゅぎ）",
+		"etymology": [
+			"Greek neos + Plato"
+		],
+		"concept": "Revived Platonic philosophy",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "時代の深淵を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ルネサンス哲学と人文主義の極致へ。"
+			]
+		},
+		"example": "Renaissance humanism emphasized the value and agency of human beings."
 	}
 ];
