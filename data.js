@@ -405814,5 +405814,65 @@ const WORDS = [
 			]
 		},
 		"example": "Ludology is the study of games and gameplay."
+	},
+	{
+		"id": "magmatism_a",
+		"word": "Magmatism",
+		"meaning": "マグマ活動（かつどう）",
+		"etymology": [
+			"Greek magma (thick unguent)"
+		],
+		"concept": "Movement/formation of magma",
+		"thinking": "「ドロドロとしたもの（Magma）」の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "灼熱の深淵を、地質の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"火山学と火成岩岩石学の極致へ。"
+			]
+		},
+		"example": "Volcanology is the study of volcanoes, lava, and magma."
+	},
+	{
+		"id": "geothermal_",
+		"word": "Geothermal",
+		"meaning": "地熱（ちねつ）の",
+		"etymology": [
+			"Greek geo- + therme"
+		],
+		"concept": "Heat from the Earth",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "灼熱の深淵を、地質の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"火山学と火成岩岩石学の極致へ。"
+			]
+		},
+		"example": "Volcanology is the study of volcanoes, lava, and magma."
+	},
+	{
+		"id": "batholith_a",
+		"word": "Batholith",
+		"meaning": "底盤（ていばん）、バソリス",
+		"etymology": [
+			"Greek bathos (deep) + lithos"
+		],
+		"concept": "Deep mass of igneous rock",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "灼熱の深淵を、地質の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"火山学と火成岩岩石学の極致へ。"
+			]
+		},
+		"example": "Volcanology is the study of volcanoes, lava, and magma."
 	}
 ];
