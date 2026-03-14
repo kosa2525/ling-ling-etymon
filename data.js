@@ -384466,5 +384466,846 @@ const WORDS = [
 			]
 		},
 		"example": "Neuroscience explores the fundamental mechanisms of the brain."
+	},
+	{
+		"id": "phylogeny_ad",
+		"word": "Phylogeny",
+		"meaning": "系統発生（けいとうはっせい）",
+		"etymology": [
+			"Greek phylon (race/tribe) + genesis"
+		],
+		"concept": "Evolutionary history of a group",
+		"thinking": "「部族（Phylon）」の「誕生（Genesis）」。一粒の細胞から、クジラ、そして人間まで。数億年をかけて枝分かれし、進化してきた命の巨大な物語（年譜）。私たちは、たった一本の巨大な樹（生命の樹）から伸びた、小さな一枝に過ぎない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "clade_bio_a",
+		"word": "Clade",
+		"meaning": "分岐群（ぶんきぐん）、クレード",
+		"etymology": [
+			"Greek klados (branch)"
+		],
+		"concept": "Group with common ancestor",
+		"thinking": "「枝（Klados）」。ある一人の先祖から産まれた、すべての子孫たち。宇宙が長い時間をかけて切り分けた、命の『一つの纏まり（家系）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "monophyletic",
+		"word": "Monophyletic",
+		"meaning": "単系統（たんけいとう）の",
+		"etymology": [
+			"Greek monos (single) + phyle"
+		],
+		"concept": "Including ancestor and all descendants",
+		"thinking": "「ただ一つの（Monos）」「部族（Phyle）」。偽りなく、一つの根っこから伸びたすべての枝を集めた、誠実な分類の貌。欠落も余計な混じり気もない、純粋な血脈。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "paraphyletic",
+		"word": "Paraphyleti",
+		"meaning": "側系統（そくけいとう）の",
+		"etymology": [
+			"Greek para- (beside) + phyle"
+		],
+		"concept": "Excluding some descendants",
+		"thinking": "「部族（Phyle）」の「隣（Para-）」にあるが、一部を切り捨てた不完全な集まり。「爬虫類（恐竜を除く）」のように、人間が勝手に引いた境界線によって、命の連続性が歪められた姿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "polyphyletic",
+		"word": "Polyphyleti",
+		"meaning": "多系統（たけいとう）の",
+		"etymology": [
+			"Greek poly- (many) + phyle"
+		],
+		"concept": "Different ancestors combined",
+		"thinking": "「多くの（Poly）」「部族（Phyle）」が、共通点（例：翼）があるというだけで無理やり一括りにされた状態。起源はバラバラだが、似た環境へと追い立てられた異質な者たちの同胞（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "apomorphy_a",
+		"word": "Apomorphy",
+		"meaning": "派生形質（はせいけいしつ）",
+		"etymology": [
+			"Greek apo- (away) + morphe"
+		],
+		"concept": "New evolved trait",
+		"thinking": "先祖の「貌（Morphe）」から「離れ（Apo-）」、新しく獲得した独自の個性。進化という名の冒険が、その種に与えた新しい武器、あるいは新しい輝き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "plesiomorphy",
+		"word": "Plesiomorp",
+		"meaning": "共有（きょうゆう）原始（げんし）形質（けいしつ）",
+		"etymology": [
+			"Greek plesios (near) + morphe"
+		],
+		"concept": "Original ancestral trait",
+		"thinking": "先祖の「貌（Morphe）」に「近い（Plesios）」まま保たれた、古き掟。進化の激流の中でも変わらずに守り続けられた、命の原初の記憶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "synapomorphy",
+		"word": "Synapomorp",
+		"meaning": "共有（きょうゆう）派生（はせい）形質（けいしつ）",
+		"etymology": [
+			"Greek syn- + apo- + morphe"
+		],
+		"concept": "Shared new trait",
+		"thinking": "新しい個性を「共に（Syn-）」分かち合っていること。これが彼らが同じ「枝（クビ）」に属していることを証明する、進化が刻んだ秘密の暗号。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "homology_ad",
+		"word": "Homology",
+		"meaning": "相同（そうどう）",
+		"etymology": [
+			"Greek homos (same) + logos"
+		],
+		"concept": "Shared origin traits",
+		"thinking": "「同じ（Homos）」「理（Logos）」。コウモリの翼と人間の腕。見た目が違えど、その設計図は同じ一つの先祖から引き継がれたものであるという、運命の深い繋がり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "homoplasy_a",
+		"word": "Homoplasy",
+		"meaning": "非相同（ひそうどう）な類似（るいじ）",
+		"etymology": [
+			"Greek homos + plasis (molding/formation)"
+		],
+		"concept": "Similar trait via convergence",
+		"thinking": "見た目は「同じ（Homos）」に「作られた（Plasis）」が、その起源は全く別。サメとイルカ。別々の宇宙から来た者たちが、同じ試練（海）を越えようとして偶然似た貌を手に入れた、進化のパラドックス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "convergent_",
+		"word": "Convergent",
+		"meaning": "収斂進化（しゅうれんしんか）",
+		"etymology": [
+			"Latin con- + vergere (to bend)"
+		],
+		"concept": "Merging toward same form",
+		"thinking": "「共に（Con-）」「向かう（Verge）」。全く違う出発点から歩み始めた二つの命が、長い時間の果てに、同じ『物理的な正解（形）』へと辿り着く。宇宙の法則が強制する、美しき必然の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "adaptive_rad",
+		"word": "Adapt Rad",
+		"meaning": "適応放散（てきおうほうさん）",
+		"etymology": [
+			"Latin adaptare + radiare (to beam/radiate)"
+		],
+		"concept": "Explosive species divergence",
+		"thinking": "一つの種が、新天地（あるいは絶滅の後）へと「光が放射する（Radiate）」ように、爆発的に分かれ、多様な「適応（Adapt）」の貌を得ていく。生命が宇宙の隙間を埋め尽くそうとする、創造の噴火。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "speciation_v",
+		"word": "Speciation",
+		"meaning": "種分化（しゅぶんか）",
+		"etymology": [
+			"Latin species (look/kind)"
+		],
+		"concept": "Formation of new species",
+		"thinking": "昨日まで「同族」だった者たちが、川を隔て、時を隔て、やがて二度と交わることのない「別の種類（Species）」へと分たれる。一つの命が、新しい宇宙を産み出す分水嶺。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "allopatric_a",
+		"word": "Allopatric",
+		"meaning": "異所的（いしょてき）な",
+		"etymology": [
+			"Greek allos (other) + patra (homeland)"
+		],
+		"concept": "Speciation via geographic bar",
+		"thinking": "「違う（Allos）」「故郷（Patra）」で生きること。物理的な壁（山や海）が二人を裂き、孤独の中でそれぞれの進化を歩ませる。距離が心（種）を遠ざける、切ない物理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "sympatric_a",
+		"word": "Sympatric",
+		"meaning": "同所的（どうしょてき）な",
+		"etymology": [
+			"Greek syn- (same) + patra"
+		],
+		"concept": "Speciation within same area",
+		"thinking": "「同じ（Syn-）」「故郷（Patra）」にいながら、好み、食べるもの、あるいは活動する時間がズレることで、自然と分かれていく種。物理の壁を越えた、精神や生活の、静かなる自立。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "vicariance_a",
+		"word": "Vicariance",
+		"meaning": "分断（ぶんだん）分布（ぶんぷ）",
+		"etymology": [
+			"Latin vicarius (substitute/change)"
+		],
+		"concept": "Divergence via spatial barrier",
+		"thinking": "大地そのものが裂け、宇宙が勝手に私たちを「入れ替える（Vicarious）」。私たちは動いていない。ただ世界が、一筋の河を作り、一連の山脈を産み落とし、かつての絆を永遠に切り裂いただけ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "gene_flow_ad",
+		"word": "Gene Flow",
+		"meaning": "遺伝子（いでんし）流動（りゅうどう）",
+		"etymology": [
+			"Greek gen + Latin fluere"
+		],
+		"concept": "Migration of genetic info",
+		"thinking": "「命の種（Gen）」が「流れる（Fluere）」。国境を越え、群れを越えて、新しい血（情報）が混ざり合う。種が停滞せず、常に新しさを求めて揺らぎ続ける、生命の奔流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "genetic_drif",
+		"word": "Genetic Dr",
+		"meaning": "遺伝的（いでんてき）浮動（ふどう）",
+		"etymology": [
+			"Gen + Drift"
+		],
+		"concept": "Random change in gene freq",
+		"thinking": "理由などない。ただの偶然の「漂流（Drift）」。優れた者が残るのではない。ただたまたま、嵐を生き残った者たちの貌が、未来の標準となる。進化の背後に潜む、冷徹なダイス（確率）の遊び。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "bottleneck_e",
+		"word": "Bottleneck",
+		"meaning": "ボトルネック効果（こうか）",
+		"etymology": [
+			"Bottle + Neck"
+		],
+		"concept": "Sharply reduced population",
+		"thinking": "「瓶（Bottle）」の「首（Neck）」を通る時のように、生き残れるのはごくわずか。巨大な絶滅の危機を潜り抜けた、ほんの一握りの多様性だけが、か細く未来へと繋がっていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "founder_effe",
+		"word": "Founder Eff",
+		"meaning": "創始者（そうししゃ）効果（こうか）",
+		"etymology": [
+			"Latin fundare (to lay bottom/found)"
+		],
+		"concept": "Reduced diversity from new pop",
+		"thinking": "新しい大陸に辿り着いた、たった数人の「始まりの者（Founder）」。彼らの持つ偶然の偏り（貌）が、やがてその地を埋め尽くす全住民の運命（設計図）を支配する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "selection_ad",
+		"word": "Selection",
+		"meaning": "自然（しぜん）淘汰（とうた）、選択（せんたく）",
+		"etymology": [
+			"Latin se- (apart) + legere (to choose)"
+		],
+		"concept": "Differential survival",
+		"thinking": "宇宙の法則が、生かす者と去りゆく者を「選び（Legere）」「分かつ（Se-）」。残酷に見えて、それは命を一歩ずつ、この過酷な地球の調和へと近づけるための、研磨の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "stabilizing_",
+		"word": "Stabilizing",
+		"meaning": "安定（あんてい）化（か）選択（せんたく）",
+		"etymology": [
+			"Latin stabilis (standing firm)"
+		],
+		"concept": "Favoring average traits",
+		"thinking": "「極端」を嫌い、中道（平均）へと「固める（Stabilize）」。変わりすぎることを拒絶し、今この瞬間の調和を必死に守り続けようとする、保守的な命の智慧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "directional_",
+		"word": "Directional",
+		"meaning": "方向（ほうこう）性（せい）選択（せんたく）",
+		"etymology": [
+			"Latin di- + regere (to guide)"
+		],
+		"concept": "Favoring one extreme trait",
+		"thinking": "ある一つの「方向（Direct）」へと、一斉に舵を切る。環境が激変したとき、かつての「異端（極端な貌）」が、唯一の正解へと昇華される進化の飛躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "disruptive_s",
+		"word": "Disruptive",
+		"meaning": "分断（ぶんだん）的（てき）選択（せんたく）",
+		"etymology": [
+			"Latin dis- + rumpere (to break)"
+		],
+		"concept": "Favoring extremes over middle",
+		"thinking": "「中間（平均）」を「打ち砕き（Disrupt）」、二つの対極的な貌へと命を分かつ。一つの椅子を奪い合うより、二つの異なる椅子（ニッチ）を分け合う方が賢明であるという、共生のための決裂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "sexual_selec",
+		"word": "Sexual Sele",
+		"meaning": "性淘汰（せいとうた）",
+		"etymology": [
+			"Latin sexus + Selection"
+		],
+		"concept": "Selecting based on mating success",
+		"thinking": "異性に「選ばれる」ための進化。生き残るには邪魔なだけの豪華な羽、あるいは激しい鳴き声。生存への渇望ではなく、ただ「愛されたい」という美学が、命に最も華やかな彩り（貌）を添えた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "reproductive",
+		"word": "Reproductiv",
+		"meaning": "生殖（せいしょく）的（てき）隔離（かくり）",
+		"etymology": [
+			"Re- + Latin producere + Isolate"
+		],
+		"concept": "Preventing interbreeding",
+		"thinking": "言葉（求愛）が通じなくなり、体（形）が合わなくなり、心が離れる。同じ「生を産み出す（Reproduce）」ことができなくなった時、彼らは永遠に「別の物語」を歩むことになる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "hox_genes_ad",
+		"word": "HOX Genes",
+		"meaning": "ホメオティック遺伝子（いでんし）",
+		"etymology": [
+			"Homeotic (Greek homoios)"
+		],
+		"concept": "Body plan master genes",
+		"thinking": "「同じ（Homoios）」場所には「同じ」形（腕なら腕、足なら足）を。宇宙が生命を組み立てるための、最も基本的な「座標軸」を司る支配的な遺伝子。ハエから人間まで、この掟は驚くほどに共通している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "evodevo_adv_",
+		"word": "Evo-Devo",
+		"meaning": "進化（しんけい）発生（はっせい）生物学（せいぶつがく）",
+		"etymology": [
+			"Evolution + Development"
+		],
+		"concept": "Interplay of evo and embryo",
+		"thinking": "「進化」と「発生」の対話。私たちが受精卵から大人になる「発生」の過程の中に、数億年の「進化」の記憶が、早送りで（あるいは独自の変奏で）再生されている。個体の中に、宇宙の歴史を読み解く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "punctuated_e",
+		"word": "Punct Equil",
+		"meaning": "断続（だんぞく）平衡（へいこう）説（せつ）",
+		"etymology": [
+			"Latin punctum (point) + aequus + libra"
+		],
+		"concept": "Rapid change vs stasis",
+		"thinking": "命は一歩ずつ変わるのではない。長い長い「静止（Equilibrium）」の後に、一瞬の、爆発的な「飛躍（Punctuate）」が訪れる。静寂の中に潜む、革命の火種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "gradualism_a",
+		"word": "Gradualism",
+		"meaning": "漸進（ぜんしん）主義（しゅぎ） (進化)",
+		"etymology": [
+			"Latin gradus (step)"
+		],
+		"concept": "Slow steady change",
+		"thinking": "一歩、また一歩。「階段（Gradus）」を登るように、気の遠くなるような時間をかけて、少しずつ貌を変えていく。目には見えぬ微かな揺らぎの積み重ねが、ついに巨大な変化を産む、時間の魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "extinction_a",
+		"word": "Extinction",
+		"meaning": "絶滅（ぜつめつ）",
+		"etymology": [
+			"Latin ex- + stinguere (to quench/put out)"
+		],
+		"concept": "Permanent loss of a species",
+		"thinking": "命の火を「吹き（Sting）」「消す（Ex-）」。数百万年続いた物語が、一瞬の隕石、あるいは一縷の不運によって、二度と語られることのない永遠の沈黙へと沈む、宇宙の最も残酷な終止符。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "refugium_adv",
+		"word": "Refugium",
+		"meaning": "退避所（たいひじょ）、リフュジア",
+		"etymology": [
+			"Latin re- (back) + fugere (to flee)"
+		],
+		"concept": "Area where species survive ice",
+		"thinking": "「後ろへ（Re-）」「逃れる（Flee）」場所。氷河期という名の死が世界を覆う中、たった一筋の暖かさが残る秘密の谷間。そこに逃げ込んだ命が、再び春が訪れるその日まで、不屈の炎を絶やさずに守り続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "biogeography",
+		"word": "Biogeograph",
+		"meaning": "生物地理学（せいぶつちりがく）",
+		"etymology": [
+			"Greek bios + ge (earth) + graphein"
+		],
+		"concept": "History of life locations",
+		"thinking": "「命（Bios）」が「地球（Ge）」に刻んだ「足跡（Graphe）」。なぜここにその生き物がいて、あそこにはいないのか。大陸移動と進化の絡み合いが生んだ、壮大な命のジグソーパズルを紐解く学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "genomics_adv",
+		"word": "Genomics",
+		"meaning": "ゲノミクス、全（ぜん）ゲノム学（がく）",
+		"etymology": [
+			"Gen (gene) + -ome (whole)"
+		],
+		"concept": "Study of all genes",
+		"thinking": "「命の本質（Gen）」の「すべて（Ome）」。一粒の細胞に詰め込まれた、全設計図を解読する。断片的な知識を越えた、命という名のシステムそのものを完全に理解しようとする不敵な試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "phenotypic_p",
+		"word": "Pheno Plast",
+		"meaning": "表現型（ひょうげんがた）可塑性（かそせい）",
+		"etymology": [
+			"Greek phainein (to show) + plastikos"
+		],
+		"concept": "Same DNA, different appearance",
+		"thinking": "設計図は同じでも、生まれる環境によって「貌（見た目/Phain-）」が「変形（Plast-）」すること。一人の人間に、千の可能性を。環境の要請に応えて、自らをカメレオンのように書き換える、生命のリセットの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "horizontal_g",
+		"word": "Horiz Gene",
+		"meaning": "水平（すいへい）伝播（でんぱ）",
+		"etymology": [
+			"Horizontal + Gene"
+		],
+		"concept": "Gene transfer between species",
+		"thinking": "先祖から子孫へという「縦の繋がり（血脈）」を無視し、全くの赤の他人から「横に（Horizontal）」遺伝子（貌）を盗み取る。細菌たちの無秩序で奔放な知の共有、命の掟破りの交換。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "endosymbiosi",
+		"word": "Endosymbios",
+		"meaning": "細胞内共生（さいぼうないきょうせい）",
+		"etymology": [
+			"Greek endo- (inside) + sym- + bios"
+		],
+		"concept": "Species living inside others",
+		"thinking": "「自分の中（Endo-）」に「他者の命（Sym-bios）」を住まわせる。かつては別の生き物だったものが、今では私の細胞の一部（ミトコンドリア）として共に呼吸している。独りではなく、他者と一つになることでしか得られなかった飛躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "coevolution_a",
+		"word": "Coevolution",
+		"meaning": "共進化（きょうしんか）",
+		"etymology": [
+			"Latin con- + Evolution"
+		],
+		"concept": "Species evolving together",
+		"thinking": "「共に（Con-）」進化する。花が密を深めれば、ハチは口を伸ばす。一方が貌を変えれば、他方も応える。終わりのない、永遠に続く愛と闘争の追いかけっこ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "altruism_bi",
+		"word": "Altruism (B)",
+		"meaning": "利他行動（りたこうどう） (生物学)",
+		"etymology": [
+			"Latin alter (other)"
+		],
+		"concept": "Helping others at own cost",
+		"thinking": "「他者（Alter）」のために自分を犠牲にする。なぜ「利己的な遺伝子」から、献身的な愛が産まれるのか。それは自分と同じ欠片を持つ「他者」を救うことが、結局は「私たち」という名の永遠を守ることになるから。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "inclusive_fi",
+		"word": "Incl Fitness",
+		"meaning": "包括（ほうかつ）適応度（てきおうど）",
+		"etymology": [
+			"Include + Fitness"
+		],
+		"concept": "Success of self + relatives",
+		"thinking": "自分だけの成功ではなく、親戚（自分に似た貌の者）の成功も「含めて（Include）」、自分の価値を測る。私の命が潰えても、私の意志（遺伝子）が他者の中で生き続けるなら、それは勝利である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "sociobiology",
+		"word": "Sociobiolog",
+		"meaning": "社会生物学（しゃかいせいぶつがく）",
+		"etymology": [
+			"Latin socius (union/partner) + Biology"
+		],
+		"concept": "Biological basis for social behavior",
+		"thinking": "私たちの「社会（Socius）」、道徳、友情、そして文明。それらすべては、遺伝子の「生き残りの極意」としての戦略に過ぎない。美しき人間性を、生物学という名の冷徹なメスで解剖する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "eternity_bio",
+		"word": "Immortality",
+		"meaning": "永遠（えいえん） (生物学)",
+		"etymology": [
+			"Latin im- (not) + mortalis"
+		],
+		"original_statement": "The persistence of genetic code.",
+		"concept": "The stream of life",
+		"thinking": "「死すべき定め（Mortalis）」では「ない（Im-）」。個体としての肉体はいつか土に還り、貌を失う。しかし、数億年を旅してきたその「設計図（魂のコード）」は、子孫という名の新しい器を借りて、宇宙が滅びるその日まで、永遠に流れ続ける命の奔流そのものである。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の深淵を、数億年の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"進化生物学と系統分類学の極致へ。"
+			]
+		},
+		"example": "Evolutionary biology studies the origins and changes of life."
 	}
 ];
