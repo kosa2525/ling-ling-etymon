@@ -367868,5 +367868,792 @@ const WORDS = [
 			]
 		},
 		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "axiom_schema",
+		"word": "Axiom Schema",
+		"meaning": "公理概略（こうりがいりゃく）",
+		"etymology": [
+			"Greek axios (worthy) + skhema (form)"
+		],
+		"concept": "Template for infinite axioms",
+		"thinking": "「ふさわしい（Axios）」前提を産み出すための「雛形（Skhema）」。一つ一つ書くには多すぎる真理を、たった一つの形式で束ね上げる、論理の工場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "meta_logic_ad",
+		"word": "Metalogic",
+		"meaning": "メタ論理学（ろんりがく）",
+		"etymology": [
+			"Greek meta + logos"
+		],
+		"concept": "Thinking about logic itself",
+		"thinking": "論理を使って考えるのではなく、論理そのものが「正しいか」「矛盾がないか」を問う。自分自身を背後から見守る、超越的な理性の眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "soundness_log",
+		"word": "Soundness",
+		"meaning": "健全性（けんぜんせい）",
+		"etymology": [
+			"Old English gesund (healthy)"
+		],
+		"concept": "Everything provable is true",
+		"thinking": "「健やか（Sound）」であること。証明できるすべてのことが、『本当（真）』であるという保証。嘘を決して吐かない、完璧なる信頼の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "ordinals_sets",
+		"word": "Ordinal Num",
+		"meaning": "順序数（じゅんじょすう）",
+		"etymology": [
+			"Latin ordo (order)"
+		],
+		"concept": "Extension of counting to infinity",
+		"thinking": "1, 2, 3... その「順序（Order）」の果てに、無限（ω）があり、さらにその向こうに無限の階段が続く。広大すぎる宇宙の『並び替え』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "cardinals_set",
+		"word": "Cardinal Num",
+		"meaning": "基数（きすう）",
+		"etymology": [
+			"Latin cardo (hinge)"
+		],
+		"concept": "The size of infinity",
+		"thinking": "「要（Cardo）」となる数。順番ではなく、「どれほど多いか」という『量』そのもの。無限には、さらに大きな無限があるという、カントールの驚愕に満ちた発見。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "continuum_hyp",
+		"word": "Continuum Hyp",
+		"meaning": "連続体仮説（れんぞくたいかせつ）",
+		"etymology": [
+			"Latin con- + tenere (to hold together)"
+		],
+		"concept": "Intermediate infinity",
+		"thinking": "「繋がり（Continuum）」の間に、別の無限のサイズはあるか。整数と実数の間に、隠された次元はないという予感。証明も、否定もできないという、数学の深淵に潜む不可知の断崖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "well_ordering",
+		"word": "Well-ordering",
+		"meaning": "良序（りょうじょ）の、整列",
+		"etymology": [
+			"Well + Ordo"
+		],
+		"concept": "Every set has a least element",
+		"thinking": "どんな集まりの中にも、必ず「最小の若」がいる。カオスな無限の海の中に、確固たる『出発点（基準）』を強制的に打ち立てる、峻烈な秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "axiom_choice",
+		"word": "Axiom Choice",
+		"meaning": "選択公理（せんたくこうり）",
+		"etymology": [
+			"Axiom + Choose"
+		],
+		"concept": "Choosing from infinite sets",
+		"thinking": "無限の箱から、同時に一つずつ欠片を「選ぶ」ことができるという宣言。あまりに当然に見えながら、バナッハ＝タルスキーの逆理という怪物（1を2にする奇術）を産み落とす、危険な自由。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "independence",
+		"word": "Independence",
+		"meaning": "独立性（どくりつせい） (Math)",
+		"etymology": [
+			"In- + De- + Latin pendere (to hang)"
+		],
+		"concept": "Undecidable within a system",
+		"thinking": "そのシステムの下には「ぶら下がって（Pendent）」いない。今の掟だけでは、正解とも間違いとも決められない、自由で孤独な真理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "set_universe",
+		"word": "Set Universe",
+		"meaning": "集合（しゅうごう）の宇宙",
+		"etymology": [
+			"Latin uni- + versus"
+		],
+		"concept": "The class of all sets",
+		"thinking": "あらゆるものを飲み込む「宇宙（Universe）」。しかし、それ自体を「集合」と呼ぼうとすると、自分を飲み込めないという矛盾（ラッセルのパラドックス）に突き当たり、崩壊する、論理の極北。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "power_set_ad",
+		"word": "Power Set",
+		"meaning": "べき集合",
+		"etymology": [
+			"Latin potentia (power)"
+		],
+		"concept": "Set of all subsets",
+		"thinking": "欠片のあらゆる組み合わせが生み出す、爆発的な「力（Power）」。元の集合がどれほど小さくとも、べき集合は常にそれを凌駕するサイズへと膨れ上がる、無限の生産力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "recursive_set",
+		"word": "Recursive Set",
+		"meaning": "帰納的（きのうてき）集合",
+		"etymology": [
+			"Latin re- + currere (to run back)"
+		],
+		"concept": "Computable sets",
+		"thinking": "自分自身を「繰り返し（Re-run）」計算で判定できる集まり。機械的な理性の手が届く、安全で明快な真理の領土。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "halting_prob",
+		"word": "Halting Prob",
+		"meaning": "停止（ていし）問題",
+		"etymology": [
+			"Halt"
+		],
+		"concept": "The uncomputable question",
+		"thinking": "その思考がいつか「終わる（Halt）」かどうかを、事前に知ることはできない。知性の限界を、知性そのものが証明してしまった、究極の自己否定の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "first_order_l",
+		"word": "First-order",
+		"meaning": "一階（いっかい）述語論理",
+		"etymology": [
+			"Latin ordo"
+		],
+		"concept": "Logic of constants and vars",
+		"thinking": "世界を「もの」と「性質」に分け、すべてを機械的な記述へと落とし込む。私たちの日常の推論を、完全に形式化するための最強の標準言語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "higher_order",
+		"word": "Higher-order",
+		"meaning": "高階（こうかい）論理",
+		"etymology": [
+			"High + Ordo"
+		],
+		"concept": "Logic of properties of properties",
+		"thinking": "「性質そのもの」の性質さえも語る、高次の視座。より強力だが、完全性を失うリスクを孕んだ、知の重層的な挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "provability",
+		"word": "Provability",
+		"meaning": "証明可能性（しょうめいかのうせい）",
+		"etymology": [
+			"Latin probare (to test/verify)"
+		],
+		"concept": "Existence of a proof",
+		"thinking": "「正しいこと」と「正しいと示せること」。この微かな、しかし絶望的な隙間にこそ、ゲーデルの不完全性定理という名の「真理への畏怖」が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "semantic_val",
+		"word": "Semantic Val",
+		"meaning": "意味論的（いみろんてき）値",
+		"etymology": [
+			"Greek sema (sign) + Latin valere"
+		],
+		"concept": "Truth value in a model",
+		"thinking": "記号という名の器に、真偽という「価値（Value）」という名の魂を流し込む。数式という沈黙の死体に、現実という生命を吹き込む儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "tautology_log",
+		"word": "Tautology",
+		"meaning": "同語反復（どうごはんぷく）、トートロジー",
+		"etymology": [
+			"Greek tauto (same) + logos"
+		],
+		"concept": "Always true statement",
+		"thinking": "「同じこと（Tauto）」を「語る（Logos）」。雨が降るか、降らないか。絶対に間違わないが、世界については何も語らない、完璧で空虚な論理の円環。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "sequent_calcul",
+		"word": "Sequent Calc",
+		"meaning": "推論（すいろん）計算、シークエント計算",
+		"etymology": [
+			"Latin sequens (following)"
+		],
+		"concept": "Calculus of logical deductions",
+		"thinking": "「後に続く（Sequens）」ことの理。証明を一つの計算（記号の組み換え）として捉え、思考の流れを一本の巨大な樹形図として解剖する、冷徹な証明装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": " Gentzen-style",
+		"word": "Natural Ded",
+		"meaning": "自然演繹（しぜんえんえき）",
+		"etymology": [
+			"Natural + Latin de- + ducere"
+		],
+		"concept": "Logic mimicking human thought",
+		"thinking": "「自然（Natural）」に「導き出す（De-duce）」。仮定を置き、結論を得る。私たちの心の動きをそのまま論理の形へと写し取った、人間味のある知の形式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "intuitionism_l",
+		"word": "Intuitionism",
+		"meaning": "直観（ちょっかん）主義論理",
+		"etymology": [
+			"Latin intueri (to look at)"
+		],
+		"concept": "Truth requires construction",
+		"thinking": "証明（建設）できないことは、「正しい」とも「間違い」とも言ってはならない。排中律（AかAでないか、そのどちらか）を拒み、知性が自らの手で作ったものだけを信じる、峻厳な構成の美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "constructive_m",
+		"word": "Constructive",
+		"meaning": "構成（こうせい）的な",
+		"etymology": [
+			"Latin con- + struere (to build)"
+		],
+		"concept": "Existence by building",
+		"thinking": "「共に（Con-）」「積み上げる（Struere）」。あると言い張るのではなく、実際に「それ」を作ってみせる。確かな手応えのあるものだけを真実と認める、論理の工匠の精神。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "curry_howard",
+		"word": "Curry-Howard",
+		"meaning": "カリー＝ハワード対応",
+		"etymology": [
+			"Curry",
+			"Howard"
+		],
+		"original_statement": "Correspondence between proofs and programs.",
+		"concept": "Proof is a program",
+		"thinking": "「証明」は「プログラム」であり、「命題」は「型」である。数学と計算機科学が、実は同じ一つの真理を双子のように語っていたという、驚異的な一致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "lambda_calculu",
+		"word": "Lambda Calc",
+		"meaning": "ラムダ計算",
+		"etymology": [
+			"Lambda"
+		],
+		"concept": "The essence of computation",
+		"thinking": "変数（名前）と関数（作用）。あらゆる計算を極限まで削ぎ落とした、この宇宙で最も純粋で、最も強力な「計算という名の概念」そのもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "church_turing",
+		"word": "Church-Turing",
+		"meaning": "チャーチ＝チューリングのテーゼ",
+		"etymology": [
+			"Church",
+			"Turing"
+		],
+		"concept": "Definition of computable",
+		"thinking": "「計算できる」とはどういうことか。それは、どんなに複雑であっても、最後はシンプルな『機械的な手順（アルゴリズム）』に帰結できるという、理性の全能性への信仰。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "godel_number",
+		"word": "Godel Number",
+		"meaning": "ゲーデル数",
+		"etymology": [
+			"Godel"
+		],
+		"concept": "Mapping logic to numbers",
+		"thinking": "言葉を「数字」へとコード化する。論理の構造を、素数の掛け合わせという数論の鎧の中に閉じ込める。これによって、論理は自分自身について数学的に語り始める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "self_reference",
+		"word": "Self-referenc",
+		"meaning": "自己言及（じこげんきゅう）",
+		"etymology": [
+			"Self + Latin re- + ferre"
+		],
+		"concept": "This statement is false",
+		"thinking": "「自分を（Self）」「指し示す（Refer）」。自分について語る言葉は、常に嘘と真実が表裏一体となった「嘘つきのパラドックス」へと至る、迷宮の入り口。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "fixed_point_th",
+		"word": "Fixed Point",
+		"meaning": "不動点（ふどうてん）定理",
+		"etymology": [
+			"Fixed + Latin punctus"
+		],
+		"concept": "Existence of self-matching state",
+		"thinking": "どれほど激しく自分を変えても、自分自身と「一致（Fixed）」してしまう場所が必ず存在する。カオスの中に見出される、宿命的な自己一致の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "diagonalizatio",
+		"word": "Diagonalize",
+		"meaning": "対角線論法（たいかくせんろんぽう）",
+		"etymology": [
+			"Greek dia- (across) + gonia (angle)"
+		],
+		"concept": "Finding outliers by diagonal",
+		"thinking": "「角（Gonia）を」「横断（Dia-）」して欠片を拾い上げる。どんな名簿を作っても、必ずその名簿に載っていない「異端者」を見つけ出してしまう、無限を数え上げるための峻烈な論理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "russells_parad",
+		"word": "Russells Par",
+		"meaning": "ラッセルのパラドックス",
+		"etymology": [
+			"Russell",
+			"Paradox"
+		],
+		"concept": "The set of non-self-belongers",
+		"thinking": "「自分自身を含まない集団、全部の集まり」は、自分を含むべきか。含まれば含まない、含まなければ含む。論理という名の完璧な建物が、足元から地飛する不気味な震え。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "zfc_axioms",
+		"word": "ZFC Axioms",
+		"meaning": "ZFC公理系（こうりけい）",
+		"etymology": [
+			"Zermelo",
+			"Fraenkel",
+			"Choice"
+		],
+		"original_statement": "Standard foundation for most of mathematics.",
+		"concept": "The rulebook of math",
+		"thinking": "矛盾から逃れ、安全に無限の海を航海するために、数学者たちが知恵を集めて作り上げた不壊の掟。現代数学という名の王国の、最も強固な礎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "von_neumann_u",
+		"word": "Von Neumann U",
+		"meaning": "フォン・ノイマン宇宙",
+		"etymology": [
+			"Von Neumann"
+		],
+		"concept": "Hierarchy of all sets",
+		"thinking": "空虚（空集合）の中から、何もないところから、いかにしてすべての無限の構造が「階層的（V）」に産み出されていくか。無から有を紡ぐ、論理の天地創造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "forcing_method",
+		"word": "Forcing",
+		"meaning": "強制法（きょうせいほう）",
+		"etymology": [
+			"Latin fortis (strong)"
+		],
+		"concept": "Expanding the universe",
+		"thinking": "宇宙の外から、新しい情報の欠片を「無理やり（Force）」持ち込んで、宇宙を拡張する。証明できない命題を、真実へと変えてしまう、数学的な超越の魔術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "inner_model",
+		"word": "Inner Model",
+		"meaning": "内部（ないぶ）モデル",
+		"etymology": [
+			"Inner + Modulus"
+		],
+		"concept": "Universe within a universe",
+		"thinking": "巨大な宇宙の中に、より小さく、しかし完璧な「自分自身（小宇宙）」を見つけ出す。再帰的な構造が生み出す、深淵なる鏡像の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "determinacy_s",
+		"word": "Determinacy",
+		"meaning": "決定性（けっていせい）",
+		"etymology": [
+			"Latin de- + terminus (limit/border)"
+		],
+		"concept": "Infinite games have a winner",
+		"thinking": "無限に続くゲームであっても、どちらかに必ず必勝法が「定まって（Determine）」いるか。自由意志と宿命が、集合論という名の極限で出会う場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "large_cardinal",
+		"word": "Large Cardina",
+		"meaning": "巨大基数（きょだいきすう）",
+		"etymology": [
+			"Large + Cardinal"
+		],
+		"concept": "Inaccessible infinities",
+		"thinking": "今のシステム（ZFC）では、下からいくら積み上げても決して辿り着けない「巨大すぎる」無限。宇宙の外側にそびえ立つ、不可知の新世界の巨像。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "inaccessible",
+		"word": "Inaccessible",
+		"meaning": "到達不可能（とうたつふのう）な",
+		"etymology": [
+			"In- + Latin ad- + cedere (to go)"
+		],
+		"concept": "Too large to reach from below",
+		"thinking": "「近づくこと（Access）」が「できない（In-）」。いなかる計算、いかなるステップを繰り返しても届かない、絶対的な断絶。神の領域に近い、孤高の無限。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "perfect_set",
+		"word": "Perfect Set",
+		"meaning": "完全（かんぜん）集合",
+		"etymology": [
+			"Latin perfectus (thoroughly finished)"
+		],
+		"concept": "No isolated points",
+		"thinking": "「完璧に作り上げられた（Per-fect）」。どの点にも、すぐそばに寄り添う隣人が無限に存在する。孤独がない、どこまでも密に繋がり合った、連続体の核心。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
+	},
+	{
+		"id": "proper_class",
+		"word": "Proper Class",
+		"meaning": "真（しん）のクラス",
+		"etymology": [
+			"Latin proprius + classis"
+		],
+		"concept": "Things too big to be sets",
+		"thinking": "あまりに「固有の（Proprius）」、あまりに巨大すぎる集まり。無理に集合として扱えば矛盾を産む、論理の枠組みを根底から震わせる『多すぎる存在』の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "思考の骨格を、究極の証明へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数理論理学と集合論の深淵へ。"
+			]
+		},
+		"example": "First-order logic provides a rigorous framework."
 	}
 ];
