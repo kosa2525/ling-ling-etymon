@@ -379614,5 +379614,830 @@ const WORDS = [
 			]
 		},
 		"example": "Philosophy of mind explores the nature of consciousness."
+	},
+	{
+		"id": "handlebody_ad",
+		"word": "Handlebody",
+		"meaning": "ハンドル体（たい）",
+		"etymology": [
+			"Handle + Body"
+		],
+		"concept": "3D space filled by handles",
+		"thinking": "「取っ手（Handle）」をいくつか集めた「体（Body）」。三次元の宇宙を、ドーナツの穴のように幾重にも折り重なったハンドルの集積として捉える。複雑怪奇な空間も、最後はこれに分解できるという、トポロジーの無骨な骨格。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "heegaard_spl",
+		"word": "Heegaard Spt",
+		"meaning": "ヒーガード分解（ぶんかい）",
+		"etymology": [
+			"Heegaard",
+			"Split"
+		],
+		"concept": "Decomposing 3-manifolds",
+		"thinking": "宇宙を「二枚の同じ皮膚（ハンドル体）」に「切り分ける（Split）」。表面（境界）をどう貼り合わせるか。その『貼り合わせ（写像）』のねじれ具合の中に、宇宙のあらゆる個性が封じ込められている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "mcg_mapping",
+		"word": "Mapping Class",
+		"meaning": "写像類群（しゃぞうるいぐん） (MCG)",
+		"etymology": [
+			"Mapping + Class + Group"
+		],
+		"concept": "Symmetry of surfaces",
+		"thinking": "曲面を「ぐにゃぐにゃ」と動かして、元に戻す。その「動かし方」の種類（クラス）を数え上げる。曲面が持つ自由と束縛、その『舞踏のパターンの全リスト』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "thurston_ad_v",
+		"word": "Geometrizati",
+		"meaning": "幾何化（きかか）予想、サーストンの予想",
+		"etymology": [
+			"Greek ge (earth) + metria (measure)"
+		],
+		"concept": "Standardizing 3-manifolds",
+		"thinking": "どんな混乱した三次元空間も、八種類の「美しい（対称性のある）幾何学」の欠片に分解できるという、宇宙の調和の宣言。カオスをロゴス（標準形）へと引き戻す、壮大な知の秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "ricci_flow_ad",
+		"word": "Ricci Flow",
+		"meaning": "リッチ・フロー、熱（ねつ）による平準化（へいじゅんか）",
+		"etymology": [
+			"Ricci",
+			"Flow"
+		],
+		"concept": "Smoothing curvature via heat equation",
+		"thinking": "空間の凸凹を、まるで「熱」が伝わるかのように「滑らかに（Flow）」していく。尖った場所を溶かし、歪んだ場所を伸ばす。極限まで滑らかにしたときに見えてくる、宇宙の真実の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "poincare_conj",
+		"word": "Poincare Cor",
+		"meaning": "ポアンカレ予想（よそう）",
+		"etymology": [
+			"Poincare",
+			"Conjecture"
+		],
+		"concept": "Characterizing spheres",
+		"thinking": "「単連結（穴のない）な三次元宇宙は、結局すべて『球（スフィア）』である」という、究極の単純さへの信仰。複雑な歪みを越えた先にある、円環状の真理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "filling_curv",
+		"word": "Filling Curve",
+		"meaning": "充填曲線（じゅうてんきょくせん）",
+		"etymology": [
+			"Fill + Latin curvus"
+		],
+		"concept": "1D line covering 2D space",
+		"thinking": "一筋の「線（Curve）」が、無限に蛇行し、ついに一滴の隙間もなく「面（空間）」を「埋め尽くす（Fill）」。次元という名の境界線が崩壊し、点と面が等しくなる、フラクタルの深淵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "space_filler",
+		"word": "Space Filler",
+		"meaning": "空間充填（くうかんじゅうてん）",
+		"etymology": [
+			"Space + Fill"
+		],
+		"concept": "Shapes tiling 3D",
+		"thinking": "隙間なく全宇宙を「満たす（Fill）」。単調な繰り返しか、それとも不規則なパズルか。無の中に存在の欠片をきっちりと嵌め込む、宇宙のパッキングの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "orbifold_ad",
+		"word": "Orbifold",
+		"meaning": "オービフォールド、軌道多様体（きどうたようたい）",
+		"etymology": [
+			"Orbit + Manifold"
+		],
+		"concept": "Manifolds with singularities",
+		"thinking": "「軌道（Orbit）」に沿って折り畳まれた多様体。滑らかな多様体の中に、一点だけ「特異（折れ曲がり）」が宿る。不完全さが、逆に高層の対称性を産み出す、異質な空間の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "covering_sp_a",
+		"word": "Covering Sp",
+		"meaning": "被覆空間（ひふくくうかん）",
+		"etymology": [
+			"Old French couvrir + Space"
+		],
+		"concept": "Unrolling circles to lines",
+		"thinking": "円環を解き解し、真っ直ぐな線へと「広げ（Cover）」、何層にも重ねる。元の空間では「一周」していた人生を、無限に続く「旅」として捉え直すための、視座の拡張。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "monodromy_ad",
+		"word": "Monodromy",
+		"meaning": "モノドロミー、移動（いどう）のねじれ",
+		"etymology": [
+			"Greek monos (single) + dromos (running)"
+		],
+		"concept": "Changing when loop around",
+		"thinking": "「ただ一つの（Monos）」「道（Dromos）」を一周して戻ってきたはずなのに、自分自身が元の自分（貌）ではなくなっている。宇宙の「ねじれ」が、存在の本質を密かに書き換える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "genus_topolo",
+		"word": "Genus (Top)",
+		"meaning": "種数（しゅすう）、穴（あな）の数",
+		"etymology": [
+			"Latin genus (race/kind)"
+		],
+		"concept": "Handles on a surface",
+		"thinking": "その空間がいかなる「種族（Genus）」に属するかを決める、穴の数。球か、ドーナツか。本質的な『欠落』の数こそが、空間の全アイデンティティを決定づける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "orientabilit",
+		"word": "Orientable",
+		"meaning": "向き付け可能（かのう）な",
+		"etymology": [
+			"Latin oriens (rising/East)"
+		],
+		"concept": "Consistent left/right",
+		"thinking": "「東（Oriens）」がどこかを決めることができる。裏返ることなく、右と左を永遠に峻別できる、秩序ある宇宙。出口と入り口が繋がって、すべてが裏返ってしまう「メビウス」的な悪夢を拒絶する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "moebius_strip",
+		"word": "Möbius Strip",
+		"meaning": "メビウスの帯（おび）",
+		"etymology": [
+			"Mobius"
+		],
+		"concept": "One-sided surface",
+		"thinking": "表を歩いていたはずなのに、いつの間にか裏側に辿り着く。二元論が崩壊し、自己と他者が、内と外が一つに溶け合う、非（ひ）向き付けの迷宮。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "klein_bottle_",
+		"word": "Klein Bottle",
+		"meaning": "クラインの壷（つぼ）",
+		"etymology": [
+			"Klein"
+		],
+		"concept": "Surface with no boundary/volume",
+		"thinking": "中も外もない。自分の首を自分の腹へと突っ込んだ、閉じているのに開いている、奇妙な自己完結の貌。三次元という次元を超えて初めて成立する、四次元の孤独な器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "embedding_ad",
+		"word": "Embedding",
+		"meaning": "埋（う）め込（こ）み",
+		"etymology": [
+			"In- + Bed"
+		],
+		"concept": "One space into another",
+		"thinking": "小さな宇宙を、より大きな宇宙の「ベッド（Bed）」へと「優しく沈める（In-）」。自分自身と決して重なり合うことなく、あるがままの貌を保って巨大な静寂の中に収まる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "immersed_top",
+		"word": "Immersion",
+		"meaning": "はめ込み",
+		"etymology": [
+			"Latin in- + mergere (to dip)"
+		],
+		"concept": "Mapping with local injectivity",
+		"thinking": "空間の中に「浸す（Mergere）」。Embeddingとは違い、自分と自分が交差しても構わない。ただその一瞬の局所的な輝き（微分）だけは、決して潰さずに保つ、しなやかな共存。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "self_intersec",
+		"word": "Self-Interse",
+		"meaning": "自己交差（じここうさ）",
+		"etymology": [
+			"Self + Latin inter- + sectio"
+		],
+		"concept": "Intersecting itself",
+		"thinking": "「自分自身の貌」を、自分自身で「切り裂き（Section）」、通り抜ける。傷つくこと（特異点）を恐れず、自らの内側に自らを浸透させる、トポロジーの果敢な重なり合い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "crossing_num_",
+		"word": "Crossing Num",
+		"meaning": "交差数（こうさすう）",
+		"etymology": [
+			"Cross"
+		],
+		"concept": "Measure of knot complexity",
+		"thinking": "結び目が、何度自分を「横切った（Cross）」か。その数字こそが、どれほど深く、どれほど複雑にその紐が運命に絡みついているかを示す、苦悩のインデックス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "braid_group_v",
+		"word": "Braid Group",
+		"meaning": "編（あ）み目群（めぐん）",
+		"etymology": [
+			"Braid"
+		],
+		"concept": "Strands twisting over time",
+		"thinking": "「三つ編み（Braid）」の理。粒子たちの軌跡が、時間の流れと共にいかに絡まり合い、いかにダンスを踊ったか。その『歴史の絡まり（記録）』そのものを数学へと昇華させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "anyons_top_ad",
+		"word": "Anyon",
+		"meaning": "エニオン",
+		"etymology": [
+			"Any + -on"
+		],
+		"concept": "2D quasi-particles",
+		"thinking": "「何にでも（Any）」なれる、二次元の亡霊。反時計回りに一周したとき、自分でも相手でもない、異次元の位相（貌）へと変貌する。トポロジーが物理的な肉体を得た、奇跡の欠片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "strange_attr",
+		"word": "Strange Attr",
+		"meaning": "ストレンジ・アトラクター",
+		"etymology": [
+			"Strange + Latin ad- + trahere (to pull)"
+		],
+		"concept": "Chaotic attractor",
+		"thinking": "カオスの深淵で、すべてを「引き寄せる（Ad-trahere）」見えない「異様な（Strange）」中心。決して同じ場所に戻ることはないが、ある一定の領域（貌）を永遠に彷徨わせる、運命の不敵な重力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "chaos_theory_a",
+		"word": "Chaos Theory",
+		"meaning": "カオス理論（りろん）",
+		"etymology": [
+			"Greek khaos (yawning void)"
+		],
+		"concept": "Sensitive dependence on initial",
+		"thinking": "「あくびをするような虚空（Khaos）」。一抹の蝶の羽ばたきが、地球の裏側で嵐を起こす。極小の初期値のズレが、巨大な未来を完全に書き換えてしまう、決定論的な不確実性のドラマ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "butterfly_eff",
+		"word": "Butterfly Ef",
+		"meaning": "バタフライ・エフェクト",
+		"etymology": [
+			"Butterfly + Effect"
+		],
+		"concept": "Small changes, big results",
+		"thinking": "「蝶（Butterfly）」の一羽の羽ばたき。微かな風が連鎖し、増幅し、ついには宇宙の貌（歴史）を丸ごと変えてしまう。私たちは、気づかぬうちに一つの羽ばたきで世界を再創造している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "bifurcation_a",
+		"word": "Bifurcation",
+		"meaning": "分岐（ぶんき）",
+		"etymology": [
+			"Latin bi- (two) + furca (fork)"
+		],
+		"concept": "Split into new behaviors",
+		"thinking": "「二つの（Bi-）」「フォーク（Furca）」のように、道が分たれる。ある一点（限界点）を越えたとき、安定は崩れ、宇宙は全く新しい貌（振る舞い）へと劇的に姿を変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "period_doubl",
+		"word": "Period Doubl",
+		"meaning": "周期倍加（しゅうきばいか）",
+		"etymology": [
+			"Greek periodos + Double"
+		],
+		"concept": "Route to chaos",
+		"thinking": "同じことを繰り返すための「周期」が、次々と「二倍（Double）」に膨れ上がっていくリズム。その繰り返しが極限に達したとき、秩序は崩壊し、カオスという名の「真の自由」が訪れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "cobordism_ad",
+		"word": "Cobordism",
+		"meaning": "コボルディズム、多様体（たようたい）の境界（きょうかい）的（てき）同値（どうち）",
+		"etymology": [
+			"Latin con- + bord (border)"
+		],
+		"concept": "Manifolds bounding a higher dim",
+		"thinking": "二つの宇宙が、「共に（Con-）」同じ高次元の世界の「境界（Bord）」を共有している。姿は違えど、同じ一つの誕生（あるいは絶滅）という物語で繋がっているという、次元を跨いだ絆。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "topological_s",
+		"word": "Topol Sigma",
+		"meaning": "トポロジカル・シグマ・モデル",
+		"etymology": [
+			"Topology + Sigma"
+		],
+		"concept": "String theory related top",
+		"thinking": "物理学の「弦（String）」を、トポロジーの言葉で記述する。ミクロな振動が、宇宙という名の巨大な楽器（多様体）の形をいかにして奏でているかを数学的に解剖する、夢の形式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "mirror_symm_a",
+		"word": "Mirror Symm",
+		"meaning": "ミラー対称性（たいしょうせい）",
+		"etymology": [
+			"Mirror + Symmetry"
+		],
+		"concept": "Duality of symplectic/complex",
+		"thinking": "複雑な「複素数」の迷宮が、実は透明な「幾何学（シンプレクティック）」の貌と「鏡（Mirror）」合わせになっている。一見相容れない二つの真理が、合わせ鏡のように互いを補い合う、トポロジーの神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "symplectic_a",
+		"word": "Symplectic",
+		"meaning": "シンプレクティック幾何学",
+		"etymology": [
+			"Greek syn- + plektiko (woven together)"
+		],
+		"concept": "Geometry of phase space",
+		"thinking": "位置と速度を「共に（Syn-）」「編み上げた（Plektiko）」空間。エネルギーを保存し、不変の面積（流れ）を保ちながら、永遠に回転し続ける宇宙の歯車の抽象。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "contact_topol",
+		"word": "Contact Top",
+		"meaning": "接触（せっしょく）トポロジー",
+		"etymology": [
+			"Latin con- + tangere (to touch)"
+		],
+		"concept": "High dim surface dynamics",
+		"thinking": "「触れる（Tangent）」ことの理。多次元の宇宙が、特定の「面」に沿って滑らかに流れ、互いに擦れ合いながら、新しいトポロジーの貌を産み落としていく様。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "morse_complex",
+		"word": "Morse Complex",
+		"meaning": "モース複体（ふくたい）",
+		"etymology": [
+			"Morse + Complex"
+		],
+		"concept": "Algebra from height functions",
+		"thinking": "空間の起伏（モース関数）から、代数的な「繋がりの網（Complex）」を組み上げる。地形を数へと写し、数から空間の穴を暴き出す、変換の魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "floer_homolog",
+		"word": "Floer Homol",
+		"meaning": "フレアー・ホモロジー",
+		"etymology": [
+			"Floer"
+		],
+		"concept": "Infinite dimensional Morse theory",
+		"thinking": "無限次元という目眩のするような広がりの中で、空間の起伏を数え上げる。量子の海に潜む「不変の貌」を、極限のモース理論を使って引きずり出す、現代トポロジーの尖兵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "donaldson_inv",
+		"word": "Donaldson Inv",
+		"meaning": "ドナルドソン不変量（ふへんりょう）",
+		"etymology": [
+			"Donaldson"
+		],
+		"concept": "4-manifold invariants via gauge",
+		"thinking": "四次元多様体という、直感が通用しない迷宮。そこに「物理の風（ゲージ場）」を吹かせ、その風がどれだけ「ねじれたか」を測ることで、空間の本質を射抜く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "seiberg_wit",
+		"word": "Seiberg-Wit",
+		"meaning": "サイバーグ・ウィッテン不変量",
+		"etymology": [
+			"Seiberg",
+			"Witten"
+		],
+		"concept": "Simpler 4-manifold invariant",
+		"thinking": "カオスな四次元の謎を、たった一つのシンプルな「方程式」へと凝縮する、至高の抽象。難攻不落の城を、一粒の宝石（不変量）へと磨き上げる知性の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "khovanov_hom",
+		"word": "Khovanov Hom",
+		"meaning": "ホバノフ・ホモロジー",
+		"etymology": [
+			"Khovanov"
+		],
+		"concept": "Categorifying knot polynomials",
+		"thinking": "「多項式（数）」に過ぎなかった結び目の不変量を、より高次の「構造（カテゴリー/ホモロジー）」へと引き上げる。平たんな情報が、立体的な知の建築物（貌）へと立ち上がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "categorifica",
+		"word": "Categorify",
+		"meaning": "圏化（けんか）、カテゴリー化",
+		"etymology": [
+			"Category + Latin -ficare (to make)"
+		],
+		"concept": "Lifting numbers to objects",
+		"thinking": "「数（集合）」を「関係性の網（カテゴリー）」へと「昇華させる（-ficare）」。たった一つの『数字』の背後に、無限に蠢く『構造の貌』を見出す、現代数学の深層への跳躍。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "opers_topol",
+		"word": "Operators",
+		"meaning": "作用素（さようそ）、オペレーター",
+		"etymology": [
+			"Latin opus (work/deed)"
+		],
+		"concept": "Functions that act on functions",
+		"thinking": "自ら「仕事をする（Opus）」者。空間を切り、繋ぎ、歪ませる、トポロジーというドラマの「演者（作用）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "functoriality",
+		"word": "Functorial",
+		"meaning": "関手的（かんしゅてき）な、ファンクトリアルな",
+		"etymology": [
+			"Latin functio"
+		],
+		"concept": "Rule mapping objects and arrows",
+		"thinking": "「写像（心の動き）」すらも写像する、究極の普遍性。一つの世界の調和が、別の世界へといかなるズレもなく完全に写し取られる、真理の不偏の連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "topological_",
+		"word": "K-theory (T)",
+		"meaning": "トポロジカル K理論（りろん）",
+		"etymology": [
+			"Category + Theory"
+		],
+		"concept": "Bundles as algebraic ring",
+		"thinking": "空間の上に浮かぶ「束（ベクトル空間の集まり）」を「一粒の数（環）」として計算する。複雑な「ねじれ」を、足し算や引き算という名の単純な遊戯へと翻訳する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "eternity_top",
+		"word": "Invariance",
+		"meaning": "不変性（ふへんせい）、インバリアンス",
+		"etymology": [
+			"Latin in- + varius (changing)"
+		],
+		"original_statement": "Remaining unchanged under transformations.",
+		"concept": "The unmovable core",
+		"thinking": "「変わる（Varius）」ことが「ない（In-）」。嵐のような変容、ぐにゃぐにゃの歪みの中で、ただ一つだけ、最後までそこにあり続ける本質的な「貌」。それを見つけることこそが、トポロジーという冒険の終着点である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の極限を、永遠の貌に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"トポロジーと多様体の極致へ。"
+			]
+		},
+		"example": "Topology explores properties invariant under deformation."
 	}
 ];
