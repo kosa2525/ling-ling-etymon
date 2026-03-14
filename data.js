@@ -405874,5 +405874,85 @@ const WORDS = [
 			]
 		},
 		"example": "Volcanology is the study of volcanoes, lava, and magma."
+	},
+	{
+		"id": "toxicology_",
+		"word": "Toxicology",
+		"meaning": "毒性学（どくせいがく）",
+		"etymology": [
+			"Greek toxikon (poison) + logos"
+		],
+		"concept": "Science of poisons",
+		"thinking": "「毒（Toxikon）」の「理（Logos）」。パラケルススが説いたように、あらゆ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "毒の深淵を、処方の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"毒性学と薬理学の極致へ。"
+			]
+		},
+		"example": "Pharmacology is the study of drug action."
+	},
+	{
+		"id": "pharmacolog",
+		"word": "Pharmacol",
+		"meaning": "薬理学（やくりがく）",
+		"etymology": [
+			"Greek pharmakon (drug/poison/remedy) + logos"
+		],
+		"concept": "Science of drug action",
+		"thinking": "「薬（Pharmakon）」もまた「毒」である。その。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "毒の深淵を、処方の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"毒性学と薬理学の極致へ。"
+			]
+		},
+		"example": "Pharmacology is the study of drug action."
+	},
+	{
+		"id": "xenobiotic_",
+		"word": "Xenobiotic",
+		"meaning": "生体（せいたい）異物（いぶつ）",
+		"etymology": [
+			"Greek xenos (foreign) + bios"
+		],
+		"concept": "Foreign chemical in body",
+		"thinking": "「他者（Xenos）」なる「命に非ざるもの」。。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "毒の深淵を、処方の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"毒性学と薬理学の極致へ。"
+			]
+		},
+		"example": "Pharmacology is the study of drug action."
+	},
+	{
+		"id": "antidote_ad",
+		"word": "Antidote",
+		"meaning": "解毒剤（げどくざい）、アンチドート",
+		"etymology": [
+			"Greek anti- (against) + dotos (given)"
+		],
+		"concept": "Medicine to counteract poison",
+		"thinking": "「逆（Anti）」に「与えられる（Doto）」もの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "毒の深淵を、処方の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"毒性学と薬理学の極致へ。"
+			]
+		},
+		"example": "Pharmacology is the study of drug action."
 	}
 ];
