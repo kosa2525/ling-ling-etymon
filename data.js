@@ -321644,5 +321644,57 @@ const WORDS = [
    "original_statement": "From magnetic + -on (particle suffix)."
   },
   "concept": "The magnetic wave (目。に、。見えない。、。、「。。、。方位。、。、」。たち。が。、。、。、隣。から。、。、。隣。へと。、。、。、。、不。意に。、。、。伝。、え。。、。合う。。、。、。「。。、。、一。、。条の。、。、。、。、。振（。ふ）。。、。る。。、。え。。、。、」。、。、。それ。は、。、。、。冷。たい。、。、。石。の中で。、。、。、燃（。も）。。、。え。。、。つ。づ。ける。。、。、。見えない。、。、。、。、情。、。、熱。、。の、。、。火。、花。、)"
+ },
+ {
+  "id": "chandrasekhar-limit",
+  "word": "Chandrasekhar Limit",
+  "meaning": "チャンドラセカール限界、星が自重に耐えられる極限の質量。",
+  "era": "Name Subrahmanyan Chandrasekhar",
+  "etymology": {
+   "components": [
+    "Subrahmanyan Chandrasekhar (astrophysicist)"
+   ],
+   "original_statement": "The maximum mass of a stable white dwarf star."
+  },
+  "concept": "The ultimate weight (自らの。、。、。重（。お。）。、。も。、。みに。、。耐（。た。）。、。え。。、。きれず、。、。、。崩（。くず）。。、。れ。。、落ち。。、。ゆ。く。。、。一。、。瞬、。、。の、。臨界。、。、。それは、。、。、。理知。が、。、。、光。り。、。輝く。。、。、白。色。、。、。矮。星。、。へと。、。、。。、辿り。、。着。いた。。、。、。、。、最後。の、。、。、境界。、。線。、)"
+ },
+ {
+  "id": "roche-limit",
+  "word": "Roche Limit",
+  "meaning": "ロシュ限界、潮汐力によって天体が破壊される距離。",
+  "era": "Name Edouard Roche",
+  "etymology": {
+   "components": [
+    "Edouard Roche (astronomer)"
+   ],
+   "original_statement": "The distance within which a celestial body, held together only by its own gravity, will disintegrate due to a second celestial body's tidal forces."
+  },
+  "concept": "The point of breaking (巨大。な。、。、。「。。、。引。、。力。、。、」。の、。、。。、。愛撫（。あいぶ）。。、が、。、。、。不意に。、。、残酷な。、。、。、石。の。、。呻（。うめ）。。き。、。、。へと。、。、変。、わる。。、。、地。点。、。、。それは、。、。、。星。が、。、。、。、。砕（。くだ）。。、。け、。、。、。輪（。リング）。。、。へと。、。、。、。還（。かえ）。。、。る。。ための、。、。、。劇。、的。な、。。、。、死。、)"
+ },
+ {
+  "id": "lagrange-point",
+  "word": "Lagrange Point",
+  "meaning": "ラグランジュ点、重力が均衡する宇宙の静寂点。",
+  "era": "Name Joseph-Louis Lagrange",
+  "etymology": {
+   "components": [
+    "Joseph-Louis Lagrange (mathematician)"
+   ],
+   "original_statement": "Points near two large bodies where a smaller object can maintain a stable position relative to them."
+  },
+  "concept": "Gravity's balance (「。。、。行（ゆ）。、。、。く。。、」。ことも。、。、「。。、。、戻。、。る。。、。、」。ことも。、。、あえて。、。、。、せず。、。、。宇宙。という。、。、。、。、荒波。の中。で、。、。、ひっそり。と、。、。、。漂（。ただよ）。。、。い。。つ。づ。ける。。、。ことの、。、。、。できる。、。、。理。知。の、。、。。、「。、。、。泊。、地。、。、。、」。、)"
+ },
+ {
+  "id": "penrose-diagram",
+  "word": "Penrose Diagram",
+  "meaning": "ペンローズ図、無限の時空を一枚の図に封じ込める知性。",
+  "era": "Name Roger Penrose",
+  "etymology": {
+   "components": [
+    "Roger Penrose (physicist)"
+   ],
+   "original_statement": "A two-dimensional diagram capturing the causal relations between different points in spacetime."
+  },
+  "concept": "Capturing infinity (無限。に、。、。、。広。、。がる。、。、時。空。、。、を。、。、。一。、。つの。、。、。紙。の上に。、。、。、あえて。、。、。、。。、。、「。。、。、。、。一。、点。、。、。、」。、と。、。して。。、。、。描（。えが）。。、。く。。、。、。こと。の。、。、できる。、。、。、理知。の、。。、神。、。の、。、。、視。、点。、)"
  }
 ];
