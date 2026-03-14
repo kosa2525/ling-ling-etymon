@@ -400454,5 +400454,805 @@ const WORDS = [
 			]
 		},
 		"example": "Music theory provides a formal system for understanding harmony and rhythm."
+	},
+	{
+		"id": "marine_biolo",
+		"word": "Marine Bio",
+		"meaning": "海洋生物学（かいようせいぶつがく）",
+		"etymology": [
+			"Latin mare + Biology"
+		],
+		"concept": "Study of sea life",
+		"thinking": "「海（Mare）」という、地球最後の巨大な揺り籠の中の生命（Bios）を追う。光の届かぬ闇、極限の圧力。私たちがそこから産まれ、そして忘れてしまった、原初の命の貌（貌）を再発見する知の航海。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "abyssal_zone",
+		"word": "Abyssal Z",
+		"meaning": "深海（しんかい）帯（たい）、アビサル・ゾーン",
+		"etymology": [
+			"Greek abyssos (bottomless)"
+		],
+		"concept": "Deep ocean layer (4000-6000m)",
+		"thinking": "「底のない（Abyss）」場所。太陽の恩恵から切り離され、永遠の闇と冷寂が支配する、異世界の領土。沈黙と静圧の中に、独自の進化（貌）を遂げた者たちが潜む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "hadal_zone_",
+		"word": "Hadal Zone",
+		"meaning": "超深海（ちょうしんかい）層（そう）、ハダル・ゾーン",
+		"etymology": [
+			"Hades (Greek underworld God)"
+		],
+		"concept": "Deepest trenches (>6000m)",
+		"thinking": "「冥界（Hades）」の領域。地球の裂け目の底。そこは地獄ではなく、高圧に耐えるための透き通った体、繊細なアンテナ、そして孤独を愛する冷徹な命たちが息づく、静謐なる楽園（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "benthic_env",
+		"word": "Benthic",
+		"meaning": "底生（ていせい）の",
+		"etymology": [
+			"Greek benthos (depth of the sea)"
+		],
+		"concept": "Living on ocean floor",
+		"thinking": "海の「底（Benthos）」に抱かれて生きる。降り注ぐデトリタス（海雪）を糧にし、地を這い、あるいは固着して、深淵の重みをその肉体に受け止める。大地の貌と一体化した命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "pelagic_env",
+		"word": "Pelagic",
+		"meaning": "遠洋（えんよう）の、中層（ちゅうそう）の",
+		"etymology": [
+			"Greek pelagos (open sea)"
+		],
+		"concept": "Living in open water",
+		"thinking": "「大海原（Pelagos）」という、壁も床もない三次元の虚空を生きる。彷徨い、泳ぎ続け、どこまでも広がる自由と、隠れる場所のない恐怖のあわいに浮かぶ、不確かな生命の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "bioluminesc",
+		"word": "Biolumines",
+		"meaning": "生物（せいぶつ）発光（はっこう）",
+		"etymology": [
+			"Greek bios + Latin lumen (light)"
+		],
+		"concept": "Light produced by life",
+		"thinking": "「命（Bios）」が自ら「光（Lumen）」を放つ。闇を照らすため、あるいは敵を欺き、恋人を誘うための、化学反応による祈り（貌）。深海の暗闇を彩る、一瞬の星空。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "counter_ill",
+		"word": "Counter-Ill",
+		"meaning": "カウンター・イルミネーション",
+		"etymology": [
+			"Counter + Illumination"
+		],
+		"concept": "Camouflage via underslight",
+		"thinking": "自分の影を消すために、腹側を光らせ、上から降り注ぐ微かな光に同化する。敵（下）からの視線を完全に無効化する、光による透明（貌）の戦略。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "chemosynthe",
+		"word": "Chemosynth",
+		"meaning": "化学（かがく）合成（ごうせい）",
+		"etymology": [
+			"Chemical + Synthesis"
+		],
+		"concept": "Energy from chemicals, not light",
+		"thinking": "太陽（光）を必要としない命の理。地球の内側から噴き出す硫黄やメタンという「劇薬（Chemical）」を糧に、深淵のエネルギーを「組み立てる（Synthesis）」。光なき世界の、もう一つの独立した太陽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "cold_seep_a",
+		"word": "Cold Seep",
+		"meaning": "冷（れい）湧水（ゆうすい）域（いき）",
+		"etymology": [
+			"Cold + Seep"
+		],
+		"concept": "Gentle chemical seepage",
+		"thinking": "海底からメタンなどが静かに「染み出す（Seep）」場所。熱くはないが、そこには永い時間をかけて育まれる巨大なシンオウサンゴやハオリムシの、沈黙の庭園（貌）が広がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "piezophile_",
+		"word": "Piezophile",
+		"meaning": "好（こう）圧（あつ）性（せい）生物（せいぶつ）",
+		"etymology": [
+			"Greek piezein (to press) + philein (to love)"
+		],
+		"concept": "Organisms loving high pressure",
+		"thinking": "圧力を「愛し（Phile）」、重みに「押される（Pieze）」ことを生の前提とする者たち。私たちが押し潰される深淵こそが、彼らにとって最も心地よく、自らの「形（貌）」を保てる安息の地である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "psychrophil",
+		"word": "Psychrophi",
+		"meaning": "好（こう）冷（れい）性（せい）生物（せいぶつ）",
+		"etymology": [
+			"Greek psykhros (cold) + philein"
+		],
+		"concept": "Cold-loving organisms",
+		"thinking": "零下に近い凍てつく「冷たさ（Psykhros）」を「愛する」。分子の動きが止まるような極限の凍結を、独自の酵素という刃で乗り越え、静かに命を繋ぐ者たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "marine_snow",
+		"word": "Marine Sno",
+		"meaning": "海雪（うみゆき）、マリンスノー",
+		"etymology": [
+			"Marine + Snow"
+		],
+		"concept": "Sinking organic debris",
+		"thinking": "上層の命の終わり（死骸や糞）が、白い「雪」のように深海へと降りてくる。それは上からの恵みのギフトであり、深淵の民にとっては唯一の、しかし命を繋ぐために不可欠な情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "halocline_a",
+		"word": "Halocline",
+		"meaning": "塩分（えんぶん）躍層（やくそう）",
+		"etymology": [
+			"Greek hals (salt) + klinein (to lean)"
+		],
+		"concept": "Abrupt salt gradient",
+		"thinking": "「塩（Hals）」の濃度が「傾く（Kline）」。上下で全く異なる世界が、薄い水の膜一つで峻別されている。目に見えないが、越えがたい透明な命の境界線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "phytoplankt",
+		"word": "Phyto-Plan",
+		"meaning": "植物（しょくぶつ）プランクトン",
+		"etymology": [
+			"Greek phyton (plant) + planktos (wanderer)"
+		],
+		"concept": "Drifting ocean plants",
+		"thinking": "海を「彷徨う（Planktos）」小さな「植物（Phyton）」。光合成によって、この星の酸素の半分を産み出す、地球の肺。小さき漂流者たちが、世界の呼吸（貌）を司っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "zooplankton",
+		"word": "Zoo-Plankt",
+		"meaning": "動物（どうぶつ）プランクトン",
+		"etymology": [
+			"Greek zoon (animal) + planktos"
+		],
+		"concept": "Drifting ocean animals",
+		"thinking": "波に身を任せ、光と闇の「あわい」を漂う。小さな肉体の中に、広大な海を生き抜くための精緻な透明さ（貌）を宿している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "vertical_mi",
+		"word": "Vert Migra",
+		"meaning": "鉛直（えんちょく）移動（いどう）、日周（にっしゅう）移動（いどう）",
+		"etymology": [
+			"Vertical + Latin migrare"
+		],
+		"concept": "Daily movement up and down",
+		"thinking": "夜、光なき海面へと浮上し、昼、捕食者を避けて深淵へと沈む。地球上で最大の、そして最も静かな「渡り（Migrate）」。命の鼓動が描く、巨大な上下の波（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "trench_feat",
+		"word": "Trench",
+		"meaning": "海溝（かいこう）",
+		"etymology": [
+			"French trenche (cut/ditch)"
+		],
+		"concept": "Deepest ocean depression",
+		"thinking": "地球の表面に刻まれた、巨大な「切り傷（Trenche）」。プレートが沈み込み、灼熱のマントルへと還る場所。そこには極限の孤独と、その中でのみ許された進化の秘奥がある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "benthic_gig",
+		"word": "Abys Gigant",
+		"meaning": "深海（しんかい）巨大（きょだい）症（しょう）",
+		"etymology": [
+			"Greek gigas"
+		],
+		"concept": "Deep sea species growing large",
+		"thinking": "広大な暗闇と極限の環境が、生き物たちを「巨大化（Gigas）」させる。代謝を抑え、永い時間をかけてゆっくりと成長し、畏怖を覚えるほどの威容（貌）を帯びるにいたった深淵の主たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "whale_fall_",
+		"word": "Whale Fall",
+		"meaning": "鯨（くじら）骨（こつ）生物（せいぶつ）群集（ぐんしゅう）",
+		"etymology": [
+			"Whale + Fall"
+		],
+		"concept": "Ecosystem on dead whale",
+		"thinking": "一頭の巨大なクジラが「落ち（Fall）」、深海の砂漠に突き刺さる。その一つの遺骸が、百年の時間をかけて、何百種類もの命（貌）を養う「都市」へと変貌する。死が極限の生へと転換される、荘厳なる食卓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "symbiosis_m",
+		"word": "Endosymbio",
+		"meaning": "細胞内（さいぼうない）共生（きょうせい） (海洋)",
+		"etymology": [
+			"Greek endo (within) + syn + bios"
+		],
+		"concept": "Living inside for mutual gain",
+		"thinking": "深海のハオリムシ。彼らは口も胃も持たず、体内に飼っている細菌（命：Bios）から栄養を受け取る。二つの全く異なる「生」が、「共に（Syn）」「内側（Endo）」で溶け合い、一つの貌を成す、究極の信頼。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "osedax_worm",
+		"word": "Osedax",
+		"meaning": "ホネクイムシ、オセダックス",
+		"etymology": [
+			"Latin os (bone) + edax (devouring)"
+		],
+		"concept": "Bone-eating deep sea worm",
+		"thinking": "クジラの「骨（Os）」を「貪り食う（Edax）」者。酸を放ち、硬い骨を溶かしてその内部へ根を下ろす。死者の記憶を肉体へと吸い込む、深淵の死肉漁りたちの美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "crustacean_",
+		"word": "Crustacean",
+		"meaning": "甲殻類（こうかくるい）",
+		"etymology": [
+			"Latin crusta (shell/crust)"
+		],
+		"concept": "Animals with hard shell",
+		"thinking": "硬い「殻（Crusta）」という名の鎧を纏う。高圧から内部の柔らかい真実（命）を守り、あるいは外の世界への武器とする。節々の重なりの機能美（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "cephalopod_",
+		"word": "Cephalopod",
+		"meaning": "頭足類（とうそくるい）",
+		"etymology": [
+			"Greek kephale (head) + pous (foot)"
+		],
+		"concept": "Octopus/Squid",
+		"thinking": "「頭（Kephale）」から直接「足（Foot）」が生えたような、異形の美。ダイオウイカ、メンダコ。色彩を自在に変え、暗闇を舞う。知性と野生が融合した、海の魔術師たちの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "camou_ocean",
+		"word": "Chromatoph",
+		"meaning": "色素（しきそ）細胞（さいぼう）",
+		"etymology": [
+			"Greek khroma + phoros (bearing)"
+		],
+		"concept": "Color-changing cells",
+		"thinking": "色（Khroma）を「運ぶ（Phoros）」細胞。一瞬で周囲の岩や影と化し、その存在そのものを『無（貌）』へと変える。皮膚の上に物語を描く、視覚の変幻自在。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "echinoderm_",
+		"word": "Echinoderm",
+		"meaning": "棘皮（きょくひ）動物（どうぶつ）",
+		"etymology": [
+			"Greek ekhinos (hedgehog) + derma (skin)"
+		],
+		"concept": "Starfish/Sea urchins",
+		"thinking": "「トゲ（Ekhinos）」のある「皮膚（Derma）」。五角形の美しい対称性。大地をゆっくりと這い、五つの方向のすべてを見据える、太古からの変わらぬ貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "detritivore",
+		"word": "Detritivor",
+		"meaning": "デトリタス食者（しょくしゃ）",
+		"etymology": [
+			"Latin detritus (worn down) + vorare"
+		],
+		"concept": "Feeding on dead matter",
+		"thinking": "「磨り減り、崩れた（Detritus）」塵を「貪る（Vorare）」。世界のカスを、再び輝ける命へと「磨き上げる」再生の役者たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "upwelling_a",
+		"word": "Upwelling",
+		"meaning": "湧昇（ゆうしょう）",
+		"etymology": [
+			"Up + Well (to boil/flow)"
+		],
+		"concept": "Deep water rising for nutrients",
+		"thinking": "深淵に眠っていた豊かな栄養が、物理的な理（湧き：Well）によって海面へと引き上げられる。闇の蓄積が、光の世界を爆発的に豊かにする、恩恵の逆流（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "overfishing",
+		"word": "Overfishin",
+		"meaning": "過剰（かじょう）漁獲（ぎょかく）",
+		"etymology": [
+			"Over + Fishing"
+		],
+		"concept": "Catching more than replenishes",
+		"thinking": "取りすぎること。海という巨大な銀行から、元金まで引き出してしまう、人類の強欲と短視眼。命の循環という名の『掟』を破った後の、空っぽな海（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "trawler_adv",
+		"word": "Trawler",
+		"meaning": "トロール網（あみ）、底（そこ）引（び）き網（あみ）",
+		"etymology": [
+			"Middle Dutch traghel (dragsnet)"
+		],
+		"concept": "Large destructive fishnet",
+		"thinking": "「引きずる（Drag）」。海底のすべてを無差別に削り取り、千年の歳月をかけて作られた豊かな貌を、一晩で瓦礫に変える。不可視の場所で行われる、略奪の暴力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "acclimatize",
+		"word": "Acclimatiz",
+		"meaning": "順応（じゅんのう）、気候（きこう）順応（じゅんのう）",
+		"etymology": [
+			"Latin ad- + Greek klima (region)"
+		],
+		"concept": "Adjusting to new environment",
+		"thinking": "「土地（Klima）」に「合わせる（Ad-）」。温度、圧力、塩分。新しい過酷な理を、自らの肉体の理へと書き換え、共に生きる。しなやかな適応の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "hypoxia_sea",
+		"word": "Hypoxia (M)",
+		"meaning": "低（てい）酸素（さんそ）状態（じょうたい） (海洋)",
+		"etymology": [
+			"Greek hypo- (under) + Oxygen"
+		],
+		"concept": "Oxygen-depleted water",
+		"thinking": "酸素が「少ない（Hypo-）」。あえぐ海。人間活動による過剰な栄養が、死の海域（デッドゾーン）を作り出す。命の灯火が消えゆく、青白き沈黙の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "acidificati",
+		"word": "Ocean Acid",
+		"meaning": "海洋（かいよう）酸性（さんせい）化（か）",
+		"etymology": [
+			"Ocean + Latin acidus (sour)"
+		],
+		"concept": "CO2 lowering ocean pH",
+		"thinking": "二酸化炭素が海を「酸っぱく（Acid）」する。サンゴの骨を溶かし、貝殻を脆くする。海という名の巨大な母体の体質が、私たちの吐息によって書き換えられ、崩壊していく情報の歪み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "bleaching_c",
+		"word": "Coral Blea",
+		"meaning": "サンゴの白化（はっか）現象（げんしょう）",
+		"etymology": [
+			"Old English blaecan (to whiten)"
+		],
+		"concept": "Corals losing algae due to heat",
+		"thinking": "サンゴが「白く（Bleach）」なる。中に住むパートナー（藻類）を追い出し、命の色彩を失った、骸のような貌。それは海の声なき叫びであり、終わりの始まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "larval_stag",
+		"word": "Larva (M)",
+		"meaning": "幼生（ようせい） (海洋)",
+		"etymology": [
+			"Latin larva (ghost/mask)"
+		],
+		"concept": "Juvenile form of marine life",
+		"thinking": "大人の貌とは似ても似つかない、透明で儚い「仮面（Larva）」あるいは「幽霊」。大海原を漂い、自らの定住の地を探す、彷徨える可能性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "settlement_",
+		"word": "Settlement",
+		"meaning": "定着（ていちゃく）、着底（ちゃくてい） (海洋)",
+		"etymology": [
+			"Old English setlan"
+		],
+		"concept": "Larva choosing a place to live",
+		"thinking": "彷徨いを終え、自らの居場所として大地を「定める（Settle）」。浮遊から固着へ、あるいは棲家へと自分を預ける、運命の重力への回帰。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "recruitment",
+		"word": "Recruit (M)",
+		"meaning": "新加入（しんかにゅう） (生態学)",
+		"etymology": [
+			"French recrue (fresh growth)"
+		],
+		"concept": "New individuals joining pop",
+		"thinking": "新しい「芽（Recrue）」が、社会（集団）の一員として認められ、仲間入りする。命の連鎖が更新され、新しい貌が未来へと手渡される瞬間の喜び。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "bathymetry_",
+		"word": "Bathymetry",
+		"meaning": "海底（かいてい）地形（ちけい）測量（そくりょう）",
+		"etymology": [
+			"Greek bathys (deep) + metron"
+		],
+		"concept": "Measuring ocean depth patterns",
+		"thinking": "「深さ（Bathys）」を「測る（Metron）」。見えない暗黒の底に、山があり、谷があり、巨大な平原がある。その複雑な骨格（貌）を、音波の刃で浮き彫りにする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "photic_zone",
+		"word": "Photic Zon",
+		"meaning": "透光（とうこう）層（そう）、有光（ゆうこう）層（そう）",
+		"etymology": [
+			"Greek phos (light)"
+		],
+		"concept": "Ocean layer with light",
+		"thinking": "「光（Phos）」が届く、表層のあたたかな層。すべての生産、すべての色彩の源。私たちはこの薄い光のベールの上だけで、海を知った気になっている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "gelatinous_",
+		"word": "Gelatinous",
+		"meaning": "ゼラチン質（しつ）の",
+		"etymology": [
+			"Latin gelatus (frozen)"
+		],
+		"concept": "Jelly-like body structure",
+		"thinking": "「凍った（Gel-）」ように、固体と液体のあわいをたゆたう肉体。クラゲ、サルパ。筋肉を捨て、水と一体化することで、重圧の中でも優雅に舞う、究極の非物質的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
+	},
+	{
+		"id": "pelagic_tra",
+		"word": "Pelagi (C)",
+		"meaning": "大海（たいかい）の孤独（こどく）",
+		"etymology": [
+			"Pelagic"
+		],
+		"concept": "The spirit of the wide open sea",
+		"thinking": "どこまでも続く水平線、底なしの深淵。私たちはその巨大な『沈黙』の一部となったとき、初めて自分が一人ではなく、海という名の一つの巨大な「呼吸（貌）」の一部であることを知る。境界を失った、広大なる帰還。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深海の闇を、生命の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"海洋生物学と深海生態学の極致へ。"
+			]
+		},
+		"example": "Marine biology is the study of organisms in the ocean."
 	}
 ];
