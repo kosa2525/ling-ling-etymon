@@ -322577,5 +322577,93 @@ const WORDS = [
    "original_statement": "The rotation of the plane of polarization of an electromagnetic wave as it passes through a medium in a magnetic field."
   },
   "concept": "The spinning light (「。。、。光。、。、」。が、。、。、。、目。に、。、見える。。、。ことなく、。、。、。、。磁。力。、という、。、。、理知。の。、。、。、。網（あみ）。。、を。、。、。くぐ。。、。り。。、。抜（。ぬ）。。、。ける。。、。時。、。、。、。その。、。、。振（。ふ）。。、。る。。、。まい。、。、が、。、。不意に。、。、。、。一。、。回転。、。、。し、。、。、。、世界。。へと、。、。、。告。、。白。、する。。、。、。情。、。、熱。、。の、。、。、旋。、律。、)"
+ },
+ {
+  "id": "reionization",
+  "word": "Reionization",
+  "meaning": "再電離、最初の星々が宇宙を再び。、。、。光。で満たした。、。、。夜明けの瞬間。",
+  "era": "Latin re- + ion",
+  "etymology": {
+   "components": [
+    "re- (again)",
+    "ion (going / particle)"
+   ],
+   "original_statement": "The process that caused the matter in the universe to re-ionize after the dark ages."
+  },
+  "concept": "The second dawn (一。、度。。は。、。、。凍（。い。）。、。て。。、。平穏。へと。、。帰（。かえ）。。、。った。。、。宇宙。が、。、。、。最初。の。、。。星。。の、。、。、峻烈な。、。、。産声（。うぶ。ごえ）。。によって、。、。、再び。、。、。光。の下。へと、。、。目。覚（。ざ）。。、。める。。、。こと。、。、。、それは、。、。、。理知。が、。、。、。暗黒。を、。、。、。二度。、。打ち。破（。やぶ）。。、。った。。、。、。勝利。の。、。。、。瞬。間。、。な。のです。、。)"
+ },
+ {
+  "id": "anisotropy",
+  "word": "Anisotropy",
+  "meaning": "異方性、方向によって性質が異なる、宇宙のわずかな「偏り」。",
+  "era": "Greek an- + isos + tropos",
+  "etymology": {
+   "components": [
+    "an- (not)",
+    "isos (equal)",
+    "tropos (way / turn)"
+   ],
+   "original_statement": "From Greek an- 'not' + isos 'equal' + tropos 'direction'."
+  },
+  "concept": "The unequal turn (「。。、どこ。を。、。、」。見ても。、。、。同。じ。、。、場所。。など。、。、。、存在。。し。ない。。、。という、。、。理知。の、。峻烈な。、。、。予。、。感。、。それは、。、。、。宇宙。の、。始まり。に。、。ひっそり。と、。、。、。刻ま。れた。。、。、。一。、。つの。、。、。、。歪（。ゆ。が）。。み。。、。が、。、。、。銀。河。、を。、。、。生（。う）。。、。み。。、。出した。。、。、。情。、。、熱。、。の、。、。、微。、。笑。、。み。、)"
+ },
+ {
+  "id": "gravitational-wave",
+  "word": "Gravitational Wave",
+  "meaning": "重力波、時空そのものが震える、宇宙のさざ波。",
+  "era": "Latin gravitas + English wave",
+  "etymology": {
+   "components": [
+    "gravitas (weight / gravity)"
+   ],
+   "original_statement": "Ripples in the curvature of spacetime that propagate as waves, traveling outward from a source."
+  },
+  "concept": "The ripple of existence (「。。、。巨大。、。、」。な。、。、。、何か。が。、。、動。いた。。、。時。、、。、。。世界。。その。、。ものが。、。、。幽（。かす）。。、。、かな。。、。、「。。、。、。、。振（。ふ）。。、。る。。、。え。。、。、」。を。、。、。、全。宇宙。へと。、。、。、伝（。つた）。。、。えて。。、。、ゆ。く。。、一。、。瞬、。それは、。、。、。理知。が、。、。、。、沈。、。黙。、。、を。、。、貫（。つらぬ）。。、いて。。、。、。、。。、。響（。ひび）。。、。き。。、。渡（。わた）。。、。る。。ための、。、。、。、幽（。かす）。。、。かな。。、。、。音楽。、)"
+ },
+ {
+  "id": "dark-energy",
+  "word": "Dark Energy",
+  "meaning": "暗黒エネルギー、宇宙を加速的に。、。、。広げ。つづ。ける。。、。正体。不明。、。の。、。理知。、",
+  "era": "English dark + energy",
+  "etymology": {
+   "components": [
+    "dark",
+    "energy"
+   ],
+   "original_statement": "An unknown form of energy which is hypothesized to permeate all of space, tending to accelerate the expansion of the universe."
+  },
+  "concept": "The unseen expansion (「。。、終わり。、。、」。のない。、。、。、。「。。、。、。、広。、。、。、」。がり。を。、。、。もたら。し、。、。、。すべて。を。、。、お互い。から。、。、。引。き。。、離（。はな）。。、。して。。、。ゆ。く。。、。、理知。の、。、。、。峻烈な。、。、。、孤独。、。それは、。、。、。宇宙。が。、。、。、。、。自ら。を、。、。、空（。から）。。、。っぽ。。に。、。、しようと。、。、。。する、。、。、。凄まじき。、。、。衝。、。動。、)"
+ },
+ {
+  "id": "wimp",
+  "word": "WIMP",
+  "meaning": "ウィンプ、ほとんど。、。、。触れ。合う。。、。ことのない、。、。暗黒物質。、。の、。候補。、",
+  "era": "English WIMP",
+  "etymology": {
+   "components": [
+    "Weakly",
+    "Interacting",
+    "Massive",
+    "Particle"
+   ],
+   "original_statement": "An abbreviation for Weakly Interacting Massive Particle."
+  },
+  "concept": "The ghostly particle (「。。、。隣。、。、」。にい。なが。、。ら。、。、。決して。、。、。触れ。合う。。、。ことの、。、ない。、。、。、「。。、。、。、。霊。、。、。、」。、と。、。いう、。、。理。知。、。それは、。、。、。重。力。、。によって。、。、だけ。、。、。。自。自分。を。、。、。示（。しめ）。。、。し、。、。、。ひっそり。と。、。、。、世界。。を、。、。、支。、。、えている。。、。、。孤。、。高。、。の、。、。存在。、)"
+ },
+ {
+  "id": "macho",
+  "word": "MACHO",
+  "meaning": "マッチョ、光を。、。、。放（。はな）。。、。た。ぬ。。、。巨大。な、。、。天体。、。、。暗黒物質。の、。一。形態。、",
+  "era": "English MACHO",
+  "etymology": {
+   "components": [
+    "Massive",
+    "Compact",
+    "Halo",
+    "Object"
+   ],
+   "original_statement": "An abbreviation for Massive Compact Halo Object."
+  },
+  "concept": "The dark monolith (「。。、。光。、。、」。を。、。、。あえて。、。、。、。、拒。絶。、。、。し、。、。、。重（。お。）。、。も。、。たた。、。ず。、、。、ただ。。、そこに。、。、。在（。あ）。。、。る。。、。強靱。な。、。、。、理知。、。、。それは、。、。、。、銀。河。、の。、。外（。そと）。。において。、。、。、ひっそり。と、。。、宇宙。を。、。、。、。。見。、。守。、。、。、っている。。、。、。寡。、。黙。、。な。、。、。。番。、。、。人。、)"
  }
 ];
