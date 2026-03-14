@@ -402674,5 +402674,625 @@ const WORDS = [
 			]
 		},
 		"example": "Condensed matter physics studies the physical properties of solid and liquid phases."
+	},
+	{
+		"id": "social_psych",
+		"word": "Soc Psychol",
+		"meaning": "社会（しゃかい）心理学（しんりがく）",
+		"etymology": [
+			"Latin sociare (to join) + Psychology"
+		],
+		"concept": "Self in society",
+		"thinking": "「仲間（Socius）」と「魂（Psykh-）」の交点。一人でいる時の自分と、誰かといる時の自分が、どうしてこれほどまで違う『貌（貌）』になるのか。他者の視線という名の彫刻刀によって削り出される、自意識という。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "conformity_",
+		"word": "Conformity",
+		"meaning": "同調（どうちょう）、コンフォーミティ",
+		"etymology": [
+			"Latin con- + formare (to form)"
+		],
+		"concept": "Adapting to group norms",
+		"thinking": "「共に（Con-）」「形（Form）」を整える。周囲に合わせ、目立たぬように己の貌を削る。孤独という恐怖から逃れるための、静かなる自己放棄の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "obedience_a",
+		"word": "Obedience",
+		"meaning": "服従（ふくじゅう）",
+		"etymology": [
+			"Latin ob- (towards) + audire (to hear)"
+		],
+		"concept": "Compliance with authority",
+		"thinking": "権威に対し、ただ「聴き（Audire）」「向かう（Ob-）」。ミルグラムの実験が暴き出した、私たちの中にある『悪の平凡さ』。良心を捨て、命令という名の鎖に自分を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "groupthink_a",
+		"word": "Groupthink",
+		"meaning": "集団（しゅうだん）思考（しこう）",
+		"etymology": [
+			"Group + Think"
+		],
+		"concept": "Decision-making flaws in groups",
+		"thinking": "集団の「絆」を守るために、批判的な思考を停止させ、全員で一斉に間違った破滅へと突き進む、共同体の盲目。調和という名。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "deindividu",
+		"word": "Deindividu",
+		"meaning": "没（ぼつ）個性（こせい）化（か）",
+		"etymology": [
+			"Latin de- + Individuus (undivided)"
+		],
+		"concept": "Loss of self-awareness in groups",
+		"thinking": "群衆の中に紛れ、一人の人間としての「個（Indiv-）」を「捨てる（De-）」。名前を失った時、人は残酷になり、あるいは何にでもなれる。責任という衣を脱ぎ捨てた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "bystander_e",
+		"word": "Bystand Ef",
+		"meaning": "傍観（ぼうかん）者（しゃ）効果（こうか）",
+		"etymology": [
+			"By + Stand"
+		],
+		"concept": "Diffusion of responsibility",
+		"thinking": "「隣（By）」「立っている（Stand）」者が多いほど、誰も助けない。責任が霧のように薄まり、消えていく悲劇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "cognitive_d",
+		"word": "Cognit Diss",
+		"meaning": "認知（にんち）的（てき）不協和（ふきょうわ）",
+		"etymology": [
+			"Latin cognoscere + dis- + sonare"
+		],
+		"concept": "Discomfort from conflicting ideas",
+		"thinking": "「事実（Cogn-）」と「信念」が「響き合わない（Dis-Son-）」。その不快さに耐えきれず、事実の方を歪めて平穏（貌）を保とうとする、私たちの脳の狡猾な自己欺瞞（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "self_servin",
+		"word": "Self-Servin",
+		"meaning": "自己（じこ）奉仕（ほうし）バイアス",
+		"etymology": [
+			"Self + Serving"
+		],
+		"concept": "Credit for success, blame for loss",
+		"thinking": "手柄は自分、失敗は他人のせい。自尊心という名の「自分（Self）に奉仕する（Serving）」ための、情報の勝手な編集。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "halo_effect_",
+		"word": "Halo Effect",
+		"meaning": "ハロー効果（こうか）、後光（ごこう）効果（こうか）",
+		"etymology": [
+			"Greek halos (disk of sun/moon)"
+		],
+		"concept": "Impression in one area influences all",
+		"thinking": "「一つ（貌）」の良い特徴が、聖人の「後光（Halo）」のようにすべてを包み込み、他をすべて良く見せてしまう。視覚の甘美な。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "stereotype_",
+		"word": "Stereotype",
+		"meaning": "ステレオタイプ、固定（こてい）観念（かんねん）",
+		"etymology": [
+			"Greek stereos (solid) + typos (type)"
+		],
+		"concept": "Generalized belief about a group",
+		"thinking": "「固い（Stereo）」「型（Type）」。複雑な人間を、たった一枚のラベル（貌）の中に押し込め、理解した気。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "prejudice_ad",
+		"word": "Prejudice",
+		"meaning": "偏見（へんけん）",
+		"etymology": [
+			"Latin prae- (before) + judicium (judgment)"
+		],
+		"concept": "Judgment formed before facts",
+		"thinking": "「事実」を見る「前（Prae-）」に、すでに「結論（Judic-）」を出していること。心の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "discrimina_a",
+		"word": "Discrimina",
+		"meaning": "差別（さべつ）",
+		"etymology": [
+			"Latin dis- + cernere (to separate/sift)"
+		],
+		"concept": "Unequal treatment based on group",
+		"thinking": "「切り分け（Dis-）」「選別（Cern-）」し、排除する。知識の刃を、他人の肉体を切り裂くために使う情報の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "ingroup_bias",
+		"word": "In-group B",
+		"meaning": "内集団（ないしゅうだん）バイアス",
+		"etymology": [
+			"In-group + Bias"
+		],
+		"concept": "Favoring one's own group",
+		"thinking": "「身内（In-）」というだけで、無条件に正しく、美しく見える。境界線の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "outgroup_hom",
+		"word": "Outgroup H",
+		"meaning": "外集団（がいしゅうだん）均一（きんいつ）性（せい）バイアス",
+		"etymology": [
+			"Out-group + Greek homos (same)"
+		],
+		"concept": "Viewing outsiders as all the same",
+		"thinking": "「よそ者（Out-）」は「全員同じ（Hom-）」に見える。彼らの個性を剥ぎ取り、のっぺらぼうな集団（貌）として扱う、人間の認識の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "aggression_a",
+		"word": "Aggression",
+		"meaning": "攻撃（こうげき）性（せい）",
+		"etymology": [
+			"Latin ad- + gradi (to step towards)"
+		],
+		"concept": "Behavior intended to harm",
+		"thinking": "他者の境界線を「踏み越え（Gradi-）」「迫る（Ad-）」。肉体、あるいは言葉による、支配と略奪の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "altruism_soc",
+		"word": "Altr (Soc)",
+		"meaning": "利他主義（りたしゅぎ） (社会学)",
+		"etymology": [
+			"Latin alter (other)"
+		],
+		"concept": "Helping others with no gain",
+		"thinking": "自分ではなく「他者（Alter）」を優先する。進化の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "social_loafi",
+		"word": "Soc Loafin",
+		"meaning": "社会（しゃかい）的（てき）手（て）抜（ぬ）き",
+		"etymology": [
+			"Social + Loafing"
+		],
+		"concept": "Working less when in a group",
+		"thinking": "大勢で綱を引く時ほど、密かに力を抜く。集団の中に自分の名前（貌）が溶け込んだ時、人は。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "facilitation",
+		"word": "Soc Facilit",
+		"meaning": "社会（しゃかい）的（てき）促進（そくしん）",
+		"etymology": [
+			"Latin facilis (easy)"
+		],
+		"concept": "Doing better with an audience",
+		"thinking": "「見られている」ことで、力が湧き、物事が「容易（Facile）」になる。他者の視線が、自分を磨き上げる砥石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "inhibition_s",
+		"word": "Soc Inhibi",
+		"meaning": "社会（しゃかい）的（てき）抑制（よくせい）",
+		"etymology": [
+			"Latin in- + habere (to hold/restrain)"
+		],
+		"concept": "Doing worse with an audience",
+		"thinking": "「見られている」ことで、恐怖が「自分を抑えつける（In-Habere）」。視線という名の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "self-concept",
+		"word": "Self-Concep",
+		"meaning": "自己（じこ）概念（がいねん）",
+		"etymology": [
+			"Self + Latin conciper (to take/conceive)"
+		],
+		"concept": "Individual's belief of themselves",
+		"thinking": "自分とは何者か、という「捉え方（Conceive）」。社会という鏡の中に映った自分を、必死に一つの『物語（貌）』として紡ぎ上げようとする、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "social_ident",
+		"word": "Soc Identit",
+		"meaning": "社会（しゃかい）的（てき）アイデンティティ",
+		"etymology": [
+			"Social + Latin idem (same)"
+		],
+		"concept": "Self defined by group membership",
+		"thinking": "自分がどの集団に属しているか、という「同じさ（Idem）」。集団の一部となることで、孤独を癒し、代わりに。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "social_excha",
+		"word": "Soc Exchan",
+		"meaning": "社会（しゃかい）的（てき）交換（こうかん）理論（りろん）",
+		"etymology": [
+			"Social + Exchange"
+		],
+		"concept": "Relationships as cost-benefit",
+		"thinking": "人間関係も「損得（Exchange）」で計算されている。愛も友情も、コストを上回る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "reciproti_sd",
+		"word": "Recip Norm",
+		"meaning": "返報（へんぽう）性（せい）の規範（きはん）",
+		"etymology": [
+			"Latin reciprocus"
+		],
+		"concept": "Obligation to return favors",
+		"thinking": "「受け取ったら、返（Recip-）さなければならない」という。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "foot_in_door",
+		"word": "Foot-in-Do",
+		"meaning": "フット・イン・ザ・ドア",
+		"etymology": [
+			"Metaphorical"
+		],
+		"concept": "Start with small request",
+		"thinking": "小さな「足（Foot）」をドアに挟む。拒絶しにくい小さな頼みから始め、いつの間にか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "door_in_face",
+		"word": "Door-in-Fac",
+		"meaning": "ドア・イン・ザ・フェイス",
+		"etymology": [
+			"Metaphorical"
+		],
+		"concept": "Start with large request",
+		"thinking": "最初に無理難題を突きつけ、一度「ドア（Door）」を「顔（Face）」の前で閉めさせる（断らせる）。落差が生む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "scarcity_pri",
+		"word": "Scarcity Pr",
+		"meaning": "希少（きしょう）性（せい）の原理（げんり）",
+		"etymology": [
+			"Latin scarpsus (plucked/rare)"
+		],
+		"concept": "Limited things are more valued",
+		"thinking": "「残りわずか」という渇望。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "cult_dynamic",
+		"word": "Cult Dyn",
+		"meaning": "カルトの力学（りきがく）",
+		"etymology": [
+			"Latin cultus (worship)"
+		],
+		"concept": "Psych of high-control groups",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "persuasion_a",
+		"word": "Persuasion",
+		"meaning": "説得（せっとく）",
+		"etymology": [
+			"Latin per- (thoroughly) + suadere"
+		],
+		"concept": "Changing attitudes/beliefs",
+		"thinking": "「甘く（Suade）」勧誘し、相手の心を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "propaganda_a",
+		"word": "Propaganda",
+		"meaning": "プロパガンダ、宣伝（せんでん）",
+		"etymology": [
+			"Latin propagare (to spread/plant)"
+		],
+		"concept": "Spreading ideas to influence",
+		"thinking": "特定の情報を「植え付ける（Propagate）」。真実ではなく、効果を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "dissonance_r",
+		"word": "Diss Reduc",
+		"meaning": "不協和（ふきょうわ）の解消（かいしょう）",
+		"etymology": [
+			"Reduction"
+		],
+		"concept": "Changing mind to fit behavior",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
+	},
+	{
+		"id": "bystander_a_",
+		"word": "Bystander (C)",
+		"meaning": "沈黙（ちんもく）の群衆（ぐんしゅう）",
+		"etymology": [
+			"Bystander"
+		],
+		"concept": "The shadow of the crowd",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "集団の深淵を、洞察の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会心理学と集団力学の極致へ。"
+			]
+		},
+		"example": "Social psychology explores how individuals are influenced by others."
 	}
 ];
