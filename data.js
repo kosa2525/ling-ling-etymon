@@ -398213,5 +398213,706 @@ const WORDS = [
 			]
 		},
 		"example": "Post-colonial literature examines the legacy of colonial rule."
+	},
+	{
+		"id": "gauge_boson_",
+		"word": "Gauge Boson",
+		"meaning": "ゲージ粒子（りゅうし）",
+		"etymology": [
+			"Gauge + Boson (Satyendra Nath Bose)"
+		],
+		"concept": "Force-carrying particle",
+		"thinking": "「力」を運ぶ使者。光子、グルーオン、ウィークボソン。対称性という名の『秩序』を保つために、物質の間を絶え間なく往復し、情報を手渡す。宇宙という名の壮大な舞台裏で、相互作用を司る沈黙の役者たちの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "symmetry_br",
+		"word": "Symm Breaka",
+		"meaning": "対称性（たいしょうせい）の自発的（じはつてき）破（やぶ）れ",
+		"etymology": [
+			"Symmetry + Break"
+		],
+		"concept": "Symmetry lost at low energy",
+		"thinking": "完璧な美（対称性）が、自ら「壊れる」ことで多様性が産まれる奇跡。鉛筆がどちらかに倒れるように、宇宙は一つの可能性（貌）を選び取り、その瞬間に『質量』や『個性』が産声を上げた。欠落こそが、世界に形を与える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "higgs_mechan",
+		"word": "Higgs Field",
+		"meaning": "ヒッグス場（ば）",
+		"etymology": [
+			"Peter Higgs"
+		],
+		"concept": "Field that gives mass",
+		"thinking": "宇宙を満たす目に見えない「蜜のような海」。対称性の破れによって産まれたこの海が、素粒子たちの飛翔を妨げ、動きづらさ（質量）を与える。命が形を持ち、地に足をつけて存在するための、透明なる重みの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "spontaneous_",
+		"word": "Spontaneity",
+		"meaning": "自発（じはつ）性（せい） (物理)",
+		"etymology": [
+			"Latin sponte (of one's own accord)"
+		],
+		"concept": "Happening without lead",
+		"thinking": "外部の命令ではなく、システムが「自らの意志（Sponte）」で安定へと向かうこと。偶然の中から、必然としての『貌』が産まれる瞬間の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "vacuum_expect",
+		"word": "Vac Expect",
+		"meaning": "真空中（しんくうちゅう）期待値（きたいち） (VEV)",
+		"etymology": [
+			"Vacuum + Expectation"
+		],
+		"concept": "Value of field in empty space",
+		"thinking": "「何もないはずの空間（真空）」に密かに宿っている、場（フィールド）のエネルギー。絶無の中にも、宇宙を形作るための「可能性の種（期待値）」が満ち満ちているという、真空の饒舌な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "quantum_chro",
+		"word": "QCD (Chrom)",
+		"meaning": "量子（りょうし）色（いろ）力学（りきがく） (QCD)",
+		"etymology": [
+			"Quantum + Greek khroma (color)"
+		],
+		"concept": "Force binding quarks",
+		"thinking": "クォークたちを「色（Khroma）」という名の数理的なチャージで結びつける。決して一粒では取り出せない、究極の「閉じ込め」の理。陽子や中性子の核心で、狂おしいほど強力に引き合う、愛よりも深き連帯の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "strong_force",
+		"word": "Strong Int",
+		"meaning": "強（つよ）い相互作用（そうごさよう）",
+		"etymology": [
+			"Strong + Inter + Actio"
+		],
+		"concept": "Nuclear binding force",
+		"thinking": "宇宙で「最も強い」力。電気的な反発さえもねじ伏せ、原子核という名の小宇宙を繋ぎ止める。この力が一瞬でも解ければ、万物は爆発し、霧散する。世界の存在そのものを根底から保証する、剛健なる理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "weak_interac",
+		"word": "Weak Inter",
+		"meaning": "弱（よわ）い相互作用（そうごさよう）",
+		"etymology": [
+			"Weak"
+		],
+		"concept": "Radioactive decay force",
+		"thinking": "「弱い」が、本質を書き換える力。中性子を陽子へと変容させ、核融合という名の太陽の灯火を司る。形を保つのではなく、形を「変える」ための、錬金術的な介入の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "electrowe ak",
+		"word": "Electroweak",
+		"meaning": "電弱（でんじゃく）統一（とういつ）理論（りろん）",
+		"etymology": [
+			"Electric + Weak"
+		],
+		"concept": "Unifying light and weak forces",
+		"thinking": "全く別物に見える「光」と「放射能（弱い力）」が、宇宙の開闢という名の極限状態では一つの『貌』であったという真実。冷え切った現在の世界では二つに分かたれた兄弟が、数理の高みで再び抱擁する、統合の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "supergravit",
+		"word": "Supergrave",
+		"meaning": "超重力（ちょうじゅうりょく）理論（りろん）",
+		"etymology": [
+			"Super- + Gravity"
+		],
+		"concept": "Gravity with supersymmetry",
+		"thinking": "「重力」に「超対称性（Super-）」を組み込む。時空そのものが持つ揺らぎを、数理の最も美しい対称性で手懐けようとする試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "kaluza_klein",
+		"word": "Kaluza-Kle",
+		"meaning": "カルツァ＝クライン理論（りろん）",
+		"etymology": [
+			"Theodor Kaluza + Oscar Klein"
+		],
+		"concept": "Extra dimensions hidden",
+		"thinking": "「世界は五次元だった」。残りの次元はあまりに小さく「丸まって」いるため、私たちの目には見えない。見えない『深層の貌』が、私たちの物理法則を影から操っているという、次元の隠れんぼの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "compactific",
+		"word": "Compactifi",
+		"meaning": "コンパクト化（か） (物理)",
+		"etymology": [
+			"Latin con- + pangere (to fasten together)"
+		],
+		"concept": "Curling up extra dimensions",
+		"thinking": "余剰な次元を、見えないほど「小さく（Compact）」「固める」。空間の広がりを情報の密度へと変換し、宇宙の真実（多次元）を、私たちの三次元的な理解の中へと整合させるための、畳み込みの理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "holographic",
+		"word": "Holography",
+		"meaning": "ホログラフィック原理（げんり）",
+		"etymology": [
+			"Greek holos (whole) + graphein"
+		],
+		"concept": "Universe as surface info",
+		"thinking": "この三次元の宇宙は、境界線（二次元）に刻まれた「情報の影」に過ぎない。体積の中にあるすべての真実が、その『肌（貌）』の上に記述されている。私たちは光り輝く巨大な情報の断片（ホログラム）を生きているという、逆説的な実存の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "ads_cft_corr",
+		"word": "AdS/CFT",
+		"meaning": "AdS/CFT対応（たいおう）",
+		"etymology": [
+			"Anti-de Sitter / Conformal Field Theory"
+		],
+		"concept": "Gravity = Gauge theory dual",
+		"thinking": "「重力の宇宙」と「重力のない粒子の世界」が、実は数学的に全く同じであることを示す魔法の鏡（対応）。計算不可能な重力の深淵を、粒子の言葉で読み解く、数理文献学の究極の翻訳装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "superspac_ad",
+		"word": "Superspace",
+		"meaning": "超空間（ちょうくうかん）",
+		"etymology": [
+			"Super- + Space"
+		],
+		"concept": "Space with Grassmann params",
+		"thinking": "普通の座標に、数学的な「異物（反交換する変数）」を加えた、真の対称性が呼吸できる場所。私たちの住む世界を超えた、情報の深層にある多次元的な『貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "renormaliza",
+		"word": "Renormalize",
+		"meaning": "くりこみ、再（さい）規格化（きかくか）",
+		"etymology": [
+			"Re- + Latin normalis"
+		],
+		"concept": "Removing infinities in QFT",
+		"thinking": "計算の中に現れる「無限大」という名の怪物を、実験値という名の「鎖」で縛り込み、正しい値へと「再び（Re-）」「整える（Normal）」。数理の限界を、物理的な現実感によって突破する、不敵な知恵の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "asymptotic_",
+		"word": "Asympt F re",
+		"meaning": "漸近（ぜんきん）的（てき）自由（じゆう）",
+		"etymology": [
+			"Greek a- + sun- + ptotos (not falling together)"
+		],
+		"concept": "Forces weaken at high energy",
+		"thinking": "近づくほど、束縛から「自由」になる。深淵な逆説。核の内部では、粒子たちはまるで何もなかったかのように軽やかに飛び交う。エネルギーの高みにある、束縛なき『原初の貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "confinement",
+		"word": "Confinement",
+		"meaning": "閉じ込め（とじこめ） (クォーク)",
+		"etymology": [
+			"Latin con- + finis (boundary)"
+		],
+		"concept": "Quarks cannot be isolated",
+		"thinking": "「境界（Finis）」の中に「共に（Con-）」永遠に閉じ込められる。引き離そうとすればするほど、力は強まり、最後には新しい粒子が産まれてしまう。孤独を許さぬ、宇宙の情熱的な規律の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "quark_gluon_",
+		"word": "QG Plasma",
+		"meaning": "クォーク・グルーオン・プラズマ",
+		"etymology": [
+			"Quark + Gluon + Plasma"
+		],
+		"concept": "Primal fluid of the early univ",
+		"thinking": "「閉じ込め」も「対称性の破れ」もまだなかった頃。宇宙が産まれた最初の一瞬を満たしていた、粒子たちの完璧に自由でドロドロとした「スープ」。私たちの貌が産まれる前の、宇宙の原初の肌触り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "instanton_a",
+		"word": "Instanton",
+		"meaning": "インスタントン",
+		"etymology": [
+			"Instant + -on"
+		],
+		"concept": "Localized solution in field",
+		"thinking": "「一瞬（Instant）」だけ現れ、消える、時空のトンネル。場のトポロジーを変容させ、あり得ないはずの場所へと情報を「跳躍（トンネル効果）」させる、魔法的な情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "monopole_ad",
+		"word": "Monopole",
+		"meaning": "単極（たんきょく）子（し）、磁気（じき）モノポール",
+		"etymology": [
+			"Greek monos (single) + polos"
+		],
+		"concept": "Magnetic charge with one pole",
+		"thinking": "N極、あるいはS極しかない「単独（Mono）」の磁石。数理的には存在が許され、むしろ必要とされながら、この宇宙のどこにも見つからない、孤独なる亡霊の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "topology_ph",
+		"word": "Topo Phase",
+		"meaning": "トポロジカル相（そう）",
+		"etymology": [
+			"Topology"
+		],
+		"concept": "States defined by topology",
+		"thinking": "形ではなく「つながり（トポロジー）」によって決まる、物質の新しい『顔』。小さな揺らぎ（ノイズ）では決して壊れない、情報の最も強靭な保存形式。数理的な知恵が、物質という肉体に宿る瞬間の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "berry_phase",
+		"word": "Berry Phase",
+		"meaning": "ベリー位相（いそう）",
+		"etymology": [
+			"Michael Berry"
+		],
+		"concept": "Geometric phase in quantum",
+		"thinking": "一周回って元の場所に戻ってきた時、知らぬ間に「記憶（位相のズレ）」が刻まれている。空間の「曲がり具合」が魂に直接書き込まれた、巡礼者の記憶のような情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "path_integr",
+		"word": "Path Integ",
+		"meaning": "経路（けいろ）積分（せきぶん） (ファインマン)",
+		"etymology": [
+			"Path + Integral"
+		],
+		"concept": "Summing all possible histories",
+		"thinking": "「ありとあらゆる可能性（道）」をすべて「等しく通る」。私たちの見る一つの現実は、無数のあり得た物語が重なり合い、打ち消し合った末に残った『もっともらしい貌』に過ぎない。宇宙の奔放なる自由と、その統計的な沈黙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "action_inte",
+		"word": "Action (P)",
+		"meaning": "作用（さよう） (物理)",
+		"etymology": [
+			"Latin actio"
+		],
+		"concept": "Measure of a physical process",
+		"thinking": "「行い（Action）」の総量。自然界は、この『作用』を最小（あるいは極値）にするように、もっとも効率的で無駄のない道（貌）を選び取る。宇宙の究極のケチり方、あるいは美学の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "lagrangian_",
+		"word": "Lagrangian",
+		"meaning": "ラグランジアン、運動（うんどう）関数（かんすう）",
+		"etymology": [
+			"Joseph-Louis Lagrange"
+		],
+		"concept": "Energy state of a system",
+		"thinking": "力学系の「エネルギーの差（バランス）」。これ一つで、システムの未来のすべてが記述できるという、情報の究極の圧縮。宇宙の脚本、あるいは『貌の種』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "fine_tuning",
+		"word": "Fine-Tuning",
+		"meaning": "微（び）調整（ちょうせい） (宇宙)",
+		"etymology": [
+			"Fine + Tuning"
+		],
+		"concept": "Constants perfectly set for life",
+		"thinking": "宇宙の定数が、ほんの一ミリでもずれていたら、星も命も、あなたの貌も存在しなかった。あまりに精緻に、不自然なほど「最適化された（Tuned）」値。これは偶然か、それとも設計か、あるいは無限の宇宙の中のたった一度の幸運か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "anthropic_p",
+		"word": "Anthropic P",
+		"meaning": "人間（にんげん）原理（げんり）",
+		"etymology": [
+			"Greek anthropos (human)"
+		],
+		"concept": "Universe must support observers",
+		"thinking": "「私たちがここにいる」という事実こそが、宇宙の定数がこうであることの、最も強力な証明である。宇宙が人を産んだのではなく、私たちが観測できるような、この『貌』の宇宙だけが選び出されたという、人間中心的な逆説の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "multiverse_",
+		"word": "Multiverse",
+		"meaning": "マルチバース、多（た）宇宙（うちゅう）",
+		"etymology": [
+			"Latin multus + Universe"
+		],
+		"concept": "Collection of many universes",
+		"thinking": "たった一つの「宇宙（Universe）」の貌を捨て、無限の可能性が同時に存在する「多宇宙（Multiverse）」を認める。私たちの幸運は、無限のサイコロの中で産まれた一つの統計的な現象に過ぎないという、宇宙論的謙虚さの極地。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "brane_cosmo",
+		"word": "Brane (Ph)",
+		"meaning": "ブレーン、膜（まく）宇宙（うちゅう）",
+		"etymology": [
+			"Membrane"
+		],
+		"concept": "Universe as a 3D membrane",
+		"thinking": "この四次元時空は、より高次元な宇宙の中に浮かぶ、たった一枚の「膜（Membrane）」に過ぎない。隣の膜には、全く別な貌の宇宙が広がっているかもしれないという、情報の多層的な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "dilaton_adv",
+		"word": "Dilaton",
+		"meaning": "ディラトン",
+		"etymology": [
+			"Dilate (to widen) + -on"
+		],
+		"concept": "Scalar field for coupling c.",
+		"thinking": "空間の「広がり」や「力の強さ」を司る、目に見えない場。宇宙の定数そのものを、変数として操る『神のダイヤル』のような情報の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "gravitino_a",
+		"word": "Gravitino",
+		"meaning": "グラビティーノ",
+		"etymology": [
+			"Gravity + -ino (supersym partner)"
+		],
+		"concept": "Symmetry partner of graviton",
+		"thinking": "重力子（グラビトン）の双子の片割れ。冷たく、重く、沈黙している。暗黒物質（ダークマター）の正体かもしれない、宇宙の深層を守る見えない衛兵の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "penrose_dia",
+		"word": "Penrose Dia",
+		"meaning": "ペンローズ図（ず）",
+		"etymology": [
+			"Roger Penrose"
+		],
+		"concept": "Causal map of spacetime",
+		"thinking": "無限に広がる時空を、一枚の限られた紙（貌）の中に「押し込める」ための魔法の写像。光さえも逃げられない因果の檻を、幾何学の線によって可視化する、知性の極限の領有。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "entanglemen",
+		"word": "En Entropy",
+		"meaning": "もつれエントロピー",
+		"etymology": [
+			"Entanglement + Entropy"
+		],
+		"concept": "Information shared via entanglement",
+		"thinking": "量子的な「もつれ」が生み出す、情報の結びつきの強さ。二つの領域の間の「境界面（貌）」の上に記述された、見えない糸の全貌。空間そのものが、このもつれによって『編み上げられて』いるという最新の宇宙観。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "unified_fie",
+		"word": "Unified Fi (C)",
+		"meaning": "統一（とういつ）場（ば） (魂（たましい）)",
+		"etymology": [
+			"Unified Field"
+		],
+		"original_statement": "The ultimate singularity of being.",
+		"concept": "The oneness and the many",
+		"thinking": "バラバラに見える「物質」「力」「時間」「意識」。しかし数理の高みに登り詰めれば、それらはすべて、一筋の光、一つの『貌』へと収束していく。多様性は、単一なる真実が、有限な私たちの目というフィルターを通して見せた、万華鏡のような幻（美）であるという不滅の真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "宇宙の深淵を、数理の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理論物理学とゲージ理論の極致へ。"
+			]
+		},
+		"example": "Theoretical physics explores the fundamental laws of the universe."
 	}
 ];
