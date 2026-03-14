@@ -380439,5 +380439,727 @@ const WORDS = [
 			]
 		},
 		"example": "Topology explores properties invariant under deformation."
+	},
+	{
+		"id": "model_theory_ad",
+		"word": "Model Theory",
+		"meaning": "モデル理論（りろん）",
+		"etymology": [
+			"Latin modulus (small measure) + Greek theoria"
+		],
+		"concept": "Study of structure via language",
+		"thinking": "言葉（記号）という名の「雛形（Model）」が、いかなる具体的な世界（構造）を「照らし出しているか」の理。抽象的な数式が血の通った世界へと具現化する、その『意味の器』を解剖する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "interpretable",
+		"word": "Interpret",
+		"meaning": "解釈（かいしゃく）可能（かのう）な",
+		"etymology": [
+			"Latin inter- + pretium (price/value)"
+		],
+		"concept": "Mapping structures to others",
+		"thinking": "二つの世界の「間（Inter）」に、「価値（Pretium）」の橋を架ける。ある銀河の理を、別の銀河の言葉で過不足なく語り直すことができるという、真理の翻訳可能性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "isomorphism_v",
+		"word": "Isomorph",
+		"meaning": "等形（とうけい）、同型（どうけい）",
+		"etymology": [
+			"Greek isos (equal) + morphe (form)"
+		],
+		"concept": "Identical structure",
+		"thinking": "「等しい（Isos）」「貌（Morphe）」。名前も場所も違えど、その本質的な『繋がり方』が寸分の狂いもなく一致している。宇宙のどこにあろうとも、それらは「同じ魂」を持つ双子であるという宣言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "automorphism_",
+		"word": "Automorph",
+		"meaning": "自同型（じどうけい）",
+		"etymology": [
+			"Greek autos (self) + Morphe"
+		],
+		"concept": "Symmetry of structure to self",
+		"thinking": "「自分自身（Autos）」を「自分自身の貌（Morphe）」へと写す、究極の対称性。何も変えずにすべてを入れ替える、静寂の中の激しい舞踏。構造が秘めた隠れた自由と美。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "completeness_",
+		"word": "Completeness",
+		"meaning": "完全（かんぜん）性",
+		"etymology": [
+			"Latin con- + plere (to fill)"
+		],
+		"concept": "Provability matches truth",
+		"thinking": "「共に（Con-）」「満たされている（Plere）」状態。この宇宙の「真理」は、すべて「理屈（証明）」で導き出せるという、知性の無謬性への信仰。隙間のない完璧なパズル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "compactness_l",
+		"word": "Compactness",
+		"meaning": "コンパクト性 (論理学)",
+		"etymology": [
+			"Latin con- + pangere (to fasten/unite)"
+		],
+		"concept": "Finite set consistency implies infinite",
+		"thinking": "「固く結びついた（Compact）」真理。無限に続く長い主張も、その「どの有限の欠片」も矛盾していないなら、全体としても矛盾しない。微小な誠実さが無限の誠実さを保証するという、力強い抽象。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "decidability_",
+		"word": "Decidabilit",
+		"meaning": "決定可能性（けっていかのうせい）",
+		"etymology": [
+			"Latin de- + caedere (to cut off)"
+		],
+		"concept": "Algorithmic solvability",
+		"thinking": "「断ち切る（Decide）」ことができる。それが正しいか間違いか、有限の時間（計算）で必ず白黒をつけられるという、迷いのない理の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "undecidabil",
+		"word": "Undecidable",
+		"meaning": "決定不能（けっていふのう）な",
+		"etymology": [
+			"Un- + Decidable"
+		],
+		"concept": "No algorithm possible",
+		"thinking": "正しいか間違いか、どんなに時間をかけても「決して答えが出ない」暗黒の領域。理性の光が届かない、宇宙の根本的な沈黙の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "provability_a",
+		"word": "Provability",
+		"meaning": "証明（しょうめい）可能性（かのうせい）",
+		"etymology": [
+			"Latin probare (to test/approve)"
+		],
+		"concept": "Able to be deduced",
+		"thinking": "一連の掟（公理）から、一歩一歩「試験（Probare）」を重ねて辿り着けること。知性の踏み跡によって拓かれた、確固たる真理への登攀ルート。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "consistency_ad",
+		"word": "Consistency",
+		"meaning": "無矛盾（むむじゅん）性、一貫性（いっかんせい）",
+		"etymology": [
+			"Latin con- + sistere (to stand)"
+		],
+		"concept": "No contradiction",
+		"thinking": "「共に（Con-）」「立つ（Sistere）」こと。右の手が左の手を斬ることがない、静かなる理論の平和。この静寂こそが、あらゆる数学の存立基盤である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "satisfiabili",
+		"word": "Satisfiabil",
+		"meaning": "充足可能性（じゅうそくかのうせい）",
+		"etymology": [
+			"Latin satis (enough) + facere"
+		],
+		"concept": "Having at least one model",
+		"thinking": "それを「十分（Satis）」に「満たす（Facere）」世界が、どこかにたった一つでも存在すること。言葉が空虚な叫びでないことの、最低限の保証。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "recursively_a",
+		"word": "Recursive",
+		"meaning": "帰納的（きのうてき）な、再帰的（さいきてき）な",
+		"etymology": [
+			"Latin re- + currere (to run)"
+		],
+		"concept": "Self-referencing structure",
+		"thinking": "「後ろを（Re-）」「走る（Currere）」。自分自身の結果を自らの糧として、無限に深淵へと潜り、あるいは高みへと登っていく、円環状の知の運動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "definability",
+		"word": "Definabilit",
+		"meaning": "定義可能性（ていぎかのうせい）",
+		"etymology": [
+			"Latin de- + finis (end/border)"
+		],
+		"concept": "Expressible via formula",
+		"thinking": "その存在に、言葉という名の「境界線（Finis）」を引くことができる。無限の海の中から、特定の個性をきっぱりと「切り出す（Define）」こと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "quantificatio",
+		"word": "Quantificat",
+		"meaning": "量化（りょうか）",
+		"etymology": [
+			"Latin quantus (how much) + facere"
+		],
+		"concept": "Using 'All' or 'Some'",
+		"thinking": "「どれほど（Quantus）」の範囲にその真理が及ぶかを「決める（Facere）」。すべて（∀）か、それとも一部（∃）か。真理の領土を画定する、言葉の統治。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "universal_qu",
+		"word": "Universal",
+		"meaning": "全称（ぜんしょう）の",
+		"etymology": [
+			"Latin unus (one) + vertere (to turn)"
+		],
+		"concept": "Applying to all members",
+		"thinking": "「一つ（Unus）」へと「向ける（Vertere）」。例外を一切許さず、宇宙のあらゆる欠片に同じ一貫した掟を課す、峻厳な普遍の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "existential_",
+		"word": "Existential",
+		"meaning": "存在（そんざい）の、存在命題（そんざいめいだい）",
+		"etymology": [
+			"Latin ex- (out) + sistere (to stand)"
+		],
+		"concept": "At least one exists",
+		"thinking": "「外へ（Ex-）」「立ち現れる（Sistere）」。どこかに必ず、たった一人でもいい、その条件を満たす者が「そこに在る」ということの、微かな、しかし力強い希望。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "substitution_l",
+		"word": "Substitutio",
+		"meaning": "代入（だいにゅう） (Logic)",
+		"etymology": [
+			"Latin sub- + statuere (to set up)"
+		],
+		"concept": "Replacing variables",
+		"thinking": "抽象的な変数（空席）の「下に（Sub-）」、具体的な誰かを「据え置く（Statuere）」。空虚な式に、現実という名の重みを与える儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "implication_v",
+		"word": "Implication",
+		"meaning": "含意（がんい）、ならば",
+		"etymology": [
+			"Latin in- + plicare (to fold)"
+		],
+		"concept": "If-then relation",
+		"thinking": "「内側（In-）」に「畳み込まれた（Plicare）」真実。Aが在れば、そこには必然的にBが眠っている。一見無関係な二つの事象を、運命の鎖（必然）で繋ぎ合わせる、論理の折り畳み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "well_founded",
+		"word": "Well-founde",
+		"meaning": "整礎的（せいそてき）な、基礎（きそ）のある",
+		"etymology": [
+			"Well + Foundation"
+		],
+		"concept": "No infinite descending chain",
+		"thinking": "底なし沼ではない。遡っていけば、必ず「最初の一歩（基礎）」へと辿り着ける、規律正しい宇宙。無限の入れ子構造を拒絶する、理性の砦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "well_ordered",
+		"word": "Well-ordere",
+		"meaning": "整列（せいれつ）された",
+		"etymology": [
+			"Well + Order"
+		],
+		"concept": "Total order with least element",
+		"thinking": "あらゆる混迷した集まりの中に、「最小（最初）」の一粒を必ず見出せる、峻厳な秩序。誰もが自分の順位を知り、一列に並んで真理へと繋がる、美しい整列。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "cardinality_v",
+		"word": "Cardinality",
+		"meaning": "濃度（のうど）、基数（きすう）",
+		"etymology": [
+			"Latin cardo (hinge/pivot)"
+		],
+		"concept": "Size of a set",
+		"thinking": "集合の「大きさ」の本質。単なる個数ではなく、その世界がいかなる「重み（Cardo）」を持って宇宙を支えているか。無限という名の深淵に、さらに深い『階層』を見出すための指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "ordinal_num_a",
+		"word": "Ordinal Num",
+		"meaning": "順序数（じゅんじょすう）",
+		"etymology": [
+			"Latin ordo (row/order)"
+		],
+		"concept": "Position in sequence",
+		"thinking": "「何番目（Ordo）」であるか。終わりのない無限を越えた先にある、さらなる『続き』。時間の外側にまで秩序を拡張しようとする、知性の不敵な歩み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "transfinite_",
+		"word": "Transfinite",
+		"meaning": "超限的（ちょうげんてき）な",
+		"etymology": [
+			"Latin trans- (across) + finis (end/border)"
+		],
+		"concept": "Beyond finite",
+		"thinking": "「境界（Finis）」を「越えて（Trans-）」。一、二、三……無限、そのさらに先へと。私たちの直感という檻を壊し、神の視点に肉薄する無限のそのまた向こう側。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "continuum_ad",
+		"word": "Continuum",
+		"meaning": "連続体（れんぞくたい）",
+		"etymology": [
+			"Latin con- + tenere (to hold together)"
+		],
+		"concept": "Infinite density",
+		"thinking": "「共に（Con-）」「保ち続ける（Tenere）」。一粒一粒に分かたれることなく、どこまでも滑らかに、どこまでも密に繋がっている世界。一瞬の隙間もない、永遠の連なりの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "axiom_choic_a",
+		"word": "Ax Choice",
+		"meaning": "選択（せんたく）公理（こうり）",
+		"etymology": [
+			"Greek axios (worthy) + Choice"
+		],
+		"concept": "Picking one from infinitely many set",
+		"thinking": "無限の袋が無限に並んでいても、その中から「一つずつ選ぶ」ことができるという、理不尽にさえ思える自由。論理という名の荒野を旅するための、危険で力強い杖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "zfc_logic_ad",
+		"word": "ZFC (Set)",
+		"meaning": "ツェルメロ・フレンケル集合論",
+		"etymology": [
+			"Zermelo-Fraenkel + Choice"
+		],
+		"concept": "Standard axioms for math",
+		"thinking": "あらゆる数学の「貌（真理）」をその背後で支える、究極の土台。九つの掟。この峻厳な掟から、銀河の軌道も一粒の砂の重さも、すべてが解き放たれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "paradox_russ",
+		"word": "Russ Paradox",
+		"meaning": "ラッセルの逆説（ぎゃくせつ）",
+		"etymology": [
+			"Russell",
+			"Greek para- (contrary) + doxa (opinion)"
+		],
+		"concept": "Self-referencing set error",
+		"thinking": "「自分自身を含まないすべての集まり」は、自分自身を含むのか。理性の刃が、自分自身を切り裂いてしまう痛恨の矛盾。知の構築における、最も美しく、最も恐ろしい壊れ方の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "godel_incomp",
+		"word": "Incompleten",
+		"meaning": "不完全性定理（ふかんぜんせいていり）",
+		"etymology": [
+			"In- + Completeness"
+		],
+		"concept": "Limits of formal systems",
+		"thinking": "「正しいことは証明できる」という傲慢な夢が、理性の手によって自ら打ち砕かれた瞬間。いかに精密な論理の檻（システム）を作っても、そこから永遠に「はみ出す真実」が残るという、知性の誇り高き敗北。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "meta_languag",
+		"word": "Meta-Langua",
+		"meaning": "メタ言語（げんご）",
+		"etymology": [
+			"Greek meta- (beyond) + Language"
+		],
+		"concept": "Language about language",
+		"thinking": "言葉を「越えた（Meta-）」言葉。魚を数えるのではなく、数えるという行為そのものを論ずる。地上の喧騒を雲の上から俯瞰する、冷徹で静謐な視座の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "object_langu",
+		"word": "Object Lang",
+		"meaning": "対象言語（たいしょうげんご）",
+		"etymology": [
+			"Latin ob- + jacere (to throw) + Language"
+		],
+		"concept": "Language being studied",
+		"thinking": "分析の「標的（Object）」として「投げ出された（Jacere）」言葉。解剖台の上で、その構造を白日の下に晒される、静止した記号の欠片たち。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "formalism_ad",
+		"word": "Formalism",
+		"meaning": "形式主義（けいしきしゅぎ） (論理)",
+		"etymology": [
+			"Latin forma (shape)"
+		],
+		"concept": "Math as symbol game",
+		"thinking": "数学とは、中身のない記号たちを「貌（Form）」の掟に従って動かす「遊戯」に過ぎない。意味を捨て、形（操作）のみを追求することで辿り着く、無機質で純粋な真理の宮殿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "constructivi",
+		"word": "Constructiv",
+		"meaning": "構成主義（こうせいしゅぎ） (論理)",
+		"etymology": [
+			"Latin con- + struere"
+		],
+		"concept": "Existence via construction",
+		"thinking": "「そこに在る」と言うなら、その「作り方（Struere）」を見せろ。幽霊のような存在証明を許さず、具現化された事実のみを積み上げる、徹底した実証の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "law_excl_mid",
+		"word": "Excl Middle",
+		"meaning": "排中律（はいちゅうりつ）",
+		"etymology": [
+			"Excluded Middle"
+		],
+		"concept": "A or Not A",
+		"thinking": "「真」か「偽」か。その「中間（Middle）」を「締め出す（Exclude）」。世界を二つに断ち切り、曖昧さを許さない、論理学という名の最も鋭利な斧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "fuzzy_logic_",
+		"word": "Fuzzy Logic",
+		"meaning": "ファジィ論理（ろんり）",
+		"etymology": [
+			"Fuzzy (blurred/fluffy)"
+		],
+		"concept": "Degrees of truth",
+		"thinking": "「真」と「偽」のあわいにある、ぼやけた（Fuzzy）グラデーション。0.7だけ正しい。白と黒の間に無限の灰色を見出し、曖昧な現実をそのまま数理の網に捉えようとする、しなやかな理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "modal_logic_",
+		"word": "Modal Logic",
+		"meaning": "様相論理（ようそうろんり）",
+		"etymology": [
+			"Latin modus (manner/mode)"
+		],
+		"concept": "Necessary and possible",
+		"thinking": "「必然」か「可能」か。真理の「貌（モード）」を問う。この世界だけでなく、あり得たかもしれないすべての「可能世界」を股に掛け、真理がいかなる強さで支配しているかを測る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
+	},
+	{
+		"id": "possible_wor",
+		"word": "Poss Worlds",
+		"meaning": "可能世界（かのうせかい）",
+		"etymology": [
+			"Possible + World"
+		],
+		"original_statement": "Alternative realities for logic.",
+		"concept": "The infinite library of existence",
+		"thinking": "「あり得たかもしれない（Possible）」無数の「宇宙（World）」。私たちの住むこの世界は、その膨大な棚の中の一冊に過ぎない。論理という名のペンで、まだ見ぬ世界をすべて記述しようとする不敵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理の深淵を、記号の檻で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"論理学とモデル理論の極致へ。"
+			]
+		},
+		"example": "Model theory studies the relationship between languages and their interpretations."
 	}
 ];
