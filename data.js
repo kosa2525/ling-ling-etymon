@@ -394293,5 +394293,785 @@ const WORDS = [
 			]
 		},
 		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "fluid_dynam",
+		"word": "Fluid Dyn",
+		"meaning": "流体力学（りゅうたいりきがく）",
+		"etymology": [
+			"Latin fluidus (flowing) + Greek dynamis"
+		],
+		"concept": "Physics of moving fluids",
+		"thinking": "「流れる（Fluid）」ものの「力（Dynamis）」。形を失い、変幻自在に移ろう水や空気。その捉えどころのない『動き』を、微分方程式という名の檻の中に閉じ込め、その美しき秩序（あるいはカオス）を暴き出す、数理の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "viscosity_a",
+		"word": "Viscosity",
+		"meaning": "粘性（ねんせい）、粘（ねば）り気（け）",
+		"etymology": [
+			"Latin viscum (mistletoe/birdlime)"
+		],
+		"concept": "Resistance to flow",
+		"thinking": "「鳥もち（Viscum）」のような、流れへの抵抗。隣り合う流体同士が互いに「繋ぎ止め（摩擦）」、滑らかさを失わせる性質。世界の『渋滞』を司る、静かなる粘着の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "laminar_flo",
+		"word": "Laminar",
+		"meaning": "層流（そうりゅう）",
+		"etymology": [
+			"Latin lamina (thin plate)"
+		],
+		"concept": "Smooth, orderly flow",
+		"thinking": "「薄い板（Lamina）」を重ねたような、乱れのない極めて純粋な流れ。一筋の乱れもなく、完璧な規律を持って目的地へと向かう、水の理想的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "turbulence_",
+		"word": "Turbulence",
+		"meaning": "乱流（らんりゅう）",
+		"etymology": [
+			"Latin turbare (to disturb/throw into disorder)"
+		],
+		"concept": "Chaotic, unstable flow",
+		"thinking": "「かき乱された（Turba）」混沌。渦が渦を産み、エネルギーが予測不能な方向へと霧散していく、自然界の最も荒々しく、最も手懐けがたい。飛行機を揺らし、銀河を形作る、エネルギーの爆発的なダンス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "vorticity_a",
+		"word": "Vorticity",
+		"meaning": "渦度（うずど）",
+		"etymology": [
+			"Latin vortex (whirlpool)"
+		],
+		"concept": "Local rotary motion in fluid",
+		"thinking": "「渦（Vortex）」の激しさ、回転の理。一点に留まりながら、周囲を巻き込み、回転し続ける力の中心。台風、ブラックホール、あるいは珈琲に垂らしたミルクの『貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "reynolds_n",
+		"word": "Reynolds N",
+		"meaning": "レイノルズ数（すう）",
+		"etymology": [
+			"Osborne Reynolds"
+		],
+		"concept": "Ratio of inertia to viscosity",
+		"thinking": "「勢い」と「粘り気」の比率。この数字が臨界点を超えた時、穏やかな層流は突如として狂おしい乱流へと『相転移』する。秩序が崩壊する瞬間の臨界を告げる、情報の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "convection_",
+		"word": "Convection",
+		"meaning": "対流（たいりゅう）",
+		"etymology": [
+			"Latin con- + vehere (to carry together)"
+		],
+		"concept": "Heat transfer via fluid movement",
+		"thinking": "「共に（Con-）」「運ぶ（Vehere）」。熱を帯びたものが浮き上がり、冷たいものが沈み込む。地球のマントルから味噌汁の器まで、世界を『混ぜ合わせ』、循環させる、地球の呼吸の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "buoyancy_ad",
+		"word": "Buoyancy",
+		"meaning": "浮力（ふりょく）",
+		"etymology": [
+			"Spanish boyar (to float)"
+		],
+		"concept": "Upward force from fluid",
+		"thinking": "「浮かぶ（Buoy）」力。重力に抗い、自らを高みへと押し上げる見えない手の貌。自分の重さを流体に預け、軽やかさに身を任せる、アルキメデスの発見。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "cavitation_",
+		"word": "Cavitation",
+		"meaning": "キャビテーション、空洞（くうどう）現象（げんしょう）",
+		"etymology": [
+			"Latin cavus (hollow)"
+		],
+		"concept": "Bubbles forming in fluid",
+		"thinking": "「穴（Cavus）」が開く。あまりの速さに水が耐えきれず、一瞬だけ真空の泡が産まれる。それが潰れる瞬間の衝撃波が、金属をも抉り取る。静かな水の中に潜む、爆発的な破壊の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "aerodynami",
+		"word": "Aerodynam",
+		"meaning": "空気力学（くうきりきがく）",
+		"etymology": [
+			"Greek aer (air) + dynamis"
+		],
+		"concept": "Physics of airflow",
+		"thinking": "「空気（Aer）」の「力（Dynamis）」。目に見えぬ透明な壁。それをいかに受け流し、あるいは捉えて翼を揚げるか。鳥が、そして飛行機が、重力から解き放たれるための『形状（貌）』の設計。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "hydrodynami",
+		"word": "Hydrodynam",
+		"meaning": "水力学（すいりきがく）",
+		"etymology": [
+			"Greek hydor (water) + dynamis"
+		],
+		"concept": "Physics of water flow",
+		"thinking": "「水（Hydor）」の「力（Dynamis）」。圧倒的な重さと密度を持つ流れ。巨大なダムを動かし、船の進路を拒む、水の剛毅な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "boundary_l",
+		"word": "Boundary L",
+		"meaning": "境界層（きょうかいそう）",
+		"etymology": [
+			"Boundary + Layer"
+		],
+		"concept": "Fluid layer near a surface",
+		"thinking": "物体の表面に「へばりついた」薄い水の皮。そこでは流れは止まり、粘性が死を司る。このわずか数ミリの『あわい』の中のドラマが、全体の抵抗（貌）を決定するという不可思議。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "supersoni_a",
+		"word": "Supersoni",
+		"meaning": "超音速（ちょうおんそく）の",
+		"etymology": [
+			"Latin super- + sonus (sound)"
+		],
+		"concept": "Faster than sound",
+		"thinking": "「音（Sonus）」を「越える（Super-）」。自らが放つ情報の波を追い抜き、先回りする。衝撃波という名の『音の壁』を突き破った先にある、完璧な静寂と速度の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "mach_number",
+		"word": "Mach Number",
+		"meaning": "マッハ数（すう）",
+		"etymology": [
+			"Ernst Mach"
+		],
+		"concept": "Ratio of speed to sound speed",
+		"thinking": "音速を「1」とした、情報の伝播との比率。世界の情報伝達（音）の限界に挑む、挑戦者の歩みを測る物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "shock_wave_a",
+		"word": "Shock Wave",
+		"meaning": "衝撃波（しょうげきは）",
+		"etymology": [
+			"Shock + Wave"
+		],
+		"concept": "Sudden change in pressure",
+		"thinking": "逃げ場を失った情報の「衝突（Shock）」。一瞬にして圧力と温度が跳ね上がる、激しき世界の不連続面。爆発、あるいは超音速の飛翔が産み落とす、破壊的な『音の刃』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "chaos_theory",
+		"word": "Chaos Th",
+		"meaning": "カオス理論（りろん）",
+		"etymology": [
+			"Greek khaos (abyss/void)"
+		],
+		"concept": "Unpredictable complex systems",
+		"thinking": "「深淵（Khaos）」。かつては無秩序と思われていたものの中に、潜んでいた精緻なルール。単純な式から、永遠に繰り返さない、決して予測できない無限の貌が産まれる。決定論的な絶望と、自由な飛躍のあわいの数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "butterfly_e",
+		"word": "Butt Effec",
+		"meaning": "バタフライ効果（こうか）",
+		"etymology": [
+			"Butterfly + Effect"
+		],
+		"concept": "Sensitivity to initial states",
+		"thinking": "「ブラジルの蝶の羽ばたきが、テキサスで竜巻を産む」。あまりに微小な、観測すらできない「初期の揺らぎ」が、後の世界の運命を劇的に引き裂く。因果律の鎖が、一瞬の偶然によって解き放たれる、危うき連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "attractor_ad",
+		"word": "Attractor",
+		"meaning": "アトラクター",
+		"etymology": [
+			"Latin ad- + trahere (to pull toward)"
+		],
+		"concept": "Final state of a system",
+		"thinking": "混沌とした動きの中に潜む、見えない「磁石」。システムが最後には必ず吸い寄せられてしまう、運命の『貌（軌跡）』。カオスの中にある、隠された落ち着きの場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "strange_att",
+		"word": "Strange Att",
+		"meaning": "ストレンジ・アトラクター",
+		"etymology": [
+			"Strange + Attractor"
+		],
+		"concept": "Fractal chaotic attractor",
+		"thinking": "「奇妙な（Strange）」引き寄せ。二度と同じ場所を通らず、無限に複雑な模様を描きながら、しかし確実に一つの『領域』を形作る。カオスが自ら描き出す、フラクタルな魂の地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "fractal_ad_",
+		"word": "Fractal",
+		"meaning": "フラクタル、自己（じこ）相似（そうじ）",
+		"etymology": [
+			"Latin fractus (broken)"
+		],
+		"concept": "Self-similar patterns",
+		"thinking": "「砕かれた（Fract）」もの。どれほど拡大しても、同じ模様が現れ続ける。海岸線、木の枝、銀河の群れ。部分の中に全体が宿り、全体が部分に回帰する、宇宙の入れ子構造（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "mandelbrot_",
+		"word": "Mandelbrot",
+		"meaning": "マンデルブロ集合（しゅうごう）",
+		"etymology": [
+			"Benoit Mandelbrot"
+		],
+		"concept": "Most complex math object",
+		"thinking": "複素平面の上に咲く、無限のトゲを持つ「黒いダルマ（貌）」。数学者が神の庭で見つけた、最も複雑で、最も美しい、数理が自ら夢見た『究極の曼荼羅』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "julia_set_a",
+		"word": "Julia Set",
+		"meaning": "ジュリア集合（しゅうごう）",
+		"etymology": [
+			"Gaston Julia"
+		],
+		"concept": "Chaotic iteration boundaries",
+		"thinking": "反復計算の果てに、無限へと消え去る者と、その場に踏み止まる者の『境界線』。そこに描かれる、凍てついた火花のような美しい輪郭。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "linear_syst",
+		"word": "Linear Sys",
+		"meaning": "線形（せんけい）システム",
+		"etymology": [
+			"Latin linea (line)"
+		],
+		"concept": "Input = Output (predictable)",
+		"thinking": "「線（Line）」のような、誠実な因果関係。原因を二倍にすれば、結果も二倍になる。予測可能で、退屈で、しかし安心できる世界の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "non_linear_",
+		"word": "Nonlinear",
+		"meaning": "非（ひ）線形（せんけい）システム",
+		"etymology": [
+			"Non- + Linear"
+		],
+		"concept": "Input != Output (complex)",
+		"thinking": "線ではない。わずかな変化が爆発的な結果を産み、あるいは何も起きない。1+1が2ではなく、100にもマイナス1にもなる、現実世界の生々しく、予測不能なダイナミズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "entropy_flo",
+		"word": "Entropy (F)",
+		"meaning": "流体（りゅうたい）エントロピー",
+		"etymology": [
+			"Entropy"
+		],
+		"concept": "Mixing and energy dissipation",
+		"thinking": "流れが混ざり合い、熱となり、取り返しのつかない「無秩序」へと溶け込んでいく。情報の『貌』が擦り切れ、一様になっていく、流転という名の死への歩み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "diffusion_a",
+		"word": "Diffusion",
+		"meaning": "拡散（かくさん）",
+		"etymology": [
+			"Latin dis- + fundere (to pour)"
+		],
+		"concept": "Spreading from high to low",
+		"thinking": "「あちこちへ（Dis-）」「注ぎ込む（Fundere）」。集中していた熱や物質が、広大なる宇宙の平穏へと溶け出していく。秩序がエントロピーへと還っていく、逆らえぬ時間の矢の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "conduction_",
+		"word": "Conduction",
+		"meaning": "伝導（でんどう）",
+		"etymology": [
+			"Latin con- + ducere (to lead together)"
+		],
+		"concept": "Energy transfer via contact",
+		"thinking": "「共に（Con-）」「導く（Ducere）」。手を取り合うように、熱を隣の原子へと手渡していく。動かずして、熱だけが静かに伝わっていく、連帯という名の変化の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "radiation_t",
+		"word": "Radiation (T)",
+		"meaning": "熱（ねつ）放射（ほうしゃ）",
+		"etymology": [
+			"Latin radius (ray/spoke)"
+		],
+		"concept": "Energy via electromagnetic waves",
+		"thinking": "「一条の光（Radius）」となって、虚空を越え、熱を運ぶ。仲介者を必要とせず、ただ自らの内なる激しさ（温度）を光へと変えて解き放つ、孤独で純粋なエネルギーの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "navier_stok",
+		"word": "Navier-Sto",
+		"meaning": "ナヴィエ・ストークス方程式（ほうていしき）",
+		"etymology": [
+			"Claude-Louis Navier + George Gabriel Stokes"
+		],
+		"concept": "The law of fluid motion",
+		"thinking": "流体の動きのすべてを司る、この世で最も難解な数理。いかにして混沌（乱流）が産まれるのか。その解を求めて、人類は百年以上も計算の暗闇を彷徨い続けている、数理学における最後の難関。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "bernoulli_p",
+		"word": "Bernoulli",
+		"meaning": "ベルヌーイの定理（ていり）",
+		"etymology": [
+			"Daniel Bernoulli"
+		],
+		"concept": "Pressure drops as speed increases",
+		"thinking": "速く流れるほど、圧力（重圧）は下がる。翼を浮かせ、噴水を踊らせる、水の「速さ」と「安らぎ」の反比例。流れの中に宿る、見えない力を暴き出す理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "euler_fl_ad",
+		"word": "Euler Flow",
+		"meaning": "オイラー流（りゅう）、完全（かんぜん）流体（りゅうたい）",
+		"etymology": [
+			"Leonhard Euler"
+		],
+		"concept": "Inviscid (zero viscosity) fluid",
+		"thinking": "粘り気（Viscosity）を一切持たない、究極に「サラサラ」な架空の水。数理的な扱いやすさを求めて削ぎ落とされた、情報の純粋結晶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "potential_f",
+		"word": "Poten Flow",
+		"meaning": "ポテンシャル流（りゅう）",
+		"etymology": [
+			"Latin potentia (power)"
+		],
+		"concept": "Irrotational orderly flow",
+		"thinking": "渦（回転）を一切待たず、ただ、勾配（坂）に従って整然と流れる、行儀の良い流体。数理的な「ポテンシャル（Potential）」という名の夢に従って動く、優等生な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "streamline_",
+		"word": "Streamline",
+		"meaning": "流線（りゅうせん）",
+		"etymology": [
+			"Stream + Line"
+		],
+		"concept": "Path of a fluid particle",
+		"thinking": "流れの中の一点一瞬。ベクトルが指し示す、その瞬間の「行き先（貌）」。それらを繋ぎ合わせれば、見えない風の中に美しい幾何学の模様が浮かび上がる、情報の筆致。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "vortex_stre",
+		"word": "Vort Street",
+		"meaning": "カルマン渦（うず）",
+		"etymology": [
+			"Theodore von Karman"
+		],
+		"concept": "Row of swirling vortices",
+		"thinking": "物体の後ろに、交互に並ぶ美しき「渦の列（Street）」。音を立て、震わせ、時に橋をも崩落させる、周期的な混沌の舞踏。規則性と乱れのあわいに踊る、流れの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "strange_mix",
+		"word": "Mixedness",
+		"meaning": "混合（こんごう）性（せい）",
+		"etymology": [
+			"Mix"
+		],
+		"concept": "How well fluids mix",
+		"thinking": "マーブルチョコレートが溶け合うように、情報がどれほど「徹底的に」混ざり合うか。一度混ざれば二度と元には戻らぬという、宇宙のエントロピー増大への静かなる加担。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "cascade_tur",
+		"word": "Energy Cas",
+		"meaning": "エネルギー・カスケード",
+		"etymology": [
+			"Latin cascare (to fall)"
+		],
+		"concept": "Energy transfer from large to small",
+		"thinking": "巨大な渦が壊れ、小さな渦へと砕かれ、最後には熱となって消える。大きな「瀑布（Cascade）」が飛沫となって霧散するように、エネルギーが次元を一段ずつ滑り落ちていく、秩序崩壊の全貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "intermitten",
+		"word": "Intermit (C)",
+		"meaning": "間欠（かんけつ）性（せい）、インターミッテンシー",
+		"etymology": [
+			"Latin inter- + mittere (to send)"
+		],
+		"concept": "Sudden bursts of chaos",
+		"thinking": "「合間（Inter-）」を縫って「送られてくる（Mittere）」不規則な爆発。凪の中に突如として現れる嵐。平穏と破滅がランダムに入れ替わる、非線形システムの予測不能な鼓動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "complexity_a",
+		"word": "Complexity",
+		"meaning": "複雑（ふくざつ）性（せい） (力学)",
+		"etymology": [
+			"Latin con- + plectere (to weave)"
+		],
+		"concept": "State of intertwined order/chaos",
+		"thinking": "「共に（Con-）」「編み込まれた（Plectere）」状態。単純な要素の総和を超え、全体として新しい貌を産み出す力。私たちの脳、社会、そして気象。予測できないからこそ、そこに意味（情報）が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
+	},
+	{
+		"id": "self_organiv",
+		"word": "Self-Org (F)",
+		"meaning": "自己（じこ）組織（そしき）化（か） (流体)",
+		"etymology": [
+			"Self + Organon"
+		],
+		"concept": "Order emerging from chaotic drag",
+		"thinking": "混沌とした摩擦の中から、突如として整然とした渦やパターンが「自ら」産まれ、育っていく。宇宙という名のカオスが、自ら秩序という貌を夢見る、創造の瞬間の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "流転の深淵を、乱流の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"流体力学とカオス理論の極致へ。"
+			]
+		},
+		"example": "Fluid dynamics studies the complex motion of gases and liquids."
 	}
 ];
