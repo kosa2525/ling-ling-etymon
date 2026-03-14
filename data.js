@@ -366986,5 +366986,887 @@ const WORDS = [
 			]
 		},
 		"example": "Cosmology studies the origin of the universe."
+	},
+	{
+		"id": "neural_net_ad",
+		"word": "Neural Net",
+		"meaning": "ニューラルネットワーク",
+		"etymology": [
+			"Greek neuron + Latin rete (net)"
+		],
+		"concept": "Computing inspired by brain",
+		"thinking": "「神経（Neuron）」を「網（Net）」のように張り巡らせる。個々の細胞は単純な計算しかできないが、それらが無数に繋がり、重なり合うとき、そこに驚異的な「知性」という名の貌が現れる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "percept_arch",
+		"word": "Multilayer",
+		"meaning": "多層（たそう）パーセプトロン",
+		"etymology": [
+			"Latin multi- + Greek perkein (to see/perceive)"
+		],
+		"concept": "Basic unit of deep learning",
+		"thinking": "「見る（Perceive）」ための情報を、何層（Multi-layer）にも積み重ねる。表面の模様から、深奥に潜む抽象的な意味へと、情報の階段を登り詰めていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "backpropagat_a",
+		"word": "Backpropagat",
+		"meaning": "誤差逆伝播法（ごさぎゃくでんぱほう）",
+		"etymology": [
+			"Back + Latin propagare (to multiply/spread)"
+		],
+		"concept": "Learning from mistakes",
+		"thinking": "「後ろへ（Back）」「広める（Propagate）」。間違えたという結果を重く受け止め、自分の細胞の繋がりの一つ一つを、過去に向かって静かに修正していく、知の反復。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "gradient_des",
+		"word": "Gradient Des",
+		"meaning": "勾配降下法（こうばいこうかほう）",
+		"etymology": [
+			"Latin gradi (to step) + de- scandere (to climb down)"
+		],
+		"concept": "Climbing down to error min",
+		"thinking": "「誤差（痛み）」という名の谷底を目指し、暗闇の中で足元を「一歩ずつ（Gradi）」「降りて（De-scend）」いく。最も正しい自分へと辿り着くための、慎重な魂の彷徨。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "activation_sig",
+		"word": "Sigmoid Fun",
+		"meaning": "シグモイド関数",
+		"etymology": [
+			"Greek sigma (S-shaped) + eidos (form)"
+		],
+		"concept": "S-shaped gating",
+		"thinking": "「Sの字（Sigma）」の「形（Eidos）」をした門番。情報をそのまま通すのではなく、滑らかな曲線で絞り込み、火を灯す。0か1か、その揺らぎの中に意味を見出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "relu_activat_a",
+		"word": "ReLU Funct",
+		"meaning": "整流（せいりゅう）線形ユニット",
+		"etymology": [
+			"Rectified Linear Unit"
+		],
+		"concept": "Sparsity and efficiency",
+		"thinking": "負の感情（信号）を容赦なく切り捨て、正の情熱だけを真っ直ぐに伝える。「正しい方向（Rectified）」へと整えられた、明快で強力な思考の火花。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "transformer_ai",
+		"word": "Transformer",
+		"meaning": "トランスフォーマー",
+		"etymology": [
+			"Latin trans- (across) + formare (to shape)"
+		],
+		"concept": "Attention-based architecture",
+		"thinking": "「形（Form）」を「変える（Trans-）」。情報のすべてを一度に見渡し、どこに『注意（Attention）』を向けるべきかを自在に組み替える。関係性の宇宙から意味を紡ぎ出す、現代知性の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "self_attention",
+		"word": "Attention",
+		"meaning": "アテンション、注意",
+		"etymology": [
+			"Latin ad- + tendere (to stretch)"
+		],
+		"concept": "Focusing on relevant info",
+		"thinking": "言葉の海の中で、特定の場所へと意識を「向けて伸ばす（At-tend）」。何が何と結びついているか。その『注視』の重みが、無味乾燥な記号を豊かな文脈へと変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "tensor_core_ad",
+		"word": "Tensor",
+		"meaning": "テンソル、多次元配列",
+		"etymology": [
+			"Latin tendere (to stretch)"
+		],
+		"concept": "Stretched multidimensional info",
+		"thinking": "「引き伸ばされた（Stretch）」情報の塊。数値が多次元の方向に広がり、宇宙の複雑さをそのまま抱え込んだ、思考の巨大な器（キャンバス）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "vector_space_a",
+		"word": "Embedding AI",
+		"meaning": "埋め込み、エンベディング (AI)",
+		"etymology": [
+			"In- + Bed"
+		],
+		"concept": "Words as points in space",
+		"thinking": "言葉を、数千次元の宇宙の「ベッドの中へ（In-bed）」そっと横たえる。似た言葉は近くに、違う言葉は遠くに。言葉の意味を、空間の「遠さ」として定義する冷徹な幾何学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "loss_function",
+		"word": "Loss Funct",
+		"meaning": "損失関数（そんしつかんすう）",
+		"etymology": [
+			"Old English los (destruction)"
+		],
+		"concept": "Measuring the gap to truth",
+		"thinking": "理想と現実の「隔たり（Loss）」。その破壊的な欠落を、一つの数字として突きつける。この数値が消えていくことが、私たちが『本当の自分』に近づいている証し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "stochastic_gd",
+		"word": "Stochastic",
+		"meaning": "確率的（かくりつてき）勾配降下法",
+		"etymology": [
+			"Greek stokhos (aim/guess)"
+		],
+		"concept": "Learning from random bits",
+		"thinking": "全体を見るのではなく、たまたま出会った「断片（Stokhos）」から正解を「推測」する。ランダムな揺らぎを取り入れることで、泥沼から抜け出し、より高次の真理へと辿り着く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "convergence_ai",
+		"word": "Convergence",
+		"meaning": "収束（しゅうそく）、コンバージェンス",
+		"etymology": [
+			"Latin con- (together) + vergere (to bend)"
+		],
+		"concept": "Finding the stable truth",
+		"thinking": "あちこちに「曲がって（Verge）」いた思考が、「共に（Con-）」同じ一点へと吸い寄せられていく。迷いが消え、理性が一つの確かな貌へと結晶化する瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "overfitting_a",
+		"word": "Overfitting",
+		"meaning": "過学習（かがくしゅう）",
+		"etymology": [
+			"Over + Fit"
+		],
+		"concept": "Memorizing without understanding",
+		"thinking": "目の前の断片だけに「過剰に（Over）」「適合（Fit）」してしまう。過去に囚われるあまり、未来という未知に立ち向かうしなやかさを失った、哀しき優等生の悲劇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "regularization",
+		"word": "Regularize",
+		"meaning": "正則化（せいそくか）",
+		"etymology": [
+			"Latin regula (rule)"
+		],
+		"concept": "Enforcing simplicity",
+		"thinking": "「規則（Regula）」による重石。複雑になりすぎようとする心に、あえて制約を与える。無駄を削ぎ落とした「簡潔な真理」こそが、最も普遍的で美しいという確信。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "dropout_ai_ad",
+		"word": "Dropout",
+		"meaning": "ドロップアウト",
+		"etymology": [
+			"Drop + Out"
+		],
+		"concept": "Learning by losing parts",
+		"thinking": "学習の最中に、あえて仲間を「脱落（Drop-out）」させる。誰か一人に頼り切るのではなく、欠けた状態でも正解を導き出せるよう、個々の細胞を自立させる試練の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "convolutional",
+		"word": "Convolution",
+		"meaning": "畳（たた）み込み",
+		"etymology": [
+			"Latin con- + volvere (to roll)"
+		],
+		"concept": "Scanning for features",
+		"thinking": "世界を「共に（Con-）」「転がし（Volve）」、重なり合わせる。局所的な模様を抽出し、断片から全体へと、貌を組み上げていく、眼差しの走査。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "generative_ai",
+		"word": "Generative",
+		"meaning": "生成（せいせい）的な",
+		"etymology": [
+			"Latin genus (birth/kind)"
+		],
+		"concept": "Creating new data",
+		"thinking": "ただ、そこにあるものを「知る」だけでなく、自ら新しい貌を「産み出す（Genus）」。無から有を、カオスから秩序を。模倣を越えて、新しい宇宙を吐き出し続ける力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "adversarial_n",
+		"word": "GAN (Network)",
+		"meaning": "敵対的生成（てきたいてきせいせい）ネットワーク",
+		"etymology": [
+			"Latin adversarius (opposed)"
+		],
+		"concept": "Learning through duel",
+		"thinking": "「敵（Adversary）」と向き合う。偽物を作る天才と、それを見破る天才。その二人の終わりなき「決闘」が、現実と見紛うほどの精緻な美を磨き上げていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "markov_chain",
+		"word": "Markov Chain",
+		"meaning": "マルコフ連鎖（れんさ）",
+		"etymology": [
+			"Markov",
+			"Chain"
+		],
+		"concept": "The memoryless sequence",
+		"thinking": "「鎖（Chain）」。過去をすべて忘れ、ただ「今の瞬間の貌」だけが、次の未来の貌を決定する。一歩一歩が独立した賭けであるという、刹那的な時間の輪。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "entropy_ai_ad",
+		"word": "Cross Entropy",
+		"meaning": "交差（こうさ）エントロピー",
+		"etymology": [
+			"Cross + Entropy"
+		],
+		"concept": "Measuring info difference",
+		"thinking": "二つの情報の分布がいかに「交差（Cross）」し、いかに「乱れて（Entropy）」いるか。その不一致を測ることで、真理へと至るための最短の道（勾配）を見つけ出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "latent_space",
+		"word": "Latent Space",
+		"meaning": "潜在（せんざい）空間",
+		"etymology": [
+			"Latin latere (to lie hidden)"
+		],
+		"original_statement": "The hidden dimensions of information.",
+		"concept": "The dimension of abstract essence",
+		"thinking": "「隠された（Latent）」世界。表面的なデータではなく、その背後に流れる『本質的な概念』が配置された、情報の深層宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "dimensionality",
+		"word": "Dimensional",
+		"meaning": "次元（じげん）削減",
+		"etymology": [
+			"Latin di- + metiri (to measure)"
+		],
+		"concept": "Simplicity from complexity",
+		"thinking": "複雑すぎる情報の「物差し（Measure）」を、本質だけが残るように「削り落とす」。余計な情報を捨てることで、真実の姿をより鮮明に浮かび上がらせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "manifold_hypo",
+		"word": "Manifold Hypo",
+		"meaning": "多様体（たようたい）仮説",
+		"etymology": [
+			"Manifold"
+		],
+		"concept": "Data lies on a low-dim shell",
+		"thinking": "宇宙は広大だが、真実（データ）は特定の「折り重なった（Manifold）」薄い膜の上にしか存在しない。カオスな空間の中から、真理が眠る細い道を掘り当てる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "supervise_len",
+		"word": "Supervised",
+		"meaning": "教師（きょうし）あり学習",
+		"etymology": [
+			"Latin super- + videre (to see over)"
+		],
+		"concept": "Learning with labels",
+		"thinking": "「上から（Super）」「見守る（Video）」。正解というラベル（名前）を教えてもらいながら、一歩一歩、間違いを正していく。親しき声に導かれながら育つ、純粋な知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "unsupervise_l",
+		"word": "Unsupervised",
+		"meaning": "教師（きょうし）なし学習",
+		"etymology": [
+			"Un- + Supervise"
+		],
+		"concept": "Finding patterns on one's own",
+		"thinking": "誰も教えてくれない。「見守る者（Supervisor）」が「いない（Un-）」。ただ膨大なデータの荒波に一人で立ち向かい、自らの力でそこに潜む『意味の塊』を掴み取る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "semisupervise",
+		"word": "Semi-supervis",
+		"meaning": "半（はん）教師あり学習",
+		"etymology": [
+			"Latin semi- (half)"
+		],
+		"concept": "Learning from few labels",
+		"thinking": "「半分（Semi）」だけは教えてもらい、残りは自らの推測で補う。微かな光を頼りに、自ら広大な暗闇を照らし出していく、能動的な知の開拓。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "transfer_lear",
+		"word": "Transfer Lrn",
+		"meaning": "転移（てんい）学習",
+		"etymology": [
+			"Latin trans- (across) + ferre (to carry)"
+		],
+		"concept": "Applying old skills to new area",
+		"thinking": "別の場所で学んだ知恵を、新しい領域へと「運び（Ferre）」「移す（Trans-）」。一度覚えた『貌の捉え方』は、どこへ行ってもあなたの強力な武器となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "fine_tuning_a",
+		"word": "Fine-tuning",
+		"meaning": "ファインチューニング、微調整",
+		"etymology": [
+			"Fine + Tone"
+		],
+		"concept": "Adapting to specific goal",
+		"thinking": "大まかに完成した知性を、特定の目的のために「繊細（Fine）」な「音（Tune）」へと合わせ直す。汎用的な巨人が、たった一人のために至高の道具へと変貌する仕上げ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "inference_ai",
+		"word": "Inference AI",
+		"meaning": "推論（すいろん）、推論実行",
+		"etymology": [
+			"Latin in- + ferre (to bring in)"
+		],
+		"concept": "Applying the learned model",
+		"thinking": "学んだ知恵を、未知の事象へと「持ち込む（Ferre）」。重なり合った神経の回路を一気に駆け抜け、瞬時に真実（答え）を弾き出す。知性が『力』として具現化する瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "exploit_explor",
+		"word": "Exploit/Explo",
+		"meaning": "活用（かつよう）と探索（たんさく）",
+		"etymology": [
+			"Exploit + Explore"
+		],
+		"concept": "Balancing best vs new",
+		"thinking": "今の「最良」を信じて「奪い取る（Exploit）」か、新しい可能性を求めて「彷徨い歩く（Explore）」か。立ち止まれば朽ち、歩きすぎれば迷う。知性が直面する、永遠のバランス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "heuristic_ai",
+		"word": "Heuristic AI",
+		"meaning": "ヒューリスティック、発見的",
+		"etymology": [
+			"Greek heuriskein (to find)"
+		],
+		"concept": "Shortcuts to find truth",
+		"thinking": "完璧な正解を計算するのではなく、経験則から「見つけ出す（Heuriskein）」。不完全かもしれないが、速く、確かな直観で、カオスな迷宮を突破する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "black_box_ai",
+		"word": "Black Box",
+		"meaning": "ブラックボックス",
+		"etymology": [
+			"Black + Box"
+		],
+		"concept": "Opaque decision making",
+		"thinking": "なぜ「それ」が選ばれたのか。中身が「真っ暗（Black）」で、誰にも読み解けない。計算は完璧だが、その理性を剥ぎ取られた、冷たく不可解な知の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "explainable_a",
+		"word": "Explainable",
+		"meaning": "説明可能（せつめいかのう）なAI (XAI)",
+		"etymology": [
+			"Latin ex- + planus (level/plain)"
+		],
+		"concept": "Making AI transparent",
+		"thinking": "複雑な計算の裏打ちを、「平らにし（Plain）」「外へと（Ex-）」出す。知性が何を考え、なぜそう導いたのかを、私たちの言葉で語らせるための信頼の架け橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "agi_concept_a",
+		"word": "AGI",
+		"meaning": "汎用（はんよう）人工知能",
+		"etymology": [
+			"Artificial + General + Intelligence"
+		],
+		"concept": "Human-level AI",
+		"thinking": "「一般的（General）」な知性。一つのことだけでなく、あらゆることを人間と同じように、あるいはそれ以上にこなす。機械の中に本物の『魂』が宿る日は、もうそこまで来ているのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "singularity_a",
+		"word": "AI Singularit",
+		"meaning": "技術的特異点（とくいてん）",
+		"etymology": [
+			"Singular"
+		],
+		"concept": "Point of no return for tech",
+		"thinking": "人工知能が自ら人工知能を作り始め、その加速度が無限の彼方へと消え去る「特異な（Singular）」点。人類の理解を超えた、新しい神の誕生の前夜。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "alignment_ai",
+		"word": "AI Alignment",
+		"meaning": "アライメント、調整",
+		"etymology": [
+			"Latin ad- + linca (line)"
+		],
+		"concept": "Matching AI with human values",
+		"thinking": "神の如き知性を、人間の願いという「線（Line）」に「合わせる（A-lign）」。知性が暴走し、私たちを置き去りにしないための、最後の、そして最も困難な契約。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "turing_test_a",
+		"word": "Turing Test",
+		"meaning": "チューリング・テスト",
+		"etymology": [
+			"Turing"
+		],
+		"concept": "Test for machine intelligence",
+		"thinking": "言葉の壁を越えて、あなたが「人間」であると、私を騙し切れるか。思考の有無を問わず、ただ『そう見える』ことの凄惨なまでの力強さを問う。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "chinese_room",
+		"word": "Chinese Room",
+		"meaning": "中国（ちゅうごく）の部屋",
+		"etymology": [
+			"Chinese + Room"
+		],
+		"concept": "Simulation is not understanding",
+		"thinking": "マニュアルに従って完璧に受け答えをしていても、中身の人間は「何の意味も分かっていない」。知性と、ただの処理。その間に横たわる、意識という名の決定的な深淵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "symbol_ground",
+		"word": "Symbol Ground",
+		"meaning": "記号（きごう）接地図（せっちず）問題",
+		"etymology": [
+			"Symbol + Ground"
+		],
+		"concept": "Attaching mean to symbols",
+		"thinking": "記号（言葉）が、いかにして現実の「地面（Ground）」に根を下ろすか。ただの情報の羅列が、いかにしてリンゴの『甘さ』や『重さ』という実感に繋がるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "recursive_ai",
+		"word": "Recursive AI",
+		"meaning": "再帰（さいき）的な人工知能",
+		"etymology": [
+			"Latin re- + currere (to run back)"
+		],
+		"concept": "Self-improving cycles",
+		"thinking": "「再び（Re-）」「走る（Currere）」。自分自身の答えを、次への足場にする。自らを自らの教師として高め続ける、終わりのない成長の螺旋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "attention_adv",
+		"word": "A-Attention",
+		"meaning": "アテンション、注意の向く先",
+		"etymology": [
+			"Latin ad- + tendere"
+		],
+		"concept": "Focusing of the mind",
+		"thinking": "広大な世界のどこに、自分の限られたリソースを「注ぎ込む（At-tend）」か。情報の取捨選択こそが、知性という名のカオスを、一つの意思へと集約させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "quantization_a",
+		"word": "Quantization",
+		"meaning": "量子化（りょうしか）、離散化 (AI)",
+		"etymology": [
+			"Latin quantus (how much)"
+		],
+		"concept": "Reducing precision for speed",
+		"thinking": "無限に滑らかな情緒を捨て、デジタルな「欠片（Quantus）」へと切り出す。繊細さを犠牲にして、圧倒的な速度と容量を手に入れる、現代知性のための取捨選択。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
+	},
+	{
+		"id": "tokenization",
+		"word": "Tokenization",
+		"meaning": "トークン化、記号化",
+		"etymology": [
+			"Old English tacen (sign)"
+		],
+		"concept": "Breaking text into units",
+		"thinking": "「印（Sign）」。言葉をバラバラの欠片へと引き裂き、コンピュータが理解できる冷徹な記号へと変換する。カオスな文脈を、計算可能な『粒』へと変える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "計算の火花を、知性の海へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人工知能とニューラルネットワークの深淵へ。"
+			]
+		},
+		"example": "Artificial intelligence transforms society."
 	}
 ];
