@@ -360135,5 +360135,878 @@ const WORDS = [
 			]
 		},
 		"example": "The knot was topologically interesting."
+	},
+	{
+		"id": "prime_field_cr",
+		"word": "Prime Field",
+		"meaning": "素体（そたい）",
+		"etymology": [
+			"Prime",
+			"Field"
+		],
+		"concept": "Clock arithmetic for security",
+		"thinking": "素数を法とする、閉じられた計算の世界。何億倍しても、決してその檻（法）を飛び出すことはない。暗号という名の迷宮を築くための、不壊のレンガ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "discrete_log",
+		"word": "Discrete Log",
+		"meaning": "離散対数（りさんたいすう）",
+		"etymology": [
+			"Discrete",
+			"Logarithm"
+		],
+		"concept": "One-way mathematical trapdoor",
+		"thinking": "かけるのは容易いが、何回かけたかを当てるのは絶望的に難しい。「離散的（Discrete）」であるからこそ、連続的な滑らかさを失い、計算機さえも惑わす迷宮となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "modular_inverse",
+		"word": "Modular Inverse",
+		"meaning": "合同（ごうどう）式の逆数",
+		"etymology": [
+			"Latin modulus",
+			"Inverse"
+		],
+		"concept": "Calculating back in clock math",
+		"thinking": "時計の世界における「逆の操作」。かけて1に戻すための、失われた鍵を探す作業。合同式という掟の下で、唯一無二の伴侶を見つける数理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "chinese_remaind",
+		"word": "CRT (Math)",
+		"meaning": "中国の剰余（じょうよ）定理",
+		"etymology": [
+			"Chinese Remainder Theorem"
+		],
+		"concept": "Combining broken pieces of logic",
+		"thinking": "バラバラの「余り（Remainder）」という情報から、元の巨大な真実に辿り着く。古代中国の軍師たちが編み出した、情報の断片を統合するための知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "quadratic_resid",
+		"word": "Quad Residue",
+		"meaning": "平方剰余（へいほうじょうよ）",
+		"etymology": [
+			"Latin quadra (square) + residuum"
+		],
+		"concept": "Shadow of the square",
+		"thinking": "「正方形（Quad-）」の形をして残った「カス（Residue）」。ある数が、別の数の二乗として表せるかどうか。暗号の判定問題における、最も鋭利な刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "primitive_root",
+		"word": "Primitive Root",
+		"meaning": "原始根（げんしこん）",
+		"etymology": [
+			"Latin primitivus",
+			"Root"
+		],
+		"concept": "The generator of the field",
+		"thinking": "「最も原始的な（Primitive）」根。たった一つの数字を繰り返し掛けることで、その宇宙のすべての数を産み出してしまう。万物の源泉となる、唯一の種。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "elliptic_arith",
+		"word": "Elliptic Arith",
+		"meaning": "楕円（だえん）曲線演算",
+		"etymology": [
+			"Elliptic"
+		],
+		"concept": "Geometric group law",
+		"thinking": "曲線の上の点と点を結び、第三の点を見つける。それは最早ただの計算ではなく、幾何学的な『舞踏』。そのステップの先を予測できないことが、私たちの秘密を守る盾となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "pairing_based",
+		"word": "Pairing-based",
+		"meaning": "ペアリング暗号",
+		"etymology": [
+			"Pairing"
+		],
+		"concept": "Mapping between worlds",
+		"thinking": "二つの異なる数体系を「対（Pair）」にして結びつける。それまで不可能だった「IDさえあれば暗号化できる世界」を現実のものとした、現代の高度な数理術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "identity_based",
+		"word": "IBE (Crypto)",
+		"meaning": "IDベース暗号",
+		"etymology": [
+			"Identity-based"
+		],
+		"concept": "Name as the public key",
+		"thinking": "あなたの「名前（ID）」そのものが鍵になる。複雑な乱数列ではなく、存在そのものを数式に流し込む、個人と数学が直結する聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "group_signature",
+		"word": "Group Sign",
+		"meaning": "グループ署名",
+		"etymology": [
+			"Group",
+			"Latin signare"
+		],
+		"concept": "Anonymous responsibility",
+		"thinking": "「誰か」であることは証明するが、「誰」であるかは明かさない。集団の中に身を隠しながら、なおも自らの発言を正当化する、匿名と信頼の均衡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "ring_signature",
+		"word": "Ring Sign",
+		"meaning": "リング署名",
+		"etymology": [
+			"Ring",
+			"Signare"
+		],
+		"concept": "Untraceable source",
+		"thinking": "「輪（Ring）」状に絡まった署名。誰が始めたのか、誰が真実を知っているのか。過去も未来も、無限の連鎖の中に溶かし込んでしまう、秘匿の極意。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "commitment_schem",
+		"word": "Commitment",
+		"meaning": "コミットメント方式",
+		"etymology": [
+			"Latin com- + mittere (to send)"
+		],
+		"concept": "Sealed promise",
+		"thinking": "「共に（Com-）」「送る（Mittere）」。中身は見せないままに、先に答えを渡しておく。後から変えることは決してできないという、時間を封じ込める約束の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "blind_signature",
+		"word": "Blind Sign",
+		"meaning": "ブラインド署名",
+		"etymology": [
+			"Blind",
+			"Sign"
+		],
+		"concept": "Signing without seeing",
+		"thinking": "「見えない（Blind）」ところで判を突く。内容を知らぬままに、その正当性だけを保証する。電子マネーなど、個人のプライバシーを守るための究極の信頼の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "threshold_crypt",
+		"word": "Threshold Cry",
+		"meaning": "閾値（しきいち）暗号",
+		"etymology": [
+			"Threshold"
+		],
+		"concept": "Majority rule security",
+		"thinking": "鍵を欠片に分け、全員が集まらなくても「一定数（閾値）」さえ揃えば扉が開く。一人を信じるのではなく、集団の連帯を信じるための、分かたれた智慧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "proxy_re_encry",
+		"word": "Proxy Re-Enc",
+		"meaning": "プロキシ再暗号化",
+		"etymology": [
+			"Latin proximus (nearest/proxy)"
+		],
+		"concept": "Delegating decryption",
+		"thinking": "「代理人（Proxy）」に、中身を見せることなく、自分宛ての贈り物を別の人宛てへと書き換えさせる。秘密の転送を可能にする、転送の魔術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "fully_homomorph",
+		"word": "FHE (Crypto)",
+		"meaning": "完全準同型（かんぜんじゅんどうけい）暗号",
+		"etymology": [
+			"Full + Homos + Morphe"
+		],
+		"concept": "The holy grail of crypto",
+		"thinking": "暗号化したまま、足し算も掛け算も、あらゆる計算ができる「完全な（Full）」貌。秘密を一切明かさぬまま、情報の海を泳ぎ続ける、究極の透明な鎧。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "secure_computat",
+		"word": "MPC (Multi)",
+		"meaning": "秘密計算、多者間計算",
+		"etymology": [
+			"Multi-party Computation"
+		],
+		"concept": "Computing with separate secrets",
+		"thinking": "自分のカードは見せない。相手のカードも見ない。それなのに、誰が一番強いかだけが完璧に分かる。不信の中で、唯一の『結果』という真実を共有する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "deniable_encry",
+		"word": "Deniable Enc",
+		"meaning": "否認可能（ひにんかのう）暗号",
+		"etymology": [
+			"Latin de- + negare (to deny)"
+		],
+		"concept": "Providing a decoy truth",
+		"thinking": "「否定する（Deny）」。もし鍵を奪われても、偽の鍵を渡せば、そこには偽の無害な真実が映し出される。二重の盾で、魂の奥底を護り抜く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "quantum_key_dis",
+		"word": "QKD (Network)",
+		"meaning": "量子（りょうし）鍵配送",
+		"etymology": [
+			"Quantum",
+			"Key"
+		],
+		"concept": "Physics-based security",
+		"thinking": "数学ではなく、量子の「掟」に従う。誰かが盗み見れば、その瞬間に状態が崩れ、異変を告げる。自然法則そのものが、情報の護衛となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "obfuscation_adv",
+		"word": "Obfuscation",
+		"meaning": "難読化（なんどくか）、忘却化",
+		"etymology": [
+			"Latin ob- + fuscare (to darken)"
+		],
+		"concept": "Perfect shield for source code",
+		"thinking": "「真っ暗にする（Fuscare）」。プログラムの動作は一点の狂いもないのに、その仕組みを読み解こうとする者には、ただ暗い霧（カオス）だけを見せる、知恵の隠蔽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "fault_injection",
+		"word": "Fault Inject",
+		"meaning": "故障利用（こしょうりよう）攻撃",
+		"etymology": [
+			"Latin fallere (to deceive) + injicere"
+		],
+		"concept": "Provoking the crack",
+		"thinking": "あえて機械にレーザーを浴びせ、「間違い（Fault）」を誘発させる。その微かな誤動作の中に、隠し持った鍵の残像を映し出す、冷酷な破壊的解読。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "trapdoor_funct",
+		"word": "Trapdoor",
+		"meaning": "落とし穴（おとしあな）関数",
+		"etymology": [
+			"Trapdoor"
+		],
+		"concept": "Easy down, hard up",
+		"thinking": "「落とし穴」。落ちるのは一瞬だが、下から這い上がるのは至難の業。秘密の鍵（梯子）を持っている者だけが、その穴から自由に抜け出すことができる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "hash_collision",
+		"word": "Collision",
+		"meaning": "衝突（しょうとつ）、コリジョン",
+		"etymology": [
+			"Latin con- + laedere (to strike)"
+		],
+		"concept": "Accidental meeting of fingerprints",
+		"thinking": "全く違う二つの情報が、たまたま同じ指紋（ハッシュ）を持ってしまう「ぶつかり合い（Collision）」。一卵性双生児のような偶然を、悪意に変える解読術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "collision_resist",
+		"word": "Collis Resist",
+		"meaning": "衝突耐性（しょうとつたいせい）",
+		"etymology": [
+			"Collision",
+			"Latin resistere"
+		],
+		"concept": "Uniqueness of fingerprints",
+		"thinking": "同じ指紋を持つ相手を、数億年の時間を使っても見つけ出せないという「強固な拒絶（Resist）」。唯一無二であることの数学的保証。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "preimage_atk",
+		"word": "Preimage Attack",
+		"meaning": "原像（げんぞう）計算攻撃",
+		"etymology": [
+			"Latin prae- (before) + Imago"
+		],
+		"concept": "Reversing the fingerprint",
+		"thinking": "指紋から、元の「貌（Imago）」を復元しようとする試み。カオスに溶けた情報を、時間の逆行に抗いながら拾い上げる、絶望的な探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "avalanche_effect",
+		"word": "Avalanche Eff",
+		"meaning": "雪崩（なだれ）効果",
+		"etymology": [
+			"French avalance (descent)"
+		],
+		"concept": "Sensitive dependence on input",
+		"thinking": "たった一文字の違いが、結末においては「雪崩（Avalanche）」のようにすべてを激変させる。微かな揺らぎを、巨大なカオスへと増幅し、予測を許さない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "sponge_function",
+		"word": "Sponge Funct",
+		"meaning": "スポンジ関数",
+		"etymology": [
+			"Sponge"
+		],
+		"concept": "Absorb and squeeze information",
+		"thinking": "情報を「吸い込み」、混ぜ合わせ、必要な分だけ「絞り出す」。どんな長さの情報も、自在に形を変えて処理する、多孔質な情報の器。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "cryptovariable",
+		"word": "Cryptovar",
+		"meaning": "暗号変数（あんごうへんすう）、鍵",
+		"etymology": [
+			"Kryptos + Variabilis"
+		],
+		"concept": "The shifting secret",
+		"thinking": "「隠された（Kryptos）」「変わるもの（Variable）」。数式は誰にでも見えるが、この変数（鍵）を知らなければ、真実の貌は永遠に現れない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "probabilistic",
+		"word": "Prob Encryp",
+		"meaning": "確率的（かくりつてき）暗号",
+		"etymology": [
+			"Latin probabilis"
+		],
+		"concept": "Randomized encryption",
+		"thinking": "同じ言葉を暗号化しても、毎回違う結果を生む。サイコロの「出目（Probability）」を混ぜることで、相手にパターンの欠片さえも悟らせない、幻惑の盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "semantic_secure",
+		"word": "Semantic Secu",
+		"meaning": "意味論的（いみろんてき）安全性",
+		"etymology": [
+			"Greek sema",
+			"Secure"
+		],
+		"concept": "Perfect hiding of meaning",
+		"thinking": "暗号文を見ても、その中身の断片さえも、何の情報を得られない。情報の「意味（Sema）」そのものが、完全に霧の彼方へ消え去っている状態。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "adaptive_chosen",
+		"word": "Chosen-txt Atk",
+		"meaning": "選択（せんたく）文書攻撃",
+		"etymology": [
+			"Adoptive",
+			"Choose"
+		],
+		"concept": "Interactive decryption test",
+		"thinking": "敵に自分の好きな言葉を暗号化（あるいは復元）させてみせ、その反応から鍵をあぶり出す。受動的ではなく、能動的に挑みかかる知恵の決闘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "birthday_paradox",
+		"word": "Birthday Para",
+		"meaning": "誕生日のパラドックス",
+		"etymology": [
+			"Birthday",
+			"Paradox"
+		],
+		"concept": "Unexpected meeting in crowds",
+		"thinking": "たった23人いれば、同じ誕生日のペアがいる確率は50%を超える。私たちの直感（少ないはず）を裏切る、ランダムな交差の驚異的な速さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "nonce_crypto",
+		"word": "Nonce",
+		"meaning": "ナンス、一時金",
+		"etymology": [
+			"Number used once"
+		],
+		"concept": "Single-use number",
+		"thinking": "「一度きり（Once）」の数字。同じ手順を二度させないための、時間の刻印。過去の録音（再送）をあざ笑う、刹那の証。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "initial_vector",
+		"word": "Initialization",
+		"meaning": "初期化ベクトル (IV)",
+		"etymology": [
+			"Initium + Vector"
+		],
+		"concept": "Priming the engine",
+		"thinking": "「始まり（Initium）」の矢。最初の混沌をランダムに始めることで、同じ言葉の繰り返しを、予測不能なカオスの連鎖へと突き落とす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "entropy_pool_sc",
+		"word": "Entropy Pool",
+		"meaning": "エントロピー・プール",
+		"etymology": [
+			"Entropy + Pool"
+		],
+		"concept": "Reserving randomness",
+		"thinking": "カオス（乱数）のかけらを溜め込んでおく「溜め池（Pool）」。命が動くたびに、マウスが揺れるたびに、そこには真の不確実性が蓄積されていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "cryptanalysis_ls",
+		"word": "Cryptanalysis",
+		"meaning": "暗号解読論",
+		"etymology": [
+			"Kryptos + Analysis"
+		],
+		"concept": "The art of breaking shields",
+		"thinking": "隠されたものを「解き明かす（Analysis）」。盾が厚ければ厚いほど、その微かな隙間を見つけようとする、攻撃的で鋭利な知性の執念。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "polyalphabetic",
+		"word": "Polyalphabet",
+		"meaning": "多（た）アルファベット暗号",
+		"etymology": [
+			"Greek poly- + Alphabet"
+		],
+		"concept": "Shifting alphabets",
+		"thinking": "「多くの（Poly）」アルファベットを使い分ける。一文字ごとにルールを変え、単純なパズルを、解読不能な迷宮へと変貌させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "substitution_cip",
+		"word": "Substitution",
+		"meaning": "代換（だいかん）暗号",
+		"etymology": [
+			"Latin sub- + statuere (to set up)"
+		],
+		"concept": "Replacing atoms of meaning",
+		"thinking": "「代わりに（Sub-）」「立てる（Statuere）」。AをDに、BをZに。一対一の入れ替えが、言葉の表面を別の誰かの貌へと塗り替える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "transposition_c",
+		"word": "Transposition",
+		"meaning": "換位（かんい）暗号",
+		"etymology": [
+			"Latin trans- + ponere (to place)"
+		],
+		"concept": "Scrambling the order",
+		"thinking": "文字は変えず、その「場所（Position）」を「移す（Trans-）」。一列に並んだ言葉を引き裂き、カオスの中に再配置する、並べ替えの秘術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "key_escrow_syst",
+		"word": "Key Escrow",
+		"meaning": "キー・エスクロー、預託",
+		"etymology": [
+			"Middle French escroe (scroll)"
+		],
+		"concept": "Entrusting the crown",
+		"thinking": "自分の鍵を、第三者の「書物（Escrow）」に預けておく。万が一の時のための安全策か、それとも国家による監視の入り口か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "steganography_a",
+		"word": "Steganography",
+		"meaning": "ステガノグラフィ",
+		"etymology": [
+			"Greek steganos (covered) + graphein"
+		],
+		"concept": "Hiding existence itself",
+		"thinking": "「覆われた（Steganos）」書。暗号にするのではなく、ありふれた風景の中に「溶け込ませる」。そこにあることに気づかせない、究極の隠蔽。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "zero_knowledge_a",
+		"word": "Zero-knowledge",
+		"meaning": "ゼロ知識証明",
+		"etymology": [
+			"Zero",
+			"Knowledge"
+		],
+		"concept": "Proving the secret silently",
+		"thinking": "答えを教えることなく、「答えを知っている」ことだけを完璧に信じさせる。情報を渡さずに信頼だけを勝ち取る、数学的な奇跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
+	},
+	{
+		"id": "lamport_signat",
+		"word": "Lamport Sign",
+		"meaning": "ランポート署名",
+		"etymology": [
+			"Lamport"
+		],
+		"concept": "One-time post-quantum signature",
+		"thinking": "一度きりの使い捨てだが、いかなる計算機にも、そして来るべき量子コンピュータにさえも破られない、一撃必殺の数理の盾。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "数理の盾で真実を護れ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"高度な暗号学の聖域へ。"
+			]
+		},
+		"example": "The code was mathematically secure."
 	}
 ];
