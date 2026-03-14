@@ -404454,5 +404454,645 @@ const WORDS = [
 			]
 		},
 		"example": "Comparative mythology studies the similarities between myths of different cultures."
+	},
+	{
+		"id": "nanotechnol",
+		"word": "Nanotech",
+		"meaning": "ナノテクノロジー、ナノ技術（ぎじゅつ）",
+		"etymology": [
+			"Greek nanos (dwarf) + Technology"
+		],
+		"concept": "Atomic scale engineering",
+		"thinking": "「小人（Nanos）」の世界の理。物質を原子一個一個のレベルで直接「手（Techne）」で操り、自然界には存在しなかった新しい機能（貌）を産み出す。極微の空間に、巨大な宇宙（知性）を構築する挑戦。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "molecular_",
+		"word": "Molec Mach",
+		"meaning": "分子（ぶんし）機械（きかい）",
+		"etymology": [
+			"Latin moles (mass) + Machine"
+		],
+		"concept": "Machines made of molecules",
+		"thinking": "「分子（Moles）」という名の部品によって組み立てられた、世界最小のモーター、ギア、ピストン。生体内のタンパク質という名の先達に学びつつ、人工的な知性（貌）を極微の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "nanobot_adv",
+		"word": "Nanobot",
+		"meaning": "ナノボット、ナノロボット",
+		"etymology": [
+			"Nano + Robot (Czech robota: forced labor)"
+		],
+		"concept": "Nanoscale robot",
+		"thinking": "ナノスケールの「労働者（Robot）」。血管の中を泳ぎ、癌細胞を狙撃し、あるいは損傷したDNAを修復する。SFの夢を。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "self_assemb",
+		"word": "Self-Assem",
+		"meaning": "自己（じこ）組織（そしき）化（か）、セルフアセンブリ",
+		"etymology": [
+			"Self + Latin ad- + simul (together)"
+		],
+		"concept": "Molecules organizing themselves",
+		"thinking": "「自ら（Self）」「共に（Simul）」「集まる（Ad-）」。設計図なしに、分子たちの化学的な『相性（貌）』だけで、複雑な構造が自然と組み上がっていく。宇宙の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "nanomateria",
+		"word": "Nanomateri",
+		"meaning": "ナノ材料（ざいりょう）、ナノ素材（そざい）",
+		"etymology": [
+			"Nano + Latin materia"
+		],
+		"concept": "Materials with nano features",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "quantum_con",
+		"word": "Quantum C",
+		"meaning": "量子（りょうし）閉（と）じ込め効果（こうか）",
+		"etymology": [
+			"Quantum + Latin con- + finis"
+		],
+		"concept": "Electronic states change in small",
+		"thinking": "電子の「波」をナノという窮屈な「檻（Finis）」の中に押し込める。。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "van_der_waa",
+		"word": "Van der Wa",
+		"meaning": "ファンデルワールス力（りょく）",
+		"etymology": [
+			"Johannes Diderik van der Waals"
+		],
+		"concept": "Weak intermolecular forces",
+		"thinking": "「ごく近く」に寄ったときだけ、ふっと産まれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "nanotube_ad",
+		"word": "Nanotube",
+		"meaning": "カーボンナノチューブ",
+		"etymology": [
+			"Nano + Tube"
+		],
+		"concept": "Cylindrical carbon molecules",
+		"thinking": "炭素が織りなす、。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "fullerene_a",
+		"word": "Fullerene",
+		"meaning": "フラーレン、バッキーボール",
+		"etymology": [
+			"Buckminster Fuller"
+		],
+		"concept": "Spherical carbon molecules",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "nanowire_ad",
+		"word": "Nanowire",
+		"meaning": "ナノワイヤー",
+		"etymology": [
+			"Nano + Wire"
+		],
+		"concept": "Nanoscale wire for electrons",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "microfluidi",
+		"word": "Microflui",
+		"meaning": "マイクロ流体（りゅうたい）工学（こうがく）",
+		"etymology": [
+			"Greek mikros + Fluid"
+		],
+		"concept": "Fluids in micro-channels",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "lab_on_a_ch",
+		"word": "Lab-on-Chi",
+		"meaning": "ラボオンチップ",
+		"etymology": [
+			"Laboratory + Chip"
+		],
+		"concept": "Miniaturized chemical laboratory",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "biomimetics",
+		"word": "Biomimetic",
+		"meaning": "バイオミメティクス、生物（せいぶつ）模倣（もほう）技術（ぎじゅつ）",
+		"etymology": [
+			"Greek bios + mimetikos"
+		],
+		"concept": "Mimicking biology for tech",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "synthetic_d",
+		"word": "DNA Nano",
+		"meaning": "DNAナノテクノロジー",
+		"etymology": [
+			"DNA + Nanotechnology"
+		],
+		"concept": "Using DNA as building material",
+		"thinking": "「遺伝情報」を、「建築資材」として。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "dna_origami",
+		"word": "DNA Origam",
+		"meaning": "DNAオリガミ",
+		"etymology": [
+			"DNA + Japanese Origami"
+		],
+		"concept": "Folding DNA into shapes",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "atomic_forc",
+		"word": "AFM (Micro)",
+		"meaning": "原子（げんし）間（かん）力（りょく）顕微鏡（けんびきょう） (AFM)",
+		"etymology": [
+			"Atomic Force Microscopy"
+		],
+		"concept": "Imaging surface with tip",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "lithograph_n",
+		"word": "Nannolitho",
+		"meaning": "ナノリソグラフィ",
+		"etymology": [
+			"Greek lithos + graphein"
+		],
+		"concept": "Printing at nanoscale",
+		"thinking": "「石（Lithos）」に「書く（Graph）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "bottom_up_a",
+		"word": "Bottom-Up",
+		"meaning": "ボトムアップ的手法（しゅほう）",
+		"etymology": [
+			"Bottom + Up"
+		],
+		"concept": "Building from atoms up",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "top_down_ad",
+		"word": "Top-Down",
+		"meaning": "トップダウン的手法（しゅほう）",
+		"etymology": [
+			"Top + Down"
+		],
+		"concept": "Carving down to nanoscale",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "molecular_r",
+		"word": "Molec Reco",
+		"meaning": "分子（ぶんし）認識（にんしき）",
+		"etymology": [
+			"Recognition"
+		],
+		"concept": "Specific binding of molecules",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "supramolecu",
+		"word": "Supramolec",
+		"meaning": "超分子（ちょうぶんし）化学（かがく）",
+		"etymology": [
+			"Latin supra- + Molecule"
+		],
+		"concept": "Chemistry of multi-molecules",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "catenane_ad",
+		"word": "Catenane",
+		"meaning": "カテナン、鎖（くさり）状（じょう）分子（ぶんし）",
+		"etymology": [
+			"Latin catena (chain)"
+		],
+		"concept": "Interlocked molecules",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "rotaxane_ad",
+		"word": "Rotaxane",
+		"meaning": "ロタキサン",
+		"etymology": [
+			"Latin rota (wheel) + axis"
+		],
+		"concept": "Wheel on an axle molecule",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "molecular_m",
+		"word": "Molec Moto",
+		"meaning": "分子（ぶんし）モーター",
+		"etymology": [
+			"Motor"
+		],
+		"concept": "Molecules that produce rotation",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "nanosensor_",
+		"word": "Nanosensor",
+		"meaning": "ナノセンサー",
+		"etymology": [
+			"Nano + Sensor"
+		],
+		"concept": "Sensors at the nanoscale",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "drug_delive",
+		"word": "DDS (Drug)",
+		"meaning": "ドラッグデリバリーシステム (DDS)",
+		"etymology": [
+			"Drug Delivery System"
+		],
+		"concept": "Targeted medicine delivery",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "targeted_th",
+		"word": "Targeted T",
+		"meaning": "標的（ひょうてき）療法（りょうほう）",
+		"etymology": [
+			"Target + Therapy"
+		],
+		"concept": "Treatment for specific cells",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "nanotoxicity",
+		"word": "Nanotoxici",
+		"meaning": "ナノ毒性（どくせい）",
+		"etymology": [
+			"Nano + Greek toxikon (poison)"
+		],
+		"concept": "Toxicity of nanomaterials",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "grey_goo_ad",
+		"word": "Grey Goo",
+		"meaning": "グレイ・グー、灰色（はいいろ）の粘液（ねんえき）",
+		"etymology": [
+			"Grey + Goo"
+		],
+		"concept": "Hypothetical self-rep apocalypse",
+		"thinking": "ナノボット。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "point_defec",
+		"word": "Point Defe",
+		"meaning": "点（てん）欠陥（けっかん） (ナノ)",
+		"etymology": [
+			"Point + Defect"
+		],
+		"concept": "Anomaly in crystal lattice",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "nanophotoni",
+		"word": "Nanophoton",
+		"meaning": "ナノフォトニクス",
+		"etymology": [
+			"Nano + Greek phos"
+		],
+		"concept": "Controlling light in nano scale",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
+	},
+	{
+		"id": "surface_pla",
+		"word": "Surf Plasm",
+		"meaning": "表面（ひょうめん）プラズモン共鳴（きょうめい）",
+		"etymology": [
+			"Surface + Plasmon"
+		],
+		"concept": "Resonance of electrons on surface",
+		"thinking": "。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "極微の深淵を、分子の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ナノテクノロジーと分子機械の極致へ。"
+			]
+		},
+		"example": "Nanotechnology involves manipulating matter on an atomic and molecular scale."
 	}
 ];
