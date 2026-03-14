@@ -385307,5 +385307,706 @@ const WORDS = [
 			]
 		},
 		"example": "Evolutionary biology studies the origins and changes of life."
+	},
+	{
+		"id": "sociology_ad",
+		"word": "Sociology",
+		"meaning": "社会学（しゃかいがく）",
+		"etymology": [
+			"Latin socius (companion) + Greek logos"
+		],
+		"concept": "Study of social structures",
+		"thinking": "「仲間（Socius）」の「理（Logos）」。一人の「私」の問題を、巨大な社会の「構造」のドラマの一部として捉え直す。私たちは孤独に生きているのではなく、見えない社会という名の糸に操られ、同時にその糸を自ら編み直している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "critical_the",
+		"word": "Critical Th",
+		"meaning": "批判（ひはん）理論（りろん）",
+		"etymology": [
+			"Greek krinein (to judge/separate)"
+		],
+		"concept": "Challenging social power",
+		"thinking": "「判断し、分かつ（Krinein）」こと。現状を受け入れるのではなく、その背後に潜む支配、抑圧、不平等を暴き出す知性の刃。世界を理解するだけでなく、より良い方向へと「変革」するための、闘争的な思考の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "alienation_a",
+		"word": "Alienation",
+		"meaning": "疎外（そがい）",
+		"etymology": [
+			"Latin alienus (other/foreign)"
+		],
+		"concept": "Estrangement from self/work",
+		"thinking": "自分が作ったもの、自分が生きる場所が、自分にとって「他者（Alien）」のように縁遠く、敵対的なものに感じられる状態。働けば働くほど、生きれば生きるほど、自分自身から遠ざかっていく現代の悲劇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "hegemony_ad",
+		"word": "Hegemony",
+		"meaning": "ヘゲモニー、覇権（はけん）",
+		"etymology": [
+			"Greek hegemon (leader)"
+		],
+		"concept": "Cultural dominance",
+		"thinking": "暴力ではなく、「常識」という名の下に他者を支配すること。支配される側が、支配者の価値観を「自らの意志」として内面化してしまう、最も巧妙で静かなる統治。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "panopticon_v",
+		"word": "Panopticon",
+		"meaning": "パノプティコン、一望（いちぼう）監視（かんし）施設（しせつ）",
+		"etymology": [
+			"Greek pan (all) + optos (seen)"
+		],
+		"concept": "Universal constant surveillance",
+		"thinking": "「すべて（Pan）」が「見られている（Optos）」。監視者の姿は見えないが、いつ見られているか分からないという恐怖が、人々を自発的に服従させる。監視カメラ、SNS、データ。現代社会そのものが巨大な透明な檻であるという予言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "governamenta",
+		"word": "Governmenta",
+		"meaning": "統治性（とうちせい）、ガヴァナメンタリティ",
+		"etymology": [
+			"Government + Mentality"
+		],
+		"concept": "Techniques of state power",
+		"thinking": "国家が人々を「管理」するための技術と思想（マインドセット）。単なる禁止ではなく、教育、健康、統計を通じて、人々の『正しい生き方』を誘導し、都合の良い「貌」へと作り変えていく力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "biopolitics_",
+		"word": "Biopolitics",
+		"meaning": "生政治（せいせいじ）",
+		"etymology": [
+			"Greek bios (life) + Politics"
+		],
+		"concept": "State control over life/body",
+		"thinking": "「命（Bios）」そのものが政治の標的となる。出産、寿命、疫病。国家が個人の肉体の深淵まで管理し、誰を生き長らえさせ、誰を死なせるべきかを冷徹にコントロールする時代の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "necropolitic",
+		"word": "Necropoliti",
+		"meaning": "死政治（しせいじ）、ネクロポリティクス",
+		"etymology": [
+			"Greek nekros (dead) + Politics"
+		],
+		"concept": "Power to dictate who dies",
+		"thinking": "誰が「死んでも構わない存在」であるかを決定する権力. 戦場、境界、難民キャンプ。ある人々の「死」を放置し、あるいは積極的に産み出すことで成立する、闇の支配の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "discourse_a_v",
+		"word": "Discourse",
+		"meaning": "言説（げんせつ）、ディスクール",
+		"etymology": [
+			"Latin dis- + currere (to run)"
+		],
+		"concept": "Systems of speech/power",
+		"thinking": "「あちこち（Dis-）」へと「走り回る（Currere）」言葉たち。ある時代、ある場所で「語ることができること」と「語り得ないこと」を規定する、見えない言葉の境界線。私たちは、言葉という名の檻の中で思考している。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "disciplinary",
+		"word": "Discip Power",
+		"meaning": "規律（きりつ）訓練（くんれん）型（がた）権力（けんりゅう）",
+		"etymology": [
+			"Latin discipulus (learner)"
+		],
+		"concept": "Power that trains bodies",
+		"thinking": "「練習（Discipline）」させる力。学校、軍隊、工場。肉体を規則正しく動かし、時間を秒単位で管理することで、人間を扱いやすい「役に立つ機械」へと作り変える、微細で執拗な権力の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "habitus_ad_v",
+		"word": "Habitus",
+		"meaning": "ハビトゥス、習（しゅう）性（せい）",
+		"etymology": [
+			"Latin habitus (condition/appearance)"
+		],
+		"concept": "Ingrained social habits",
+		"thinking": "心と体に染み付いた「振る舞い（Habitus）」。言葉遣い、歩き方、趣味の良し悪し。それは個人の個性であると同時に、自分が属する階級（社会）が刻み込んだ、消えない「貌（刻印）」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "symbolic_vio",
+		"word": "Symbolic Vi",
+		"meaning": "象徴（しょうちょう）的（てき）暴力（ぼうりょく）",
+		"etymology": [
+			"Symbolic + Violence"
+		],
+		"concept": "Hidden social domination",
+		"thinking": "殴るのではなく、「意味」で他者を屈服させること。自分が「劣っている」という価値観を他者に受け入れさせ、自発的な服従を引き出す、目に見えない残酷な刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "performativi",
+		"word": "Performative",
+		"meaning": "行為（こうい）遂行的（すいこうてき）な、パフォーマティブな",
+		"etymology": [
+			"Latin per- + formare"
+		],
+		"concept": "Speech that acts",
+		"thinking": "言葉が「現実を作る」こと。「宣言」することで何かが立ち上がり、同じ役割を「演じ続ける」ことで、それが本物の『正体（アイデンティティ）』になる. 静止した本質を否定し、演ずることの中に真理を見出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "heteronormat",
+		"word": "Heteronorm",
+		"meaning": "異性愛（いせいあい）規範（きはん）、ヘテロノーマティビティ",
+		"etymology": [
+			"Greek heteros (other) + Latin norma (rule)"
+		],
+		"concept": "Assumption of heterosexuality",
+		"thinking": "「男女」という「規範（Norm）」が絶対視される社会。それ以外の多様な愛の貌を「異常」として排除し、見えなくしてしまう、暴力的なまでの『当たり前』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "coloniality_",
+		"word": "Coloniality",
+		"meaning": "植民（しょくみん）性（せい）",
+		"etymology": [
+			"Latin colonia"
+		],
+		"concept": "Ongoing legacy of colonialism",
+		"thinking": "支配が終わった後も残る、知の「植民地化」。他者の言葉で考え、他者の美学で自分を評価する。魂の奥底に食い込んだ、支配の残響を振り払うための死闘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "epistemic_vi",
+		"word": "Epistemic V",
+		"meaning": "認識（にんしき）的（てき）暴力（ぼうりょく）",
+		"etymology": [
+			"Greek episteme (knowledge) + Violence"
+		],
+		"concept": "Damage to knowledge capacity",
+		"thinking": "他者の「声」を、「言葉」として認めないこと。ある人々の知識や経験を「迷信」や「未開」として嘲笑し、その世界観を根底から破壊する、最も深い知の支配の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "subaltern_ad",
+		"word": "Subaltern",
+		"meaning": "サバルタン、下層（かそう）に置（お）かれた人々（ひとびと）",
+		"etymology": [
+			"Latin sub- (under) + alternus (alternate)"
+		],
+		"concept": "marginalized groups",
+		"thinking": "歴史という舞台の「下（Sub-）」に追いやられ、自らの声で語る手段すら奪われた人々。彼らは「語ることができるか」。彼らの沈黙という名の叫びを、いかにして私たちは聴くことができるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "deterritoriz",
+		"word": "Deterritori",
+		"meaning": "脱（だつ）領土（りょうど）化（か）",
+		"etymology": [
+			"French de- + Latin territorium"
+		],
+		"concept": "Breaking established boundaries",
+		"thinking": "固定された「場所（領土）」から解き放たれ、境界を飛び越えていく力。国籍、言葉、アイデンティティ。不動だと思っていたものが流動化し、カオスな海へと溶け出していく、現代の激しい変化の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "rhizome_phil",
+		"word": "Rhizome",
+		"meaning": "リゾーム、根茎（こんけい）",
+		"etymology": [
+			"Greek rhizoma (mass of roots)"
+		],
+		"concept": "Non-hierarchical network",
+		"thinking": "中心も根っこも、終わりもない。「地下茎（Rhizome）」のように、あちこちから勝手に芽を出し、絡み合い、無限に広がっていくネットワーク。ピラミッド型の支配を拒絶する、自由でアナーキーな生の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "schizophreni",
+		"word": "Schizo (Phil)",
+		"meaning": "スキゾ、分裂（ぶんれつ）的（てき）思考（しこう）",
+		"etymology": [
+			"Greek schizein (to split)"
+		],
+		"concept": "Multi-centered existence",
+		"thinking": "一つの中心（自我や国家）に固執せず、あちこちに「分裂（Schizo）」しながら自由に移動し続ける生き方。パラノイア的な独占と管理を笑い飛ばし、流浪の中に出会いを見出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "liquid_moder",
+		"word": "Liquid Mode",
+		"meaning": "液状（えきじょう）化（か）する現代（げんだい）",
+		"etymology": [
+			"Liquid + Modern"
+		],
+		"concept": "Unstable/fluid society",
+		"thinking": "すべてが「サラサラとした液体（Liquid）」のように流れ、固まらない時代。職場、家族、恋人、そして自分。何も信じられず、何にも定着できないまま、不安定な波の上をひたすら泳ぎ続ける、現代の孤独な孤独。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "risk_society",
+		"word": "Risk Societ",
+		"meaning": "リスク社会（しゃかい）",
+		"etymology": [
+			"Risk + Latin socius"
+		],
+		"concept": "Modernity facing self-made danger",
+		"thinking": "私たちが産み出した「進歩（技術）」が、逆に私たちを脅かす。原発、環境破壊、テロ。誰のせいとも言えない、予測不能な「リスク」に怯えながら、共に破滅への道を歩まざるを得ない、現代文明の皮肉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "precariat_ad",
+		"word": "Precariat",
+		"meaning": "プレカリアート、不安定（ふあんてい）な労働（ろうどう）者（しゃ）",
+		"etymology": [
+			"Latin precarius (prayed for/uncertain) + Proletariat"
+		],
+		"concept": "Class with insecure work/life",
+		"thinking": "明日を知れぬ「欠乏（Precarious）」の中で生きる人々。何一つ自分のものではなく、ただ今日を生き延びるために労働を切り売りする。現代の中の、新たな「声なき」民の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "necropolitic",
+		"word": "Thanatopol",
+		"meaning": "死政治（しせいじ）、タナトポリティクス",
+		"etymology": [
+			"Greek thanatos (death) + Politics"
+		],
+		"concept": "Political management of death",
+		"thinking": "生ではなく「死」をどのように配分し、誰の死を「不可避なもの」として受け入れさせるか。不都合な人々をゆっくりと、制度的に死へと追いやっていく、静寂な虐殺の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "post_truth_a",
+		"word": "Post-Truth",
+		"meaning": "ポスト真実（しんじつ）",
+		"etymology": [
+			"Post- + Truth"
+		],
+		"concept": "Emotion over facts in politics",
+		"thinking": "「真実」など重要ではない。人々が信じたい「物語」や「感情」こそが、現実を動かす。嘘が真実を飲み込み、世界がいくつもの断絶された『信じたい世界（貌）』へと分裂していく、黄昏の時代。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "anthropocen",
+		"word": "Anthropocen",
+		"meaning": "人新世（ひとしんせい）",
+		"etymology": [
+			"Greek anthropos (human) + kainos (new)"
+		],
+		"concept": "Epoch of human impact on earth",
+		"thinking": "地球の地質学的な歴史に、人類という種が「取り返しのつかない傷跡」を残してしまった時代。気候変動、プラスチックの層。私たちは、もはや自然を「見る者」ではなく、自然そのものを「変質させる（あるいは滅ぼす）当事者」となった。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "chthulucene",
+		"word": "Chthulucene",
+		"meaning": "クトゥルー新世（しんせい）、共生（きょうせい）の新世（しんせい）",
+		"etymology": [
+			"Chthonic (earthly) + Greek kainos"
+		],
+		"concept": "Tangled multispecies epoch",
+		"thinking": "人間を超え、地中に蠢く「触手（関係性）」たちと繋ぎ直す時代。他者、動物、微生物、そして機械。バラバラの命が絡まり合い、共に傷つき、共に生き延びるための、おどろおどろしくも美しい共生の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "transversali",
+		"word": "Transversal",
+		"meaning": "横断性（おうだんせい）、トランスヴェルサリティ",
+		"etymology": [
+			"Latin trans- + vertere"
+		],
+		"concept": "Connecting across hierarchies",
+		"thinking": "上下の命令ではなく、あらゆる壁を「横切って（Transverse）」繋がること。医師と患者、先生と生徒、人間と機械。既存のヒエラルキーを無効化し、全く新しい響きを奏でるための、横の連帯。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "assemblage_",
+		"word": "Assemblage",
+		"meaning": "アッサンブラージュ、配置（はいち）",
+		"etymology": [
+			"French assembler (to join together)"
+		],
+		"concept": "Heterogeneous collection",
+		"thinking": "バラバラなものたちが、たまたま「集まった（Assemble）」多様な群れ。固い結合ではなく、いつでも入れ替わり、壊れ、再構築される、脆くもダイナミックな関係性のネットワーク。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "becoming_phi",
+		"word": "Becoming",
+		"meaning": "生成（せいせい）、なること",
+		"etymology": [
+			"Old English becuman (to come)"
+		],
+		"concept": "Continuous changing process",
+		"thinking": "「何者であるか（Being）」ではなく、「何者かへと変わっていく（Becoming）」プロセスそのもの。固定されたアイデンティティを捨て、絶えず変容し続ける、命の終わりのない冒険。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "multiplicity",
+		"word": "Multiplicit",
+		"meaning": "多様体（たようたい）、多数性（たすうせい）",
+		"etymology": [
+			"Latin multus + plicare (to fold)"
+		],
+		"concept": "Unity composed of many",
+		"thinking": "「多く（Multi）」のものが「折り重なっている（Plica）」。一人の人間の中に、無数の声、無数の矛盾が住まう。一でもなく、多でもない、その豊かな混雑そのものが、私たちの本質であるという肯定。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "vitalist_ad",
+		"word": "Vitalism",
+		"meaning": "生命（せいめい）主義（しゅぎ）、ヴァイタリズム",
+		"etymology": [
+			"Latin vita (life)"
+		],
+		"concept": "Life as creative force",
+		"thinking": "「命（Vita）」とは、単なる物質の反応ではない。それは絶えず新しい形を産み出そうとする、溢れんばかりの情熱的な『飛躍の力』であるという信仰。この世界を躍動させる、目に見えぬ炎。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "affirmation_",
+		"word": "Affirmation",
+		"meaning": "肯定（こうてい）",
+		"etymology": [
+			"Latin ad- + firmare (to make firm)"
+		],
+		"concept": "Active 'Yes' to existence",
+		"thinking": "この悲しみも、この理不尽も、すべてを「力強く（Firm）」引き受けて「然り（Yes）」と言うこと。否定や恨みから解き放たれ、宿命を自らのダンスへと変容させる、魂の最も高潔な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "joy_philosop",
+		"word": "Joy (Phil)",
+		"meaning": "喜び（よろこび） (スピノザ的)",
+		"etymology": [
+			"Latin gaudium"
+		],
+		"concept": "Increase in power of action",
+		"thinking": "自分の「行動する力」が高まったときに訪れる、内側からの爆発。それは快楽ではなく、自分が宇宙の一部として正しく機能しているという、確かなる繋がりの手応え。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
+	},
+	{
+		"id": "eternity_soc",
+		"word": "Solidarity",
+		"meaning": "連帯（れんたい）、永遠（えいえん）の絆（きずな）",
+		"etymology": [
+			"Latin solidus (firm/whole)"
+		],
+		"original_statement": "The enduring core of social bonds.",
+		"concept": "The web of existence",
+		"thinking": "孤立した点ではなく、互いに「固く（Solidus）」結びつき、支え合う一つの大きな織物. 時代が変わり、貌が変わっても、私を私たらしめているのは、あなたという『他者』との透明な響き合いであるという、不動の真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、批判の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と批判理論の極致へ。"
+			]
+		},
+		"example": "Sociology examines the development and structure of human society."
 	}
 ];
