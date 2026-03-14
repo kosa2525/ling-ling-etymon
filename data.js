@@ -323978,5 +323978,87 @@ const WORDS = [
    "original_statement": "A function that assigns to each symbol and well-formed formula of some formal language a unique natural number."
   },
   "concept": "The number of soul (「。。、。声。、。、」。も。、。、「。。、。、。想（。おも）。。、。い。、。、。、」。も、。、。、すべて。は、。、。、結局。。、。、一。、。つの。、。、。、。「。。、。、数。、。、。、」。として、。、。、。世界。。の。、。、。、。裏。側。。に、。、。、。ひっそり。と、。、。、書（か）。。、。き。。、。込ま。れて。。、。いる。。、。ことの、。、。、。、。峻烈な。、。、。、怖（こわ）。。、。さ。、。、それは、。、。、。理知。が、。、。、宇宙。その。、。、。もの。の、。、。、。「。。、。、図。、。面。、。、。、」。を。、。、。暴（あば）。。、。いた。。、。、。瞬、。。間。、)"
+ },
+ {
+  "id": "grassmann-variable",
+  "word": "Grassmann Variable",
+  "meaning": "グラスマン変数、。、。自分。と。、。入れ。替（。か。）。。われば、。、。、。不意に。、。、。、。「。。、。、。負（。ふ）。、。、。、」。へと、。、。姿（フォルム）。を。、。変える。。、。、。峻烈な。、。、。理知。、",
+  "era": "Name Hermann Grassmann",
+  "etymology": {
+   "components": [
+    "Hermann Grassmann (mathematician / linguist)"
+   ],
+   "original_statement": "Anticommuting variables used in the formulation of the path integral for fermions."
+  },
+  "concept": "The anticommuting spirit (「。。、。私。、。、」。と。、。、「。。、。、あ。、な。た。、。、。」。が、。、。、。、。入れ。、替（。か。）。。、。わ。。、。った。。、。瞬、。。間。、。、そこに。、。、。、ひっそり。と、。、。、。「。。、。、。、陰（。いん）。、。、。、」。、と。、。いう、。、。、。影。が。、。、不意に。、。、。。、。堕（お。）。。、。ちる。。、。、ことの、。、。、。理知。の、。峻烈なる。、。、。、。鏡。、。、。像。、それは、。、。、。、フェルミ。の、。、。魂。を。、。、。あえて。、。、「。。、。、。数。、。、。、」。として。、。、語。る。。、。ための。、。、。、。峻烈なる。、。、。、。犠。、。牲。、)"
+ },
+ {
+  "id": "path-integral",
+  "word": "Path Integral",
+  "meaning": "経路積分、。、。あらゆる。、。、。、。「。。、。、。もしも。、。、。、」。の、。、。可能性。。を。、。、。全（すべ）。。、。て。、。、繋（つな）。。ぎ。。、。、。合わせ。、。。、。一。、。つの。、。、。、。。、運命。。を。、。、、導（みちび）。。、。き。。、。出す。。、。理知。の、。。、。。積。、。、層。、",
+  "era": "Greek pathos + Latin integralis",
+  "etymology": {
+   "components": [
+    "path",
+    "integralis (forming a whole)"
+   ],
+   "original_statement": "A formulation of quantum mechanics that generalizes the action principle of classical mechanics by replacing a single classical trajectory with a sum over an infinity of possible trajectories."
+  },
+  "concept": "Summing all possibilities (「。。、。あ。、る。。い。は。、。、」。この。、道。か、。、「。。、。、。それとも。、。、。、」。あの。、。、。道。か、。、。、宇宙。が。、。、。、。選（。えら）。。、。ぶ。。、。はず。の、。、。あらゆる。、。、。「。。、。、。、。夢。、。、。、」。、を。、。、あえて。、。、。、。一つ。も。、。、。、捨（す）。。、。てる。。、こと。なく。、。、。全。て。。を。、。、奏（かな）。。、。で。。、。。、。響（ひび）。。、。き。。、。合わせる。。、。ことで。、。、。、真実。へと、。、。辿（たど）。。、。り。。、。着（つく）。。、。、。峻烈な。、。、。、。、物。、。、。語。、り。、)"
+ },
+ {
+  "id": "wick-rotation",
+  "word": "Wick Rotation",
+  "meaning": "ウィック回転、。、。時間。を。、。、。虚数。の。、。海。へと、。、。、。一。、。、。瞬、。にして。、。、旋（つむ）。。、。が。。、。せる。。、。理知。の、。、。。転。、。換。、",
+  "era": "Name Gian-Carlo Wick",
+  "etymology": {
+   "components": [
+    "Gian-Carlo Wick (physicist)"
+   ],
+   "original_statement": "A method of finding a solution to a problem in Minkowski space from a solution to a related problem in Euclidean space by using a transformation that substitutes an imaginary-time variable for a real-time variable."
+  },
+  "concept": "The imaginary time (「。。、。過（す。）。。、。、。ぎ。。、」。ゆ。く。。、一。、。瞬、。の、。、。峻烈。な、。、。、。「。。、。、。時。、。、。、」。、を。、。、あえて。、。、。、。。「。。、。、。、点。、。、。、」。へと、。、。、変え。さ。。、せて。。、。しまう。。、。、ことで、。、。、。、永遠。すら。も。、。、。、。一。、。つの。。、。、。、「。。、。、。形（。Form）。、。、。、」。の中に。、。、。収。、。める。。、。ための。、。、。、。、峻烈な。、。、。。、。、理。知。の。、。、。、。、術。、)"
+ },
+ {
+  "id": "s-matrix",
+  "word": "S-matrix",
+  "meaning": "S行列、。、。出会（。あ）。。、。い。。、。と。、。、。別（べつ）。。、。れ。。、。、その。。、。、。一。、。、。瞬、。に。、。、。起こる。、。、。あらゆる。、。、。、。変容。を。、。、記（。しる）。。、。した。。、。、。宇宙。の、。、。、帳（。と。ば。り）。、",
+  "era": "English scattering + Latin matrix",
+  "etymology": {
+   "components": [
+    "scattering",
+    "matrix (womb / source)"
+   ],
+   "original_statement": "The scattering matrix, relating the initial state and the final state of a physical system undergoing a scattering process."
+  },
+  "concept": "The script of change (「。。、。去（さ。）。。、。、。った。。、」。もの。と。、。、「。。、。、来（きた）。。、。、。る。。、。、。、」。もの。、。、。その。。、中心。。に。、。、ひっそり。と、。、。、。在（。あ）。。、。る。。、。一。、。つの。、。、。、。「。。、。、。。運命。、。、。、」。、。、。それは、。、。、。理知。が、。、。、。、宇宙。を。、。、。、一。、点の。、。、。、。乱（。みだ）。。、。れ。。、なく、。、。、。書き。、。、上げ。。、。、た。。、。、峻烈なる。、。、。、。、。、。、戯。、曲。、)"
+ },
+ {
+  "id": "cross-section",
+  "word": "Cross-section",
+  "meaning": "断面積、。、。粒子。が。、。、。お互い。に、。、。どれ。、。ほど。、。、。出会（。あ）。。、。い。。、。やす。い。。、。か。、。の。、。、峻烈。な、。、。、。。、的（。まと）。、の。、。、。広（ひろ）。。、。さ。、",
+  "era": "English cross + section",
+  "etymology": {
+   "components": [
+    "cross",
+    "sectio (a cutting)"
+   ],
+   "original_statement": "A measure of the probability that a specific process will occur when a radiant beam of particles or waves strikes a target system."
+  },
+  "concept": "The target of chance (「。。、どこ。まで。、。、」。近（ちか）。。、。づ。。、。けば。。、。、。「。。、。、。触れ。。、。、。あ。、。、う。。、。、。、」。ことが。、。、。、できる。、。のか。、。、という、。、。、理知。の、。峻烈な。、。。裁（。さ。）。。、き。、。、。それは、。、。、。、。宇宙。が。、。、。、。一。、点の。、。、。、。、。当（。あ）。。、。たり。。、。へと。、。、。、込（。こ。）。。、。めた。。、。、。、峻烈な。、。、。、。祈（。いの）。。、。り。、)"
+ },
+ {
+  "id": "vacuum-polarization",
+  "word": "Vacuum Polarization",
+  "meaning": "真空偏極、。、。何。も、。、。ない。。、。はず。の、。、。、。虚空。さえも。、。、。、。理知。の。、。、。。「。。、。、。震。え。、。、。、」。によって。、。、。、。不意に。、。、「。、。一。、。瞬。、。、」。だけ。、。、。、目覚める。。、。、。理知。、",
+  "era": "Latin vacuus + Greek polus",
+  "etymology": {
+   "components": [
+    "vacuus (empty)",
+    "polus (relating to poles)"
+   ],
+   "original_statement": "The process in which a background electromagnetic field produces virtual electron-positron pairs that change the distribution of charges and currents."
+  },
+  "concept": "The awake in void (「。。、。空（。から）。。、。、。っぽ。。、」。であ。った。。、はず。の。、。、。闇。が。、。、。不意に。、。、「。。、。、。、。光。、。、。、」。の、。、。。、。、。粒。。を。。、。、。生（う）。。、。み。。、。出し。。、。、。自ら。を、。。、。、。、着（き）。。、。飾（。かざ）。。、。る。。、。、。ことの、。、。、。理知。の、。。、あで。、。やか。。、な。。、。滑（なめ）。、。稽（けい）。。、。さ。、。、それは、。、。、。、宇宙。が。、。、。、沈。、。黙。、。、を。、。、。あえて。、。、。、拒（。こば）。。、。んだ。。、。、一。、。瞬、。の、。、。情。、。、熱。、)"
  }
 ];
