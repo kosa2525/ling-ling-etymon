@@ -356739,5 +356739,926 @@ const WORDS = [
 			]
 		},
 		"example": "Rational choice leads to an equilibrium."
+	},
+	{
+		"id": "sociology_129",
+		"word": "Sociology",
+		"meaning": "社会学",
+		"etymology": [
+			"Latin socius",
+			"Greek logos"
+		],
+		"concept": "Mapping companion-web",
+		"thinking": "仲間たちの理。人間が集まった時に立ち上がる力学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "solidarity_129",
+		"word": "Solidarity",
+		"meaning": "連帯",
+		"etymology": [
+			"Latin solidus"
+		],
+		"concept": "Whole entity",
+		"thinking": "凝固した一体感。バラバラの欠片が岩へと変わる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "alienation_129",
+		"word": "Alienation",
+		"meaning": "疎外",
+		"etymology": [
+			"Latin alienus"
+		],
+		"concept": "Stranger to self",
+		"thinking": "自分が生み出したものが他人のものとして立ちふさがる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "bureaucracy_129",
+		"word": "Bureaucracy",
+		"meaning": "官僚制",
+		"etymology": [
+			"French bureau",
+			"Greek kratos"
+		],
+		"concept": "Power of the desk",
+		"thinking": "事務机による支配。機能的秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "charisma_129",
+		"word": "Charisma",
+		"meaning": "カリスマ",
+		"etymology": [
+			"Greek kharis"
+		],
+		"concept": "Divine gift",
+		"thinking": "神の恵み。他者を従わせてしまう天賦の才。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "anomie_129",
+		"word": "Anomie",
+		"meaning": "アノミー",
+		"etymology": [
+			"Greek a-",
+			"nomos"
+		],
+		"concept": "Void of laws",
+		"thinking": "掟が消えた喪失。何を信じていいか分からぬ暗闇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "hegemony_129",
+		"word": "Hegemony",
+		"meaning": "ヘゲモニー",
+		"etymology": [
+			"Greek hegemonia"
+		],
+		"concept": "Dominance by consent",
+		"thinking": "導くこと。文化を通じた精神的支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "habitus_129",
+		"word": "Habitus",
+		"meaning": "ハビトゥス",
+		"etymology": [
+			"Latin habitus"
+		],
+		"concept": "Destiny in the body",
+		"thinking": "身体に染み付いた習慣。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "cultural_129",
+		"word": "Cultural Cap",
+		"meaning": "文化資本",
+		"etymology": [
+			"Culture"
+		],
+		"concept": "Invisible inheritance",
+		"thinking": "教養という資本。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "meritocracy_129",
+		"word": "Meritocracy",
+		"meaning": "能力主義",
+		"etymology": [
+			"Latin meritum",
+			"Greek kratos"
+		],
+		"concept": "Rule of talented",
+		"thinking": "価値ある働きによる支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "panopticon_129",
+		"word": "Panopticon",
+		"meaning": "パノプティコン",
+		"etymology": [
+			"Greek pan",
+			"optikos"
+		],
+		"concept": "Internalized gaze",
+		"thinking": "中心からの視線に晒され続ける牢獄。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "biopolitics_129",
+		"word": "Biopolitics",
+		"meaning": "生政治",
+		"etymology": [
+			"Greek bios",
+			"Politics"
+		],
+		"concept": "Governing body",
+		"thinking": "生命を直接的にコントロールする政治。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "totalitari_129",
+		"word": "Totalitarian",
+		"meaning": "全体主義",
+		"etymology": [
+			"Latin totalis"
+		],
+		"concept": "Absorption of self",
+		"thinking": "すべてが国家に飲み込まれる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "pluralism_129",
+		"word": "Pluralism",
+		"meaning": "多元主義",
+		"etymology": [
+			"Latin plus"
+		],
+		"concept": "Many-as-one",
+		"thinking": "多様な価値観が認め合う豊かさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "intersect_129",
+		"word": "Intersection",
+		"meaning": "交差性",
+		"etymology": [
+			"Latin inter-",
+			"secare"
+		],
+		"concept": "Layered bias",
+		"thinking": "境界が交差する歪み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "social_con_129",
+		"word": "Social Const",
+		"meaning": "社会構築",
+		"etymology": [
+			"Socius",
+			"Latin struere"
+		],
+		"concept": "Reality as belief",
+		"thinking": "皆で積み上げた虚構。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "glass_ceil_129",
+		"word": "Glass Ceiling",
+		"meaning": "ガラスの天井",
+		"etymology": [
+			"Glass"
+		],
+		"concept": "Invisible limit",
+		"thinking": "突き破れない不文律の壁。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "technocra_129",
+		"word": "Technocracy",
+		"meaning": "技術支配",
+		"etymology": [
+			"Greek tekhne",
+			"kratos"
+		],
+		"concept": "Rule of experts",
+		"thinking": "技術による支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "neolib_129",
+		"word": "Neoliberalism",
+		"meaning": "新自由主義",
+		"etymology": [
+			"Greek neos",
+			"Liberal"
+		],
+		"concept": "Everything market",
+		"thinking": "新しき自由。競争こそ正義。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "cosmopol_129",
+		"word": "Cosmopolitan",
+		"meaning": "世界市民",
+		"etymology": [
+			"Greek kosmos",
+			"polites"
+		],
+		"concept": "Universal citizen",
+		"thinking": "世界という街の住人。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "sectarian_129",
+		"word": "Sectarianism",
+		"meaning": "宗派主義",
+		"etymology": [
+			"Latin secta"
+		],
+		"concept": "Narrow path",
+		"thinking": "分かたれた一派への盲従。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "secularize_129",
+		"word": "Secularize",
+		"meaning": "世俗化",
+		"etymology": [
+			"Latin saecularis"
+		],
+		"concept": "Retreat of divine",
+		"thinking": "今この時代のことへ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "fundament_129",
+		"word": "Fundamental",
+		"meaning": "根本主義",
+		"etymology": [
+			"Latin fundamentum"
+		],
+		"concept": "Clinging to rock",
+		"thinking": "動かぬ基盤への回帰。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "stratify_129",
+		"word": "Stratification",
+		"meaning": "階層化",
+		"etymology": [
+			"Latin stratum"
+		],
+		"concept": "Geology of society",
+		"thinking": "重なった層の秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "caste_129",
+		"word": "Caste System",
+		"meaning": "カースト",
+		"etymology": [
+			"Casta"
+		],
+		"concept": "Fixed by birth",
+		"thinking": "生まれた瞬間の束縛。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "populism_129",
+		"word": "Populism",
+		"meaning": "ポピュリズム",
+		"etymology": [
+			"Latin populus"
+		],
+		"concept": "Uprising of many",
+		"thinking": "人々の情熱の煽動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "demagog_129",
+		"word": "Demagoguery",
+		"meaning": "デマゴギー",
+		"etymology": [
+			"Greek demos",
+			"agogos"
+		],
+		"concept": "False guide",
+		"thinking": "人々を導くフリをした嘘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "proletar_129",
+		"word": "Proletariat",
+		"meaning": "無産階級",
+		"etymology": [
+			"Latin proles"
+		],
+		"concept": "Future only",
+		"thinking": "子以外に何も持たぬ者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "bourgeois_129",
+		"word": "Bourgeoisie",
+		"meaning": "有産階級",
+		"etymology": [
+			"French burgeis"
+		],
+		"concept": "Wealthy dwellers",
+		"thinking": "街の住人という名の強者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "metab_129",
+		"word": "Social Metab",
+		"meaning": "社会代謝",
+		"etymology": [
+			"Metabolism"
+		],
+		"concept": "Exchange with Earth",
+		"thinking": "社会全体の物質循環。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "struct_129",
+		"word": "Structure",
+		"meaning": "構造",
+		"etymology": [
+			"Latin struere"
+		],
+		"concept": "Societal skeleton",
+		"thinking": "積み上げられた網目。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "agency_129",
+		"word": "Agency",
+		"meaning": "主体性",
+		"etymology": [
+			"Latin agere"
+		],
+		"concept": "Individual sparking",
+		"thinking": "なす力。檻を破る意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "egalitari_129",
+		"word": "Egalitarian",
+		"meaning": "平等主義",
+		"etymology": [
+			"French egal"
+		],
+		"concept": "Horizontal world",
+		"thinking": "等しいことへの確信。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "authorita_129",
+		"word": "Authoritarian",
+		"meaning": "権威主義",
+		"etymology": [
+			"Latin auctor"
+		],
+		"concept": "Obedience to source",
+		"thinking": "絶対的な服従。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "legitima_129",
+		"word": "Legitimacy",
+		"meaning": "正当性",
+		"etymology": [
+			"Latin lex"
+		],
+		"concept": "Power consensus",
+		"thinking": "法にかなっていること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "sovereign_129",
+		"word": "Sovereignty",
+		"meaning": "主権",
+		"etymology": [
+			"Latin super"
+		],
+		"concept": "Ultimate power",
+		"thinking": "最上の権威。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "autarchy_129",
+		"word": "Autarchy",
+		"meaning": "自給自足",
+		"etymology": [
+			"Autos",
+			"Arkhein"
+		],
+		"concept": "Ruling oneself",
+		"thinking": "自分だけの支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "republica_129",
+		"word": "Republicanism",
+		"meaning": "共和主義",
+		"etymology": [
+			"Res",
+			"Publica"
+		],
+		"concept": "Shared concern",
+		"thinking": "公的な事柄への参画。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "democrat_129",
+		"word": "Democratize",
+		"meaning": "民主化",
+		"etymology": [
+			"Demos",
+			"Kratos"
+		],
+		"concept": "People's rule",
+		"thinking": "民の手への返還。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "gerontocr_129",
+		"word": "Gerontocracy",
+		"meaning": "老人支配",
+		"etymology": [
+			"Geron",
+			"Kratos"
+		],
+		"concept": "Rule of elder",
+		"thinking": "老人による支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "kakistocr_129",
+		"word": "Kakistocracy",
+		"meaning": "衆愚政治",
+		"etymology": [
+			"Kakistos",
+			"Kratos"
+		],
+		"concept": "Rule of worst",
+		"thinking": "最悪な者による支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "plutocrac_129",
+		"word": "Plutocracy",
+		"meaning": "金権政治",
+		"etymology": [
+			"Ploutos",
+			"Kratos"
+		],
+		"concept": "Rule of wealth",
+		"thinking": "富による支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "theocracy_129",
+		"word": "Theocracy",
+		"meaning": "神権政治",
+		"etymology": [
+			"Theos",
+			"Kratos"
+		],
+		"concept": "Rule of God",
+		"thinking": "天の声による支配。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "meritocra_129s",
+		"word": "Meritocracy",
+		"meaning": "能力主義社会",
+		"etymology": [
+			"Meritum",
+			"Kratos"
+		],
+		"concept": "Ruthless climb",
+		"thinking": "才能こそが王である世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
+	},
+	{
+		"id": "biopolit_129s",
+		"word": "Biopolitics",
+		"meaning": "生の管理",
+		"etymology": [
+			"Bios",
+			"Politics"
+		],
+		"concept": "Medical power",
+		"thinking": "肉体機能を管理する権力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "社会という名の森を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"社会学と思想への扉。"
+			]
+		},
+		"example": "Society is complex."
 	}
 ];
