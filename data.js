@@ -332588,5 +332588,1023 @@ const WORDS = [
 			]
 		},
 		"example": "Group theory is the mathematics of symmetry."
+	},
+	{
+		"id": "foliation_math",
+		"word": "Foliation",
+		"meaning": "葉層（ようそう）構造",
+		"etymology": {
+			"components": [
+				"Latin folium (leaf)"
+			],
+			"original_statement": "From Latin foliationem, from folium 'leaf'."
+		},
+		"concept": "Leaf-like layering of space",
+		"thinking": "空間を薄い紙（Folium）を重ねたように分解し、滑らかに敷き詰める構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "tangent_bundle",
+		"word": "Tangent Bundle",
+		"meaning": "接束（せっそく）",
+		"etymology": {
+			"components": [
+				"Latin tangere (to touch)"
+			],
+			"original_statement": "From Latin tangens 'touching'."
+		},
+		"concept": "The space of all possible velocities",
+		"thinking": "図形上のあらゆるところで、どの方向に進めるかという『速度（接線）』のすべての可能性を束ねた巨大な空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "cotangent_bundle",
+		"word": "Cotangent Bundle",
+		"meaning": "余接束（よせつそく）",
+		"etymology": {
+			"components": [
+				"Co- + Tangent"
+			],
+			"original_statement": "The dual space of the tangent bundle."
+		},
+		"concept": "The space of phases",
+		"thinking": "物理学における『運動量』が住む場所。接空間の鏡映しであり、力学的世界観の舞台。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "transversality_math",
+		"word": "Transversality",
+		"meaning": "横断性（おうだんせい）",
+		"etymology": {
+			"components": [
+				"Latin trans- + vertere"
+			],
+			"original_statement": "The property of spaces crossing each other in a stable way."
+		},
+		"concept": "Stable crossing",
+		"thinking": "「斜めに（Trans）」「曲がる（Vert）」。二つのものが、ただ重なるのではなく、互いに最も『誠実』かつ『安定』した方法で切り結ぶ状態。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "cobordism_theory",
+		"word": "Cobordism",
+		"meaning": "コボルディズム、縁（へり）の幾何",
+		"etymology": {
+			"components": [
+				"French co- + bord (edge)"
+			],
+			"original_statement": "From French bord 'edge / boundary'."
+		},
+		"concept": "Being boundaries of a higher space",
+		"thinking": "二つの図形が、より高次の空間の『境界（Bord）』として繋がっていること。過去と未来の断面図を繋ぐ物語の連続性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "morse_theory",
+		"word": "Morse Theory",
+		"meaning": "モース理論",
+		"etymology": {
+			"components": [
+				"Morse"
+			],
+			"original_statement": "Studying topology through differentiable functions."
+		},
+		"concept": "Shape from height function",
+		"thinking": "山に水を溜めるように、高さ（関数）の変化を見ることで、その地形（トポロジー）の起伏を解き明かす手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "index_theorem",
+		"word": "Index Theorem",
+		"meaning": "指数定理",
+		"etymology": {
+			"components": [
+				"Index"
+			],
+			"original_statement": "Atiyah-Singer theorem relating analysis to topology."
+		},
+		"concept": "Unity of analysis and topology",
+		"thinking": "解析学（微分方程式の解の数）とトポロジー（図形の穴の数）が、実は一本の糸で結ばれているという驚くべき真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "pontryagin_class",
+		"word": "Pontryagin",
+		"meaning": "ポントリャーギン類",
+		"etymology": {
+			"components": [
+				"Pontryagin"
+			],
+			"original_statement": "Characteristic classes of real vector bundles."
+		},
+		"concept": "Defining the twist of real space",
+		"thinking": "実世界の空間の『ねじれ』や『偏り』を数値で表現するための不変量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "chern_class",
+		"word": "Chern Class",
+		"meaning": "チャーン類",
+		"etymology": {
+			"components": [
+				"Chern"
+			],
+			"original_statement": "Characteristic classes of complex vector bundles."
+		},
+		"concept": "The topology of complex bundles",
+		"thinking": "複素空間における『情報（繊維）の絡まり具合』を、エレガントに記述する言語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "stiefel_whitney",
+		"word": "Stiefel-Whitney",
+		"meaning": "スティフェル・ホイットニー類",
+		"etymology": {
+			"components": [
+				"Stiefel",
+				"Whitney"
+			],
+			"original_statement": "Characteristic classes in mod 2 cohomology."
+		},
+		"concept": "The simplest measure of twist",
+		"thinking": "最も根源的な二元論（0か1か）の世界において、空間の『裏返り』を捉える最小の不変量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "immersion_math",
+		"word": "Immersion",
+		"meaning": "浸浸（しんしん）、イマージョン",
+		"etymology": {
+			"components": [
+				"Latin in- + mergere"
+			],
+			"original_statement": "A map where the derivative is everywhere injective."
+		},
+		"concept": "Sinking in locally",
+		"thinking": "全体としては重なっていてもいいが、局所的にはどこまでも『滑らかに』他の空間へと身を沈めている様子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "embedding_math",
+		"word": "Embedding",
+		"meaning": "埋め込み",
+		"etymology": {
+			"components": [
+				"English em- + bed"
+			],
+			"original_statement": "A structure-preserving injective map."
+		},
+		"concept": "Placing strictly within",
+		"thinking": "壊すことなく、傷つけることなく、ある空間を別の広い空間へと完全に、かつ潔く収めること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "whitney_umbrella",
+		"word": "Whitney Umbrella",
+		"meaning": "ホイットニーの傘",
+		"etymology": {
+			"components": [
+				"Whitney"
+			],
+			"original_statement": "A famous singular surface in R^3."
+		},
+		"concept": "A model of singularity",
+		"thinking": "数学的な『傘』のように見えるが、その中心には理知を拒む特異な一本の線（柄）が通っている伝説の図形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "surgery_topology",
+		"word": "Surgery",
+		"meaning": "手術、外科的手術(幾何学)",
+		"etymology": {
+			"components": [
+				"Greek kheir (hand) + ergon (work)"
+			],
+			"original_statement": "From Greek kheirourgia 'handiwork'."
+		},
+		"concept": "Changing topology by cutting and gluing",
+		"thinking": "図形の一部を切り取り（切除）、別の部品を縫い合わせる（縫合）ことで、空間の性質を劇的に書き換えること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "handlebody_topology",
+		"word": "Handlebody",
+		"meaning": "ハンドル体",
+		"etymology": {
+			"components": [
+				"Handle"
+			],
+			"original_statement": "A manifold formed by attaching handles to a ball."
+		},
+		"concept": "Building shapes with handles",
+		"thinking": "球体に『取っ手（ハンドル）』を一つずつ取り付けていくことで、思い通りの複雑な世界を構築していく遊び心ある手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "jet_bundle",
+		"word": "Jet Bundle",
+		"meaning": "ジェット束",
+		"etymology": {
+			"components": [
+				"French jet (a throw / stream)"
+			],
+			"original_statement": "From French jet 'a throw'."
+		},
+		"concept": "The bundle of taylor expansions",
+		"thinking": "一点に閉じ込められた、高次の『予兆（微分の情報）』をすべて噴水のように吹き出させた情報の空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "symplectic_manifold",
+		"word": "Symplectic Manifold",
+		"meaning": "シンプレクティック多様体",
+		"etymology": {
+			"components": [
+				"Greek symplektikos"
+			],
+			"original_statement": "Intertwined geometry preserving area."
+		},
+		"concept": "The space of Hamiltonian life",
+		"thinking": "保存される『面積（エネルギー）』に守られながら、全ての力が滑らかに巡り続ける、物理学者の理想郷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "contact_geometry",
+		"word": "Contact Geometry",
+		"meaning": "接触幾何学",
+		"etymology": {
+			"components": [
+				"Latin con- + tangere"
+			],
+			"original_statement": "Odd-dimensional counterpart of symplectic geometry."
+		},
+		"concept": "Maximum non-integrability",
+		"thinking": "「共に（Con）」「触れる（Tang）」。どこまで行っても平らになろうとしない、常に激しくねじれ続ける奇数次元のダイナミズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "reeb_vector_field",
+		"word": "Reeb",
+		"meaning": "リーブ・ベクトル場",
+		"etymology": {
+			"components": [
+				"Reeb"
+			],
+			"original_statement": "A canonical vector field in contact geometry."
+		},
+		"concept": "The steady flow of contact space",
+		"thinking": "ねじれた世界の中で、唯一信じるべき『真っ直ぐな流れ』の指針。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "holonomy_group",
+		"word": "Holonomy",
+		"meaning": "ホロノミー",
+		"etymology": {
+			"components": [
+				"Greek holos + nomos"
+			],
+			"original_statement": "From Greek holos 'whole' + nomos 'law'."
+		},
+		"concept": "The law of the whole course",
+		"thinking": "「全体（Holo）」を「司る法（Nomos）」。曲がった空間を一巡りし、戻ってきたときにベクトルがどれだけ回転していたか、世界の歪みを測る知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "curvature_tensor",
+		"word": "Curvature",
+		"meaning": "曲率（きょくりつ）、曲がり",
+		"etymology": {
+			"components": [
+				"Latin curvare"
+			],
+			"original_statement": "Measure of failure of being flat."
+		},
+		"concept": "Measure of deviation from flatness",
+		"thinking": "「平らであること」をどれだけ拒絶しているか。その空間に潜む『意志の強さ（曲がり）』の指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "connection_math",
+		"word": "Connection",
+		"meaning": "接続、コネクション",
+		"etymology": {
+			"components": [
+				"Latin com- + nectere"
+			],
+			"original_statement": "From Latin connectere 'to bind together'."
+		},
+		"concept": "Tool for parallel transport",
+		"thinking": "「共に（Com）」「編む（Nect）」。離れた場所にある点たちの『言葉（接空間）』を正しく通じさせるための、宇宙の翻訳ルール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "parallel_transport",
+		"word": "Parallel Transport",
+		"meaning": "平行移動",
+		"etymology": {
+			"components": [
+				"Parallel + Transport"
+			],
+			"original_statement": "Moving a vector without changing its orientation relative to the connection."
+		},
+		"concept": "Carrying the orientation without change",
+		"thinking": "自分の『信念（向き）』を一切変えずに、曲がった世界の中を最後まで運び抜くこと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "bundle_map",
+		"word": "Bundle Map",
+		"meaning": "束の写像",
+		"etymology": {
+			"components": [
+				"Bundle"
+			],
+			"original_statement": "A map preserving the structure of fiber bundles."
+		},
+		"concept": "Translating bundle data",
+		"thinking": "土台の動きと、その上に載っている膨大なデータ（繊維）の動きを同期させて運ぶ、高次元の物流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "submersion_math",
+		"word": "Submersion",
+		"meaning": "沈め込み、サブマージョン",
+		"etymology": {
+			"components": [
+				"Latin sub- + mergere"
+			],
+			"original_statement": "A map whose derivative is surjective."
+		},
+		"concept": "Spreading over the lower space",
+		"thinking": "広い世界を、より次元の低い世界へと、溢れ出さんばかりにまんべんなく『押し広げる』こと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "isomorphism_topo",
+		"word": "Homeomorphism",
+		"meaning": "同相写像",
+		"etymology": {
+			"components": [
+				"Greek homoios + morphe"
+			],
+			"original_statement": "From Greek homoios 'similar' + morphe 'form'."
+		},
+		"concept": "Continuous reshaping similarity",
+		"thinking": "切ったり貼ったりしなければ、形をぐにゃぐにゃに変えても同じだと見なす、トポロジーの究極の柔軟性（Homoios）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "exotic_sphere",
+		"word": "Exotic Sphere",
+		"meaning": "エキゾチック球面",
+		"etymology": {
+			"components": [
+				"Greek exotikos"
+			],
+			"original_statement": "Spheres that are homeomorphic but not diffeomorphic to the standard sphere."
+		},
+		"concept": "Strange but familiar forms",
+		"thinking": "「外来の（Exotic）」もの。位相的には同じ丸い球体（Homeomorphic）なのに、どうしても滑らかに（Diffeomorphic）は重ね合わさらない、この世の不思議な歪みの具現。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "sectional_curvature",
+		"word": "Sectional Curvature",
+		"meaning": "断面曲率",
+		"etymology": {
+			"components": [
+				"Sectional"
+			],
+			"original_statement": "Curvature of a surface along a plane."
+		},
+		"concept": "Regional stiffness of space",
+		"thinking": "空間をある断面（Section）で切り抜いたときに見えてくる、その方向特有の『曲がり（意地）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "ricci_curvature",
+		"word": "Ricci Curvature",
+		"meaning": "リッチ曲率",
+		"etymology": {
+			"components": [
+				"Ricci"
+			],
+			"original_statement": "The trace of the sectional curvature in a given direction."
+		},
+		"concept": "The concentration of weight",
+		"thinking": "アインシュタインの宇宙方程式の主役。重力がどのように空間を『濃縮』し、曲げているかを司る指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "scalar_curvature",
+		"word": "Scalar Curvature",
+		"meaning": "スカラー曲率",
+		"etymology": {
+			"components": [
+				"Scalar"
+			],
+			"original_statement": "The simplest invariant of a Riemannian manifold."
+		},
+		"concept": "The total volume twist",
+		"thinking": "すべての方向を平均したあとに残る、空間の全般的な『たわみ』をたった一つの数で表したもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "riemannian_metric",
+		"word": "Riemannian Metric",
+		"meaning": "リーマン計量",
+		"etymology": {
+			"components": [
+				"Riemann"
+			],
+			"original_statement": "Definition of distance on a manifold."
+		},
+		"concept": "The yardstick of a manifold",
+		"thinking": "空間のあらゆる場所で「長さ」や「角度」を定義する、存在のための最も基本的な『物差し』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "geodesic_flow",
+		"word": "Geodesic Flow",
+		"meaning": "測地流（そくちりゅう）",
+		"etymology": {
+			"components": [
+				"Geodesic",
+				"Flow"
+			],
+			"original_statement": "The movement along all shortest paths simultaneously."
+		},
+		"concept": "Stream of shortest paths",
+		"thinking": "あらゆる方向へ向かう『最短経路（測地線）』たちが、一斉に、かつ滑らかに流れていく、美しき全方位への前進。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "exponential_map",
+		"word": "Exponential Map",
+		"meaning": "指数写像",
+		"etymology": {
+			"components": [
+				"Latin ex- + ponere"
+			],
+			"original_statement": "Mapping vectors to points on a manifold via geodesics."
+		},
+		"concept": "Projecting thoughts into space",
+		"thinking": "接空間（思考）という真っ直ぐなベクトルを、図形の実体（現実）という曲がった世界へ『射出』する豪快な一撃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "cut_locus",
+		"word": "Cut Locus",
+		"meaning": "カット・ローカス、切断跡",
+		"etymology": {
+			"components": [
+				"Cut",
+				"Latin locus (place)"
+			],
+			"original_statement": "The points where multiple geodesics from a single point meet."
+		},
+		"concept": "Where paths collide",
+		"thinking": "一つの点から世界へと広まった『最短の旅（測地線）』たちが、地球の裏側で初めて出会い、衝突する『境目（Locus）』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "gradient_flow",
+		"word": "Gradient Flow",
+		"meaning": "勾配流（こうばいりゅう）",
+		"etymology": {
+			"components": [
+				"Gradient",
+				"Flow"
+			],
+			"original_statement": "Flow following the steepest ascent of a function."
+		},
+		"concept": "Descent to the minimum",
+		"thinking": "最も勾配のきつい方向へ、一瞬の迷いもなく、重力に従うように駆け下りていく、純粋な意志の奔流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "hamiltonian_flow",
+		"word": "Hamiltonian Flow",
+		"meaning": "ハミルトン流",
+		"etymology": {
+			"components": [
+				"Hamilton"
+			],
+			"original_statement": "Dynamics preserving energy in phase space."
+		},
+		"concept": "The loop of energy preservation",
+		"thinking": "エネルギーが一定に保たれ、変化し続けながらも決して消え去ることのない、調和した軌道の永遠の繰り返し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "orbit_math",
+		"word": "Orbit",
+		"meaning": "軌道（きどう）",
+		"etymology": {
+			"components": [
+				"Latin orbita (wheel track)"
+			],
+			"original_statement": "From Latin orbita 'wheel track / circuit / path'."
+		},
+		"concept": "The path of history",
+		"thinking": "過去から積み重ねられた「車輪の跡（Orbita）」。あなたが歩んできた、消えることのない唯一の動的な足跡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "stabilizer_group",
+		"word": "Stabilizer",
+		"meaning": "固定部分群（こていぶぶんぐん）",
+		"etymology": {
+			"components": [
+				"Latin stabilis"
+			],
+			"original_statement": "Subgroup fixing a given point."
+		},
+		"concept": "The anchor of a point",
+		"thinking": "「安定（Stable）」させるもの。周囲がどんなに動いても、その一点だけは動かさないと誓った、揺るぎない守護者たちの集まり。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "group_action",
+		"word": "Group Action",
+		"meaning": "群の作用",
+		"etymology": {
+			"components": [
+				"Group",
+				"Action"
+			],
+			"original_statement": "A way for a group to move points on a space."
+		},
+		"concept": "Symmetry in motion",
+		"thinking": "抽象的な対称性（群）が、具体的な世界（空間）を『動かし、変容させる』という、現実への干渉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "quotient_space",
+		"word": "Quotient Space",
+		"meaning": "商空間（しょうくうかん）",
+		"etymology": {
+			"components": [
+				"Latin quotiens"
+			],
+			"original_statement": "Space formed by identifying points equivalent under some rule."
+		},
+		"concept": "Condensed reality",
+		"thinking": "似た者同士を「同じだ」と見なして一つにまとめる（割る）ことで現れる、よりシンプルで本質的な、凝縮された世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "fundamental_group",
+		"word": "Fundamental Group",
+		"meaning": "基本群（きほんぐん）",
+		"etymology": {
+			"components": [
+				"Fundamental"
+			],
+			"original_statement": "First homotopy group measuring loops in a space."
+		},
+		"concept": "The basic DNA of loops",
+		"thinking": "空間の中に、どのような『ほどけない輪（結び目）』があるか。図形の最も『基本（Fundamental）』的な個性を数え上げる群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "simply_connected",
+		"word": "Simply Connected",
+		"meaning": "単連結な",
+		"etymology": {
+			"components": [
+				"Simple",
+				"Connect"
+			],
+			"original_statement": "A space where every loop can be shrunk to a point."
+		},
+		"concept": "No internal holes",
+		"thinking": "どんな『輪（こだわり）』も、ふっと一点に消し去ることができる、しがらみのない真っ新で広大な空間の状態。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "covering_space",
+		"word": "Covering Space",
+		"meaning": "被覆空間（ひふくくうかん）",
+		"etymology": {
+			"components": [
+				"Covering"
+			],
+			"original_statement": "A space 'covering' another with a local homeomorphism."
+		},
+		"concept": "Unrolling the mystery",
+		"thinking": "ねじれた世界（円など）を、上からそっと『広げて（Covering）』被せることで、迷いを解きほぐした、より高い視点の空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
+	},
+	{
+		"id": "differential_form",
+		"word": "Differential Form",
+		"meaning": "微分形式",
+		"etymology": {
+			"components": [
+				"Differentia + Form"
+			],
+			"original_statement": "Integrands that are independent of coordinate systems."
+		},
+		"concept": "The essence of integration",
+		"thinking": "どの視点（座標）から見ても変わらない、空間が持つ『測られるべき量』の最も純粋な形式（Form）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の肌触りを感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の彼方へ。"
+			]
+		},
+		"example": "Space is not empty, but filled with structure."
 	}
 ];
