@@ -336542,5 +336542,1044 @@ const WORDS = [
 			]
 		},
 		"example": "In the complex plane, every point is a gateway to infinity."
+	},
+	{
+		"id": "hodge_theory",
+		"word": "Hodge Theory",
+		"meaning": "ホッジ理論",
+		"etymology": {
+			"components": [
+				"Hodge"
+			],
+			"original_statement": "Relating topology to harmonic forms."
+		},
+		"concept": "Decomposition of cohomology",
+		"thinking": "複雑な穴の形を、最も純粋な音に分解して理解しようとする出会い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "hodge_decomposition",
+		"word": "Hodge Decomposition",
+		"meaning": "ホッジ分解",
+		"etymology": {
+			"components": [
+				"Hodge"
+			],
+			"original_statement": "Splitting cohomology into pure types."
+		},
+		"concept": "Splitting the spectrum of space",
+		"thinking": "複素空間の真実を、純粋な色のグラデーションに分けて読み解くこと。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "hodge_diamond",
+		"word": "Hodge Diamond",
+		"meaning": "ホッジ・ダイヤモンド",
+		"etymology": {
+			"components": [
+				"Hodge"
+			],
+			"original_statement": "The table of Hodge numbers."
+		},
+		"concept": "Table of topological beauty",
+		"thinking": "ホッジ数たちが織りなす、完璧に対称的な菱形の図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "kahler_manifold",
+		"word": "Kahler Manifold",
+		"meaning": "ケーラー多様体",
+		"etymology": {
+			"components": [
+				"Kahler"
+			],
+			"original_statement": "Compatibility of three structures."
+		},
+		"concept": "Triple harmony of geometry",
+		"thinking": "複素、リーマン、シンプレクティック。三つの理が同居する聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "fubini_study_metric",
+		"word": "Fubini-Study",
+		"meaning": "フビニ・スタディ計量",
+		"etymology": {
+			"components": [
+				"Fubini",
+				"Study"
+			],
+			"original_statement": "Metric on projective space."
+		},
+		"concept": "The default metric of light",
+		"thinking": "射影空間という、光の通り道に備わった最も自然な物差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "projective_space",
+		"word": "Projective Space",
+		"meaning": "射影空間",
+		"etymology": {
+			"components": [
+				"Latin pro- + jacere"
+			],
+			"original_statement": "Space of lines through the origin."
+		},
+		"concept": "The space of perspectives",
+		"thinking": "点ではなく「まなざし」そのものを住人とした空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "grassmannian_manifold",
+		"word": "Grassmannian",
+		"meaning": "グラスマン多様体",
+		"etymology": {
+			"components": [
+				"Grassmann"
+			],
+			"original_statement": "Space of subspaces."
+		},
+		"concept": "The geometry of possibilities",
+		"thinking": "あらゆる次元の切り取り方が滑らかに移り変わる空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "chern_character",
+		"word": "Chern Character",
+		"meaning": "チャーン指標",
+		"etymology": {
+			"components": [
+				"Chern"
+			],
+			"original_statement": "Map from K-theory to cohomology."
+		},
+		"concept": "The bridge of characteristic info",
+		"thinking": "束のねじれを波の言葉へと、誠実に翻訳する使者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "todd_class",
+		"word": "Todd Class",
+		"meaning": "トッド類",
+		"etymology": {
+			"components": [
+				"Todd"
+			],
+			"original_statement": "Invariants in Riemann-Roch."
+		},
+		"concept": "The weight of smooth existence",
+		"thinking": "空間の滑らかさが持つ重みを、静かに調整している不変量。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "hirzebruch_riemann_roch",
+		"word": "Hirzebruch",
+		"meaning": "ヒルツェブルフ・リーマン・ロッホ",
+		"etymology": {
+			"components": [
+				"Hirzebruch"
+			],
+			"original_statement": "Grand unified formula."
+		},
+		"concept": "Unity of sections and topology",
+		"thinking": "あらゆる次元の表現の豊かさを、トポロジーの言葉で予言する数式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "derived_geometry",
+		"word": "Derived Algebraic",
+		"meaning": "導来代数幾何学",
+		"etymology": {
+			"components": [
+				"Derived"
+			],
+			"original_statement": "Geometry on complexes."
+		},
+		"concept": "Geometry of higher corrections",
+		"thinking": "情報の背後に無限の補正項が隠されていると見なす、精緻な幾何。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "infty_stack",
+		"word": "Infinity Stack",
+		"meaning": "無限スタック",
+		"etymology": {
+			"components": [
+				"Infinity"
+			],
+			"original_statement": "Sheaf of categories."
+		},
+		"concept": "Hierarchy of infinite symmetries",
+		"thinking": "対称性が無限に階層を成しているような、深遠なる情報の山。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "sheaf_on_stack",
+		"word": "Stacky Sheaf",
+		"meaning": "スタック上の層",
+		"etymology": {
+			"components": [
+				"Stack",
+				"Sheaf"
+			],
+			"original_statement": "Compatibility with internal symmetry."
+		},
+		"concept": "Information with internal twist",
+		"thinking": "空間のねじれと情報のねじれが、完璧に同期して響き合う状態。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "deformation_theory",
+		"word": "Deformation",
+		"meaning": "変形理論",
+		"etymology": {
+			"components": [
+				"Latin de- + formare"
+			],
+			"original_statement": "Studying tiny changes."
+		},
+		"concept": "The science of small shifts",
+		"thinking": "完成された美しさを、微かな摂動によって一歩先へ進める理論。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "obstruction_deformation",
+		"word": "Obstruction Class",
+		"meaning": "障害類",
+		"etymology": {
+			"components": [
+				"Obstruction"
+			],
+			"original_statement": "Prevents further deformation."
+		},
+		"concept": "The 'No' of the universe",
+		"thinking": "「これ以上は変えられません」という宇宙の決定的な不可能性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "tangent_space_stack",
+		"word": "Derived Tangent",
+		"meaning": "導来接空間",
+		"etymology": {
+			"components": [
+				"Tangent"
+			],
+			"original_statement": "Generalization of tangent space."
+		},
+		"concept": "The spectrum of velocity",
+		"thinking": "進むべき方向が、情報のスペクトルとして立ち上がっている場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "moduli_stack",
+		"word": "Moduli Stack",
+		"meaning": "モジュライ・スタック",
+		"etymology": {
+			"components": [
+				"Modulus"
+			],
+			"original_statement": "The home of all structures."
+		},
+		"concept": "The home of all structures",
+		"thinking": "すべての存在が、対称性を保ったまま共に住んでいるカタログ空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "k_theory_derived",
+		"word": "Derived K-theory",
+		"meaning": "導来K理論",
+		"etymology": {
+			"components": [
+				"Derived"
+			],
+			"original_statement": "Invariants of derived categories."
+		},
+		"concept": "Universal classes of derived structures",
+		"thinking": "プロセスそのもののねじれの総和を、新しい数体系で統治する試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "l_group_langlands",
+		"word": "L-group",
+		"meaning": "L群",
+		"etymology": {
+			"components": [
+				"Langlands"
+			],
+			"original_statement": "Dual group in Langlands program."
+		},
+		"concept": "The mirror of representation",
+		"thinking": "ある表現の世界を、全く別の言葉で語り直すための「鏡」。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "langlands_dual",
+		"word": "Dual Group",
+		"meaning": "双対群",
+		"etymology": {
+			"components": [
+				"Latin dualis"
+			],
+			"original_statement": "Counterpart of a group."
+		},
+		"concept": "The arithmetic shadow Group",
+		"thinking": "実体の背後に潜む、数論的な「影の主役」たる鏡像の群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "motive_tate",
+		"word": "Tate Motive",
+		"meaning": "テイト・モチーフ",
+		"etymology": {
+			"components": [
+				"Tate"
+			],
+			"original_statement": "Building blocks of motives."
+		},
+		"concept": "The atom of pure weight",
+		"thinking": "幾何学を構成する、最も純粋でシンプルな「重み」の原子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "crystalline_comparison",
+		"word": "Comparison",
+		"meaning": "比較定理",
+		"etymology": {
+			"components": [
+				"Latin comparare"
+			],
+			"original_statement": "Connecting different cohomologies."
+		},
+		"concept": "Connecting different mathematical lights",
+		"thinking": "異なる波長で見た真理が、実は一つの存在であることを証明する比較。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "p_adic_hodge",
+		"word": "p-adic Hodge",
+		"meaning": "p進ホッジ理論",
+		"etymology": {
+			"components": [
+				"p-adic",
+				"Hodge"
+			],
+			"original_statement": "Hodge theory over p-adic fields."
+		},
+		"concept": "Harmony in the p-adic realm",
+		"thinking": "冷たいp進数の世界に、滑らかなホッジの調和を持ち込む統合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "perverse_sheaf_complex",
+		"word": "Perverse Complex",
+		"meaning": "偏屈な複体",
+		"etymology": {
+			"components": [
+				"Latin perversus"
+			],
+			"original_statement": "Complex used in intersection homology."
+		},
+		"concept": "The beautiful weirdness",
+		"thinking": "理を外れた歪な姿の中に、対称性の真髄を秘めた情報の鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "intersection_homology",
+		"word": "Intersection Homology",
+		"meaning": "交差ホモロジー",
+		"etymology": {
+			"components": [
+				"Intersection"
+			],
+			"original_statement": "Homology for singular spaces."
+		},
+		"concept": "The repair of singularities",
+		"thinking": "図形の傷跡を巧みな交差で癒し、失われた真理を復元する福音。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "canonical_singularities",
+		"word": "Canonical Singular",
+		"meaning": "標準特異点",
+		"etymology": {
+			"components": [
+				"Canonical"
+			],
+			"original_statement": "Mild singularities for geometry."
+		},
+		"concept": "The allowed imperfections",
+		"thinking": "「正典」として許容される、制御可能な慎ましき尖り。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "log_geometry",
+		"word": "Log Geometry",
+		"meaning": "対数幾何学",
+		"etymology": {
+			"components": [
+				"Logarithmic"
+			],
+			"original_statement": "Enriching schemes for boundaries."
+		},
+		"concept": "Geometry of boundaries and poles",
+		"thinking": "境界を単なる欠落ではなく、豊かな響きを持つ存在とする手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "tannakian_reconstruction",
+		"word": "Reconstruction",
+		"meaning": "再構築",
+		"etymology": {
+			"components": [
+				"Latin re- + construere"
+			],
+			"original_statement": "Building a group back."
+		},
+		"concept": "Resurrecting the hidden symmetry",
+		"thinking": "バラバラになった断片から、かつての輝かしい正体を甦らせること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "formal_group_law",
+		"word": "Formal Group",
+		"meaning": "形式群",
+		"etymology": {
+			"components": [
+				"Formal"
+			],
+			"original_statement": "Local laws near zero."
+		},
+		"concept": "The local embryo of a group",
+		"thinking": "一点の周りでこっそりと芽生えている、群という生命の種子。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "p_divisible_group",
+		"word": "p-divisible",
+		"meaning": "p可除群",
+		"etymology": {
+			"components": [
+				"p-divisible"
+			],
+			"original_statement": "Groups divisible by p infinity."
+		},
+		"concept": "The group of infinite p-fluidity",
+		"thinking": "素数pで何度でも滑らかに割り切れる、流動性ある情報の塊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "fontaine_period_ring",
+		"word": "Period Ring",
+		"meaning": "周期環",
+		"etymology": {
+			"components": [
+				"Fontaine"
+			],
+			"original_statement": "Large rings for comparison."
+		},
+		"concept": "The grand container of comparison",
+		"thinking": "異なる世界の言葉を、一つの場所で出会わせるための巨大な会議場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "slope_filtration",
+		"word": "Slope Filtration",
+		"meaning": "勾配フィルトレーション",
+		"etymology": {
+			"components": [
+				"Slope"
+			],
+			"original_statement": "Filtering by characteristic speeds."
+		},
+		"concept": "Sorting by potential speed",
+		"thinking": "情報をその勢いに応じて、深さごとに層分けして整理すること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "harder_narasimhan",
+		"word": "Harder-Narasimhan",
+		"meaning": "H-N濾過",
+		"etymology": {
+			"components": [
+				"Harder"
+			],
+			"original_statement": "Filtration by stability."
+		},
+		"concept": "The hierarchy of stability",
+		"thinking": "存在の質を厳格に順序付けて配置する、理の高き整理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "semistable_bundle",
+		"word": "Semistable",
+		"meaning": "半安定な",
+		"etymology": {
+			"components": [
+				"Semi- + Stable"
+			],
+			"original_statement": "Bundles with balanced stability."
+		},
+		"concept": "The balance of existence",
+		"thinking": "過剰な主張をせず、バランスを崩さない程度に安定している美学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "geometrized_physics",
+		"word": "Geometrization",
+		"meaning": "幾何学化",
+		"etymology": {
+			"components": [
+				"Greek geometria"
+			],
+			"original_statement": "Physics as geometry."
+		},
+		"concept": "Physics as Pure Form",
+		"thinking": "目に見えない力や相互作用を、図形の歪みとして描き出す統合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "cohomology_with_weights",
+		"word": "Mixed Hodge",
+		"meaning": "混合ホッジ構造",
+		"etymology": {
+			"components": [
+				"Mixed"
+			],
+			"original_statement": "Generalization for non-smooth varieties."
+		},
+		"concept": "Universal harmony for the broken",
+		"thinking": "不完全な世界であっても、なおそこに調和の種を見出す勇気ある拡張。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "weight_filtration",
+		"word": "Weight Filtr",
+		"meaning": "ウェイト濾過",
+		"etymology": {
+			"components": [
+				"Weight"
+			],
+			"original_statement": "Revealing topological layers."
+		},
+		"concept": "Grading the depth of truth",
+		"thinking": "一見平坦な真理の中に、重みに応じた深い階層性と奥行きを見出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "monomial_ideal",
+		"word": "Monomial",
+		"meaning": "単項式イデアル",
+		"etymology": {
+			"components": [
+				"Mono-"
+			],
+			"original_statement": "Ideal generated by single power terms."
+		},
+		"concept": "The pure axis of algebra",
+		"thinking": "余分な要素を排し、一つのべきの力だけで立ち上がっているイデアル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "syzygy_algebra",
+		"word": "Syzygy",
+		"meaning": "シジジー",
+		"etymology": {
+			"components": [
+				"Greek syzygia"
+			],
+			"original_statement": "Relations between relations."
+		},
+		"concept": "Relations between relations",
+		"thinking": "関係性の背後にさらに関係性の鎖を見出す、依存の連鎖の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "free_resolution",
+		"word": "Free Resolution",
+		"meaning": "自由分解",
+		"etymology": {
+			"components": [
+				"Resolution"
+			],
+			"original_statement": "Approximating by free modules."
+		},
+		"concept": "Smoothing via freedom",
+		"thinking": "不自由で複雑な構造を、のびのびとした自由な鎖へと解きほぐす。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "exterior_algebra_id",
+		"word": "Exterior Algebra",
+		"meaning": "外積代数",
+		"etymology": {
+			"components": [
+				"Latin exterior"
+			],
+			"original_statement": "Algebra of volume."
+		},
+		"concept": "The algebra of volume",
+		"thinking": "多次元の容積を計算するための、符号がひっくり返る動的な世界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "differential_graded",
+		"word": "DG-Algebra",
+		"meaning": "DG代数",
+		"etymology": {
+			"components": [
+				"Differential",
+				"Graded"
+			],
+			"original_statement": "Algebra with degree and differential."
+		},
+		"concept": "Dynamics within layers",
+		"thinking": "階層という構造の中に、微分という動的な息吹を吹き込んだ代数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "dg_category",
+		"word": "DG-Category",
+		"meaning": "DG圏",
+		"etymology": {
+			"components": [
+				"DG"
+			],
+			"original_statement": "Category of chain complexes."
+		},
+		"concept": "The interaction of chain complexes",
+		"thinking": "変化し続ける複体そのものが矢印となり、結ばれたドラマチックな圏。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "derived_equivalences",
+		"word": "Derived Equivalence",
+		"meaning": "導来同値",
+		"etymology": {
+			"components": [
+				"Derived"
+			],
+			"original_statement": "Equivalence of processes."
+		},
+		"concept": "The harmony of processes",
+		"thinking": "個別の結果ではなく、変化のプロセス全体が一致している共鳴。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "etymon_ling_infinity",
+		"word": "Ling-Ling Etymon",
+		"meaning": "真理の深淵",
+		"etymology": {
+			"components": [
+				"Ling-Ling"
+			],
+			"original_statement": "Ultimate resonance."
+		},
+		"concept": "The final integration",
+		"thinking": "すべての知識が一つに戻り、ただ美しき響きに還る知の最果て。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "統合の輝きをその手に。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理知の極北へ。"
+			]
+		},
+		"example": "Truth is found in the integration of all views."
 	}
 ];
