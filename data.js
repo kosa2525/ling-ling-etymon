@@ -342367,5 +342367,916 @@ const WORDS = [
 			]
 		},
 		"example": "Curvature is the manifestation of energy."
+	},
+	{
+		"id": "noetherian_ring_adv",
+		"word": "Noetherian Ring",
+		"meaning": "ネーター環",
+		"etymology": {
+			"components": [
+				"Noether"
+			],
+			"original_statement": "Rings with ascending chain condition."
+		},
+		"concept": "Finite structural depth",
+		"thinking": "どんなに複雑な『理想の集合（イデアル）』を積み重ねても、必ず有限の手順で止まる。情報の無限の連鎖に終止符を打つ、エミー・ネーターの不朽の功績。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "artinian_ring_adv",
+		"word": "Artinian Ring",
+		"meaning": "アルティン環",
+		"etymology": {
+			"components": [
+				"Artin"
+			],
+			"original_statement": "Rings with descending chain condition."
+		},
+		"concept": "Compact algebraic structure",
+		"thinking": "ネーター環の対極。深淵へと続く下降の連鎖が、いつしか底に突き当たる。終わりがあるからこそ、その構造は限りなく豊かで密なものとなる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "maximal_ideal_adv",
+		"word": "Maximal Ideal",
+		"meaning": "極大イデアル",
+		"etymology": {
+			"components": [
+				"Latin maximus"
+			],
+			"original_statement": "Largest proper ideal."
+		},
+		"concept": "The boundary of fields",
+		"thinking": "それ以上大きくするとすべて（全体）になってしまう、理の寸前の境界。そこを『割る』ことで、最も美しい平原（体）が立ち上がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "prime_ideal_adv",
+		"word": "Prime Ideal",
+		"meaning": "素イデアル",
+		"etymology": [
+			"Latin primus"
+		],
+		"original_statement": "Analog of prime numbers in rings.",
+		"concept": "The atomic division",
+		"thinking": "「分かつことができない（Primus）」。代数の世界を構成する、最も純粋で根源的な情報の『原子』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "radical_of_ideal",
+		"word": "Radical Ideal",
+		"meaning": "根基（こんき）イデアル",
+		"etymology": [
+			"Latin radix (root)"
+		],
+		"original_statement": "Ideal formed by elements whose power is in the ideal.",
+		"concept": "Removing the shadows of power",
+		"thinking": "「根（Radix）」に立ち返ること。余分な『べき乗』という重なりを削ぎ落とし、存在の純粋な核だけを抽出したイデアル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "localization_alg",
+		"word": "Localization",
+		"meaning": "局所化（きょくしょか）",
+		"etymology": [
+			"Latin locus"
+		],
+		"original_statement": "Process of making some elements invertible.",
+		"concept": "Focusing the mathematical lens",
+		"thinking": "「場所（Locus）」を特定すること。関心のない部分を無視し、特定の『点』の周りだけを詳細に観察するために、分数を導入する手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "spectrum_of_ring",
+		"word": "Spectrum (Spec)",
+		"meaning": "スペクトル、Spec",
+		"etymology": [
+			"Latin spectrum (vision/image)"
+		],
+		"original_statement": "Set of all prime ideals of a ring.",
+		"concept": "Geometric image of algebra",
+		"thinking": "代数という記号の羅列から、目に見える『図形』を導き出すための、すべての素イデアルが描く星座。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "regular_local_ring",
+		"word": "Regular Local",
+		"meaning": "正則局所環（せいそくきょくしょかん）",
+		"etymology": [
+			"Latin regula (rule)"
+		],
+		"original_statement": "Local rings where dimension matches parameters.",
+		"concept": "Smooth algebraic surface",
+		"thinking": "どこまでも滑らかで、折れ曲がりも尖りもない、数学的な『規律（Rule）』が完璧に守られた理想的な場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "completion_arith",
+		"word": "Completion",
+		"meaning": "完備化（かんびか）",
+		"etymology": [
+			"Latin complere"
+		],
+		"original_statement": "Filling the gaps in a space or ring.",
+		"concept": "Filling the void",
+		"thinking": "「満たす（Complere）」こと。数列が向かうはずの極限を、あらかじめそこに用意しておくことで、世界に一切の隙間を与えない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "tensor_product_adv",
+		"word": "Tensor Product",
+		"meaning": "テンソル積",
+		"etymology": [
+			"Latin tendere (to stretch)"
+		],
+		"original_statement": "Universal multiplication of modules.",
+		"concept": "Intertwining possibilities",
+		"thinking": "「引き伸ばされ（Tendere）」、互いの情報を最大限に分配し合う掛け算。二つの世界が融合し、新しい次元が立ち上がる瞬間の記述。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "projective_module",
+		"word": "Projective",
+		"meaning": "射影的加群（しゃえいてきかぐん）",
+		"etymology": [
+			"Latin pro- + jacere"
+		],
+		"original_statement": "Direct summand of a free module.",
+		"concept": "Freedom with local constraints",
+		"thinking": "「前へ投げ出された（Projective）」。ある大きな自由（自由加群）の一部でありながら、自立した響きを持つ、高潔な情報の塊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "injective_module",
+		"word": "Injective",
+		"meaning": "単射的加群（たんしゃてきかぐん）",
+		"etymology": [
+			"Latin in- + jacere"
+		],
+		"original_statement": "Modules through which maps from submodules extend.",
+		"concept": "The absorbent sanctuary",
+		"thinking": "「投げ込まれる（In-jective）」。あらゆる外部からの情報の断片を、矛盾なく、かつ深く受け入れることができる、解析的な懐の深さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "flat_module_adv",
+		"word": "Flat Module",
+		"meaning": "平坦加群（へいたんかぐん）",
+		"etymology": [
+			"Flat"
+		],
+		"original_statement": "Modules preserving exact sequences under tensor product.",
+		"concept": "Preserving the flow of meaning",
+		"thinking": "掛け合わされても、情報の前後関係（完全性）を一切歪ませることがない、誠実で平らな足場。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "exact_sequence_adv",
+		"word": "Exact Sequence",
+		"meaning": "完全系列（かんぜんけいれつ）",
+		"etymology": [
+			"Latin exactus"
+		],
+		"original_statement": "Sequence where image equals kernel.",
+		"concept": "Perfect conservation of info",
+		"thinking": "「完成された（Ex-actus）」流れ。前で死にゆく情報（Kernel）が、後ろで生まれる情報（Image）と完璧に一致する、情報の輪転。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "homology_alg_adv",
+		"word": "Homological Alg",
+		"meaning": "ホモロジー代数",
+		"etymology": [
+			"Greek homologia (agreement)"
+		],
+		"original_statement": "Study of objects via their sequence failures.",
+		"concept": "The measure of incompleteness",
+		"thinking": "完璧な流れ（完全性）からどれだけ『ズレ』ているか。その欠落（穴）を数え上げることで、逆に世界の形を浮き彫りにする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "ext_functor",
+		"word": "Ext Functor",
+		"meaning": "Ext関手",
+		"etymology": [
+			"Extension"
+		],
+		"original_statement": "Functor classifying extensions of modules.",
+		"concept": "Measuring structural tension",
+		"thinking": "「拡張（Extension）」のあり方を測る。二つのものが組み合わさるとき、どれだけのバリエーションが許されるかを示す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "tor_functor",
+		"word": "Tor Functor",
+		"meaning": "Tor関手",
+		"etymology": [
+			"Torsion"
+		],
+		"original_statement": "Functor measuring failures of flatness.",
+		"concept": "Algebraic torsion",
+		"thinking": "「ねじれ（Torsion）」を測る。融合の過程で失われる情報の『ひずみ』を抽出し、記録する関数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "derived_category_adv",
+		"word": "Derived Category",
+		"meaning": "導来圏（どうらいけん）",
+		"etymology": [
+			"Derived"
+		],
+		"original_statement": "Category where quasi-isomorphisms are actual isomorphisms.",
+		"concept": "Focusing on the essential process",
+		"thinking": "表面的な『等しさ』ではなく、その背後にある『プロセス全体』が一致しているかどうかを問う、現代数学の深遠なる地平。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "sheaf_cohomology_adv",
+		"word": "Sheaf Cohomology",
+		"meaning": "層コホモロジー",
+		"etymology": [
+			"Sheaf"
+		],
+		"original_statement": "Measuring topological glue failures of sections.",
+		"concept": "The obstacle to global unity",
+		"thinking": "断片的な真理（局所切断）を繋ぎ合わせようとするときに現れる、逃れられない『矛盾』や『困難』を捉える計算体系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "spectral_sequence_adv",
+		"word": "Spectral Seq",
+		"meaning": "スペクトル系列",
+		"etymology": [
+			"Spectral"
+		],
+		"original_statement": "System of approximations to cohomology group.",
+		"concept": "The layering of approximations",
+		"thinking": "一気に高みへ登るのではなく、幾層ものページをめくるようにして徐々に真理に近づく、魔法の近似装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "filtered_ring",
+		"word": "Filtered Ring",
+		"meaning": "濾過（ろか）環",
+		"etymology": [
+			"Latin filtrum (felt/filter)"
+		],
+		"original_statement": "Ring with an increasing sequence of sub-objects.",
+		"concept": "The hierarchy of complexity",
+		"thinking": "情報の密度を一段階ずつ上げていくプロセス。フィルターを通るたびに、世界の解像度が増していく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "graded_ring",
+		"word": "Graded Ring",
+		"meaning": "次数付き（じすうつき）環",
+		"etymology": [
+			"Latin gradus"
+		],
+		"original_statement": "Ring decomposed into components of different degrees.",
+		"concept": "The stack of existence",
+		"thinking": "「階段（Gradus）」。次元ごとに情報を完璧に仕分けし、重なり合うことなく積み上げた、秩序あふれる代数の姿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "dimension_theory_alg",
+		"word": "Krull Dimension",
+		"meaning": "クルル次元",
+		"etymology": [
+			"Krull"
+		],
+		"original_statement": "Suppremum of lengths of chains of prime ideals.",
+		"concept": "Algebraic depth",
+		"thinking": "代数の海に、どれだけ深く『素（原子）』の鎖を下ろせるか。その最長の深さを空間の『広がり』と定義する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "depth_of_module",
+		"word": "Depth (Module)",
+		"meaning": "深度（しんど）",
+		"etymology": [
+			"Depth"
+		],
+		"original_statement": "Length of the maximal regular sequence.",
+		"concept": "The core stability",
+		"thinking": "表面的な広がりではなく、その内部にどれだけ『揺るぎない理（正則系列）』の芯を通せるかという「深さ」の指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "cohen_macaulay",
+		"word": "Cohen-Macaulay",
+		"meaning": "コーエン・マコーレー環",
+		"etymology": [
+			"Cohen",
+			"Macaulay"
+		],
+		"original_statement": "Rings where depth equals dimension.",
+		"concept": "Perfectly filled space",
+		"thinking": "広がり（次元）と深さ（深度）が完璧に一致している、数学的な『誠実さ』の極致。一切の空洞を持たない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "auslander_buchsbaum",
+		"word": "Auslander-Buchs",
+		"meaning": "A-B公式",
+		"etymology": [
+			"Auslander",
+			"Buchsbaum"
+		],
+		"original_statement": "Relating projective dimension and depth.",
+		"concept": "Balancing complexity and stability",
+		"thinking": "構造の『不自由さ（射影次元）』と『深さ（深度）』が、天秤の上で完璧に釣り合っているという定理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "galois_extension_adv",
+		"word": "Galois Extension",
+		"meaning": "ガロア拡大",
+		"etymology": [
+			"Galois"
+		],
+		"original_statement": "Field extension symmetric under the Galois group.",
+		"concept": "Symmetry of field transitions",
+		"thinking": "新しい次元へと世界を広げる（拡大）とき、そこには全ての可能性を等しく入れ替える完璧な対称性が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "splitting_field",
+		"word": "Splitting Field",
+		"meaning": "最小分解体（さいしょうぶんかいた）",
+		"etymology": [
+			"Split"
+		],
+		"original_statement": "Field where a polynomial factorizes into linear terms.",
+		"concept": "The home of all roots",
+		"thinking": "霧のような方程式が、すべての解（感情）を露わにして『バラバラ（Split）』に解きほぐされるための、最小の宇宙。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "algebraic_closure",
+		"word": "Alg Closure",
+		"meaning": "代数閉包（だいすうへいほう）",
+		"etymology": [
+			"Latin claudere"
+		],
+		"original_statement": "Field where all polynomials have roots.",
+		"concept": "The complete sky",
+		"thinking": "「閉じる（Claudere）」こと。すべての問いに必ず答えがあり、もう二度と外部（拡大）を必要としない、究極の完結体。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "separable_extension",
+		"word": "Separable",
+		"meaning": "分離（ぶんり）可能な",
+		"etymology": [
+			"Latin separabilis"
+		],
+		"original_statement": "Extension where roots do not overlap.",
+		"concept": "Uniqueness of roots",
+		"thinking": "一つ一つの『解』が個性を持ち、決して重なり合うことなく、鮮明に区別できる状態で存在していること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "inseparable_ext",
+		"word": "Inseparable",
+		"meaning": "分離不能な",
+		"etymology": [
+			"In- + Separable"
+		],
+		"original_statement": "Extension with repeating roots in characteristic p.",
+		"concept": "The blur of identity",
+		"thinking": "影が重なり合い、どれがどれだか判別できない。標数pという特別な世界でのみ許される、神秘的な情報の融合。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "valuation_ring",
+		"word": "Valuation Ring",
+		"meaning": "付値環（ふちかん）",
+		"etymology": [
+			"Latin valere (to be worth)"
+		],
+		"original_statement": "Ring defined by a size measure (valuation).",
+		"concept": "Ordering by importance",
+		"thinking": "「価値（Valere）」を測ること。どちらがより『ゼロ（中心）』に近いかを厳格に判断するための、序列の代数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "discrete_valuation",
+		"word": "DVR",
+		"meaning": "離散付値環（りさんふちかん）",
+		"etymology": [
+			"Discrete"
+		],
+		"original_statement": "Local ring with a single prime generator.",
+		"concept": "Single-step resolution",
+		"thinking": "一つの原子（素元）が、その世界のすべての階層を一段ずつ生み出す、最も美しくシンプルな秩序。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "frobenius_endomorph",
+		"word": "Frobenius Map",
+		"meaning": "フロベニウス写像",
+		"etymology": [
+			"Frobenius"
+		],
+		"original_statement": "Map x maps to x^p in characteristic p.",
+		"concept": "Symmetric self-replication",
+		"thinking": "自分をp倍のパワーへ。標数pという鏡の世界で、すべての原子が自らを複製し、調和を保つための大いなる舞い。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "wit_vector_arith",
+		"word": "Witt Vector",
+		"meaning": "ヴィット・ベクトル",
+		"etymology": [
+			"Witt"
+		],
+		"original_statement": "Constructing characteristic 0 objects from characteristic p.",
+		"concept": "The bridge between characteristics",
+		"thinking": "標数pの『断片』を組み上げて、標数0の『完成された数』を甦らせる。異世界間の情報の翻訳。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "perfect_field",
+		"word": "Perfect Field",
+		"meaning": "完全体（かんぜんたい）",
+		"etymology": [
+			"Latin perfectus"
+		],
+		"original_statement": "Field where all extensions are separable.",
+		"concept": "Flawless identity",
+		"thinking": "「完成された（Per-fectus）」。全ての解が常に明瞭に区別され、曖昧さを一切許さない、高潔なる数体系。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "primitive_root_unit",
+		"word": "Primitive Root",
+		"meaning": "原始（げんし）n乗根",
+		"etymology": [
+			"Latin primitivus"
+		],
+		"original_statement": "Root of unity that generates all other roots.",
+		"concept": "The source of the cycle",
+		"thinking": "「最も古い（Privitivus）」。すべての循環運動の源であり、ただ一人で全一を語ることができる、選ばれし『一の根』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "cyclotomic_polynomial",
+		"word": "Cyclotomic Poly",
+		"meaning": "円分多項式",
+		"etymology": [
+			"Greek kyklos + tomos"
+		],
+		"original_statement": "Irreducible polynomial for primitive roots of unity.",
+		"concept": "The law of the circle",
+		"thinking": "円を分かつ（Kyklos-Tomos）理を、代数の言葉で記述したもの。完璧な円環を支える、数理的な骨格。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "norm_of_element",
+		"word": "Norm (Algebra)",
+		"meaning": "ノルム（代数）",
+		"etymology": [
+			"Latin norma (square/rule)"
+		],
+		"original_statement": "Product of all conjugates of an element.",
+		"concept": "The total weight of an action",
+		"thinking": "「規範（Norma）」。全ての影（共役）たちを掛け合わせ、その存在が持つ真の『重み』を一意に定めたもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "trace_of_element",
+		"word": "Trace (Algebra)",
+		"meaning": "トレース（代数）",
+		"etymology": [
+			"Latin trahere"
+		],
+		"original_statement": "Sum of all conjugates of an element.",
+		"concept": "The signature of an action",
+		"thinking": "「引きずる（Trahere）」。移動の跡としての『足し算』。影たちの総和として、その存在の筆跡を記録する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "irreducible_poly",
+		"word": "Irreducible",
+		"meaning": "既約（きやく）な",
+		"etymology": [
+			"In- + Reducible"
+		],
+		"original_statement": "Cannot be factored into non-units.",
+		"concept": "Atoms of the polynomial world",
+		"thinking": "「これ以上減らせない（In-reducible）」。分解の果てに辿り着く、これ以上壊すことのできない情報の最小単位。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "resolvent_poly",
+		"word": "Resolvent",
+		"meaning": "レゾルベント多項式",
+		"etymology": [
+			"Latin resolvere"
+		],
+		"original_statement": "Auxiliary polynomial used to solve higher degree equations.",
+		"concept": "The intermediate reveal",
+		"thinking": "「解きほぐす（Re-solve）」ための道具。高次の難問を、扱いやすい低次の問題へと噛み砕く、知恵の媒介。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
+	},
+	{
+		"id": "discriminant_arith",
+		"word": "Discriminant",
+		"meaning": "判別式（はんべつしき）",
+		"etymology": [
+			"Latin discriminare"
+		],
+		"original_statement": "Invariant indicating root repetition/separability.",
+		"concept": "Detector of collisions",
+		"thinking": "「見分ける（Discriminate）」。解たちが重なり合って迷子になっていないか、その個性が保たれているかを一瞬で見抜く審判。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "構造の純粋さに酔いしれて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"代数の聖域へ。"
+			]
+		},
+		"example": "Algebra is the grammar of the mathematical universe."
 	}
 ];
