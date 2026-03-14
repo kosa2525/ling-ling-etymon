@@ -361871,5 +361871,814 @@ const WORDS = [
 			]
 		},
 		"example": "Ethics explores the nature of right and wrong."
+	},
+	{
+		"id": "qualia_phil_ad",
+		"word": "Qualia",
+		"meaning": "クオリア、感覚質（かんかくしつ）",
+		"etymology": [
+			"Latin qualis (of what kind)"
+		],
+		"concept": "The subjective redness of red",
+		"thinking": "「どのような（Qualis）」ものか。言葉でどれほど物理的に説明しても決して伝わらない、あなただけに訪れる鮮烈な赤、あるいは切ない痛みの、その純粋な質感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "monism_phil_ad",
+		"word": "Monism",
+		"meaning": "一元論（いちげんろん）",
+		"etymology": [
+			"Greek monos (single)"
+		],
+		"concept": "Reality is one substance",
+		"thinking": "「ただ一つ（Monos）」。心と体は別物ではなく、同じ一つの実体が織りなす異なる貌に過ぎないという、宇宙の根源的な統合への確信。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "dualism_phil_ad",
+		"word": "Dualism",
+		"meaning": "二元論（にげんろん）",
+		"etymology": [
+			"Latin duo (two)"
+		],
+		"concept": "Mind and body are distinct",
+		"thinking": "「二つ（Duo）」。物質という沈黙の機械と、意識という輝ける精神。この世界は決して相容れない二つの王国から成り立っているという、宿命的な断絶。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "physicalism_ad",
+		"word": "Physicalism",
+		"meaning": "物理主義（ぶつりしゅぎ）",
+		"etymology": [
+			"Greek physikos (nature)"
+		],
+		"concept": "Everything is physical",
+		"thinking": "「自然（Physis）」こそがすべて。愛も祈りも絶望も、すべては究極的には原子と電気信号のダンスに分解できるという、冷徹で潔い世界の定義。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "eliminative_m",
+		"word": "Eliminativism",
+		"meaning": "消去（しょうきょ）的唯物論",
+		"etymology": [
+			"Latin e- (out) + limen (threshold)"
+		],
+		"concept": "Deleting folk psychology",
+		"thinking": "「閾（Limen）」の「外へ（E-）」。『信じる』や『欲する』といった不確かな言葉を科学から一掃し、すべてを純粋な神経発火の言葉で書き換える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "panpsychism_ad",
+		"word": "Panpsychism",
+		"meaning": "汎心論（はんしんろん）",
+		"etymology": [
+			"Greek pan (all) + psyche (soul)"
+		],
+		"concept": "Mind is in everything",
+		"thinking": "「すべて（Pan）」に「魂（Psyche）」が宿る。石にも、電子にも、宇宙の隅々にまで意識の微かな萌芽が満ちているという、孤独な人間を万物と繋ぎ直す壮大な幻視。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "functionalism_p",
+		"word": "Functionalism",
+		"meaning": "機能主義（きのうしゅぎ）",
+		"etymology": [
+			"Latin functio (performance)"
+		],
+		"concept": "Mind as software",
+		"thinking": "中身が肉体であろうとシリコンであろうと、「役割（Function）」さえ果たせればそこに心は宿る。心とは物質ではなく、情報の処理という名の『振る舞い』の形式である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "neural_correl",
+		"word": "NCC (Neural)",
+		"meaning": "意識の神経相関（しんけいそうかん）",
+		"etymology": [
+			"Neural",
+			"Correlation"
+		],
+		"original_statement": "Minimum neural mechanisms sufficient for consciousness.",
+		"concept": "The physical footprint of mind",
+		"thinking": "意識という目に見えない幽霊が、脳という「肉体」の中のどこに足跡を残しているか。神経の集団的な発火と、主観的な目覚めが重なり合う、その接点。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "global_worksp",
+		"word": "Global Works",
+		"meaning": "グローバル・ワークスペース",
+		"etymology": [
+			"Global",
+			"Workspace"
+		],
+		"concept": "Broadcasting information",
+		"thinking": "脳内の無数の専門部署たちが、共通の「舞台（Workspace）」に情報を上げ、全館放送（Global）することで、初めて「自覚」という光が灯るという、民主的な意識の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "integrated_info",
+		"word": "IIT (Theory)",
+		"meaning": "統合情報（とうごうじょうほう）理論",
+		"etymology": [
+			"Integrated",
+			"Information"
+		],
+		"original_statement": "Information that is more than the sum of its parts.",
+		"concept": "Phi as a measure of mind",
+		"thinking": "バラバラの情報の「集まり」を越えて、どれほど密接に「統合」されているか。その『結びつきの強さ』こそが、意識の量（Φ）を決定づけるという、数学的な魂の定義。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "hebbian_learn",
+		"word": "Hebbian Learn",
+		"meaning": "ヘブ則（そく）",
+		"etymology": [
+			"Hebb"
+		],
+		"original_statement": "Neurons that fire together, wire together.",
+		"concept": "Wiring through activity",
+		"thinking": "「共に火を灯した者は、共に結ばれる」。偶然の巡り合わせが繰り返されることで、道が拓け、習慣という名の強固な回路が刻まれていく、学びの最も素朴で強力な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "synaptic_prune",
+		"word": "Pruning (Neur)",
+		"meaning": "シナプス剪定（せんてい）",
+		"etymology": [
+			"Pruning (cutting back)"
+		],
+		"concept": "Efficiency through loss",
+		"thinking": "余分な枝を「切り落とす」。成長とは増やすことだけでなく、不要な繋がりを捨て去り、最も洗練された本質的な回路だけを残すという、静かな破壊のプロセス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "default_mode",
+		"word": "DMN (Brain)",
+		"meaning": "デフォルト・モード・ネットワーク",
+		"etymology": [
+			"Default",
+			"Mode"
+		],
+		"concept": "Mind wandering when idle",
+		"thinking": "何もしていない時こそ、脳は最も「自分（Default）」を想っている。過去を回想し、未来を夢想する。意識の海の下で、絶えず流れ続ける自己という名の伏流水。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "executive_func",
+		"word": "Executive Fun",
+		"meaning": "実行機能（じっこうきのう）",
+		"etymology": [
+			"Latin ex- + sequi (to follow through)"
+		],
+		"concept": "The captain of the mind",
+		"thinking": "衝動を抑え、計画を「最後まで遂行（Ex-ecute）」する。本能の叫びを静め、意志の力で未来を選び取る、脳の最前線に立つ司令官。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "cognitive_dis",
+		"word": "Cognitive Dis",
+		"meaning": "認知（にんち）的不協和",
+		"etymology": [
+			"Latin cognitio + Dissonantia"
+		],
+		"concept": "Mental discomfort of conflict",
+		"thinking": "信じていることと、やっていることが「調和しない（Dissonance）」。その不快感に耐えられず、私たちは自分の記憶や考えを捻じ曲げてでも、自分を正当化しようとする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "neurotransmit",
+		"word": "Transmit (Neu)",
+		"meaning": "神経伝達（しんけいでんたつ）物質",
+		"etymology": [
+			"Latin trans- + mittere (to send across)"
+		],
+		"concept": "Chemical messengers of thought",
+		"thinking": "隔たりを越えて「送り届ける（Trans-mit）」。電気信号が途絶えるシナプスの裂け目を、微かな化学物質の雫が飛び越え、想いや痛みを次の細胞へと託していく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "long_term_pot",
+		"word": "LTP (Memory)",
+		"meaning": "長期増強（ちょうきぞうきょう）",
+		"etymology": [
+			"Long-term",
+			"Latin potentia (power)"
+		],
+		"concept": "Strengthening the signal",
+		"thinking": "一度だけではなく、何度も繰り返し訪れる衝撃。それが神経の「力（Potentia）」を永続的に高め、一過性の刺激を『記憶』という名の永遠へと変えていく。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "semantic_memory",
+		"word": "Semantic Mem",
+		"meaning": "意味記憶（いみきおく）",
+		"etymology": [
+			"Greek sema (sign)"
+		],
+		"concept": "Knowledge of the world",
+		"thinking": "個人的な体験を離れ、ただ「知っている」という抽象的な世界の概念。言葉、意味、そして理屈。脳の中に構築された、静謐で巨大な知識の図書館。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "episodic_memory",
+		"word": "Episodic Mem",
+		"meaning": "エピソード記憶",
+		"etymology": [
+			"Greek epeisodion (coming in besides)"
+		],
+		"concept": "Memory of personal events",
+		"thinking": "あの日、あの時、自分に「訪れた（Epeisodion）」物語。時間と場所、そしてその時の風の色までもが刻み込まれた、自分だけの唯一無二の人生の断片。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "working_memory",
+		"word": "Working Mem",
+		"meaning": "ワーキングメモリ、作業記憶",
+		"etymology": [
+			"Work"
+		],
+		"concept": "The mental scratchpad",
+		"thinking": "今この瞬間にだけ、思考の舞台に「留め置かれた」情報の欠片。次々と消えていく儚い光たちが、複雑な判断という奇跡を支えている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "mirror_neurons",
+		"word": "Mirror Neuron",
+		"meaning": "ミラーニューロン",
+		"etymology": [
+			"Mirror"
+		],
+		"concept": "Empathy through simulation",
+		"thinking": "他人の痛みを見ているだけで、自分の脳も同じ場所が疼き出す。他人の挙動を、自らの中で「鏡（Mirror）」のように再現し、共感という名の橋を架ける細胞。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "blind_sight_ad",
+		"word": "Blindsight",
+		"meaning": "盲視（もうし）",
+		"etymology": [
+			"Blind + Sight"
+		],
+		"original_statement": "Ability to respond to visual stimuli without conscious awareness.",
+		"concept": "Seeing without knowing",
+		"thinking": "目は「見て（Sight）」いるが、心は「見えていない（Blind）」。しかし、障害物を無意識に避ける。意識という光が届かない場所で、肉体が世界を直接的に捉えているという神秘。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "agnosia_neurol",
+		"word": "Agnosia",
+		"meaning": "失認（しつにん）",
+		"etymology": [
+			"Greek a- (without) + gnosis (knowledge)"
+		],
+		"concept": "Seeing but not recognizing",
+		"thinking": "形は見えているのに、それが何であるかを「知る（Gnosis）」ことが「できない（A-）」。意味という絆を失い、世界が単なる無機質な欠片へと解体される恐怖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "aphasia_neurol",
+		"word": "Aphasia",
+		"meaning": "失語症（しつごしょう）",
+		"etymology": [
+			"Greek a- + phasis (speech)"
+		],
+		"concept": "Loss of speech",
+		"thinking": "想いは溢れているのに、それを運ぶ「言葉（Phasis）」という翼を「失う（A-）」。世界の意味を剥ぎ取られ、声のない牢獄に閉じ込められるもどかしさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "plasticity_syn",
+		"word": "Synaptic Plas",
+		"meaning": "シナプス可塑性",
+		"etymology": [
+			"Synapse + Plastikos"
+		],
+		"concept": "Molding of brain connections",
+		"thinking": "繋ぎ目が「形を変える（Plastikos）」。一度の出会いが、永遠の絆（回路）となるか、あるいは風化し消え去るか。想いの強さが、肉体そのものを削り出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "neurogenesis",
+		"word": "Neurogenesis",
+		"meaning": "神経発生（しんけいはっせい）",
+		"etymology": [
+			"Greek neuron + genesis (birth)"
+		],
+		"concept": "Birth of new neurons",
+		"thinking": "大人になっても、脳の中に新しい生命（Neuron）が「産まれる（Genesis）」。私たちは、いつまでも自分を刷新し、新しい宇宙を拓き続けることができるという希望。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "circadian_rhyt",
+		"word": "Circadian",
+		"meaning": "概日（がいじつ）リズム",
+		"etymology": [
+			"Latin circa (about) + dies (day)"
+		],
+		"concept": "Daily internal clock",
+		"thinking": "「ほぼ（Circa）」「一日（Dies）」の周期。光と闇に合わせて、私たちの体温も心も波打つ。宇宙の自転を、細胞の一つ一つが記憶しているという調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "homeostasis_ad",
+		"word": "Homeostasis",
+		"meaning": "恒常性（こうじょうせい）",
+		"etymology": [
+			"Greek homoios (similar) + stasis (standing)"
+		],
+		"concept": "Dynamic balance",
+		"thinking": "外の世界が吹雪でも猛暑でも、内なる「立ち位置（Stasis）」を「同じ（Homoios）」に保ち続ける。荒波の中で、静謐な中央を維持しようとする生命の執念。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "amygdala_fear",
+		"word": "Amygdala",
+		"meaning": "扁桃体（へんとうたい）",
+		"etymology": [
+			"Greek amygdale (almond)"
+		],
+		"concept": "The emotional alarm",
+		"thinking": "「アーモンド（Amygdale）」の形をした、脳の奥深くの番人。恐怖、怒り、そして情熱。理性が目覚める前に、一撃で肉体を支配する、原初の感情の源。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "hippocampus_m",
+		"word": "Hippocampus",
+		"meaning": "海馬（かいば）",
+		"etymology": [
+			"Greek hippos (horse) + kampos (sea monster)"
+		],
+		"concept": "Gatekeeper of memory",
+		"thinking": "「タツノオトシゴ（Hippocampus）」の貌をした、時の番人。今日起きた出来事を、永遠に輝く記憶という名の宝物に変え、脳の宝物庫へといざなう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "prefrontal_cor",
+		"word": "Prefrontal",
+		"meaning": "前頭前皮質（ぜんとうぜんひしつ）",
+		"etymology": [
+			"Pre- + Latin frons (forehead)"
+		],
+		"concept": "Rational command center",
+		"thinking": "「額（Front）」の「さらに前（Pre-）」。人間を人間足らしめる、高度な理性と未来を見据える瞳が宿る、脳の最北端。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "thalamus_relay",
+		"word": "Thalamus",
+		"meaning": "視床（ししょう）",
+		"etymology": [
+			"Greek thalamos (inner chamber)"
+		],
+		"concept": "Sensory relay station",
+		"thinking": "五感のすべてが一度集う「内なる奥座敷（Thalamos）」。そこですべての情報が整理され、意識という名の舞台へと送り出される、脳の静かなハブ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "cerebellum_mov",
+		"word": "Cerebellum",
+		"meaning": "小脳（しょうのう）",
+		"etymology": [
+			"Latin cerebrum (brain) + -ellum (little)"
+		],
+		"concept": "Automaton of movement",
+		"thinking": "「小さな（-ellum）」脳。思考することなく、自転車を漕ぎ、楽器を奏でる。無意識のうちに幾万の筋肉を統制する、静かなる運動の魔術師。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "corpus_callosu",
+		"word": "Corpus Callos",
+		"meaning": "脳梁（のうりょう）",
+		"etymology": [
+			"Latin corpus (body) + callosum (tough)"
+		],
+		"concept": "Bridge between hemispheres",
+		"thinking": "左右の脳を繋ぐ「硬い（Callos）」「肉体（Corpus）」。バラバラになりがちな二つの世界（論理と直観）を、秒間数億回の対話で一つの『自己』へと結びつける巨大な橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "hemispheric_ls",
+		"word": "Lateralization",
+		"meaning": "側性（そくせい）化",
+		"etymology": [
+			"Latin latus (side)"
+		],
+		"concept": "Specialization of brain sides",
+		"thinking": "「側（Side）」ごとに役割が分かれる。言葉は左に、空間は右に。一つの頭の中に、異なる得意分野を持つ二人の自分を棲まわせ、世界を多角的に捉える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "vestibular_sys",
+		"word": "Vestibular",
+		"meaning": "前庭（ぜんてい）感覚",
+		"etymology": [
+			"Latin vestibulum (entrance hall)"
+		],
+		"concept": "Sense of balance",
+		"thinking": "空間の「入り口（Vestibule）」にある三半規管。重力という目に見えない力を感じ取り、自分がどちらを向いているかを常に告げる、世界の均衡を護る羅針盤。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "olfactory_mem",
+		"word": "Olfactory",
+		"meaning": "嗅覚（きゅうかく）の",
+		"etymology": [
+			"Latin olere (to smell) + facere"
+		],
+		"concept": "Deep primal scent memory",
+		"thinking": "「香りを放ち（Olere）」「作る（Facere）」。鼻を抜ける微かな匂いが、理性を飛び越え、数十年前の記憶の奥底を一瞬で爆発させる、最古の神経の魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "gustatory_sens",
+		"word": "Gustatory",
+		"meaning": "味覚（みかく）の",
+		"etymology": [
+			"Latin gustus (taste)"
+		],
+		"concept": "Sense of sampling",
+		"thinking": "「味わう（Gustus）」こと。快不快の根源的な判定。何が糧となり、何が毒となるか。世界を、肉体の内側へと迎え入れるための最初の審判。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "somatosensory",
+		"word": "Somatosensory",
+		"meaning": "体性感覚（たいせいかんかく）",
+		"etymology": [
+			"Greek soma (body) + Sensory"
+		],
+		"concept": "The mapped body",
+		"thinking": "「体（Soma）」の感覚。脳の中に描かれた自分自身の『肉体地図（ホムンクルス）』。世界と触れ合い、傷つき、温もりを感じるためのインターフェース。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
+	},
+	{
+		"id": "proprioceptive",
+		"word": "Propriocep",
+		"meaning": "固有感覚的な",
+		"etymology": [
+			"Latin proprius + capere"
+		],
+		"concept": "Self-grasping state",
+		"thinking": "自分のパーツを「自分のものとして（Proprius）」「捉える（Capere）」感覚。視覚に頼らずとも、自らの形を確信できる生命の自信。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "意識の迷宮を、情報の糸で繋いで。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"認知神経科学の深淵へ。"
+			]
+		},
+		"example": "Cognitive neuroscience bridges mind and brain."
 	}
 ];
