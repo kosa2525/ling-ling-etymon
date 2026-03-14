@@ -347172,5 +347172,959 @@ const WORDS = [
 			]
 		},
 		"example": "Material properties emerge from the dance of electrons."
+	},
+	{
+		"id": "butterfly_effect_chaos",
+		"word": "Butterfly Effect",
+		"meaning": "バタフライ効果",
+		"etymology": {
+			"components": [
+				"Butterfly",
+				"Effect"
+			],
+			"original_statement": "Sensitive dependence on initial conditions."
+		},
+		"concept": "The fragility of cause",
+		"thinking": "ブラジルの蝶の羽ばたきが、テキサスで竜巻を引き起こす。ほんの微かな「初期値」の違いが、未来の全貌を劇的に塗り替えてしまうという、カオス力学の残酷で美しい真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "strange_attractor",
+		"word": "Strange Attractor",
+		"meaning": "ストレンジ・アトラクター",
+		"etymology": {
+			"components": [
+				"Latin attrahere (to pull towards)"
+			],
+			"original_statement": "An attractor with fractal structure in phase space."
+		},
+		"concept": "Infinite recurrence without repetition",
+		"thinking": "「引き寄せる（At-trahere）」もの。粒子たちがその周りを永遠に巡り続けるが、二度と同じ場所を通ることはない。カオスの海に浮かぶ、フラクタルな幾何学の幽霊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "fractal_geometry_adv",
+		"word": "Fractal Geometry",
+		"meaning": "フラクタル幾何学",
+		"etymology": {
+			"components": [
+				"Latin fractus (broken)"
+			],
+			"original_statement": "Complexity that is self-similar across different scales."
+		},
+		"concept": "Recursive self-similarity",
+		"thinking": "「砕かれた（Fractus）」形。ズームしても、さらにズームしても、同じほどに複雑で精緻な貌が現れる。有限の面積の中に、無限の『長さ』を封じ込めた神の技法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "self_organization_sys",
+		"word": "Self-organization",
+		"meaning": "自己組織化（じこそしきか）",
+		"etymology": {
+			"components": [
+				"Greek organon (tool/work)"
+			],
+			"original_statement": "Emergence of global order from local interactions."
+		},
+		"concept": "Order from bottom-up",
+		"thinking": "外部に神（統治者）がいなくても、個々の粒子たちが勝手に相互作用することで、全体として美しい秩序が立ち上がること。生命の、そして宇宙の『自律』の姿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "emergence_complex",
+		"word": "Emergence",
+		"meaning": "創発（そうはつ）",
+		"etymology": [
+			"Latin e- + mergere (to dip)"
+		],
+		"original_statement": "Properties of a system that are not present in its parts.",
+		"concept": "The surprising whole",
+		"thinking": "「浮かび上がってくる（E-merge）」もの。個々の部品をいくら調べても予測できない、全体になって初めて現れる不思議な『知性』や『法則』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "dissipative_struct",
+		"word": "Dissipative Struct",
+		"meaning": "逸散（いっさん）構造",
+		"etymology": [
+			"Latin dissipare (to scatter)"
+		],
+		"original_statement": "Stable systems that require energy flow to maintain order.",
+		"concept": "Order through energy flow",
+		"thinking": "エネルギーを「散らし（Dissipare）」ながら、その流れの中でこそ形を保つ、生命のような動的な秩序。静止こそが死であり、変化こそが存続の証。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "bifurcation_theory",
+		"word": "Bifurcation",
+		"meaning": "分岐（ぶんき）",
+		"etymology": [
+			"Latin bi- (two) + furca (fork)"
+		],
+		"original_statement": "The sudden change in stability or structure of a dynamical system.",
+		"concept": "The fork in destiny",
+		"thinking": "「二つの（Bi-）」「フォーク（Furca）」。環境の微かな変化が、ある一点（臨界点）を境に、世界の理を二つに引き裂く、劇的な質的変化の瞬間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "phase_space_adv",
+		"word": "Phase Space",
+		"meaning": "相空間（そうくうかん）",
+		"etymology": [
+			"Greek phasis (appearance)"
+		],
+		"original_statement": "Abstract space representing all possible states of a system.",
+		"concept": "The landscape of all states",
+		"thinking": "位置と速度、あらゆる変数を座標に持つ数学的な『宇宙』。この空間を一つの点（システムの今）が旅する軌跡が、存在のすべての履歴となる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "lyapunov_exponent",
+		"word": "Lyapunov Exp",
+		"meaning": "リアプノフ指数",
+		"etymology": [
+			"Lyapunov"
+		],
+		"original_statement": "Measure of the rate of separation of infinitesimal trajectories.",
+		"concept": "The speed of forgetting history",
+		"thinking": "隣り合う二つの運命が、どれだけ急激に引き離されていくか。カオスの「予測できなさ」を数値化した、時間の忘却の指標。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "logistic_map_chaos",
+		"word": "Logistic Map",
+		"meaning": "ロジスティック写像",
+		"etymology": [
+			"Greek logistikos"
+		],
+		"original_statement": "Simple polynomial mapping showing how complex behavior arises.",
+		"concept": "Complexity from simplicity",
+		"thinking": "あまりに単純な一本の方程式から、調和、周期倍加、そしてカオスという名の「真の混沌」が噴出する。数理の深淵を見せつける鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "period_doubling",
+		"word": "Period Doubling",
+		"meaning": "周期倍加（しゅうきばいか）",
+		"etymology": [
+			"Greek periodos + Double"
+		],
+		"original_statement": "The repetition time of a system increases by a factor of 2.",
+		"concept": "The staircase to chaos",
+		"thinking": "安定していたリズムが、突然二倍になり、四倍になり、そして無限の細かさへと。カオスという名の深淵へと続く、めまいのするような階段。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "feigenbaum_const",
+		"word": "Feigenbaum Const",
+		"meaning": "ファイゲンバウム定数",
+		"etymology": [
+			"Feigenbaum"
+		],
+		"original_statement": "Universal constant in the transition to chaos.",
+		"concept": "Universal law of disorder",
+		"thinking": "カオスに向かうあらゆる道において、常に変わらずに現れる魔法の比率。混沌の中にも、逃れられない『不変の美』が宿っている証拠。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "feedback_loop_sys",
+		"word": "Feedback Loop",
+		"meaning": "帰還（きかん）回路",
+		"etymology": [
+			"Feed + Back"
+		],
+		"original_statement": "Process through which the output of a system returns as input.",
+		"concept": "The echo of action",
+		"thinking": "自分の行動の結果が、巡り巡って自分自身の未来を突き動かす。自己増殖する嵐（正帰還）か、あるいは調和をもたらす平穏（負帰還）か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "cybernetics_sys",
+		"word": "Cybernetics",
+		"meaning": "サイバネティクス",
+		"etymology": [
+			"Greek kybernetes (steersman)"
+		],
+		"original_statement": "The study of communication and control in systems.",
+		"concept": "The art of steering complex systems",
+		"thinking": "「舵取り（Kybernetes）」。機械、生命、社会。姿は違えど、その背後にある『制御と通信の理』は一つであると喝破した、情報の統合知。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "game_theory_complex",
+		"word": "Game Theory",
+		"meaning": "ゲーム理論",
+		"etymology": [
+			"Game"
+		],
+		"original_statement": "Mathematical study of strategic interaction.",
+		"concept": "Logic of conflicting wills",
+		"thinking": "相手がこう出るなら、自分はどうすべきか。複雑な駆け引きの迷宮を、純粋な論理と利害で解き明かそうとする、理性の冷徹な眼差し。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "nash_equilibrium",
+		"word": "Nash Equilibrium",
+		"meaning": "ナッシュ均衡（きんこう）",
+		"etymology": [
+			"Nash"
+		],
+		"original_statement": "Stable state where no player can benefit by changing strategy alone.",
+		"concept": "The stalemate of rational ego",
+		"thinking": "誰もが自分の最善を尽くした結果、誰一人としてそこから動くことができなくなってしまった、合理的でありながらも不自由な『静止』の形。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "prisoners_dilemma",
+		"word": "Pris Dilemma",
+		"meaning": "囚人のジレンマ",
+		"etymology": [
+			"Prisoner + Greek di- (two) + lemma (premise)"
+		],
+		"original_statement": "Paradox where rational individual self-interest leads to a suboptimal outcome.",
+		"concept": "The tragedy of rational distrust",
+		"thinking": "互いに信じ合えば最高の結果が得られるのに、裏切りを恐れるあまり、共倒れを選んでしまう。合理性が招く、皮肉で孤独な袋小路。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "evolution_stable",
+		"word": "ESS",
+		"meaning": "進化（しんか）的に安定な戦略",
+		"etymology": [
+			"Evolutionarily Stable Strategy"
+		],
+		"original_statement": "Strategy which, if adopted by a population, cannot be invaded by an alternative.",
+		"concept": "Uninvadable balance of life",
+		"thinking": "長い生命の歴史の中で、どのような裏切り者（異端）が現れても、決して崩すことのできない『最強のふるまい』の調和。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "swarm_intell_complex",
+		"word": "Swarm Intell",
+		"meaning": "群知能（ぐんちのう）",
+		"etymology": [
+			"Swarm (herd) + Intell"
+		],
+		"original_statement": "Decentralized, self-organized systems found in nature.",
+		"concept": "Collective wisdom beyond a brain",
+		"thinking": "一匹の蟻は愚かであっても、群れ（Swarm）となった時、橋を架け、王国を築く。個を越えた場所に宿る、分散された大いなる知性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "ant_colony_algo",
+		"word": "Ant Colony",
+		"meaning": "蟻（あり）コロニー最適化",
+		"etymology": [
+			"Ant + Colony"
+		],
+		"original_statement": "Algorithm inspired by foraging behavior of ants.",
+		"concept": "Finding paths via pheromones",
+		"thinking": "蟻たちが残すフェロモンの『記憶』を辿り、複雑な迷宮の中で最短の道を見つけ出す。弱き者の積み重ねが、何よりも効率的な答えを導く。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "neural_network_adv",
+		"word": "Neural Network",
+		"meaning": "ニューラルネットワーク",
+		"etymology": [
+			"Latin nervus + Network"
+		],
+		"original_statement": "Computing system inspired by biological brains.",
+		"concept": "The architecture of learned intuition",
+		"thinking": "脳の神経（Nervus）の繋がりを模し、数千万の接続（重み）を調整することで、論理を越えた『直感』を機械に宿らせる、現代の錬金術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "deep_learning_complex",
+		"word": "Deep Learning",
+		"meaning": "深層学習（しんそうがくしゅう）",
+		"etymology": [
+			"Deep + Learn"
+		],
+		"original_statement": "Architecture with many layers for feature extraction.",
+		"concept": "Hierarchical abstraction",
+		"thinking": "幾層もの思考（レイヤー）を重ねることで、未加工の現実から、本質的な意味を一段ずつ抽象化して掴み取る、深遠なる学習の旅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "backpropagation_adv",
+		"word": "Backprop",
+		"meaning": "誤差逆伝播（むさぎゃくでんぱ）",
+		"etymology": [
+			"Back + Latin propagare (to manifest)"
+		],
+		"original_statement": "Updating weights by propagating errors backwards from the output.",
+		"concept": "Refinement through regret",
+		"thinking": "結果の失敗を未来の糧に。ゴールの『悔しさ（誤差）』を過去へと遡りながら伝えていくことで、全神経を一斉に洗練させていく仕組み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "gradient_descent",
+		"word": "Grad Descent",
+		"meaning": "勾配降下法（こうばいこうかほう）",
+		"etymology": [
+			"Latin gradi (to step) + Descent"
+		],
+		"original_statement": "Iterative optimization algorithm for finding a local minimum.",
+		"concept": "Walking down the fog-shrouded valley",
+		"thinking": "一切の全貌が見えない霧の中、足元の傾斜（勾配）だけを頼りに、最も低い谷底（正解）へと一歩一歩降りていく、謙虚なる最適化の行進。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "genetic_algorithm",
+		"word": "Genetic Algo",
+		"meaning": "遺伝的（いでんてき）アルゴリズム",
+		"etymology": [
+			"Latin genesis (birth)"
+		],
+		"original_statement": "Search heuristic inspired by biological evolution.",
+		"concept": "Survival of the fittest solution",
+		"thinking": "数多の答えを『誕生（Genesis）』させ、交じり合い、突然変異を許し、そして淘汰する。生命の40億年の知恵を、一瞬の計算に凝縮する力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "fitness_landscape",
+		"word": "Fitness Landscape",
+		"meaning": "適応度（てきおうど）地形",
+		"etymology": [
+			"Fit + Landscape"
+		],
+		"original_statement": "Representation of how well different solutions solve a problem.",
+		"concept": "The mountain range of possibilities",
+		"thinking": "あらゆる解の良さを標高に見立てた、起伏の激しい『景観』。エベレストのような最高峰（大域最適）を求めて、生命や計算はさまよう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "percolation_theory",
+		"word": "Percolation",
+		"meaning": "パーコレーション、浸透（しんとう）",
+		"etymology": [
+			"Latin per- (through) + colare (to strain)"
+		],
+		"original_statement": "Study of movement through disordered media.",
+		"concept": "The sudden connectivity of the void",
+		"thinking": "「フィルターを通る（Per-colare）」。バラバラだった点が、ある密度を超えた瞬間に端から端まで繋がってしまう、劇的で神秘的な『通り抜け』の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "scale_free_network",
+		"word": "Scale-free",
+		"meaning": "スケールフリー・ネットワーク",
+		"etymology": [
+			"Scale + Free"
+		],
+		"original_statement": "Network where degree distribution follows a power law.",
+		"concept": "The hubs of concentrated influence",
+		"thinking": "一部の『ハブ』が世界全体を繋ぎ止めている、偏りのある、しかし強靭なネットワーク。インターネットも、人間関係も、同じ不平等な美しさで編まれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "small_world_phenom",
+		"word": "Small World",
+		"meaning": "スモールワールド現象",
+		"etymology": [
+			"Small + World"
+		],
+		"original_statement": "The principle that all people are six or fewer social connections away.",
+		"concept": "Shortcuts to everyone",
+		"thinking": "世界は広いようで、実はほんの数人の知人を辿れば誰とでも繋がっているという、驚くべき『近さ』。ランダムな出会いが、世界を小さく、密に作り替える。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "robustness_network",
+		"word": "Net Robustness",
+		"meaning": "ネットワーク頑健性（がんけんせい）",
+		"etymology": [
+			"Network + Robust"
+		],
+		"original_statement": "Ability of a network to function after removal of nodes.",
+		"concept": "Resilience through redundancy",
+		"thinking": "いくつかの絆が断たれたとしても、全体としては機能を失わない強靭さ。複雑さは、脆弱さではなく、生存への盾（シールド）である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "cascading_failure",
+		"word": "Cascading Fail",
+		"meaning": "連鎖的（れんさてき）崩壊",
+		"etymology": [
+			"Italian cascada (waterfall) + Failure"
+		],
+		"original_statement": "Process in which failure of one part triggers successive failures.",
+		"concept": "The domino of catastrophe",
+		"thinking": "「滝（Cascada）」のように次々と。たった一つの小さな不調が、密接な繋がりを介して世界全体へと一気に波及する、現代社会の脆き連鎖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "cellular_automata",
+		"word": "Cellular Auto",
+		"meaning": "セル・オートマトン",
+		"etymology": [
+			"Latin cella + Greek automatos"
+		],
+		"original_statement": "Discrete model consisting of a regular grid of cells.",
+		"concept": "The pixelated game of life",
+		"thinking": "盤面のマス目（Cell）が、隣り合う者たちの貌を見て、自らの生死を決める。冷徹なルールが、やがて滑らかで生命的な『知性』を画面に溢れ出させる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "game_of_life_complex",
+		"word": "Conway's Life",
+		"meaning": "ライフゲーム",
+		"etymology": [
+			"Game of Life"
+		],
+		"original_statement": "Famous zero-player game showing complex patterns from simple rules.",
+		"concept": "Emergence from simple birth/death",
+		"thinking": "誕生、生存、過密。たったそれだけの数理が、宇宙、生命、記憶を彷彿とさせる壮大な歴史を、デジタルの闇の中に立ち上げる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "langtons_ant",
+		"word": "Langton's Ant",
+		"meaning": "ラングトンのアリ",
+		"etymology": [
+			"Langton"
+		],
+		"original_statement": "Simple automaton leading to complex 'highway' structures.",
+		"concept": "Irreversible order from chaos",
+		"thinking": "最初は乱雑に動き回り、カオスを撒き散らしていた蟻が、ある一万歩を超えた瞬間に、突如として一直線の『道』を築き始める不思議。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "turing_pattern_sys",
+		"word": "Turing Pattern",
+		"meaning": "チューリング・パターン",
+		"etymology": [
+			"Turing"
+		],
+		"original_statement": "Mathematical model of how stripes/spots occur in nature.",
+		"concept": "Reaction-diffusion order",
+		"thinking": "「広がる力（拡散）」と「反応する力」。正反対の理がせめぎ合うことで、シマウマの模様や貝殻の美しさが浮かび上がる、空間の自己組織化。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "sandpile_model",
+		"word": "Sandpile Model",
+		"meaning": "砂山（さなやま）モデル",
+		"etymology": [
+			"Sand + Pile"
+		],
+		"original_statement": "Model showing self-organized criticality.",
+		"concept": "Avalanche of information",
+		"thinking": "一粒、また一粒。砂を積み上げ続ければ、いつかは『地滑り』が起きる。限界の寸前で保たれている、危うき臨界性の物理学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "criticality_sys",
+		"word": "Criticality",
+		"meaning": "臨界（りんかい）性",
+		"etymology": [
+			"Greek krinein (to decide)"
+		],
+		"original_statement": "State between order and disorder.",
+		"concept": "The edge between static and chaos",
+		"thinking": "「決める（Krinein）」場所。静止した秩序と、荒れ狂うカオスのちょうど境界線。そこにこそ、最も豊かな情報と生命の躍動が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "at_the_edge_chaos",
+		"word": "Edge of Chaos",
+		"meaning": "カオスの縁（ふち）",
+		"etymology": [
+			"Edge + Chaos"
+		],
+		"original_statement": "Hypothetically where maximum complexity and computing occur.",
+		"concept": "The golden zone of information",
+		"thinking": "冷たすぎる氷でもなく、熱すぎる蒸気でもない。情報のやり取りが最も活発に行われる、混沌の瀬戸際こそが、私たちの住まう知性の場所。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "nonlinear_dynam",
+		"word": "Nonlinear Dynam",
+		"meaning": "非線形力学（ひせんけいりきがく）",
+		"etymology": [
+			"In- + Latin linearis"
+		],
+		"original_statement": "Systems where change in output is not proportional to input.",
+		"concept": "The logic of non-proportionality",
+		"thinking": "「一を加えたら、一が返る」という単純な世界ではない。微かな羽ばたきが嵐を呼び、沈黙が爆発を秘める、予測不能な『非（In-）』線形なる現実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "attractor_basin",
+		"word": "Attractor Basin",
+		"meaning": "アトラクターの盆地（ぼんち）",
+		"etymology": [
+			"Attractor + Basin"
+		],
+		"original_statement": "The region of states from which a system will evolve toward a given attractor.",
+		"concept": "The gravitational well of destiny",
+		"thinking": "どこから放り出されても、最後には必ずここへ辿り着く。運命という名の『窪み』に囚われた旅路の終焉。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "manifold_learn_sys",
+		"word": "Manifold Learn",
+		"meaning": "多様体（たようたい）学習",
+		"etymology": [
+			"Manifold"
+		],
+		"original_statement": "Visualizing high-dimensional data in lower dimensions.",
+		"concept": "Unfolding the hidden structure",
+		"thinking": "何千もの次元で暴れまわっているデータを、滑らかな『布（紙）』として捉え直し、その本質的な貌（多様体）を優しく広げて見せる手法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "agent_based_model",
+		"word": "Agent-based",
+		"meaning": "エージェント・ベース・モデル",
+		"etymology": [
+			"Latin agere (to act)"
+		],
+		"original_statement": "Simulating the actions and interactions of autonomous agents.",
+		"concept": "History as a sum of actions",
+		"thinking": "「行う者（Agere）」たちをコンピュータの中に解き放ち、彼らの自由奔放な交わりから、不測の未来をシミュレートする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "rugged_landscape",
+		"word": "Rugged Landscap",
+		"meaning": "険（けわ）しい地形",
+		"etymology": [
+			"Old Norse rogg (shaggy)"
+		],
+		"original_statement": "Fitness landscapes with many local peaks and valleys.",
+		"concept": "Complexity of optimization",
+		"thinking": "「毛羽立った（Rogg）」起伏。一寸先は闇、あるいは谷。最高峰を見つけるのが途方もなく難しい、カオス的な可能性の山脈。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "strange_nonchaotic",
+		"word": "SNA",
+		"meaning": "ストレンジ非カオスアトラクター",
+		"etymology": [
+			"Strange + Non-chaotic"
+		],
+		"original_statement": "Attractors that are fractal but do not show sensitivity to initial conditions.",
+		"concept": "Fractal peace",
+		"thinking": "形はどこまでも複雑で『奇妙（Strange）』なのに、その歩みは驚くほどに平穏で安定している。カオスの手前で踏みとどまる、静謐なるフラクタル。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
+	},
+	{
+		"id": "universal_scaling",
+		"word": "Universal Scale",
+		"meaning": "普遍（ふへん）スケーリング",
+		"etymology": [
+			"Latin universalis"
+		],
+		"original_statement": "Properties that remain invariant despite differences in physical details.",
+		"concept": "Law beyond material",
+		"thinking": "物質が水であれ、空気であれ、磁石であれ。臨界点に近づいたとき、それらは全て同じ一つの『数（指数）』に従って振る舞い始める。全一の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非線形の深淵へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"複雑系の知性へ。"
+			]
+		},
+		"example": "Chaos is the score upon which reality is written."
 	}
 ];
