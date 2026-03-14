@@ -337581,5 +337581,1019 @@ const WORDS = [
 			]
 		},
 		"example": "Truth is found in the integration of all views."
+	},
+	{
+		"id": "operator_algebra",
+		"word": "Operator Algebra",
+		"meaning": "作用素環",
+		"etymology": {
+			"components": [
+				"Operator"
+			],
+			"original_statement": "Algebra of operators."
+		},
+		"concept": "Geometry from quantized functions",
+		"thinking": "点ではなく、作用たちの関係性から世界を立ち上げる視座。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "von_neumann",
+		"word": "Von Neumann Algebra",
+		"meaning": "フォン・ノイマン環",
+		"etymology": {
+			"components": [
+				"Von Neumann"
+			],
+			"original_statement": "Weakly closed algebras."
+		},
+		"concept": "The measure theory of operators",
+		"thinking": "無限の統計を作用素という言葉で統べる構造。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "c_star_algebra",
+		"word": "C*-algebra",
+		"meaning": "C*代数",
+		"etymology": {
+			"components": [
+				"C*",
+				"Algebra"
+			],
+			"original_statement": "Normed adjoint algebras."
+		},
+		"concept": "Non-commutative topology",
+		"thinking": "点のない空間を、作用素の響き合いとして記述する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "spectral_triple",
+		"word": "Spectral Triple",
+		"meaning": "スペクトル三つ組",
+		"etymology": {
+			"components": [
+				"Spectral"
+			],
+			"original_statement": "The (A, H, D) triple."
+		},
+		"concept": "The DNA of non-commutative space",
+		"thinking": "代数、空間、微分が揃い、幾何が立ち上がる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "dirac_operator_nc",
+		"word": "Dirac Operator",
+		"meaning": "ディラック作用素",
+		"etymology": {
+			"components": [
+				"Dirac"
+			],
+			"original_statement": "Defining metric info."
+		},
+		"concept": "The yardstick of non-commutative space",
+		"thinking": "非可換な世界に距離を教える、根源的な微分。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "connes_geometry",
+		"word": "Connes Geometry",
+		"meaning": "コンヌの幾何学",
+		"etymology": {
+			"components": [
+				"Connes"
+			],
+			"original_statement": "Algebra of operator algebras."
+		},
+		"concept": "Quantum space-time",
+		"thinking": "関係を重んじ、量子力学と幾何学を結ぶフロンティア。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "cyclic_cohomology",
+		"word": "Cyclic Cohomology",
+		"meaning": "サイクリック・コホモロジー",
+		"etymology": {
+			"components": [
+				"Greek kyklos"
+			],
+			"original_statement": "Non-commutative de Rham."
+		},
+		"concept": "Trace of non-commutative forms",
+		"thinking": "非可換な世界で穴を数え、積分を行うための知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "k_homology",
+		"word": "K-homology",
+		"meaning": "Kホモロジー",
+		"etymology": {
+			"components": [
+				"K-theory"
+			],
+			"original_statement": "Dual to K-theory."
+		},
+		"concept": "The geometry of cycles",
+		"thinking": "空間に横たわる作用素的な核を同定する手段。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "baum_connes",
+		"word": "Baum-Connes",
+		"meaning": "ボーム・コンヌ予想",
+		"etymology": {
+			"components": [
+				"Baum"
+			],
+			"original_statement": "Unifying topology and analysis."
+		},
+		"concept": "Unity of topology and analysis",
+		"thinking": "トポロジーと作用素環が一つの言葉を話している物語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "quantum_group_nc",
+		"word": "Quantum Group",
+		"meaning": "量子群",
+		"etymology": {
+			"components": [
+				"Quantum"
+			],
+			"original_statement": "Generalized symmetries."
+		},
+		"concept": "Quantized symmetry",
+		"thinking": "対称性そのものが量子化され、歪み、多層化した群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "hopf_algebra_nc",
+		"word": "Hopf Algebra",
+		"meaning": "ホップ代数",
+		"etymology": {
+			"components": [
+				"Hopf"
+			],
+			"original_statement": "Algebra with co-action."
+		},
+		"concept": "Symmetry with a mirror and a split",
+		"thinking": "積と余積という鏡の理を持つ、高度な代数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "morita_equivalence",
+		"word": "Morita Equivalence",
+		"meaning": "森田同値",
+		"etymology": {
+			"components": [
+				"Morita"
+			],
+			"original_statement": "Equivalence of modules."
+		},
+		"concept": "Hidden algebraic similarity",
+		"thinking": "見た目は違っても、振る舞いにおいて完全に等価。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "kk_theory",
+		"word": "KK-theory",
+		"meaning": "Kasparov K理論",
+		"etymology": {
+			"components": [
+				"Kasparov"
+			],
+			"original_statement": "Bivariant K-theory."
+		},
+		"concept": "Interactions between algebras",
+		"thinking": "二つの作用素環がどう情報をやり取りするかを記述。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "amenable_group",
+		"word": "Amenable",
+		"meaning": "アメナブルな",
+		"etymology": {
+			"components": [
+				"French amener"
+			],
+			"original_statement": "Group with a mean."
+		},
+		"concept": "Group with a mean",
+		"thinking": "平均を定義できる、穏やかで扱いやすい群。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "banach_tarski",
+		"word": "Banach-Tarski",
+		"meaning": "バナッハ・タルスキーの逆説",
+		"etymology": {
+			"components": [
+				"Banach",
+				"Tarski"
+			],
+			"original_statement": "Paradox of choice."
+		},
+		"concept": "The non-amenable explosion",
+		"thinking": "一つの球体をバラバラにして二つにするという戯れ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "free_probability",
+		"word": "Free Probability",
+		"meaning": "自由確率論",
+		"etymology": {
+			"components": [
+				"Free"
+			],
+			"original_statement": "NC probability."
+		},
+		"concept": "Independence in non-commutative world",
+		"thinking": "無限次の行列の世界に現れる、新しい独立性の概念。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "infinite_matrices",
+		"word": "Infinite Matrix",
+		"meaning": "無限行列",
+		"etymology": {
+			"components": [
+				"Infinite"
+			],
+			"original_statement": "Limit of matrices."
+		},
+		"concept": "The infinite grid of operators",
+		"thinking": "縦横に無限に広がる数字の海。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "crossed_product",
+		"word": "Crossed Product",
+		"meaning": "接合積",
+		"etymology": {
+			"components": [
+				"Crossed"
+			],
+			"original_statement": "Algebra from action."
+		},
+		"concept": "Algebra of interference",
+		"thinking": "ある代数が他へ干渉することで生まれる、複層的な代数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "tomita_takesaki",
+		"word": "Tomita-Takesaki",
+		"meaning": "冨田・竹崎理論",
+		"etymology": {
+			"components": [
+				"Tomita"
+			],
+			"original_statement": "Modular theory."
+		},
+		"concept": "The intrinsic clock of algebra",
+		"thinking": "すべての環は、固有の時計を持っているという真理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "modular_automorphism",
+		"word": "Modular Auto",
+		"meaning": "モジュラー自己同型",
+		"etymology": {
+			"components": [
+				"Modular"
+			],
+			"original_statement": "Flow of a state."
+		},
+		"concept": "The internal flow of truth",
+		"thinking": "状態が代数の中を滑らかに流れていく、必然の旋回。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "state_nc",
+		"word": "State",
+		"meaning": "状態",
+		"etymology": {
+			"components": [
+				"Latin status"
+			],
+			"original_statement": "Linear functional."
+		},
+		"concept": "Expectation value of reality",
+		"thinking": "作用素の世界に対し、たった一つの答えを導く形式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "trace_ideal",
+		"word": "Trace Ideal",
+		"meaning": "トレース・イデアル",
+		"etymology": {
+			"components": [
+				"Trace"
+			],
+			"original_statement": "Summable identities."
+		},
+		"concept": "The sum of identity",
+		"thinking": "無限の混沌でも、全体像を足し算で語れる一族。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "fredholm_module",
+		"word": "Fredholm Module",
+		"meaning": "フレドホルム加群",
+		"etymology": {
+			"components": [
+				"Fredholm"
+			],
+			"original_statement": "Abstract cycle."
+		},
+		"concept": "The abstract cycle",
+		"thinking": "非可換世界で穴を定義し、微積分へ変換する装置。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "nc_torus",
+		"word": "Non-commutative Torus",
+		"meaning": "非可換トーラス",
+		"etymology": {
+			"components": [
+				"Torus"
+			],
+			"original_statement": "NC manifold."
+		},
+		"concept": "Quantized doughnut",
+		"thinking": "歪んだ座標により、ドーナツが量子の霧に溶けた姿。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "quantum_plane",
+		"word": "Quantum Plane",
+		"meaning": "量子平面",
+		"etymology": {
+			"components": [
+				"Quantum"
+			],
+			"original_statement": "NC plane."
+		},
+		"concept": "X times Y equals Q times Y times X",
+		"thinking": "かける順番で係数が現れる、ねじれた平面。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "distorted_symmetry",
+		"word": "Distorted",
+		"meaning": "歪んだ対称性",
+		"etymology": {
+			"components": [
+				"Latin distorquere"
+			],
+			"original_statement": "Twisted apart."
+		},
+		"concept": "Symmetry with a twist",
+		"thinking": "完璧さを崩しながらも、新しい秩序を保つ対称性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "deformable_algebra",
+		"word": "Deformable",
+		"meaning": "変形可能な代数",
+		"etymology": {
+			"components": [
+				"Deform"
+			],
+			"original_statement": "Fluid products."
+		},
+		"concept": "Fluid rules of multiplication",
+		"thinking": "ルールそのものが温度計のように滑らかに変化する理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "quantization_map",
+		"word": "Quantization",
+		"meaning": "量子化",
+		"etymology": {
+			"components": [
+				"Latin quantus"
+			],
+			"original_statement": "Transition to quantum."
+		},
+		"concept": "The transition to quantum world",
+		"thinking": "「どれほど」を作用素の響きへと昇華する手続き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "weyl_algebra",
+		"word": "Weyl Algebra",
+		"meaning": "ワイル代数",
+		"etymology": {
+			"components": [
+				"Weyl"
+			],
+			"original_statement": "Heisenberg algebra."
+		},
+		"concept": "The math of uncertainty",
+		"thinking": "位置と運動量が相容れないことを封じ込めた不朽の代数。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "moyal_product",
+		"word": "Moyal Product",
+		"meaning": "モイヤル積",
+		"etymology": {
+			"components": [
+				"Moyal"
+			],
+			"original_statement": "Star product."
+		},
+		"concept": "Blurring the classical points",
+		"thinking": "関数を量子的な重なりを持たせて掛ける、不思議な演算。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "pseudo_differential",
+		"word": "Pseudo-differential",
+		"meaning": "擬微分作用素",
+		"etymology": {
+			"components": [
+				"Greek pseudes"
+			],
+			"original_statement": "Generalized diff."
+		},
+		"concept": "Generalized local interaction",
+		"thinking": "微分の貌をした、解析学の変幻自在なツール。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "local_index_formula",
+		"word": "Local Index",
+		"meaning": "局所指数公式",
+		"etymology": {
+			"components": [
+				"Local"
+			],
+			"original_statement": "Curvature and index."
+		},
+		"concept": "Truth from the infinitesimal",
+		"thinking": "全体の不変量が、ミクロな曲がりの集積であるという断言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "non_commutative_geometry_book",
+		"word": "Non-commutative Geometry",
+		"meaning": "非可換幾何学",
+		"etymology": {
+			"components": [
+				"Non-commutative"
+			],
+			"original_statement": "The field."
+		},
+		"concept": "The new language of space-time",
+		"thinking": "代数、幾何、物理が溶け合う現代数学の新聖典。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "smooth_nc_algebra",
+		"word": "Smooth NC Algebra",
+		"meaning": "滑らかな非可換代数",
+		"etymology": {
+			"components": [
+				"Smooth"
+			],
+			"original_statement": "Smooth NC manifolds."
+		},
+		"concept": "The friction-less non-commutative space",
+		"thinking": "カオスの中に、滑らかな情報の流れを持つ洗練。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "rigid_nc_structure",
+		"word": "Rigid NC",
+		"meaning": "硬的な非可換構造",
+		"etymology": {
+			"components": [
+				"Latin rigidus"
+			],
+			"original_statement": "Stubborn truth."
+		},
+		"concept": "The stubborn truth",
+		"thinking": "変形を許さず、その姿を守り通す不変の意志。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "unbounded_kasparov",
+		"word": "Unbounded Module",
+		"meaning": "非有界加群",
+		"etymology": {
+			"components": [
+				"Unbounded"
+			],
+			"original_statement": "Dynamic cycle."
+		},
+		"concept": "The wild cycle",
+		"thinking": "限りないエネルギーを孕む、宇宙のダイナミズム。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "amenability_of_groups",
+		"word": "Group Amenability",
+		"meaning": "群の従順性",
+		"etymology": {
+			"components": [
+				"Amenable"
+			],
+			"original_statement": "Social harmony."
+		},
+		"concept": "The social harmony of groups",
+		"thinking": "他者を傷つけず、穏やかに対話できる群の性質。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "f_theory_nc",
+		"word": "F-theory in NC",
+		"meaning": "非可換F理論",
+		"etymology": {
+			"components": [
+				"F-theory"
+			],
+			"original_statement": "String theory application."
+		},
+		"concept": "The geometry of hidden dimensions",
+		"thinking": "余剰次元を作用素環として捉え直す、物理の極北。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "nc_soliton",
+		"word": "NC Soliton",
+		"meaning": "非可換ソリトン",
+		"etymology": {
+			"components": [
+				"Soliton"
+			],
+			"original_statement": "Stable wave."
+		},
+		"concept": "The stable wave in quantum fog",
+		"thinking": "量子的な霧の中に現れる、孤高の安定した波。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "quantized_calculus",
+		"word": "Quantized Calculus",
+		"meaning": "量子化微積分",
+		"etymology": {
+			"components": [
+				"Quantized"
+			],
+			"original_statement": "Calculus without points."
+		},
+		"concept": "The math of change without points",
+		"thinking": "点ではなく「差異」によって語られる、新しい微積分。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "nc_field_theory",
+		"word": "NC Field Theory",
+		"meaning": "非可換場の理論",
+		"etymology": {
+			"components": [
+				"Field"
+			],
+			"original_statement": "Fuzzy field theory."
+		},
+		"concept": "Physics of fuzzy space",
+		"thinking": "ぼやけた時空の上で繰り広げられる、物理の律動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "nc_gravity",
+		"word": "NC Gravity",
+		"meaning": "非可換重力",
+		"etymology": {
+			"components": [
+				"Gravity"
+			],
+			"original_statement": "Emergent gravity."
+		},
+		"concept": "Geometry formed from quantum action",
+		"thinking": "重力が作用素の非可換な関係から立ち上がる驚異。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "universal_c_star",
+		"word": "Universal C*",
+		"meaning": "普遍C*代数",
+		"etymology": {
+			"components": [
+				"Universal"
+			],
+			"original_statement": "Free algebra."
+		},
+		"concept": "The parent of all algebras",
+		"thinking": "ルールを守る全代数のオリジンであり、最高の自由。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
+	},
+	{
+		"id": "nc_morphism",
+		"word": "NC Morphism",
+		"meaning": "非可換射",
+		"etymology": {
+			"components": [
+				"Morphism"
+			],
+			"original_statement": "Transforming operators."
+		},
+		"concept": "The transformation of operators",
+		"thinking": "力が他へと移ろい、響きが溶け込む、優雅な転生。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "非可換の律動を感じて。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"量子幾何学の深淵へ。"
+			]
+		},
+		"example": "Space is an algebra, and geometry is its representation."
 	}
 ];
