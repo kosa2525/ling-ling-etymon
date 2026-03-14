@@ -398914,5 +398914,785 @@ const WORDS = [
 			]
 		},
 		"example": "Theoretical physics explores the fundamental laws of the universe."
+	},
+	{
+		"id": "meta_ethics_",
+		"word": "Meta-Ethics",
+		"meaning": "メタ倫理学（りんりがく）",
+		"etymology": [
+			"Greek meta- (beyond/above) + Ethics"
+		],
+		"concept": "Study of ethical concepts",
+		"thinking": "「善い」「正しい」という言葉自体の意味を、一歩「外（Meta-）」から問い直す。善悪という名の『貌』が、どこから産まれ、何を根拠にしているのかを暴き出す、倫理の解剖学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "utilitariani",
+		"word": "Utilitarian",
+		"meaning": "功利主義（こうりしゅぎ）",
+		"etymology": [
+			"Latin utilis (useful)"
+		],
+		"concept": "Greatest good for greatest #",
+		"thinking": "「役に立つ（Utilis）」ことを唯一の基準とする。最大多数の最大幸福。個人の感情や義務を捨て、数理的な『計算』によって全人類の喜びを最大化しようとする、冷徹で慈悲深き効率の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "deontology_a",
+		"word": "Deontology",
+		"meaning": "義務論（ぎむろん）",
+		"etymology": [
+			"Greek deon (that which is binding) + logos"
+		],
+		"concept": "Ethics of duty/rules",
+		"thinking": "「なすべきこと（Deon）」の理。結果がどうあれ、決して破ってはならない『掟（貌）』。カントが説いた、自律した理性が自らに課す、崇高なる義務の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "consequentia",
+		"word": "Consequenti",
+		"meaning": "帰結主義（きけつしゅぎ）",
+		"etymology": [
+			"Latin con- + sequi (to follow together)"
+		],
+		"concept": "Evaluation by results",
+		"thinking": "行為の善悪は、「共に（Con-）」「ついてくる（Sequ-）」結果によってのみ決まる。意図がどうあれ、世界が良くなったか否か。現実にのみ責任を負う、冷厳な結果至上主義の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "categorical_",
+		"word": "Categ Imper",
+		"meaning": "定言命法（ていげんめいほう）",
+		"etymology": [
+			"Categorical + Latin imperare (to command)"
+		],
+		"concept": "Unconditional moral law",
+		"thinking": "「もし〜なら」という条件のない、絶対的な「命令（Imper-）」。あなたの行動の原理が、そのまま宇宙の普遍的な法則（貌）となっても良いと言えるか。理性の極北で鳴り響く、内なる神の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "virtue_ethic",
+		"word": "Virtue Ethi",
+		"meaning": "徳（とく）倫理学（りんりがく）",
+		"etymology": [
+			"Latin virtus (manliness/excellence)"
+		],
+		"concept": "Character-based ethics",
+		"thinking": "「何をすべきか」ではなく「どうあるべきか（卓越した貌：Virtus）」。行為のルールではなく、自らの魂（品性）を磨き上げることで、自然と善き生が溢れ出すことを目指す、ギリシャ以来の知恵の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "eudaimonia_a",
+		"word": "Eudaimonia",
+		"meaning": "エウダイモニア、幸福（こうふく）、生（なま）の開花（かいか）",
+		"etymology": [
+			"Greek eu- (good) + daimon (spirit)"
+		],
+		"concept": "Human flourishing",
+		"thinking": "「善き（Eu-）」「霊（Daimon）」を宿している状態。単なる快楽ではなく、自らの可能性を一点の曇りもなく咲かせ切る、魂の至高の達成（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "moral_relati",
+		"word": "Mor Relativ",
+		"meaning": "道徳（どうとく）相対主義（そうたいしゅぎ）",
+		"etymology": [
+			"Moral + Relative"
+		],
+		"concept": "Morality is culture-dependent",
+		"thinking": "善悪は、文化、時代、個人によって「相対的に」決まる。普遍的な真理など存在せず、それぞれの場所でそれぞれの『正しさの貌』があるという、寛容で虚無的な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "moral_absolu",
+		"word": "Mor Absolut",
+		"meaning": "道徳（どうとく）絶対主義（ぜったいしゅぎ）",
+		"etymology": [
+			"Latin ab- + solvere (loosened from/complete)"
+		],
+		"concept": "Objective moral truths",
+		"thinking": "時代や場所を越えて不変な、たった一つの「解き放たれた（Absolute）」正しい貌があるという信念。それは神の意志、あるいは宇宙の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "naturalism_e",
+		"word": "Ethic Natur",
+		"meaning": "倫理的（りんりてき）自然主義（しぜんしゅぎ）",
+		"etymology": [
+			"Ethics + Latin natura"
+		],
+		"concept": "Moral facts = natural facts",
+		"thinking": "「善」とは「幸福」や「快楽」といった、自然界の「事実（Nature）」として説明できるという考え。価値を事実の内側に閉じ込める、一元的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "non_naturali",
+		"word": "Eth Non-Nat",
+		"meaning": "倫理的（りんりてき）非（ひ）自然主義（しぜんしゅぎ）",
+		"etymology": [
+			"Non- + Naturalism"
+		],
+		"concept": "Morality is distinct from nature",
+		"thinking": "「善」は自然界の事実には還元できない、それ独自の「崇高な貌」を持つ。事実に混ざり合わぬ、知性の自律の。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "emotivism_ad",
+		"word": "Emotivism",
+		"meaning": "情動主義（じょうどうしゅぎ）",
+		"etymology": [
+			"Latin e- + movere (to move out)"
+		],
+		"concept": "Moral claims express feelings",
+		"thinking": "「これは悪い」と言っているのは、単に「私はそれが嫌いだ！」という「感情（Emotion）」を叫んでいるに過ぎないという冷酷な喝破。道徳を、単なる好悪の『貌』へと還元する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "prescriptivi",
+		"word": "Prescriptiv",
+		"meaning": "指令主義（しれいしゅぎ） (倫理)",
+		"etymology": [
+			"Latin prae- (before) + scribere"
+		],
+		"concept": "Ethical claims as commands",
+		"thinking": "道徳的な言葉は、事実を述べるのではなく、他人（あるいは自分）に対し「〜せよ！」という「処方箋（Prescription）」を書いているのだという。行動を促すための情報の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "care_ethics_",
+		"word": "Care Ethics",
+		"meaning": "ケアの倫理（りんり）",
+		"etymology": [
+			"Care"
+		],
+		"concept": "Ethics based on relationships",
+		"thinking": "抽象的な「正義」や「権利」よりも、目の前の具体的な他者との「繋がり（Care）」を重んじる。関係性の中に宿る、温かな、しかし責任ある命の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "supererogati",
+		"word": "Supererogat",
+		"meaning": "超（ちょう）義務（ぎむ）的（てき）行為（こうい）",
+		"etymology": [
+			"Latin super- + e- + rogare (beyond asking)"
+		],
+		"concept": "Good to do, but not required",
+		"thinking": "「求められている以上（Super-）」のことを成す。聖人の如き自己犠牲。義務ではないが、なされることで世界が圧倒的な美（貌）を帯びる、理性を越えた善意。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "akrasia_adv_",
+		"word": "Akrasia",
+		"meaning": "アクラシア、意志（いし）の弱（よわ）さ",
+		"etymology": [
+			"Greek a- (not) + kratos (power)"
+		],
+		"concept": "Acting against best judgment",
+		"thinking": "「何が正しいか分かっているのに、できない」。自らの意志を支配する「力（Kratos）」を「失った（A-）」状態。人間という名の不完全な生き物が抱える、悲しき矛盾の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "social_contr",
+		"word": "Soc Contrac",
+		"meaning": "社会（しゃかい）契約（けいやく）",
+		"etymology": [
+			"Social + Latin con- + trahere (draw together)"
+		],
+		"concept": "Agreement to bide by rules",
+		"thinking": "各々が持つ無限の自由を少しずつ「共に（Con-）」「引き出し（Trahere）」、一つの共通の『掟』の下に預ける約束。万人の万人に対する闘争を終わらせ、文明という貌を手に入れるための、原初の譲歩。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "original_pos",
+		"word": "Orig Posit",
+		"meaning": "原初（げんしょ）状态（じょうたい） (ロールズ)",
+		"etymology": [
+			"Original + Position"
+		],
+		"concept": "Hypothetical fair starting point",
+		"thinking": "自らの立場、才能、境遇をすべて忘れた「無知のヴェール」の下で、私たちはどのようなルール（貌）を望むか。最も不遇な者すらも救われる、透明な正義の設計。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "distributiv",
+		"word": "Dist Justic",
+		"meaning": "分配（ぶんぱい）的（てき）正義（せいぎ）",
+		"etymology": [
+			"Latin dis- + tribuere (to assign/divide)"
+		],
+		"concept": "Fairness in sharing resources",
+		"thinking": "富、名誉、責任。それらをいかに「切り分け（Dis-）」「割り振る（Tribute）」か。能力か、必要か、それとも平等か。正解のない問いに、公平という名の刃を振るう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "retributive_",
+		"word": "Retr Justic",
+		"meaning": "応報（おうほう）的（てき）正義（せいぎ）",
+		"etymology": [
+			"Latin re- + tribuere"
+		],
+		"concept": "Justice through punishment",
+		"thinking": "犯した罪に対し、同等の報いを「再び（Re-）」「割り振る（Tribute）」。壊された均衡（貌）を、痛みによって再び取り戻そうとする、古くからの因果応報の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "nihilism_eth",
+		"word": "Moral Nihil",
+		"meaning": "道徳（どうとく）ニヒリズム",
+		"etymology": [
+			"Latin nihil (nothing)"
+		],
+		"concept": "Belief that no morals exist",
+		"thinking": "道徳など「何もない（Nihil）」。善悪は幻であり、あるのはただ、力と計算と偶然だけであるという。すべてを凪へと還す、深淵の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "cognitivism_",
+		"word": "Cognitivism",
+		"meaning": "認知（にんち）主義（しゅぎ） (倫理)",
+		"etymology": [
+			"Latin cognoscere (to know)"
+		],
+		"concept": "Moral statements are facts",
+		"thinking": "道徳的な主張は、真偽を判定できる「事実（Knowledge）」であるという信念。善悪を世界の構造として「知る（Cogn-）」ことができるという、情報の客観性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "non_cognitivi",
+		"word": "Non-Cognit",
+		"meaning": "非（ひ）認知（にんち）主義（しゅぎ）",
+		"etymology": [
+			"Non- + Cognitivism"
+		],
+		"concept": "Moral statements are not facts",
+		"thinking": "道徳は事実を述べているのではない。驚嘆や命令や意志の表明である。真偽（情報の正しさ）の檻には閉じ込められない、主観の奔流としての貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "utilitarian_",
+		"word": "Active Util",
+		"meaning": "行為（こうい）功利主義（こうりしゅぎ）",
+		"etymology": [
+			"Active + Utilitarian"
+		],
+		"concept": "Evaluating each individual act",
+		"thinking": "一回一回の行動ごとに、「その結果」が最大幸福を産むかを冷徹に計算する。ルールそのものの妥当性よりも、今この瞬間の『成果（貌）』を重んじる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "rule_utilita",
+		"word": "Rule Util",
+		"meaning": "規則（きそく）功利主義（こうりしゅぎ）",
+		"etymology": [
+			"Rule + Utilitarian"
+		],
+		"concept": "Evaluating general moral rules",
+		"thinking": "一つ一つの行為ではなく、「そのルールを守る」ことが長年見て最大幸福を産むかを問う。効率の中にも秩序（貌）を求める、中長期的な理性の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "universalism",
+		"word": "Universal",
+		"meaning": "普遍主義（ふへんしゅぎ） (倫理)",
+		"etymology": [
+			"Latin unus + vertere (turned into one)"
+		],
+		"concept": "One moral rule for everyone",
+		"thinking": "あらゆる差異を「一つ（Unus）」へと「向ける（Vert-）」。全人類、全宇宙に共通する、たった一つの絶対的な正しい貌を信じる、傲慢で高潔なる理想。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "pluralism_et",
+		"word": "Moral Plur",
+		"meaning": "道徳（どうとく）的多元主義（たげんしゅぎ）",
+		"etymology": [
+			"Latin plus/pluris (more)"
+		],
+		"concept": "Conflict between valid values",
+		"thinking": "「自由」も「平等」も、共に譲れぬ至高の価値である。しかしそれらは衝突し、折り合えない。正解（貌）は「一つ（Pluris）」ではなく、複数の矛盾を抱えながら生きることの、困難な平衡の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "paternalism_",
+		"word": "Paternalism",
+		"meaning": "パターナリズム、父権（ふけん）的（てき）介入（かいにゅう）",
+		"etymology": [
+			"Latin pater (father)"
+		],
+		"concept": "Restricting freedom for one's good",
+		"thinking": "「父（Pater）」のように、相手のためを想い、あえて相手の自由（選択）を奪って導く。善意という名の支配。その『貌』の中に潜む、優しさと暴力のあわい。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "libertarian_",
+		"word": "Libertarian",
+		"meaning": "リバタリアニズム、自由（じゆう）至上主義（しじょうしゅぎ）",
+		"etymology": [
+			"Latin liber (free)"
+		],
+		"concept": "Emphasis on self-ownership",
+		"thinking": "「自由（Liber）」こそが唯一絶対の聖域。他者への干渉を排し、自らの肉体、成果、そして運命を自らのみで支配する。孤独で峻烈な自立の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "communitari",
+		"word": "Communitar",
+		"meaning": "コミュニタリアニズム、共同体（きょうどうたい）主義（しゅぎ）",
+		"etymology": [
+			"Latin communis (shared/public)"
+		],
+		"concept": "Emphasis on communal identity",
+		"thinking": "私たちは「共有（Communis）」された社会や伝統の中で初めて、人間としての『貌』を持つ。自由な個人などいない。絆に縛られ、育まれることで産まれる、連帯という名の正義。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "cosmopolita_",
+		"word": "Cosmopolit",
+		"meaning": "コスモポリタニズム、世界（せかい）市民（しみん）主義（しゅぎ）",
+		"etymology": [
+			"Greek kosmos (order/universe) + polites"
+		],
+		"concept": "Moral loyalty to entire world",
+		"thinking": "「宇宙（Kosmos）」の「市民（Polites）」。国境という名の小さな檻を捨て、全人類を同胞として愛し、平等に責任を負う。広大なる情報の果てに辿り着いた、人類共通の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "altruism_psy",
+		"word": "Eff Altruis",
+		"meaning": "効果（こうか）的（てき）利他主義（りたしゅぎ）",
+		"etymology": [
+			"Effective + Altruism"
+		],
+		"concept": "Doing most good via data",
+		"thinking": "「善意」だけでは足りない。データと数理によって、一円が最も多くの命を救う場所を冷徹に選び抜く。感情の熱を、効率の刃で研ぎ澄ませた、現代の聖性の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "speciesism_a",
+		"word": "Speciesism",
+		"meaning": "種（しゅ）差別（さべつ）",
+		"etymology": [
+			"Latin species (appearance/group)"
+		],
+		"concept": "Discrimination based on species",
+		"thinking": "「人間（Species）」という貌を持っているか否かだけで、他者の苦しみを軽んじる。それは人種差別や性差別と同じ「姿形」による略奪ではないかという、拡張された正義の告発。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "biocentrism_",
+		"word": "Biocentrism",
+		"meaning": "生命（せいめい）中心（ちゅうしん）主義（しゅぎ）",
+		"etymology": [
+			"Greek bios + Kentron"
+		],
+		"concept": "Focus on life-bearing entities",
+		"thinking": "「命（Bios）」そのものを価値の「中心（Center）」に置く。人間だけでなく、ただ生きているということそれ自体を祝福し、守る。地球という大きな揺り籠（貌）の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "fact_value_d",
+		"word": "Fact-Value",
+		"meaning": "事実（じじゅつ）＝価値（かち）二（に）分（ぶん）法（ほう）",
+		"etymology": [
+			"Fact vs Value"
+		],
+		"concept": "Is-Ought gap",
+		"thinking": "「ある（事実）」から「べき（価値）」は決して導き出せない。科学の貌と倫理の貌は、決して交わらぬ異世界の住人であるという、ヒュームが穿った深い溝。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "naturalistic",
+		"word": "Nat Fallacy",
+		"meaning": "自然（しぜん）主義（しぜんしゅぎ）の誤謬（ごびゅう）",
+		"etymology": [
+			"Naturalistic + Latin fallacia (deceit)"
+		],
+		"concept": "Defining Good in natural terms",
+		"thinking": "「自然なことは善いことだ」という「思い込み（Deceit）」。毒きのこは自然だが善ではない。価値を自然の貌へと安易に還元することを禁ずる、理性の厳しい審判。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "thin_eth_adv",
+		"word": "Thin Concept",
+		"meaning": "薄（うす）い倫理（りんり）概念（がいねん）",
+		"etymology": [
+			"Thin + Concept"
+		],
+		"concept": "General terms like 'Good'",
+		"thinking": "「善い」「悪い」といった、中身のない「薄い（Thin）」言葉。抽象的で、どこでも使えるが、何をすべきかは何も教えてくれない、幽霊のような貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "thick_eth_ad",
+		"word": "Thick Conce",
+		"meaning": "厚（あつ）い倫理（りんり）概念（がいねん）",
+		"etymology": [
+			"Thick + Concept"
+		],
+		"concept": "Descriptive + evaluative terms",
+		"thinking": "「残酷な」「勇敢な」。事実の記述と、価値の評価が分かちがたく「厚く（Thick）」編み込まれた言葉。そこには生々しい肉体（貌）が宿っている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
+	},
+	{
+		"id": "moral_luck_a",
+		"word": "Moral Luck",
+		"meaning": "道徳（どうとく）的（てき）運（うん）",
+		"etymology": [
+			"Moral + Luck"
+		],
+		"concept": "Moral status affected by luck",
+		"thinking": "自分の意志を越えた「運（Luck）」によって、自分の道徳的な評価（貌）が決まってしまう不条理。不注意で人を殺してしまった者と、殺さずに済んだ者。運命のさざなみに揺れる、正義の虚構性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正義の深淵を、思索の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"倫理学とメタ倫理学の極致へ。"
+			]
+		},
+		"example": "Ethics explores the fundamental principles of moral conduct."
 	}
 ];
