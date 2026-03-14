@@ -328087,5 +328087,237 @@ const WORDS = [
 				"現象の背後にある法則を索めて。"
 			]
 		}
+	},
+	{
+		"id": "group_math",
+		"word": "Group",
+		"meaning": "群、集団、グループ",
+		"era": "German Gruppe",
+		"etymology": {
+			"components": [
+				"groppo (knot)"
+			],
+			"original_statement": "From German Gruppe, from Italian groppo 'knot / cluster'."
+		},
+		"concept": "The knot of symmetry (対称性の結び目、演算を共有する共同体)",
+		"thinking": "「結び目（Groppo）」。バラバラな要素が、一つの計算規則（ルール）によって固く結ばれ、互いに助け合いながら一貫性を保つ組織。それは、個性を維持しながら全体の調和（対称性）を守り抜く、最もストイックな理知の形態です。",
+		"aftertaste": "確固たるルール（絆）が、自由な動きの中に秩序をもたらします。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "ring_math",
+		"word": "Ring",
+		"meaning": "環、リング",
+		"era": "Old English hring",
+		"etymology": {
+			"components": [
+				"hring (circle / ring)"
+			],
+			"original_statement": "From Old English hring 'circle / ring'."
+		},
+		"concept": "The circle of operation (演算の円環、足し算と掛け算の共演)",
+		"thinking": "「円環（Hring）」。足し算と掛け算という二つの力が、一つの空間の中で矛盾なく共存し、巡り巡って美しい構造を作り出している場所。それは、複数の価値観が調和して一つの世界を構築する、豊穣なる理知の舞台です。",
+		"aftertaste": "異なる力（演算）を組み合わせることで、世界はより複雑で美しくなります。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "field_math",
+		"word": "Field",
+		"meaning": "体、フィールド、原野",
+		"era": "Old English feld",
+		"etymology": {
+			"components": [
+				"feld (open land / plain)"
+			],
+			"original_statement": "From Old English feld 'open land / plain'."
+		},
+		"concept": "The open land of division (分かち合える原野、自由なる四則演算)",
+		"thinking": "「広々した大地（Feld）」。足し算も引き算も、掛け算も、そして『割り算』さえも自由に行える、完璧な自由が保証された広大な数学の領土。障害物がなく、どこまでも計算の翼を広げられる、知性の安らぎの地です。",
+		"aftertaste": "分かち合う（割り算）ことができる場所。そこが真の自由（体）です。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "morphism_logic",
+		"word": "Morphism",
+		"meaning": "射（しゃ）、写像、変形",
+		"era": "Greek morphe",
+		"etymology": {
+			"components": [
+				"morphe (form / shape)"
+			],
+			"original_statement": "From Greek morphe 'form / shape'."
+		},
+		"concept": "The path of form transition (形の移ろい、構造を守る架け橋)",
+		"thinking": "「かたち（Morphe）」。一つの世界から別の世界へ、その本質的な構造を壊すことなく情報を運ぶ『架け橋』。姿を変えても、その背後にある絆（関係性）を維持し続ける、誠実なる翻訳のプロセスです。",
+		"aftertaste": "外見が変わっても、本質を伝えていくこと。それが射（モルフィズム）の使命です。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "automorphism_math",
+		"word": "Automorphism",
+		"meaning": "自己同型、自らへの写像",
+		"era": "Greek autos + morphe",
+		"etymology": {
+			"components": [
+				"autos (self)",
+				"morphe (form)"
+			],
+			"original_statement": "From Greek autos 'self' + morphe 'form'."
+		},
+		"concept": "Symmetry of self (自己の対称性、自分を自分へと映し出す鏡)",
+		"thinking": "「自分自身（Autos）」への「かたち（Morphe）」の変換。自分を別の角度から見たり、中身を入れ替えたりしても、結局は『自分自身』に他ならないという、不動のアイデンティティ。それは、どんな試練（変換）を受けても揺るがない、魂の自画像です。",
+		"aftertaste": "どんなに変装（変換）しても、あなたはあなた。その一貫性を楽しんで。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "permutation_math",
+		"word": "Permutation",
+		"meaning": "置換、順列、並べ替え",
+		"era": "Latin per- + mutare",
+		"etymology": {
+			"components": [
+				"per- (thoroughly)",
+				"mutare (to change)"
+			],
+			"original_statement": "From Latin permutationem 'a change, shift', from permutare 'to change thoroughly'."
+		},
+		"concept": "Changing thoroughly (徹底的な入れ替え、秩序のシャッフル)",
+		"thinking": "「完全に（Per）」「変える（Mut）」。要素を一つ残らず並べ替え、新しい秩序を作り出すこと。同じメンバーでも、その配置一つで、全く異なる響きや対称性が生まれる。パズルの断片を入れ替えるように、世界の可能性を楽しみ尽くす手法です。",
+		"aftertaste": "配置を変えるだけで、見慣れた景色も全く新しい物語に変わります。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "normal_subgroup_math",
+		"word": "Normal Subgroup",
+		"meaning": "正規部分群",
+		"era": "Latin normalis",
+		"etymology": {
+			"components": [
+				"norma (rule / carpenter's square)"
+			],
+			"original_statement": "Combining normal (from Latin normalis) + subgroup."
+		},
+		"concept": "The well-behaved core (正しき中心、理知的な仕切り)",
+		"thinking": "「正しき定規（Normalis）」のような部分集団。どこから掛けても形が崩れず、割り算（剰余群）を可能にするための『選ばれし中核』。全体を美しく分割するための、極めて純度の高い、調和のとれた内なるルールです。",
+		"aftertaste": "正しき中核（ルール）を持つことで、全体を綺麗に整理（分割）できます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "solvability_math",
+		"word": "Solvability",
+		"meaning": "可解性、解けること",
+		"era": "Latin solvere",
+		"etymology": {
+			"components": [
+				"solvere (to loosen / untie)"
+			],
+			"original_statement": "From Latin solvere 'to loosen / untie / release'."
+		},
+		"concept": "Ability to untie the knot (結び目を解く力、方程式への勝利)",
+		"thinking": "「解き放つ（Solve）」ことができる性質。どんなに複雑に絡まった方程式（結び目）も、根の公式という武器を使って、一歩ずつバラバラに分解できるかどうか。それは、カオスの中に必ず『出口（答え）』が存在するという、人間の知性の勝利の記録です。",
+		"aftertaste": "どんな難問も、正しく解きほぐせば（Solvable）、光が見えてきます。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "radical_math",
+		"word": "Radical",
+		"meaning": "根本的な、過激な、累乗根(数学)",
+		"era": "Latin radix",
+		"etymology": {
+			"components": [
+				"radix (root)"
+			],
+			"original_statement": "From Latin radicalis, from radix 'root'."
+		},
+		"concept": "Touching the root (根源へと触れる、累乗の深淵)",
+		"thinking": "「根（Radix）」。べき乗されて複雑になった数を、その『種火（根）』にまで遡って見つけ出すこと。表面的な現象に惑わされず、土の下に隠された『根本的な原因』を掘り起こす、鋭利で過激な探求心です。",
+		"aftertaste": "複雑な答えに辿り着いた時、そこにはいつもシンプルな『根っこ』があります。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
+	},
+	{
+		"id": "galois_theory_words",
+		"word": "Galois Theory",
+		"meaning": "ガロア理論",
+		"era": "Named after Évariste Galois",
+		"etymology": {
+			"components": [
+				"Évariste Galois (Mathematician)"
+			],
+			"original_statement": "Named after the young French mathematician Évariste Galois, who died in a duel at age 20."
+		},
+		"concept": "The link between shape and number (形と数の架け橋、若き天才の遺言)",
+		"thinking": "天才ガロアが遺した、方程式の『解ける、解けない』を、その背後にある『対称性の美（群）』で判定する壮大な知の体系。決闘に散った短い生涯を燃やし尽くして辿り着いた、宇宙の最も深遠な美学の一つです。 ",
+		"aftertaste": "死を目前にして彼が綴ったのは、絶望ではなく、透徹した美の理論でした。",
+		"part_of_speech": "noun",
+		"example": "Structures are the silent language of the universe.",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万物の理を索めて。"
+			]
+		}
 	}
 ];
