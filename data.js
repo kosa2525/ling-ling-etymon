@@ -344228,5 +344228,959 @@ const WORDS = [
 			]
 		},
 		"example": "Computation is the bridge between abstraction and reality."
+	},
+	{
+		"id": "floating_point",
+		"word": "Floating-point",
+		"meaning": "浮動小数点数（ふどうしょうすうてんすう）",
+		"etymology": {
+			"components": [
+				"Float",
+				"Point"
+			],
+			"original_statement": "Representation of real numbers with variable precision."
+		},
+		"concept": "Quantized real numbers",
+		"thinking": "「浮かんでいる（Float）」。巨大な銀河から極微の原子まで、指数（スケール）を自在に操りながら、限られたビットの中に無限の数直線を閉じ込めるための、妥協と知恵の産物。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "round_off_error",
+		"word": "Round-off Error",
+		"meaning": "丸め（まるめ）誤差",
+		"etymology": {
+			"components": [
+				"Round",
+				"Error"
+			],
+			"original_statement": "Discrepancy due to finite precision storage."
+		},
+		"concept": "The cost of finitude",
+		"thinking": "無限を有限に詰め込むときに、必ずこぼれ落ちてしまう情報の欠片。塵のように小さくとも、積もれば世界の運命を狂わせる。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "truncation_error",
+		"word": "Truncation Error",
+		"meaning": "打ち切り（うちきり）誤差",
+		"etymology": [
+			"Latin truncare (to cut off)"
+		],
+		"original_statement": "Error from using a finite approximation of an infinite process.",
+		"concept": "The price of stopping",
+		"thinking": "「切り落とす（Truncare）」。永遠に続く計算を途中で止めて、現実的な答えを優先するときに生じる、未練としての誤差。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "taylor_series_adv",
+		"word": "Taylor Series",
+		"meaning": "テイラー展開",
+		"etymology": [
+			"Taylor"
+		],
+		"original_statement": "Representation of a function as an infinite sum of derivatives.",
+		"concept": "Reconstructing truth from a point",
+		"thinking": "一点に宿る『震え（微分）』の情報をすべて集めれば、遠く離れた場所の景色さえも完璧に再現できるという、予測の魔法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "convergence_rate",
+		"word": "Convergence Rate",
+		"meaning": "収束（しゅうそく）速度",
+		"etymology": [
+			"Latin con- (together) + vergere"
+		],
+		"original_statement": "Speed at which a sequence approaches its limit.",
+		"concept": "Efficiency of reaching truth",
+		"thinking": "「共に（Con-）」「傾く（Vergere）」。真実という一点に向かって、どれだけ迷いなく、どれだけ早く辿り着けるか。代数の歩みの速さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "condition_number",
+		"word": "Condition No.",
+		"meaning": "条件数（じょうけんすう）",
+		"etymology": [
+			"Condition"
+		],
+		"original_statement": "Measure of how sensitive a function is to input changes.",
+		"concept": "Numerical instability index",
+		"thinking": "その問題がどれだけ『気難しい』か。微かな入力の揺れが、結果にどれだけの嵐（崩壊）を招くかを測る、不機嫌さのバロメーター。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "ill_conditioned",
+		"word": "Ill-conditioned",
+		"meaning": "悪条件の（あくじょうけん）",
+		"etymology": [
+			"Ill + Conditioned"
+		],
+		"original_statement": "Having a large condition number; unstable.",
+		"concept": "Pathological sensitivity",
+		"thinking": "「具合が悪い（Ill）」。わずかな誤差で答えが真逆になってしまうような、薄氷の上を歩くような危うい計算状態。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "iterative_method",
+		"word": "Iterative Method",
+		"meaning": "反復法（はんぷくほう）",
+		"etymology": [
+			"Latin iterare (to repeat)"
+		],
+		"original_statement": "Generating a sequence of approximations.",
+		"concept": "Successive refinement",
+		"thinking": "一度で正解を出そうとせず、何度も「繰り返す（Iterare）」ことで、少しずつ真実に近づいていく、謙虚で粘り強い歩み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "newton_raphson",
+		"word": "Newton-Raphson",
+		"meaning": "ニュートン法",
+		"etymology": [
+			"Newton",
+			"Raphson"
+		],
+		"original_statement": "Root-finding method using derivatives.",
+		"concept": "Geometric descent to roots",
+		"thinking": "接線を道標にして、関数の谷底を真っ直ぐに射抜く。力強い歩みで正解を追い詰める、解析学の急先鋒。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "runge_kutta",
+		"word": "Runge-Kutta",
+		"meaning": "ルンゲ・クッタ法",
+		"etymology": [
+			"Runge",
+			"Kutta"
+		],
+		"original_statement": "Standard family of methods for solving ODEs.",
+		"concept": "Highly accurate evolution",
+		"thinking": "未来の状態を予言するために、途中の道を何度も下見（サンプリング）して慎重に歩みを進める、微分方程式の頼れるガイド。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "stiff_equation",
+		"word": "Stiff Equation",
+		"meaning": "剛性（ごうせい）方程式",
+		"etymology": [
+			"Stiff"
+		],
+		"original_statement": "Equations where some terms decay much faster than others.",
+		"concept": "Numerical stubbornness",
+		"thinking": "「硬い（Stiff）」。激しく変化する部分と静かな部分が同居し、普通の歩幅（刻み幅）ではすぐに足場を崩してしまうような、一筋縄ではいかない方程式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "stability_analysis",
+		"word": "Stability Anal",
+		"meaning": "安定性（あんていせい）解析",
+		"etymology": [
+			"Latin stabilis"
+		],
+		"original_statement": "Study of whether errors grow over time.",
+		"concept": "Safe journey through time",
+		"thinking": "時間が経つにつれて、誤差が爆発して世界を飲み込んでしまわないか。計算の『船』の沈没を防ぐための、絶対的な安全確認。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "residual_vector",
+		"word": "Residual",
+		"meaning": "残差（ざんさ）ベクトル",
+		"etymology": [
+			"Latin residuum"
+		],
+		"original_statement": "Difference between left and right sides of an equation given an approximation.",
+		"concept": "The measure of incompleteness",
+		"thinking": "「残されたもの（Residuum）」。答えだと思っているものがいかに真実とズレているか。その『足りなさ』が次の正しい一歩を生む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "krylov_subspace",
+		"word": "Krylov Subspace",
+		"meaning": "クリロフ部分空間",
+		"etymology": [
+			"Krylov"
+		],
+		"original_statement": "Space spanned by repeated applications of an operator.",
+		"concept": "Algebraic history space",
+		"thinking": "作用素という波を何度も打ちつけることで生まれる、情報の反響（歴史）が織りなす空間。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "gram_schmidt",
+		"word": "Gram-Schmidt",
+		"meaning": "グラム・シュミット正規直交化",
+		"etymology": [
+			"Gram",
+			"Schmidt"
+		],
+		"original_statement": "Process for orthogonalizing a set of vectors.",
+		"concept": "Purifying directions",
+		"thinking": "バラバラな方向を向いた意志（ベクトル）を、互いに干渉しない、清廉で真っ直ぐな『直交』した光へと磨き上げる工程。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "sparse_matrix_adv",
+		"word": "Sparse Matrix",
+		"meaning": "疎行列（そぎょうれつ）",
+		"etymology": [
+			"Latin sparsus"
+		],
+		"original_statement": "Matrix with mostly zero entries.",
+		"concept": "The beauty of emptiness",
+		"thinking": "「まばらな（Sparsus）」。広大な沈黙（ゼロ）の中に、たった数個の宝石（非ゼロ要素）が散りばめられた世界。無駄を省いた、効率的な沈黙の記述。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "preconditioner",
+		"word": "Preconditioner",
+		"meaning": "前処理（まえしょり）行列",
+		"etymology": [
+			"Pre- + Condition"
+		],
+		"original_statement": "Operator applied to improve condition number.",
+		"concept": "Algebraic smoothing",
+		"thinking": "計算を始める前に、問題を『扱いやすい』形へとこっそり洗練（リメイク）しておくこと。困難を先に見越す知恵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "lu_decomposition",
+		"word": "LU decomposition",
+		"meaning": "LU分解",
+		"etymology": [
+			"Lower-Upper"
+		],
+		"original_statement": "Factoring a matrix into lower and upper triangular parts.",
+		"concept": "Algebraic stratification",
+		"thinking": "複雑な行列を、情報の流れが「下（L）」から「上（U）」へと整然と流れる二つのフィルタに分かち、解決を容易にする分割。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "qr_factorization",
+		"word": "QR Factorization",
+		"meaning": "QR分解",
+		"etymology": [
+			"Q (Orthogonal) + R (Right-upper)"
+		],
+		"original_statement": "Factoring a matrix into an orthogonal and an upper triangular matrix.",
+		"concept": "Purification and structure",
+		"thinking": "純粋な方向（Q）と、情報の重み（R）に分ける。どんな行列の中にも、直交という名の完璧な秩序を見出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "singular_value",
+		"word": "SVD",
+		"meaning": "特異値分解（SVD）",
+		"etymology": [
+			"Singular Value"
+		],
+		"original_statement": "Generalization of eigen-decomposition for any matrix.",
+		"concept": "Universal structural analysis",
+		"thinking": "どんな形をした関係性（行列）であっても、その最も本質的な引き伸ばしの『軸』と『強さ』を暴き出す、代数学のX線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "fast_fourier",
+		"word": "FFT",
+		"meaning": "高速フーリエ変換（FFT）",
+		"etymology": [
+			"Fast Fourier Transform"
+		],
+		"original_statement": "Efficient algorithm for DFT.",
+		"concept": "Acoustic acceleration",
+		"thinking": "時間の世界を瞬時に周波数の世界へと、圧倒的な速さで書き換える。宇宙の『響き』を瞬時に解析するデジタル時代の特急券。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "nyquist_frequency",
+		"word": "Nyquist Freq",
+		"meaning": "ナイキスト周波数",
+		"etymology": [
+			"Nyquist"
+		],
+		"original_statement": "Minimum sampling rate for reconstruction.",
+		"concept": "The boundary of aliasing",
+		"thinking": "真実を記録するために必要な、最低限の『刻み』の細かさ。これより粗ければ、世界は偽物の貌（エイリアス）を見せてしまう。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "aliasing_signal",
+		"word": "Aliasing",
+		"meaning": "エイリアシング、折り返し雑音",
+		"etymology": [
+			"Latin alias (otherwise)"
+		],
+		"original_statement": "Misidentification of high frequency as lower frequency.",
+		"concept": "The fake identity of waves",
+		"thinking": "「別の貌（Alias）」。サンプリングが足りないために、美しき高音が、醜い低音へと化け物（偽物）に変わってしまう悲劇。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "interpolation_math",
+		"word": "Interpolation",
+		"meaning": "補間（ほかん）",
+		"etymology": [
+			"Latin inter- + polire (to polish)"
+		],
+		"original_statement": "Estimating values between known points.",
+		"concept": "Smoothing between facts",
+		"thinking": "「間に（Inter）」「磨きをかける（Polire）」。飛び飛びの事実たちの間に、滑らかで真実らしい曲線を描き、失われた物語を補完する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "extrapolation",
+		"word": "Extrapolation",
+		"meaning": "外挿（がいそう）",
+		"etymology": [
+			"Extra- + Interpolation"
+		],
+		"original_statement": "Estimating values outside the range of known points.",
+		"concept": "Prediction beyond the known",
+		"thinking": "事実の外側、まだ見ぬフロンティアへと線を伸ばす。過去から未来を読み解こうとする、勇気ある（あるいは無謀な）予測。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "spline_curve",
+		"word": "Spline",
+		"meaning": "スプライン曲線",
+		"etymology": [
+			"Spline (flexible strip)"
+		],
+		"original_statement": "Piecewise polynomial curve for smooth interpolation.",
+		"concept": "The flexible mathematical ribbon",
+		"thinking": "「柔軟な定規（Spline）」。断片をつないでいながらも、その継ぎ目さえ見えないほどに滑らかな、融通の利く完璧な曲線。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "bezier_curve_adv",
+		"word": "Bezier Curve",
+		"meaning": "ベジェ曲線",
+		"etymology": [
+			"Bezier"
+		],
+		"original_statement": "Smooth curves used in computer graphics.",
+		"concept": "Controlling grace",
+		"thinking": "点に触れることなく、ただ遠くから『引き寄せる』だけで曲線の優雅さを操る、デジタル・タイポグラフィの魂。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "adaptive_mesh",
+		"word": "Adaptive Mesh",
+		"meaning": "適応型メッシュ",
+		"etymology": [
+			"Adapt"
+		],
+		"original_statement": "Dynamically refining computational grid based on gradients.",
+		"concept": "Intellectual focusing",
+		"thinking": "状況に合わせて「適応（Adapt）」する。波の激しい場所には密な目を、静かな場所には粗い目を。計算の叡智を賢く配分する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "multigrid_method",
+		"word": "Multigrid",
+		"meaning": "マルチグリッド法",
+		"etymology": [
+			"Multi- + Grid"
+		],
+		"original_statement": "Solving PDEs by passing errors between fine and coarse grids.",
+		"concept": "Hierarchical error correction",
+		"thinking": "ミクロな視点で見えるノイズと、マクロな視点で見える歪み。異なるスケールの格子を行き来することで、あらゆる誤差を一気に掃き清める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "spectral_method",
+		"word": "Spectral Method",
+		"meaning": "スペクトル法",
+		"etymology": [
+			"Spectrum"
+		],
+		"original_statement": "Solving PDEs using global basis functions like sines/cosines.",
+		"concept": "Global resonance solver",
+		"thinking": "局所の微々たる変化ではなく、空間全体を一つの『響き（スペクトル）』として捉え、一気に真意を言い当てる壮大な解析法。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "parallel_compute",
+		"word": "Parallel Compute",
+		"meaning": "並列計算（へいれつけいさん）",
+		"etymology": [
+			"Greek para- + allelon"
+		],
+		"original_statement": "Executing calculations simultaneously.",
+		"concept": "Collective intelligence",
+		"thinking": "「傍らで（Para）」「お互いに（Allelon）」。一人の天才（CPU）が全てを負うのではなく、数千の凡才（Core）が力を合わせて巨大な宇宙を演算する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "gpu_acceleration",
+		"word": "GPU Acceleration",
+		"meaning": "GPU加速",
+		"etymology": [
+			"Graphics Processing Unit"
+		],
+		"original_statement": "Offloading heavy math to graphics hardware.",
+		"concept": "Massive parallel drive",
+		"thinking": "絵を描くための力（GPU）を、宇宙を解くための数学へと転用する。数万の小さな意志が一斉に動き出す、圧倒的な演算の奔流。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "load_balancing_num",
+		"word": "Load balancing",
+		"meaning": "負荷分散",
+		"etymology": [
+			"Load"
+		],
+		"original_statement": "Equalizing tasks among processors.",
+		"concept": "Computational justice",
+		"thinking": "重荷を一箇所に溜め込ませず、均等に分配する。全体の速度を保つための、公平で不可欠な配慮。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "efficiency_algo",
+		"word": "Efficiency",
+		"meaning": "効率（こうりつ）、能率",
+		"etymology": [
+			"Latin ex- + facere (to produce out)"
+		],
+		"original_statement": "Ratio of output to effort.",
+		"concept": "The optimization of production",
+		"thinking": "「生み出す力（Ef-ficiency）」。最小のビット、最小のエネルギーで、最大の真理（アウトプット）を叩き出すための、研ぎ澄まされた合理性。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "scifi_scientific",
+		"word": "Scientific Compute",
+		"meaning": "科学計算（かがくけいさん）",
+		"etymology": [
+			"Science + Compute"
+		],
+		"original_statement": "The third pillar of science alongside theory and experiment.",
+		"concept": "In silico experimentation",
+		"thinking": "理論（数）と実験（物）の間に立つ、第三の柱。コンピュータという虚空の中に、もう一つの宇宙を構築し、実験すること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "mathematical_model",
+		"word": "Math Model",
+		"meaning": "数理（すうり）モデル",
+		"etymology": [
+			"Latin modulus"
+		],
+		"original_statement": "Abstract representation of a physical system using math.",
+		"concept": "Skeleton of reality",
+		"thinking": "「小さな物差し（Modulus）」。現実の肉を削ぎ落とし、その背後にある論理の骨組みだけを抽出した、純粋な宇宙の似顔絵。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "overfitting_num",
+		"word": "Overfitting",
+		"meaning": "過学習（かがくしゅう）",
+		"etymology": [
+			"Over + Fit"
+		],
+		"original_statement": "Matching noise too closely in a model.",
+		"concept": "Blind obsession with data",
+		"thinking": "目の前の断片に『合わせすぎ（Over-fit）』て、本質（法則）を見失うこと。枝葉末節に囚われ、真理という森に辿り着けない過失。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "robustness_algo",
+		"word": "Robustness",
+		"meaning": "堅牢性（けんろうせい）",
+		"etymology": [
+			"Latin robustus (oak-like)"
+		],
+		"original_statement": "Ability to handle errors or unexpected inputs.",
+		"concept": "Oak-like strength",
+		"thinking": "樫の木（Robur）のような強さ。嵐（例外）が吹き荒れても、決して折れることなく、自分の職務（計算）を遂行し続ける能力。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "validation_num",
+		"word": "Validation",
+		"meaning": "妥当性検証（だとうせいけんしょう）",
+		"etymology": [
+			"Latin valere (to be strong)"
+		],
+		"original_statement": "Checking if the model accurately represents the target system.",
+		"concept": "Verification of truthhood",
+		"thinking": "「強く、正しいか（Valere）」。計算された結果が、本当に現実と握手しているかどうかを厳しく問い直す儀式。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "optimization_num",
+		"word": "Optimization",
+		"meaning": "最適化（さいてきか）",
+		"etymology": [
+			"Latin optimus (best)"
+		],
+		"original_statement": "Finding the best solution from a set of alternatives.",
+		"concept": "The pursuit of the best",
+		"thinking": "「最高の（Optimus）」状態を求めて。すべての制約を潜り抜け、最も美しく、最も無駄のない一点へと世界を追い込む。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "constraints_num",
+		"word": "Constraint",
+		"meaning": "制約（せいやく）条件",
+		"etymology": [
+			"Latin con- + stringere"
+		],
+		"original_statement": "Conditions that must be satisfied by a solution.",
+		"concept": "Rules of the game",
+		"thinking": "「共に（Con-）」「引き締める（Stringere）」。自由奔放な可能性を、規則という名の鋼で縛り、現実に即した形へと整える境界。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "search_space",
+		"word": "Search Space",
+		"meaning": "探索（たんさく）空間",
+		"etymology": [
+			"Search + Space"
+		],
+		"original_statement": "The set of all possible solutions.",
+		"concept": "The field of all possibilities",
+		"thinking": "あらゆる答えの候補たちが住んでいる、広大で、時に無限の草原。その中からたった一つの真珠を見つけ出す旅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "local_optimum",
+		"word": "Local Optimum",
+		"meaning": "局所最適（きょくしょさいてき）",
+		"etymology": [
+			"Local + Optimum"
+		],
+		"original_statement": "Best solution within a limited neighborhood.",
+		"concept": "The deceptive hilltop",
+		"thinking": "周囲の中では最高だが、世界全体で見ればまだ低い丘。そこに安住し、真の頂上（大域最適）を忘れてしまうことの危うさ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "global_optimum",
+		"word": "Global Optimum",
+		"meaning": "大域最適（だいいきさいてき）",
+		"etymology": [
+			"Global + Optimum"
+		],
+		"original_statement": "Undisputed best solution in the entire search space.",
+		"concept": "The true summit",
+		"thinking": "迷信や誘惑をすべて振り払い、全宇宙（Global）において頂点に立つ、ただ一つの解。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
+	},
+	{
+		"id": "convergence_limit",
+		"word": "Conv Limit",
+		"meaning": "収束限界（しゅうそくげんかい）",
+		"etymology": [
+			"Convergence"
+		],
+		"original_statement": "Final value reached by an iterative process.",
+		"concept": "The terminal truth",
+		"thinking": "どれだけ繰り返しても、これ以上は進めないという場所。計算という旅の、終着駅としての真実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "近似の芸術に没頭を。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解析の地平へ。"
+			]
+		},
+		"example": "Numerical approximation is the only path to complex reality."
 	}
 ];
