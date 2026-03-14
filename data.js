@@ -390351,5 +390351,626 @@ const WORDS = [
 			]
 		},
 		"example": "Topology studies properties of space that are preserved under continuous deformations."
+	},
+	{
+		"id": "cosmology_ad3",
+		"word": "Cosmology",
+		"meaning": "宇宙論（うちゅうろん）",
+		"etymology": [
+			"Greek kosmos + logos"
+		],
+		"concept": "Science of the universe",
+		"thinking": "「宇宙（Kosmos）」の「理（Logos）」。始まり、終わり、そしてその深淵な構造。一粒の砂から銀河の群れまで、すべてを貫くたった一つの数式（貌）を追い求める、知性の最も高慢な旅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "general_relat",
+		"word": "Gen Relativ",
+		"meaning": "一般（いっぱん）相対性（そうたいせい）理論（りろん）",
+		"etymology": [
+			"General + Latin relativus"
+		],
+		"concept": "Gravity as spacetime curvature",
+		"thinking": "重力とは力ではない。それは「時空の歪み」そのものである。巨大な星が空間を凹ませ、その窪みに時間が流れ込む。宇宙そのものが柔らかい布のように波打つ、壮大な幾何学の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "spacetime_ad",
+		"word": "Spacetime",
+		"meaning": "時空（じくう）",
+		"etymology": [
+			"Space + Time"
+		],
+		"concept": "The 4D fabric of universe",
+		"thinking": "「時」と「空」の分かち難き結合。一筋の織物。あなたが動けば時間は歪み、巨大な質量の側では時間は淀む。物理という名の舞台そのものが、変化し、震える動的な『場』であるという驚愕の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "geodesic_adv",
+		"word": "Geodesic",
+		"meaning": "測地線（そくちせん）",
+		"etymology": [
+			"Greek ge (earth) + daiesthai (to divide)"
+		],
+		"concept": "Straightest path in curved space",
+		"thinking": "「大地を分かつ（Ge-daie）」線。歪んだ空間において、光や物質が辿り得る、一点の無駄もない『もっとも真っ直ぐな道』。曲がって見えるその軌跡こそが、宇宙の掟に従う誠実な歩みの貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "metric_tensor",
+		"word": "Metric Ten",
+		"meaning": "計量（けいりょう）テンソル",
+		"etymology": [
+			"Greek metron + Latin tendere"
+		],
+		"concept": "Way to measure distance in space",
+		"thinking": "空間の各点に「物差し（Metron）」を配備する。どこでどれほど「伸び（Tender）」歪んでいるかを、十六の数字（テンソル）で記述する。宇宙のあらゆる場所の個性を定義する、情報の刃。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "einstein_eq",
+		"word": "Einstein Eq",
+		"meaning": "アインシュタイン方程式（ほうていしき）",
+		"etymology": [
+			"Albert Einstein"
+		],
+		"concept": "Spacetime tells matter how to move",
+		"thinking": "「物質（エネルギー）が時空に歪みを教え、時空が物質に動きを教える」。あまりに簡潔で、あまりに重厚な一対の貌。この数式一つの中に、全宇宙の運命（誕生から死まで）が折り畳まれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "black_hole_a",
+		"word": "Black Hole",
+		"meaning": "ブラックホール",
+		"etymology": [
+			"Black + Hole"
+		],
+		"concept": "Object with infinite curvature",
+		"thinking": "「黒き（Black）」「穴（Hole）」。重力が極限に達し、光さえも逃げ出せない、宇宙の深淵に口を開けた欠落。そこでは時間が止まり、物理法則が崩壊する、神の庭への入り口（あるいは行き止まり）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "schwarzschil",
+		"word": "Schwarz Radi",
+		"meaning": "シュバルツシルト半径（はんけい）",
+		"etymology": [
+			"Karl Schwarzschild"
+		],
+		"concept": "Radius for black hole formation",
+		"thinking": "どんなものでも、この「半径」以下にまで凝縮すれば、ブラックホール（貌）になる。地球を数センチに、人間を原子以下に。質量が空間を食い破る、極限の臨界距離。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "grav_lensing",
+		"word": "Grav Lense",
+		"meaning": "重力（じゅうりょく）レンズ現象（げんしょう）",
+		"etymology": [
+			"Gravity + Latin lens (lentil)"
+		],
+		"concept": "Bending light via gravity",
+		"thinking": "巨大な銀河の重力が、宇宙という名の「レンズ（Lens）」となり、遠くの光を曲げ、増幅させる。見えないはずの深淵を、曲率の力で見えるようにする、宇宙の自然な眼鏡。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "lense_thirr",
+		"word": "Frame Drag",
+		"meaning": "慣性（かんせい）系（けい）の引（ひ）きずり、フレーム・ドラッギング",
+		"etymology": [
+			"Frame + Drag"
+		],
+		"concept": "Rotating mass drags spacetime",
+		"thinking": "巨大な星が「回転」するとき、周りの時空そのものも、水飴のように「引きずり（Drag）」回される。中心に居ながらにして、周囲の『理』を支配する、力強い回転の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "grav_waves_a",
+		"word": "Grav Waves",
+		"meaning": "重力波（じゅうりょくは）",
+		"etymology": [
+			"Gravity + Old English wafian"
+		],
+		"concept": "Ripples in spacetime fabric",
+		"thinking": "時空の織物が震え、「さざなみ（Wave）」となって宇宙を駆け巡る。ブラックホールの衝突、銀河の叫び。百年前の予言が、音のない響きとして地球に届いた、時空の震える貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "ligo_analysi",
+		"word": "LIGO",
+		"meaning": "レーザー干渉計（かんしょうけい）重力波（じゅうりょくは）観測所（かんそくじょ）",
+		"etymology": [
+			"Laser Interferometer Gravitational-Wave Observatory"
+		],
+		"concept": "Detecting tiny spacetime ripples",
+		"thinking": "四キロの腕を持つ巨大なL字型。原子一つの数千分の一という、気の遠くなるような「震え」を捉える。私たちは初めて、宇宙という名の楽器の『音』を聴くことができた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "inflation_ad",
+		"word": "Cosm Inflat",
+		"meaning": "宇宙（うちゅう）インフレーション",
+		"etymology": [
+			"Latin in- + flare (to blow)"
+		],
+		"concept": "Rapid early expansion",
+		"thinking": "宇宙が始まった直後、光をも超える速度で「膨れ（Flare）」「上がった（In-）」一瞬の飛躍。これがあったからこそ、宇宙は平らで、均一で、私たちが住めるほどに大きく、穏やかな貌を手に入れた。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "friedmann_eq",
+		"word": "Friedmann E",
+		"meaning": "フリードマン方程式（ほうていしき）",
+		"etymology": [
+			"Alexander Friedmann"
+		],
+		"concept": "Expansion rate of universe",
+		"thinking": "宇宙の「膨らみ方」を司る数式。中身の密度によって、宇宙は永遠に広がるのか、それともいつか激突し、潰れるのか。宇宙という名の生命体の『心拍数』を計算する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "critical_den",
+		"word": "Crit Densit",
+		"meaning": "臨界（りんかい）密度（みつど）",
+		"etymology": [
+			"Greek krinein + Latin densus"
+		],
+		"concept": "Density for flat universe",
+		"thinking": "宇宙が「平ら」であるための、ギリギリの密度。これより重ければ宇宙は閉じ、軽ければ宇宙は永遠に開く。私たちは、そのあまりに絶妙で奇跡的な、紙一重の安定（貌）の上で生きている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "flatness_pro",
+		"word": "Flatness Pr",
+		"meaning": "平坦（へいたん）性（せい）問題（もんだい）",
+		"etymology": [
+			"Flat + Latin probare"
+		],
+		"concept": "Why is universe so flat?",
+		"thinking": "なぜ宇宙は、これほどまでに「真っ直ぐ（Flat）」なのか。少しでも歪んでいれば、星も生命も産まれる前に宇宙は霧散していたはずだ。この緻密な『調整』は誰が、何のために行ったのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "horizon_prob",
+		"word": "Horizon Pro",
+		"meaning": "地平線（ちへいせん）問題（もんだい）",
+		"etymology": [
+			"Greek horizein"
+		],
+		"concept": "Uniformity across distant space",
+		"thinking": "遠く離れた宇宙の端と端が、なぜ同じ「温度」なのか。情報のやり取りができる時間を超えて、宇宙が完璧に『同調』しているという謎。インフレーションという名の飛躍が産んだ、情報の共鳴の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "baryogenes",
+		"word": "Baryogenesi",
+		"meaning": "バリオン数（すう）生成（せいせい）",
+		"etymology": [
+			"Greek barys (heavy) + genesis"
+		],
+		"concept": "Origin of matter-antimatter gap",
+		"thinking": "「重き（Barys）」粒子の「誕生（Genesis）」。物質と反物質が互いに打ち消し合う嵐の中で、なぜ物質だけが「たった一握り」生き残り、この世界を形作ることができたのか。その微かな偏り（運命）の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "large_scale_",
+		"word": "Large-Scale",
+		"meaning": "大（だい）規模（きぼ）構造（こうぞう）",
+		"etymology": [
+			"Large + Scale + Latin structura"
+		],
+		"concept": "Distribution of galaxies",
+		"thinking": "銀河、銀河団、そして宇宙のフィラメント。宇宙を巨大な「物差し（Scale）」で見下ろした時、そこには蜘蛛の巣のような美しい情報の網目が広がっている、宇宙の巨大な神経系の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "redshift_adv",
+		"word": "Redshift",
+		"meaning": "赤方（せきほう）偏移（へんい）",
+		"etymology": [
+			"Red + Shift"
+		],
+		"concept": "Stretching of light waves",
+		"thinking": "遠ざかる星の光が、「赤（Red）」へと「ずれる（Shift）」。それはドップラー効果。宇宙そのものが伸びているから、光もまた伸びざるを得ない。星が去りゆく姿が残した、切なくも美しい情報の影。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "penrose_diag",
+		"word": "Penrose Dia",
+		"meaning": "ペンローズ図（ず）",
+		"etymology": [
+			"Roger Penrose"
+		],
+		"concept": "Mapping infinite time/space",
+		"thinking": "無限の時空を、有限な「一枚の紙（図）」の上に押し込める。どこまで行けば世界の果てか、光はいかにしてブラックホールへ吸い込まれるか。宇宙の全景をひと目で俯瞰するための、数学上の神の地図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "inf_paradox_",
+		"word": "Info Parado",
+		"meaning": "情報（じょうほう）パラドックス (BH)",
+		"etymology": [
+			"Information + Paradox"
+		],
+		"concept": "Loss of data in black holes",
+		"thinking": "ブラックホールに吸い込まれた情報は、永遠に失われるのか。宇宙の掟（量子力学）は情報の不滅を説くが、ブラックホールはそれを消し去ろうとする。知の根底を揺るがす、究極の『貌』の崩壊。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "wormhole_adv",
+		"word": "Wormhole",
+		"meaning": "ワームホール、時空（じくう）のトンネル",
+		"etymology": [
+			"Worm + Hole"
+		],
+		"concept": "Shortcut through spacetime",
+		"thinking": "リンゴを這う「虫（Worm）」が、中を通って反対側に出るように、時空をショートカットする「穴（Hole）」。光を超えて、あるいは時間を越えて、異次元を繋ぐ夢の橋。それは可能か、それとも禁断の果実か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "white_hole_a",
+		"word": "White Hole",
+		"meaning": "ホワイトホール",
+		"etymology": [
+			"White + Hole"
+		],
+		"concept": "Opposite of a black hole",
+		"thinking": "「白き（White）」「穴（Hole）」。ブラックホールとは逆に、物質を激しく吐き出し続け、外からは決して入れない場所。理論の数学的な遊びの中にだけ現れる、誕生と放出の反転。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "quars_adv_v",
+		"word": "Quasar",
+		"meaning": "クエーサー",
+		"etymology": [
+			"Quasi-stellar (quasi- + star)"
+		],
+		"concept": "Distant active galactic nucleus",
+		"thinking": "「星（Stellar）」に「似た（Quasi-）」もの。その正体は、中心の巨大ブラックホールに飲み込まれるガスが、断末魔のように放つ凄まじい光。宇宙の果てで煌々と輝く、死と破壊の情熱的な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "pulsar_adv_v",
+		"word": "Pulsar",
+		"meaning": "パルサー",
+		"etymology": [
+			"Pulse + Star"
+		],
+		"concept": "Rotating magnetized neutron star",
+		"thinking": "「脈打つ（Pulse）」「星」。超新星爆発の残骸、中性子星。一秒間に何百回も回転し、灯台のように光を振り撒く、極限の密度と時間の正確さを備えた、宇宙の孤独な時計。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "neutrino_adv",
+		"word": "Neutrino",
+		"meaning": "ニュートリノ",
+		"etymology": [
+			"Italian neutro + -ino (tiny)"
+		],
+		"concept": "Nearly massless ghostly particle",
+		"thinking": "「中性（Neutr）」で「小さな子（-ino）」。幽霊のようにすべてを通り抜け、姿を変え（振動）、宇宙の深淵からの情報を運んでくる微細な使者。太陽の核、超新星の爆発。隠された火を語る情報の粒。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "cosmic_strin",
+		"word": "Cosm String",
+		"meaning": "宇宙ひも",
+		"etymology": [
+			"Cosmic + Old English streng"
+		],
+		"concept": "One-dimensional spacetime defect",
+		"thinking": "宇宙の始まりに、時空の中に閉じ込められた「ひも（String）」。髪の毛より細く、銀河より重い、次元の裂け目。それが宇宙を横切り、光を曲げ、巨大な構造を産み落とす、時空の疵跡（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "entropy_univ",
+		"word": "Heat Death",
+		"meaning": "熱（ねつ）死（し）",
+		"etymology": [
+			"Heat + Death"
+		],
+		"concept": "Maximum entropy of universe",
+		"thinking": "「熱量」が均一化し、何の移動も、何の命も、思索も産まれなくなった、宇宙の「死（Death）」。すべての灯火が消え、静かなる暗黒だけが永遠に続く、歴史の最後の一ページ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "big_crunch_a",
+		"word": "Big Crunch",
+		"meaning": "ビッグクランチ",
+		"etymology": [
+			"Big + Crunch (sound of crushing)"
+		],
+		"concept": "Collapse of the universe",
+		"thinking": "膨張が止まり、宇宙が自らの重力に耐えかねて「押し潰される（Crunch）」。すべての歴史、すべての貌が再び一点に凝縮され、炎の果てに消滅する、破滅的な終止符。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
+	},
+	{
+		"id": "eternity_cos",
+		"word": "Eternity",
+		"meaning": "永遠（えいえん） (宇宙論)",
+		"etymology": [
+			"Latin aeturnus (aeve + -ternus)"
+		],
+		"original_statement": "The ultimate continuity beyond time.",
+		"concept": "The timeless fabric of spacetime",
+		"thinking": "「時代（Aeve）」を「貫く（-ternus）」こと。個別の星が死に、銀河が遠ざかり、宇宙の貌が変わろうとも、そのドラマを奏で続けている時空というキャンバス、あるいは数理という掟だけは、始まりもなく、終わりもなく、静かに在り続ける不滅の真理である。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "銀河の深淵を、曲率の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙論と一般相対性理論の極致へ。"
+			]
+		},
+		"example": "Cosmology studies the origins and evolution of the universe."
 	}
 ];
