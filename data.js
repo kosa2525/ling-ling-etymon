@@ -405954,5 +405954,6105 @@ const WORDS = [
 			]
 		},
 		"example": "Pharmacology is the study of drug action."
+	},
+	{
+		"id": "philology_ad",
+		"word": "Philology",
+		"meaning": "文献学（ぶんけんがく）、フィロロジー",
+		"etymology": [
+			"Greek philos (love) + logos (word)"
+		],
+		"concept": "Love of words/learning via texts",
+		"thinking": "「言葉（Logos）」への「愛（Philos）」。古びた紙片に刻まれた沈黙の声を聞き取り、失われた文明の鼓動を蘇らせる、愛の知性。言葉が歩んできた数千年の足跡を辿る、静かなる冒険。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の深淵を、起源の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語学・文献学の極致へ。"
+			]
+		},
+		"example": "Philology is the study of language in oral and written historical sources."
+	},
+	{
+		"id": "semiotics_ad",
+		"word": "Semiotics",
+		"meaning": "記号論（きごうろん）",
+		"etymology": [
+			"Greek semeion (sign)"
+		],
+		"concept": "Study of signs and symbols",
+		"thinking": "この世界は「記号（Semeion）」で満ちている。信号、看板、そして視線。何かが「何か（意味）」を指し示すその瞬間に、世界は立ち上がる。記号という透明な網に囚われた私たちの、知覚の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の深淵を、起源の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語学・文献学の極致へ。"
+			]
+		},
+		"example": "Semiotics is the study of sign processes and meaningful communication."
+	},
+	{
+		"id": "onomastics_a",
+		"word": "Onomastics",
+		"meaning": "固有名詞（こゆうめいし）学（がく）",
+		"etymology": [
+			"Greek onoma (name)"
+		],
+		"concept": "Study of names",
+		"thinking": "「名前（Onoma）」とは、存在をこの世界に繋ぎ止めるための最初の呪文。そこに秘められた歴史、願い、あるいは忘れ去られた土地の記憶を掘り起こす、名の考古学。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の深淵を、起源の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語学・文献学の極致へ。"
+			]
+		},
+		"example": "Onomastics is the branch of linguistics that studies names."
+	},
+	{
+		"id": "polyglot_ad",
+		"word": "Polyglot",
+		"meaning": "多言語（たげんご）話者（わしゃ）、ポリグロット",
+		"etymology": [
+			"Greek polys (many) + glotta (tongue)"
+		],
+		"concept": "Speaking many languages",
+		"thinking": "「多（Polys）」の「舌（Glotta）」を持つ者。複数の言葉を操ることは、複数の世界、複数の『貌（顔）』を手に入れること。翻訳できない感情の隙間を渡り歩く、境界なき旅人。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の深淵を、起源の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語学・文献学の極致へ。"
+			]
+		},
+		"example": "A polyglot is a person who knows or uses several languages."
+	},
+	{
+		"id": "etymology_ad",
+		"word": "Etymology",
+		"meaning": "語源学（ごげんがく）",
+		"etymology": [
+			"Greek etymon (true meaning) + logos"
+		],
+		"concept": "Study of word origins",
+		"thinking": "言葉の「真の（Etymon）」姿。時間の地層に埋もれた、言葉の『初声』。それは単なる記録ではなく、人間が世界とどのように出会い、向き合ってきたかの証言そのもの。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の深淵を、起源の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語学・文献学の極致へ。"
+			]
+		},
+		"example": "Etymology is the study of the origin of words."
+	},
+	{
+		"id": "glossology_a",
+		"word": "Glossology",
+		"meaning": "言語（げんご）学（がく） (特に語彙学)",
+		"etymology": [
+			"Greek glossa (tongue/word) + logos"
+		],
+		"concept": "Technical study of language",
+		"thinking": "「言葉（Glossa）」を顕微鏡で覗くように解剖する。その構造、音階、そして変容。私たちの思考という果てしない海に、言葉がどのように秩序（Logos）を与えているのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の深淵を、起源の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"言語学・文献学の極致へ。"
+			]
+		},
+		"example": "Glossology is the study of language as a whole."
+	},
+	{
+		"id": "tectonics_ad",
+		"word": "Tectonics",
+		"meaning": "構築（こうちく）学（がく）、建設（けんせつ）術（じゅつ）",
+		"etymology": [
+			"Greek tekton (carpenter/build)"
+		],
+		"concept": "Science/art of construction",
+		"thinking": "「作る者（Tekton）」の理。重力に抗って空間を立ち上げ、石と鉄に魂を宿す。機能を超えた、構築の『貌』。それは世界に対する、人間の最も力強い回答。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "Tectonics relates to building or construction."
+	},
+	{
+		"id": "brutalism_ad",
+		"word": "Brutalism",
+		"meaning": "ブルータリズム",
+		"etymology": [
+			"French beton brut (raw concrete)"
+		],
+		"concept": "Architectural style using raw materials",
+		"thinking": "飾らない「生（Brut）」のコンクリート。むき出しの力、剥き出しの機能。美しさとは、甘い装飾の中ではなく、この荒々しいまでの実在（貌）の中に宿るのだという宣言。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "Brutalism is a style of architecture characterized by bold forms and raw materials."
+	},
+	{
+		"id": "facade_archi",
+		"word": "Façade",
+		"meaning": "正面（しょうめん）、ファサード、外（そと）見（み）",
+		"etymology": [
+			"Latin facies (face)"
+		],
+		"concept": "Face of a building",
+		"thinking": "建築の「顔（Facies）」。内部を隠し、外部へと語りかける。それは虚飾か、それとも真実への唯一の入り口か。貌を持つことで、ただの『箱』は『建築』へと変貌する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "The facade is the front of a building."
+	},
+	{
+		"id": "threshold_ad",
+		"word": "Threshold",
+		"meaning": "敷居（しきい）、境界（きょうかい）",
+		"etymology": [
+			"Old English threscwald"
+		],
+		"concept": "Entry point / boundary",
+		"thinking": "「こちら側」と「あちら側」を分かつ、見えない線。そこを跨ぐとき、私たちは変容する。家に入る、秘密を知る、あるいは大人になる。敷居とは、変化のための聖域。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "A threshold is a point of entry or beginning."
+	},
+	{
+		"id": "ornament_adv",
+		"word": "Ornament",
+		"meaning": "装飾（そうしょく）、飾り（かざり）",
+		"etymology": [
+			"Latin ornare (to equip/adorn)"
+		],
+		"concept": "Added beauty/detail",
+		"thinking": "「整える（Ornare）」こと。それは単なる贅沢ではない。意味なき空間に、『リズム』と『記憶』を与えるための繊細な営み。装飾とは、実用性の中に宿る、魂の余白。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "An ornament is a thing used to make something look more attractive."
+	},
+	{
+		"id": "urbanism_adv",
+		"word": "Urbanism",
+		"meaning": "都市（とし）学（がく）、アーバニズム",
+		"etymology": [
+			"Latin urbs (city)"
+		],
+		"concept": "Study of city life/form",
+		"thinking": "「都市（Urbs）」という名の、巨大な生命体。無数の欲望と必然が、路地や広場という形で結晶化していく。人々が共に生きるための、最も複雑で、最も残酷な『貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "Urbanism is the study of how inhabitants of urban areas interact with the built environment."
+	},
+	{
+		"id": "vernacular_a",
+		"word": "Vernacular",
+		"meaning": "土着（どちゃく）の、日常（にちじょう）の",
+		"etymology": [
+			"Latin vernaculus (native/home-born slave)"
+		],
+		"concept": "Language or architecture of a place",
+		"thinking": "設計されたものではなく、その土地の風土と記憶から自然に「産み落とされた（Vernaculus）」もの。名もなき人々が積み上げた、真実の生（風俗）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "Vernacular architecture is based on local needs and traditions."
+	},
+	{
+		"id": "gentrifie_ad",
+		"word": "Gentrify",
+		"meaning": "高級（こうきゅう）化（か）、ジェントリフィケーション",
+		"etymology": [
+			"English gentry (nobility)"
+		],
+		"concept": "Renewal leading to displacement",
+		"thinking": "「高貴な者（Gentry）」による、都市の洗練と略奪。荒廃した街に新しい光を当てる一方で、そこに根付いていた『古い貌（記憶）』を鮮やかに塗りつぶしていく、不可避な残酷。",
+		"part_of_speech": "verb",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "Gentrification often changes the character of a neighborhood."
+	},
+	{
+		"id": "panopticon_a",
+		"word": "Panopticon",
+		"meaning": "一望（いちぼう）監視（かんし）施設（しせつ）、パノプティコン",
+		"etymology": [
+			"Greek pan (all) + optikon (seeing)"
+		],
+		"concept": "Observing all without being seen",
+		"thinking": "「すべて（Pan）」が「見える（Optikon）」。見られていると感じるだけで、人は自らを律し始める。建築そのものが巨大な『眼』となり、社会を規律化する、究極の監視の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "The panopticon is a type of institutional building designed to allow all inmates to be observed."
+	},
+	{
+		"id": "liminality_a",
+		"word": "Liminality",
+		"meaning": "境界（きょうかい）性（せい）、リミナリティ",
+		"etymology": [
+			"Latin limen (threshold)"
+		],
+		"concept": "State of being in-between",
+		"thinking": "「敷居（Limen）」の上に立つ、曖昧な状態。かつての自分を捨て、まだ新しい自分になっていない、カオスな空白。そこは最も不安で、同時に最も創造的な『可能性の貌』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "空間の深淵を、構築の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"建築学・都市学の極致へ。"
+			]
+		},
+		"example": "Liminality is the quality of ambiguity or disorientation that occurs in the middle stage of a rite of passage."
+	},
+	{
+		"id": "cybernetic_a",
+		"word": "Cybernetic",
+		"meaning": "サイバネティクスの、人工（じんこう）頭脳（ずのう）学（がく）の",
+		"etymology": [
+			"Greek kybernetes (steersman)"
+		],
+		"concept": "Control and communication in system",
+		"thinking": "「舵取り（Kybernetes）」の理。機械、生物、社会。異なるものたちが、情報というフィードバックを通じて互いを制御し合う、生命なき知性の舞踏。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "Cybernetics is the study of control and communication in living and non-living systems."
+	},
+	{
+		"id": "entropy_phil",
+		"word": "Entropy",
+		"meaning": "エントロピー",
+		"etymology": [
+			"Greek en- (in) + trope (transformation)"
+		],
+		"concept": "Measure of disorder/randomness",
+		"thinking": "内部へと向かう「変容（Trope）」。すべての秩序は、いつか必ず混沌へと崩れ落ちる。情報の欠如、冷たい死。しかしそのカオスこそが、新たな星を産む母体でもあるという逆説。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "Entropy is a measure of the number of possible configurations of a system."
+	},
+	{
+		"id": "homeostasis",
+		"word": "Homeostasi",
+		"meaning": "恒常（こうじょう）性（せい）、ホメオスタシス",
+		"etymology": [
+			"Greek homoios (similar) + stasis (standing still)"
+		],
+		"concept": "Stable internal equilibrium",
+		"thinking": "激しい変化の嵐の中で、なお「同じ（Homoios）」であり続けようとする意志。生命がその尊厳を保つために、一瞬も欠かさず維持し続ける、動的な『静寂』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "Homeostasis is the state of steady internal conditions maintained by living things."
+	},
+	{
+		"id": "feedback_ad",
+		"word": "Feedback",
+		"meaning": "帰還（きかん）、フィードバック",
+		"etymology": [
+			"Feed + Back"
+		],
+		"concept": "Output returning as input",
+		"thinking": "自分の行動が、巡り巡って自分を修正する。無限に続く鏡の連鎖。原因と結果の境界が消え、世界が一つの共鳴するシステム（貌）となるための、情報の円環。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "Feedback occurs when outputs of a system are routed back as inputs."
+	},
+	{
+		"id": "autopoiesis",
+		"word": "Autopoies",
+		"meaning": "自己（じこ）産出（さんしゅつ）、オートポイエーシス",
+		"etymology": [
+			"Greek auto- (self) + poiesis (creation)"
+		],
+		"concept": "System capable of self-producing",
+		"thinking": "他者からではなく、ただ「自分（Auto）」によってのみ「産み出し（Poiesis）」続けられる生命。外部の情報を独自のコードで解釈し、絶え間なく自己を再構築する、孤独で美しい円環の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "Autopoiesis refers to a system capable of reproducing and maintaining itself."
+	},
+	{
+		"id": "black_box_a",
+		"word": "Black Box",
+		"meaning": "ブラックボックス、暗箱（あんそう）",
+		"etymology": [
+			"Black + Box"
+		],
+		"concept": "Inner workings hidden",
+		"thinking": "「黒い（Black）」箱。入り口と出口（情報）だけが見え、その「中身」は永遠に暴けない。私たちは世界を理解しているつもりで、実はブラックボックスを繋ぎ合わせているだけなのかもしれない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "A black box is a system which can be viewed in terms of its inputs and outputs, without any knowledge of its internal workings."
+	},
+	{
+		"id": "emergence_a",
+		"word": "Emergence",
+		"meaning": "創発（そうはつ）、エマージェンス",
+		"etymology": [
+			"Latin emergere (to rise out)"
+		],
+		"concept": "New properties from synergy",
+		"thinking": "「一」を足しても「二」にはならない。構成要素の単純な和を超えて、突然現れる（Emerge）マクロな秩序。アリの群れ、脳の意識、あるいは歴史の流れ。全体が個を指揮する、神秘の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "Emergence occurs when complex patterns arise from relatively simple interactions."
+	},
+	{
+		"id": "redundancy_",
+		"word": "Redundancy",
+		"meaning": "冗長（じょうちょう）性（せい）",
+		"etymology": [
+			"Latin re- (again) + unda (wave)"
+		],
+		"concept": "Extra components for reliability",
+		"thinking": "「波（Unda）」のように、何度も繰り返される過剰さ。それは無駄ではなく、一つの歯車が狂ったとしても全体を守り抜くための『慈悲の余白』。冗長性こそが、システムを強靭にする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "秩序の深淵を、情報の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サイバネティクス・システム理論の極致へ。"
+			]
+		},
+		"example": "Redundancy is the duplication of critical components of a system."
+	},
+	{
+		"id": "archaeology",
+		"word": "Archaeolog",
+		"meaning": "考古学（こうこがく）",
+		"etymology": [
+			"Greek arkhaia (ancient things) + logos"
+		],
+		"concept": "Study of past via material remains",
+		"thinking": "「古きもの（ Arkhaia）」の理。土の中に眠る断片から、かつてそこに広まっていた熱狂や祈りを再構築する。それは物を通じて時間を旅する、最も泥臭く、最も崇高な知の冒険。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "泥まみれの手で、時間の地層から真実を掘り起こす。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"物質という沈黙の証人を、歴史の法廷に立たせる。"
+			]
+		},
+		"example": "Archaeology is the study of human activity through the recovery and analysis of material culture."
+	},
+	{
+		"id": "artifact_ad",
+		"word": "Artifact",
+		"meaning": "遺物（いぶつ）、加工（かこう）品（ひん）",
+		"etymology": [
+			"Latin ars (skill) + factum (made)"
+		],
+		"concept": "Object made by a human",
+		"thinking": "人間の「技能（Ars）」が「事実（Factum）」として残したもの。ただの石が、誰かの祈りの形になったとき、それは物質を超えて歴史そのもの（貌）を語り始める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "誰かの祈りが形になったとき、石は命を持って語り出す。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"技能（アルス）が刻んだ、人間の存在証明としての欠片。"
+			]
+		},
+		"example": "An artifact is something made or given shape by humans."
+	},
+	{
+		"id": "excavation_",
+		"word": "Excavation",
+		"meaning": "発掘（はっくつ）",
+		"etymology": [
+			"Latin ex- (out) + cavare (to hollow)"
+		],
+		"concept": "Digging for remains",
+		"thinking": "「穴を掘り（Cavare）」、隠されていたものを「外へ（Ex-）」出す。土砂を払うその手先には、数千年の空白を今まさに飛び越えようとする、震えるような緊張が宿る。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "土砂を払う指先に、数千年前の体温が微かに伝わる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"闇に埋もれた記憶を、再び陽光（いま）の下へ救い出す。"
+			]
+		},
+		"example": "Excavation is the exposure, processing and recording of archaeological remains."
+	},
+	{
+		"id": "stratum_adv",
+		"word": "Stratum",
+		"meaning": "地層（ちそう）、層（そう）",
+		"etymology": [
+			"Latin sternere (to spread out/lay down)"
+		],
+		"concept": "Layer of earth or rock",
+		"thinking": "「敷き広げられた（Sternere）」時間。新しいものが、古いものを包み込み、重なっていく。下へと掘り進むことは、過去へと遡ること。地層とは、地球が自ら綴った沈黙の書物。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "重なり合う時間が、垂直の書物となって大地を包む。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"地球が自ら綴り続けた、沈黙という名の多層的日記。"
+			]
+		},
+		"example": "A stratum is a layer of sedimentary rock or soil."
+	},
+	{
+		"id": "megalith_ad",
+		"word": "Megalith",
+		"meaning": "巨石（きょせき）記念物（きねんぶつ）、メガリス",
+		"etymology": [
+			"Greek megas (large) + lithos (stone)"
+		],
+		"concept": "Large stone structure",
+		"thinking": "「大きな（Megas）」石。重力そのものを支配しようとするかのような、圧倒的な存在感（貌）。誰が、何のために、この沈黙の巨人を立ち上げたのか。空を指し示す石の、永遠の問いかけ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "巨石の影に身を寄せ、永遠という名の虚空を仰ぎ見る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"重力を否定するかのように立ち上がる、原始の意思。"
+			]
+		},
+		"example": "A megalith is a large stone that has been used to construct a structure or monument."
+	},
+	{
+		"id": "stelae_adv_",
+		"word": "Stele",
+		"meaning": "石碑（せきひ）、標石（ひょうせき）",
+		"etymology": [
+			"Greek stele (standing block)"
+		],
+		"concept": "Inscribed stone slab",
+		"thinking": "「立っている（Stele）」塊。王の勝利、あるいは誰かの祈り。風化に抗い、磨り減っていく文字たちは、忘れ去られることへの最後の抵抗、その不器用な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "摩耗した文字をなぞり、失われた名前を魂で聴き取る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"忘却という名の風に抗う、石に刻まれた最後の抵抗。"
+			]
+		},
+		"example": "A stele is a stone or wooden slab, generally taller than it is wide, erected in the ancient world as a monument."
+	},
+	{
+		"id": "anthropolo",
+		"word": "Anthropol",
+		"meaning": "人類学（じんるいがく）",
+		"etymology": [
+			"Greek anthropos (human) + logos"
+		],
+		"concept": "Study of humanity",
+		"thinking": "「人間（Anthropos）」とは何かという、底知れぬ問い。自分たちとは異なる他者の生き方（貌）を見つめることで、逆説的に『人間』という鏡を磨き上げる、終わりのない自己探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "他者の貌（かたち）を見つめることで、己という鏡を磨く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"「人間とは何であるか」という、終わりのない自己探求。"
+			]
+		},
+		"example": "Anthropology is the scientific study of humans."
+	},
+	{
+		"id": "materiality",
+		"word": "Materialit",
+		"meaning": "物質（ぶっしつ）性（せい）、マテリアリティ",
+		"etymology": [
+			"Latin materia (matter/source)"
+		],
+		"concept": "Physical quality of things",
+		"thinking": "「母（Mater）」なる物質（Materia）。私たちの意識や関係性は、常にこの『確実な重み』を通じてのみ立ち現れる。物と人間が、互いに形を削り合い、響き合うための、硬質なエッセンス。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物質の重厚な手触りの中に、精神の確かな拠り所を見る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意識と世界が交差する、硬質で確実なエッセンス。"
+			]
+		},
+		"example": "Materiality is the quality or character of being material."
+	},
+	{
+		"id": "petroglyph_",
+		"word": "Petroglyph",
+		"meaning": "岩刻（がんこく）画（が）、ペトログリフ",
+		"etymology": [
+			"Greek petra (stone) + glyphein (to carve)"
+		],
+		"concept": "Images carved into rock",
+		"thinking": "「石（Petra）」に刻み込まれた（Glyph）叫び。神か、あるいは自分自身か。硬い物質に自らの影を焼き付けたその行為は、最も原始的な『不死』への欲求、その貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "岩肌に刻まれた叫びが、時を超えて胸に突き刺さる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"原初の孤独を焼き付けた、石という名の不滅のキャンバス。"
+			]
+		},
+		"example": "Petroglyphs are images created by removing part of a rock surface."
+	},
+	{
+		"id": "stratigrap",
+		"word": "Stratigra",
+		"meaning": "層序学（そうじょがく）",
+		"etymology": [
+			"Latin stratum + Greek graphein"
+		],
+		"concept": "Science of rock layers",
+		"thinking": "時間が大地に「書き残した（Graph）」多層的なメッセージ。どの層が先に積まれ、何が埋まっているのか。この垂直の秩序を読み解くことは、地球の壮大な日記を翻訳すること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "垂直に降り積もる時間の秩序を、論理の糸で解きほぐす。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"大地に刻まれた階層を読み解き、時の流転を翻訳する。"
+			]
+		},
+		"example": "Stratigraphy is the study of layered rocks."
+	},
+	{
+		"id": "aesthetics_a",
+		"word": "Aesthetic",
+		"meaning": "美学（びがく）、感性（かんせい）論（ろん）",
+		"etymology": [
+			"Greek aisthetikos (perceptual/sensitive)"
+		],
+		"concept": "Philosophy of beauty/art",
+		"thinking": "「感じること（Aisthesis）」の理。美しさとは、対象にあるのか、それとも見つめる眼差しの奥にあるのか。震えるような感動を、論理という冷徹な刃で解剖しようとする、あまりに切ない試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "感覚という名の混沌を、論理の光で切り拓く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"美の正体を、感性の解剖学で解き明かす。"
+			]
+		},
+		"example": "Aesthetics is a branch of philosophy that deals with the nature of beauty and taste."
+	},
+	{
+		"id": "sublime_ad",
+		"word": "Sublime",
+		"meaning": "崇高（すうこう）、サブライム",
+		"etymology": [
+			"Latin sub- (up to) + limen (threshold)"
+		],
+		"concept": "Awe-inspiring greatness",
+		"thinking": "「敷居（Limen）」の「極限まで（Sub-）」高まる魂。それは単なる『美』ではなく、人知を超えた巨大なもの、あるいは深淵に対する、恐怖の混じった圧倒的な肯定感（貌）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "深淵を前にしたとき、魂は震えながら肯定する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"恐怖と美が交錯する、人知を超えた極点。"
+			]
+		},
+		"example": "The sublime is the quality of greatness, whether physical, moral, intellectual, metaphysical, aesthetic, spiritual, or artistic."
+	},
+	{
+		"id": "avant_garde",
+		"word": "Avant-Gar",
+		"meaning": "前衛（ぜんえい）、アヴァンギャルド",
+		"etymology": [
+			"French avant (front) + garde (guard)"
+		],
+		"concept": "Innovative or experimental art",
+		"thinking": "軍の「前衛（Garde）」。誰も足を踏み入れたことのない荒野へ、最初に切り込んでいく孤独な刃。理解されることを拒絶し、美しさを破壊することでしか見出せない、真実の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "伝統という安寧を焼き払い、荒野へと切り込む。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"未踏の領土を切り拓く、孤独な切り込み隊長。"
+			]
+		},
+		"example": "Avant-garde are people or works that are experimental, radical, or unorthodox."
+	},
+	{
+		"id": "catharsis_a",
+		"word": "Catharsis",
+		"meaning": "浄化（じょうか）、カタルシス",
+		"etymology": [
+			"Greek katharsis (purification)"
+		],
+		"concept": "Emotional release through art",
+		"thinking": "魂の「洗浄（Katharsis）」。悲劇を見つめ、共に涙を流すことで、心の澱みが洗い流されていく。痛みを通じた再生、その激しくも静かなる貌の刷新。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "涙の濾過器を通り抜け、透明になった魂。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"悲劇の火で焼き清められた、心の瑞々しい再生。"
+			]
+		},
+		"example": "Catharsis is the purification and purgation of emotions through art."
+	},
+	{
+		"id": "mimesis_ad",
+		"word": "Mimesis",
+		"meaning": "模倣（もほう）、ミメーシス",
+		"etymology": [
+			"Greek mimos (actor/mimic)"
+		],
+		"concept": "Representation/imitation of nature",
+		"thinking": "世界という鏡に、「似せる（Mimic）」こと。しかしそれは単なる複写ではない。現実を切り取り、再構成することで、この世界が孕んでいる『真実の貌』を浮き彫りにするための、創造的行為。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "現実という名の影を追い、真実の貌（かたち）を掴む。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"鏡あわせの世界で、本質の輪郭をなぞる創造。"
+			]
+		},
+		"example": "Mimesis is a representation of the real world in art and literature."
+	},
+	{
+		"id": "kitsch_adv",
+		"word": "Kitsch",
+		"meaning": "キッチュ、俗悪（ぞくあく）な芸術（げいじゅつ）",
+		"etymology": [
+			"German kitschen (to scrape up mud/sketch)"
+		],
+		"concept": "Sentimental or cheap art",
+		"thinking": "拾い集めた「泥（Kitsch）」のような、過剰で安易な甘美さ。しかしその『偽物』が持つ魅力そのものが、私たちの欲望や孤独を逆説的に照らし出すこともある、奇妙な貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "偽物という名の愛おしさが、寂しさを静かに癒やす。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"俗悪さの裏側に潜む、あまりに人間的な欲望の貌。"
+			]
+		},
+		"example": "Kitsch is art, objects, or design considered to be in poor taste."
+	},
+	{
+		"id": "minimalism_",
+		"word": "Minimalis",
+		"meaning": "ミニマリズム",
+		"etymology": [
+			"Latin minimus (smallest)"
+		],
+		"concept": "Stripping away non-essentials",
+		"thinking": "あえて「最小（Minimus）」まで削ぎ落とすこと。何も語らない美、空白という名の豊饒。過剰さを捨てたその果てに、ただ一つだけ残る『本質（貌）』の、静寂なる叫び。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "余計なものを捨て去り、ただ一つの「在る」に跪く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"引算の果てに現れる、雄弁な沈黙。"
+			]
+		},
+		"example": "Minimalism describes movements in various forms of art and design."
+	},
+	{
+		"id": "poetics_ad",
+		"word": "Poetics",
+		"meaning": "詩学（しがく）、作詩（さくし）法（ほう）",
+		"etymology": [
+			"Greek poietikos (creative/productive)"
+		],
+		"concept": "Theory of literary composition",
+		"thinking": "「作ること（Poiesis）」の理。言葉がどのように組み合わされ、一編の詩（魔法）へと昇華されるのか。創造という名の雷鳴が響くための、精緻な設計図。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉の部品を組み上げ、奇跡という名の機械を造る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"創造の火花を散らすための、精緻なる設計図。"
+			]
+		},
+		"example": "Poetics is the theory of literary forms and literary discourse."
+	},
+	{
+		"id": "metaphor_ad",
+		"word": "Metaphor",
+		"meaning": "隠喩（いんゆ）、メタファー",
+		"etymology": [
+			"Greek meta- (beyond/change) + pherein (to carry)"
+		],
+		"concept": "Transferring meaning across things",
+		"thinking": "意味を「向こう側へ（Meta-）」と「運ぶ（Pherein）」こと。ある言葉が、別の何かの『貌』を借りて語り始める。世界を繋ぎ直し、全く新しい真実を立ち上げるための、想像力の架け橋。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "既知という岸辺から、未知という対岸へ飛び移る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"二つの世界を一本の糸で繋ぐ、想像力の魔法。"
+			]
+		},
+		"example": "A metaphor is a figure of speech."
+	},
+	{
+		"id": "allegory_ad",
+		"word": "Allegory",
+		"meaning": "寓意（ぐうい）、アレゴリー",
+		"etymology": [
+			"Greek allos (other) + agoreuein (to speak openly)"
+		],
+		"concept": "Story with hidden meaning",
+		"thinking": "「別のこと（Allos）」を「語る（Agoreuein）」。形なき真理や教訓に、物語という衣装を着せること。抽象的な概念に生きた貌（ドラマ）を与え、私たちの魂へと語りかけさせる演出術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物語という名の衣装を纏い、真理がそっと囁きかける。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"形なき叡智に、生きた貌（ドラマ）を与える演出術。"
+			]
+		},
+		"example": "An allegory is a metaphor in which a character, place or event is used to deliver a broader message."
+	},
+	{
+		"id": "curator_adv",
+		"word": "Curator",
+		"meaning": "学芸員（がくげいいん）、キュレーター",
+		"etymology": [
+			"Latin curare (to care for)"
+		],
+		"concept": "Keeper of museum/gallery",
+		"thinking": "「世話をする（Curare）」者。散らばった作品や断片を繋ぎ合わせ、一つの新しい『物語（貌）』を編み上げる演出家。物たちを沈黙から救い出し、語らせるための守護者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "断片を繋ぎ合わせ、忘れ去られた沈黙を物語に変える。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"時代の遺物を世話（ケア）し、対話を仲介する神父。"
+			]
+		},
+		"example": "A curator is a manager or overseer as of a cultural heritage institution."
+	},
+	{
+		"id": "iconograph",
+		"word": "Iconogra",
+		"meaning": "図像（ずぞう）学（がく）、アイコン学（がく）",
+		"etymology": [
+			"Greek eikon (image) + graphein"
+		],
+		"concept": "Study of visual images/symbols",
+		"thinking": "「像（Eikon）」の「記述（Graph）」。描かれた絵の中に隠された約束事や思想を読み解く。一枚の絵が、時代や信仰の『貌』そのものとして立ち上がる、視覚的な知の航海。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "描かれた記号の暗号を解き、歴史の囁きを聴き取る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"画像の裏側に隠された、思想と信仰の地図。"
+			]
+		},
+		"example": "Iconography is the branch of art history which studies identification, description, and the interpretation of the content of images."
+	},
+	{
+		"id": "palimpsest_",
+		"word": "Palimpses",
+		"meaning": "パランプセスト、なぞり書き（がき）の羊皮（ようひ）紙（し）",
+		"etymology": [
+			"Greek palin (again) + psestos (scraped)"
+		],
+		"concept": "Manuscript with layers of text",
+		"thinking": "「再び（Palin）」「削られた（Psesto）」もの。古い言葉を消して書かれた新しい言葉の隙間から、消されたはずの過去が幽霊のように透けて見える。記憶が幾層にも重なり、響き合う、時間の曼荼羅。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "記憶が地層のように重なり、消された声が響き合う。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"忘却に抗い、上書きされ続ける時間の曼荼羅。"
+			]
+		},
+		"example": "A palimpsest is a manuscript page, from a scroll or book, from which the text has been scraped or washed off so that it can be used again."
+	},
+	{
+		"id": "hermeneutic",
+		"word": "Hermeneut",
+		"meaning": "解釈学（かいしゃくがく）",
+		"etymology": [
+			"Greek hermeneutikos (interpreting)"
+		],
+		"concept": "Theory of interpretation",
+		"thinking": "「通訳する」理（ヘルメスの術）。テクストの背後に流れる、言葉にできない『声』を汲み取ること。解釈とは、他者の魂（貌）へと近づき、対話を試みるための最も深い謙虚さ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "テクストの行間に潜む、声なき魂との果てしなき対話。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"解釈という名の橋を架け、他者の深淵へと歩み寄る。"
+			]
+		},
+		"example": "Hermeneutics is the theory and methodology of interpretation."
+	},
+	{
+		"id": "logocentrism",
+		"word": "Logocentr",
+		"meaning": "ロゴス中心（ちゅうしん）主義（しゅぎ）",
+		"etymology": [
+			"Greek logos + Latin centrum"
+		],
+		"concept": "Primacy of word/reason",
+		"thinking": "「言葉（Logos）」がすべてを支配する。話し言葉の中に絶対的な『真理』を見出し、中心に据えようとする欲求。しかし私たちの世界には、言葉では決して捉えきれない、声なき深淵（貌）が欠かせない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "言葉という名の檻の外に、広大な声なき森を夢見る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ロゴスという中心の影で、震えている沈淵の正体。"
+			]
+		},
+		"example": "Logocentrism is the view that all forms of thought are based on a primary external reality."
+	},
+	{
+		"id": "cosmology_a",
+		"word": "Cosmology",
+		"meaning": "宇宙論（うちゅうろん）",
+		"etymology": [
+			"Greek kosmos (order/world) + logos"
+		],
+		"concept": "Study of the universe's origin",
+		"thinking": "「宇宙（Kosmos）」という秩序。漆黒の深淵に、数理という一条の光を投げかける。この巨大な広がりの中で、私たちはどこから来たのか、そしてどこへ向かうのかという、究極の『貌』の探求。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "漆黒の深淵に、数理という名の光を投げかけ、貌（全容）を測る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"宇宙という巨大な秩序の、始まりと終わりを俯瞰する。"
+			]
+		},
+		"example": "Cosmology is the study of the origin and evolution of the universe."
+	},
+	{
+		"id": "singularity",
+		"word": "Singulari",
+		"meaning": "特異点（とくいてん）、シンギュラリティ",
+		"etymology": [
+			"Latin singularis (alone/unique)"
+		],
+		"concept": "Point of infinite density/value",
+		"thinking": "「ただ一つ（Singularis）」の、計算不能な極点。秩序が崩壊し、物理法則さえも通用しない、カオスの臍。そこは破滅の場所か、あるいは新しい世界が産み落とされる『産声』の場所か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "物理さえも跪く極点で、カオスの産声に耳を澄ませる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"定義不能な破滅か、あるいは新しい世界の火種か。"
+			]
+		},
+		"example": "In a black hole, the singularity is where mass is thought to be compressed to an infinite density."
+	},
+	{
+		"id": "parallax_ad",
+		"word": "Parallax",
+		"meaning": "視差（しさ）、パララックス",
+		"etymology": [
+			"Greek parallaxis (change/alternation)"
+		],
+		"concept": "Apparent displacement via perspective",
+		"thinking": "見つめ直すたびに、「変わる（Parallaxis）」景色。一つの場所からでは見えない真実を、異なる眼差しを繋ぎ合わせることで描き出す。視差とは、世界の『立体感（貌）』を知るための術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "視点を変え、二つの絶望を繋ぎ合わせることで真実を視る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"多層的な眼差しで、世界の立体感（貌）を暴き出す。"
+			]
+		},
+		"example": "Parallax is the difference in the apparent position of an object viewed along two different lines of sight."
+	},
+	{
+		"id": "entropy_cos",
+		"word": "Heat Death",
+		"meaning": "熱的（ねつてき）死（し）",
+		"etymology": [
+			"Heat + Death"
+		],
+		"concept": "Universe reaching equilibrium",
+		"thinking": "すべてが「同じ熱さ」になり、どんな変化も起きなくなる宇宙の終わり。完全な平穏、完全な『沈黙』。熱を失った宇宙という名の冷たい貌。それは究極の虚無か、あるいは永遠の休息か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "完全なる均衡という名の冷たい静寂が、宇宙を優しく包む。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"エントロピーの果てに待つ、永遠という名の虚無の貌。"
+			]
+		},
+		"example": "The heat death of the universe is a possible ultimate fate of the universe."
+	},
+	{
+		"id": "nebula_adv_",
+		"word": "Nebula",
+		"meaning": "星雲（せいうん）、ネビュラ",
+		"etymology": [
+			"Latin nebula (mist/cloud/fog)"
+		],
+		"concept": "Cloud of gas and dust",
+		"thinking": "「霧（Nebula）」の中から産まれる、光の子供たち。星のゆりかごであり、同時に死にゆく星の『遺灰（貌）』でもある。暗黒と光が混ざり合う、宇宙の最も繊細な胎動。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "輝く塵の霧の中から、新しい命という名の光が産声を通す。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"生と死が混ざり合う、宇宙の最も繊細な胎動の貌。"
+			]
+		},
+		"example": "A nebula is a giant cloud of dust and gas in space."
+	},
+	{
+		"id": "celestial_a",
+		"word": "Celestial",
+		"meaning": "天体（てんたい）の、天空（てんくう）の",
+		"etymology": [
+			"Latin caelum (sky/heaven)"
+		],
+		"concept": "Relating to the sky",
+		"thinking": "「空（Caelum）」を仰ぐ。そこには地上の喧騒とは無縁な、永遠に続く冷徹な数理（貌）がある。頭上に輝く秩序ある運行を見張ることは、己の卑小さと、知性の誇りを知ること。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "天空の清冽な運行を仰ぎ、日常の泥を魂から振り落とす。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"頭上に輝く永遠の数理に、個の卑小さと誇りを刻む。"
+			]
+		},
+		"example": "Celestial mechanics is the branch of astronomy that deals with the motions of objects in outer space."
+	},
+	{
+		"id": "phylogenet",
+		"word": "Phylogeny",
+		"meaning": "系統発生（けいとうはっせい）、フィロジェニー",
+		"etymology": [
+			"Greek phylon (tribe/race) + genesis"
+		],
+		"concept": "Evolutionary development of species",
+		"thinking": "「部族（Phylon）」の「誕生（Genesis）」。一本の巨大な樹のように枝分かれし、空へと広がる命の地図。どの枝がどこから、どのような必然（貌）と共に分かれたのか。命のルーツを辿る壮大な物語。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "命の樹を根源まで辿り、繋がりという名の確信を掴み取る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"数億年の歳月が編み上げた、壮大な一族の物語（貌）。"
+			]
+		},
+		"example": "Phylogeny is the study of the evolutionary history and relationships among or within groups of organisms."
+	},
+	{
+		"id": "speciation_a",
+		"word": "Speciation",
+		"meaning": "種（しゅ）分化（ぶんか）",
+		"etymology": [
+			"Latin species (appearance/kind)"
+		],
+		"concept": "Formation of new species",
+		"thinking": "新しい「貌（Species）」が産まれる瞬間。かつて同じだった生命たちが、時間と環境という刃によって分かたれ、もう二度と交われない『別の何者か』へと変容する、切なき誕生の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "分かたれる瞬間の痛みを超えて、新しい貌（いのち）が立ち上がる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"時間の刃によって刻まれた、戻ることなき美しき分岐。"
+			]
+		},
+		"example": "Speciation is the evolutionary process by which populations evolve to become distinct species."
+	},
+	{
+		"id": "atavism_adv",
+		"word": "Atavism",
+		"meaning": "隔世（かくせい）遺伝（いでん）、先祖（せんぞ）返（がえ）り",
+		"etymology": [
+			"Latin atavus (great-grandfather/ancestor)"
+		],
+		"concept": "Reversion to ancestral type",
+		"thinking": "「先祖（Atavus）」が残していった、眠れる記憶の断片。何世代も経て突然蘇る、古い生命の『貌』。それは進化の消し損ねた足跡か、あるいは原初へと呼び戻そうとする命の回帰か。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "眠れる祖先の記憶が、影となって今の自分に重なり合う。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"隔世の時を超えて蘇る、原初という名の生命の予感。"
+			]
+		},
+		"example": "An atavism is a structural or behavioral modification in a biological system that is a throwback to its evolutionary ancestors."
+	},
+	{
+		"id": "taxonomy_ad",
+		"word": "Taxonomy",
+		"meaning": "分類（ぶんるい）学（がく）、タクソノミー",
+		"etymology": [
+			"Greek taxis (arrangement) + nomia (method/law)"
+		],
+		"concept": "Scientific classification",
+		"thinking": "カオスな自然界に「秩序（Taxis）」の「法（Nomos）」を敷くこと。名付け、分け、階層化することで、捉えどころのない生命の全貌（貌）を掌握しようとする、人間の傲慢で真摯な試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "カオスな自然に名を与え、秩序の檻に真実を閉じ込める。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"世界を分け、階層化することで、不確かな命を掌握する。"
+			]
+		},
+		"example": "Taxonomy is the science of naming, describing and classifying organisms."
+	},
+	{
+		"id": "ontogeny_ad",
+		"word": "Ontogeny",
+		"meaning": "個体（こたい）発生（はっせい）、オントジェニー",
+		"etymology": [
+			"Greek on- (being) + genesis"
+		],
+		"concept": "Development of an individual",
+		"thinking": "ただ一粒の「存在（On）」が、「誕生（Genesis）」から死へと向かうプロセス。小さな受精卵が、数億年の進化の記憶をなぞりながら一人の個体（貌）へと組み上がる、神秘の早送り再生。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "胚という名の小さな宇宙が、進化の記憶を猛スピードでなぞる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"一粒の存在が、誕生から終焉までをダイナミックに演じる。"
+			]
+		},
+		"example": "Ontogeny is the origination and development of an organism during its own life cycle."
+	},
+	{
+		"id": "symbiosis_a",
+		"word": "Symbiosis",
+		"meaning": "共生（きょうせい）",
+		"etymology": [
+			"Greek syn- (together) + bios"
+		],
+		"concept": "Interaction between organisms",
+		"thinking": "「共に（Syn）」ある「命（Bios）」。一人の完成された個体など、どこにもいない。私たちは常に他者の命を宿し、他者の命に依存することでしか、自らの貌（アイデンティティ）を保てない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "独りでは居られないという脆さを、共存という名の強さに変える。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"他者を宿すことで初めて完成する、補完という名の生命の貌。"
+			]
+		},
+		"example": "Symbiosis is any type of a close and long-term biological interaction."
+	},
+	{
+		"id": "psychoanaly",
+		"word": "Psychoan",
+		"meaning": "精神分析（せいしんぶんせき）",
+		"etymology": [
+			"Greek psykhe (soul/breath) + analysis (loosening)"
+		],
+		"concept": "Study of the unconscious mind",
+		"thinking": "「魂（Psykhe）」の「解体（Analysis）」。意識の底に澱んだドロドロとした欲望や恐怖を、一つひとつ解きほぐしていく。自分ですら知らない『もう一つの貌（無意識）』との、最も危険で孤独な対話。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "自分ですら知らない、もう一つの貌（無意識）との対話。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"魂の解体から、未知なる自己の萌芽を掴む。"
+			]
+		},
+		"example": "Psychoanalysis is a set of theories and therapeutic techniques."
+	},
+	{
+		"id": "ambivalence",
+		"word": "Ambivalen",
+		"meaning": "両価（りょうか）性（せい）、アンビバレンス",
+		"etymology": [
+			"Latin ambi- (both) + valentia (strength)"
+		],
+		"concept": "Coexistence of opposing feelings",
+		"thinking": "「両方（Ambi）」に同じ「強さ（Valentia）」で引き裂かれる心。愛しているのに憎い。逃げたいのに縋りたい。その矛盾こそが、人間の多面的な『貌』そのものであるという事実。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "矛盾する二つの強さが、魂を真実という名の形へ導く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"愛と憎しみが同居する、人間的なる震える貌。"
+			]
+		},
+		"example": "Ambivalence is a state of having simultaneous conflicting reactions, beliefs, or feelings towards some object."
+	},
+	{
+		"id": "archetype_a",
+		"word": "Archetype",
+		"meaning": "原型（げんけい）、アーキタイプ",
+		"etymology": [
+			"Greek arkhe (original) + typos (model)"
+		],
+		"concept": "Universal pattern/model",
+		"thinking": "人類が共有する「始まり（Arkhe）」の「型（Typos）」。夢や神話の中に繰り返し現れる、古のデザイン（貌）。それは太古から受け継がれた、私たちの魂の『共通言語』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "太古の夢の断片が、今の私たちの貌を静かに支配する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"万人が共有する、原初の記憶という名の聖なる図像。"
+			]
+		},
+		"example": "An archetype is a collectively inherited unconscious idea or image universally present in individual psyches."
+	},
+	{
+		"id": "repression_",
+		"word": "Repression",
+		"meaning": "抑圧（よくあつ）",
+		"etymology": [
+			"Latin re- (back) + premere (to press)"
+		],
+		"concept": "Excluding thoughts from consciousness",
+		"thinking": "「押し戻す（Premere）」こと。不都合な真実、耐え難い記憶を闇へと封じ込める。しかし封じられたものは消えず、暗闇の中で歪んだ貌（症状）となって、再び自分を脅かし始める。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "闇に葬った記憶が、影となって今の自分を脅かす。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"不都合な真実を、意識の裏側に押し戻す峻烈な防衛。"
+			]
+		},
+		"example": "Psychological repression is the unconscious blocking of unpleasant emotions or thoughts."
+	},
+	{
+		"id": "projection_",
+		"word": "Projectio",
+		"meaning": "投影（とうえい）、投射（とうしゃ）",
+		"etymology": [
+			"Latin pro- (forward) + jacere (to throw)"
+		],
+		"concept": "Attributing own traits to others",
+		"thinking": "自分の中の認めたくない『影（貌）』を、他者へと「投げ出す（Jacere）」。鏡だとも気づかず、他者を責めることで、私たちは自らの弱さから目を逸らし、歪んだ世界を生き続ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "自分の影を他者に見出し、世界という鏡を歪ませる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"弱さを投げ出し、他者を罰することで守ろうとする脆い貌。"
+			]
+		},
+		"example": "Psychological projection is a defense mechanism in which the human ego defends itself against unconscious impulses or qualities."
+	},
+	{
+		"id": "libido_adv_",
+		"word": "Libido",
+		"meaning": "リビドー、性的（せいてき）欲動（よくどう）",
+		"etymology": [
+			"Latin libido (desire/lust)"
+		],
+		"concept": "Psychic energy/desire",
+		"thinking": "「欲望（Libido）」という名の、生の根源的エネルギー。それはただの愛欲を超え、何かを創り、何かを愛し、この世界と繋がろうとする激しい『貌の躍動感』。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生命の躍動が、欲望という名の激しいエナジーへ変わる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"愛し、創り出し、繋がろうとする根源的な熱の貌。"
+			]
+		},
+		"example": "Libido is a person's overall sexual drive or desire for sexual activity."
+	},
+	{
+		"id": "id_psychoan",
+		"word": "Id",
+		"meaning": "イズ、エス、本能（ほんのう）的（てき）欲求（よっきゅう）",
+		"etymology": [
+			"Latin id (it)"
+		],
+		"concept": "Instinctive part of personality",
+		"thinking": "自分ですらない、未知の「それ（It）」。制御不能な衝動、原初の熱。文明の仮面（貌）の下で今も荒ぶり続ける、野生という名の剥き出しの自己。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "文明の皮を剥いだ先に、剥き出しの野性が息を潜める。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理性ならぬ「それ（It）」が命じる、原初の衝動。"
+			]
+		},
+		"example": "In psychoanalytic theory, the id is the set of uncoordinated instinctual desires."
+	},
+	{
+		"id": "super_ego_a",
+		"word": "Super-Ego",
+		"meaning": "超自我（ちょうじが）",
+		"etymology": [
+			"Latin super (over) + ego (I)"
+		],
+		"concept": "Moral conscience/norms",
+		"thinking": "自分を上から監視する「上位の自己（Super-I）」。社会の規範、父の命令、理想の貌。それは道徳の守護者であり、同時に絶えず自分を裁き続ける冷酷な批判者でもある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "内なる法廷が、絶えず自分を裁き、秩序を強いる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"理想と規範を司る、峻厳で冷徹な守護者の貌。"
+			]
+		},
+		"example": "The super-ego reflects the internalization of cultural rules, mainly taught by parents."
+	},
+	{
+		"id": "utilitarian",
+		"word": "Utilizati",
+		"meaning": "功利主義（こうりしゅぎ）、ユーティリタリアニズム",
+		"etymology": [
+			"Latin utilis (useful)"
+		],
+		"concept": "Greatest good for the greatest number",
+		"thinking": "「役に立つ（Utilis）」ことの究極。最大多数の最大幸福。正義を『計算』という刃で測ろうとする試み。そこにこぼれ落ちる個々の魂の『貌（痛み）』を、私たちは計算できるのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "最大多数の幸福を、理知という名の冷徹な秤で測る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"個々の痛みを超えた、冷徹なる計算による正義の貌。"
+			]
+		},
+		"example": "Utilitarianism is a family of normative ethical theories."
+	},
+	{
+		"id": "deontology_",
+		"word": "Deontolog",
+		"meaning": "義務論（ぎむろん）",
+		"etymology": [
+			"Greek deon (duty/that which is binding) + logos"
+		],
+		"concept": "Ethics based on duty/rules",
+		"thinking": "「なすべきこと（Deon）」の理。結果がどうあれ、絶対に譲れない正しい道。自分を律する内なる法、その毅然とした自己の貌（尊厳）。それがたとえ地獄に続く道だとしても、正しいと信じる方へ。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "結果に屈せず、内なる叫びに従い、正しい道を歩む。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自己の尊厳を懸けた、峻厳なる義務の貫徹。"
+			]
+		},
+		"example": "Deontology is the normative ethical theory that the morality of an action should be based on whether that action itself is right or wrong."
+	},
+	{
+		"id": "virtue_ethi",
+		"word": "Virtue",
+		"meaning": "徳（とく）倫理（りんり）学（がく）",
+		"etymology": [
+			"Latin virtus (manliness/excellence)"
+		],
+		"concept": "Focus on moral character",
+		"thinking": "「卓越（Virtus）」すること。規則に従うのではなく、自分自身が美しい貌（徳）を持つ者になること。反復と鍛錬によって磨き上げられた、魂の最も高貴な輝き。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "規則を守るのではなく、自らが徳を体現する至高の貌へ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"反復と鍛錬により磨かれた、魂の高貴なる卓越性。"
+			]
+		},
+		"example": "Virtue ethics is one of the three major approaches in normative ethics."
+	},
+	{
+		"id": "sovereignty",
+		"word": "Sovereignt",
+		"meaning": "主権（しゅけん）、ソヴリンティ",
+		"etymology": [
+			"Old French soverain (highest/supreme)"
+		],
+		"concept": "Supreme power or authority",
+		"thinking": "「最高（Super）」の意思。誰の命令も受けず、自らの運命を決定する力。国家の貌としての主権、あるいは一人の独立した個人としての自由への執着。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "誰にも屈せぬ最高度の意思が、自らの運命を決定する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自律という名の絶対的な権威、その峻烈なる輪郭。"
+			]
+		},
+		"example": "Sovereignty is the full right and power of a governing body over itself."
+	},
+	{
+		"id": "hegemony_ad",
+		"word": "Hegemony",
+		"meaning": "覇権（はけん）、ヘゲモニー",
+		"etymology": [
+			"Greek hegemonia (leadership)"
+		],
+		"concept": "Dominance by one group/state",
+		"thinking": "「指導者（Hegemon）」であること。力で屈服させるのではなく、それが『正しい価値観』であると思い込ませる、洗練された支配の貌。私たちの思考さえも、その覇権の網の中にいるのかもしれない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "武力ではなく価値観で支配し、他者を自発的に従わせる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"洗練された指導性の中に潜む、合意という名の支配の貌。"
+			]
+		},
+		"example": "Hegemony is the political, economic, or military predominance of one state over others."
+	},
+	{
+		"id": "nihilism_ad",
+		"word": "Nihilism",
+		"meaning": "虚無（きょむ）主義（しゅぎ）、ニヒリズム",
+		"etymology": [
+			"Latin nihil (nothing)"
+		],
+		"concept": "Rejection of all religious/moral principles",
+		"thinking": "「無（Nihil）」の理。すべての価値、すべての意味を剥ぎ取った後に残る、冷たい事実そのもの。しかし、その一切の貌を失った虚無の中からこそ、新しい自由が芽生えることもあるという逆説。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "虚無という名の荒野で、新しい価値を自らの手で刻む。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"意味の喪失を乗り越え、無から生を立ち上げる生の貌。"
+			]
+		},
+		"example": "Nihilism is the philosophical belief that suggests the lack of belief in one or more reputedly meaningful aspects of life."
+	},
+	{
+		"id": "alchemy_adv",
+		"word": "Alchemy",
+		"meaning": "錬金術（れんきんじゅつ）",
+		"etymology": [
+			"Arabic al-kimiya (the chemistry)"
+		],
+		"concept": "Transformation of matter",
+		"thinking": "「卑しきもの」を「高貴な金」へと変える。それは物質の変化であると同時に、自らの魂（貌）を浄化するための、激しくも孤独な祈りのプロセスの別名。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "卑しき石を金に変える、それは魂の浄化という名の旅。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"物質の変容を通じ、自らの精神を極限まで洗練させる術。"
+			]
+		},
+		"example": "Alchemy was a pre-scientific endeavor."
+	},
+	{
+		"id": "catalyst_ad",
+		"word": "Catalyst",
+		"meaning": "触媒（しょくばい）、カタリスト",
+		"etymology": [
+			"Greek kata- (down) + lyein (to loosen)"
+		],
+		"concept": "Agent that causes/accelerates reaction",
+		"thinking": "「繋がれていたもの（Lyein）」を「解き放つ（Kata-）」。自分は変化しないが、他者を劇的に変える存在。出会った瞬間に、静止していた世界が激しい貌（ドラマ）となって動き出す。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "出会いが火花を散らし、静止した世界を激しく流転させる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自らは不変のまま、他者に変革を促す静かなる煽動者。"
+			]
+		},
+		"example": "A catalyst increases the rate of a chemical reaction."
+	},
+	{
+		"id": "allotropy_a",
+		"word": "Allotropy",
+		"meaning": "同素体（どうそたい）",
+		"etymology": [
+			"Greek allos (other) + tropos (manner)"
+		],
+		"concept": "Element having different forms",
+		"thinking": "同じ元素でありながら、「別の（Allos）」「貌（Tropos）」を持つこと。ダイヤモンドと黒鉛。同じ本質を持ちながら、異なる輝き、異なる硬さを選んで生まれた、物質の多面的な宿命。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "同じ本質を持ちながら、異なる貌（輝き）を選び取る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"単一の元素が織りなす、多様な可能性という名の意匠。"
+			]
+		},
+		"example": "Allotropy is the property of some chemical elements to exist in two or more different forms."
+	},
+	{
+		"id": "molecule_ad",
+		"word": "Molecule",
+		"meaning": "分子（ぶんし）",
+		"etymology": [
+			"Latin moles (mass/bulk) + -cule (tiny)"
+		],
+		"concept": "Smallest unit of chemical compound",
+		"thinking": "「微小な（-cule）」る「塊（Moles）」。目に見えないほどの小ささで、この世界のあらゆる確かな手応えを形作っている、見えない結合（貌）の最小単位。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "見えないほどの小さな粒が、物質の全貌を構築している。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"結合という名の意志が産み出す、世界の確かなる輪郭。"
+			]
+		},
+		"example": "A molecule is an electrically neutral group of two or more atoms."
+	},
+	{
+		"id": "isotope_adv",
+		"word": "Isotope",
+		"meaning": "同位体（どういたい）、アイソトープ",
+		"etymology": [
+			"Greek isos (equal) + topos (place)"
+		],
+		"concept": "Atoms with same atomic number but different mass",
+		"thinking": "周期表の「同じ（Isos）」、「場所（Topos）」にありながら、わずかに異なる重さ。本質は一つだが、運命という名の重力に引かれる力がわずかに違う、兄弟のような貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "同じ場所を占めながら、運命という名の重みがわずかに違う。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"本質を共有しつつ、独自の重力を纏う兄弟のような貌。"
+			]
+		},
+		"example": "Isotopes are variants of a particular chemical element."
+	},
+	{
+		"id": "simulacra_a",
+		"word": "Simulacra",
+		"meaning": "シミュラークル、模造（もぞう）品（ひん）",
+		"etymology": [
+			"Latin simulacrum (likeness/statue)"
+		],
+		"concept": "Copy without an original",
+		"thinking": "「似せられた（Simulo）」虚像。オリジナルなどどこにもないまま、複製だけが無限に増殖していく。私たちの『真理』さえも、何かのシミュラークルに過ぎないのかもしれないという恐怖。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "オリジナルのない複製品が、現実を侵食し、新たな真実となる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"無限に増殖する虚像が作り上げる、迷宮のような世界の貌。"
+			]
+		},
+		"example": "Simulacra are copies that depict things that either had no original, or that no longer have an original."
+	},
+	{
+		"id": "medium_mess",
+		"word": "Medium",
+		"meaning": "媒体（ばいたい）、中間（ちゅうかん）にあるもの",
+		"etymology": [
+			"Latin medius (middle)"
+		],
+		"concept": "Channel of communication",
+		"thinking": "「間（Middle）」を繋ぐもの。媒体は単なる『運び屋』ではない。その形そのものが、伝わるメッセージの色（貌）を決定づけてしまう、透明な独裁者。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "運び屋（メディア）そのものが、伝えたい言葉の色彩を決める。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中間にある器が、真実の響きを変容させる透明な力。"
+			]
+		},
+		"example": "The medium is the message."
+	},
+	{
+		"id": "hyperreal_a",
+		"word": "Hyperreal",
+		"meaning": "超（ちょう）現実（げんじつ）、ハイパーリアル",
+		"etymology": [
+			"Greek hyper- (over/beyond) + Reality"
+		],
+		"concept": "Simulated reality more 'real' than real",
+		"thinking": "現実を「超えた（Hyper-）」、完成された偽物。加工され、演出されたイメージが、本物の手応え（貌）を凌駕し、私たちが信じる『唯一の真理』となっていく眩暈。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "本物よりもリアルな偽物が、私たちの意識を優しく陶酔させる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"加工されたイメージの果てに、現実の貌が溶け去る眩暈。"
+			]
+		},
+		"example": "Hyperreality is an inability of consciousness to distinguish reality from a simulation of reality."
+	},
+	{
+		"id": "spectacle_a",
+		"word": "Spectacle",
+		"meaning": "スペクタクル、壮観（そうかん）、見世物（みせもの）",
+		"etymology": [
+			"Latin spectare (to look at)"
+		],
+		"concept": "Visual display of social relation",
+		"thinking": "「見ること（Specto）」の過剰。すべてが画像に、すべてが商品に。私たちが生きているのは自分自身の人生ではなく、資本が作り出した巨大な『見世物（貌）』の観客席の椅子なのか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "すべてが見世物となり、私たちは観客席で自らの生を忘れる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"資本が演出する巨大な画像によって、社会が自己を演戯する。"
+			]
+		},
+		"example": "Society of the Spectacle is a work of philosophy and Marxist critical theory."
+	},
+	{
+		"id": "memetics_ad",
+		"word": "Memetics",
+		"meaning": "ミーム学（がく）、ミメティクス",
+		"etymology": [
+			"Greek mimema (imitated thing)"
+		],
+		"concept": "Study of information transmission",
+		"thinking": "「模倣（Mime）」される情報の遺伝子。言葉、習慣、ジョーク。宿主という器を乗り換え、増殖し続ける。私たちの意識は、実はミームたちの巨大な交差点（貌）に過ぎないのではないか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "情報の遺伝子が、意識という名の宿主を乗り換え増殖する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"模倣の連鎖の中で、私たちの文化という名の貌が編まれる。"
+			]
+		},
+		"example": "Memetics is the study of information and culture based on an analogy with Darwinian evolution."
+	},
+	{
+		"id": "genome_adv_",
+		"word": "Genome",
+		"meaning": "ゲノム、全（ぜん）遺伝（いでん）情報（じょうほう）",
+		"etymology": [
+			"German gen (gene) + -ome (all/complete)"
+		],
+		"concept": "Complete set of genetic material",
+		"thinking": "生命の「すべて（-ome）」を綴った「情報の種（Gen）」。太古から連綿と受け継がれてきたデジタルな暗号。その総体（貌）の中に、私たちの過去と未来がすべて書き込まれている。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "太古から綴られた情報の総体が、生命の設計図を語り継ぐ。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"暗号化された過去と未来の、壮大なる統合としての貌。"
+			]
+		},
+		"example": "The genome is an organism's complete set of genetic instructions."
+	},
+	{
+		"id": "mutation_ad",
+		"word": "Mutation",
+		"meaning": "突然変異（とつぜんへんい）",
+		"etymology": [
+			"Latin mutatio (a change)"
+		],
+		"concept": "Permanent alteration of DNA",
+		"thinking": "情報のコピーミスという名の、「変容（Mutatio）」。それはエラーであり、同時に『希望（貌）』でもある。偶然に導かれた一つのズレが、静止を破り、新しい進化の扉をこじ開ける。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "コピーミスという名の偶然が、進化という名の扉をこじ開ける。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"エラーから生まれる新しい可能性、その切なくも強かな変容。"
+			]
+		},
+		"example": "A mutation is an alteration in the nucleotide sequence of the genome of an organism."
+	},
+	{
+		"id": "epigenetic_",
+		"word": "Epigeneti",
+		"meaning": "エピジェネティクス、後成（こうせい）的（てき）制御（せいぎょ）",
+		"etymology": [
+			"Greek epi- (on/above) + Genetics"
+		],
+		"concept": "Changes in gene expression not in DNA",
+		"thinking": "情報の「上（Epi-）」に描かれるもう一つの生。楽譜は同じでも、演奏（貌）が違う。環境や記憶が、私たちの遺伝子をそっと語り直す、柔軟で強かな制御の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "環境との対話が、遺伝子の沈黙を破り、新しい生を歌い出す。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"後天的な経験が命に刻む、柔軟でダイナミックな制御の理。"
+			]
+		},
+		"example": "Epigenetics is the study of changes in organisms caused by modification of gene expression."
+	},
+	{
+		"id": "clonality_a",
+		"word": "Clonality",
+		"meaning": "クローン性（せい）",
+		"etymology": [
+			"Greek klon (twig/branch)"
+		],
+		"concept": "State of being a clone",
+		"thinking": "一本の「枝（Klon）」から分かたれた同一性。差異を許さない、絶対的な同一人物の増殖。命の『一回性』という貌を否定し、静止した永遠の複写を夢見る、危うき技術の貌。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "差異を否定し、同一性を増殖させる、静止した命の夢。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"一回性の貌を拒絶し、永遠の複写に囚われた危うき美。"
+			]
+		},
+		"example": "Clonality is the property of a cell or organisms to be derived from a single common ancestor."
+	},
+	{
+		"id": "mercantilis",
+		"word": "Mercantil",
+		"meaning": "重商（じゅうしょう）主義（しゅぎ）",
+		"etymology": [
+			"Latin mercari (to trade)"
+		],
+		"concept": "Trade-based national wealth",
+		"thinking": "「商い（Mercari）」を国是とする欲求。富を囲い込み、他者を出し抜いて積み上げる。国家という一つの巨大な商人の貌（エゴ）。それは終わりのない奪い合いの始まり、その不機嫌な予感。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "富を囲い込み、他者を出し抜くことで、国家の貌を飾る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"奪い合いの欲望が編み上げた、初期資本の不機嫌な肖像。"
+			]
+		},
+		"example": "Mercantilism is a national economic policy designed to maximize the exports."
+	},
+	{
+		"id": "commodity_a",
+		"word": "Commodity",
+		"meaning": "商品（しょうひん）、コモディティ",
+		"etymology": [
+			"Latin commodus (appropriate/convenient)"
+		],
+		"concept": "Article of trade",
+		"thinking": "便利な「都合のいいもの（Commodus）」。交換可能な均質の世界。そこでは本来の物語（貌）は消え、ただ『価格』という冷たい記号だけが重用される。私たちは自分自身さえ、 commodity として扱ってはいないか。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "名前を失い、価格という名の冷たい記号になった世界。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"交換可能な均質さの中に、個の物語が埋もれていく哀しみ。"
+			]
+		},
+		"example": "A commodity is a basic good used in commerce."
+	},
+	{
+		"id": "monopoly_ad",
+		"word": "Monopoly",
+		"meaning": "独占（どくせん）、モノポリー",
+		"etymology": [
+			"Greek monos (alone) + polein (to sell)"
+		],
+		"concept": "Exclusive control of supply",
+		"thinking": "「ただ一人（Monos）」で「売る（Polein）」こと。競争を排除し、ただ一つの権力（貌）が市場を支配する。多様性の死、停滞した支配。それは自由という名の欲望が、最終的に辿り着く『不自由』の極北。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "競争が絶え、ただ一人の支配者が市場という戦場を平定する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"多様性を拒絶した果てに待つ、静止した支配の貌。"
+			]
+		},
+		"example": "A monopoly exists when a specific person or enterprise is the only supplier of a particular commodity."
+	},
+	{
+		"id": "surplus_val",
+		"word": "Surplus",
+		"meaning": "剰余（じょうよ）価値（かち）",
+		"etymology": [
+			"Latin super (over) + plus (more)"
+		],
+		"concept": "Value beyond wages/cost",
+		"thinking": "「過剰（Super）」に産み出された「余り（Plus）」。労働者が自らを生かす（生活する）ために必要な時間を超えて働き、資本に捧げる『搾取された貌』の別名。そこに富の蓄積という残酷なエンジンがある。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "生かされる以上の労働が、資本という名の怪物を太らせる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"労働の汗から抽出された、富の蓄積という名の過酷な果実。"
+			]
+		},
+		"example": "Surplus value is a central concept in Karl Marx's critique of political economy."
+	},
+	{
+		"id": "fetishism_a",
+		"word": "Fetishism",
+		"meaning": "物神（ぶっしん）崇拝（すうはい）、フェティシズム",
+		"etymology": [
+			"Portuguese feitico (charm/magic)"
+		],
+		"concept": "Ascribing value/power to objects",
+		"thinking": "ただの「物（Feitico）」に不思議な力を信じること。商品そのものが人格を持ち、逆に人間を支配し始める、市場という名の巨大な『呪術（貌）』。私たちは、自分の欲求を、物に投影して崇めているだけなのかもしれない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "ただの物に魂を投影し、己が産み出した神に従順に跪く。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"商品の放つ魔力に魅せられ、人間が物に奉仕する転倒の理。"
+			]
+		},
+		"example": "Commodity fetishism is the perception of social relationships involved in production not as relationships among people, but as economic relationships among money and commodities."
+	},
+	{
+		"id": "sociology_a",
+		"word": "Sociology",
+		"meaning": "社会学（しゃかいがく）",
+		"etymology": [
+			"Latin socius (companion) + logos"
+		],
+		"concept": "Study of society and social behavior",
+		"thinking": "「仲間（Socius）」の理。孤立した個人など存在しない。見えない糸で結ばれ、互いに影響し合いながら形作られる巨大な貌（世界）。その絶え間ない蠢きを、観測し解体する試み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "見えない糸で結ばれた、仲間たちの蠢きを冷徹に観測する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"個人を超えた巨大な意志（社会）の、多層的な貌の解体。"
+			]
+		},
+		"example": "Sociology is the study of social life, social change, and the social causes and consequences of human behavior."
+	},
+	{
+		"id": "alienation",
+		"word": "Alienatio",
+		"meaning": "疎外（そがい）",
+		"etymology": [
+			"Latin alienare (to make foreign)"
+		],
+		"concept": "Estrangement from self/society",
+		"thinking": "本来の自分から、「他者（Alien）」にされていく感覚。労働、社会、そして自己。自分が産み出したものによって、逆に支配され、孤独になっていく、現代の不機嫌な貌（エゴ）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "自分の産み出した世界に、自分が他者として排除される。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自己の一部を剥ぎ取られ、機械の一部に変容させられる疎外。"
+			]
+		},
+		"example": "Entfremdung is the German term for alienation."
+	},
+	{
+		"id": "anomie_adv",
+		"word": "Anomie",
+		"meaning": "アノミー、無（む）規範（きはん）状態（じょうたい）",
+		"etymology": [
+			"Greek a- (without) + nomos (law)"
+		],
+		"concept": "Lack of social/moral standards",
+		"thinking": "「法（Nomos）」が「失われた（A-）」、不安定な宙吊りの状態。何が正しいのか、どこへ向かうべきなのか。価値観が崩壊し、人々が漂流する中での、孤独で虚無な貌（迷い）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "規範が崩壊し、人々が共通の貌（道標）を失って漂流する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自由という名の無重力の中で、魂が彷徨う虚無の深淵。"
+			]
+		},
+		"example": "Anomie is a condition of instability resulting from a breakdown of standards and values."
+	},
+	{
+		"id": "charismatic",
+		"word": "Charisma",
+		"meaning": "カリスマ、超自然（ちょうしぜん）的（てき）資質（ししつ）",
+		"etymology": [
+			"Greek kharis (grace/favor)"
+		],
+		"concept": "Compelling charm/power",
+		"thinking": "神から授けられた「恵み（Kharis）」。論理的な理由なき、圧倒的な他者への感化力。その輝ける貌（権威）が放つ一条の光に、人々は跪き、盲目的に追従しようとする。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "理由なき輝きが、他者の意志を焼き尽くし、熱狂へと誘う。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"神からの恵みという名の、圧倒的なる感化力の貌。"
+			]
+		},
+		"example": "Charismatic authority is power legitimated by a leader's exceptional personal qualities."
+	},
+	{
+		"id": "algorithm_",
+		"word": "Algorithm",
+		"meaning": "アルゴリズム、算法（さんぽう）",
+		"etymology": [
+			"Arabic al-Khwarizmi (mathematician name)"
+		],
+		"concept": "Set of rules for calculation",
+		"thinking": "問題を解くための、冷徹な一連の「手続き（貌）」。そこに迷いも、感情も、慈悲もない。ただ効率的に、ただ確実に、論理という名の歯車を回し続けるための、純然たる数理の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "迷いも慈悲もない、理知という名の歯車が問題を粉砕する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"最適解という名のゴールへ、最短距離で突き進む論理の貌。"
+			]
+		},
+		"example": "An algorithm is a finite sequence of rigorous instructions."
+	},
+	{
+		"id": "binary_adv",
+		"word": "Binary",
+		"meaning": "二進法（にしんほう）、バイナリ",
+		"etymology": [
+			"Latin bini (two by two)"
+		],
+		"concept": "Relating to two things/bits",
+		"thinking": "「二つ（Bini）」の、極限まで還元された世界。０か、１か。存在か、虚無か。このあまりにシンプルなON/OFFの連鎖（貌）が、やがて複雑な文明を立ち上げていく、情報の根源的な理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "0と1、ONとOFF、引き算の果てに現れる世界の骨格。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在と虚無の交互作用が、複雑な文明の貌を編み上げる。"
+			]
+		},
+		"example": "A binary system is a system of numerical notation that has 2 as a base."
+	},
+	{
+		"id": "recursive_",
+		"word": "Recursive",
+		"meaning": "再帰（さいき）的（てき）な",
+		"etymology": [
+			"Latin re- (again) + currere (to run)"
+		],
+		"concept": "Self-referencing process",
+		"thinking": "「再び（Re-）」「走る（Currere）」。鏡の中に鏡を置き、自分自身を繰り返し呼び出すことで、有限の中に無限の深淵（貌）を立ち上げる。それは自己意識の、最も深遠で孤独なモデル。",
+		"part_of_speech": "adjective",
+		"era": "Academic",
+		"aftertaste": "自分自身を呼び出し、有限の中に無限の深淵を立ち上げる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"自己言及という名のループの中に、意識の最も深いモデルを視る。"
+			]
+		},
+		"example": "Recursion occurs when a thing is defined in terms of itself."
+	},
+	{
+		"id": "protocol_a",
+		"word": "Protocol",
+		"meaning": "規約（きやく）、合意（ごうい）、プロトコル",
+		"etymology": [
+			"Greek protos (first) + kolla (glue)"
+		],
+		"concept": "Rules for interaction",
+		"thinking": "最初に「貼り付けられた（Kolla）」約束事。異なる者たちが、互いの貌を傷つけずに通信するための最低限の礼儀。プロトコルがあるからこそ、カオスは秩序（ネットワーク）へと変貌する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "異なる貌を持つ者たちが、合意という名の礼儀を貼り付ける。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"通信という名の荒波を越えるため、最初に交わされる聖なる合意。"
+			]
+		},
+		"example": "A communication protocol is a system of rules that allows elements of a network to transmit information."
+	},
+	{
+		"id": "heuristic_",
+		"word": "Heuristic",
+		"meaning": "発見（はっけん）的（てき）手法（しゅほう）、ユーリスティック",
+		"etymology": [
+			"Greek heuriskein (to find)"
+		],
+		"concept": "Practical method for discovery",
+		"thinking": "「発見する（Heuriskein）」喜び。完璧な正解ではないが、今すぐ生き延びるために必要な『納得の貌（推測）』。不確実な世界を渡り歩くための、泥臭くも賢明な、経験の理。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "正解ではないが、今を生き抜くために必要な納得の導き。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"不確実な森を抜けるための、経験に裏打ちされた賢明な野性。"
+			]
+		},
+		"example": "Heuristics are mental shortcuts that can help people make decisions."
+	},
+	{
+		"id": "cryptology",
+		"word": "Cryptolog",
+		"meaning": "暗号学（あんごうがく）",
+		"etymology": [
+			"Greek kryptos (hidden) + logos"
+		],
+		"concept": "Study of secure communication",
+		"thinking": "「隠されたもの（Kryptos）」の理。真実をそのまま語るのではなく、選ばれし者だけが解ける迷宮の中に封じ込める。知性を守り、秘密を価値へと変えるための、最も暗い貌の技術。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "真実を秘密の迷宮に隠し、選ばれし者との対話を護る。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"知性の盾で情報の深淵を護り、沈黙を価値へと変える術。"
+			]
+		},
+		"example": "Cryptography is the practice and study of techniques for secure communication."
+	},
+	{
+		"id": "jurisprude",
+		"word": "Jurisprud",
+		"meaning": "法理学（ほうりがく）、法学（ほうがく）",
+		"etymology": [
+			"Latin jus (law) + prudentia (knowledge/foresight)"
+		],
+		"concept": "Theory and philosophy of law",
+		"thinking": "「法（Jus）」に対する「賢明さ（Prudentia）」。単なるルールではなく、人間が人間として、どのように公平に貌を合わせるべきかという究極の問い。叡智を積んで正義の貌を構築する、知の法廷。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "人間がどのように公平に貌を合わせるかという、究極の理。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"叡智を積んで構築された、文明という名の正義の神殿。"
+			]
+		},
+		"example": "Jurisprudence is the theoretical study of law."
+	},
+	{
+		"id": "sanction_a",
+		"word": "Sanction",
+		"meaning": "制裁（せいさい）、是認（ぜにん）",
+		"etymology": [
+			"Latin sancire (to make sacred/ratify)"
+		],
+		"concept": "Penalty for disobedience / permission",
+		"thinking": "「神聖なるもの（Sancire）」へと高めること、あるいは峻別すること。犯された穢れを、罰という名の等価交換で購う（貌）。社会が自らの輪郭を保ち続けるための、最も激しく、最も冷徹な営み。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "穢れを罰で購い、社会の輪郭という名の神聖さを維持する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"規範を守るための最後の手段、その峻烈で冷徹な等価交換。"
+			]
+		},
+		"example": "Sanctions are penalties or other means of enforcement used to provide incentives for obedience."
+	},
+	{
+		"id": "legitimacy",
+		"word": "Legitimac",
+		"meaning": "正当（せいとう）性（せい）",
+		"etymology": [
+			"Latin lex (law)"
+		],
+		"concept": "Conformity to law/rules",
+		"thinking": "「法（Lex）」に照らして、自分たちが正しいと信じる力。力で従わせるのではなく、誰もが『当然だ（貌）』と納得するための、見えない承認の源泉。正当性を失った権力は、ただの暴力に過ぎない。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "力ではなく、納得によって人々が権威の貌に跪くための源泉。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"誰もが「正しい」と信じられる、見えない承認の深い川。"
+			]
+		},
+		"example": "Legitimacy is the right and acceptance of an authority."
+	},
+	{
+		"id": "axiom_adv_",
+		"word": "Axiom",
+		"meaning": "公理（こうり）、自明（じめい）の理（り）",
+		"etymology": [
+			"Greek axioma (that which is thought worthy/fit)"
+		],
+		"concept": "Self-evident truth",
+		"thinking": "証明すら必要のない、「ふさわしき（Axioma）」前提。すべての思考を立ち上げるための、最も深い土台（貌）。疑うことさえ許されない、数理という神殿の聖なる礎石。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "証明すら不要な土台、すべての思考はこの聖なる礎から始まる。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"疑いようのない自明さの上に、知性という名の伽藍を築く。"
+			]
+		},
+		"example": "An axiom is a statement that is taken to be true."
+	},
+	{
+		"id": "infinity_a",
+		"word": "Infinity",
+		"meaning": "無限（むげん）、インフィニティ",
+		"etymology": [
+			"Latin in- (not) + finis (end/limit)"
+		],
+		"concept": "Quality of being endless",
+		"thinking": "「終わり（Finis）」が「ない（In-）」こと。限界という名の檻を壊し、どこまでも広がり続ける思考の貌。それは人間の小さな脳には収まりきらない、神の領域に属する、永遠に続く一閃（刃）。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "限界の檻を壊し、どこまでも広がり続ける思考の翼。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"人間の脳を追い越し、永遠に続く数理の貌の深淵。"
+			]
+		},
+		"example": "Infinity is an unbounded quantity that is greater than every real number."
+	},
+	{
+		"id": "theorem_ad",
+		"word": "Theorem",
+		"meaning": "定理（ていり）",
+		"etymology": [
+			"Greek theorema (that which is looked at/spectacle)"
+		],
+		"concept": "Proposition proved to be true",
+		"thinking": "論理の鎖で繋ぎ合わされた、「見つめる（Theoria）」べき真実。一度証明されれば、それは時間の波に洗われても決して揺らぐことのない、普遍的な貌となって永遠の宇宙に君臨する。",
+		"part_of_speech": "noun",
+		"era": "Academic",
+		"aftertaste": "論理の鎖で繋がれた真理が、普遍という名の貌で宇宙に君臨する。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"一度刻まれたら決して消えない、不動なる知性の勝利の記録。"
+			]
+		},
+		"example": "A theorem is a statement that has been proven on the basis of previously established statements."
+	},
+	{
+		"id": "eigenstate_ad",
+		"word": "Eigenstate",
+		"meaning": "線形演算子の演算によって、その実体に定数倍の変化のみが許された不変の静止相。",
+		"etymology": [
+			"ドイツ語의 eigen（独自の、固有の）と英語の state（状態）の混成。量子力学における観測の確定点を指す。"
+		],
+		"concept": "観測という暴力によって引きずり出される、確率の波の背後に潜む『真実の貌』。",
+		"thinking": "世界は重なり合いの中に微睡んでいるが、固有状態への射影は、その揺らぎを凍りつかせ、唯一無二の現実を刻印する。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "確率の深淵を、確定の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"固有値方程式 Hψ = Eψ において、ψは自己の形状を保ちつつ値を提示する。これは、変化の激流の中で自己を失わぬ唯一の解であることを示唆している。"
+			]
+		},
+		"example": "観測者が眼差しを向けた瞬間、千の可能性は死に絶え、一つの『固有状態』が静寂の中に浮かび上がる。"
+	},
+	{
+		"id": "chronon_ad",
+		"word": "Chronon",
+		"meaning": "時間の最小単位として仮定される、不連続な瞬きの断片。",
+		"etymology": [
+			"ギリシャ語の chronos（時間）に、素粒子を意味する接尾辞 -on が結合した造語。"
+		],
+		"concept": "連続性という幻想を切り裂く、時の『貌』の不連続な刻み。",
+		"thinking": "我々は滑らかな時間の流れに身を任せていると思い込んでいるが、実際にはクロノンという離散的な鼓動の間隔で世界は再構成され続けているのではないか。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "永遠の深淵を、刹那の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"プランク時間に近い極小のタイムスケールにおいて、宇宙は映画のフィルムのように一コマずつ進行する。境界線なき流転の中に、厳格な離散性が支配する。この矛盾こそが、時空の根源的な美学である。"
+			]
+		},
+		"example": "一秒の重みは、計り知れぬ数の『クロノン』が積み重なり、崩壊し続ける果てに結実する。"
+	},
+	{
+		"id": "bosonization_ad",
+		"word": "Bosonization",
+		"meaning": "フェルミオン（排他的な粒子）の多体系を、ボソン（融和的な粒子）の集合体として記述する数学的置換。",
+		"etymology": [
+			"素粒子物理学者ボースの名に由来する Boson に、変換を意味する接尾辞が加わったもの。"
+		],
+		"concept": "孤立した個として存在するものが、集団という貌の中で溶け合い、協調的な波動へと昇華される過程。",
+		"thinking": "個の対立を極限まで押し進めた先に、突如として全体としての調和が現れる。これは社会構造や美学的統一の隠喩でもある。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "対立の深淵を、融和の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"一次元系における電子の挙動は、ボソン化によって密度の揺らぎという集団励起に置き換わる。個体性を捨て去ることでしか到達し得ない、高次元の記述が存在するのである。"
+			]
+		},
+		"example": "衝突し合う粒子たちは、ボソン化の理論によって、優雅な一本の旋律へと書き換えられた。"
+	},
+	{
+		"id": "calabiyau_ad",
+		"word": "CalabiYau",
+		"meaning": "弦理論において、余剰次元を折りたたむために用いられる複素多様体。",
+		"etymology": [
+			"数学者のエウジェニオ・カラビとシン＝トゥン・ヤウの名を冠する。リッチ平坦な幾何学的構造。"
+		],
+		"concept": "不可視の次元に潜む、宇宙の究極的な『貌』の折り目。",
+		"thinking": "三次元の影を落とす背後には、想像を絶する複雑さで畳み込まれた高次元の美が眠っている。我々の世界はその襞の上で踊る光に過ぎない。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "不可視の深淵を、高次元の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"六次元に及ぶカラビ＝ヤウ空間の幾何学的性質が、我々の世界の物理定数を決定づける。形が法を規定する、その根源的な美学に戦慄せざるをえない。"
+			]
+		},
+		"example": "宇宙の真理は、目に見える広大さではなく、微細な『カラビ＝ヤウ』多様体の襞の間に隠されている。"
+	},
+	{
+		"id": "chiral_ad",
+		"word": "Chiral",
+		"meaning": "鏡像と重ね合わせることができない、空間的な非対称性。",
+		"etymology": [
+			"ギリシャ語の cheir（手）に由来。右手と左手の関係のように、対称でありながら重ならない性質。"
+		],
+		"concept": "完全なる対称性の破れから生じる、存在の独自の『貌』。",
+		"thinking": "調和が破れた瞬間に、世界は意味を持ち始める。右と左、生と死、それらが重なり得ぬからこそ、対峙する価値が生まれるのである。",
+		"part_of_speech": "Adjective",
+		"era": "Academic",
+		"aftertaste": "対称の深淵を、非対称の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"弱い相互作用におけるパリティ対称性の破れは、宇宙が本質的にカイラルであることを告げている。中心を持たぬ鏡の国にて、我々は片側の翼のみで飛ぶことを強いられているのだ。"
+			]
+		},
+		"example": "生命を構成するアミノ酸はすべて『カイラル』であり、一つの方向にのみ偏った進化の傷跡を刻んでいる。"
+	},
+	{
+		"id": "holomorphy_ad",
+		"word": "Holomorphy",
+		"meaning": "複素平面上の領域全体で正則であり、無限の滑らかさと整合性を秘めた関数の性質。",
+		"etymology": [
+			"ギリシャ語の holos（全体の）と morphe（形）に由来。全体的に完成された形を意味する。"
+		],
+		"concept": "一点の乱れも許さない、数学的完全性の静謐な『貌』。",
+		"thinking": "解析平坦な世界は、因果の紐が美しく整えられた宮殿のようである。一箇所を定めれば、無限の彼方までも必然的に決定されるという美学。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "混沌の深淵を、正則の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"コーシー・リーマンの方程式を満たすことで、関数は実数論では到底あり得ないほどの強固な接続性を得る。それは知性が到達しうる、破綻なき世界の理想像である。"
+			]
+		},
+		"example": "その証明は『ホロモルフィー』の完璧な連動を前提とし、一点の矛盾さえも入り込ませぬ峻厳さを放っていた。"
+	},
+	{
+		"id": "parasymmetry_ad",
+		"word": "Parasymmetry",
+		"meaning": "通常の超対称性を拡張した、統計的なボソンとフェルミオンの中間的な対称構造。",
+		"etymology": [
+			"ギリシャ語の para（横に、外れて）と symmetry（対称性）の結合。正統な枠組みを僅かに逸脱した調和。"
+		],
+		"concept": "秩序からの優雅な乖離がもたらす、異形の『貌』。",
+		"thinking": "真の美は、完璧な対称性の中にはない。僅かにズレた隣接点、その『パラ』の領域にこそ、豊かな生命の息吹と多様性が宿る。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "正統の深淵を、異端の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"パラ統計学において、粒子はパウリの排他律を部分的に緩和し、特異な集団挙動を示す。これは既成の境界線を越境しようとする存在の意志の現れのようにも見える。"
+			]
+		},
+		"example": "『パラ対称性』の研究は、既知の物理法則の外側に広がる、未踏の数学的領土を照らし出した。"
+	},
+	{
+		"id": "unitarity_ad",
+		"word": "Unitarity",
+		"meaning": "量子的な状態推移において、情報（確率の総和）が常に保存されるという無謬の性質。",
+		"etymology": [
+			"英語の unit（単位、一）に由来。一貫性と不変性を保つ数学的条件。"
+		],
+		"concept": "失われることが許されない、因果の絶対的な『貌』。",
+		"thinking": "過去の痕跡は宇宙のどこかに必ず刻印され、決して無に帰することはない。情報は形を変えこそすれ、ユニタリティという鎖で永遠に結ばれている。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "激流の深淵を、保存の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ブラックホール情報逆説は、このユニタリティが維持されるか否かを問う物理学最大の叙事詩である。宇宙が『情報』を記憶し続けるための、最後の防衛線なのだ。"
+			]
+		},
+		"example": "いかなる破壊的崩壊が起きようとも、量子的な『ユニタリティ』は世界の連続性を誰知らず保証している。"
+	},
+	{
+		"id": "superparticle_ad",
+		"word": "Superparticle",
+		"meaning": "超対称性の対をなす未発見の粒子であり、既知の粒子の鏡像としての高エネルギー的存在。",
+		"etymology": [
+			"super-（超）と particle（粒子）に由来。スピンが半整数分だけ異なる、対称性の対となる存在。"
+		],
+		"concept": "現世の物質の背後に隠された、影の『貌』。",
+		"thinking": "我々が観測している宇宙は半身に過ぎず、残りの半分は高次元の闇の中に潜んでいる。その超対称性のパートナーとの再会こそが、物理学の悲願である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "顕在の深淵を、潜在の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"セレクトロンやスクォークといった仮想的な粒子群は、大統一理論への回廊を構成する。存在の調和を完成させるために、見えざる半身を数学的に召喚するのである。"
+			]
+		},
+		"example": "加速器の爆鳴の中に、隠された『超粒子』の痕跡を追うことは、失われた半身を求める祈りにも似ている。"
+	},
+	{
+		"id": "weyl_ad",
+		"word": "Weyl",
+		"meaning": "ヘルマン・ワイルの名を冠する、粒子の質量をゼロとし、カイラリティのみを抽出した理論的極限。",
+		"etymology": [
+			"20正規の物理学者・数学者ヘルマン・ワイルに由来。ワイル半金属などの命名源。"
+		],
+		"concept": "質量という枷を脱ぎ捨て、純粋な『貌（カイラリティ）』のみが舞い踊る世界。",
+		"thinking": "重さを失うことは、物理的な実体からの解放である。ワイル粒子は、物質が情報の純粋な震えへと還元される臨界点に立っている。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "実体の深淵を、軽量の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ワイル方程式は、スピノルの数学的純潔さを保ち、相対論と量子論の交差点で質量なき高速の伝播を記述する。それはもはや幾何学そのものの鼓動といえる。"
+			]
+		},
+		"example": "『ワイル』フェルミオンの発見は、固体の内部をあたかも質量なき光の如く潜り抜ける衝撃的な経験を我々に与えた。"
+	},
+	{
+		"id": "majorana_ad",
+		"word": "Majorana",
+		"meaning": "粒子と反粒子が同一であるという、自己完結した特異な性質を持つフェルミオン。",
+		"etymology": [
+			"失踪したイタリアの物理学者エットーレ・マヨラナに由来。自己相克的な同一性を象徴する。"
+		],
+		"concept": "自己の中に敵を抱え、同時に自己自身で救済する、完結した『貌』。",
+		"thinking": "外部との対比によらず、自らの中に陽と陰を峻別せずに統合する。それは個の独立性の極致であり、究極の孤独の謂いでもある。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "二元の深淵を、一元の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"中性微子がマヨラナ粒子であれば、レプトン数保存則の劇的な破れを示唆する。それは宇宙から反物質が消え、我々が存在しうる理由を説明する鍵となるだろう。"
+			]
+		},
+		"example": "彼が予言した『マヨラナ』粒子のように、真理は自らを否定しながら自らを肯定する自己同一性の淵にある。"
+	},
+	{
+		"id": "dirac_ad",
+		"word": "Dirac",
+		"meaning": "ポール・ディラックが提唱した、負エネルギーの海から浮上する反物質の予言と、相対論的量子記述。",
+		"etymology": [
+			"孤高の物理学者ポール・ディラックの名に由来。簡潔さと美しさを極めた数式。 "
+		],
+		"concept": "虚無の海（ディラックの海）に穴を穿ち、存在を対生成させる創造の『貌』。",
+		"thinking": "数学的な美しさが物理的な真実を保証するという信念。ディラックの海は、我々の足元に広がる虚無が、実は無限のエネルギーの静寂であることを教えてくれる。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "虚無の深淵を、美の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ディラック方程式は電子のスピンを不可避の必然として導出した。そこには物理としての妥協はなく、ただ冷徹な数学的様式美だけが支配している。"
+			]
+		},
+		"example": "数式の美しさが現実を凌駕することはないが、『ディラック』の記述だけはその例外として燦然と輝いている。"
+	},
+	{
+		"id": "yukawa_ad",
+		"word": "Yukawa",
+		"meaning": "湯川秀樹が提唱した、重い中間子を媒介とする近距離の核力ポテンシャル理論。",
+		"etymology": [
+			"日本初のノーベル賞受賞者、湯川秀樹に由来。到達距離と質量の逆相関。 "
+		],
+		"concept": "有限の重さが制限する、愛着と拒絶の臨界点としての『貌』。",
+		"thinking": "届かぬ思いには理由がある。力が及ぶ範囲は、それを伝える媒体の重荷によって決まる。遠くへ行けないのは、自らが重すぎるからだという悲劇的な物理学的洞察。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "離散の深淵を、結合の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"湯川ポテンシャル V(r) = -g^2 (e^{-mr}/r) は、半径 r を超えることができない力の儚さを数式化したものである。質量 m という名の閾値が、世界の親密さを規定している。"
+			]
+		},
+		"example": "引力は無限に続くのではない。かつて『湯川』が示したように、重い虚像を経由する限り、その力はいずれ霧散する運命にある。"
+	},
+	{
+		"id": "higgs_ad",
+		"word": "Higgs",
+		"meaning": "自発的な対称性の破れを通じて、万物に質量を付与する不可視の場およびその粒子。",
+		"etymology": [
+			"ピーター・ヒッグスに由来。真空に潜む粘性。 "
+		],
+		"concept": "輝かしい疾走の中、不意に足を取られる宿命としての『貌（質量）』。",
+		"thinking": "光の速さを望みながら、真空という名の粘性に絡め取られ、我々は存在として留まることを許される。重さとは、天上の自由から地上への墜落の対価である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "空虚の深淵を、重力（えにし）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ヒッグス場が存在しなければ、クォークも電子も光速で飛び去り、原子は結ばれない。存在の固執を可能にしたのは、真空という沈黙の介入なのだ。このパラドックスが、物理的存在の核心となる。"
+			]
+		},
+		"example": "姿なき『ヒッグス』の海をかき分け、我々はこの重力ある現実を、一歩ずつ踏みしめながら生きてゆく。"
+	},
+	{
+		"id": "glashow_ad",
+		"word": "Glashow",
+		"meaning": "電磁気力と弱い相互作用を統合し、標準模型の基盤を築いたシェルドン・グラショーの物理思想。",
+		"etymology": [
+			"ノーベル物理学賞受賞者シェルドン・グラショーに由来。高エネルギーにおける統合の夢。 "
+		],
+		"concept": "見かけの差異を脱ぎ捨てた先に現れる、力の単一なる『貌』。",
+		"thinking": "バラバラに見える現象も、極限にまで熱せられた原初の火の中では一つに溶け合っていた。大統一という回帰への情熱。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "分裂の深淵を、一元の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"GWS理論において、ZボソンとWボソンは、高エネルギー下で無質量となり、光子と等価になる。区別することを止めたとき、宇宙は真の調和を露わにするのである。"
+			]
+		},
+		"example": "『グラショー』が説いた大統一への系譜は、我々がいつか原初の一点へと戻るための地図であるとも言える。"
+	},
+	{
+		"id": "salam_ad",
+		"word": "Salam",
+		"meaning": "アブドゥス・サラムによる、電弱統一理論におけるゲージ対称性の洗練と理論的枠組み。",
+		"etymology": [
+			"パキスタン出身の物理学者アブドゥス・サラムに由来。信仰と科学の統合。 "
+		],
+		"concept": "数学的なエレガンスをもって万物を束ねる、理性の究極的な『貌』。",
+		"thinking": "宇宙の法則は、最も簡潔な言葉（ゲージ対称性）で書かれた一編の叙事詩である。複雑さは人間の無知の投影に過ぎず、深淵には常に静謐な一貫性がある。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "混沌の深淵を、秩序（ロゴス）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"サラムはSU(2)xU(1)という対称性の群から、宇宙を支配する基本相互作用のダンスを導き出した。そこには、宗教的な敬虔さと科学的な冷徹さが同居している。"
+			]
+		},
+		"example": "『サラム』が見上げた夜空には、数式の形を借りた神の意志、すなわち完璧に統一された力の均衡が満ちていた。"
+	},
+	{
+		"id": "weinberg_ad",
+		"word": "Weinberg",
+		"meaning": "スティーヴン・ワインバーグが確立した、現代宇宙論と場の量子論のスタンダードとしての整合性。",
+		"etymology": [
+			"現代物理学の重鎮スティーヴン・ワインバーグに由来。論理の峻厳な整合性。 "
+		],
+		"concept": "「宇宙を知れば知るほど、それは無意味なものに見えてくる」という覚醒の『貌』。",
+		"thinking": "感情や目的が介在しない、ただ法則だけが冷たく回る宇宙。その冷徹な必然性を見つめることこそが、知性の誠実さであるという哲学。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "無意味の深淵を、知性の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ワインバーグ＝サラム模型の成功は、物理学を『検証可能な信仰』から『記述可能な事実』へと押し上げた。我々はその冷たい宇宙の中で、美という名の幻想を自ら紡ぎ出していくしかない。"
+			]
+		},
+		"example": "『ワインバーグ』の冷徹な眼差しは、我々に甘美な慰めを禁じる代わりに、宇宙の巨大な歯車の無言の回転を見せた。"
+	},
+	{
+		"id": "isosurface_ad",
+		"word": "Isosurface",
+		"meaning": "三次元空間内のスカラー場において、特定の値が等しい点を結んで形成される等値面。",
+		"etymology": [
+			"ギリシャ語の isos（等しい）と英語の surface（表面）に由来。見えない密度の境界を可視化する面。 "
+		],
+		"concept": "霧のように漂う連続体から、特定の『意図（閾値）』によって抽出された表面の『貌』。",
+		"thinking": "真実はグラデーションの中に隠されている。我々はどこかで線を引くことでしか、対象の形を認識することができない。境界とは常に主観的な断絶である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "連続の深淵を、閾域の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"マーチングキューブ法などのアルゴリズムを用いて、我々は数値の奔流から『物体』という幻想を削り出す。アイソサーフェスは、実体と非実体の際どい交渉を映し出している。"
+			]
+		},
+		"example": "流体シミュレーションの飛沫の背後には、冷厳な計算によって定義された『アイソサーフェス』が無数にうごめいている。"
+	},
+	{
+		"id": "barycentric_ad",
+		"word": "Barycentric",
+		"meaning": "図形の頂点に対する重みの比率によって、内部の任意の点を一意に特定する座標系。",
+		"etymology": [
+			"ギリシャ語の barus（重い）と kentron（中心）に由来。質点の重心という物理的概念を幾何学へ拡張したもの。"
+		],
+		"concept": "周囲からの影響（重み）のバランスによって規定される、漂泊する自己の『貌』。",
+		"thinking": "我々はどこにいても、寄って立つべき頂点からの距離に支配されている。中心とは、自分自身にあるのではなく、他者との関係性の比率の中にこそ存在する。",
+		"part_of_speech": "Adjective",
+		"era": "Academic",
+		"aftertaste": "空隙の深淵を、配分の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"三角形の内部を線形補間するバリュセントリック座標は、色やテクスチャの滑らかな転移を保証する。それは個々の頂点の個性を殺さず、かつ統合する高度な幾何学的妥協点である。"
+			]
+		},
+		"example": "『バリュセントリック』な視点で世界を捉えるとき、私は頂点たちの声の比率としてそこに在る。"
+	},
+	{
+		"id": "homography_ad",
+		"word": "Homography",
+		"meaning": "ある平面を別の平面へと投影する際に保たれる、直線性という名の不変の繋がり。",
+		"etymology": [
+			"ギリシャ語の homos（同じ）と graphein（描く）に由来。射影変換によって失われない構造的相似。 "
+		],
+		"concept": "視点が変わっても本質だけは受け渡される、歪な歪みの中の『貌』。",
+		"thinking": "鏡の中の私は歪んで見えるかもしれない。だが、その背後にあるホモグラフィーという写像の法は、私と虚像を繋ぎ止める唯一の真実である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "歪曲の深淵を、射影の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"3x3の変換行列は、物理的な距離を蹂躙しながらも、直線というユークリッドの禁忌を厳格に守り通す。空間の自由度を、たった一筋の整合性へと収束させる魔術的変換。"
+			]
+		},
+		"example": "視点が地を這おうとも、変換行列という名の『ホモグラフィー』は、正方形が正方形であり続けるための物語を紡ぎ導く。"
+	},
+	{
+		"id": "skeletonization_ad",
+		"word": "Skeletonization",
+		"meaning": "肉厚な形状から徐々に境界を剥ぎ取り、その構造的な中心軸（骨格）のみを抽出する位相的処理。",
+		"etymology": [
+			"英語の skeleton（骨格、芯）に由来。過剰な情報を削ぎ落とし、存在の幾何学的核心に至るプロセス。 "
+		],
+		"concept": "外装という装飾を剥ぎ取った後に残る、死してなお語り続ける『貌（芯）』。",
+		"thinking": "真実は常に細部に宿るのではない。不必要な肉を削ぎ、最も細い一本の線にまで還元されたとき、初めて事物の本質的なポーズが白日の下に晒される。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "肥大の深淵を、削ぎ落としの刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"メディアル軸変換によって、複雑な物体はグラフ構造へと圧縮される。これほど冷酷に、そして潔く対象を解析する手法は他にあるまい。引き算こそが真の理解への道である。"
+			]
+		},
+		"example": "都市の迷宮を『スケルトナイゼーション』すれば、血脈のように張り巡らされた主要道路の鼓動だけが浮かび上がる。"
+	},
+	{
+		"id": "affinely_ad",
+		"word": "Affinely",
+		"meaning": "平行性と比率を維持したまま、空間を伸縮・回転・剪断する線形変換の性質について。",
+		"etymology": [
+			"ラテン語の affinis（結びついた、親和性のある）から。遠近法に拠らない、整合性のある変形の様。 "
+		],
+		"concept": "自由でありながら、断じて平行を違えることのない、誇り高き『貌』。",
+		"thinking": "どれほど世界が引き延ば去り、歪められようとも、並行して歩む者同士の視線が交差することはない。アフィン変換は、変わらぬ絆の幾何学的証明である。",
+		"part_of_speech": "Adverb",
+		"era": "Academic",
+		"aftertaste": "変遷の深淵を、並行の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アフィン幾何学は、長さや角度という脆弱な値を捨て去り、より根源的な『比率』という名の秩序を信奉する。それは感覚的誘惑を撥ねのけた、理性の変容である。"
+			]
+		},
+		"example": "対象を『アフィン的に』変形させることは、その姿を損なうことではなく、新たな文脈の中でその秩序を再定義することに他ならない。"
+	},
+	{
+		"id": "polytope_ad",
+		"word": "Polytope",
+		"meaning": "任意の次元において、平坦な側面で囲まれた多面体の概念の一般化。",
+		"etymology": [
+			"ギリシャ語の polus（多くの）と topos（場所）に由来。高次元の境界を画定する幾何学的領土。 "
+		],
+		"concept": "高次元からの投射として、我々の眼前に現れる多義的な『貌（次元構造）』。",
+		"thinking": "我々はポリトープの一つの面に指を触れることしかできない。全体像は思索の彼方にのみ広がり、その頂点と辺が織りなす構造美は、神のパズルのピースのようである。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "次元の深淵を、多面の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"超立方体、正単体、直交ポリトープ。それらはオイラーの多面体定理を高次へと拡張した、数学的峻厳さの結晶である。形という制約が、美へと転化する瞬間の目撃者。"
+			]
+		},
+		"example": "四次元を夢想する計算機の中で、煌びやかな『ポリトープ』が、我々の理解を超えた複雑な影を落としてゆく。"
+	},
+	{
+		"id": "bilinear_ad",
+		"word": "Bilinear",
+		"meaning": "二つの異なる方向に対して線形性を持ち、格子の間を滑らかに補間する数学的様式。",
+		"etymology": [
+			"bi-（二つの）と linear（線形の）の結合。格子点という断絶を、二つの軸の調和で埋めること。 "
+		],
+		"concept": "不連続な点の網目の中で、優雅に揺らぎながら真実を繋ぎ合わせる『貌』。",
+		"thinking": "生と死、あるいは右と左。対峙する二軸のどちらにも与せず、その中間に潜むグラデーションこそが、世界の真の質感であるという、中道への幾何学的回答。",
+		"part_of_speech": "Adjective",
+		"era": "Academic",
+		"aftertaste": "断絶の深淵を、線形（滑らかさ）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"バイリニア補間はピクセルという離散的な暴力性を否定し、計算機に人間的な連続性の錯覚を与える。それは欺瞞ではなく、美しき補完の意志なのだ。"
+			]
+		},
+		"example": "荒れた画像の格子を『バイリニア』に癒していくとき、埋もれていた滑らかな曲線が再び息を吹き返す。"
+	},
+	{
+		"id": "circumcircle_ad",
+		"word": "Circumcircle",
+		"meaning": "多角形のすべての頂点を通過し、その存在を外界から完璧に包摂する外接円。",
+		"etymology": [
+			"circum-（周囲の）と circle（円）に由来。対象を一周して守護し、あるいは閉じ込める境界。 "
+		],
+		"concept": "いかなる尖った頂点も、丸い円の中に宥めるという、包摂と慈愛の『貌』。",
+		"thinking": "鋭利な自己主張さえも、大きな調和の一部として統合される。外接円は、個々の頂点が持つ緊張を、等しい半径という平等性の下に置く平和の象徴である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "鋭利の深淵を、包摂（まどか）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"デローニ三角形分割において、空外接円特性は最も重要な美徳である。円の内部にいかなる頂点も侵入させないという排他性が、結果として最も美しい三角形の網目を生み出す。排除こそが秩序の鍵也。"
+			]
+		},
+		"example": "その『外接円』は、無秩序に散らばった星々を一つの星座として束ね、幾何学的な聖域を構築した。"
+	},
+	{
+		"id": "equivariance_ad",
+		"word": "Equivariance",
+		"meaning": "入力に施された変換が、出力においても全く同じ幾何学的変換として維持される対称性の保存。",
+		"etymology": [
+			"equi-（等しい）と variance（変動）の結合。変化に従いつつ、その整合性を失わないこと。 "
+		],
+		"concept": "変転する世界の中で、自己の法則を貫き通すという、誠実なる『貌』。",
+		"thinking": "周囲に合わせて形を変えつつも、内なる理（ことわり）だけは決して譲らない。エキバリアンスは、変容と不変の高度な共感覚である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "変転の深淵を、不変の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"CNNの並進等変性は、物体の位置が変わってもその意味を失わない。幾何学的な移動（回転や並進）が演算の構造そのものと共鳴する、一種の数学的な韻律といえる。"
+			]
+		},
+		"example": "対称性がもたらす『等変性』は、崩壊する視界の中でも変わらぬ認識の拠り所を我々に与えてくれる。"
+	},
+	{
+		"id": "frustum_ad",
+		"word": "Frustum",
+		"meaning": "円錐やピラミッドの頂部を切り取り、不完全なままに残された切頭体。視界を規定する空間の断片。",
+		"etymology": [
+			"ラテン語の frustum（欠片、破片）に由来。完成形から切り離された、不完全な現実の容積。 "
+		],
+		"concept": "無限を望めず、切り取られた限界の中で生きることを強いられた『貌』。",
+		"thinking": "我々の視界（ビュー・フラスタム）は常に、ニアとファーという二つの断絶によって挟まれている。近すぎては見えず、遠すぎては届かない。その制限こそが、我々の見る風景の正体だ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "無限の深淵を、切頭（かぎり）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"クリッピング処理は、フラスタムの外側の世界を冷酷に抹消する。計算リソースという現実が、存在の可視性を決定する。切り捨てられる側に回らぬよう、我々は中心を求め続ける。"
+			]
+		},
+		"example": "視界の『フラスタム』を抜けた途端、さっきまで確かにそこに在った世界は、計算上の無へと還っていった。"
+	},
+	{
+		"id": "halfedge_ad",
+		"word": "Halfedge",
+		"meaning": "網目構造（メッシュ）を構成する辺を、方向を持つ二つの断片として分割し、位相的な接続性を制御するデータ構造。",
+		"etymology": [
+			"half（半分）と edge（辺）の結合。共有される一本の線を、二つの面からの視線へと分かつこと。 "
+		],
+		"concept": "同じ境界に立ちながら、異なる世界（面）を見つめる二つの視線としての『貌』。",
+		"thinking": "コインの表裏のように、一本の境界線には二つの物語がある。ハーフエッジは、衝突することのない双子の視線を巡回させ、空間の繋がりを密やかに管理する。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "二元の深淵を、境界の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"次、前、双子。この三つのポインタが、広大なポリゴンの海を回遊するためのコンパスとなる。断片化すること（ハーフにすること）で、全体としての接続性を担保する逆説の知知。"
+			]
+		},
+		"example": "『ハーフエッジ』の鎖を辿れば、迷宮のようなメッシュの奥底に潜む、完璧な位相幾何学の回廊へと至ることができる。"
+	},
+	{
+		"id": "quasirandom_ad",
+		"word": "Quasirandom",
+		"meaning": "完全な偶然を装いながらも、空間を均一に埋め尽くすように設計された、理性の高い低差異系列。",
+		"etymology": [
+			"quasi-（擬似的な、あたかも〜のような）と random（無作為）の結合。不規則性の仮面を被った計算された秩序。 "
+		],
+		"concept": "自由奔放さを演じながら、その実、一分の隙も作らず空間を支配する、計算された統治の『貌』。",
+		"thinking": "真のランダム（白雑音）は、偏りという不細工な塊を生む。準乱数は、その偏りさえも排除し、均整の取れた混沌を演じる。美しき嘘こそが、真実のサンプリングを支えるのだ。",
+		"part_of_speech": "Adjective",
+		"era": "Academic",
+		"aftertaste": "偏頗の深淵を、均一の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ハルトン列やソボル列に見られる擬似乱数の美学は、モンテカルロ法を加速させ、数値積分という深淵の底を最も効率的に照らし出す。無秩序への絶え間ない反逆。"
+			]
+		},
+		"example": "『準乱数的』に振られた点は、一見して無造作に見えながらも、驚くべき冷徹さで空間の空白を埋め尽くしていた。"
+	},
+	{
+		"id": "quaternion_ad",
+		"word": "Quaternion",
+		"meaning": "実数と三つの虚数単位からなる四元数であり、三次元の回転を gimbal lock 無しに滑らかに記述する数学体。",
+		"etymology": [
+			"ラテン語の quaternio（四つ組）に由来。ハミルトンによって橋の上で刻まれた超越的発見。 "
+		],
+		"concept": "三次元の限界を、四次元の視座から超越する、複素的な回転の『貌』。",
+		"thinking": "我々を拘束する座標系の歪みを回避するためには、世界を一次元高い高みから俯瞰しなければならない。クォータニオンは、回転という名の舞踏を、情報の欠損なく受け止める器である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "拘束の深淵を、超越（複素）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"q = w + xi + yj + zk。この四つの成分は、互いに共鳴しながら三次元の方向を見失わず、球面上の最短距離（SLERP）を滑走する。計算計幾何における、最も優雅な方向の司り。 "
+			]
+		},
+		"example": "宇宙船の姿勢制御は、冷たい数表の上で踊る『クォータニオン』の旋律によって、微塵の狂いもなく維持されている。"
+	},
+	{
+		"id": "scanline_ad",
+		"word": "Scanline",
+		"meaning": "画面を一行ずつ走査し、奥行きを計算しながら二次元の像を結んでゆく、時間と空間の交差点。",
+		"etymology": [
+			"scan（走査）と line（線）の結合。面を線へと分解し、時系列へと変換するプロセス。 "
+		],
+		"concept": "全体を一望することを禁じられ、細切れの線から世界を再構成し続ける、忍耐の『貌』。",
+		"thinking": "我々は現実を常に一瞬で把握していると思い込んでいる。しかし、知覚の走査線は常に一歩ずつ進み、記憶の残像がそれを面として繋ぎ合わせているに過ぎない。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "断片の深淵を、走査の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"スキャンライン・アルゴリズム。それは三角形を水平線で切り刻み、zバッファの奥底に死を、手前に生を割り当てる冷酷な仕分け作業の連続体。レンダリングという名の創造の、最も原始的な鼓動。"
+			]
+		},
+		"example": "『スキャンライン』が下りてくるその刹那まで、モニターの裏側にある三次元の深淵は、ただの数値の集合に過ぎなかった。"
+	},
+	{
+		"id": "antipodal_ad",
+		"word": "Antipodal",
+		"meaning": "球面上において、中心を挟んで完全に対極に位置し、決して交わることのない二点。",
+		"etymology": [
+			"ギリシャ語の anti（反対の）と pous（足）に由来。文字通り、足と足を向け合って立つ他者の関係。"
+		],
+		"concept": "最も遠い場所にありながら、同一の球体に繋ぎ止められた、鏡合わせの『貌』。",
+		"thinking": "私はあなたを知ることはできない。なぜなら、私たちが完全に一致するためには、宇宙の重力を裏返すほどの跳躍が必要だからだ。最も遠き隣人という名の悲劇。",
+		"part_of_speech": "Adjective",
+		"era": "Academic",
+		"aftertaste": "隔絶の深淵を、対極の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ボルスク＝ウラムの定理によれば、地球上のどこかに、気温と気圧が完全に一致する対蹠点が存在する。最も離れた二つの場所が、見えない数式で結ばれているという、理性の奇跡。"
+			]
+		},
+		"example": "私はこの静寂の中、地球の裏側の『対蹠的』な場所で同じように空を見上げる誰かの存在を、幾何学的な必然として確信する。"
+	},
+	{
+		"id": "centroidal_ad",
+		"word": "Centroidal",
+		"meaning": "不規則な領域を、その重心を基準として最も安定した区画へと再編する、平衡の特性。",
+		"etymology": [
+			"centroid（幾何学的重心）に由来。質量の偏りを排し、平均化された安定状態へと回帰すること。 "
+		],
+		"concept": "偏りを殺し、中庸の中に安息を見出す、静謐な『貌』。",
+		"thinking": "動乱の果てに到達すべきは、どこにも傾かぬ中心点である。セントロイダル（重心的な）秩序は、荒れ狂う初期値を、数学的な必然性という名の慈愛で鎮撫する。",
+		"part_of_speech": "Adjective",
+		"era": "Academic",
+		"aftertaste": "動揺の深淵を、平衡の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"セントロイダル・ボロノイ分割（LLoyd法）は、点を幾何学的重心へと反復的に動かし、蜂の巣のような完璧な秩序を抽出する。それは過剰な自由を抑制し、全体としての調和へ導く冷徹な政治学のようでもある。"
+			]
+		},
+		"example": "無秩序に投げ出された細胞たちは、『セントロイダル』な収束を繰り返し、やがて神の指紋のような均整な網目へと姿を変えた。"
+	},
+	{
+		"id": "circumcenter_ad",
+		"word": "Circumcenter",
+		"meaning": "すべての頂点から等距離にある、外接円の中心。三角形の辺の垂直二等分線が一点に会する奇跡の座標。",
+		"etymology": [
+			"circum（周囲）と center（中心）に由来。外の世界の調和を司る要。 "
+		],
+		"concept": "自己を捨て、等しき配慮の果てに導き出された、公平の『貌』。",
+		"thinking": "中心は常に内部にあるとは限らない。鈍角三角形のように、中心（外心）が自己の肉体を離れ、外界に放逐されることもある。それでもなお、それは自分を規定する唯一の核であり続けるというパラドックス。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "偏愛の深淵を、平等の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"外心はデローニ分割の双対であるボロノイ図の頂点を成す。外の世界の中心が、内の世界の境界を規定する。この双対性こそが、幾何学的宇宙の構築原理である。"
+			]
+		},
+		"example": "我々の三角形は、あまりにも尖りすぎていたために、その『外心』を自分たちの外側にしか見出すことができなかった。"
+	},
+	{
+		"id": "dialectics_ad",
+		"word": "Dialectics",
+		"meaning": "矛盾する二つの概念が衝突し、その闘争を通じてより高次の真理へと昇華される動的なプロセス。",
+		"etymology": [
+			"ギリシャ語の dialektike（対話の術）に由来。正・反・合の螺旋階段を登る思索の様。 "
+		],
+		"concept": "自己否定の痛みを経て、脱皮するように現れる生成の『貌』。",
+		"thinking": "「はい」と「いいえ」が同時に正しい瞬間。その崩壊の縁で、精神は古い器を割り、今まで見たこともない新しい地平へと飛躍する。衝突は破壊ではなく、誕生の産声である。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "対立の深淵を、止揚（揚棄）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ヘーゲルからマルクスへ、弁証法は静止した真理を否定し、歴史という名の奔流を定義した。矛盾こそが世界を動かすガソリンであり、我々は絶え間なき不均衡の中にのみ、生の実感を得る。"
+			]
+		},
+		"example": "絶望と希望の峻烈な『弁証法』の末に、私はようやく、自分自身という名の第三の答えに辿り着いた。"
+	},
+	{
+		"id": "heterology_ad",
+		"word": "Heterology",
+		"meaning": "同質的な知の体系から排除された『他なるもの』、すなわち残滓や排泄物、神聖な汚れに関する学問。",
+		"etymology": [
+			"ギリシャ語の heteros（他なる）と logos（言葉、理性）に由来。ジョルジュ・バタイユによって提唱された「異質なものの科学」。"
+		],
+		"concept": "理性の光が届かぬ、湿った闇に佇む『貌』。",
+		"thinking": "清潔な整理整頓こそが世界の敵だ。掃き溜めや墓場、狂気の中にこそ、人間という存在の余剰が、汚辱にまみれた真実として息づいている。排除されたものにこそ、魂を捧げよ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "清潔の深淵を、異質の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ホモジニアス（同質的）な社会が美を構築する一方で、ヘテロジーは破壊と祝祭、あるいは蕩尽の美学を提示する。有用性の論理から逸脱した瞬間にのみ、人間は真の自由を獲得する。"
+			]
+		},
+		"example": "その芸術は、社会が隠蔽し続けてきた『ヘテロジー』を白日の下に晒し、観る者の安直な理性を蹂躙した。"
+	},
+	{
+		"id": "hauntology_ad",
+		"word": "Hauntology",
+		"meaning": "現前しない過去の亡霊が、現在の我々の可能性を規定し、つきまとっているという不気味な存在論。",
+		"etymology": [
+			"Derrida による造語。haunt（幽霊が出る）と ontology（存在論）の混成。フランス語の hantologie は存在論（ontologie）と同音である。 "
+		],
+		"concept": "失われた未来が、ノスタルジーという霧となって立ち込める喪失の『貌』。",
+		"thinking": "「かつてあったもの」でも「今あるもの」でもない、その間の隙間に潜む気配。我々は亡霊に見つめられながら、もはや来ることのない約束された未来を待ち続けている。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "現前の深淵を、追憶（亡霊）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"マーク・フィッシャーはこの概念を音楽や文化批評へ拡張し、資本主義リアリズムの中で枯渇していく想像力を「亡霊的」であると断じた。既に死んだ理想が、我々の首を絞め続けている。"
+			]
+		},
+		"example": "古いアナログレコードのノイズの中に、私はかつて夢見た『ハントロロジー』的未来の残響を聴いた。"
+	},
+	{
+		"id": "hyperreality_ad",
+		"word": "Hyperreality",
+		"meaning": "記号や情報のシミュレーションが、指示対象である現実を凌駕し、ついには現実を消滅させる転倒した事態。",
+		"etymology": [
+			"hyper-（過剰な、超えた）と reality（現実）の結合。ジャン・ボードリヤールによって定義された現代の風景。"
+		],
+		"concept": "本物よりも本物らしい嘘に満たされた、空虚な鏡の『貌』。",
+		"thinking": "砂漠に引かれた一本の線が地図なのではなく、地図という名の線が砂漠を作り出す。我々は、現実という名のオリジナルをとうの昔に紛失し、コピーの輝きの中で溺れている。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "真実の深淵を、記号の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ディズニーランドは、周囲の都市（LA）が虚構であることを隠すための装置であるというボードリヤールの指摘。世界全体がすでに『ハイパーリアル』なシミュラークルの中に墜落しているのだ。"
+			]
+		},
+		"example": "画面の中の笑顔が、目の前の親愛を追い越したとき、私たちは『ハイパーリアリティ』という名の冷たい水槽の中にいた。"
+	},
+	{
+		"id": "multitude_ad",
+		"word": "Multitude",
+		"meaning": "単一の意志に統制された『人民』ではなく、個々の差異を保ったまま共鳴し、横断的に連結する『諸多』の力。",
+		"etymology": [
+			"ラテン語の multitudo（多数）に由来。ネグリとハートによって再定義された、帝国に対抗する特異性の集合。 "
+		],
+		"concept": "指揮者なきオーケストラのように、数多の貌が同時に歌い出す多種多様な『貌』。",
+		"thinking": "私を私たちという一括りにしないでくれ。私は私のままで、あなたと手を取りたい。バラバラであることが、この不条理な世界に対する唯一の連帯の形なのだ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "統合の深淵を、多様の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ムルティチュードは、主権という境界線を内側から食い破る、生政治的なエネルギーの噴出である。それは定型を持たず、ただ接続し続けることで、既存の統治を無効化する。"
+			]
+		},
+		"example": "街頭を埋め尽くした『ムルティチュード』は、個々の叫びを旋律に変え、権力の壁を静かに震わせた。"
+	},
+	{
+		"id": "parrhesia_ad",
+		"word": "Parrhesia",
+		"meaning": "自らの社会的地位や生命を危険に晒してでも、他者（権力者）に対して行う、剥き出しで誠実な真実の語り。",
+		"etymology": [
+			"ギリシャ語の pan（すべて）と rhema（語り）に由来。フーコーが後期研究で重視した「真実を語る勇気」。"
+		],
+		"concept": "修辞という厚化粧を剥がし、自らの血をインクとして記す、覚悟の『貌』。",
+		"thinking": "沈黙すれば安全だった。だが、言葉を飲み込めば魂が腐る。だから私は語る。誰にも望まれず、ましてや自分を破滅に導くかもしれない、この一本のトゲのような真実を。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "保身の深淵を、真実（勇気）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"パレーシア（真理表白）には話し手と聞き手の間の非対称な力関係が不可避である。それは単なる情報の伝達ではなく、自己を真理の証人として差し出す実存的な行為なのだ。"
+			]
+		},
+		"example": "独裁者の前で発せられた、たった一言の『パレーシア』は、千の剣よりも重く、その広間に響き渡った。"
+	},
+	{
+		"id": "intertextuality_ad",
+		"word": "Intertextuality",
+		"meaning": "あらゆるテクストは、常に他のテクストの引用、模倣、あるいは反応の織物（モザイク）であるという視点。",
+		"etymology": [
+			"inter-（間の）と text（織物、本文）に由来。ジュリア・クリステヴァによって提唱された。 "
+		],
+		"concept": "誰の所有物でもない、果てしなく引用され続ける言葉たちの連鎖としての『貌』。",
+		"thinking": "私の言葉は、どこかの誰かの盗作かもしれない。だが、宇宙そのものが一つの巨大な図書館であるならば、オリジナリティを強弁することほど滑稽なことはない。借り物の言葉で、新しい夢を見よう。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "独創の深淵を、織物の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"作者の死後、テクストは読者という接点において、無限の相互参照を始める。文学とは一冊の完成された本ではなく、書き換えられ続けるパリンプセスト（重ね書き）の謂いである。"
+			]
+		},
+		"example": "その小説は、古今東西の神話を『インターテクスチュアリティ』の網目で繋ぎ、一つの巨大な迷宮と化していた。"
+	},
+	{
+		"id": "analepsis_ad",
+		"word": "Analepsis",
+		"meaning": "物語の進行を一時的に中断し、過去の出来事へと遡る叙述技法（回想・フラッシュバック）。",
+		"etymology": [
+			"ギリシャ語の ana（遡る）と lambanein（取る）に由来。失われた時を現在へと回収する行為。 "
+		],
+		"concept": "前進を拒み、傷跡をなぞるように記憶の奥底へと沈み込む、静止した『貌』。",
+		"thinking": "未来への渇望を一時的に停止させ、あの日、あの場所で置き去りにした自分を見つけに行く。過去は変えられないが、過去をどう語るかは、今この瞬間の私の自由だ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "現在（いま）の深淵を、記憶の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"物語論において、アナルプシス（遡及提示）は時間の線形性を解体する。原因の後に結果があるのではない。物語という空間において、時間は常に同時的に存在しうるのだ。"
+			]
+		},
+		"example": "突然の『アナルプシス』によって暴かれた十年前の真実は、平和な日常を一瞬にして崩落させた。"
+	},
+	{
+		"id": "apophasis_ad",
+		"word": "Apophasis",
+		"meaning": "「〜ではない」という否定の連鎖によって、肯定的な言語表現を拒む対象（神や究極の美）の存在を暗示する修辞。",
+		"etymology": [
+			"ギリシャ語の apo（離れて）と phanai（語る）に由来。否定神学における核心的手法。 "
+		],
+		"concept": "沈黙を際立たせるために、敢えて言葉を消しゴムとして使う逆算的『貌』。",
+		"thinking": "定義することは、限定することだ。神を『愛』だと言った瞬間に、それは誰かの愛憎の範疇に閉じ込められる。だから私は言う。それは光ではなく、闇ではなく、無ではなく、有ではない「何か」であると。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "表現の深淵を、否定の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"アポファシス（否定的言及）は、知性の限界を告白する謙虚さから生まれる。名指しえぬものを名指さないこと。その極限の倫理が、芸術の崇高さを支えている。"
+			]
+		},
+		"example": "その詩は、対象の美しさを一言も語らず、ただそれが『いかに醜くないか』を連ねる『アポファシス』の深淵を歩んでいた。"
+	},
+	{
+		"id": "conatus_ad",
+		"word": "Conatus",
+		"meaning": "あらゆるものが、自らの存在を維持し、より力強く拡大しようとする根源的な努力・傾向。",
+		"etymology": [
+			"ラテン語の conari（努力する、試みる）に由来。スピノザ哲学における「存在への意志」。 "
+		],
+		"concept": "誰に命じられることもなく、ただ一瞬でも長く咲き誇ろうとする生の本能的な『貌』。",
+		"thinking": "石は石であり続けようとし、私は私であり続けようとする。その執着こそが、宇宙を貫く唯一の正義であり、悲劇の源泉でもある。存在することへの絶望的なまでの懸命さ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "虚無の深淵を、固執（いのち）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"個々のコナトゥスは、他者のコナトゥスと衝突し、時には助け合う。この衝突と共鳴の織りなす力学的配置が、我々の感情や社会の正体である。生とは、存在し続けるための果てしない『試行』である。"
+			]
+		},
+		"example": "踏みつけられた雑草の、コンクリートを割り進むその一筋の亀裂に、私は剥き出しの『コナトゥス』を見た。"
+	},
+	{
+		"id": "differance_ad",
+		"word": "Differance",
+		"meaning": "意味は「差異」によって生じ、かつ常に最終的な決定が「延期」され続けるという、言語の不安定なダイナミズム。",
+		"etymology": [
+			"Derrida による造語。フランス語の differer（異なる、延期する）を現在分詞化する際のスペルミス（a）を意図的に導入。 "
+		],
+		"concept": "決して捕まえることのできない、逃げゆく意味の尻尾を追い続ける焦燥の『貌』。",
+		"thinking": "「りんご」は「なし」ではないから「りんご」なのだ。意味は他者との比較でしか成立せず、しかもその定義は辞書の次のページへと永遠にたらい回しにされる。真実という名の目的地は、最初から存在しない。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "確定の深淵を、遅延（ズレ）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"差延（ディフェランス）は、可視的な差異（difference）と不可視の遅延（deferral）を内包する。言葉が発せられた瞬間、意味はその場から失踪し、痕跡だけが我々の手に残される。"
+			]
+		},
+		"example": "対話は終わらない。なぜなら、言葉と意味の間には常に克服不能な『ディフェランス』が横たわっているからだ。"
+	},
+	{
+		"id": "dividual_ad",
+		"word": "Dividual",
+		"meaning": "不可分割な『個人（Individual）』ではなく、場所や状況に応じて分解され、再構成される『分人』としての存在。",
+		"etymology": [
+			"di-（分離した）と individual（個人）の反対的概念。ドゥルーズによって提唱された。 "
+		],
+		"concept": "環境に応じて色を変え、自己すらも部品として差し出す、多目的インターフェースとしての『貌』。",
+		"thinking": "一つの本当の自分など存在しない。私はいくつもの顔を持ち、その断片が各所で異なる役割を演じているに過ぎない。自分を一つに束ねようとする強迫観念から、今こそ逃走せよ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "統一の深淵を、分裂（パーツ）の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"管理社会において、個人は数値化されたデータへと『分人化』される。銀行口座、SNSのアカウント、医療記録。我々はそれら情報の集合体としての『ディヴィジュアル』へと還元されていくのである。"
+			]
+		},
+		"example": "彼は社内での自分と家庭での自分を『ディヴィジュアル』に使い分け、そのどちらにも属さぬ空虚を楽しんでいた。"
+	},
+	{
+		"id": "facticity_ad",
+		"word": "Facticity",
+		"meaning": "自らの意志とは無関係に、特定の時代、境遇、属性の中に投げ込まれているという、避けることのできない『事実性』。",
+		"etymology": [
+			"ドイツ語の Faktizitat。ハイデッガー、サルトルら実存主義者が重視した「被投性」。"
+		],
+		"concept": "選ぶ幸運も、拒む権利も与えられぬまま背負わされた、宿命の『貌』。",
+		"thinking": "私はなぜ、この国で、この親のもとに、この肉体を持って生まれたのか。その問いに答えはない。ただ、この冷たい事実という重力（ファクティシティ）を引き受けて歩むことだけが、自由への第一歩である。 ",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "自由の深淵を、境遇の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"事実性は、状況という名の牢獄であると同時に、実存を跳躍させるための足場でもある。与えられたカード（事実性）で、いかに勝負するか。そこにのみ人間的な価値が宿る。"
+			]
+		},
+		"example": "己の弱さという『事実性』を直視したとき、初めて彼は、虚栄という名の長い眠りから覚醒した。"
+	},
+	{
+		"id": "gestell_ad",
+		"word": "Gestell",
+		"meaning": "技術が自然や人間を単なる『資源（用具的ストック）』として駆り立て、支配する枠組み（総置）。",
+		"etymology": [
+			"ドイツ語の stellen（置く、立てる）を強調したハイデッガーの造語。 "
+		],
+		"concept": "世界を効率という名の規格で覆い隠し、すべてを部品として処理する冷徹なシステムの『貌』。",
+		"thinking": "山は資源となり、川は電力となり、人は数字となる。ゲシュテル（総置）というフィルターを通したとき、宇宙の神秘は剥ぎ取られ、ただ利用可能なモノだけがそこに残る。我々はシステムの一部として、自らを消費し続けている。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "神秘の深淵を、定型の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"技術の真髄は技術的な道具にあるのではなく、世界をどう捉えるかというこの『ゲシュテル』という挑発にある。救いがあるとするなら、この窮屈な枠組みの端々に、まだ光が漏れていることを認識することだ。"
+			]
+		},
+		"example": "効率化の波は『ゲシュテル』となって街を飲み込み、かつての無駄な、しかし愛おしい風景を根こそぎ奪い去った。"
+	},
+	{
+		"id": "jouissance_ad",
+		"word": "Jouissance",
+		"meaning": "苦痛を伴い、禁止を侵犯することでしか得られない、過剰で破滅的な享楽。",
+		"etymology": [
+			"フランス語の jouir（楽しむ、オーガズムに達する）に由来。ラカン精神分析における中枢的概念。 "
+		],
+		"concept": "充足ではなく喪失の極北で、魂が叫びをあげる血塗られた『貌』。",
+		"thinking": "幸せなどは求めていない。私が求めているのは、自分を自分から解放し、粉々にするような暴力的で甘美な痛みだ。法を越えた瞬間に、私たちは一瞬だけ、本当の意味で『生きて』いる。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "充足の深淵を、侵犯の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"ジュイサンスは単なる快感（pleasure）とは異なる。快感は恒常性を求めるが、ジュイサンスはそれを破壊し、主体の器を氾濫させる。それは死への欲動と隣り合わせに咲く、狂気の華である。"
+			]
+		},
+		"example": "その破滅的な恋を、周囲は愚かさと呼んだが、当の本人たちだけは燃え上がる『ジュイサンス』の淵で震えていた。"
+	},
+	{
+		"id": "ontotheology_ad",
+		"word": "Ontotheology",
+		"meaning": "存在を最高存在（神）を頂点とする体系的な秩序として構築しようとする、形而上学の伝統的なあり方。",
+		"etymology": [
+			"onto-（存在）と theology（神学）の結合。ハイデッガーが伝統哲学の欠陥を批判する際に用いた語。 "
+		],
+		"concept": "理屈と信仰を無理やり溶接した、巨大で傲慢な正解の『貌』。",
+		"thinking": "我々は、頭上に誰か（あるいは何か）がいて世界を見守っているという物語から卒業できない。存在することの理由を、結局は宗教的なパターリズムに帰着させてしまう、知性の弱さ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "無根拠の深淵を、体系の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"存在神学は、存在の現れそのものを問うのではなく、存在を『説明』してしまう。その欺瞞を暴くことが、現代思想が託された重き十字架であると言っても過言ではない。"
+			]
+		},
+		"example": "『存在神学』の呪縛から逃れたとき、宇宙は初めて一冊の物語ではなく、ただ意味もなくそこに在る畏怖として現れた。"
+	},
+	{
+		"id": "lividity_add3",
+		"word": "Lividity",
+		"meaning": "死斑",
+		"etymology": [
+			"ギリシャ語由来の Latin lividus（青黒い）から。"
+		],
+		"concept": "Lividityという貌の深淵。",
+		"thinking": "重力に従い血液が沈殿し、肉に刻まれる静かなる死の貌（しるし）。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Lividity』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "putrefaction_add3",
+		"word": "Putrefaction",
+		"meaning": "腐敗",
+		"etymology": [
+			"Latin putrefacere（腐らせる）。"
+		],
+		"concept": "Putrefactionという貌の深淵。",
+		"thinking": "有機の秩序が無機の混沌へと還る、生命崩壊の残酷な祝祭。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Putrefaction』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "adipocere_add3",
+		"word": "Adipocere",
+		"meaning": "屍蝋",
+		"etymology": [
+			"Latin adeps（脂）+ cera（蝋）。"
+		],
+		"concept": "Adipocereという貌の深淵。",
+		"thinking": "湿潤な闇にて肉が蝋へと変貌し、崩壊を拒絶する白き静止の貌。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Adipocere』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "odontology_add3",
+		"word": "Odontology",
+		"meaning": "法歯科解読",
+		"etymology": [
+			"Greek odous（歯）+ logia。"
+		],
+		"concept": "Odontologyという貌の深淵。",
+		"thinking": "最も堅牢な組織である歯に刻まれた、個人の最後の署名を読み解く考古学。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Odontology』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "dactyloscopy_add3",
+		"word": "Dactyloscopy",
+		"meaning": "指紋鑑定",
+		"etymology": [
+			"Greek daktylos（指）+ skopein（見る）。"
+		],
+		"concept": "Dactyloscopyという貌の深淵。",
+		"thinking": "指先に刻まれた唯一無二の螺旋から、存在の匿名性を剥ぎ取る理性の目。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Dactyloscopy』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "anthropometria_add3",
+		"word": "Anthropometria",
+		"meaning": "生体計測",
+		"etymology": [
+			"Greek anthropos（人間）+ metron（計測）。"
+		],
+		"concept": "Anthropometriaという貌の深淵。",
+		"thinking": "肉体の比率と寸法から、失われた自己の貌を再構築する幾何学的アプローチ。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Anthropometria』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "thanatosis_add3",
+		"word": "Thanatosis",
+		"meaning": "死への擬態",
+		"etymology": [
+			"Greek thanatos（死）+ -osis。"
+		],
+		"concept": "Thanatosisという貌の深淵。",
+		"thinking": "捕食者の眼差しを欺くため、生を捨て、死という名の静寂に没入する防衛的貌。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Thanatosis』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "necroentomology_add3",
+		"word": "Necroentomology",
+		"meaning": "死体昆虫学",
+		"etymology": [
+			"Greek nekros（死体）+ entomon（昆虫）。"
+		],
+		"concept": "Necroentomologyという貌の深淵。",
+		"thinking": "死を糧とする羽虫たちの生態から、時の沈黙を暴き、殺戮の刻（とき）を特定する。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Necroentomology』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "toxicokinetics_add3",
+		"word": "Toxicokinetics",
+		"meaning": "毒物動態",
+		"etymology": [
+			"Greek toxikon（毒）+ kinetikos（動き）。"
+		],
+		"concept": "Toxicokineticsという貌の深淵。",
+		"thinking": "体内を巡る毒素が、いかに血肉を侵し、存在を崩壊へと導くかという不可逆の軌跡。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Toxicokinetics』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "exhumation_add3",
+		"word": "Exhumation",
+		"meaning": "墳墓発掘",
+		"etymology": [
+			"Latin ex（外へ）+ humus（地）。"
+		],
+		"concept": "Exhumationという貌の深淵。",
+		"thinking": "地の底に葬られた沈黙を揺り起こし、冷徹な理性の光の下へさらけ出す行為。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Exhumation』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "traumatology_add3",
+		"word": "Traumatology",
+		"meaning": "外傷解析",
+		"etymology": [
+			"Greek trauma（傷）+ logia。"
+		],
+		"concept": "Traumatologyという貌の深淵。",
+		"thinking": "肉体に穿たれた傷跡という名の言語を翻訳し、暴力の残響を解読する学問。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Traumatology』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "laceration_add3",
+		"word": "Laceration",
+		"meaning": "裂傷",
+		"etymology": [
+			"Latin lacerare（引き裂く）。"
+		],
+		"concept": "Lacerationという貌の深淵。",
+		"thinking": "強大な圧力によって肉が引き裂かれ、存在の連続性が断絶された生々しき貌。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Laceration』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "hematologia_add3",
+		"word": "Hematologia",
+		"meaning": "血痕解析",
+		"etymology": [
+			"Greek haima（血）+ logia。"
+		],
+		"concept": "Hematologiaという貌の深淵。",
+		"thinking": "飛散した朱（あか）の軌跡から、生命が果てた最後の一秒を復元する赤き記述学。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Hematologia』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "palynology_add3",
+		"word": "Palynology",
+		"meaning": "花粉証言",
+		"etymology": [
+			"Greek palynein（撒き散らす）。"
+		],
+		"concept": "Palynologyという貌の深淵。",
+		"thinking": "目に見えぬ微小な種子に封印された、犯行現場という名の記憶の断片。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Palynology』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "trichology_add3",
+		"word": "Trichology",
+		"meaning": "毛髪鑑定",
+		"etymology": [
+			"Greek thrix（毛髪）+ logia。"
+		],
+		"concept": "Trichologyという貌の深淵。",
+		"thinking": "一本の細い線に刻まれた、食性、病、そして死の予兆を読み解くミクロの紋章。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Trichology』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "cheiloscopy_add3",
+		"word": "Cheiloscopy",
+		"meaning": "唇紋、唇の貌",
+		"etymology": [
+			"Greek cheilos（唇）+ skopein。"
+		],
+		"concept": "Cheiloscopyという貌の深淵。",
+		"thinking": "誰とも交わらぬ唇の襞（ひだ）の文様から、隠された真実を口にするための法医学。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Cheiloscopy』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "somatometria_add3",
+		"word": "Somatometria",
+		"meaning": "身体寸法学",
+		"etymology": [
+			"Greek soma（体）+ metron。"
+		],
+		"concept": "Somatometriaという貌の深淵。",
+		"thinking": "実存としての肉体を、数値と座標へと還元し、個を特定するための冷徹な計り。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Somatometria』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "algormortis_add3",
+		"word": "Algormortis",
+		"meaning": "死冷、死の冷徹",
+		"etymology": [
+			"Latin algor（冷たさ）+ mors（死）。"
+		],
+		"concept": "Algormortisという貌の深淵。",
+		"thinking": "生命という熱源を失い、周囲の冷徹さに同化してゆく、肉の外気温への帰順。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Algormortis』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "postmortem_add3",
+		"word": "Postmortem",
+		"meaning": "死後の審問",
+		"etymology": [
+			"Latin post（後の）+ mortem（死）。"
+		],
+		"concept": "Postmortemという貌の深淵。",
+		"thinking": "生の舞台が幕を閉じた後、物言わぬ肉体が行う最後の真相告知。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Postmortem』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "exsanguinatio_add3",
+		"word": "Exsanguinatio",
+		"meaning": "失血死（貌）",
+		"etymology": [
+			"Latin ex-（奪う）+ sanguis（血）。"
+		],
+		"concept": "Exsanguinatioという貌の深淵。",
+		"thinking": "生命を運ぶ赤き奔流が枯渇し、抜け殻となった肉体が放つ白磁の如き静寂。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "死後の深淵を、解剖の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Exsanguinatio』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "theodicy_add3",
+		"word": "Theodicy",
+		"meaning": "神義論",
+		"etymology": [
+			"Greek theos（神）+ dike（正義）。"
+		],
+		"concept": "Theodicyという貌の深淵。",
+		"thinking": "この不条理で悪に満ちた世界において、なお神が「正義」であるための苦悶に満ちた弁明。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Theodicy』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "hamartialogy_add3",
+		"word": "Hamartialogy",
+		"meaning": "罪論（貌）",
+		"etymology": [
+			"Greek hamartia（罪、的を外すこと）+ logia。"
+		],
+		"concept": "Hamartialogyという貌の深淵。",
+		"thinking": "的を外した（Hamartia）存在が抱える根源的な不完全性と、その欠落の叙述。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Hamartialogy』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "ecclesiology_add3",
+		"word": "Ecclesiology",
+		"meaning": "召喚集会論",
+		"etymology": [
+			"Greek ekklesia（召集、教会）+ logia。"
+		],
+		"concept": "Ecclesiologyという貌の深淵。",
+		"thinking": "個々の孤独な貌が、一つの「召集（Ekklesia）」へと統合される必然性と構造の思索。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Ecclesiology』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "epiclesis_add3",
+		"word": "Epiclesis",
+		"meaning": "召喚祈祷",
+		"etymology": [
+			"Greek epi-（上に）+ kalein（呼ぶ）。"
+		],
+		"concept": "Epiclesisという貌の深淵。",
+		"thinking": "天上の意思を地上へと、祈りという言葉の刃で呼び求める、純粋なる召喚行為。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Epiclesis』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "supralapsarianism_add3",
+		"word": "Supralapsarianism",
+		"meaning": "堕落前予定",
+		"etymology": [
+			"Latin supra（上の）+ lapsus（堕落）。"
+		],
+		"concept": "Supralapsarianismという貌の深淵。",
+		"thinking": "世界が始まる前、堕落すらも織り込み済みで語られた、峻厳にして過酷な運命の糸。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Supralapsarianism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "infralapsarianism_add3",
+		"word": "Infralapsarianism",
+		"meaning": "堕落後予定",
+		"etymology": [
+			"Latin infra（下の）+ lapsus。"
+		],
+		"concept": "Infralapsarianismという貌の深淵。",
+		"thinking": "堕落という名の崩壊の淵に立つ人類に対し、後から差し伸べられた救済の選択の貌。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Infralapsarianism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "kenoticism_add3",
+		"word": "Kenoticism",
+		"meaning": "虚無化、自己空却",
+		"etymology": [
+			"Greek kenosis（空にすること）。"
+		],
+		"concept": "Kenoticismという貌の深淵。",
+		"thinking": "神性を脱ぎ捨て、空（から）の器となることで、他者の痛みに同化しようとする愛の極致。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Kenoticism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "neothomism_add3",
+		"word": "NeoThomism",
+		"meaning": "新トマス再興",
+		"etymology": [
+			"Neo- + Thomas (Aquinas)。"
+		],
+		"concept": "NeoThomismという貌の深淵。",
+		"thinking": "中世の理性を現代の刃で研ぎ直し、信仰と科学を再び溶接しようとする知の回帰。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『NeoThomism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "patristics_add3",
+		"word": "Patristics",
+		"meaning": "教父的思索",
+		"etymology": [
+			"Latin pater（父）。"
+		],
+		"concept": "Patristicsという貌の深淵。",
+		"thinking": "原初の信仰が、哲学という名の衣服をまとい、教義としての貌を整えてゆく苦闘の歴史。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Patristics』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "synergism_add3",
+		"word": "Synergism",
+		"meaning": "協働、意思の融和",
+		"etymology": [
+			"Greek syn（共に）+ ergon（働く）。"
+		],
+		"concept": "Synergismという貌の深淵。",
+		"thinking": "神の慈悲と人間の自由意志が、交点（貌）において共鳴し、救いを共創するという美学。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Synergism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "monergism_add3",
+		"word": "Monergism",
+		"meaning": "独力、峻厳な意思",
+		"etymology": [
+			"Greek monos（唯一）+ ergon。"
+		],
+		"concept": "Monergismという貌の深淵。",
+		"thinking": "人知を超えた唯一の意思が、すべてを決定し、抗えぬ力で世界を導くという冷徹な断定。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Monergism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "theosis_add3",
+		"word": "Theosis",
+		"meaning": "神化、存在の昇華",
+		"etymology": [
+			"Greek theos（神）+ -osis。"
+		],
+		"concept": "Theosisという貌の深淵。",
+		"thinking": "塵に等しい肉体が、長い思索と祈りの果てに、神的な光（貌）へと変容してゆく過程。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Theosis』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "apophaticism_add3",
+		"word": "Apophaticism",
+		"meaning": "否定的貌",
+		"etymology": [
+			"Greek apophasis（否定）。"
+		],
+		"concept": "Apophaticismという貌の深淵。",
+		"thinking": "「〜ではない」という否定の連鎖によって、言い得ぬ真理の輪郭を浮き彫りにする沈黙の修辞。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Apophaticism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "kataphaticism_add3",
+		"word": "Kataphaticism",
+		"meaning": "肯定的貌",
+		"etymology": [
+			"Greek kataphasis（肯定）。"
+		],
+		"concept": "Kataphaticismという貌の深淵。",
+		"thinking": "燦然と輝く属性を連ねることで、神的なるものの豊穣さを称えようとする、言葉の祝祭。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "存在の深淵を、祈祷の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Kataphaticism』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "certiorari_add3",
+		"word": "Certiorari",
+		"meaning": "移送命令（貌）",
+		"etymology": [
+			"Latin certiorari（知らされる）。"
+		],
+		"concept": "Certiorariという貌の深淵。",
+		"thinking": "下界の不備を糾すべく、高き視座（上級審）へと真実という名の証拠を吸い上げる知の引力。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Certiorari』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "mandamus_add3",
+		"word": "Mandamus",
+		"meaning": "執行命（貌）",
+		"etymology": [
+			"Latin mandamus（我々は命ずる）。"
+		],
+		"concept": "Mandamusという貌の深淵。",
+		"thinking": "停滞する不作為に対し、法という名の刃が一振りの命令（Mandamus）を下し、現実を駆動させる。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Mandamus』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "estoppel_add3",
+		"word": "Estoppel",
+		"meaning": "禁反言、自己拘束",
+		"etymology": [
+			"Old French estoupail（栓、塞ぐこと）。"
+		],
+		"concept": "Estoppelという貌の深淵。",
+		"thinking": "過去の言葉に呪縛され、現在の矛盾を許さぬという、整合性という名の法の檻。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Estoppel』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "laches_add3",
+		"word": "Laches",
+		"meaning": "不作為、無権利の貌",
+		"etymology": [
+			"Old French laschesse（怠慢）。"
+		],
+		"concept": "Lachesという貌の深淵。",
+		"thinking": "権利の上に眠り続ける者に、忘却という名の錆（さび）を浴びせ、司法の救済を拒む冷徹。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Laches』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "indemnity_add3",
+		"word": "Indemnity",
+		"meaning": "補填、均衡の回復",
+		"etymology": [
+			"Latin indemnis（損害を受けない）。"
+		],
+		"concept": "Indemnityという貌の深淵。",
+		"thinking": "損なわれた世界を等価の黄金で埋め、不均衡を擬似的に修復する、法の救済的錬金術。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Indemnity』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "proportionality_add3",
+		"word": "Proportionality",
+		"meaning": "比例の貌",
+		"etymology": [
+			"Latin proportio（比例）。"
+		],
+		"concept": "Proportionalityという貌の深淵。",
+		"thinking": "過ちと罰、手段と目的。その間に幾何学的な均衡を求める、理性の天秤の美学。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Proportionality』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "retroactivity_add3",
+		"word": "Retroactivity",
+		"meaning": "遡及の刃",
+		"etymology": [
+			"Latin retro-（後ろへ）+ activus（活動的な）。"
+		],
+		"concept": "Retroactivityという貌の深淵。",
+		"thinking": "既に過ぎ去った過去を、現在という地点からの新たな定義（法）で、遡って切り刻む暴力性。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Retroactivity』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "arbitramen_add3",
+		"word": "Arbitramen",
+		"meaning": "裁定の貌",
+		"etymology": [
+			"Latin arbitrium（裁定、審判）。"
+		],
+		"concept": "Arbitramenという貌の深淵。",
+		"thinking": "私的な衝突を、公正なる理性の重力（仲裁）によって鎮め、調和へと導くための天秤。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Arbitramen』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "extrajudicial_add3",
+		"word": "Extrajudicial",
+		"meaning": "裁判外の貌",
+		"etymology": [
+			"Extra- + judicial。"
+		],
+		"concept": "Extrajudicialという貌の深淵。",
+		"thinking": "法の宮殿の壁を越え、慣習や良心という名の別の刃で事象を裁こうとする、越境の思索。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Extrajudicial』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "notarization_add3",
+		"word": "Notarization",
+		"meaning": "公証、真実の刻印",
+		"etymology": [
+			"Latin notarius（公証人）。"
+		],
+		"concept": "Notarizationという貌の深淵。",
+		"thinking": "刹那の約束に公的な永劫性を与え、一時の言葉を岩に刻まれた法の如く不動のものとする。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Notarization』を、我々は冷徹に見つめる。"
+	},
+	{
+		"id": "substantive_add3",
+		"word": "Substantive",
+		"meaning": "実体、法の貌",
+		"etymology": [
+			"Latin substantia（実体）。"
+		],
+		"concept": "Substantiveという貌の深淵。",
+		"thinking": "手続きという外装の奥にある、権利と義務の剥き出しの核心。存在の本質を規定する掟。",
+		"part_of_speech": "Noun",
+		"era": "Academic",
+		"aftertaste": "社会の深淵を、公平の刃で。",
+		"deep_dive": {
+			"roots": [],
+			"points": [
+				"学術的極致への一歩。"
+			]
+		},
+		"example": "その概念の背後に潜む『Substantive』を、我々は冷徹に見つめる。"
 	}
+{
+  "id": "necros_acad",
+  "word": "Necropsy",
+  "meaning": "検死（けんし）、剖検（ぼうけん）",
+  "etymology": [
+    "Greek nekros (dead) + opsis (sight)"
+  ],
+  "concept": "Post-mortem examination",
+  "thinking": "「死（Nekros）」を「見る（Opsis）」こと。静止した肉体に刻まれた、最後の物語（貌）を読み解く。言葉を失った死者に代わり、その声なき告白を真実へと変える、沈黙の対話。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Necropsy illuminates the intricate structures of its field."
+},
+{
+  "id": "lividit_acad",
+  "word": "Lividity",
+  "meaning": "死斑（しはん）",
+  "etymology": [
+    "Latin lividus (bluish/envious)"
+  ],
+  "concept": "Bluish discolouration after death",
+  "thinking": "「青白き（Lividus）」沈着。重力に従い、行き場を失った血が肌に描く、生身の貌の終わり。それは時が止まった瞬間の物理的な写し、命が去った後の冷たい地図。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Lividity illuminates the intricate structures of its field."
+},
+{
+  "id": "adipoce_acad",
+  "word": "Adipocere",
+  "meaning": "屍蝋（しろう）",
+  "etymology": [
+    "Latin adeps (fat) + cera (wax)"
+  ],
+  "concept": "Fatty wax found in corpses",
+  "thinking": "「脂（Adeps）」と「蝋（Cera）」。腐敗を拒み、物質としての永遠を夢見た、歪な命の貌。水底の暗闇の中で、肉体はただ朽ちるのではなく、静かな彫像へと変貌（メタモルフォーゼ）する。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Adipocere illuminates the intricate structures of its field."
+},
+{
+  "id": "putrefa_acad",
+  "word": "Putrefaction",
+  "meaning": "腐敗（ふはい）",
+  "etymology": [
+    "Latin putris (rotten) + facere (to make)"
+  ],
+  "concept": "Decomposition of organic matter",
+  "thinking": "「朽ちゆく（Putris）」方向への「生成（Facere）」。形あるものが、その貌を崩し、再び大地へと還るまでの激しいプロセス。終わりとは、新しい循環のための最も峻烈な『解体』である。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Putrefaction illuminates the intricate structures of its field."
+},
+{
+  "id": "exhumat_acad",
+  "word": "Exhumation",
+  "meaning": "発掘（はっくつ）、死体発掘",
+  "etymology": [
+    "Latin ex- (out of) + humus (ground)"
+  ],
+  "concept": "Digging up a buried body",
+  "thinking": "「大地（Humus）」の「外へ（Ex-）」。一度は土に還し、忘却の淵に沈めたはずの貌を、再び日の下へと引き摺り出す。真実の刃が、眠りを妨げてでも暴き出そうとする、埋もれた正義。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Exhumation illuminates the intricate structures of its field."
+},
+{
+  "id": "asphyxi_acad",
+  "word": "Asphyxiation",
+  "meaning": "窒息（ちっそく）",
+  "etymology": [
+    "Greek a- (without) + sphyxis (pulse)"
+  ],
+  "concept": "State of being deprived of oxygen",
+  "thinking": "「脈動（Sphyxis）」が「失われた（A-）」、不機嫌な静止。酸素という名の悦楽を奪われ、世界が急速に色（貌）を失っていく恐怖。息を吐くことすら許されない、閉ざされた深淵。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Asphyxiation illuminates the intricate structures of its field."
+},
+{
+  "id": "algor_a_acad",
+  "word": "Algor",
+  "meaning": "死冷（しれい）",
+  "etymology": [
+    "Latin algor (coldness)"
+  ],
+  "concept": "Post-mortem cooling",
+  "thinking": "「冷たさ（Algor）」そのもの。かつて命の熱を帯びていた肉体が、周囲の静寂に同化していく、熱力学的な貌。感情も意志も、この絶対的な零度の中に凍りつき、ただの『物』へと還っていく。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Algor illuminates the intricate structures of its field."
+},
+{
+  "id": "contusi_acad",
+  "word": "Contusion",
+  "meaning": "打撲傷（だぼくしょう）、挫傷",
+  "etymology": [
+    "Latin contundere (to beat/crush)"
+  ],
+  "concept": "Bruise",
+  "thinking": "「打ち砕く（Contundere）」ことの記憶。皮膚の裏側で、行き場を失った衝撃が鮮やかな貌（青あざ）となって浮かび上がる。そこには加えられた暴力の、言い逃れのできない形が刻まれています。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Contusion illuminates the intricate structures of its field."
+},
+{
+  "id": "lacerat_acad",
+  "word": "Laceration",
+  "meaning": "裂傷（れっしょう）",
+  "etymology": [
+    "Latin lacerare (to tear to pieces)"
+  ],
+  "concept": "Deep cut/tear in skin",
+  "thinking": "「引き裂く（Lacerare）」ことの峻烈。鋭き刃（貌）が、連続する生の一部を強引に分かち、内なる深淵を露にさせる。その傷口は、受けた痛みそのものが上げた、叫びのような貌をしている。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Laceration illuminates the intricate structures of its field."
+},
+{
+  "id": "antemor_acad",
+  "word": "Antemortem",
+  "meaning": "生前（せいぜん）の",
+  "etymology": [
+    "Latin ante (before) + mors (death)"
+  ],
+  "concept": "Occurring before death",
+  "thinking": "「死（Mors）」の「前（Ante）」。輝かしい命の貌がまだそこにあり、意志が働いていた、不可逆な時間。そこに残された傷だけが、最期まで抗い続けた人間の誇り（あるいは絶望）を語る。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Antemortem illuminates the intricate structures of its field."
+},
+{
+  "id": "postmor_acad",
+  "word": "Postmortem",
+  "meaning": "死後（しご）の",
+  "etymology": [
+    "Latin post (after) + mors (death)"
+  ],
+  "concept": "Occurring after death",
+  "thinking": "「死（Mors）」の「後（Post）」。物語が終わり、肉体が完全に沈黙した後の、物理学的な貌。もはや痛みもなく、ただ因果律に従って物質が変容していく、残酷なまでの静謐。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Postmortem illuminates the intricate structures of its field."
+},
+{
+  "id": "skeleto_acad",
+  "word": "Skeletonize",
+  "meaning": "白骨化（はっこつか）",
+  "etymology": [
+    "Greek skeletos (dried up)"
+  ],
+  "concept": "Process of turning to bone",
+  "thinking": "「乾燥し（Skeletos）」、最後に残された本質。肉という迷い（貌）をすべて削ぎ落とし、ただ純白の幾何学的な構造だけが大地に横たわる。それは生物が最終的に装う、最も孤独な、しかし最も揺るぎない貌。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Skeletonize illuminates the intricate structures of its field."
+},
+{
+  "id": "pallor__acad",
+  "word": "Pallor",
+  "meaning": "死白（しはく）",
+  "etymology": [
+    "Latin pallere (to be pale)"
+  ],
+  "concept": "Paleness after death",
+  "thinking": "「蒼白（Pallere）」へと帰すこと. 死の直後、血管がその貌を閉じ、赤みが引いていく。それは生者との境界を告げる、最初の一線. この世の何色にも染まらない、絶対的な拒絶の色。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Pallor illuminates the intricate structures of its field."
+},
+{
+  "id": "mummifi_acad",
+  "word": "Mummification",
+  "meaning": "ミイラ化（か）",
+  "etymology": [
+    "Arabic mumiya (bitumen)"
+  ],
+  "concept": "Preservation of dead body",
+  "thinking": "「瀝青（Mumiya）」によって静止した、永遠の貌. 腐敗という分解（ドラマ）を拒絶し、生前の輪郭をそのままに凍結させた、時間への孤独な反抗。それは過去という名の深淵から差し出された、枯れた手。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Mummification illuminates the intricate structures of its field."
+},
+{
+  "id": "odontol_acad",
+  "word": "Odontology",
+  "meaning": "法歯学（ほうしがく）",
+  "etymology": [
+    "Greek odous (tooth) + logos"
+  ],
+  "concept": "Forensic dentistry",
+  "thinking": "「歯（Odous）」の理。肉体が朽ち果てても、その堅牢な結晶の中に個人の歴史（貌）が刻まれている。微笑みの名残としての歯列。それは身元不明の深淵から、唯一無二の存在を呼び戻すための鍵。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Odontology illuminates the intricate structures of its field."
+},
+{
+  "id": "ecchym_acad",
+  "word": "Ecchymosis",
+  "meaning": "内出血（ないしゅっけつ）、溢血点",
+  "etymology": [
+    "Greek ekkhemos (poured out)"
+  ],
+  "concept": "Medical term for bruising",
+  "thinking": "「外へと（Ek-）」「溢れ出す（Khemos）」こと. 血管という秩序が崩れ、内なる赤が皮膚の裏側に滲み、鮮やかな貌を描く. そこには不可視の力が加わった、生々しい証言が宿る。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Ecchymosis illuminates the intricate structures of its field."
+},
+{
+  "id": "avulsi_acad",
+  "word": "Avulsion",
+  "meaning": "剥離（はくり）",
+  "etymology": [
+    "Latin avellere (to pull away)"
+  ],
+  "concept": "Forcible tearing away",
+  "thinking": "「引き離す（Avellere）」という峻烈. 一体であったはずの貌が、暴力によって強制的に分かたれる悲劇. その欠落こそが、かつてそこにあった『完全さ』という名の深淵を雄弁に物語る。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Avulsion illuminates the intricate structures of its field."
+},
+{
+  "id": "decubi_acad",
+  "word": "Decubitus",
+  "meaning": "褥瘡（じょくそう）、とこずれ",
+  "etymology": [
+    "Latin decumbere (to lie down)"
+  ],
+  "concept": "Pressure sore",
+  "thinking": "「横たわる（Decumbere）」ことの重圧. 動けぬままに重力に支配され、自らの貌が少しずつ崩れていく静かな苦痛. それは自由を奪われた身体が、大地という深淵に同化しようとする、絶望的な沈黙。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Decubitus illuminates the intricate structures of its field."
+},
+{
+  "id": "gangren_acad",
+  "word": "Gangrenous",
+  "meaning": "癐（え）疽（そ）の、脱疽の",
+  "etymology": [
+    "Greek gangraina (gnawing sore)"
+  ],
+  "concept": "Relating to gangrene",
+  "thinking": "「噛み砕く（Gangraina）」ように、死の領域が食い込んでいく. 生きている肉体でありながら、一部が黒く炭化し、死後の貌へと変容する. 命という光を、絶望がゆっくりと飲み込んでいく、食い尽くされる理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Gangrenous illuminates the intricate structures of its field."
+},
+{
+  "id": "pathogr_acad",
+  "word": "Pathography",
+  "meaning": "病跡学（びょうせきがく）",
+  "etymology": [
+    "Greek pathos (suffering) + graphein (to write)"
+  ],
+  "concept": "Study of historical figures' health",
+  "thinking": "「苦悩（Pathos）」を「記す（Graphein）」。偉大な魂の貌に刻まれた病の痕跡を辿り、その表現の本質を読み解く. 苦しみという名の深淵が、如何にして美しき刃（作品）へと研ぎ澄まされたのかを問う、心の法医学。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Pathography illuminates the intricate structures of its field."
+},
+{
+  "id": "subcut_acad",
+  "word": "Subcutaneous",
+  "meaning": "皮下（ひか）の",
+  "etymology": [
+    "Latin sub (under) + cutis (skin)"
+  ],
+  "concept": "Under the skin",
+  "thinking": "「皮（Cutis）」の「下（Sub）」。表面的な貌に隠された、もう一つの真実の世界. そこには見えない傷（記憶）が沈殿し、解剖という名の刃を待っている。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Subcutaneous illuminates the intricate structures of its field."
+},
+{
+  "id": "decapit_acad",
+  "word": "Decapitation",
+  "meaning": "斬首（ざんしゅ）",
+  "etymology": [
+    "Latin de- (off) + caput (head)"
+  ],
+  "concept": "Beheading",
+  "thinking": "「頭（Caput）」を「切り離す（De-）」ことの絶望. 個人の尊厳、その象徴たる貌を強引に分かち、存在の連続性を断ち切る. 一閃の後に残るのは、余りにも残酷な静止と、名もなき深淵。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Decapitation illuminates the intricate structures of its field."
+},
+{
+  "id": "dactylo_acad",
+  "word": "Dactyloscopy",
+  "meaning": "指紋（しもん）学（がく）",
+  "etymology": [
+    "Greek daktylos (finger) + skopein (to look)"
+  ],
+  "concept": "Fingerprint identification",
+  "thinking": "「指（Daktylos）」を「見る（Skopein）」。一万人いようとも、決して重複することのない、指先に刻まれた迷宮（貌）。それは生まれる前から描かれた、個を絶対的に証明するための、数理的な一閃。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Dactyloscopy illuminates the intricate structures of its field."
+},
+{
+  "id": "toxemia_acad",
+  "word": "Toxemia",
+  "meaning": "毒血（どくけつ）症（しょう）",
+  "etymology": [
+    "Greek toxikon (poison) + haima (blood)"
+  ],
+  "concept": "Blood poisoning",
+  "thinking": "「血（Haima）」の中に「毒（Toxikon）」が巡る、不吉な貌。生命を支えるはずの赤が、破壊の先兵へと変貌し、内側から深淵を侵食していく。静かに、しかし確実に命の灯を消し去る、見えない刃。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "死の深淵を、真実の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法医学・検視制度の極致へ。"
+    ]
+  },
+  "example": "The academic study of Toxemia illuminates the intricate structures of its field."
+},
+{
+  "id": "ecclesio_acad",
+  "word": "Ecclesiology",
+  "meaning": "教会論（きょうかいろん）",
+  "etymology": [
+    "Greek ekklesia (assembly) + logos"
+  ],
+  "concept": "Theology of the Church",
+  "thinking": "「呼び出された者（Ekklesia）」の理. 孤独な一個人を越え、一つの大きな祈りの貌を形成する共同体. それは地上に現れた天国のシミュラークルであり、神との契約を守り抜くための情報の殻。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Ecclesiology illuminates the intricate structures of its field."
+},
+{
+  "id": "christol_acad",
+  "word": "Christology",
+  "meaning": "キリスト論（ろん）",
+  "etymology": [
+    "Greek Khristos (anointed) + logos"
+  ],
+  "concept": "Theology of Christ",
+  "thinking": "「油注がれし者（Khristos）」の理. 神でありながら人間である、という絶対的な矛盾の貌. その一点において、天と地、無限と有限が交差し、私たちの救済という名の物語（ロゴス）が立ち上がる。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Christology illuminates the intricate structures of its field."
+},
+{
+  "id": "kenoma__acad",
+  "word": "Kenoma",
+  "meaning": "空虚（くうきょ）、ケノーマ",
+  "etymology": [
+    "Greek kenoma (emptiness/void)"
+  ],
+  "concept": "The void/emptiness",
+  "thinking": "「空虚（Kenoma）」そのものの貌. 神の光が届かぬ、欠落した深淵. しかし、その絶対的な『無（貌）』を知ることで、私たちは逆に、一滴の恩寵という名の光の峻烈さを再発見する。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Kenoma illuminates the intricate structures of its field."
+},
+{
+  "id": "patris_acad",
+  "word": "Patristics",
+  "meaning": "教父学（きょうふがく）",
+  "etymology": [
+    "Latin pater (father)"
+  ],
+  "concept": "Study of the Early Christian fathers",
+  "thinking": "「父（Pater）」たちの理. 教会の揺籃期（貌）において、彼らがどのように真理の刃を振るい、ドグマという名の強固な城壁を築き上げたのか. 知性の源流（深淵）を辿り、信仰の骨格を再構築する。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Patristics illuminates the intricate structures of its field."
+},
+{
+  "id": "parousi_acad",
+  "word": "Parousia",
+  "meaning": "再臨（さいりん）、パルーシア",
+  "etymology": [
+    "Greek parousia (presence/arrival)"
+  ],
+  "concept": "Second coming of Christ",
+  "thinking": "「臨在（Parousia）」そのもの. 歴史の彼方から再び現れ、すべての貌を白日の下に晒す絶対的な不在の終了. それは希望であると同時に、この世の秩序を根底から揺さぶる、審判の刃。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Parousia illuminates the intricate structures of its field."
+},
+{
+  "id": "katapha_acad",
+  "word": "Kataphatic",
+  "meaning": "肯定（こうてい）神学（しんぎよく）の",
+  "etymology": [
+    "Greek kataphasis (affirmation)"
+  ],
+  "concept": "Theology through positive statements",
+  "thinking": "「肯定（Kataphasis）」を通じて神を語る. この世界の美しさ、力、善（貌）を一つずつ積み上げ、至高の存在へと近付こうとする. それは光を賛美し、言葉という名の刃で天への階段を築く試み。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Kataphatic illuminates the intricate structures of its field."
+},
+{
+  "id": "synergi_acad",
+  "word": "Synergism",
+  "meaning": "協力（きょうりょく）説、神人（しんじん）協力（きょうりょく）説",
+  "etymology": [
+    "Greek syn- (with) + ergon (work)"
+  ],
+  "concept": "Human and divine will cooperating",
+  "thinking": "「共に（Syn-）」「働く（Ergon）」。神の恩寵と、人間の自由な意志（貌）が手を取り合い、救済を成し遂げる. それは孤独な一、独善的な全、そのどちらも否定し、共生という名の調和（刃）を目指す理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Synergism illuminates the intricate structures of its field."
+},
+{
+  "id": "monergi_acad",
+  "word": "Monergism",
+  "meaning": "独力（どくりょく）説、神独（しんが）協力（きょうりょく）説",
+  "etymology": [
+    "Greek monos (alone) + ergon (work)"
+  ],
+  "concept": "God's grace alone causes conversion",
+  "thinking": "「ただ一人（Monos）」「働く（Ergon）」。極限まで追い詰められた人間には、最早何もできない. ただ神という名の絶対的な貌（意志）が、死せる魂を揺さぶり、救いへと導くという、峻烈な他力の深淵。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Monergism illuminates the intricate structures of its field."
+},
+{
+  "id": "sublaps_acad",
+  "word": "Sublapsarian",
+  "meaning": "堕落（だらく）後（ご）予定（よてい）説",
+  "etymology": [
+    "Latin sub (after) + lapsus (slip/fall)"
+  ],
+  "concept": "Doctrine of election after the Fall",
+  "thinking": "「墜落（Lapsus）」という名の過ちの「後（Sub）」で、神が救う者を選ぶ. 人間の貌が罪に汚れ、自力で立てなくなった後に差し出される、選別と慈悲の刃. それは、壊れた後に始まる、新たな理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Sublapsarian illuminates the intricate structures of its field."
+},
+{
+  "id": "antinomi_acad",
+  "word": "Antinomian",
+  "meaning": "律法（りっぽう）否定（ひてい）論",
+  "etymology": [
+    "Greek anti- (against) + nomos (law)"
+  ],
+  "concept": "Belief that faith frees from moral law",
+  "thinking": "「法（Nomos）」に「抗う（Anti-）」自由. 信仰さえあれば、もはや地上の掟（貌）に縛られる必要はない、という危険なまでの悦楽. それ精神の極北において、秩序を焼き尽くし、純粋な霊性という名の深淵に飛び込む一閃。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Antinomian illuminates the intricate structures of its field."
+},
+{
+  "id": "docetis_acad",
+  "word": "Docetism",
+  "meaning": "仮現（かげん）説",
+  "etymology": [
+    "Greek dokein (to seem)"
+  ],
+  "concept": "Belief that Jesus only seemed human",
+  "thinking": "「見える（Dokein）」だけの幻. キリストの肉体は、人間の貌を借りた、神という名の圧倒的な光の影に過ぎない. 現実はただの被膜であり、その裏側にある真理の深淵を見よ、という挑発。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Docetism illuminates the intricate structures of its field."
+},
+{
+  "id": "sabelli_acad",
+  "word": "Sabellianism",
+  "meaning": "サベリウス主義、様態（ようたい）論",
+  "etymology": [
+    "Sabellius (theologian)"
+  ],
+  "concept": "Belief in different 'modes' of God",
+  "thinking": "神の「貌（様態）」が時と場合によって移り変わる、という変奏曲. 父、子、霊. それは本質ではなく、舞台装置に応じて演じ分けられるドラマ. 移ろう貌の背後にある、唯一の沈黙を探る試み。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Sabellianism illuminates the intricate structures of its field."
+},
+{
+  "id": "monophy_acad",
+  "word": "Monophysite",
+  "meaning": "単性（たんせい）論（ろん）の",
+  "etymology": [
+    "Greek monos (single) + physis (nature)"
+  ],
+  "concept": "Belief in Christ's single nature",
+  "thinking": "「唯一の（Monos）」「本性（Physis）」。人性と神性が混じり合い、一つの強烈な貌（光）へと収束する. 多様な解釈という深淵を拒絶し、絶対的な一を目指す、熱烈な信仰の刃。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Monophysite illuminates the intricate structures of its field."
+},
+{
+  "id": "nestori_acad",
+  "word": "Nestorian",
+  "meaning": "ネストリウス派（は）の",
+  "etymology": [
+    "Nestorius (bishop)"
+  ],
+  "concept": "Belief in distinct persons of Christ",
+  "thinking": "神の貌と人間の貌、その二つを峻別し、決して混じり合わない独立した存在として認める. 救済という名のドラマを、二つの主役の対比として読み解く、論理的な深淵。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "神性の深淵を、祈りの刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "神学・宗教哲学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Nestorian illuminates the intricate structures of its field."
+},
+{
+  "id": "codific_acad",
+  "word": "Codification",
+  "meaning": "法典（ほうてん）化（か）",
+  "etymology": [
+    "Latin codex (book) + facere (to make)"
+  ],
+  "concept": "Systematization of laws",
+  "thinking": "「法典（Codex）」を「作る（Facere）」。散らばった無数の約束事を、一つの強固な理（貌）へとまとめ上げる. それはカオスを秩序へと変貌させ、誰にでも見える正義の地図を、文明に提供する営み。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Codification illuminates the intricate structures of its field."
+},
+{
+  "id": "certio_acad",
+  "word": "Certiorari",
+  "meaning": "移送（いそう）命令（めいれい）、サーショレイライ",
+  "etymology": [
+    "Latin certiorare (to inform)"
+  ],
+  "concept": "Review of a lower court's decision",
+  "thinking": "「確信する（Certiorare）」ために. 下位の判断に潜む誤謬という名の貌（瑕疵）を見抜き、より高次元の理へと呼び戻す. 正義を一点の曇りもなき貌へと磨き上げるための、峻烈な監査の刃。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Certiorari illuminates the intricate structures of its field."
+},
+{
+  "id": "mandamu_acad",
+  "word": "Mandamus",
+  "meaning": "職務（しょくむ）執行（しっこう）令状（れいじょう）",
+  "etymology": [
+    "Latin mandare (to command)"
+  ],
+  "concept": "Writ ordering a public official to act",
+  "thinking": "「我々は命じる（Mandamus）」。怠惰という名の眠りに落ちた公権力に対し、その本来の貌（義務）を思い出させる激しい一喝. 法が正しく機能することを、強制という名のエネルギーで担保する理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Mandamus illuminates the intricate structures of its field."
+},
+{
+  "id": "emphyte_acad",
+  "word": "Emphyteusis",
+  "meaning": "永小作権（えいこさくけん）",
+  "etymology": [
+    "Greek emphyteuein (to plant/graft)"
+  ],
+  "concept": "Type of leasehold for improving land",
+  "thinking": "「植え付ける（Emphyteuein）」ことの理. 荒れた大地という名の貌を、自らの労働（刃）で耕し、沃野へと変貌させる. その永い時間の投資を、法が保護（貌）し、権利として確定させる。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Emphyteusis illuminates the intricate structures of its field."
+},
+{
+  "id": "servitu_acad",
+  "word": "Servitude",
+  "meaning": "地役権（ちえきけん）、役権",
+  "etymology": [
+    "Latin servitus (slavery/subjection)"
+  ],
+  "concept": "Right of use over another's land",
+  "thinking": "「隷属（Servitus）」する土地. ある土地が、別の土地のためにその能力（貌）を捧げる. 私有という名の壁を、公益あるいは他者の便宜という名の刃がそっと切り裂く、共生の理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Servitude illuminates the intricate structures of its field."
+},
+{
+  "id": "hypothe_acad",
+  "word": "Hypothec",
+  "meaning": "抵当権（ていとうけん）",
+  "etymology": [
+    "Greek hypotithemi (to place under)"
+  ],
+  "concept": "Security for a debt",
+  "thinking": "「下に（Hypo）」「置かれた（Tithemi）」権利. 実物は手元にありながら、所有という名の貌の底に、見えない義務という名の重力を忍ばせる. 約束が破られた時、その深淵から権利の刃が飛び出し、すべてを飲み込む。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Hypothec illuminates the intricate structures of its field."
+},
+{
+  "id": "garnish_acad",
+  "word": "Garnishment",
+  "meaning": "差押（さしおさ）え、財産差押え",
+  "etymology": [
+    "Old French garnir (to warn)"
+  ],
+  "concept": "Legal procedure to seize property",
+  "thinking": "「警告する（Garnir）」ことの最終形. 債務という名の不実を、法的実力という名の刃で断ち切り、他者に属する富の貌を強引に手中へと引き寄せる. それは公平を取り戻すための、剥き出しの理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Garnishment illuminates the intricate structures of its field."
+},
+{
+  "id": "interdi_acad",
+  "word": "Interdict",
+  "meaning": "禁止（きんし）、命令（めいれい）",
+  "etymology": [
+    "Latin inter- (between) + dicere (to say)"
+  ],
+  "concept": "Authoritative prohibition",
+  "thinking": "「（当事者の）間に（Inter）」「告げる（Dicere）」。混沌とした紛争の中に割って入り、法という名の貌を突き付けて静止を命じる. 力による衝突を、言葉の一進で未然に防ぐ、調停の理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Interdict illuminates the intricate structures of its field."
+},
+{
+  "id": "allodiu_acad",
+  "word": "Allodium",
+  "meaning": "完全（かんぜん）私（し）有地（ゆうち）、アロディウム",
+  "etymology": [
+    "Frankish al (all) + od (property)"
+  ],
+  "concept": "Absolute ownership of land",
+  "thinking": "「すべて（Al）」が自らの「財産（Od）」であること. 王にも誰にも縛られず、ただ自分だけがその貌（土地）の主人であるという、究極の自由. 封建的な鎖を断ち切り、自律という名の深淵に立つ者の領土。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Allodium illuminates the intricate structures of its field."
+},
+{
+  "id": "estoppe_acad",
+  "word": "Estoppel",
+  "meaning": "禁反言（きんはんげん）、エストッペル",
+  "etymology": [
+    "Old French estoper (to stop/plug)"
+  ],
+  "concept": "Rule preventing denial of statement",
+  "thinking": "「塞ぐ（Estoper）」こと. 一度口にした言葉（貌）を、後から自ら捻じ曲げることを許さない. 自らの欺瞞という名の深淵を、整合性という名の刃で封印される、信義誠実の極致。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Estoppel illuminates the intricate structures of its field."
+},
+{
+  "id": "fiduci_acad",
+  "word": "Fiducia",
+  "meaning": "信頼（しんらい）、フィドゥキア",
+  "etymology": [
+    "Latin fiducia (trust/confidence)"
+  ],
+  "concept": "Legal trust in Roman law",
+  "thinking": "「信頼（Fiducia）」の根源的な貌. 条文によってではなく、二人の人間の魂の誓いによって成立する、最も純粋な契約. 目に見える法を超え、良心という名の刃で真実を守り抜く理。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Fiducia illuminates the intricate structures of its field."
+},
+{
+  "id": "legate_acad",
+  "word": "Legatee",
+  "meaning": "遺贈（いぞう）受給者（じゅきゅうしゃ）",
+  "etymology": [
+    "Latin legatum (bequest)"
+  ],
+  "concept": "Person who receives a legacy",
+  "thinking": "「託された（Legatum）」ものを受け取る者. 去りゆく者の意志（貌）を引き継ぎ、未来へと繋ぐ器. それは単なる富の移動ではなく、物語という名の深淵の継承。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "秩序の深淵を、正義の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "法学・法理学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Legatee illuminates the intricate structures of its field."
+},
+{
+  "id": "voronoi_acad",
+  "word": "Voronoi",
+  "meaning": "ボロノイ",
+  "etymology": [
+    "Georgy Voronoi"
+  ],
+  "concept": "Partition of space",
+  "thinking": "空間を領土化する規約。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Voronoi offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "hausdor_acad",
+  "word": "Hausdorff",
+  "meaning": "ハウスドルフ",
+  "etymology": [
+    "Felix Hausdorff"
+  ],
+  "concept": "Set distance",
+  "thinking": "集合間の峻烈な距離。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Hausdorff offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "sierpin_acad",
+  "word": "Sierpinski",
+  "meaning": "シェルピンスキー",
+  "etymology": [
+    "Waclaw Sierpinski"
+  ],
+  "concept": "Fractal",
+  "thinking": "再帰する情報の欠落。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Sierpinski offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "mandelb_acad",
+  "word": "Mandelbrot",
+  "meaning": "マンデルブロ",
+  "etymology": [
+    "Benoit Mandelbrot"
+  ],
+  "concept": "Complex set",
+  "thinking": "無限の自己相似。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Mandelbrot offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "jacobia_acad",
+  "word": "Jacobian",
+  "meaning": "ヤコビアン",
+  "etymology": [
+    "Carl Jacobi"
+  ],
+  "concept": "Matrix",
+  "thinking": "空間の変化を捉える刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Jacobian offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "hessian_acad",
+  "word": "Hessian",
+  "meaning": "ヘッシアン",
+  "etymology": [
+    "Otto Hesse"
+  ],
+  "concept": "Matrix",
+  "thinking": "曲率の深淵を暴く数理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Hessian offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "quadtre_acad",
+  "word": "Quadtree",
+  "meaning": "四分（しぶん）木（ぎ）",
+  "etymology": [
+    "Quad + Tree"
+  ],
+  "concept": "Data structure",
+  "thinking": "空間を動的に整理する。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Quadtree offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "octree__acad",
+  "word": "Octree",
+  "meaning": "八分（はちぶん）木（ぎ）",
+  "etymology": [
+    "Oct + Tree"
+  ],
+  "concept": "Data structure",
+  "thinking": "三次元の秩序という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Octree offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "isosurf_acad",
+  "word": "Isosurface",
+  "meaning": "等値（とうち）面（めん）",
+  "etymology": [
+    "Isos + Surface"
+  ],
+  "concept": "Surface",
+  "thinking": "見えない貌を抽出する。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Isosurface offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "fenwick_acad",
+  "word": "Fenwick",
+  "meaning": "フェニック（木）",
+  "etymology": [
+    "Peter Fenwick"
+  ],
+  "concept": "Data structure",
+  "thinking": "情報の累積を瞬時に。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Fenwick offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "zorder__acad",
+  "word": "Zorder",
+  "meaning": "Z順序（じゅんじょ）",
+  "etymology": [
+    "Z + Order"
+  ],
+  "concept": "Space-filling",
+  "thinking": "多次元を一次元へと。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Zorder offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "orthoce_acad",
+  "word": "Orthocenter",
+  "meaning": "垂心（すいしん）",
+  "etymology": [
+    "Orthos + Center"
+  ],
+  "concept": "Triangle center",
+  "thinking": "垂直性の極致。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Orthocenter offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "circumc_acad",
+  "word": "Circumcenter",
+  "meaning": "外心（がいしん）",
+  "etymology": [
+    "Circum + Center"
+  ],
+  "concept": "Triangle center",
+  "thinking": "均等な領土の中心。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Circumcenter offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "planari_acad",
+  "word": "Planarity",
+  "meaning": "平面（へいめん）性（せい）",
+  "etymology": [
+    "Planus"
+  ],
+  "concept": "Property",
+  "thinking": "交差を拒む秩序。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Planarity offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "convexi_acad",
+  "word": "Convexity",
+  "meaning": "凸（とつ）性（せい）",
+  "etymology": [
+    "Convexus"
+  ],
+  "concept": "Property",
+  "thinking": "強固な自己完結性。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Convexity offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "visibil_acad",
+  "word": "Visibilty",
+  "meaning": "可視（かし）性（せい）",
+  "etymology": [
+    "Visibilis"
+  ],
+  "concept": "Visibility",
+  "thinking": "情報の疎通という貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Visibilty offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "tetrahe_acad",
+  "word": "Tetrahedral",
+  "meaning": "四面体（しめんたい）の",
+  "etymology": [
+    "Tetra + Hedra"
+  ],
+  "concept": "Structure",
+  "thinking": "空間を解体する刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Tetrahedral offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "remeshi_acad",
+  "word": "Remeshing",
+  "meaning": "リメッシング",
+  "etymology": [
+    "Re- + Mesh"
+  ],
+  "concept": "Optimization",
+  "thinking": "貌を磨き上げる理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Remeshing offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "curvili_acad",
+  "word": "Curvilinear",
+  "meaning": "曲線（きょくせん）の",
+  "etymology": [
+    "Curvus + Linea"
+  ],
+  "concept": "Curved",
+  "thinking": "宇宙の奏でる調べ。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Curvilinear offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "soliton_acad",
+  "word": "Soliton",
+  "meaning": "ソリトン",
+  "etymology": [
+    "Solus"
+  ],
+  "concept": "Solitary wave",
+  "thinking": "孤独に駆ける情報の波。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Soliton offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "instant_acad",
+  "word": "Instanton",
+  "meaning": "インスタントン",
+  "etymology": [
+    "Instans"
+  ],
+  "concept": "Local configuration",
+  "thinking": "一瞬の閃きという。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Instanton offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "monopol_acad",
+  "word": "Monopole",
+  "meaning": "磁気（じき）単（たん）極子（きょくし）",
+  "etymology": [
+    "Monos + Polos"
+  ],
+  "concept": "Anomaly",
+  "thinking": "対称性を切り裂く異端。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Monopole offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "plasmon_acad",
+  "word": "Plasmon",
+  "meaning": "プラズモン",
+  "etymology": [
+    "Plasma"
+  ],
+  "concept": "Oscillation",
+  "thinking": "集団の震えという貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Plasmon offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "inflato_acad",
+  "word": "Inflaton",
+  "meaning": "インフラトン",
+  "etymology": [
+    "Inflatus"
+  ],
+  "concept": "Field",
+  "thinking": "宇宙を膨らます意志。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Inflaton offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "decoher_acad",
+  "word": "Decoherence",
+  "meaning": "デコヒーレンス",
+  "etymology": [
+    "De- + Coherence"
+  ],
+  "concept": "Loss of quantum info",
+  "thinking": "情報の死という深淵。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Decoherence offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "tachyon_acad",
+  "word": "Tachyon",
+  "meaning": "タキオン",
+  "etymology": [
+    "Takhys"
+  ],
+  "concept": "Faster than light",
+  "thinking": "因果律を逆走する刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Tachyon offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "majoran_acad",
+  "word": "Majorana",
+  "meaning": "マヨラナ",
+  "etymology": [
+    "Ettore Majorana"
+  ],
+  "concept": "Particle/Antiparticle",
+  "thinking": "自己同一の矛盾。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Majorana offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "aisthes_acad",
+  "word": "Aisthesis",
+  "meaning": "アイステーシス",
+  "etymology": [
+    "Aisthesis"
+  ],
+  "concept": "Perception",
+  "thinking": "原初の震えを捉える。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Aisthesis offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "poiesis_acad",
+  "word": "Poiesis",
+  "meaning": "ポイエーシス",
+  "etymology": [
+    "Poiesis"
+  ],
+  "concept": "Creation",
+  "thinking": "無からの生成という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Poiesis offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "phrones_acad",
+  "word": "Phronesis",
+  "meaning": "フロネーシス",
+  "etymology": [
+    "Phronesis"
+  ],
+  "concept": "Wisdom",
+  "thinking": "実践的な美の一歩。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Phronesis offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "entelec_acad",
+  "word": "Entelechy",
+  "meaning": "エンテレケイア",
+  "etymology": [
+    "Entelechy"
+  ],
+  "concept": "Actualization",
+  "thinking": "理想を内に宿す理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Entelechy offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "deterri_acad",
+  "word": "Deterritorialize",
+  "meaning": "脱（だつ）領土（りょうど）化（か）",
+  "etymology": [
+    "De- + Territory"
+  ],
+  "concept": "Movement",
+  "thinking": "檻をこじ開ける革命。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Deterritorialize offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "ecritu_acad",
+  "word": "Ecriture",
+  "meaning": "エクリチュール",
+  "etymology": [
+    "Ecriture"
+  ],
+  "concept": "Writing style",
+  "thinking": "不機嫌な文字の沈黙。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Ecriture offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "ostran_acad",
+  "word": "Ostranenie",
+  "meaning": "異化（いか）",
+  "etymology": [
+    "Ostranenie"
+  ],
+  "concept": "Defamiliarization",
+  "thinking": "日常を奇妙に変貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Ostranenie offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "verfrem_acad",
+  "word": "Verfremdung",
+  "meaning": "異化（いか）",
+  "etymology": [
+    "Ver- + Fremd"
+  ],
+  "concept": "Alienation effect",
+  "thinking": "理性の刃で断ち切る。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Verfremdung offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "isomorp_acad",
+  "word": "Isomorphism",
+  "meaning": "同型（どうけい）性（せい）",
+  "etymology": [
+    "Isos + Morphe"
+  ],
+  "concept": "Form similarity",
+  "thinking": "宇宙の相似形を見。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Isomorphism offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "palimps_acad",
+  "word": "Palimpsest",
+  "meaning": "パリンプセスト",
+  "etymology": [
+    "Palin + Psen"
+  ],
+  "concept": "Layered",
+  "thinking": "記憶の地層という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Palimpsest offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "pastic_acad",
+  "word": "Pastiche",
+  "meaning": "パティシュ",
+  "etymology": [
+    "Pasticcio"
+  ],
+  "concept": "Imitation",
+  "thinking": "情報のパッチワーク。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Pastiche offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "bricola_acad",
+  "word": "Bricolage",
+  "meaning": "ブリコラージュ",
+  "etymology": [
+    "Bricole"
+  ],
+  "concept": "Handiwork",
+  "thinking": "限界を逆手に取った。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Bricolage offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "hyperre_acad",
+  "word": "Hyperreality",
+  "meaning": "超現実（ちょうげんじつ）",
+  "etymology": [
+    "Hyper + Reality"
+  ],
+  "concept": "Simulation",
+  "thinking": "現実に勝る虚構。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Hyperreality offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "enjamb_acad",
+  "word": "Enjambment",
+  "meaning": "跨行（ここう）",
+  "etymology": [
+    "En- + Jambe"
+  ],
+  "concept": "Crossover",
+  "thinking": "行を跳び超える奔流。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Enjambment offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "chiasmu_acad",
+  "word": "Chiasmus",
+  "meaning": "交（こう）差（さ）配列（はいれつ）",
+  "etymology": [
+    "Greek khiasmos"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "交叉する意味の深淵。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Chiasmus offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "zeugma__acad",
+  "word": "Zeugma",
+  "meaning": "結（けつ）びつけ、ゼウグマ",
+  "etymology": [
+    "Greek zeugma"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "異なる意味を結ぶ刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Zeugma offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "anaphor_acad",
+  "word": "Anaphora",
+  "meaning": "首（しゅ）句（く）反復（はんぷく）",
+  "etymology": [
+    "Greek anaphora"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "繰り返される情報の貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Anaphora offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "epistr_acad",
+  "word": "Epistrophe",
+  "meaning": "結（けつ）句（く）反復（はんぷく）",
+  "etymology": [
+    "Greek epistrophe"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "終末への回帰という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Epistrophe offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "synecd_acad",
+  "word": "Synecdoche",
+  "meaning": "提（てい）喩（ゆ）",
+  "etymology": [
+    "Greek synekdokhe"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "一部に全を見る理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Synecdoche offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "metonym_acad",
+  "word": "Metonymy",
+  "meaning": "換（かん）喩（ゆ）",
+  "etymology": [
+    "Greek metonymia"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "隣接する深淵の影。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Metonymy offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "hendiad_acad",
+  "word": "Hendiadys",
+  "meaning": "二重（にじゅう）表現（ひょうげん）",
+  "etymology": [
+    "Greek hen dia dyoin"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "二が織りなす一の。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Hendiadys offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "aposio_acad",
+  "word": "Aposiopesis",
+  "meaning": "省略（しょうりゃく）、アポシオペーシス",
+  "etymology": [
+    "Greek aposiopesis"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "沈黙という名の雄弁。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Aposiopesis offers a unique perspective on technical and philosophical structures."
+},
+{
+  "id": "oxymoro_acad",
+  "word": "Oxymoron",
+  "meaning": "撞着（どうちゃく）語（ご）",
+  "etymology": [
+    "Greek oxymoron"
+  ],
+  "concept": "Rhetoric",
+  "thinking": "矛盾する貌の輝き。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
+  "part_of_speech": "noun",
+  "era": "Academic",
+  "aftertaste": "知の深淵を、美の刃で。",
+  "deep_dive": {
+    "roots": [],
+    "points": [
+      "計算幾何学・理論物理学・美学の極致へ。"
+    ]
+  },
+  "example": "The academic study of Oxymoron offers a unique perspective on technical and philosophical structures."
+},
 ];
