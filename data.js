@@ -407166,11 +407166,11 @@ const WORDS = [
 		"thinking": "「共に（Syn）」ある「命（Bios）」。一人の完成された個体など、どこにもいない。私たちは常に他者の命を宿し、他者の命に依存することでしか、自らの貌（アイデンティティ）を保てない。",
 		"part_of_speech": "noun",
 		"era": "Academic",
-		"aftertaste": "独りでは居られないという脆さを、共存という名の強さに変える。",
+		"aftertaste": "他者を宿すことで初めて完成する、補完という名の生命の貌。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"他者を宿すことで初めて完成する、補完という名の生命の貌。"
+				"境界を溶かし、一つの命として響き合い完成する共生の秘儀。"
 			]
 		},
 		"example": "Symbiosis is any type of a close and long-term biological interaction."
@@ -409906,11 +409906,11 @@ const WORDS = [
 		"thinking": "権利の上に眠り続ける者に、忘却という名の錆（さび）を浴びせ、司法の救済を拒む冷徹。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "忘失の深淵を、懈怠の刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"権利の上に眠る者へ、時の峻烈なる審判を。"
 			]
 		},
 		"example": "その概念の背後に潜む『Laches』を、我々は冷徹に見つめる。"
@@ -409926,11 +409926,11 @@ const WORDS = [
 		"thinking": "損なわれた世界を等価の黄金で埋め、不均衡を擬似的に修復する、法の救済的錬金術。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "欠落の深淵を、償いの刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"不均衡を黄金で埋め、喪失を静謐へと還元する錬金術。"
 			]
 		},
 		"example": "その概念の背後に潜む『Indemnity』を、我々は冷徹に見つめる。"
@@ -409946,11 +409946,11 @@ const WORDS = [
 		"thinking": "過ちと罰、手段と目的。その間に幾何学的な均衡を求める、理性の天秤の美学。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "過剰の深淵を、均衡の刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"罪と罰の間に、幾何学的な共鳴（バランス）を刻む数学的美。"
 			]
 		},
 		"example": "その概念の背後に潜む『Proportionality』を、我々は冷徹に見つめる。"
@@ -409966,11 +409966,11 @@ const WORDS = [
 		"thinking": "既に過ぎ去った過去を、現在という地点からの新たな定義（法）で、遡って切り刻む暴力性。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "過去の深淵を、遡及の刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"既に定まった時間を、現在という暴力で塗り替える掟。"
 			]
 		},
 		"example": "その概念の背後に潜む『Retroactivity』を、我々は冷徹に見つめる。"
@@ -409986,11 +409986,11 @@ const WORDS = [
 		"thinking": "私的な衝突を、公正なる理性の重力（仲裁）によって鎮め、調和へと導くための天秤。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "紛争の深淵を、裁定の刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"私的な衝突を、理性という名の重力で鎮撫する調和。"
 			]
 		},
 		"example": "その概念の背後に潜む『Arbitramen』を、我々は冷徹に見つめる。"
@@ -410006,11 +410006,11 @@ const WORDS = [
 		"thinking": "法の宮殿の壁を越え、慣習や良心という名の別の刃で事象を裁こうとする、越境の思索。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "領域の深淵を、越境の刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"法の宮殿の壁を越え、慣習という別の掟に身を委ねる勇気。"
 			]
 		},
 		"example": "その概念の背後に潜む『Extrajudicial』を、我々は冷徹に見つめる。"
@@ -410026,11 +410026,11 @@ const WORDS = [
 		"thinking": "刹那の約束に公的な永劫性を与え、一時の言葉を岩に刻まれた法の如く不動のものとする。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "刹那の深淵を、永劫の刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"移ろいゆく誓言を、不動なる岩に刻まれた法へ変える刻印。"
 			]
 		},
 		"example": "その概念の背後に潜む『Notarization』を、我々は冷徹に見つめる。"
@@ -410046,15 +410046,15 @@ const WORDS = [
 		"thinking": "手続きという外装の奥にある、権利と義務の剥き出しの核心。存在の本質を規定する掟。",
 		"part_of_speech": "Noun",
 		"era": "Academic",
-		"aftertaste": "社会の深淵を、公平の刃で。",
+		"aftertaste": "外装の深淵を、実体の刃で。",
 		"deep_dive": {
 			"roots": [],
 			"points": [
-				"学術的極致への一歩。"
+				"手続きという迷宮を抜け、権利という名の剥き出しの核心へ。"
 			]
 		},
 		"example": "その概念の背後に潜む『Substantive』を、我々は冷徹に見つめる。"
-	}
+	},
 {
   "id": "necros_acad",
   "word": "Necropsy",
@@ -410066,11 +410066,11 @@ const WORDS = [
   "thinking": "「死（Nekros）」を「見る（Opsis）」こと。静止した肉体に刻まれた、最後の物語（貌）を読み解く。言葉を失った死者に代わり、その声なき告白を真実へと変える、沈黙の対話。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "死の深淵を、真実の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"言葉を失った肉体から、声なき最後の告白を読み解く。"
     ]
   },
   "example": "The academic study of Necropsy illuminates the intricate structures of its field."
@@ -410086,11 +410086,11 @@ const WORDS = [
   "thinking": "「青白き（Lividus）」沈着。重力に従い、行き場を失った血が肌に描く、生身の貌の終わり。それは時が止まった瞬間の物理的な写し、命が去った後の冷たい地図。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "沈着の深淵を、重力の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"命が去った後の身体に描かれる、微かなる終止符の地図。"
     ]
   },
   "example": "The academic study of Lividity illuminates the intricate structures of its field."
@@ -410106,11 +410106,11 @@ const WORDS = [
   "thinking": "「脂（Adeps）」と「蝋（Cera）」。腐敗を拒み、物質としての永遠を夢見た、歪な命の貌。水底の暗闇の中で、肉体はただ朽ちるのではなく、静かな彫像へと変貌（メタモルフォーゼ）する。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "腐敗の深淵を、不変の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"土底の暗闇に咲く、肉体が永劫を夢見た静かなる彫像。"
     ]
   },
   "example": "The academic study of Adipocere illuminates the intricate structures of its field."
@@ -410126,11 +410126,11 @@ const WORDS = [
   "thinking": "「朽ちゆく（Putris）」方向への「生成（Facere）」。形あるものが、その貌を崩し、再び大地へと還るまでの激しいプロセス。終わりとは、新しい循環のための最も峻烈な『解体』である。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "崩壊の深淵を、還流の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"生から土への劇的な解体、新たな循環を告げる峻烈な響き。"
     ]
   },
   "example": "The academic study of Putrefaction illuminates the intricate structures of its field."
@@ -410146,11 +410146,11 @@ const WORDS = [
   "thinking": "「大地（Humus）」の「外へ（Ex-）」。一度は土に還し、忘却の淵に沈めたはずの貌を、再び日の下へと引き摺り出す。真実の刃が、眠りを妨げてでも暴き出そうとする、埋もれた正義。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "忘却の深淵を、露呈の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"眠りを妨げ、埋もれた正義を再び日の下へ引き摺り出す。"
     ]
   },
   "example": "The academic study of Exhumation illuminates the intricate structures of its field."
@@ -410166,11 +410166,11 @@ const WORDS = [
   "thinking": "「脈動（Sphyxis）」が「失われた（A-）」、不機嫌な静止。酸素という名の悦楽を奪われ、世界が急速に色（貌）を失っていく恐怖。息を吐くことすら許されない、閉ざされた深淵。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "閉塞の深淵を、沈黙の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"脈動を失い、世界が色を失っていく瞬間の不機嫌な静止。"
     ]
   },
   "example": "The academic study of Asphyxiation illuminates the intricate structures of its field."
@@ -410186,11 +410186,11 @@ const WORDS = [
   "thinking": "「冷たさ（Algor）」そのもの。かつて命の熱を帯びていた肉体が、周囲の静寂に同化していく、熱力学的な貌。感情も意志も、この絶対的な零度の中に凍りつき、ただの『物』へと還っていく。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "熱量の深淵を、零度の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"命の熱を周囲へと手放し、ただの物質へと還っていく極北。"
     ]
   },
   "example": "The academic study of Algor illuminates the intricate structures of its field."
@@ -410206,11 +410206,11 @@ const WORDS = [
   "thinking": "「打ち砕く（Contundere）」ことの記憶。皮膚の裏側で、行き場を失った衝撃が鮮やかな貌（青あざ）となって浮かび上がる。そこには加えられた暴力の、言い逃れのできない形が刻まれています。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "打撃の深淵を、痕跡の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"皮膚の裏側で暴かれた、言い逃れのできぬ暴力の残響としての貌。"
     ]
   },
   "example": "The academic study of Contusion illuminates the intricate structures of its field."
@@ -410226,11 +410226,11 @@ const WORDS = [
   "thinking": "「引き裂く（Lacerare）」ことの峻烈。鋭き刃（貌）が、連続する生の一部を強引に分かち、内なる深淵を露にさせる。その傷口は、受けた痛みそのものが上げた、叫びのような貌をしている。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "断絶の深淵を、鋭利の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"引き裂かれた連続性から露わになる、叫びのような生の深淵。"
     ]
   },
   "example": "The academic study of Laceration illuminates the intricate structures of its field."
@@ -410246,11 +410246,11 @@ const WORDS = [
   "thinking": "「死（Mors）」の「前（Ante）」。輝かしい命の貌がまだそこにあり、意志が働いていた、不可逆な時間。そこに残された傷だけが、最期まで抗い続けた人間の誇り（あるいは絶望）を語る。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "未生の深淵を、矜持の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"最後に抗い続けた人間の証を、傷という名の言葉で刻む。"
     ]
   },
   "example": "The academic study of Antemortem illuminates the intricate structures of its field."
@@ -410266,11 +410266,11 @@ const WORDS = [
   "thinking": "「死（Mors）」の「後（Post）」。物語が終わり、肉体が完全に沈黙した後の、物理学的な貌。もはや痛みもなく、ただ因果律に従って物質が変容していく、残酷なまでの静謐。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "終焉の深淵を、静謐の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"痛みが消え、因果律だけが物質を支配する残酷なまでの無。"
     ]
   },
   "example": "The academic study of Postmortem illuminates the intricate structures of its field."
@@ -410286,11 +410286,11 @@ const WORDS = [
   "thinking": "「乾燥し（Skeletos）」、最後に残された本質。肉という迷い（貌）をすべて削ぎ落とし、ただ純白の幾何学的な構造だけが大地に横たわる。それは生物が最終的に装う、最も孤独な、しかし最も揺るぎない貌。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "固執の深淵を、白骨の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"装飾という名の迷いを剥ぎ取り、最後に残る孤独な幾何学。"
     ]
   },
   "example": "The academic study of Skeletonize illuminates the intricate structures of its field."
@@ -410306,11 +410306,11 @@ const WORDS = [
   "thinking": "「蒼白（Pallere）」へと帰すこと. 死の直後、血管がその貌を閉じ、赤みが引いていく。それは生者との境界を告げる、最初の一線. この世の何色にも染まらない、絶対的な拒絶の色。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "境界の深淵を、拒絶の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"世界の色を急速に引き、この世の何物にも染まらぬ一線を画す。"
     ]
   },
   "example": "The academic study of Pallor illuminates the intricate structures of its field."
@@ -410326,11 +410326,11 @@ const WORDS = [
   "thinking": "「瀝青（Mumiya）」によって静止した、永遠の貌. 腐敗という分解（ドラマ）を拒絶し、生前の輪郭をそのままに凍結させた、時間への孤独な反抗。それは過去という名の深淵から差し出された、枯れた手。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "時間の深淵を、乾燥の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"変化を拒み、過去から差し出された、時間そのものを凍らせる手。"
     ]
   },
   "example": "The academic study of Mummification illuminates the intricate structures of its field."
@@ -410346,11 +410346,11 @@ const WORDS = [
   "thinking": "「歯（Odous）」の理。肉体が朽ち果てても、その堅牢な結晶の中に個人の歴史（貌）が刻まれている。微笑みの名残としての歯列。それは身元不明の深淵から、唯一無二の存在を呼び戻すための鍵。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "遺構の深淵を、結晶の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"微笑みの名残の中に、喪われた個人の歴史を照らし出す鍵。"
     ]
   },
   "example": "The academic study of Odontology illuminates the intricate structures of its field."
@@ -410366,11 +410366,11 @@ const WORDS = [
   "thinking": "「外へと（Ek-）」「溢れ出す（Khemos）」こと. 血管という秩序が崩れ、内なる赤が皮膚の裏側に滲み、鮮やかな貌を描く. そこには不可視の力が加わった、生々しい証言が宿る。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "流出の深淵を、滲みの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"内部から溢れ出し、皮膚の裏側に真実を滲ませる赤き証言。"
     ]
   },
   "example": "The academic study of Ecchymosis illuminates the intricate structures of its field."
@@ -410386,11 +410386,11 @@ const WORDS = [
   "thinking": "「引き離す（Avellere）」という峻烈. 一体であったはずの貌が、暴力によって強制的に分かたれる悲劇. その欠落こそが、かつてそこにあった『完全さ』という名の深淵を雄弁に物語る。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "欠落の深淵を、剥離の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"引き千切られた貌の跡に、かつてそこに在った完全さを視る。"
     ]
   },
   "example": "The academic study of Avulsion illuminates the intricate structures of its field."
@@ -410406,11 +410406,11 @@ const WORDS = [
   "thinking": "「横たわる（Decumbere）」ことの重圧. 動けぬままに重力に支配され、自らの貌が少しずつ崩れていく静かな苦痛. それは自由を奪われた身体が、大地という深淵に同化しようとする、絶望的な沈黙。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "重圧の深淵を、褥瘡の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"自由を奪われ、大地という深淵に同化しようとする沈黙の苦痛。"
     ]
   },
   "example": "The academic study of Decubitus illuminates the intricate structures of its field."
@@ -410426,11 +410426,11 @@ const WORDS = [
   "thinking": "「噛み砕く（Gangraina）」ように、死の領域が食い込んでいく. 生きている肉体でありながら、一部が黒く炭化し、死後の貌へと変容する. 命という光を、絶望がゆっくりと飲み込んでいく、食い尽くされる理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "侵食の深淵を、癐疽の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"生の中で死の貌が広がり、命を食い尽くしていく絶望の理。"
     ]
   },
   "example": "The academic study of Gangrenous illuminates the intricate structures of its field."
@@ -410446,11 +410446,11 @@ const WORDS = [
   "thinking": "「苦悩（Pathos）」を「記す（Graphein）」。偉大な魂の貌に刻まれた病の痕跡を辿り、その表現の本質を読み解く. 苦しみという名の深淵が、如何にして美しき刃（作品）へと研ぎ澄まされたのかを問う、心の法医学。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "疾患の深淵を、筆跡の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"苦悩が如何にして表現という名の美へと昇華されたかを問う。"
     ]
   },
   "example": "The academic study of Pathography illuminates the intricate structures of its field."
@@ -410466,11 +410466,11 @@ const WORDS = [
   "thinking": "「皮（Cutis）」の「下（Sub）」。表面的な貌に隠された、もう一つの真実の世界. そこには見えない傷（記憶）が沈殿し、解剖という名の刃を待っている。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "潜伏の深淵を、皮下の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"表面の下に隠された、真実の解剖を待つ静かなる澱み。"
     ]
   },
   "example": "The academic study of Subcutaneous illuminates the intricate structures of its field."
@@ -410486,11 +410486,11 @@ const WORDS = [
   "thinking": "「頭（Caput）」を「切り離す（De-）」ことの絶望. 個人の尊厳、その象徴たる貌を強引に分かち、存在の連続性を断ち切る. 一閃の後に残るのは、余りにも残酷な静止と、名もなき深淵。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "尊厳の深淵を、一閃の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"意志と身体を強制的に分かち、存在の物語を断ち切る絶望。"
     ]
   },
   "example": "The academic study of Decapitation illuminates the intricate structures of its field."
@@ -410506,11 +410506,11 @@ const WORDS = [
   "thinking": "「指（Daktylos）」を「見る（Skopein）」。一万人いようとも、決して重複することのない、指先に刻まれた迷宮（貌）。それは生まれる前から描かれた、個を絶対的に証明するための、数理的な一閃。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "迷宮の深淵を、指紋の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"指先に刻まれた唯一無二の文様、それは絶対的な個の証明。"
     ]
   },
   "example": "The academic study of Dactyloscopy illuminates the intricate structures of its field."
@@ -410526,11 +410526,11 @@ const WORDS = [
   "thinking": "「血（Haima）」の中に「毒（Toxikon）」が巡る、不吉な貌。生命を支えるはずの赤が、破壊の先兵へと変貌し、内側から深淵を侵食していく。静かに、しかし確実に命の灯を消し去る、見えない刃。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "死の深淵を、真実の刃で。",
+		"aftertaste": "浸透の深淵を、猛毒の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法医学・検視制度の極致へ。"
+				"生を支える赤が、内側から死という色の深淵を塗り広げる。"
     ]
   },
   "example": "The academic study of Toxemia illuminates the intricate structures of its field."
@@ -410546,11 +410546,11 @@ const WORDS = [
   "thinking": "「呼び出された者（Ekklesia）」の理. 孤独な一個人を越え、一つの大きな祈りの貌を形成する共同体. それは地上に現れた天国のシミュラークルであり、神との契約を守り抜くための情報の殻。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"孤独な個を越え、天上のシミュラークルを地上に築く器。"
     ]
   },
   "example": "The academic study of Ecclesiology illuminates the intricate structures of its field."
@@ -410566,11 +410566,11 @@ const WORDS = [
   "thinking": "「油注がれし者（Khristos）」の理. 神でありながら人間である、という絶対的な矛盾の貌. その一点において、天と地、無限と有限が交差し、私たちの救済という名の物語（ロゴス）が立ち上がる。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"神であり人であるという絶対的な一点より、救済という物語を編む。"
     ]
   },
   "example": "The academic study of Christology illuminates the intricate structures of its field."
@@ -410586,11 +410586,11 @@ const WORDS = [
   "thinking": "「空虚（Kenoma）」そのものの貌. 神の光が届かぬ、欠落した深淵. しかし、その絶対的な『無（貌）』を知ることで、私たちは逆に、一滴の恩寵という名の光の峻烈さを再発見する。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"光の届かぬ無の極地を知ることで、その峻烈な輝きを再発見する。"
     ]
   },
   "example": "The academic study of Kenoma illuminates the intricate structures of its field."
@@ -410606,11 +410606,11 @@ const WORDS = [
   "thinking": "「父（Pater）」たちの理. 教会の揺籃期（貌）において、彼らがどのように真理の刃を振るい、ドグマという名の強固な城壁を築き上げたのか. 知性の源流（深淵）を辿り、信仰の骨格を再構築する。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"信仰の揺籃期にドグマという名の牙城を築いた、父たちの理。"
     ]
   },
   "example": "The academic study of Patristics illuminates the intricate structures of its field."
@@ -410626,11 +410626,11 @@ const WORDS = [
   "thinking": "「臨在（Parousia）」そのもの. 歴史の彼方から再び現れ、すべての貌を白日の下に晒す絶対的な不在の終了. それは希望であると同時に、この世の秩序を根底から揺さぶる、審判の刃。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"歴史の彼方から現れ、この世の秩序を焼き尽くす審判の臨在。"
     ]
   },
   "example": "The academic study of Parousia illuminates the intricate structures of its field."
@@ -410646,11 +410646,11 @@ const WORDS = [
   "thinking": "「肯定（Kataphasis）」を通じて神を語る. この世界の美しさ、力、善（貌）を一つずつ積み上げ、至高の存在へと近付こうとする. それは光を賛美し、言葉という名の刃で天への階段を築く試み。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"全ての美を積み上げ、言葉という名の階段で天へと近付く試み。"
     ]
   },
   "example": "The academic study of Kataphatic illuminates the intricate structures of its field."
@@ -410666,11 +410666,11 @@ const WORDS = [
   "thinking": "「共に（Syn-）」「働く（Ergon）」。神の恩寵と、人間の自由な意志（貌）が手を取り合い、救済を成し遂げる. それは孤独な一、独善的な全、そのどちらも否定し、共生という名の調和（刃）を目指す理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"神の恩寵と人の手が手を取り合い、調和という名の奇跡を成す。"
     ]
   },
   "example": "The academic study of Synergism illuminates the intricate structures of its field."
@@ -410686,11 +410686,11 @@ const WORDS = [
   "thinking": "「ただ一人（Monos）」「働く（Ergon）」。極限まで追い詰められた人間には、最早何もできない. ただ神という名の絶対的な貌（意志）が、死せる魂を揺さぶり、救いへと導くという、峻烈な他力の深淵。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"足掻くことを止めた先に、ただ神という唯一の貌が魂を揺さぶる。"
     ]
   },
   "example": "The academic study of Monergism illuminates the intricate structures of its field."
@@ -410706,11 +410706,11 @@ const WORDS = [
   "thinking": "「墜落（Lapsus）」という名の過ちの「後（Sub）」で、神が救う者を選ぶ. 人間の貌が罪に汚れ、自力で立てなくなった後に差し出される、選別と慈悲の刃. それは、壊れた後に始まる、新たな理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"壊れた後の世界で、罪に汚れた貌の中に新たな光を見出す理。"
     ]
   },
   "example": "The academic study of Sublapsarian illuminates the intricate structures of its field."
@@ -410726,11 +410726,11 @@ const WORDS = [
   "thinking": "「法（Nomos）」に「抗う（Anti-）」自由. 信仰さえあれば、もはや地上の掟（貌）に縛られる必要はない、という危険なまでの悦楽. それ精神の極北において、秩序を焼き尽くし、純粋な霊性という名の深淵に飛び込む一閃。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"地上の掟を焼き尽くし、純粋な霊性という名の深淵に飛び込む。"
     ]
   },
   "example": "The academic study of Antinomian illuminates the intricate structures of its field."
@@ -410746,11 +410746,11 @@ const WORDS = [
   "thinking": "「見える（Dokein）」だけの幻. キリストの肉体は、人間の貌を借りた、神という名の圧倒的な光の影に過ぎない. 現実はただの被膜であり、その裏側にある真理の深淵を見よ、という挑発。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"現実に掛かる被膜を剥ぎ、その裏側にある真理の像を暴く挑発。"
     ]
   },
   "example": "The academic study of Docetism illuminates the intricate structures of its field."
@@ -410766,11 +410766,11 @@ const WORDS = [
   "thinking": "神の「貌（様態）」が時と場合によって移り変わる、という変奏曲. 父、子、霊. それは本質ではなく、舞台装置に応じて演じ分けられるドラマ. 移ろう貌の背後にある、唯一の沈黙を探る試み。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"移ろう貌のドラマを演じ分け、背後にある唯一の沈黙を肯定する。"
     ]
   },
   "example": "The academic study of Sabellianism illuminates the intricate structures of its field."
@@ -410786,11 +410786,11 @@ const WORDS = [
   "thinking": "「唯一の（Monos）」「本性（Physis）」。人性と神性が混じり合い、一つの強烈な貌（光）へと収束する. 多様な解釈という深淵を拒絶し、絶対的な一を目指す、熱烈な信仰の刃。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"多様な解釈を拒み、人性をも呑み込む一なる高みへと身を投ずる。"
     ]
   },
   "example": "The academic study of Monophysite illuminates the intricate structures of its field."
@@ -410806,11 +410806,11 @@ const WORDS = [
   "thinking": "神の貌と人間の貌、その二つを峻別し、決して混じり合わない独立した存在として認める. 救済という名のドラマを、二つの主役の対比として読み解く、論理的な深淵。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "神性の深淵を、祈りの刃で。",
+		"aftertaste": "神性の深淵を、祈りの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "神学・宗教哲学の極致へ。"
+				"交わることのない聖と俗、二つの貌の峻別によって理を護る。"
     ]
   },
   "example": "The academic study of Nestorian illuminates the intricate structures of its field."
@@ -410826,11 +410826,11 @@ const WORDS = [
   "thinking": "「法典（Codex）」を「作る（Facere）」。散らばった無数の約束事を、一つの強固な理（貌）へとまとめ上げる. それはカオスを秩序へと変貌させ、誰にでも見える正義の地図を、文明に提供する営み。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"無数の約束事を一編の法典へとまとめ、文明に秩序の地図を与える。"
     ]
   },
   "example": "The academic study of Codification illuminates the intricate structures of its field."
@@ -410846,11 +410846,11 @@ const WORDS = [
   "thinking": "「確信する（Certiorare）」ために. 下位の判断に潜む誤謬という名の貌（瑕疵）を見抜き、より高次元の理へと呼び戻す. 正義を一点の曇りもなき貌へと磨き上げるための、峻烈な監査の刃。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"下位の瑕疵を見抜き、高次元の理へと呼び戻すための峻烈なる審判。"
     ]
   },
   "example": "The academic study of Certiorari illuminates the intricate structures of its field."
@@ -410866,11 +410866,11 @@ const WORDS = [
   "thinking": "「我々は命じる（Mandamus）」。怠惰という名の眠りに落ちた公権力に対し、その本来の貌（義務）を思い出させる激しい一喝. 法が正しく機能することを、強制という名のエネルギーで担保する理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"眠れる公権力に職務という名の貌を思い出させる、法の一喝。"
     ]
   },
   "example": "The academic study of Mandamus illuminates the intricate structures of its field."
@@ -410886,11 +410886,11 @@ const WORDS = [
   "thinking": "「植え付ける（Emphyteuein）」ことの理. 荒れた大地という名の貌を、自らの労働（刃）で耕し、沃野へと変貌させる. その永い時間の投資を、法が保護（貌）し、権利として確定させる。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"理が及ぶ境界を画定し、無秩序な力に法という名の枠組みを課す。"
     ]
   },
   "example": "The academic study of Emphyteusis illuminates the intricate structures of its field."
@@ -410906,11 +410906,11 @@ const WORDS = [
   "thinking": "「隷属（Servitus）」する土地. ある土地が、別の土地のためにその能力（貌）を捧げる. 私有という名の壁を、公益あるいは他者の便宜という名の刃がそっと切り裂く、共生の理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"条文の隙間を埋め、個々の具体性に慈悲ある正義という貌を与える。"
     ]
   },
   "example": "The academic study of Servitude illuminates the intricate structures of its field."
@@ -410926,11 +410926,11 @@ const WORDS = [
   "thinking": "「下に（Hypo）」「置かれた（Tithemi）」権利. 実物は手元にありながら、所有という名の貌の底に、見えない義務という名の重力を忍ばせる. 約束が破られた時、その深淵から権利の刃が飛び出し、すべてを飲み込む。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"過去の判断に永劫の権威を授け、現在という時間を法で縛り固める。"
     ]
   },
   "example": "The academic study of Hypothec illuminates the intricate structures of its field."
@@ -410946,11 +410946,11 @@ const WORDS = [
   "thinking": "「警告する（Garnir）」ことの最終形. 債務という名の不実を、法的実力という名の刃で断ち切り、他者に属する富の貌を強引に手中へと引き寄せる. それは公平を取り戻すための、剥き出しの理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"損なわれゆく現状を凍らせ、回復不能な傷跡が付く前に理を止める。"
     ]
   },
   "example": "The academic study of Garnishment illuminates the intricate structures of its field."
@@ -410966,11 +410966,11 @@ const WORDS = [
   "thinking": "「（当事者の）間に（Inter）」「告げる（Dicere）」。混沌とした紛争の中に割って入り、法という名の貌を突き付けて静止を命じる. 力による衝突を、言葉の一進で未然に防ぐ、調停の理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"予期せぬ衝突が産んだ不均衡を、責任という名の等価交換で鎮める。"
     ]
   },
   "example": "The academic study of Interdict illuminates the intricate structures of its field."
@@ -410986,11 +410986,11 @@ const WORDS = [
   "thinking": "「すべて（Al）」が自らの「財産（Od）」であること. 王にも誰にも縛られず、ただ自分だけがその貌（土地）の主人であるという、究極の自由. 封建的な鎖を断ち切り、自律という名の深淵に立つ者の領土。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"むき出しの憎悪を言葉のルールで研ぎ澄まし、文明的なる闘争へと誘う。"
     ]
   },
   "example": "The academic study of Allodium illuminates the intricate structures of its field."
@@ -411006,11 +411006,11 @@ const WORDS = [
   "thinking": "「塞ぐ（Estoper）」こと. 一度口にした言葉（貌）を、後から自ら捻じ曲げることを許さない. 自らの欺瞞という名の深淵を、整合性という名の刃で封印される、信義誠実の極致。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"移ろいゆく記憶に『真実』という名の重石を載せ、法的な錨とする。"
     ]
   },
   "example": "The academic study of Estoppel illuminates the intricate structures of its field."
@@ -411026,11 +411026,11 @@ const WORDS = [
   "thinking": "「信頼（Fiducia）」の根源的な貌. 条文によってではなく、二人の人間の魂の誓いによって成立する、最も純粋な契約. 目に見える法を超え、良心という名の刃で真実を守り抜く理。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"法廷外で吐き出された言葉を、逃れ得ぬ証言として凍結し保全する。"
     ]
   },
   "example": "The academic study of Fiducia illuminates the intricate structures of its field."
@@ -411046,11 +411046,11 @@ const WORDS = [
   "thinking": "「託された（Legatum）」ものを受け取る者. 去りゆく者の意志（貌）を引き継ぎ、未来へと繋ぐ器. それは単なる富の移動ではなく、物語という名の深淵の継承。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "秩序の深淵を、正義の刃で。",
+		"aftertaste": "秩序の深淵を、正義の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "法学・法理学の極致へ。"
+				"託された物語の断片を、個人の生という名の深淵に受け入れる営み。"
     ]
   },
   "example": "The academic study of Legatee illuminates the intricate structures of its field."
@@ -411066,11 +411066,11 @@ const WORDS = [
   "thinking": "空間を領土化する規約。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "領土の深淵を、分割の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"空間を個々の領分へと峻別し、幾何学的な共生を可能にする掟。"
     ]
   },
   "example": "The academic study of Voronoi offers a unique perspective on technical and philosophical structures."
@@ -411086,11 +411086,11 @@ const WORDS = [
   "thinking": "集合間の峻烈な距離。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "距離の深淵を、位相の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"集合の間に潜む隔たりを測り、連続性と断絶の際を厳格に定義する。"
     ]
   },
   "example": "The academic study of Hausdorff offers a unique perspective on technical and philosophical structures."
@@ -411106,11 +411106,11 @@ const WORDS = [
   "thinking": "再帰する情報の欠落。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "連結の深淵を、多面の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"頂点と辺が織りなす構造の不変性を暴き、トポロジーの貌を固定する。"
     ]
   },
   "example": "The academic study of Sierpinski offers a unique perspective on technical and philosophical structures."
@@ -411126,11 +411126,11 @@ const WORDS = [
   "thinking": "無限の自己相似。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "制約の深淵を、乗数の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"限界という名の檻の中で、最も美しい極致（ポイント）を探る魔術。"
     ]
   },
   "example": "The academic study of Mandelbrot offers a unique perspective on technical and philosophical structures."
@@ -411146,11 +411146,11 @@ const WORDS = [
   "thinking": "空間の変化を捉える刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "経路の深淵を、正準の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"系の全エネルギーを座標と運動量という貌へ分解し、未来を記述する。"
     ]
   },
   "example": "The academic study of Jacobian offers a unique perspective on technical and philosophical structures."
@@ -411166,11 +411166,11 @@ const WORDS = [
   "thinking": "曲率の深淵を暴く数理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "曲率の深淵を、幾何の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"平坦な理性を超え、重なり合う多様体の襞に潜む真理を抉り出す。"
     ]
   },
   "example": "The academic study of Hessian offers a unique perspective on technical and philosophical structures."
@@ -411186,11 +411186,11 @@ const WORDS = [
   "thinking": "空間を動的に整理する。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "決定の深淵を、変換の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"複雑な揺らぎを周波数という貌へ翻訳し、因果律の等価性を証明する。"
     ]
   },
   "example": "The academic study of Quadtree offers a unique perspective on technical and philosophical structures."
@@ -411206,11 +411206,11 @@ const WORDS = [
   "thinking": "三次元の秩序という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "波動の深淵を、分解の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"不規則な旋律の中にも、純粋な正弦波の貌を見出す、響きの数理。"
     ]
   },
   "example": "The academic study of Octree offers a unique perspective on technical and philosophical structures."
@@ -411226,11 +411226,11 @@ const WORDS = [
   "thinking": "見えない貌を抽出する。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "確率の深淵を、分布の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"混沌とした誤差の果てに現れる、最も美しいベル状の均衡（貌）の理。"
     ]
   },
   "example": "The academic study of Isosurface offers a unique perspective on technical and philosophical structures."
@@ -411246,11 +411246,11 @@ const WORDS = [
   "thinking": "情報の累積を瞬時に。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "試行の深淵を、二元の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"成功と失敗、二つの貌の間を揺れながら、期待という名の未来を測る。"
     ]
   },
   "example": "The academic study of Fenwick offers a unique perspective on technical and philosophical structures."
@@ -411266,11 +411266,11 @@ const WORDS = [
   "thinking": "多次元を一次元へと。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "稀有の深淵を、生起の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"滅多に起きぬ奇跡や災厄が、統計という名の深淵に描く、不気味な均整。"
     ]
   },
   "example": "The academic study of Zorder offers a unique perspective on technical and philosophical structures."
@@ -411286,11 +411286,11 @@ const WORDS = [
   "thinking": "垂直性の極致。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "推移の深淵を、連鎖の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"過去を忘れ、現在の貌だけを頼りに、確率の森を彷徨い続ける理。"
     ]
   },
   "example": "The academic study of Orthocenter offers a unique perspective on technical and philosophical structures."
@@ -411306,11 +411306,11 @@ const WORDS = [
   "thinking": "均等な領土の中心。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "迷いの深淵を、発見の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"正解なき問いに対し、経験という名の野性で納得の解を削り出す。"
     ]
   },
   "example": "The academic study of Circumcenter offers a unique perspective on technical and philosophical structures."
@@ -411326,11 +411326,11 @@ const WORDS = [
   "thinking": "交差を拒む秩序。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "反復の深淵を、近似の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"同じ問いを繰り返し、少しずつ真実の貌へと近付いていく忍耐の道。"
     ]
   },
   "example": "The academic study of Planarity offers a unique perspective on technical and philosophical structures."
@@ -411346,11 +411346,11 @@ const WORDS = [
   "thinking": "強固な自己完結性。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "自己の深淵を、再帰の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"自分自身を映し出す入れ子構造の中に、無限という名の貌を立ち上げる。"
     ]
   },
   "example": "The academic study of Convexity offers a unique perspective on technical and philosophical structures."
@@ -411366,11 +411366,11 @@ const WORDS = [
   "thinking": "情報の疎通という貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "手順の深淵を、論理の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"問題という壁を、冷徹に仕組まれた手続きの歯車で粉砕し、突破する。"
     ]
   },
   "example": "The academic study of Visibilty offers a unique perspective on technical and philosophical structures."
@@ -411386,11 +411386,11 @@ const WORDS = [
   "thinking": "空間を解体する刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "必然の深淵を、決定の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"偶然の余地を排し、初期値という貌の中にすべての未来を封じ込める。"
     ]
   },
   "example": "The academic study of Tetrahedral offers a unique perspective on technical and philosophical structures."
@@ -411406,11 +411406,11 @@ const WORDS = [
   "thinking": "貌を磨き上げる理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "確率の深淵を、統計の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"予測不能な蠢きの中に、大きな数の法則という名の秩序を見出す。"
     ]
   },
   "example": "The academic study of Remeshing offers a unique perspective on technical and philosophical structures."
@@ -411426,11 +411426,11 @@ const WORDS = [
   "thinking": "宇宙の奏でる調べ。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "混迷の深淵を、解析の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"絡み合う要素の貌を解きほぐし、階層的な美しさへと還元する営み。"
     ]
   },
   "example": "The academic study of Curvilinear offers a unique perspective on technical and philosophical structures."
@@ -411446,11 +411446,11 @@ const WORDS = [
   "thinking": "孤独に駆ける情報の波。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "具体の深淵を、抽象の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"雑多な細部を削ぎ落とし、事物の核心となる骨格（貌）を抽出する。"
     ]
   },
   "example": "The academic study of Soliton offers a unique perspective on technical and philosophical structures."
@@ -411466,11 +411466,11 @@ const WORDS = [
   "thinking": "一瞬の閃きという。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "露出の深淵を、秘匿の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"内部の深淵を包み隠し、洗練された接口（貌）だけを世界に提示する。"
     ]
   },
   "example": "The academic study of Instanton offers a unique perspective on technical and philosophical structures."
@@ -411486,11 +411486,11 @@ const WORDS = [
   "thinking": "対称性を切り裂く異端。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "多形の深淵を、多態の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"一つの名前の下に、千の貌を使い分ける、情報の自在なる変奏。"
     ]
   },
   "example": "The academic study of Monopole offers a unique perspective on technical and philosophical structures."
@@ -411506,11 +411506,11 @@ const WORDS = [
   "thinking": "集団の震えという貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "血脈の深淵を、継承の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"先人が築いた理の貌を引き継ぎ、更なる高みへと物語を紡ぐ掟。"
     ]
   },
   "example": "The academic study of Plasmon offers a unique perspective on technical and philosophical structures."
@@ -411526,11 +411526,11 @@ const WORDS = [
   "thinking": "宇宙を膨らます意志。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "理念の深淵を、実体（インスタンス）の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"抽象の雲から一滴の現実を落とし、生きた貌として世界に召喚する。"
     ]
   },
   "example": "The academic study of Inflaton offers a unique perspective on technical and philosophical structures."
@@ -411546,11 +411546,11 @@ const WORDS = [
   "thinking": "情報の死という深淵。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "流転の深淵を、代謝の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"常に壊し、常に作り続ける。命という動的な貌を維持するための、嵐。"
     ]
   },
   "example": "The academic study of Decoherence offers a unique perspective on technical and philosophical structures."
@@ -411566,11 +411566,11 @@ const WORDS = [
   "thinking": "因果律を逆走する刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "結合の深淵を、分解の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"物質をバラバラに解体し、命という名のエネルギーを搾り出す峻烈。"
     ]
   },
   "example": "The academic study of Tachyon offers a unique perspective on technical and philosophical structures."
@@ -411586,11 +411586,11 @@ const WORDS = [
   "thinking": "自己同一の矛盾。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "断片の深淵を、同化の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"散らばった素材を一つの貌（組織）へと編み上げ、形を創造する悦楽。"
     ]
   },
   "example": "The academic study of Majorana offers a unique perspective on technical and philosophical structures."
@@ -411606,11 +411606,11 @@ const WORDS = [
   "thinking": "原初の震えを捉える。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "変動の深淵を、恒常の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"外部の嵐に抗い、内なる海を常に平穏な貌に保ち続ける、命の執着。"
     ]
   },
   "example": "The academic study of Aisthesis offers a unique perspective on technical and philosophical structures."
@@ -411626,11 +411626,11 @@ const WORDS = [
   "thinking": "無からの生成という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "濃淡の深淵を、浸透の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"見えない膜越しに潤いを受け渡し、均衡という名の貌を求める無言の力。"
     ]
   },
   "example": "The academic study of Poiesis offers a unique perspective on technical and philosophical structures."
@@ -411646,11 +411646,11 @@ const WORDS = [
   "thinking": "実践的な美の一歩。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "密集の深淵を、拡散の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"自明な偏りを脱ぎ捨て、均一という名の深淵へと溶け広がっていく理。"
     ]
   },
   "example": "The academic study of Phronesis offers a unique perspective on technical and philosophical structures."
@@ -411666,11 +411666,11 @@ const WORDS = [
   "thinking": "理想を内に宿す理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "停滞の深淵を、酵素の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"途方もない時間を一瞬に縮め、生命のドラマを加速させる触媒の美。"
     ]
   },
   "example": "The academic study of Entelechy offers a unique perspective on technical and philosophical structures."
@@ -411686,11 +411686,11 @@ const WORDS = [
   "thinking": "檻をこじ開ける革命。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "不変の深淵を、煽動の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"自らは姿を変えず、他者を激しく変容させる、静かなる支配。"
     ]
   },
   "example": "The academic study of Deterritorialize offers a unique perspective on technical and philosophical structures."
@@ -411706,11 +411706,11 @@ const WORDS = [
   "thinking": "不機嫌な文字の沈黙。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "基盤の深淵を、基質の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"変容の舞台となる沈黙の器、他者の貌を受け入れることで理を成す。"
     ]
   },
   "example": "The academic study of Ecriture offers a unique perspective on technical and philosophical structures."
@@ -411726,11 +411726,11 @@ const WORDS = [
   "thinking": "日常を奇妙に変貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "劇場の深淵を、主役の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"物語の嵐の中心に立ち、世界を自分の貌で塗り替えていく存在。"
     ]
   },
   "example": "The academic study of Ostranenie offers a unique perspective on technical and philosophical structures."
@@ -411746,11 +411746,11 @@ const WORDS = [
   "thinking": "理性の刃で断ち切る。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "葛藤の深淵を、対敵の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"主役という光に対し、最も美しい闇としての貌を対置させる鏡面。"
     ]
   },
   "example": "The academic study of Verfremdung offers a unique perspective on technical and philosophical structures."
@@ -411766,11 +411766,11 @@ const WORDS = [
   "thinking": "宇宙の相似形を見。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "型枠の深淵を、修辞の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"手垢のついた表現を逆手に取り、期待という名の深淵を裏切る様式美。"
     ]
   },
   "example": "The academic study of Isomorphism offers a unique perspective on technical and philosophical structures."
@@ -411786,11 +411786,11 @@ const WORDS = [
   "thinking": "記憶の地層という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "直喩の深淵を、寓意の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"別の物語を借りて真実を語り、世界の二重の貌を暴き出す記号の戯れ。"
     ]
   },
   "example": "The academic study of Palimpsest offers a unique perspective on technical and philosophical structures."
@@ -411806,11 +411806,11 @@ const WORDS = [
   "thinking": "情報のパッチワーク。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "現実の深淵を、虚構の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"物語が物語自体を語り出し、読者という貌を迷宮の中へと誘い込む。"
     ]
   },
   "example": "The academic study of Pastiche offers a unique perspective on technical and philosophical structures."
@@ -411826,11 +411826,11 @@ const WORDS = [
   "thinking": "限界を逆手に取った。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "文脈の深淵を、間テクストの刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"無数の書物が対話（貌）し合い、境界なきテクストの海を泳ぐ旅。"
     ]
   },
   "example": "The academic study of Bricolage offers a unique perspective on technical and philosophical structures."
@@ -411846,11 +411846,11 @@ const WORDS = [
   "thinking": "現実に勝る虚構。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "記号の深淵を、意味の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"世界をコードとして読み解き、記号の貌の裏に潜む恣意的な理を視る。"
     ]
   },
   "example": "The academic study of Hyperreality offers a unique perspective on technical and philosophical structures."
@@ -411866,11 +411866,11 @@ const WORDS = [
   "thinking": "行を跳び超える奔流。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "要素の深淵を、構造の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"個を殺し、それらを束ねる見えない網目（貌）こそが真理であると断ず。"
     ]
   },
   "example": "The academic study of Enjambment offers a unique perspective on technical and philosophical structures."
@@ -411886,11 +411886,11 @@ const WORDS = [
   "thinking": "交叉する意味の深淵。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "安定の深淵を、解体の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"中心と周縁の貌を逆転させ、絶対的な理を内部から自壊させる悦楽。"
     ]
   },
   "example": "The academic study of Chiasmus offers a unique perspective on technical and philosophical structures."
@@ -411906,11 +411906,11 @@ const WORDS = [
   "thinking": "異なる意味を結ぶ刃。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "解釈の深淵を、理解の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"未知の言葉と格闘し、己の地平を広げることで他者の貌と出会う営み。"
     ]
   },
   "example": "The academic study of Zeugma offers a unique perspective on technical and philosophical structures."
@@ -411926,11 +411926,11 @@ const WORDS = [
   "thinking": "繰り返される情報の貌。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "認識の深淵を、真理の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"私は何を知っているのか。知ることそのものの貌を、疑いの刃で剥ぐ。"
     ]
   },
   "example": "The academic study of Anaphora offers a unique perspective on technical and philosophical structures."
@@ -411946,11 +411946,11 @@ const WORDS = [
   "thinking": "終末への回帰という。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "存在の深淵を、存在論の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"在る、とは何か。虚無の際に立ち、存在という名の貌の輪郭をなぞる。"
     ]
   },
   "example": "The academic study of Epistrophe offers a unique perspective on technical and philosophical structures."
@@ -411966,11 +411966,11 @@ const WORDS = [
   "thinking": "一部に全を見る理。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "現象の深淵を、意識の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"世界を一旦括弧に入れ、ただ意識に現れる生きた貌の質感を見つめる。"
     ]
   },
   "example": "The academic study of Synecdoche offers a unique perspective on technical and philosophical structures."
@@ -411986,11 +411986,11 @@ const WORDS = [
   "thinking": "隣接する深淵の影。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "虚無の深淵を、実存の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"意味なき宇宙に投げ出され、自らの貌を自らの選択で刻み込む勇気。"
     ]
   },
   "example": "The academic study of Metonymy offers a unique perspective on technical and philosophical structures."
@@ -412006,11 +412006,11 @@ const WORDS = [
   "thinking": "二が織りなす一の。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "知の深淵を、二重（ヘンディアディス）の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"一を二つの貌で語り、表現という名の影を幾重にも重ねる美学。"
     ]
   },
   "example": "The academic study of Hendiadys offers a unique perspective on technical and philosophical structures."
@@ -412026,11 +412026,11 @@ const WORDS = [
   "thinking": "沈黙という名の雄弁。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "言語の深淵を、沈黙の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"言葉を敢えて断絶し、無限の残響の中に真実の貌を予感させる。"
     ]
   },
   "example": "The academic study of Aposiopesis offers a unique perspective on technical and philosophical structures."
@@ -412046,11 +412046,11 @@ const WORDS = [
   "thinking": "矛盾する貌の輝き。 虚空を切り裂く、知の刃（貌）。その深淵の淵において、私たちは理の再発見を果たす。",
   "part_of_speech": "noun",
   "era": "Academic",
-  "aftertaste": "知の深淵を、美の刃で。",
+		"aftertaste": "調和の深淵を、矛盾（オクシモロン）の刃で。",
   "deep_dive": {
     "roots": [],
     "points": [
-      "計算幾何学・理論物理学・美学の極致へ。"
+				"重なり得ぬ二つの貌を強引に結び、火花散る瞬間の臨界点を視る。"
     ]
   },
   "example": "The academic study of Oxymoron offers a unique perspective on technical and philosophical structures."
