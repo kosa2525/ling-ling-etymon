@@ -680,6 +680,16 @@ function renderArchive() {
             <div id="archive-stats" style="text-align:center; margin-bottom:2rem; font-size:0.9rem; color:var(--color-text-dim);">
                 <!-- Total count will be here -->
             </div>
+            <div style="display:flex; justify-content:center; margin-bottom: 2rem;">
+                <select id="archive-pos-filter" style="padding:0.8rem 1.5rem; background:var(--color-surface); border:1px solid var(--color-border); border-radius:100px; color:white; font-size:0.9rem; outline:none; appearance:none; cursor:pointer;">
+                    <option value="">All Parts of Speech</option>
+                    <option value="Noun" ${State.posFilter === 'Noun' ? 'selected' : ''}>Noun</option>
+                    <option value="Verb" ${State.posFilter === 'Verb' ? 'selected' : ''}>Verb</option>
+                    <option value="Adjective" ${State.posFilter === 'Adjective' ? 'selected' : ''}>Adjective</option>
+                    <option value="Adverb" ${State.posFilter === 'Adverb' ? 'selected' : ''}>Adverb</option>
+                    <option value="Prefix" ${State.posFilter === 'Prefix' ? 'selected' : ''}>Prefix / Suffix</option>
+                </select>
+            </div>
             <div class="alphabet-bar" style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom: 3rem; justify-content:center;">
                 ${'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(l => `
                     <button class="index-letter ${State.letterFilter === l ? 'active' : ''}" onclick="State.letterFilter='${l}';State.searchFilter=null;renderArchive()">${l}</button>
@@ -701,6 +711,14 @@ function renderArchive() {
             updateArchiveGrid();
         };
     }
+    
+    const posFilterElem = document.getElementById('archive-pos-filter');
+    if (posFilterElem) {
+        posFilterElem.onchange = (e) => {
+            State.posFilter = e.target.value;
+            updateArchiveGrid();
+        };
+    }
 }
 
 function updateArchiveGrid() {
@@ -719,13 +737,20 @@ function updateArchiveGrid() {
 
     if (State.searchFilter) {
         const query = State.searchFilter.toLowerCase();
-        list = list.filter(w =>
-            (w.word && w.word.toLowerCase().includes(query)) ||
-            (w.meaning && w.meaning.toLowerCase().includes(query)) ||
-            (w.etymology && w.etymology.breakdown && Array.isArray(w.etymology.breakdown) && w.etymology.breakdown.some(b => b.text && b.text.toLowerCase().includes(query)))
-        );
+        list = list.filter(w => {
+            if (w.word && w.word.toLowerCase().includes(query)) return true;
+            if (w.meaning && w.meaning.toLowerCase().includes(query)) return true;
+            if (w.etymology && Array.isArray(w.etymology) && w.etymology.some(e => typeof e === 'string' && e.toLowerCase().includes(query))) return true;
+            if (w.etymology && w.etymology.breakdown && Array.isArray(w.etymology.breakdown) && w.etymology.breakdown.some(b => b.text && b.text.toLowerCase().includes(query))) return true;
+            if (w.deep_dive && w.deep_dive.roots && Array.isArray(w.deep_dive.roots) && w.deep_dive.roots.some(r => r.term && r.term.toLowerCase().includes(query))) return true;
+            return false;
+        });
     } else if (State.letterFilter) {
         list = list.filter(w => w.word.toUpperCase().startsWith(State.letterFilter));
+    }
+    
+    if (State.posFilter) {
+        list = list.filter(w => w.part_of_speech && w.part_of_speech.toLowerCase().includes(State.posFilter.toLowerCase()));
     }
 
     const statsElem = document.getElementById('archive-stats');
@@ -738,16 +763,16 @@ function updateArchiveGrid() {
     }
 
     grid.innerHTML = list.map(w => `
-        <div class="archive-item" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:space-between; transition:all 0.3s ease; cursor:pointer;">
-            <div style="text-align: left;">
+        <div class="archive-item" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:flex-start; transition:all 0.3s ease; cursor:pointer;">
+            <div style="text-align: left; flex-grow:1;">
                 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:0.5rem;">
                     <span style="font-weight:700; font-size:1.5rem; color:var(--color-accent); letter-spacing:-0.02em;">${w.word}</span>
                     ${w.part_of_speech ? `<span style="font-size:0.7rem; font-style:italic; opacity:0.5; border:1px solid rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">${w.part_of_speech}</span>` : ''}
                 </div>
                 <div style="font-size:0.9rem; color:var(--color-text); font-weight:500; margin-bottom:0.8rem;">${w.meaning || ''}</div>
-                <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept?.ja || w.concept || ''}</div>
+                <div style="font-size:0.85rem; opacity:0.6; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${w.core_concept?.ja || w.concept || w.aftertaste || ''}</div>
             </div>
-            <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem; margin-top:auto;">
+            <div style="font-size:0.75rem; opacity:0.4; text-align:right; border-top: 1px solid rgba(255,255,255,0.05); padding-top:0.8rem; margin-top:1rem;">
                 by <b style="opacity:1;">${w.author || 'etymon_official'}</b>
             </div>
         </div>
