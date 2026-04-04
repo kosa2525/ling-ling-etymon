@@ -763,8 +763,8 @@ function updateArchiveGrid() {
     }
 
     grid.innerHTML = list.map(w => `
-        <div class="archive-item" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:flex-start; transition:all 0.3s ease; cursor:pointer;">
-            <div style="text-align: left; flex-grow:1;">
+        <div class="archive-item" onclick="State.todayWord=(typeof WORDS !== 'undefined') ? WORDS.find(x=>x.id==='${w.id}') : null;navigate('today')" style="position:relative; padding:1.8rem; border:1px solid var(--color-border); border-radius:20px; background:var(--color-surface); min-height:180px; display:flex; flex-direction:column; justify-content:flex-start; align-items:stretch; transition:all 0.3s ease; cursor:pointer;">
+            <div style="text-align: left; flex-grow:1; width:100%;">
                 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:0.5rem;">
                     <span style="font-weight:700; font-size:1.5rem; color:var(--color-accent); letter-spacing:-0.02em;">${w.word}</span>
                     ${w.part_of_speech ? `<span style="font-size:0.7rem; font-style:italic; opacity:0.5; border:1px solid rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px;">${w.part_of_speech}</span>` : ''}
